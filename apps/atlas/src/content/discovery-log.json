@@ -2308,6 +2308,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-24T18:04:24.984Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 1 new uncovered headlines"
+    },
+    {
       "at": "2026-10-24T18:01:50.178Z",
       "screened": 0,
       "accepted": [],
@@ -3748,93 +3757,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-23T03:59:38.111Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Trump says Musk restored Ukraine's Starlink access",
-          "reason": "It rests on a single claim by Trump about a private company's service, with no stated government decision, date or measurable cross-border effect.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "7.0 earthquake in Tibet kills 16",
-          "reason": "A natural disaster with no state-driven or cross-border effect.",
-          "headlines": 4,
-          "publishers": 3
-        },
-        {
-          "title": "Unrest and police clashes in Tunis",
-          "reason": "The headline gives no detail on scale or on any movement contesting state power, and no cross-border channel is shown.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Poland abortion-access protests",
-          "reason": "A domestic social protest with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Wealthy Chinese move money to US banks as Beijing widens its tax net",
-          "reason": "It is a trend report on private capital flows, not a dated decision or event.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "El Salvador launches rescue operation in Haiti",
-          "reason": "A small operation to free four hostages, with limited regional scale.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "ICC wins the Sakharov Prize",
-          "reason": "It is a symbolic award that decides no state action.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Ecuador opposition leader Luisa Gonzalez arrested",
-          "reason": "A domestic legal case with no clear cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Trump hints at new strikes on Iran",
-          "reason": "Live coverage of the US-Israel war on Iran, which is already an event on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Russia agrees to new peace talks as Ukraine is struck; US citizen freed after Trump envoy meets Putin",
-          "reason": "Part of the ongoing Russia-Ukraine summit diplomacy already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Lyon and Marseille ban Saturday protests",
-          "reason": "This is a development in France's autumn of unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Trump's economic approval hits a record low before the midterms",
-          "reason": "This is midterm polling, which belongs to the existing midterms event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
