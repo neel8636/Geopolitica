@@ -280,6 +280,77 @@
         "headlines": 3,
         "publishers": 3
       }
+    },
+    {
+      "id": "ukraine-starlink-restrictions-2026",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "type": "security",
+      "date": "2026-10-24",
+      "status": "developing",
+      "region": "Ukraine",
+      "lat": 49,
+      "lon": 32,
+      "countries": [
+        "UA",
+        "US"
+      ],
+      "summary": "Ukraine said Starlink was still restricted after Trump said the limits had been lifted, then said on 24 October the connection was restored and 'now stable'. Satellite links underpin Ukrainian military communications, so US control over access gives Washington leverage over the war and over how much European partners must fill the gap.",
+      "severity": 3,
+      "keywords": [
+        "starlink",
+        "ukraine starlink",
+        "satellite internet",
+        "starlink restrictions",
+        "starlink restored",
+        "network limits",
+        "trump starlink",
+        "ukraine military communications",
+        "spacex"
+      ],
+      "links": [
+        {
+          "to": "ukraine-summit-diplomacy",
+          "kind": "shares_driver",
+          "why": "Both show US leverage over Ukraine's wartime position, from intelligence sharing to satellite access, shaped by Washington's shifting attention and backing.",
+          "via": "US support for Kyiv's war effort",
+          "driver": "us-attention-backing"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Ukraine says Starlink connection 'now stable' after network limits",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "publisher": "BBC World",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "publisher": "BBC Europe",
+          "date": "2026-10-23"
+        }
+      ],
+      "news": {
+        "q": "Starlink Ukraine OR \"Starlink\" restrictions Kyiv",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-10-24T22:01:56.455Z",
+        "reason": "A US decision on satellite connectivity directly affects Ukraine's military communications, with the dispute unfolding now.",
+        "channel": "military communications and arms-related technology supply",
+        "reaches": [
+          "UA",
+          "US"
+        ],
+        "headlines": 3,
+        "publishers": 3
+      }
     }
   ]
 }
