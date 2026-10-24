@@ -2308,6 +2308,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-24T20:38:53.320Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 6 new uncovered headlines"
+    },
+    {
       "at": "2026-10-24T20:01:53.348Z",
       "screened": 0,
       "accepted": [],
@@ -3677,86 +3686,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-23T06:59:40.541Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "EU enters winter with record-low gas reserves",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Ebola outbreak spreads from DR Congo to Uganda, Kenya and Nigeria",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Saab orders triple after Gripen deal with Ukraine",
-          "reason": "This is a company earnings report; the state-level Gripen deal is only background.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Magnitude-7 earthquake hits Tibet",
-          "reason": "It is a natural disaster with local casualties and no clear cross-border or policy ripple.",
-          "headlines": 6,
-          "publishers": 5
-        },
-        {
-          "title": "UK-EU youth mobility scheme may be delayed",
-          "reason": "It is speculation about timing with no dated decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Trump says Musk restored Ukraine's Starlink access",
-          "reason": "It is a claim about a private company's service with no confirmed state decision.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Albanian student protests and parliament scuffle",
-          "reason": "It is domestic unrest with no clear cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "ICC wins Sakharov Prize",
-          "reason": "A prize award decides nothing in policy terms.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-          "reason": "This is part of the ongoing Russia-Ukraine summit diplomacy already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Lyon and Marseille ban Saturday protests",
-          "reason": "This is part of France's autumn of unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Trump's economic approval hits a record low before the midterms",
-          "reason": "This belongs to the US midterms event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
