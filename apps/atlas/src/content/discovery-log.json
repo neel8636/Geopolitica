@@ -2356,6 +2356,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-24T22:44:28.380Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 2 new uncovered headlines"
+    },
+    {
       "at": "2026-10-24T22:01:56.455Z",
       "screened": 127,
       "accepted": [
@@ -3858,15 +3867,6 @@
       ],
       "retired": [],
       "skipped": ""
-    },
-    {
-      "at": "2026-10-23T08:59:52.141Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 120 min ago"
     }
   ]
 }
