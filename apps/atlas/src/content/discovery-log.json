@@ -2724,6 +2724,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-25T19:02:57.233Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 6 new uncovered headlines"
+    },
+    {
       "at": "2026-10-25T17:43:18.721Z",
       "screened": 100,
       "accepted": [
@@ -4346,108 +4355,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 4 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-24T04:00:59.454Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Rubio urges Cubans to work with the CIA to topple their government",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Pentagon labels Confucius Institutes and China-backed campus centers a security threat",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Gunmen kill seven at church funeral in Jordan",
-          "reason": "It is a local attack with no clear state actor or cross-border channel.",
-          "headlines": 4,
-          "publishers": 4
-        },
-        {
-          "title": "Typhoon Champi hits Taiwan",
-          "reason": "It is a weather event with no cross-border effect at the required scale.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Argentina drops Milei crypto fraud probe",
-          "reason": "It is a domestic court matter with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Syrians protest Israeli incursions near the Golan",
-          "reason": "The headline reports a protest, not a new decision or military move with a clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US designates helium a critical material",
-          "reason": "It is a modest policy designation, and the Europe supply squeeze is not clearly caused by it.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "DoJ orders California to set aside 'likely' noncitizen ballots",
-          "reason": "This is a domestic dispute over the US midterm vote count and belongs to the midterms event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "White House lifts tariffs on some Canadian goods",
-          "reason": "This is a development in the ongoing US-Canada tariff war.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-canada-trade-war"
-        },
-        {
-          "title": "Trump floats another strike on Iran as forces move to the Mideast",
-          "reason": "This is a continuation of the US-Israel war on Iran.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Qatar deal to buy US natural gas",
-          "reason": "The story is about how the Iran war has redrawn energy markets, which the Gulf energy shock event already covers.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "EU states wrangle over the long-term budget",
-          "reason": "This is part of the EU budget negotiations already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "eu-budget-2028-2034"
-        },
-        {
-          "title": "French bond stress and euro crisis signals",
-          "reason": "This is the French bond stress event already on the map.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
-          "reason": "This is part of the Ukraine summit diplomacy event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
