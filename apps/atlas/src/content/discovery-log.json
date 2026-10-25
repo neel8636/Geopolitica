@@ -2788,6 +2788,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-25T22:27:46.353Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 2 new uncovered headlines"
+    },
+    {
       "at": "2026-10-25T22:03:10.696Z",
       "screened": 0,
       "accepted": [],
@@ -4392,126 +4401,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 5 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-24T08:01:12.124Z",
-      "screened": 140,
-      "accepted": [
-        {
-          "id": "rubio-cia-cuba-appeal-2026",
-          "title": "Rubio urges Cubans to partner with CIA for political change",
-          "reason": "The US Secretary of State openly calls for regime change in Cuba, which escalates US policy toward Havana and could affect sanctions and migration to the US.",
-          "channel": "US sanctions and pressure on Cuba, possible migrant flows",
-          "reaches": [
-            "US",
-            "CU"
-          ],
-          "headlines": 3,
-          "publishers": 3
-        }
-      ],
-      "rejected": [
-        {
-          "title": "Pentagon labels Confucius Institutes a security threat",
-          "reason": "It is a largely symbolic designation about campus centers, with no clear flow of money, goods or people across borders.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Gunmen kill seven at church funeral in Jordan",
-          "reason": "It is a local shooting with no stated state-level or cross-border effect.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "UN food aid cuts hit displaced West Bank Palestinians",
-          "reason": "The headline gives no dated decision and no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Typhoon Champi hits Taiwan",
-          "reason": "It is a weather disaster with no stated effect abroad.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Magnitude-7 earthquake in Tibet",
-          "reason": "It is a natural disaster with no stated cross-border or policy effect.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Argentina drops Milei crypto probe",
-          "reason": "It is a domestic court matter with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Fire at Eagle's Nest",
-          "reason": "It is a local incident with no geopolitical angle.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "US designates helium a critical material",
-          "reason": "It is a narrow designation, and the headline gives no clear policy action or cross-border flow.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Starlink limits and Saab Gripen orders for Ukraine",
-          "reason": "The Starlink item is a dispute over restrictions and the Saab item is company order news; neither is a clear state decision.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Trump threatens another strike on Iran; Gulf energy realignment",
-          "reason": "These are further developments in the US-Israel war on Iran and its effect on Gulf energy markets.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Trump administration election disputes in California and Alaska",
-          "reason": "Federal moves over ballots and certification belong to the midterms event already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "EU budget wrangling",
-          "reason": "This is the ongoing EU budget negotiation.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "eu-budget-2028-2034"
-        },
-        {
-          "title": "French bonds stress test",
-          "reason": "This is the same French bond stress already mapped.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Russia agrees to new peace talks as strikes hit Ukraine",
-          "reason": "It is part of the Ukraine summit diplomacy event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Lebanese doubt Israeli election will change anything",
-          "reason": "It is reaction to the upcoming Israeli election, which is already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "israel-election-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
