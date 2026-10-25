@@ -351,6 +351,75 @@
         "headlines": 3,
         "publishers": 3
       }
+    },
+    {
+      "id": "burnham-eu-free-movement-talks-2026",
+      "title": "UK PM Burnham seeks talks on EU freedom of movement return",
+      "type": "diplomacy",
+      "date": "2026-10-25",
+      "status": "developing",
+      "region": "United Kingdom",
+      "lat": 51.5034,
+      "lon": -0.1276,
+      "countries": [
+        "GB",
+        "FR",
+        "DE",
+        "IE",
+        "PL"
+      ],
+      "summary": "UK Prime Minister Andy Burnham says he wants an 'honest discussion' about returning to EU freedom of movement, and Angela Rayner has backed the call for a debate. It is so far only a call for talks, but any move would reshape UK-EU migration, labour flows and relations with member states such as France, Germany, Ireland and Poland.",
+      "severity": 3,
+      "keywords": [
+        "burnham",
+        "freedom of movement",
+        "free movement",
+        "rayner",
+        "uk-eu",
+        "brexit",
+        "eu migration",
+        "honest discussion",
+        "labour mobility",
+        "downing street"
+      ],
+      "links": [],
+      "sources": [
+        {
+          "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+          "publisher": "The Guardian World",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
+          "url": "https://www.aljazeera.com/news/2026/10/25/uk-pm-burnham-says-he-wants-to-discuss-a-return-to-eu-freedom-of-movement?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+          "publisher": "The Guardian World",
+          "date": "2026-10-24"
+        }
+      ],
+      "news": {
+        "q": "Burnham \"freedom of movement\" OR \"free movement\" EU",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-10-25T14:16:07.161Z",
+        "reason": "A sitting UK prime minister, backed by Rayner, is reopening free movement with the EU, which would change UK-EU migration and labour policy, although so far he only wants a discussion.",
+        "channel": "labour and migrant flows between the UK and EU, plus UK-EU relations",
+        "reaches": [
+          "FR",
+          "DE",
+          "IE",
+          "PL"
+        ],
+        "headlines": 3,
+        "publishers": 2
+      }
     }
   ]
 }
