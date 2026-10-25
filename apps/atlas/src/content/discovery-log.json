@@ -2356,6 +2356,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-25T00:02:06.205Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-24T22:44:28.380Z",
       "screened": 0,
       "accepted": [],
@@ -3730,143 +3739,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-23T09:59:54.200Z",
-      "screened": 140,
-      "accepted": [
-        {
-          "id": "ebola-drc-nigeria-kenya-2026",
-          "title": "Ebola spreads from DR Congo to Nigeria and Kenya, WHO warns",
-          "reason": "WHO calls the outbreak 'complex' after cross-border spread, with patients possibly crossing paths at Uganda's airport, which will drive health screening and travel decisions in several states.",
-          "channel": "infected travellers, border and airport health controls, WHO emergency response",
-          "reaches": [
-            "NG",
-            "KE",
-            "UG"
-          ],
-          "headlines": 3,
-          "publishers": 3
-        }
-      ],
-      "rejected": [
-        {
-          "title": "Israel closes the West Bank after Hebron gunfight",
-          "reason": "It is a security closure after an attack with no clear channel into another country's decisions, money, goods or people across a border.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Ukraine says Starlink still restricted despite Trump's claim",
-          "reason": "It is a dispute over a company's service with no confirmed government decision and an unclear cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Saab orders triple after Gripen deal with Ukraine",
-          "reason": "It is company earnings news, with no new state decision reported.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Albania's student protests and parliament scuffle",
-          "reason": "It is domestic unrest with no identified cross-border channel.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Anti-migrant protests and killing of a foreigner in South Africa",
-          "reason": "It is mob violence and local protest, with no state decision or cross-border channel reported.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "EU enters winter with record-low gas reserves, IEA warns",
-          "reason": "It is a warning rather than a decision or event.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Magnitude-7 earthquake in Tibet",
-          "reason": "It is a natural disaster with no reported effect abroad.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Typhoon Champi shuts Taiwan",
-          "reason": "It is weather disruption with no state or policy angle and no reported effect abroad.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "PHP security flaw triggers global patching",
-          "reason": "It is a technical vulnerability with no state actor driving it or a clear cross-border policy effect.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Wealthy Chinese shift offshore money to US banks",
-          "reason": "It is a trend report with no dated decision or event.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Merz says Germany faces intensive espionage after suspected Russian spy arrest",
-          "reason": "It is a routine statement tied to a single arrest, with no decision attached.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Italian trucker protests halt mozzarella production",
-          "reason": "It is a sectoral protest with a small economic loss and no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Company and market news: Volvo Cars, Nvidia, AI-spending stock fears",
-          "reason": "It is company and market news with no state or policy angle.",
-          "headlines": 5,
-          "publishers": 2
-        },
-        {
-          "title": "Trump remarks: third term, BBC lawsuit, renaming the Atlantic",
-          "reason": "These are commentary, a court case or loose remarks that decide nothing.",
-          "headlines": 4,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "NYT: fresh US strikes on Iran planned after midterms",
-          "reason": "This is a new development in the US-Israel war on Iran already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Russia agrees to new peace talks as Ukraine is struck",
-          "reason": "It is part of the Ukraine peace-talks diplomacy already mapped.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Trump's economic approval hits record low before midterms",
-          "reason": "It is polling context for the midterms event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "France flashing euro crisis signals",
-          "reason": "This is analysis of the French bond stress already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
