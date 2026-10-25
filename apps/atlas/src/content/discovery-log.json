@@ -2400,6 +2400,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-25T03:02:17.388Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 2 new uncovered headlines"
+    },
+    {
       "at": "2026-10-25T02:02:15.770Z",
       "screened": 126,
       "accepted": [],
@@ -3878,75 +3887,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 64 min ago"
-    },
-    {
-      "at": "2026-10-23T13:00:04.052Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "South Africa anti-migrant protests after a foreigner is killed",
-          "reason": "These are localized mob violence and protests with no clear state decision or concrete cross-border channel yet; it was already rejected earlier.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Gunmen kill seven at a church funeral in Jordan",
-          "reason": "This is a local shooting with no stated state-level or cross-border effect so far.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Magnitude-7 earthquake in Tibet kills at least 16",
-          "reason": "This is a natural disaster with no cross-border money, goods or people channel and no policy decision.",
-          "headlines": 4,
-          "publishers": 3
-        },
-        {
-          "title": "Ukraine says Starlink is still restricted after Trump says limits were lifted",
-          "reason": "This is a disputed claim about a company service, not a confirmed decision, and the ripple is unclear; it was already rejected earlier.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Iran electronics prices soar under fees and US sanctions",
-          "reason": "This is a consumer-price feature with no new sanctions decision.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "US plans fresh Iran strikes after midterms; reinforcements move to Mideast",
-          "reason": "This is the ongoing US-Iran war and Gulf buildup already covered on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "France mobilises 70,000 security forces for Saturday protests",
-          "reason": "This is part of France's autumn of unrest, already on the map.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Russia agrees to new peace talks as Ukraine is hit by strikes",
-          "reason": "This belongs to the Russia-Ukraine summit diplomacy event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Trump's economic approval hits a record low before the midterms",
-          "reason": "This is polling context for the US midterms event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
