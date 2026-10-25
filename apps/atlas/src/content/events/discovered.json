@@ -420,6 +420,75 @@
         "headlines": 3,
         "publishers": 2
       }
+    },
+    {
+      "id": "machado-returns-venezuela-2026",
+      "title": "Machado returns to Venezuela after 10 months in exile",
+      "type": "diplomacy",
+      "date": "2026-10-25",
+      "status": "developing",
+      "region": "Venezuela",
+      "lat": 10.48,
+      "lon": -66.9,
+      "countries": [
+        "VE",
+        "US"
+      ],
+      "summary": "Opposition leader María Corina Machado has returned to Venezuela after 10 months in exile, entering a country run by an interim government under US-backed rule. Her return reshapes the political transition and the US stance toward Caracas, with consequences for oil investment and migrant flows.",
+      "severity": 3,
+      "keywords": [
+        "machado",
+        "maría corina machado",
+        "maria corina machado",
+        "venezuela opposition",
+        "venezuela exile",
+        "caracas",
+        "delcy rodríguez",
+        "venezuela transition",
+        "venezuelan opposition leader"
+      ],
+      "links": [
+        {
+          "to": "venezuela-oil-reopening",
+          "kind": "affects",
+          "why": "The main opposition leader's return changes the political risk around the interim government that is signing oil deals with US and European companies.",
+          "via": "political stability and investor confidence"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
+          "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+          "publisher": "France 24",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "María Corina Machado back in Venezuela after 10 months in exile",
+          "url": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
+          "publisher": "Euronews",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+          "publisher": "NPR World",
+          "date": "2026-10-25"
+        }
+      ],
+      "news": {
+        "q": "\"Machado\" OR \"María Corina Machado\" OR \"Machado regresa\" Venezuela",
+        "edition": "US"
+      },
+      "auto": {
+        "addedAt": "2026-10-25T17:43:18.721Z",
+        "reason": "The return of the main opposition leader to a country under US-backed interim rule reshapes its political transition and the US stance toward it.",
+        "channel": "political transition affecting US policy, oil investment and migrant flows",
+        "reaches": [
+          "US"
+        ],
+        "headlines": 3,
+        "publishers": 3
+      }
     }
   ]
 }
