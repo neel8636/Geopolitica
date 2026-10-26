@@ -36,6 +36,12 @@ Or with Docker: `docker compose up --build`.
 
 Tests: `npm test` runs the engine's pytest suite. `npm run build` type-checks and builds the web app.
 
+Lanes (enterprise `/lanes`): pick a lane by sea, road, air or rail and compare every standard route
+between the two places once today's events are counted. The route library is
+`apps/atlas/src/content/lanes.ts`; the hourly pipeline step `npm run lanetags` asks Claude which
+route points each event disrupts (`lane-tags.json`, published as `/lanes.json`); scoring is
+`laneRisk.ts`. Tests: `cd apps/atlas && npm run test:lanes`.
+
 ## Where to open it
 
 | Edition | Link | How it gets there |

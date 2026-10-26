@@ -35,6 +35,13 @@ const DOORS = [
     cta: "Open the radar",
   },
   {
+    href: "/lanes",
+    kicker: "Check your routes",
+    title: "Lanes",
+    body: "Pick a lane by sea, road, air or rail. Every standard route is checked against today's events: chance of disruption, expected delay and cost, and what to do.",
+    cta: "Compare routes",
+  },
+  {
     href: "/enterprise",
     kicker: "Run it on your company",
     title: "Company impact report",
@@ -58,7 +65,7 @@ export default function Start() {
           engine on your own supply chain.
         </p>
 
-        <div className="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-4">
+        <div className="mt-10 grid gap-5 md:grid-cols-2 xl:grid-cols-3">
           {DOORS.map((d) => (
             <Link key={d.href} href={d.href} className={`group flex flex-col rounded-lg border p-5 no-underline hover:border-teal ${"primary" in d && d.primary ? "border-teal bg-teal-2" : "border-line bg-paper-2"}`}>
               <p className="signpost">{d.kicker}</p>

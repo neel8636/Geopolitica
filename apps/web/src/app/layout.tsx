@@ -46,6 +46,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <Link href="/changes" className="no-underline hover:underline">
                 Change radar
               </Link>
+              <Link href="/lanes" className="no-underline hover:underline">
+                Lanes
+              </Link>
               <Link
                 href="/enterprise"
                 className="rounded-sm bg-teal px-3 py-1.5 text-paper no-underline hover:opacity-90"

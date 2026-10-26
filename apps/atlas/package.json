@@ -16,7 +16,9 @@
     "sync:shared": "node scripts/sync-shared.mjs",
     "explain": "node --no-warnings scripts/explain.mjs",
     "inplain": "node --no-warnings scripts/inplain.mjs",
-    "discover": "node --no-warnings scripts/discover.mjs"
+    "discover": "node --no-warnings scripts/discover.mjs",
+    "lanetags": "node --no-warnings scripts/lanetags.mjs",
+    "test:lanes": "node --no-warnings --test test/lanes.test.mjs"
   },
   "dependencies": {
     "@fontsource-variable/newsreader": "^5.3.0",

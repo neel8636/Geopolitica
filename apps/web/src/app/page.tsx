@@ -15,6 +15,7 @@ const TOOLS = [
   { href: "/start", title: "Start here", body: "What the enterprise edition does, in one page." },
   { href: "/get-started", title: "Get started", body: "Six steps, about half an hour, ending with your own supplier list." },
   { href: "/dossiers", title: "Dossiers", body: "Each event as a layered report you can read at your depth." },
+  { href: "/lanes", title: "Lanes", body: "Your routes by sea, road, air or rail: which costs more once today's events are counted, and what to do." },
   { href: "/changes", title: "Change radar", body: "Dated regulations, tariffs and strikes, sorted by when they bite." },
   { href: "/enterprise", title: "Company impact report", body: "Your suppliers, parts, lanes and sites: a brief for every department." },
 ];

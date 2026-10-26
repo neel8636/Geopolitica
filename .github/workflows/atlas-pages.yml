@@ -30,6 +30,9 @@ on:
       max_plain:
         description: "Events to (re)write plain-words summaries for in this run"
         default: "8"
+      max_lanes:
+        description: "Events to check against shipping routes, borders, airspace and rail corridors in this run"
+        default: "8"
 
 permissions:
   contents: write
@@ -92,6 +95,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run fuel || echo "fuel had failures; publishing what succeeded"
 
+      - name: Which routes each event disrupts (ports, canals, borders, airspace, rail)
+        if: env.HAS_AUTH == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LANES_MAX: ${{ github.event.inputs.max_lanes || '8' }}
+        run: npm run lanetags -- --max "$LANES_MAX" || echo "lane checks had failures; publishing what succeeded"
+
       - name: Explain new connections in plain words
         if: env.HAS_AUTH == 'true'
         env:
@@ -125,7 +135,7 @@ jobs:
         run: |
           git config user.name "geopolitica-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add src/content/wire.json src/content/updates.json src/content/updates-errors.json src/content/fuel.json src/content/fuel-errors.json src/content/explain.json src/content/explain-public.json src/content/plain.json src/content/inplain.json src/content/events/discovered.json src/content/discovery-log.json src/content/inplain-errors.json src/content/dossiers
+          git add src/content/wire.json src/content/updates.json src/content/updates-errors.json src/content/fuel.json src/content/fuel-errors.json src/content/lane-tags.json src/content/lane-tags-errors.json src/content/explain.json src/content/explain-public.json src/content/plain.json src/content/inplain.json src/content/events/discovered.json src/content/discovery-log.json src/content/inplain-errors.json src/content/dossiers
           if git diff --cached --quiet -- src/content/dossiers src/content/events/discovered.json; then echo "reports=false" >> "$GITHUB_OUTPUT"; else echo "reports=true" >> "$GITHUB_OUTPUT"; fi
           if git diff --cached --quiet; then
             echo "no content changes"
