@@ -2940,6 +2940,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-26T08:08:24.874Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 6 new uncovered headlines"
+    },
+    {
       "at": "2026-10-26T07:03:47.821Z",
       "screened": 81,
       "accepted": [],
@@ -4508,133 +4517,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 1 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-24T17:01:41.628Z",
-      "screened": 138,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Turkey-Libya maritime boundary deal angers Greece and the EU",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Kim Jong-un crosses newly opened bridge into China",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Gunmen kill mourners at church funeral in Jordan",
-          "reason": "It is a local mass shooting with no cross-border or policy ripple shown so far.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Starlink limits in Ukraine",
-          "reason": "This is a company network issue with no clear state decision or dated policy behind it.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Fire at Eagle's Nest retreat",
-          "reason": "It is a local incident and an arrest with no geopolitical effect.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Typhoon Champi hits Taiwan",
-          "reason": "It is a weather event with local effects and no cross-border channel shown.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Magnitude 7 earthquake in Tibet",
-          "reason": "It is a natural disaster with domestic impact and no cross-border ripple shown.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Albanian student protests and parliament scuffle",
-          "reason": "It is domestic unrest with no stated effect on other countries.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Building collapse in Nairobi",
-          "reason": "It is a local accident with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Netanyahu floats crypto to bypass sanctions",
-          "reason": "It is a floated idea, not a decision or a dated action.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Serbia's student movement could take power",
-          "reason": "This is coverage of the student challenge to Vučić already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "serbia-student-election-2026"
-        },
-        {
-          "title": "US embassies raise security over Iran threats before midterms",
-          "reason": "The warnings are a spillover of the US-Israel war on Iran, which is already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Strikes continue in Russia and Ukraine as peace talks are agreed",
-          "reason": "These are battlefield and diplomacy updates within the Ukraine war and summit story already on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Netanyahu pledges massive operation after West Bank checkpoint attack",
-          "reason": "This is the continuing Israeli response in the West Bank that the map already covers.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "White House lifts some Canada tariffs",
-          "reason": "This is a development in the US-Canada tariff war already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-canada-trade-war"
-        },
-        {
-          "title": "Qatar buys US gas; reinforcements move to the Mideast",
-          "reason": "Both stories are part of the Iran war and Gulf energy shock.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "French bond stress and euro crisis signals",
-          "reason": "This is coverage of the French bond stress already on the map.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Trump administration sues to block Alaska election certification",
-          "reason": "This is part of the US midterms story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
