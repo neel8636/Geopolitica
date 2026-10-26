@@ -1,1 +1,245 @@
-{}
+{
+  "gulf-war-energy-shock": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "hu62th",
+    "tags": [
+      {
+        "point": "HORMUZ",
+        "effect": "security",
+        "likelihood": 0.85,
+        "delayDays": [
+          1,
+          5
+        ],
+        "costPct": [
+          10,
+          40
+        ],
+        "why": "Al Jazeera on 2026-10-26 reports the worst month for ships in the Strait of Hormuz, and Iran warned the US Navy as fears of renewed war grew, so war-risk premiums and transit delays are continuing.",
+        "action": "Ask your forwarder for current war-risk surcharges on Gulf-bound cargo and hold 10 to 14 days of buffer stock for anything that must transit Hormuz.",
+        "sources": [
+          6,
+          1,
+          7
+        ]
+      },
+      {
+        "point": "RED_SEA",
+        "effect": "security",
+        "likelihood": 0.8,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          15,
+          50
+        ],
+        "why": "Houthi attacks are escalating again as of 2026-10-26, prompting Egypt to approve military aid for Saudi Arabia, so Red Sea shipping faces strikes and continued diversions.",
+        "action": "Keep Asia-Europe cargo routed via the Cape of Good Hope and ask your carrier to confirm in writing whether any Red Sea transit is planned and what the surcharge is.",
+        "sources": [
+          0,
+          2,
+          5
+        ]
+      },
+      {
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.8,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          15,
+          50
+        ],
+        "why": "Fresh Houthi strikes reported on 2026-10-26 keep Bab el-Mandeb a high-threat chokepoint, so carriers are still avoiding it or charging heavy war-risk premiums.",
+        "action": "Confirm with your forwarder that no booking is planned through Bab el-Mandeb, and budget for Cape routing at 10 to 14 extra days.",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "point": "SUEZ",
+        "effect": "capacity",
+        "likelihood": 0.6,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          15,
+          40
+        ],
+        "why": "Escalating Houthi attacks and the Saudi-Houthi conflict as of 2026-10-26 keep carriers away from the Red Sea, so Suez Canal transits stay depressed or are diverted around Africa.",
+        "action": "Plan Asia-Europe and Asia-Mediterranean lanes with Cape of Good Hope transit times and ask your forwarder for a Suez-versus-Cape rate comparison.",
+        "sources": [
+          0,
+          2,
+          5
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "delay",
+        "likelihood": 0.4,
+        "delayDays": [
+          2,
+          7
+        ],
+        "costPct": [
+          5,
+          25
+        ],
+        "why": "Hormuz tensions and fears of renewed US-Israel strikes on Iran (2026-10-26) threaten the shipping lane that serves Jebel Ali, which could mean congestion, delays and surcharges.",
+        "action": "Ask your forwarder about a fallback via Khor Fakkan or Fujairah with onward trucking, and pre-book it for time-critical Gulf deliveries.",
+        "sources": [
+          6,
+          1
+        ]
+      },
+      {
+        "point": "IR_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.5,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          3,
+          15
+        ],
+        "why": "With Trump weighing a deal or to 'finish it off' and Iran warning the US Navy on 2026-10-26, renewed strikes could close Iranian airspace to cargo flights again.",
+        "action": "Ask your air forwarder to pre-plan routings that avoid Iranian airspace, with extra fuel-stop time built into Asia-Europe schedules.",
+        "sources": [
+          7,
+          1,
+          3
+        ]
+      },
+      {
+        "point": "LEVANT_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          3,
+          10
+        ],
+        "why": "Fears of renewed fighting between Israel and Iran (2026-10-26), including an IDF debate over a pre-election operation, could close Israeli, Lebanese and Jordanian airspace at short notice.",
+        "action": "Ask your air carrier for alternative routings and cancellation terms on cargo flights over the Levant.",
+        "sources": [
+          4,
+          3
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Saudi Arabia, Turkey and Pakistan hold rare Iran talks as Houthis strike again",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVmdtNXpFdENxSjlDbXNOZnMyeTh1N3lET1BWcFctSjR0di1yUk5pTTFfOEtlbG96UWcwNE1zUS15RV9uMllwdG9FT1pZcTY5SVFLMFpB?oc=5",
+        "publisher": "Ynetnews",
+        "published": "2026-10-26T16:20:55.000Z"
+      },
+      {
+        "title": "Iran Warns US Navy As Fears Of Renewed War Explode, Hormuz Tensions Surge",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVTYtZDNZQVNDS1VHaHVfNHVrYkNFZWl0dHFhei1kbHczY3ZrVEc0WklQcjZUVW1jalpwSXNqb3o4SDJjR3k5bjNtTWt3VXUzXzZVUS1ubEx6TXpKdlRxaVlEWW92QkdMUkRGbkhrbkhSOWtCeDE4V1ViNURySHF6Sm5oN0J3bmR4bmtQWmJQTVJLX2dfMzhXMk0ySzhFWGRmaDZabnMwUW1WUWFwTmlmdzJFc1RyckstYnlyYUszSHlhaVZ6X1U0VWNNNk1yRG1rZDBXbVpocnFIT2tvTXRJeG1zZjFPV2Qx0gHuAUFVX3lxTFBtUTlMZHVLRVVDWkMxcnhXc2x3R0FFTGJScTNZT0RpdUxnOHdkMEdlVUNxNTREZWwybTNDYVIySXNSQjAyNHVRNF8zX0ZoTEJpSmQxS2V2RWk1Y3dYa2p6YlowWloyTm84VVNaVERUMzVzb3JRQXk4cWxtMTUwVldCdE52WGMxLV85cWh2RVkycTUycDY4R05sWFNIaEFfSldTalFGVVhtTDYwbWpCX2tDeUFZb1R3OWg3UGlDRkxZMEdKUkJNY1NMSEF1c3lvMnQwOXVwNGl4Y3dqMVkxN0k3eU1hQ2dJVXM1bWtGdlE?oc=5",
+        "publisher": "The Times of India",
+        "published": "2026-10-26T16:12:05.000Z"
+      },
+      {
+        "title": "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN?oc=5",
+        "publisher": "Reuters",
+        "published": "2026-10-26T15:52:06.000Z"
+      },
+      {
+        "title": "Delegations meet in Iran with the Middle East on edge over potential for renewed fighting",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1JHOGZOb0R3LW1LRXFWN2luM2dUWjBfYVJ4N1dLaHlzTHppeDBoZjdnSG85Vkp0REdGM19mR3p5U1hQdGJHb2ZhNFdqdVdxWXNvZEU1Zk1rYzFkaU5tTXQ2OTh0Q3l2NkRxNTktZklGbEotT1diRXUwdmxuYmtXMWJaZFppaU82X3B6Qno0S0Y4RWRaRXkyOWpiNEdNNlBXLVlVajVycnV0TGw0d3V3akxYSzctMHJhQ3BELUdPWkNSUdIBxwFBVV95cUxQaXFOWnhkZW1jMS1PUmk5QzdtcEtfaDlvWWNraHJ1ekZjNG80bTJHYWRIRXdyUDhaYWprLVlyNHpnUHpUaFdmaDk3b0VlN1d5MnpPel9aRmVxM3JMZHpqdVJ5ZnFTSndfcERkU1c2bUhod1l3QThRRHBnc01aTTEzWFFDRUVCUWktdVhqZTlmMGxMeHlIYTJkcEp1UzV3MHF5ejhhSFpYLTVKWjZNVWZtd1RqMkk3UExIYkNqV3dwM0htUjRiTk5F?oc=5",
+        "publisher": "PBS",
+        "published": "2026-10-26T15:51:52.000Z"
+      },
+      {
+        "title": "Iran War Day 241: IDF Chief Resists Push for Pre-Election Military Op Against Iran, Per Report",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS19DX2tOSzZ4ZE41UzBrWG1NOHlvNWdXQ2NjTFlMdWZTODlyTnhsX1JYR1lPQWZsRTBvNkQ5VWx3SWVYNFdSRHZUZFpiYkZoNEI1TzJBZVF4c3JZenE1WEtCV1o4Z0tGVDh3YnRhVG82bFg5emFGRHAtVXRHQl9lWFFhQW9sSVFEM0txTEh1dXZVbE1BeHQ0OXZJN3NSdnpkd0dkQ0xKRHlTbHhjOHM5WlMyWm51ekJGTEVlbU9DVXU5NzJaQ1ZuM0M2cjRPQQ?oc=5",
+        "publisher": "The American Conservative",
+        "published": "2026-10-26T15:45:00.000Z"
+      },
+      {
+        "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+        "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "published": "2026-10-26T15:41:29.000Z"
+      },
+      {
+        "title": "Inside the worst month for ships in the Strait of Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNTVnUzVyMmExWFFYaU9rN25jZDZJaFZ3cF9ZeW1jSllXT3ZVeEJxNHNZRUVEU1hWdHpPMGdyczd6SFFRQTJCZFNJX1p1dW42WkIyMWJfN0c3ZERSQ2dzS3QwanlPbmg2Nk95bTdGZmZnV1pVR0E?oc=5",
+        "publisher": "Al Jazeera",
+        "published": "2026-10-26T15:11:36.000Z"
+      },
+      {
+        "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+        "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-26T14:36:03.000Z"
+      }
+    ]
+  },
+  "ukraine-summit-diplomacy": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "19usk5l",
+    "tags": [],
+    "headlines": []
+  },
+  "france-unrest-2026": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "1vx723c",
+    "tags": [],
+    "headlines": []
+  },
+  "france-debt-stress": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "1wrbfer",
+    "tags": [],
+    "headlines": []
+  },
+  "france-election-2027": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "1v5t9bf",
+    "tags": [],
+    "headlines": []
+  },
+  "us-midterms-2026": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "gcicj0",
+    "tags": [],
+    "headlines": []
+  },
+  "brazil-runoff-2026": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "1g30to7",
+    "tags": [],
+    "headlines": []
+  },
+  "apec-shenzhen-2026": {
+    "at": "2026-10-26T17:45:07.948Z",
+    "by": "pipeline",
+    "hash": "1ttf8bm",
+    "tags": [],
+    "headlines": []
+  }
+}
