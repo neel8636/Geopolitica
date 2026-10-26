@@ -1,47 +1,67 @@
 {
   "slug": "north-korea-missile-tests-2026",
-  "title": "North Korea's missile month, and the price of a Trump meeting",
-  "deck": "Three weapons launches in twelve days, ending with the first reported submarine-fired cruise missiles since January 2024, look like Pyongyang raising the price of a Kim-Trump meeting that Trump says he 'may' hold in November.",
-  "updated": "2026-10-19",
+  "title": "North Korea's October missile spree",
+  "deck": "Pyongyang fired a hypersonic missile, two ballistic missiles and two submarine-launched cruise missiles in twelve days, just as Trump floated a November meeting with Kim and as Kim courted Beijing.",
+  "updated": "2026-10-26",
   "status": "developing",
-  "region": "North Korea, Korean Peninsula, Northeast Asia",
+  "region": "Korean Peninsula, Northeast Asia",
   "tags": [
     "North Korea",
-    "missiles",
-    "submarines",
-    "Trump-Kim diplomacy",
-    "APEC",
-    "alliances"
+    "missile tests",
+    "Trump-Kim summit",
+    "China",
+    "South Korea",
+    "Russia"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 16
   },
+  "fuel": [
+    {
+      "aspect": "politics",
+      "title": "North Korea lodges UN letters against Seoul",
+      "how": "A UN envoy accused South Korea of nuclear plans, which hardens the rhetoric and raises the price Pyongyang can ask for talks.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "security",
+      "title": "Artillery and howitzer reported near border",
+      "how": "Reports of 122mm artillery and a spotted howitzer put a conventional threat to Seoul next to the missile tests.",
+      "sourceIndex": 5
+    },
+    {
+      "aspect": "trade",
+      "title": "Kim tours Dandong, touts Yalu River Bridge",
+      "how": "A visit to a Chinese bus factory with strong North Korean ties and the new bridge, plus Beijing's 'unwavering policy' line, signals economic and diplomatic backing that lowers Pyongyang's cost of defiance.",
+      "sourceIndex": 3
+    }
+  ],
   "card": {
-    "headline": "Kim is testing weapons while Trump dangles a meeting, which raises the price of talks",
+    "headline": "North Korea is raising its price for talks with missiles, and China is quietly backing its hand",
     "keyNumber": {
-      "value": "3",
-      "label": "launch events in 12 days (3, 12 and 14 October), the latest from a submarine",
+      "value": "560+ miles",
+      "label": "flown by two ballistic missiles on 12 October, two days before the sub-launched cruise missile tests",
       "sourceIndex": 1
     },
     "impactMeter": 3,
     "forYou": [
       {
-        "role": "Business in Northeast Asia",
-        "line": "Expect short-lived market jitters on launch days. Expect no direct supply disruption unless a launch lands near shipping or air lanes."
+        "role": "Investors",
+        "line": "Tests on this scale have not usually moved global markets for long. Watch Korean and Japanese assets for brief risk-off moves after each launch."
       },
       {
-        "role": "Finance",
-        "line": "Past Korean Peninsula tests have mostly produced brief moves in the Korean won and stocks. Treat that as a pattern, not a rule."
+        "role": "Shipping and aviation",
+        "line": "Launches off the east coast can trigger notices and rerouting near Korea and Japan. Expect short disruptions, not closures."
       },
       {
-        "role": "Policy and security watchers",
-        "line": "The sub-launched cruise missile test is the new element. Watch whether more follow before Trump's November Asia trip."
+        "role": "Defence and policy",
+        "line": "A first sub-launched cruise test since January 2024 shows a new sea-based strike option. South Korea and Japan will push for more missile defence."
       },
       {
         "role": "Everyone",
-        "line": "The bigger question is diplomatic. A Trump-Kim meeting is possible but unconfirmed, and Pyongyang appears to be bargaining first."
+        "line": "The main question is whether Trump and Kim meet around his November Asia trip, and what Pyongyang demands first."
       }
     ],
     "ripple": [
@@ -49,16 +69,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "North Korea fires two types of submarine-launched strategic cruise missiles off its east coast on 14 October, including a Pulhwasal-3-31",
+            "text": "Two types of sub-launched strategic cruise missiles fired off the east coast on 14 October, including a Pulhwasal-3-31",
             "sector": "Security"
           },
           {
-            "text": "The launch follows a hypersonic intermediate-range missile on 3 October and two ballistic missiles on 12 October that flew more than 560 miles",
+            "text": "North Korea lodges letters with the UN and a UN envoy accuses Seoul of nuclear plans",
+            "sector": "Politics and protest"
+          },
+          {
+            "text": "Reports of 122mm artillery near the border and a spotted howitzer raise military tension",
             "sector": "Security"
           },
           {
-            "text": "Seoul, Washington and Tokyo face another round of condemnation and consultation, with the tests landing close to a DMZ landmine blast that wounded three South Korean soldiers",
-            "sector": "Diplomacy"
+            "text": "Kim tours Dandong and the new Yalu River Bridge; Beijing calls ties with Pyongyang an unwavering policy",
+            "sector": "Trade and shipping"
           }
         ]
       },
@@ -66,19 +90,15 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Pyongyang raises its price for talks just as Trump says he 'may' meet Kim during his November Asia trip",
+            "text": "Pyongyang's price for any Trump meeting rises; most Korean assessments are sceptical that Kim's China trip lays the ground for a summit",
             "sector": "Diplomacy"
           },
           {
-            "text": "South Korea and North Korea trade weapons milestones, as Seoul carried out its first hypersonic test days before the 12 October launches",
-            "sector": "Defence"
+            "text": "Seoul splits along party lines over how to respond to Kim's China visit; the Unification Ministry hopes it restarts dialogue",
+            "sector": "South Korean politics"
           },
           {
-            "text": "Pressure grows on allies to show readiness without wrecking the chance of summitry",
-            "sector": "Alliances"
-          },
-          {
-            "text": "Submarine-fired missiles are harder to detect before launch than land-based ones, which complicates early warning for South Korea, Japan and US forces",
+            "text": "South Korea and Japan weigh more missile defence and surveillance against a sea-based launch option",
             "sector": "Defence"
           }
         ]
@@ -87,15 +107,15 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "The China-hosted APEC meeting in Shenzhen on 18-19 November gains a second agenda item, with Kim looming over Trump's Xi diplomacy",
+            "text": "Kim and Putin both angle for a Trump summit, so Korean and Ukraine diplomacy become linked bargaining chips",
             "sector": "Geopolitics"
           },
           {
-            "text": "Any Trump-Putin-Xi summit on Ukraine would change Kim's leverage, given Pyongyang's troops-for-technology alliance with Moscow",
+            "text": "Beijing, as APEC host in Shenzhen on 18-19 November, holds more influence over both Trump's and Kim's agendas",
             "sector": "Geopolitics"
           },
           {
-            "text": "US credibility is tested at the same time in Northeast Asia and the South China Sea, where Philippine-Chinese clashes spiked in early October",
+            "text": "Pressure on US allies in Northeast and Southeast Asia rises at the same time, with the Philippines at risk from Chinese pressure",
             "sector": "Alliances"
           }
         ]
@@ -104,85 +124,85 @@
   },
   "brief": {
     "whatHappened": [
-      "On 14 October, North Korea fired two types of submarine-launched strategic cruise missiles off its east coast, according to state media. One was a Pulhwasal-3-31. It was the first reported sub-launched cruise missile test since January 2024.",
-      "The test capped a busy month. On 3 October the North fired a hypersonic intermediate-range missile. On 12 October it fired two ballistic missiles that flew more than 560 miles. That was days after South Korea's first hypersonic test and a landmine blast on the DMZ that wounded three South Korean soldiers.",
-      "On 12 October, Trump said he 'may' meet Kim Jong Un during his November Asia trip. The 14 October launch came two days later."
+      "On 14 October 2026, North Korea fired two types of submarine-launched strategic cruise missiles off its east coast, state media said. One was a Pulhwasal-3-31. Reports say it was the first sub-launched cruise missile test since January 2024.",
+      "It capped a month of launches. A hypersonic intermediate-range missile flew on 3 October. Two ballistic missiles flew more than 560 miles on 12 October, days after South Korea's first hypersonic test and a DMZ landmine blast that wounded three South Korean soldiers.",
+      "On 12 October Trump said he 'may' meet Kim Jong Un during his November Asia trip. Two days later came the sub-launched tests. By 26 October, Kim had visited the Chinese border city of Dandong, and North Korea had sent letters to the UN accusing Seoul of nuclear plans. Reports also described artillery near the border."
     ],
     "whyItMatters": [
-      "The pattern suggests bargaining through weapons. Testing while a meeting is on offer signals that Pyongyang wants to talk from a position of strength, not on Washington's terms. That reading is our judgement; North Korea has not said so.",
-      "Submarine launch is a capability step. Missiles fired from underwater are harder to track before launch, so they complicate defence planning for South Korea, Japan and US forces. We cannot judge from the reporting how far along the programme is.",
-      "The timing is awkward for Washington. Trump is due at the APEC leaders' meeting in Shenzhen on 18-19 November, hosted by Xi, following Xi's September state visit to Washington. Beijing controls that agenda, and Kim's tests give China and Russia more to trade on."
+      "Politics: Pyongyang is using launches to raise its price for talks. The UN letters accusing Seoul of nuclear plans harden the rhetoric at the same moment Trump hints at a meeting. Seoul's parties disagree on how to read Kim's China trip.",
+      "Security: a sea-based cruise missile is harder to track than one launched from a fixed site. Reports of 122mm artillery and a howitzer near the border add a conventional threat to Seoul on top of the missile tests. We have not checked those reports beyond the headlines.",
+      "Trade and shipping: Kim toured a Chinese bus factory with strong North Korean ties and highlighted the new Yalu River Bridge. Beijing said developing ties is an unwavering policy. That suggests economic and diplomatic backing, which lowers the cost to Pyongyang of defying pressure.",
+      "The timing matters. China hosts APEC in Shenzhen on 18-19 November, and Trump says he may meet Kim on the trip. Kim and Putin are both angling for a Trump summit, and North Korea's troops-for-technology alliance with Moscow ties their bargaining together."
     ],
     "winners": [
       {
-        "who": "Kim Jong Un's government",
-        "why": "It shows capability and keeps the initiative while a US president is publicly open to a meeting, at the cost of only condemnation so far."
+        "who": "Kim Jong Un's leverage",
+        "why": "The launches, the China visit and the Russia link all raise what Washington must offer to get a meeting."
       },
       {
-        "who": "Moscow and Beijing",
-        "why": "A distracted, stretched US leaves both with more room, and North Korea's alliance with Moscow adds to Russia's leverage over any wider settlement. This is analysis, not a reported fact."
+        "who": "Beijing",
+        "why": "As APEC host, it sits between Trump and Kim and can present itself as indispensable to both."
       },
       {
-        "who": "Defence contractors and missile-defence planners in the US, South Korea and Japan",
-        "why": "Another demonstration of sub-launched and hypersonic threats strengthens the case for early-warning and interception spending."
+        "who": "Defence industries in South Korea and Japan",
+        "why": "Sea-based launches strengthen the case for missile defence and surveillance spending. This is our estimate, not a reported order."
       }
     ],
     "losers": [
       {
-        "who": "South Korea's government",
-        "why": "It has to deal with testing from the North, a DMZ mine incident that wounded three of its soldiers, and an arms race that its own hypersonic test has fed."
+        "who": "South Korean soldiers and border communities",
+        "why": "Three soldiers were wounded by a DMZ landmine blast, and reports of artillery near the border raise exposure."
       },
       {
-        "who": "Japan",
-        "why": "Missiles flying toward its waters or sea lanes leave it the most exposed to surprise, and it has little say in whether Trump meets Kim."
+        "who": "Seoul's engagement hopes",
+        "why": "The Unification Ministry hopes Kim's China trip restarts dialogue, but Pyongyang is accusing Seoul of nuclear plans at the UN."
       },
       {
-        "who": "Advocates of a near-term deal",
-        "why": "Each test makes a nuclear-limits agreement look further away, and raises the political cost to Trump of meeting Kim without concessions."
+        "who": "Arms-control diplomacy",
+        "why": "Repeated launches in one month make a deal that freezes the programme harder to sell in Washington."
       }
     ],
     "whatsNext": [
-      "More launches are plausible before the November trip. The October tempo suggests Pyongyang wants to be seen as negotiating from strength.",
-      "18-19 November: APEC leaders' meeting in Shenzhen. Whether a Trump-Kim meeting is announced will be the key signal.",
-      "Watch Washington's tone and whether Seoul and Tokyo are consulted before any meeting is offered.",
-      "Any Trump-Putin-Xi summit on Ukraine would feed back into Kim's leverage."
+      "Late October: watch for further launches and for how Seoul and Tokyo respond to the artillery and UN letters.",
+      "November: Trump's Asia trip, with a possible Kim meeting still unconfirmed.",
+      "18-19 November: APEC Economic Leaders' Meeting in Shenzhen, hosted by China."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely path between now and the end of the Asia trip?",
+      "question": "Before you read the scenarios: what do you think is the most likely path through the 18-19 November APEC summit?",
       "options": [
-        "Tests stop and a Trump-Kim meeting is announced",
-        "More tests, no meeting, with diplomacy kept open",
-        "A major escalation such as a nuclear test",
-        "Quiet, with no more tests and no news"
+        "More launches and no Trump-Kim meeting",
+        "A Trump-Kim meeting is announced or held",
+        "A border clash with South Korea turns deadly",
+        "North Korea stays quiet until the summit"
       ],
-      "answerIndex": 1,
-      "explanation": "Our base case, at about 45%, is calibrated pressure: more launches or provocations, no meeting, and both sides keeping the door open. A summit pivot is judged at about 20%."
+      "answerIndex": 0,
+      "explanation": "Our base case, about 40%, is more testing alongside talk of talks, with no confirmed meeting by the end of APEC. Most Korean assessments are sceptical that Kim's China trip prepares a US summit, and Pyongyang has just raised its price."
     },
     "recap": [
       {
         "question": "What was new about the 14 October test?",
         "options": [
-          "It was a nuclear test",
-          "It was a submarine-launched cruise missile test, the first reported since January 2024",
-          "It was an intercontinental ballistic missile"
+          "First nuclear test since 2017",
+          "First reported sub-launched cruise missile test since January 2024",
+          "First launch over Japan"
         ],
         "answerIndex": 1
       },
       {
-        "question": "What did Trump say on 12 October?",
+        "question": "Where does China host the November summit Trump plans to attend?",
         "options": [
-          "He may meet Kim during his November Asia trip",
-          "He would cancel the trip",
-          "He would lift all sanctions"
+          "Beijing",
+          "Shanghai",
+          "Shenzhen"
         ],
-        "answerIndex": 0
+        "answerIndex": 2
       },
       {
-        "question": "Where is the APEC leaders' meeting on 18-19 November?",
+        "question": "What did Trump say on 12 October?",
         "options": [
-          "Busan",
-          "Shenzhen",
-          "Singapore"
+          "He ruled out meeting Kim",
+          "He 'may' meet Kim during his November Asia trip",
+          "He would send envoys to Pyongyang"
         ],
         "answerIndex": 1
       }
@@ -191,35 +211,59 @@
   "deep": {
     "timeline": [
       {
+        "date": "2024-01",
+        "title": "Previous reported sub-launched cruise missile test",
+        "detail": "The 14 October 2026 test was described as the first of this kind since January 2024.",
+        "sourceIndex": 1
+      },
+      {
         "date": "2026-09-25",
         "title": "Xi's state visit to Washington ends",
-        "detail": "It ended with a declared 'constructive relationship of strategic stability' but few concrete trade deliverables, setting up the November Shenzhen meeting."
+        "detail": "The two sides declared a 'constructive relationship of strategic stability' but few concrete trade deliverables. This sets the diplomatic backdrop for November."
       },
       {
         "date": "2026-10-03",
-        "title": "North Korea fires a hypersonic intermediate-range missile",
-        "detail": "The first of three launch events in twelve days, as reported in coverage of the October launches.",
+        "title": "Hypersonic intermediate-range missile launched",
+        "detail": "The first of the October launches reported by the sources.",
         "sourceIndex": 1
       },
       {
         "date": "2026-10-12",
         "title": "Two ballistic missiles fly more than 560 miles",
-        "detail": "This came days after South Korea's first hypersonic test and a DMZ landmine blast that wounded three South Korean soldiers. The same day, Trump said he 'may' meet Kim on his November Asia trip.",
+        "detail": "Launched days after South Korea's first hypersonic test and a DMZ landmine blast that wounded three South Korean soldiers.",
         "sourceIndex": 1,
         "turning": true
       },
       {
+        "date": "2026-10-12",
+        "title": "Trump says he 'may' meet Kim in November",
+        "detail": "He was speaking about his Asia trip, which includes the APEC summit in Shenzhen.",
+        "sourceIndex": 0
+      },
+      {
         "date": "2026-10-14",
-        "title": "Submarine-launched cruise missiles fired off the east coast",
-        "detail": "Two types of strategic cruise missile, including a Pulhwasal-3-31, the first reported sub-launched cruise test since January 2024.",
+        "title": "Sub-launched strategic cruise missiles fired",
+        "detail": "Two types, including a Pulhwasal-3-31, off the east coast, per state media. The test came two days after Trump's remark.",
         "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-10-15",
-        "title": "State media and wire services report the test",
-        "detail": "Al Jazeera and Stars and Stripes carry the story under the framing of mounting October launches.",
-        "sourceIndex": 1
+        "date": "2026-10-25",
+        "title": "Korean assessments doubt a summit link to Kim's China trip",
+        "detail": "A Financial News piece says most assessments are sceptical that the visit was meant to lay the groundwork for a North Korea-US summit.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-10-26",
+        "title": "UN letters and a spotted howitzer",
+        "detail": "A North Korean envoy accuses Seoul of nuclear plans; Asahi reports tensions are high with letters lodged at the UN and a howitzer spotted. Another outlet reports 122mm artillery near the border.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Kim tours Dandong and the new Yalu River Bridge",
+        "detail": "He visited a Chinese bus factory with strong North Korean ties. Beijing called developing ties with Pyongyang an unwavering policy.",
+        "sourceIndex": 3
       }
     ],
     "causes": [
@@ -228,16 +272,16 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "Weapons development",
-            "detail": "North Korea has pursued sea-based and cruise missile capabilities for years; the Pulhwasal-3-31 type was previously reported tested in January 2024."
+            "name": "Weapons programme",
+            "detail": "North Korea has long expanded ballistic, hypersonic and cruise missile options. The sub-launched cruise missile adds a sea-based route."
           },
           {
-            "name": "Russia alliance",
-            "detail": "Pyongyang's troops-for-technology relationship with Moscow reduces its need for US or Chinese concessions."
+            "name": "Russia alignment",
+            "detail": "Pyongyang's troops-for-technology alliance with Moscow gives it a partner that does not push for restraint."
           },
           {
-            "name": "Alliance dilemma",
-            "detail": "Seoul, Tokyo and Washington must deter without closing the door on diplomacy."
+            "name": "Chinese backing",
+            "detail": "Beijing calls ties with Pyongyang an unwavering policy and a new Yalu River Bridge opens a trade link."
           }
         ]
       },
@@ -246,30 +290,30 @@
         "when": "October 2026",
         "causes": [
           {
-            "name": "Trump's offer",
-            "detail": "Trump said on 12 October he 'may' meet Kim on the November trip. Pyongyang appears to be signalling the price of such a meeting."
+            "name": "Trump's remark",
+            "detail": "On 12 October he said he 'may' meet Kim on his November Asia trip. Pyongyang followed with launches two days later."
           },
           {
             "name": "South Korean hypersonic test",
-            "detail": "Seoul's first hypersonic test came days before the 12 October launches and probably fed the North's sense of an arms race. That link is our inference."
+            "detail": "Seoul's first hypersonic test, days before 12 October, gave Pyongyang a pretext to show its own capability."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "Autumn 2026",
+        "when": "Mid to late October 2026",
         "causes": [
           {
             "name": "DMZ landmine blast",
-            "detail": "A blast wounded three South Korean soldiers, raising tension on the border."
+            "detail": "Three South Korean soldiers were wounded, which raised border tension."
           },
           {
-            "name": "APEC in Shenzhen",
-            "detail": "Beijing hosts Trump on 18-19 November, creating a deadline and a stage for Korea diplomacy."
+            "name": "UN and rhetoric fight",
+            "detail": "A North Korean envoy accused Seoul of nuclear plans and lodged letters with the UN."
           },
           {
-            "name": "Great-power summitry",
-            "detail": "Putin's call for a Ukraine summit with Trump and Xi could reshape the leverage of all of Kim's patrons."
+            "name": "Artillery reports",
+            "detail": "Reports of 122mm artillery and a howitzer near the border keep pressure on Seoul."
           }
         ]
       }
@@ -278,236 +322,254 @@
       {
         "name": "Kim Jong Un",
         "role": "North Korean leader",
-        "wants": "Recognition as a nuclear power and sanctions relief on his terms",
-        "leverage": "Missile tests, the Russia relationship, and Trump's public interest in a meeting",
-        "likelyMove": "Keep testing, avoid a firm commitment to talks, and wait for US concessions before any summit"
+        "wants": "Recognition, sanctions relief and a better price for any talks with Washington",
+        "leverage": "A growing missile menu, Chinese and Russian backing, and the choice of when to meet Trump",
+        "likelyMove": "Keep testing, keep talks open, and let Beijing's APEC role set the stage."
       },
       {
         "name": "Donald Trump",
         "role": "US president",
-        "wants": "A headline diplomatic result and an orderly Asia trip",
-        "leverage": "Summit access, sanctions policy and alliance backing",
-        "likelyMove": "Stay open to a meeting while pressing allies for calm; say little about the launches"
+        "wants": "A headline summit and a deal on the Korean programme without losing allies",
+        "leverage": "The offer of a meeting, sanctions and the US alliance with Seoul and Tokyo",
+        "likelyMove": "Keep saying he 'may' meet Kim while avoiding commitments before Shenzhen."
       },
       {
-        "name": "South Korean government",
-        "role": "US treaty ally, in a weapons race with the North",
-        "wants": "Deterrence, a seat at any US-North Korea table, and calm on the DMZ",
-        "leverage": "Its own hypersonic programme and its alliance with Washington",
-        "likelyMove": "Condemn the launches, consult with Washington and Tokyo, and continue its defence build-up"
+        "name": "Seoul government",
+        "role": "South Korea",
+        "wants": "A lower threat on the border and a restart of dialogue",
+        "leverage": "Its own military upgrades, such as the hypersonic test, and its alliance with Washington",
+        "likelyMove": "Condemn tests, back US diplomacy and boost deterrence while the Unification Ministry pushes dialogue."
       },
       {
-        "name": "Japan",
-        "role": "US treaty ally, within range of North Korean missiles",
-        "wants": "Early warning, a say in any deal, and no deal that ignores its security",
-        "leverage": "Intelligence sharing and missile defence cooperation",
-        "likelyMove": "Protest and consult, and press Washington not to trade away allied interests"
+        "name": "Xi Jinping and Beijing",
+        "role": "APEC host and North Korea's main partner",
+        "wants": "Stability, leverage over Washington and a role as broker",
+        "leverage": "Trade, the Yalu River Bridge and the Shenzhen summit agenda",
+        "likelyMove": "Present itself as essential to any Trump-Kim meeting while keeping ties with Pyongyang."
       },
       {
-        "name": "Xi Jinping and China",
-        "role": "APEC host and North Korea's largest neighbour",
-        "wants": "Stability on its border and a stronger hand in US trade talks",
-        "leverage": "The APEC agenda and its economic ties to Pyongyang",
-        "likelyMove": "Call for restraint, avoid blame, and use the summit to press for tariff relief"
+        "name": "Vladimir Putin and Moscow",
+        "role": "North Korea's military partner",
+        "wants": "His own Trump summit on Ukraine and continued troops-for-technology support",
+        "leverage": "Technology and diplomatic cover for Pyongyang",
+        "likelyMove": "Treat Kim's bargaining as linked to his own bid for talks with Trump and Xi."
       },
       {
-        "name": "Vladimir Putin and Russia",
-        "role": "Pyongyang's ally",
-        "wants": "Continued military support and a Ukraine settlement on its terms",
-        "leverage": "Technology and diplomatic cover for North Korea",
-        "likelyMove": "Keep Kim close while courting a summit with Trump and Xi"
+        "name": "Tokyo",
+        "role": "Japan",
+        "wants": "Missile defence and early warning",
+        "leverage": "Alliance with Washington and its own defence budget",
+        "likelyMove": "Push for shared surveillance and protest tests that threaten its waters."
       }
     ],
     "sectors": [
       {
-        "sector": "Defence and missile defence",
+        "sector": "Missile defence and surveillance",
         "direction": "up",
         "size": 2,
-        "why": "Sea-launched and hypersonic tests strengthen the case for early-warning and interception spending in South Korea, Japan and the US."
+        "why": "A sea-based cruise launch option adds to demand for tracking and interception in South Korea and Japan. This is our estimate."
+      },
+      {
+        "sector": "South Korean and Japanese defence industry",
+        "direction": "up",
+        "size": 2,
+        "why": "A hypersonic race and artillery on the border support spending, though no new orders are cited."
+      },
+      {
+        "sector": "China-North Korea border trade and logistics",
+        "direction": "up",
+        "size": 2,
+        "why": "Kim highlighted the new Yalu River Bridge at Dandong and Beijing called ties unwavering. Actual volumes are not in the material."
       },
       {
         "sector": "Korean financial markets",
         "direction": "mixed",
         "size": 1,
-        "why": "Launches usually cause short dips that fade. A sharper reaction would signal real escalation. This rests on past patterns, not on the cited reporting."
+        "why": "Launches usually bring brief risk-off moves that fade. The material gives no price data, so this is a judgement."
       },
       {
-        "sector": "Shipping and aviation near Korea and Japan",
+        "sector": "Aviation and shipping near Korea and Japan",
         "direction": "down",
         "size": 1,
-        "why": "Launch days can trigger warnings and rerouting, though the cited reporting describes no disruption."
+        "why": "Launches off the east coast can lead to warnings and short rerouting. We have no reported disruption."
       },
       {
-        "sector": "Regional diplomacy and summitry",
+        "sector": "Diplomacy and summit planning",
         "direction": "mixed",
         "size": 3,
-        "why": "The tests raise the price of talks and the profile of Korea at a summit meant to focus on China-US trade."
-      },
-      {
-        "sector": "Russia-linked defence trade",
-        "direction": "up",
-        "size": 1,
-        "why": "Closer Pyongyang-Moscow ties support arms and technology exchange, though the cited sources give no numbers."
+        "why": "The summit window with Trump opens, but each launch raises the price and the risks of a failed meeting."
       }
     ],
     "dailyLife": [
       {
-        "item": "Travel to and around South Korea",
-        "effect": "Launches rarely change travel conditions. Check official advisories if tension on the DMZ or at sea rises."
+        "item": "Border communities in South Korea",
+        "effect": "Landmine blasts and reports of artillery near the DMZ raise safety concerns for soldiers and local residents.",
+        "sourceIndex": 5
       },
       {
-        "item": "Markets and savings",
-        "effect": "Short-lived dips in Korean assets have followed past launches. A pension or index fund is unlikely to be affected unless the crisis escalates."
+        "item": "Travel near Korea and Japan",
+        "effect": "Launches can bring short alerts and notices to aircraft and ships; no lasting disruption is reported."
       },
       {
-        "item": "News and alerts",
-        "effect": "Expect more emergency messages and defence briefings in South Korea and Japan if the launches continue."
+        "item": "Local politics in Seoul",
+        "effect": "Ruling and opposition parties disagree over Kim's China trip, so how the government responds will be a political fight at home."
+      },
+      {
+        "item": "Prices and markets",
+        "effect": "No reported effect on prices so far. Spikes tend to be brief after launches; this is general knowledge, not a figure from the sources."
       }
     ],
     "scenarios": [
       {
-        "name": "Calibrated pressure",
-        "probability": 45,
-        "looksLike": "More launches or provocations, no meeting. Both Washington and Pyongyang keep talk of a meeting alive.",
+        "name": "Test-and-talk stalemate",
+        "probability": 40,
+        "looksLike": "More launches or rhetoric, talk about a Trump-Kim meeting, and no confirmed meeting by the end of APEC.",
         "signposts": [
-          "Further missile tests before 18 November",
-          "Trump repeats that he 'may' meet Kim",
-          "North Korean state media avoids insulting Trump"
+          "More launches before 18 November",
+          "No announcement of a venue or date",
+          "Pyongyang repeats demands through the UN"
         ],
-        "effectOnWorld": "Allied nerves are tested, markets shrug, and summit diplomacy dominates the APEC story."
+        "effectOnWorld": "The risk stays elevated but contained; allies keep upgrading defence."
       },
       {
-        "name": "Door ajar",
+        "name": "Summit window opens",
         "probability": 20,
-        "looksLike": "Working-level contacts or messages through intermediaries, with launches paused but no summit.",
+        "looksLike": "A Trump-Kim meeting is announced or held around his Asia trip, with Beijing and perhaps Moscow in supporting roles.",
         "signposts": [
-          "Quiet from North Korean state media",
-          "Reports of envoys or letters",
-          "A pause in launches for several weeks"
+          "Official confirmation of dates",
+          "A pause in launches",
+          "Beijing publicly backing a meeting"
         ],
-        "effectOnWorld": "Tension eases without a deal; allies stay uneasy about being left out."
+        "effectOnWorld": "Headlines turn to diplomacy, but a thin deal would leave sanctions and the weapons programme largely unchanged."
       },
       {
-        "name": "Summit pivot",
-        "probability": 20,
-        "looksLike": "A Trump-Kim meeting is announced or held around the Asia trip, with a pause in tests.",
-        "signposts": [
-          "Public confirmation from either side",
-          "Seoul or Beijing offering to host or facilitate",
-          "Change in tone from Pyongyang"
-        ],
-        "effectOnWorld": "Headline diplomacy returns, though real nuclear limits remain unlikely. Allies press for consultation."
-      },
-      {
-        "name": "Sharp escalation",
+        "name": "Border escalation",
         "probability": 15,
-        "looksLike": "A much larger test, a nuclear test, or a deadly clash on the DMZ or at sea.",
+        "looksLike": "A clash on or near the DMZ after the landmine blast and artillery reports turns deadly, or a launch lands near Japan or South Korea.",
         "signposts": [
-          "Evidence of nuclear test preparations",
-          "A fatal border incident",
-          "Test over or near Japan"
+          "Artillery fire across the line",
+          "Casualties on either side",
+          "Seoul or Tokyo scrambling forces"
         ],
-        "effectOnWorld": "Summit prospects collapse, markets sell off, and the US, Japan and South Korea harden their posture."
+        "effectOnWorld": "Summit plans freeze, markets wobble and the US is drawn into crisis management."
+      },
+      {
+        "name": "Quiet pause",
+        "probability": 25,
+        "looksLike": "Pyongyang stops launches and keeps its options open for the summit season, relying on Beijing's diplomacy.",
+        "signposts": [
+          "No tests for several weeks",
+          "Warmer words from state media"
+        ],
+        "effectOnWorld": "Tensions fall for a time without a deal; the underlying programme keeps growing."
       }
     ],
     "predictions": [
       {
-        "text": "North Korea will carry out at least one more missile launch before the APEC leaders' meeting opens. Probability about 0.65.",
+        "text": "North Korea will fire at least one more missile before the APEC summit opens on 18 November (probability about 55%).",
         "horizon": "By 18 November 2026",
         "resolves": "2026-11-18"
       },
       {
-        "text": "A Trump-Kim meeting will take place during or immediately around the Asia trip. Probability about 0.12.",
+        "text": "Trump and Kim will not hold a face-to-face meeting during the November Asia trip (probability about 75%).",
         "horizon": "By 30 November 2026",
         "resolves": "2026-11-30"
       },
       {
-        "text": "North Korea will carry out a nuclear test. Probability about 0.04.",
-        "horizon": "By end-2026",
+        "text": "No deaths result from a clash between the two Koreas (probability about 85%).",
+        "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Both sides will publicly confirm some direct contact or an agreed envoy channel. Probability about 0.2.",
-        "horizon": "By end-2026",
-        "resolves": "2026-12-31"
+        "text": "China will publicly call for restraint or dialogue on the peninsula around the APEC summit without criticising Pyongyang by name (probability about 80%).",
+        "horizon": "By 20 November 2026",
+        "resolves": "2026-11-20"
+      },
+      {
+        "text": "North Korea will carry out another sub-launched missile test of any type by mid-2027 (probability about 50%).",
+        "horizon": "By 30 June 2027",
+        "resolves": "2027-06-30"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Keep contingency plans for Korean and Japanese sites, covering communications and staff safety.",
-          "Do not change supply routes for launches alone; reassess only on escalation signals such as a nuclear test or a lethal clash.",
-          "Track the APEC agenda in Shenzhen for trade and tariff news that matters more than the tests."
+          "Review contingency plans for flights, shipping and staff in Korea and Japan around launch days.",
+          "Check exposure to border trade routes between China and North Korea and to sanctions rules.",
+          "Brief travelling staff on local alerts."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat launch-day moves as noise unless they persist for more than a few days.",
-          "Watch defence and missile-defence names for policy-driven demand, and avoid assuming a sustained rally.",
-          "Watch for signs of a Trump-Kim meeting, which could move Korean assets either way."
+          "Treat launches as short-term volatility triggers unless they come with border fighting or casualties.",
+          "Watch the APEC dates and Trump's travel plans as the main catalysts.",
+          "Avoid assuming that a summit means sanctions relief; most Korean assessments are sceptical."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "If you live or travel in South Korea or Japan, follow official alerts and know local shelter guidance.",
-          "Avoid reacting to market dips in pensions or index funds unless you need the money soon."
+          "Follow official alerts if you live or travel near the DMZ or east coast.",
+          "Expect noise, not disruption, in prices and travel unless a clash occurs."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Consult Seoul and Tokyo before any announcement about a meeting with Kim.",
-          "Separate defence readiness from diplomacy: condemn launches, but keep a channel open.",
-          "Coordinate with Beijing ahead of Shenzhen on what it will and will not do to restrain Pyongyang."
+          "Keep Seoul, Tokyo and Washington aligned before November so Pyongyang cannot split them.",
+          "Press Beijing to use its APEC host role to restrain launches.",
+          "Prepare crisis channels on the DMZ after the landmine blast and artillery reports."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Missile tests followed by the Singapore summit",
+        "event": "Missile tests followed by Trump-Kim diplomacy",
         "year": "2017-2018",
-        "whatFollowed": "A year of intense tests and threats gave way to a Trump-Kim meeting in June 2018, with a vague commitment on denuclearisation and little follow-through."
+        "whatFollowed": "A year of heavy testing was followed by the June 2018 Singapore summit. It produced a joint statement but little lasting change in the weapons programme."
       },
       {
-        "event": "Hanoi summit collapse",
+        "event": "Hanoi summit",
         "year": "2019",
-        "whatFollowed": "Talks broke down over sanctions relief and nuclear disclosure; weapons testing later resumed."
+        "whatFollowed": "A second Trump-Kim meeting ended without a deal in February 2019 and talks stalled. It is a reminder that summits can fail when expectations differ."
       },
       {
-        "event": "Trump-Kim meeting at the DMZ",
-        "year": "2019",
-        "whatFollowed": "A brief, symbolic encounter produced a promise of working talks that never made progress."
-      },
-      {
-        "event": "Earlier Pulhwasal-3-31 sub-launched cruise test",
-        "year": "2024",
-        "whatFollowed": "Condemnation from the US, Japan and South Korea and no change in the North's course."
+        "event": "Heavy missile testing during a diplomatic freeze",
+        "year": "2022",
+        "whatFollowed": "North Korea launched an unusually large number of missiles while talks were stalled, with allies responding through exercises and defence upgrades."
       }
     ],
     "watch": [
       {
         "date": "2026-11-18",
-        "title": "APEC leaders' meeting opens in Shenzhen",
-        "why": "The first sign of whether Kim features in Trump's meeting with Xi, or whether a Trump-Kim meeting is announced."
+        "title": "APEC leaders' meeting, Shenzhen (to 19 November)",
+        "why": "Trump plans to attend as China hosts. A Kim meeting would be tied to it."
       },
       {
-        "title": "Further North Korean launches",
-        "why": "The pace and type of tests will show whether Pyongyang is pressing for talks or preparing a bigger step."
+        "title": "Trump's November Asia itinerary",
+        "why": "Any confirmed stop or venue for a Kim meeting would change the outlook."
       },
       {
-        "title": "Statements by Pyongyang on Trump's offer",
-        "why": "A public acceptance, rejection or conditions would clarify the price for talks."
+        "title": "Further launches",
+        "why": "More tests, especially sub-launched or ballistic, would show Pyongyang is raising the price further."
       },
       {
-        "title": "Putin's proposed summit with Trump and Xi",
-        "why": "Any move toward a Ukraine settlement would change Kim's leverage."
+        "title": "UN follow-up to North Korea's letters",
+        "why": "Watch whether the accusation of South Korean nuclear plans becomes a formal diplomatic campaign."
       },
       {
-        "title": "DMZ incidents",
-        "why": "Another landmine blast or shooting would raise escalation risk quickly."
+        "title": "Border artillery reports",
+        "why": "Confirmation of the 122mm artillery or live fire would raise the risk of a clash."
+      },
+      {
+        "title": "Yalu River Bridge and Dandong trade",
+        "why": "Signs the bridge opens to traffic or that Beijing offers more support would show how far China is backing Pyongyang."
+      },
+      {
+        "title": "Putin's summit push",
+        "why": "Kim and Putin are both angling for Trump meetings, so progress on Ukraine could shape the Korean track."
       }
     ]
   },
@@ -524,54 +586,97 @@
         "url": "https://www.stripes.com/theaters/asia_pacific/2026-10-15/north-korea-submarine-launched-cruise-missiles-23160219.html",
         "publisher": "Stars and Stripes",
         "date": "2026-10-15"
+      },
+      {
+        "title": "North Korea-South Korea tensions high as letters lodged with U.N., howitzer spotted",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucml0TU5hNV9HWExPTnN3WGIzYmhjbXFHZGNZRE8yNzFxckFXZTdrTkdlcXVfcXFkcjhuQTFwanlXZmd4MEZNai1ZSG9FbUJEdDBRVzdn?oc=5",
+        "publisher": "朝日新聞",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "North Korean Leader Kim Jong-un Visits Dandong, Highlights New Yalu River Bridge",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVlpMakx6MjhfdlRwT0JiQm05bVNYVkZ0bGZNN3F2V1FJeHpFMnQ0ZzhON3JnSlRtc1hjZGpxc0g5d2FZRmx3X3B2Y05ja1BNU193cUVlTGZLaXB6eEpLVWl0NlFZRnl3WENyVlFvenFLSWdKUzVyQ1M5dF9KcnVfU3FmaTBvejhzcmpIUA?oc=5",
+        "publisher": "조선일보",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "China on Kim Jong-un's Visit: \"Developing North Korea-China Relations Is Unwavering Policy\"",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ybm1sbjRTS2kxNVpHek5rRFlRQ2pFRGdoM21OWmJnbFFZVU8tS0RWOXl2SHhvMjBLX0NvRzFibHFPTk9DTVdpRlhHeTk4ZkpaREJXZjdnVWVuWjJXX2J4MUdoOTZpZw?oc=5",
+        "publisher": "SBS News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "North Korea Deploys 122mm Artillery Near South Korea, Raising Border Stakes",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbUpLa0s1dmozVXpxUmxBclRnRVpBSVJxaWZ0OUVKT0FzWk9qQXQ1ZUc3MzNvcERZd2EzQlhteUhwQmJpWlltMUQtSkFtNF92QlBmQkhCSnBEbF9DMXNuX2pXcDFlbmtFRlVzcy03NE5VVDZSa3dzMDV3cmlNUW8xUFhYdDZWdHVZYVMxcFo0Rm5KNVp6?oc=5",
+        "publisher": "Defence Security Asia",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Was Kim Jong Un's China Visit Meant to Lay the Groundwork for a North Korea-U.S. Summit? Most Assessments Are Skeptical",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJVnRXcHVfRVVoUHpMZ25WTXhhb19vWExSMDhpT2RDdEc5cUJyTk13T3FzZHJXanIxWVJtT0JxZlRUc2NtU0cxS1I1ZGc5OWlQUUFtYWRsOUs?oc=5",
+        "publisher": "파이낸셜뉴스",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Chinese bus factory that Kim Jong Un visited has strong ties with North Korea",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSOHNkSG96ejAtM1pManJDTTV4Ui13MGl0TTJCODllY2dJc1o3WUhzaUJoQ3M3TGJYb0U0Qm41NG5HRExYbE5R?oc=5",
+        "publisher": "NK News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Kim Jong-un shows readiness for international stage with China trip: lawmaker",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNRHRUVmw5TzlnV01IdXo2TTJ6OHN2bnZYTGtSVW5WYWRrQlRJR0Q0ellocmlnZXV4TWFXd3pXcE1HVVVseUVhanVJOWpNZHBYR1l1cnkxOA?oc=5",
+        "publisher": "The Korea Herald",
+        "date": "2026-10-26"
       }
     ],
     "confidence": [
       {
-        "claim": "The 14 October sub-launched cruise missile test, including a Pulhwasal-3-31",
+        "claim": "Details of the 14 October sub-launched missile tests",
         "level": "high",
-        "note": "Reported by two outlets, partly citing North Korean state media."
+        "note": "Reported by Al Jazeera and Stars and Stripes, citing North Korean state media."
       },
       {
-        "claim": "The 3 and 12 October launches and the 560-mile flight distance",
+        "claim": "The 3 October and 12 October launches, including the 560-mile flight",
         "level": "medium",
-        "note": "Taken from the event summary and the Stars and Stripes headline. The drafter did not see the full text of either article."
+        "note": "Taken from the event summary and the Stars and Stripes headline; we did not read the full text of every report."
       },
       {
-        "claim": "Trump's 'may' meet Kim remark on 12 October",
-        "level": "medium",
-        "note": "Taken from the event summary; not independently checked."
-      },
-      {
-        "claim": "Pyongyang is raising its price for talks",
+        "claim": "Reports of 122mm artillery and a howitzer near the border",
         "level": "low",
-        "note": "An interpretation, not a statement by North Korea."
+        "note": "Based on headlines only; the details and location are not verified."
       },
       {
-        "claim": "Scenario and prediction probabilities",
-        "level": "low",
-        "note": "Author judgement, not a sourced forecast."
-      },
-      {
-        "claim": "Links to APEC, the Ukraine summit proposal and South China Sea clashes",
+        "claim": "Kim's visit to Dandong and China's 'unwavering policy' line",
         "level": "medium",
-        "note": "Taken from the event connections; not drawn from the two cited articles."
+        "note": "Several Korean outlets carry the same story; dates and full itinerary are not confirmed in the headlines."
+      },
+      {
+        "claim": "The link between Trump's offer and the timing of the launches",
+        "level": "medium",
+        "note": "The sequence is documented; any claim that one caused the other is an inference."
+      },
+      {
+        "claim": "Scenario probabilities and predictions",
+        "level": "low",
+        "note": "Author judgement, not sourced forecasts."
       }
     ],
-    "method": "Drafted from two listed news articles and the event summary and connection notes supplied with them, without opening full article text. The facts about launch dates, distances, the DMZ blast and Trump's remark come from the summary. Everything about intent, capability, market effects and probabilities is the drafter's estimate and is labelled as such. No chart is included because there is no real numeric series to plot.",
+    "method": "Drafted from the two cited sources on the event, 22 matched wire headlines (mostly Korean, Japanese and regional outlets from 25-26 October) and the connected event notes on APEC, Ukraine summit diplomacy and the South China Sea. Many headlines were read without the full text, so claims from them are hedged. Probabilities, scenarios and sector effects are our estimates; the material has no market or trade data, so none is quoted.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-26",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:06:18.018Z",
+    "at": "2026-10-26T20:17:57.601Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 22,
+    "reviewed": false,
+    "size": "deep"
   }
 }

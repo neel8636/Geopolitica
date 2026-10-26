@@ -489,6 +489,71 @@
         "headlines": 3,
         "publishers": 3
       }
+    },
+    {
+      "id": "algeria-niger-troop-deployment-2026",
+      "title": "Algeria sends troops to Niger, first foreign deployment since 1973",
+      "type": "security",
+      "date": "2026-10-26",
+      "status": "developing",
+      "region": "Algeria, Niger",
+      "lat": 16,
+      "lon": 8,
+      "countries": [
+        "DZ",
+        "NE"
+      ],
+      "summary": "Algeria's president has ordered troops into neighbouring Niger, the first Algerian deployment abroad since 1973. The move shifts the security balance in the Sahel and could change the calculations of Mali, Libya and other neighbours over borders, migration and trade routes.",
+      "severity": 3,
+      "keywords": [
+        "algeria",
+        "niger",
+        "tebboune",
+        "sahel",
+        "troop deployment",
+        "first since 1973",
+        "niamey",
+        "algerian army",
+        "border",
+        "mali"
+      ],
+      "links": [],
+      "sources": [
+        {
+          "title": "Algeria’s president orders troop deployment to neighbouring Niger",
+          "url": "https://www.aljazeera.com/news/2026/10/26/algerias-president-orders-troop-deployment-to-neighbouring-niger?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
+          "publisher": "BBC World",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Algeria approves troop deployment to Niger: what is their mission?",
+          "url": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
+          "publisher": "Euronews",
+          "date": "2026-10-26"
+        }
+      ],
+      "news": {
+        "q": "Algeria Niger troops OR \"Algerian troops\" OR Sahel deployment",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-10-26T20:04:33.577Z",
+        "reason": "A state military deploys across a border for the first time in over 50 years, which changes Sahel security and the decisions of neighbouring governments.",
+        "channel": "troop deployment, regional security, migration and trade routes in the Sahel",
+        "reaches": [
+          "NE",
+          "ML",
+          "LY"
+        ],
+        "headlines": 3,
+        "publishers": 3
+      }
     }
   ]
 }

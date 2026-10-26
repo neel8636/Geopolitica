@@ -371,5 +371,123 @@
     "hash": "1rpm886",
     "tags": [],
     "headlines": []
+  },
+  "ecb-inflation-and-rates": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "1u9in7f",
+    "tags": [],
+    "headlines": []
+  },
+  "eu-supply-chain-rules-2027": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "tkf61x",
+    "tags": [],
+    "headlines": []
+  },
+  "alberta-independence-vote": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "o3k8qy",
+    "tags": [],
+    "headlines": []
+  },
+  "us-canada-trade-war": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "1dfd629",
+    "tags": [],
+    "headlines": []
+  },
+  "usmca-annual-review-2027": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "13mg83r",
+    "tags": [
+      {
+        "point": "LAREDO",
+        "effect": "delay",
+        "likelihood": 0.5,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          3,
+          10
+        ],
+        "why": "Mexican truckers walked off the job on 2026-10-26, and as the busiest road crossing Laredo–Nuevo Laredo is the most likely place for stoppages or blockades to back up trucks.",
+        "action": "Ask your forwarder today which carriers on your Laredo lanes are striking, and move urgent loads to the Laredo rail bridge or add 3 days of buffer stock.",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "point": "PHARR",
+        "effect": "delay",
+        "likelihood": 0.35,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          3,
+          10
+        ],
+        "why": "The Mexican truckers' walkout that began 2026-10-26 can cut the number of trucks reaching Reynosa and cause queues at Pharr, a major produce and auto-parts crossing.",
+        "action": "Confirm with your Reynosa drayage provider that pickups are covered, and pre-file customs entries so trucks can cross as soon as they arrive.",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "point": "EL_PASO",
+        "effect": "delay",
+        "likelihood": 0.35,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          3,
+          10
+        ],
+        "why": "The Mexican truckers' strike that began 2026-10-26 may thin out trucking capacity from Ciudad Juárez, where maquiladora freight depends on cross-border trucks.",
+        "action": "Ask your forwarder for a contingency plan for Juárez shipments, such as rail through El Paso or a backup carrier, and add 3 days of buffer stock for production-critical parts.",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Mexico's truckers walked off the job today. Here's what breaks first.",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vM0xHTUxGbDZIYk5mbkczRDF0Rm10Y2VqYlRCMWNmMEFaTDFzSG5YSTNiZVlqelpsbjRfOGN4b004NWxhTEpLYmtxcnc4Z3J2S1I1dUZpLW1PczRSalZ5VUdVUjZtSGxBWXZUVmNJYzgydE5NUUVab21vNEk0dkU?oc=5",
+        "publisher": "Latin Times",
+        "published": "2026-10-26T12:51:51.000Z"
+      }
+    ]
+  },
+  "venezuela-oil-reopening": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "16mt1ux",
+    "tags": [],
+    "headlines": []
+  },
+  "boj-october-decision-2026": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "1lvmasu",
+    "tags": [],
+    "headlines": []
+  },
+  "india-us-trade-deal-2026": {
+    "at": "2026-10-26T20:04:33.577Z",
+    "by": "pipeline",
+    "hash": "1yejj92",
+    "tags": [],
+    "headlines": []
   }
 }
