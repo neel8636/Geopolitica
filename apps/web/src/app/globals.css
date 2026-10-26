@@ -44,6 +44,7 @@
   --money: #4b8efe;
   --goods: #c952a8;
   --people: #438f31;
+  --new: #ff7a59; /* events added from the news this week */
   color-scheme: dark;
 }
 
@@ -78,6 +79,7 @@
   --money: #607ef5;
   --goods: #c34189;
   --people: #197037;
+  --new: #c8402a;
   color-scheme: light;
 }
 
@@ -177,7 +179,9 @@ a {
 .mf-flbl { font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; paint-order: stroke; stroke: var(--paper); pointer-events: none; }
 @keyframes mf-halo { 0% { transform: scale(0.7); opacity: 0.9; } 100% { transform: scale(2.5); opacity: 0; } }
 .mf-halo { animation: mf-halo 2.6s ease-out infinite; transform-box: fill-box; transform-origin: center; }
-@media (prefers-reduced-motion: reduce) { .mf-halo { animation: none; } }
+@keyframes mf-ping { 0% { transform: scale(1); opacity: 0.95; } 100% { transform: scale(2.4); opacity: 0; } }
+.mf-ping { animation: mf-ping 1.8s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+@media (prefers-reduced-motion: reduce) { .mf-halo, .mf-ping { animation: none; } }
 
 /* the introduction's page turns and pulsing dot (the same as the Atlas) */
 @keyframes fadein {

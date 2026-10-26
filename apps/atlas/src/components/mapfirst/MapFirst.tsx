@@ -163,6 +163,12 @@ const dotKind = (e: WorldEvent) => (e.status === "scheduled" ? "sch" : e.severit
 /* ---------- the key's memory: see it, name it, fade it ---------- */
 
 const KEY_STORE = "geopolitica.key.v1";
+const SEEN_NEW = "geopolitica.newSeen.v1";
+const NEW_DAYS = 7; // an event added from the news counts as new for a week
+/* the NEW tag: a small coral pill, drawn on the map and in the lists */
+function NewTag({ title }: { title?: string }) {
+  return <span title={title} className="ml-1.5 inline-block rounded-full px-1.5 py-px align-middle text-[10px] font-bold uppercase tracking-[0.06em]" style={{ background: "var(--new)", color: "var(--paper)" }}>New</span>;
+}
 interface Learn { seen: Record<Family, number>; learned: boolean }
 function useLearning() {
   const [L, setL] = useState<Learn>({ seen: { money: 0, goods: 0, people: 0 }, learned: false });
@@ -251,6 +257,28 @@ export default function MapFirst(props: MapFirstProps) {
   const anim = useRef(0);
 
   const todaySet = useMemo(() => new Set(today.map((t) => t.id)), [today]);
+  // events the pipeline added from the news this week: they carry a NEW tag on the map and in
+  // the lists; the ping around a dot stops once this reader has opened that event
+  const [now, setNow] = useState<number | null>(null);
+  const [seenNew, setSeenNew] = useState<Record<string, number>>({});
+  const [newOnly, setNewOnly] = useState(false);
+  useEffect(() => {
+    queueMicrotask(() => {
+      setNow(Date.now());
+      try { setSeenNew(JSON.parse(localStorage.getItem(SEEN_NEW) ?? "{}") ?? {}); } catch {}
+    });
+  }, []);
+  const newSet = useMemo(() => {
+    const s = new Set<string>();
+    if (now) for (const e of EVENTS) if (e.auto && now - Date.parse(e.auto.addedAt) < NEW_DAYS * 864e5) s.add(e.id);
+    return s;
+  }, [now]);
+  useEffect(() => {
+    if (!sel || !newSet.has(sel) || seenNew[sel]) return;
+    const n = { ...seenNew, [sel]: Date.now() };
+    queueMicrotask(() => setSeenNew(n));
+    try { localStorage.setItem(SEEN_NEW, JSON.stringify(n)); } catch {}
+  }, [sel, newSet, seenNew]);
   const links = useMemo(() => Object.fromEntries(EVENTS.map((e) => [e.id, neighbours(e.id)])), []);
   const fam = (id: string) => {
     const c: Record<Family, number> = { money: 0, goods: 0, people: 0 };
@@ -556,7 +584,7 @@ export default function MapFirst(props: MapFirstProps) {
   const k = box.w ? Math.max(vb[2] / box.w, vb[3] / box.h) : vb[2] / 1000;
   const S = sel ? G.at[sel] : null;
   const selLinks = sel ? links[sel] : [];
-  const near = conn ? new Set([conn.a, conn.b]) : sel ? new Set([sel, ...selLinks.map((l) => l.event.id)]) : null;
+  const near = conn ? new Set([conn.a, conn.b]) : sel ? new Set([sel, ...selLinks.map((l) => l.event.id)]) : newOnly && newSet.size ? newSet : null;
   const zoomed = vb[2] < W / 3.2;
   const faded = (f: Family) => (brush && f !== brush ? 0.12 : 1);
   const satellites = (p: Pt, R: number, r: number) => {
@@ -667,11 +695,14 @@ export default function MapFirst(props: MapFirstProps) {
         }
     }
     const kind = dotKind(e);
+    const isNew = newSet.has(p.id);
     const inView = p.x > vx && p.x < vx + vw && p.y > vy && p.y < vy + vh;
     return (
       <g key={p.id}>
         <g data-ev={p.id} style={{ cursor: "pointer" }} opacity={dim ? 0.22 : 1}>
           {layers.pulse && todaySet.has(p.id) ? <circle className="mf-halo" cx={p.x} cy={p.y} r={r * 1.5} fill="none" stroke="var(--gold)" strokeWidth={1.3} vectorEffect="non-scaling-stroke" /> : null}
+          {isNew && !seenNew[p.id] ? <circle className="mf-ping" cx={p.x} cy={p.y} r={r + 7 * k} fill="none" stroke="var(--new)" strokeWidth={2} vectorEffect="non-scaling-stroke" /> : null}
+          {isNew ? <circle cx={p.x} cy={p.y} r={r + 7 * k} fill="none" stroke="var(--new)" strokeWidth={2} vectorEffect="non-scaling-stroke" /> : null}
           {ring}
           <circle
             cx={p.x} cy={p.y} r={r}
@@ -684,6 +715,7 @@ export default function MapFirst(props: MapFirstProps) {
           <circle cx={p.x} cy={p.y} r={Math.max(r + 4 * k, 12 * k)} fill="transparent" />
           {isSel ? <circle cx={p.x} cy={p.y} r={r + 5 * k} fill="none" stroke="var(--ink)" strokeWidth={1.6} strokeDasharray="2 2" vectorEffect="non-scaling-stroke" /> : null}
         </g>
+
         {zoomed && layers.fuel && n && !isSel && !dim && inView
           ? satellites(p, 24, 4.2).map((s) => (
               <g key={s.i} opacity={faded(s.fam)} pointerEvents="none">
@@ -696,9 +728,27 @@ export default function MapFirst(props: MapFirstProps) {
     );
   });
 
+  // the NEW pills sit above every dot, so a crowded region cannot hide one
+  const pills = G.pts
+    .filter((p) => newSet.has(p.id) && p.id !== sel && !(near && !near.has(p.id))) // the open event says NEW in the panel
+    .map((p) => {
+      const r = rad(p.e) * k;
+      return (
+        <g key={p.id} pointerEvents="none" transform={`translate(${p.x + r + 4 * k},${p.y - r - 14 * k})`}>
+          <rect width={29 * k} height={13 * k} rx={6.5 * k} fill="var(--new)" stroke="var(--paper)" strokeWidth={1} vectorEffect="non-scaling-stroke" />
+          <text x={14.5 * k} y={9.6 * k} textAnchor="middle" fill="var(--paper)" style={{ fontSize: 8.6 * k, fontWeight: 800, letterSpacing: 0.6 * k, fontFamily: "var(--font-sans)" }}>NEW</text>
+        </g>
+      );
+    });
+
   // labels: the selection and its neighbours, or everything when zoomed in, without overlaps
   const labels: ReactNode[] = [];
   const placed: { x0: number; x1: number; y0: number; y1: number }[] = [];
+  for (const p of G.pts)
+    if (newSet.has(p.id) && !(near && !near.has(p.id))) {
+      const r = rad(p.e) * k, x0 = p.x + r + 4 * k, y0 = p.y - r - 14 * k;
+      placed.push({ x0, x1: x0 + 29 * k, y0, y1: y0 + 13 * k });
+    }
   if (S && layers.fuel && (fuel[S.id] ?? []).length) placed.push({ x0: S.x - 60 * k, x1: S.x + 60 * k, y0: S.y - 62 * k, y1: S.y + 62 * k });
   for (const p of [...G.pts].sort((a, b) => Number(b.id === sel) - Number(a.id === sel) || Number(b.id === hover) - Number(a.id === hover) || b.e.severity - a.e.severity)) {
     const show = (near && near.has(p.id)) || (zoomed && !sel) || hover === p.id;
@@ -752,7 +802,7 @@ export default function MapFirst(props: MapFirstProps) {
           <span className="mt-1 h-3 w-3 shrink-0 rounded-full" style={kind === "sch" ? { border: "2px solid var(--gold)" } : { background: kind === "sev" ? "var(--gold)" : "var(--other)" }} />
         )}
         <span className="min-w-0">
-          <span className="block text-[14px] font-medium leading-snug">{e.title}{mini(id)}</span>
+          <span className="block text-[14px] font-medium leading-snug">{e.title}{newSet.has(id) ? <NewTag title="Added from the news this week" /> : null}{mini(id)}</span>
           <span className="block text-xs text-ink-3">{kickerOf(id)}</span>
         </span>
       </button>
@@ -796,6 +846,12 @@ export default function MapFirst(props: MapFirstProps) {
         <button type="button" onClick={() => { select(null); world(); }} className="mb-2 text-[13px] text-ink-2 hover:text-ink">
           ← {tab === "events" ? "All events" : tab === "following" ? "Following" : tab === "extra" && extraTab ? extraTab.label : "Today's ripples"}
         </button>
+        {newSet.has(id) && e.auto ? (
+          <p className="mb-1.5 flex items-center gap-1.5 text-xs text-ink-2">
+            <NewTag />
+            <span className="ml-0.5">Added from the news on {new Date(e.auto.addedAt).toLocaleDateString(undefined, { day: "numeric", month: "short" })}</span>
+          </p>
+        ) : null}
         <p className="text-xs text-ink-3">
           {kickerOf(id)}
           {p ? ` · ${p.trend === "rising" ? "▲ rising" : p.trend} · ${p.day} headline${p.day === 1 ? "" : "s"} today` : ""}
@@ -983,8 +1039,21 @@ export default function MapFirst(props: MapFirstProps) {
         </div>
       );
     if (tab === "events") {
-      const list = [...EVENTS].sort((a, b) => Number(a.status === "scheduled") - Number(b.status === "scheduled") || b.severity - a.severity);
-      return <><p className="mb-1 text-[13px] text-ink-2">{list.length} events: live ones by severity, then what&rsquo;s coming up.</p>{list.map((e) => row(e.id))}</>;
+      const fresh = EVENTS.filter((e) => newSet.has(e.id)).sort((a, b) => Date.parse(b.auto!.addedAt) - Date.parse(a.auto!.addedAt));
+      const list = [...EVENTS].filter((e) => !newSet.has(e.id)).sort((a, b) => Number(a.status === "scheduled") - Number(b.status === "scheduled") || b.severity - a.severity);
+      return (
+        <>
+          {fresh.length ? (
+            <div className="mb-3 rounded-lg border px-1.5 pb-1 pt-2" style={{ borderColor: "var(--new)" }}>
+              <p className="mb-0.5 px-1.5 text-[11px] font-semibold uppercase tracking-[0.08em]" style={{ color: "var(--new)" }}>New on the map · {fresh.length}</p>
+              <p className="mb-1 px-1.5 text-xs text-ink-2">Added from the news in the last {NEW_DAYS} days, newest first.</p>
+              {fresh.map((e) => row(e.id))}
+            </div>
+          ) : null}
+          <p className="mb-1 text-[13px] text-ink-2">{list.length} {fresh.length ? "more " : ""}events: live ones by severity, then what&rsquo;s coming up.</p>
+          {list.map((e) => row(e.id))}
+        </>
+      );
     }
     if (tab === "following") {
       const list = (following ?? []).filter((id) => G.at[id]);
@@ -1068,6 +1137,7 @@ export default function MapFirst(props: MapFirstProps) {
           <span className="flex items-center gap-1.5"><i className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: "var(--gold)", boxShadow: "0 0 6px var(--gold)" }} />severe</span>
           <span className="flex items-center gap-1.5"><i className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: "var(--other)" }} />developing</span>
           <span className="flex items-center gap-1.5"><i className="inline-block h-2.5 w-2.5 rounded-full" style={{ border: "2px solid var(--gold)" }} />coming up</span>
+          {newSet.size ? <span className="flex items-center gap-1.5"><i className="inline-block h-2.5 w-2.5 rounded-full" style={{ boxShadow: "0 0 0 2px var(--new)" }} />new this week</span> : null}
           <span className="flex items-center gap-1.5"><svg width="24" height="8" aria-hidden><path d="M0 4h18" stroke="var(--gold)" strokeWidth="1.6" /><path d="M17 1l6 3-6 3z" fill="var(--gold)" /></svg>ripples into</span>
           <span className="flex items-center gap-1.5"><svg width="22" height="8" aria-hidden><path d="M0 4h22" stroke="var(--ink-3)" strokeWidth="1.5" strokeDasharray="3 3" /></svg>same driver</span>
         </div>
@@ -1112,6 +1182,7 @@ export default function MapFirst(props: MapFirstProps) {
         {topEls}
         {hitEls}
         {dots}
+        {pills}
         {labels}
         {sats}
       </svg>
@@ -1148,6 +1219,18 @@ export default function MapFirst(props: MapFirstProps) {
           <button type="button" aria-pressed={layers.pulse} onClick={() => setLayers((l) => ({ ...l, pulse: !l.pulse }))} className={chip(layers.pulse)}>
             <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ border: "2px solid var(--gold)" }} />{mobile ? null : "Pulse"}
           </button>
+          {newSet.size ? (
+            <button
+              type="button"
+              aria-pressed={newOnly}
+              title="Show only the events added from the news this week"
+              onClick={() => { const on = !newOnly; setNewOnly(on); if (on) { select(null); world(); setTab("events"); if (mobile && sheet === "peek") setSheet("half"); } }}
+              className={chip(newOnly)}
+              style={newOnly ? { background: "var(--new)", borderColor: "var(--new)", color: "var(--paper)", fontWeight: 600 } : { borderColor: "var(--new)", color: "var(--new)" }}
+            >
+              <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: newOnly ? "var(--paper)" : "var(--new)" }} />{newSet.size} new
+            </button>
+          ) : null}
         </div>
       </div>
 
