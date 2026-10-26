@@ -592,5 +592,101 @@
     "hash": "15yght8",
     "tags": [],
     "headlines": []
+  },
+  "burnham-eu-free-movement-talks-2026": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "oywbbd",
+    "tags": [],
+    "headlines": []
+  },
+  "machado-returns-venezuela-2026": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "1uqhpcm",
+    "tags": [],
+    "headlines": []
+  },
+  "algeria-niger-troop-deployment-2026": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "2frdu4",
+    "tags": [],
+    "headlines": []
+  },
+  "belgium-cost-of-living-clashes": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "q1ez0n",
+    "tags": [],
+    "headlines": []
+  },
+  "portugal-housing-protests": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "1tqa722",
+    "tags": [],
+    "headlines": []
+  },
+  "china-q3-growth": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "19w0tgq",
+    "tags": [],
+    "headlines": []
+  },
+  "istanbul-floods": {
+    "at": "2026-10-26T21:52:47.422Z",
+    "by": "pipeline",
+    "hash": "1su8yqy",
+    "tags": [
+      {
+        "point": "ISTANBUL_PORT",
+        "effect": "delay",
+        "likelihood": 0.25,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "After the 15 October floods that killed eight, an orange heavy-rain alert was issued for 26 October and a further warning for Tuesday 27 October, so flooded roads around Istanbul could slow truck access and gate turnaround at Ambarlı; no port closure has been reported.",
+        "action": "Ask your forwarder to confirm Ambarlı gate and truck-pickup status before the 27 October rain, and add 2 days of buffer to Istanbul-origin castings and components shipments this week.",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Istanbul braces for new round of flooding",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXprYzgxVFkya1hhSjJsUEV5bU9MVWEza1pVQXJ0UC14eUgyeDBnZlNTbmswNk9UNjBtSDNaVGpqNGEwVF9pYWhfMDJieksyQk45SGpfNG05TGhJaEpUUzB4X3o1ME1jRGNVUXpzX2ZIbG9uTHdwZ19FQXhnLTlJZFNPc0xmQktXRFE?oc=5",
+        "publisher": "Hürriyet Daily News",
+        "published": "2026-10-26T06:06:16.000Z"
+      },
+      {
+        "title": "Storm in Istanbul: orange alert issued for heavy rain today",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlVTTkU3OEU2SjVXQl9NTWl2T0JnUnZrU1BhejZYMlhKNHFtb1FROGJ6RExUcU1LRGc3TzZycHc4OGowSTE4UTZOQWxLNzYtTmdBaUNjaHB3QklhaWE1cEtVVVF3d1J4YkV1czR5alUwU211eWROTEEtVHlYNG0yaTE2ZDN0SlNVQzI4bktneGR4QQ?oc=5",
+        "publisher": "Hispanatolia",
+        "published": "2026-10-26T05:35:58.000Z"
+      },
+      {
+        "title": "New flood warning from Meteorology for Istanbul! Pay attention to Tuesday",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHBiSWhmbHY1T09sM2pfb2Fkb094aTQ4X1pDbWNmc1hMSm1XNUEtdEtVRkxtWVBaNFQ1a0RpWmhmYnk1aVQ3N1dEMms3S1A1aEYzaWxzaVhwR0k2WWdsVFM1REl4b1hzbzRHSnNIX0YzNHpxR2pWYjJVRldveUtZclNDLW1LMTQ?oc=5",
+        "publisher": "Haberler.com",
+        "published": "2026-10-26T04:03:10.000Z"
+      },
+      {
+        "title": "Floods in Istanbul and north-western Turkey leave 8 dead, one missing",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzkyMmxpcm5KbE1udnprd1VBVGY1eEpoY3M4eWpfWWxzQ2NfN0p3RERmNEZsZTVSa3Z1blg5Yk9ZU1FRR19TcEIyRGlZc1R0VHdhNXVMU3pUNThPMVoza01ndlByRkttTnVFXzVzSmJTZFE3OGgzTTdrTXYwNFJQelloWUpQZWVMQU54MGw4S282OGRaSjhfQTJMOTBHQQ?oc=5",
+        "publisher": "Hispanatolia",
+        "published": "2026-10-25T21:54:40.000Z"
+      }
+    ]
   }
 }

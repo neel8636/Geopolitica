@@ -2568,6 +2568,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-26T21:52:47.422Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 108 min ago"
+    },
+    {
       "at": "2026-10-26T21:04:39.605Z",
       "screened": 0,
       "accepted": [],
@@ -4126,136 +4135,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-25T07:02:23.740Z",
-      "screened": 124,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Bulgaria presidential election",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Kim Jong-un crosses new bridge into China",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Turkey rallies over journalist arrests",
-          "reason": "A domestic press-freedom protest with no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget previews",
-          "reason": "Domestic fiscal previews with no named cross-border channel.",
-          "headlines": 5,
-          "publishers": 2
-        },
-        {
-          "title": "Gunmen kill villagers in northeast Nigeria",
-          "reason": "A local security incident with no stated effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Burnham, the UAE and EU freedom of movement",
-          "reason": "Commentary and a routine statement, not a decision.",
-          "headlines": 2,
-          "publishers": 1
-        },
-        {
-          "title": "Church funeral shooting in Jordan",
-          "reason": "A criminal attack with no stated effect on other states.",
-          "headlines": 3,
-          "publishers": 3
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran war: failed deal talks, threat of new US strikes",
-          "reason": "Direct continuation of the US-Israel war on Iran and its Gulf energy fallout.",
-          "headlines": 4,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Qatar buys US natural gas",
-          "reason": "The deal is a consequence of the Iran-war energy shock already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Brazil run-off final rallies",
-          "reason": "Part of the Brazil run-off event.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "US midterm campaign developments",
-          "reason": "Part of the US midterms event.",
-          "headlines": 4,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Rome and Milan protests and troop patrols",
-          "reason": "Continuation of the Italian cost-of-living unrest.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "US lifts some Canadian tariffs",
-          "reason": "A tariff adjustment within the US-Canada trade war.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-canada-trade-war"
-        },
-        {
-          "title": "Netanyahu vows West Bank operation",
-          "reason": "Follows the West Bank attack and lockdown already covered.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "Ukraine Starlink restrictions",
-          "reason": "Same story as the existing event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Deadly strike on Russian factory",
-          "reason": "Part of the Russia-Ukraine war context already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Sudan hospitals targeted by paramilitaries",
-          "reason": "Part of the Sudan war and famine event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "sudan-darfur-kordofan-famine-alert"
-        },
-        {
-          "title": "France flashing euro crisis signals",
-          "reason": "Same French bond-stress story.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
