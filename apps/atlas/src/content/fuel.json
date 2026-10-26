@@ -3774,5 +3774,59 @@
     "at": "2026-10-26T20:04:33.577Z",
     "by": "pipeline",
     "items": []
+  },
+  "jordan-syria-strikes-church-attack-2026": {
+    "at": "2026-10-26T23:04:50.597Z",
+    "by": "pipeline",
+    "items": [
+      {
+        "id": "deadly-church-attack-in-jordan",
+        "title": "Deadly church attack in Jordan",
+        "when": "ongoing",
+        "place": "Jordan",
+        "lat": 31.95,
+        "lon": 35.93,
+        "what": "A deadly attack on a church last week prompted Jordan's retaliation against militants inside Syria.",
+        "via": "public demand for retaliation",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+            "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+            "publisher": "The Guardian World"
+          },
+          {
+            "title": "Jordan arrests three suspects over deadly church attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          },
+          {
+            "title": "Jordan's strikes on Syria over church terror attack kill several civilians",
+            "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+            "publisher": "France 24"
+          }
+        ]
+      },
+      {
+        "id": "three-suspects-arrested-over-church-attack",
+        "title": "Three suspects arrested over church attack",
+        "when": "2026-10-26",
+        "place": "Jordan",
+        "lat": 31.95,
+        "lon": 35.93,
+        "what": "Jordanian authorities arrested three suspects in connection with the deadly church attack, alongside the military response across the border.",
+        "via": "investigation and security pressure",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Jordan arrests three suspects over deadly church attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          }
+        ]
+      }
+    ]
   }
 }

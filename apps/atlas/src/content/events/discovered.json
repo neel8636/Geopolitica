@@ -554,6 +554,69 @@
         "headlines": 3,
         "publishers": 3
       }
+    },
+    {
+      "id": "jordan-syria-strikes-church-attack-2026",
+      "title": "Jordan strikes militants in Syria after deadly church attack",
+      "type": "conflict",
+      "date": "2026-10-26",
+      "status": "developing",
+      "region": "Jordan, Syria",
+      "lat": 32.6,
+      "lon": 36.5,
+      "countries": [
+        "JO",
+        "SY"
+      ],
+      "summary": "Jordan struck militants inside Syria in retaliation for last week's church attack, and France 24 reports the strikes killed several civilians. Jordan has also arrested three suspects, and a state military hitting targets in a neighbouring country raises the risk of wider cross-border escalation and displacement in the region.",
+      "severity": 3,
+      "keywords": [
+        "jordan",
+        "syria",
+        "church attack",
+        "jordanian strikes",
+        "militants",
+        "retaliation",
+        "civilians killed",
+        "suspects arrested",
+        "amman",
+        "cross-border strikes"
+      ],
+      "links": [],
+      "sources": [
+        {
+          "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+          "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+          "publisher": "The Guardian World",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Jordan's strikes on Syria over church terror attack kill several civilians",
+          "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
+          "publisher": "France 24",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Jordan arrests three suspects over deadly church attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-10-26"
+        }
+      ],
+      "news": {
+        "q": "Jordan Syria strikes \"church attack\" OR \"Jordanian strikes\" OR militants",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-10-26T23:04:50.597Z",
+        "reason": "A state military is striking inside a neighbouring country, with civilian deaths reported, which changes Syria's and the region's security calculations.",
+        "channel": "cross-border military strikes, regional security, possible displacement",
+        "reaches": [
+          "SY"
+        ],
+        "headlines": 3,
+        "publishers": 3
+      }
     }
   ]
 }
