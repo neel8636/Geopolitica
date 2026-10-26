@@ -2860,6 +2860,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-26T05:03:39.790Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 5 new uncovered headlines"
+    },
+    {
       "at": "2026-10-26T04:03:35.644Z",
       "screened": 0,
       "accepted": [],
@@ -4444,126 +4453,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 53 min ago"
-    },
-    {
-      "at": "2026-10-24T14:01:26.501Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Kim Jong-un crosses newly opened bridge into China",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Gunmen kill seven at church funeral in Jordan",
-          "reason": "A deadly attack with a domestic government response, and no reported channel to another country, so it does not meet the ripple test yet.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Starlink restrictions in Ukraine",
-          "reason": "Mostly a company service dispute with unclear policy impact, and the connection is now reported stable.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Netanyahu floats crypto to bypass sanctions",
-          "reason": "A floated idea with no decision or date, so it is not yet a development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Malaysia considers Waze ban",
-          "reason": "Only under consideration, and minor in scale.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Settlers try to break into Palestinian home",
-          "reason": "A local incident with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Barcelona housing activists evicted",
-          "reason": "A local eviction with no cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Fire at Hitler's Eagle's Nest",
-          "reason": "A criminal case with no state or policy angle.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Typhoon Champi hits Taiwan",
-          "reason": "A weather disaster with no effect abroad.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Albanian parliament scuffles over student protests",
-          "reason": "A domestic political clash with no reported effect abroad.",
-          "headlines": 3,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran warns US warships as Trump weighs new strikes",
-          "reason": "Part of the ongoing US-Israel war on Iran and the Gulf energy shock.",
-          "headlines": 4,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Qatar deal to buy US natural gas",
-          "reason": "Reflects the energy market shifts from the Iran war already covered on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Soldiers patrol Milan ahead of protests",
-          "reason": "Part of the Italian cost-of-living unrest in Milan.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "White House lifts tariffs on some Canadian goods",
-          "reason": "A development in the US-Canada tariff war.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-canada-trade-war"
-        },
-        {
-          "title": "French bond stress and euro crisis signals",
-          "reason": "Already covered by the French bond stress event.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Strikes in Ukraine and Russia as peace talks are agreed",
-          "reason": "Strikes alongside the new Russia peace talks belong to the existing Ukraine diplomacy event.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Trump administration sues to block certification of Alaska election",
-          "reason": "Part of the US midterms story.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
