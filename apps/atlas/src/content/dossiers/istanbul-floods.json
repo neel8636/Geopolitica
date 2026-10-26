@@ -1,47 +1,66 @@
 {
   "slug": "istanbul-floods",
   "title": "Istanbul floods kill eight",
-  "deck": "Heavy rain flooded Istanbul on 15 October and the death toll has risen to eight, a human tragedy that matters to Europe mainly through Turkey's role as a supplier of castings and components.",
-  "updated": "2026-10-19",
+  "deck": "A deadly flood on 15 October is a human tragedy first and a small supply-chain worry second, and a fresh rain alert this week means the story is not over.",
+  "updated": "2026-10-26",
   "status": "developing",
   "region": "Turkey",
   "tags": [
-    "disaster",
-    "flooding",
+    "floods",
     "Istanbul",
+    "extreme weather",
     "supply chains",
     "CBAM",
-    "manufacturing"
+    "insurance"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
     "deep": 15
   },
+  "fuel": [
+    {
+      "aspect": "living",
+      "title": "Orange rain alert issued for Istanbul",
+      "how": "New rain falling on ground that is already flooded raises the risk of more damage, more casualties and more disrupted days in the city.",
+      "sourceIndex": 1
+    },
+    {
+      "aspect": "displacement",
+      "title": "Toll at eight, one person still missing",
+      "how": "The flooding reached north-western Turkey as well as Istanbul, and the search for the missing person means the toll could still rise.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "trade",
+      "title": "Turkish castings face delay and paperwork risk",
+      "how": "Turkey supplies castings and steel components to European factories, and those goods fall under the EU carbon border charge (CBAM), so any port or road delay stacks on top of new compliance work."
+    }
+  ],
   "card": {
-    "headline": "Istanbul's floods are a local disaster with a small, uncertain supply-chain tail for European manufacturers",
+    "headline": "Istanbul's floods killed eight and may not be finished, with a small knock-on risk for European parts supply",
     "keyNumber": {
       "value": "8",
-      "label": "dead after the 15 October Istanbul flood, as rescuers recovered more bodies",
-      "sourceIndex": 0
+      "label": "dead after the 15 October floods; one person still missing on 25 October",
+      "sourceIndex": 2
     },
     "impactMeter": 2,
     "forYou": [
       {
         "role": "Supply chain",
-        "line": "Turkey supplies castings and components to European makers. Ask Turkish suppliers whether plants, roads or ports around Istanbul were affected. We have no confirmed disruption yet."
+        "line": "Check Turkish casting and steel suppliers around Istanbul for delays. No major shutdown is confirmed in our sources."
       },
       {
-        "role": "Importers of steel and metal goods",
-        "line": "Turkish steel and casting exporters are exposed to the EU carbon border levy (CBAM). Any port delay adds to paperwork risk ahead of the 2027 rules."
+        "role": "Insurance and finance",
+        "line": "Turkish insurer Ak Sigorta says claim notifications are still arriving, so the final loss figure is not yet known."
       },
       {
-        "role": "Finance",
-        "line": "No market-moving effect is evident from the material. Watch for insured-loss estimates and any company warnings."
+        "role": "Travel and daily life",
+        "line": "An orange rain alert was issued for Istanbul on 26 October, and more flooding is forecast for Tuesday 27 October."
       },
       {
-        "role": "Everyone",
-        "line": "The death toll may still rise. Treat early figures as provisional."
+        "role": "Everyone else",
+        "line": "The direct global impact is small. The lesson is that concentrated supply regions are exposed to weather."
       }
     ],
     "ripple": [
@@ -49,16 +68,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Eight people dead; rescuers still finding bodies, so the toll is provisional",
-            "sector": "Public safety"
+            "text": "Eight people dead after heavy rain flooded Istanbul on 15 October; rescuers recovered more bodies by 19 October",
+            "sector": "People"
           },
           {
-            "text": "Flooding across parts of Istanbul on 15 October; the full extent of damage is not yet clear from our sources",
-            "sector": "Infrastructure"
+            "text": "One person still missing on 25 October, with flooding also reported across north-western Turkey",
+            "sector": "Displacement"
           },
           {
-            "text": "Emergency and rescue operations continue under the city's governor",
-            "sector": "Government"
+            "text": "Orange alert for heavy rain issued for Istanbul on 26 October; fresh flooding warned for Tuesday",
+            "sector": "Living"
+          },
+          {
+            "text": "Insurer Ak Sigorta continues to receive claim notifications after the flood",
+            "sector": "Insurance"
           }
         ]
       },
@@ -66,16 +89,16 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Possible short delays at Istanbul-area factories, roads and ports; unconfirmed, and our estimate is that effects are modest",
-            "sector": "Logistics"
+            "text": "Roads, ports and factory sites in the region may see delays while water drains and repairs go on (not confirmed in our sources)",
+            "sector": "Trade and shipping"
           },
           {
-            "text": "Insurance claims for vehicles, buildings and stock; size unknown",
+            "text": "Turkish casting and component makers may slip on delivery dates to European customers",
+            "sector": "Manufacturing"
+          },
+          {
+            "text": "Insurance claims build up; final cost depends on how many homes and businesses were hit",
             "sector": "Insurance"
-          },
-          {
-            "text": "Repair and clean-up demand rises locally",
-            "sector": "Construction"
           }
         ]
       },
@@ -83,16 +106,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "European buyers of Turkish castings and components may check supplier resilience and hold more buffer stock",
-            "sector": "Manufacturing"
+            "text": "European buyers of Turkish castings may add buffer stock or look for second sources",
+            "sector": "Trade and shipping"
           },
           {
-            "text": "Delays could add paperwork strain for Turkish metal exporters ahead of the EU's CBAM certificate sales on 1 February 2027",
+            "text": "Delay risk lands on top of EU CBAM paperwork: certificate sales open 1 February 2027, first declaration due 30 September 2027",
             "sector": "Trade policy"
           },
           {
-            "text": "Local pressure on authorities over drainage and flood preparedness; scale unknown",
-            "sector": "Politics"
+            "text": "Pressure grows on Istanbul's drainage and flood planning if heavy rain keeps recurring",
+            "sector": "Public works"
           }
         ]
       }
@@ -100,84 +123,86 @@
   },
   "brief": {
     "whatHappened": [
-      "Heavy rain flooded Istanbul on 15 October 2026. By 19 October the death toll had risen to eight as rescuers recovered more bodies, according to Euronews citing the governor.",
-      "Our material is thin. It does not tell us how many people are missing, which districts were hit, or whether industry and ports were disrupted. We have not filled those gaps with guesses."
+      "Heavy rain flooded Istanbul on 15 October 2026. By 19 October the Istanbul governor said the death toll had risen to eight as rescuers found more bodies.",
+      "By 25 October, reports said floods in Istanbul and north-western Turkey had left eight dead and one person missing. That means the toll could still rise.",
+      "On 26 October an orange alert for heavy rain was issued for Istanbul, and forecasters warned of fresh flooding across Turkey on Tuesday 27 October. Insurer Ak Sigorta said it was still receiving claim notifications."
     ],
     "whyItMatters": [
-      "Eight deaths is a serious loss of life, but on our 1-5 scale we rate the event a 2 for wider impact so far.",
-      "Turkey is a major supplier of castings and components to European manufacturers. Istanbul is a large commercial and port region, so flood damage could ripple into delivery times. Whether it has is not yet known.",
-      "The floods also touch a policy calendar. Turkish steel and casting exporters are exposed to the EU carbon border levy (CBAM), whose certificate sales open on 1 February 2027, with the first declaration due 30 September 2027. Port disruption adds delay to paperwork risk. The EU Deforestation Regulation applies from 30 December 2026 to large and medium operators."
+      "Living: the immediate issue is safety. New heavy rain on already flooded ground raises the risk of more damage and more casualties, and it disrupts daily travel in a city of many millions.",
+      "Displacement and people: the toll is eight with one person missing. Search efforts are ongoing, so the number is not final, and the spread of flooding into north-western Turkey shows the weather was not confined to one district.",
+      "Trade: Turkey is a major supplier of castings and components to European manufacturers. Those steel-based goods are exposed to the EU carbon border charge (CBAM). Any disruption at Istanbul's ports or on its roads adds delay risk on top of new paperwork. Our sources do not say that ports or factories shut down, so treat this as a risk to monitor, not a confirmed shortage.",
+      "The EU rules are on a clock. The Deforestation Regulation applies to large and medium operators from 30 December 2026 and to small firms from 30 June 2027. CBAM certificate sales open on 1 February 2027, and the first declaration is due 30 September 2027. Importers will have less room for slack in their supply."
     ],
     "winners": [
       {
-        "who": "Local repair, clean-up and construction firms",
-        "why": "Flood damage usually creates repair demand. Size is our estimate, not a sourced figure."
+        "who": "Flood-resilience and repair contractors in Turkey",
+        "why": "Repair and drainage work usually follows a deadly flood, though no specific contracts are reported in our sources."
       },
       {
-        "who": "Alternative suppliers of castings and components",
-        "why": "If Turkish deliveries slip, buyers may shift small orders elsewhere. This is speculative and likely small."
+        "who": "Non-Turkish casting and component suppliers",
+        "why": "If delays persist, European buyers may place some orders with alternative suppliers. This is an estimate."
       }
     ],
     "losers": [
       {
-        "who": "Families of the dead and people displaced",
-        "why": "The direct human cost is the main impact so far."
+        "who": "Victims' families and residents of flooded districts",
+        "why": "Eight people died, one was missing on 25 October, and more rain is forecast."
       },
       {
-        "who": "Istanbul businesses and residents in flooded areas",
-        "why": "Flooding usually damages stock, vehicles and premises. Specific losses are not reported in our material."
+        "who": "Turkish insurers",
+        "why": "Ak Sigorta says claim notifications are still coming in, so costs are still building."
       },
       {
-        "who": "European manufacturers reliant on Turkish parts",
-        "why": "They face a risk of late deliveries. We have no confirmed stoppage."
+        "who": "Turkish casting and steel exporters",
+        "why": "They face possible logistics delay and, separately, the EU carbon charge."
       },
       {
-        "who": "Turkish metal exporters",
-        "why": "Delays compound the compliance workload of the coming CBAM rules."
+        "who": "European factories relying on Istanbul-area parts",
+        "why": "They face a risk of late deliveries. The size of the risk is unknown."
       }
     ],
     "whatsNext": [
-      "Rescue and recovery continues. The death toll could rise further.",
-      "Authorities and companies should report damage to infrastructure, industry and ports. Those reports will show whether supply chains are affected.",
-      "30 December 2026: EU deforestation rules begin for large and medium operators.",
-      "1 February 2027: CBAM certificate sales open. 30 September 2027: first CBAM declaration due."
+      "27 October: Tuesday's heavy-rain warning for Istanbul and Turkey. The key question is whether it brings new flooding.",
+      "Late October: search for the missing person and updates on the final toll.",
+      "Coming weeks: insurers' claim numbers and any supplier delay notices from Turkish exporters.",
+      "30 December 2026: EUDR applies to large and medium operators. 1 February 2027: CBAM certificate sales open."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely effect of the floods on European manufacturers?",
+      "question": "Before you read the scenarios: what is the most likely effect of the Istanbul floods on European manufacturing?",
       "options": [
-        "Major production stoppages across Europe",
-        "Isolated, short delays with no lasting effect",
-        "A change to EU CBAM deadlines",
-        "Large price rises for castings"
+        "A major shutdown of Turkish component supply",
+        "Minor, short delays that most buyers absorb",
+        "No effect at all",
+        "A permanent shift of production out of Turkey"
       ],
       "answerIndex": 1,
-      "explanation": "Our base case, about 65%, is that effects stay local and short: some delayed shipments and supplier checks, with no lasting disruption. This is judgement, as our sources report no industrial damage so far."
+      "explanation": "Our base case, at about 60%, is minor and short delays. Severity is rated 2 of 5, and our sources report no factory or port closures. The risk rises if more heavy rain hits in the coming days."
     },
     "recap": [
       {
-        "question": "When did the flooding hit Istanbul?",
+        "question": "When did the flooding begin in Istanbul?",
         "options": [
-          "15 October 2026",
-          "19 October 2026",
-          "1 February 2027"
+          "15 October",
+          "26 October",
+          "30 December"
         ],
         "answerIndex": 0
       },
       {
-        "question": "How many deaths had been reported by 19 October?",
+        "question": "What was the reported toll by 25 October?",
         "options": [
-          "Three",
-          "Eight",
-          "Eighty"
+          "Three dead",
+          "Eight dead and one missing",
+          "Thirty dead"
         ],
         "answerIndex": 1
       },
       {
-        "question": "Why might the floods matter to European industry?",
+        "question": "Why does the event touch EU trade rules?",
         "options": [
-          "Turkey supplies castings and components to European manufacturers",
-          "Istanbul makes most of Europe's grain",
-          "Turkey sets EU carbon rules"
+          "Turkey exports castings and steel that are covered by the EU carbon charge",
+          "Turkey bans exports of wood",
+          "Istanbul's airport closed to EU flights"
         ],
         "answerIndex": 0
       }
@@ -188,29 +213,70 @@
       {
         "date": "2026-10-15",
         "title": "Heavy rain floods Istanbul",
-        "detail": "Flooding across the city; deaths begin to be recorded. Details of the worst-hit areas are not in our sources.",
+        "detail": "The start of the event. Rainfall flooded the city and the first deaths were reported.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-19",
-        "title": "Death toll rises to eight",
-        "detail": "Rescuers recover more bodies, according to the governor as reported by Euronews.",
+        "title": "Toll rises to eight",
+        "detail": "The Istanbul governor said rescuers had recovered more bodies, bringing the total to eight.",
         "sourceIndex": 0
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Flooding reported across north-western Turkey; one missing",
+        "detail": "Reports put the toll at eight with one person still missing across Istanbul and north-western Turkey.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Heavy rain warning for Tuesday",
+        "detail": "Daily Sabah reported that heavy rain threatened flooding across Turkey on Tuesday.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Orange alert for Istanbul",
+        "detail": "An orange alert for heavy rain was issued for Istanbul. Hürriyet Daily News said the city was bracing for a new round of flooding.",
+        "sourceIndex": 1,
+        "turning": true
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Insurer still receiving claims",
+        "detail": "Ak Sigorta said it continues to receive claim notifications after the Istanbul flooding event.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Forecast window for new flooding",
+        "detail": "Tuesday is the day the meteorological warnings point to. Outcome unknown at time of drafting.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-12-30",
+        "title": "Scheduled: EUDR applies to large and medium operators",
+        "detail": "Importers of rubber, wood, coffee and similar goods face new due-diligence paperwork. Small firms follow on 30 June 2027."
+      },
+      {
+        "date": "2027-02-01",
+        "title": "Scheduled: CBAM certificate sales open",
+        "detail": "The first CBAM declaration is due 30 September 2027. Steel and aluminium importers are among those affected."
       }
     ],
     "causes": [
       {
         "name": "Structural roots",
-        "when": "Years in the making",
+        "when": "Long-running",
         "causes": [
           {
-            "name": "Dense urban development",
-            "detail": "Istanbul is a very large, densely built city, which raises flood exposure. This is general knowledge, not from our source."
+            "name": "A dense, low-lying urban area",
+            "detail": "Istanbul is a very large city with much paved ground, so heavy rain can overwhelm drains quickly. This is general knowledge, not a sourced finding."
           },
           {
-            "name": "Drainage and preparedness",
-            "detail": "Whether drainage capacity played a role is not established in our material and should be treated as an open question."
+            "name": "Concentrated manufacturing",
+            "detail": "Turkey supplies castings and components to European manufacturers, so local disruption can have an export effect."
           }
         ]
       },
@@ -219,248 +285,299 @@
         "when": "15 October 2026",
         "causes": [
           {
-            "name": "Heavy rainfall",
-            "detail": "Heavy rain flooded the city. Rainfall totals are not in our sources."
+            "name": "Heavy rain",
+            "detail": "Intense rainfall flooded Istanbul, killing eight people by 19 October.",
+            "sourceIndex": 0
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "15-19 October 2026",
+        "when": "Late October 2026",
         "causes": [
           {
-            "name": "Recovery of further bodies",
-            "detail": "The toll rose as rescuers searched, suggesting some victims were found days later. Cause details are not confirmed."
+            "name": "Repeat rainfall",
+            "detail": "An orange alert on 26 October and a warning for Tuesday mean more rain on ground that is already flooded.",
+            "sourceIndex": 1
+          },
+          {
+            "name": "Spread beyond one city",
+            "detail": "Flooding was also reported in north-western Turkey, widening the area of damage and search.",
+            "sourceIndex": 2
           }
         ]
       }
     ],
     "stakeholders": [
       {
-        "name": "Istanbul governor and provincial authorities",
-        "role": "Lead on rescue and public reporting",
-        "wants": "Complete recovery and a clear account of casualties",
-        "leverage": "Control of emergency response and official figures",
-        "likelyMove": "Continue searches and update the toll"
+        "name": "Istanbul governor's office and rescue services",
+        "role": "Lead emergency response and source of casualty figures",
+        "wants": "Find the missing, limit new casualties and restore normal life",
+        "leverage": "Control of rescue operations and public warnings",
+        "likelyMove": "Keep issuing alerts, update the toll and clear affected areas ahead of fresh rain"
       },
       {
-        "name": "Turkish national government",
-        "role": "Disaster response and reconstruction support",
-        "wants": "Contain public anger and restore services",
-        "leverage": "Funding and national emergency agencies",
-        "likelyMove": "Announce relief and reviews; specifics unknown"
+        "name": "Turkish meteorological service",
+        "role": "Issues rain alerts",
+        "wants": "Timely, credible warnings",
+        "leverage": "Its alert levels drive school, transport and business decisions",
+        "likelyMove": "Continue to update alerts, including the orange alert issued on 26 October"
       },
       {
-        "name": "Turkish casting and component exporters",
-        "role": "Suppliers to European manufacturers",
-        "wants": "Keep deliveries on schedule and customers confident",
-        "leverage": "Their parts are hard to replace quickly",
-        "likelyMove": "Reassure buyers; reroute or expedite shipments if disrupted"
+        "name": "Residents and small businesses in flooded districts",
+        "role": "Directly affected people",
+        "wants": "Safety, compensation and repairs",
+        "leverage": "Public pressure and insurance claims",
+        "likelyMove": "File claims and press the authorities on drainage and warnings"
       },
       {
-        "name": "European manufacturers and buyers",
-        "role": "Customers of Turkish parts",
-        "wants": "Uninterrupted supply",
-        "leverage": "Order volume and alternative suppliers",
-        "likelyMove": "Check supplier status; add buffer stock if delays appear"
+        "name": "Turkish insurers such as Ak Sigorta",
+        "role": "Carry part of the financial loss",
+        "wants": "Clear loss estimates and orderly claims handling",
+        "leverage": "Control over how quickly claims are paid",
+        "likelyMove": "Keep processing claims and disclose the cost once it is known"
+      },
+      {
+        "name": "Turkish castings and steel exporters",
+        "role": "Suppliers to European factories",
+        "wants": "Keep orders on schedule despite weather and CBAM costs",
+        "leverage": "They are a significant source of castings and components",
+        "likelyMove": "Reschedule deliveries and warn customers if the sites or routes are affected"
+      },
+      {
+        "name": "European manufacturers and importers",
+        "role": "Buyers",
+        "wants": "Steady parts supply and a smooth CBAM and EUDR start",
+        "leverage": "Order flow and contract terms",
+        "likelyMove": "Add buffer stock, query suppliers and qualify second sources"
       },
       {
         "name": "European Commission",
-        "role": "Rule-setter for CBAM and the deforestation regulation",
-        "wants": "Implement the 2026-27 rules on schedule",
-        "leverage": "Control of deadlines and implementation",
-        "likelyMove": "Hold the existing dates; there is no sign in our material of any change"
+        "role": "Owns CBAM and EUDR rules",
+        "wants": "The rules to take effect on schedule",
+        "leverage": "Control of the legal timetable",
+        "likelyMove": "Hold the dates as announced; no change is signalled in our sources"
       }
     ],
     "sectors": [
       {
-        "sector": "Turkish castings and components",
+        "sector": "Turkish insurance",
+        "direction": "down",
+        "size": 2,
+        "why": "Ak Sigorta says claim notifications are still arriving, so losses are still building and the total is unknown.",
+        "sourceIndex": 4
+      },
+      {
+        "sector": "Turkish foundries and metal components",
+        "direction": "down",
+        "size": 2,
+        "why": "Possible delays if sites, roads or ports are disrupted. No closures are confirmed in our sources."
+      },
+      {
+        "sector": "Istanbul ports and logistics",
         "direction": "down",
         "size": 1,
-        "why": "Possible short delays if plants or transport near Istanbul were hit. Unconfirmed."
+        "why": "The connection judged for this report is that port disruption adds delay risk. Scale is unknown."
       },
       {
-        "sector": "Logistics and ports in the Istanbul region",
-        "direction": "down",
-        "size": 1,
-        "why": "Flooding can slow road and port operations. No closure is confirmed in our material."
-      },
-      {
-        "sector": "Insurance",
-        "direction": "down",
-        "size": 1,
-        "why": "Claims for vehicles and property are likely, though size is unknown."
-      },
-      {
-        "sector": "Local construction and repair",
-        "direction": "up",
-        "size": 1,
-        "why": "Repair demand follows flood damage."
-      },
-      {
-        "sector": "European auto and machinery makers",
+        "sector": "European auto and machinery buyers",
         "direction": "mixed",
         "size": 1,
-        "why": "Exposure depends on how much they source from Istanbul-area suppliers, and any delay is likely small."
+        "why": "Some exposure to late castings, offset by buffer stocks and alternative suppliers. This is an estimate."
+      },
+      {
+        "sector": "Steel and aluminium importers under CBAM",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Delay risk adds to the new carbon-charge paperwork, with certificate sales opening on 1 February 2027."
+      },
+      {
+        "sector": "Construction and drainage works",
+        "direction": "up",
+        "size": 1,
+        "why": "Repairs and flood-proofing usually follow a deadly flood. No specific contracts are reported."
+      },
+      {
+        "sector": "Local retail and housing",
+        "direction": "down",
+        "size": 1,
+        "why": "Flooded premises and homes and a new rain alert point to disruption, but damage figures are not available."
       }
     ],
     "dailyLife": [
       {
         "item": "Getting around Istanbul",
-        "effect": "Flooded streets and clean-up usually disrupt local transport and services. Specific closures are not in our sources.",
-        "sourceIndex": 0
+        "effect": "Another heavy-rain alert, orange level, was issued for 26 October and more flooding is forecast for Tuesday. Expect possible road and transit disruption.",
+        "sourceIndex": 1
       },
       {
-        "item": "Car parts and appliances in Europe",
-        "effect": "A noticeable price or availability effect is unlikely in the near term. Our estimate; watch for supplier warnings."
+        "item": "Home and business insurance",
+        "effect": "Claims are still being notified. Expect some claims-handling queues and later pricing effects. The latter is an estimate.",
+        "sourceIndex": 4
       },
       {
-        "item": "Insurance premiums in affected areas",
-        "effect": "Flood claims can push premiums up later. Speculative."
+        "item": "Safety in north-western Turkey",
+        "effect": "Flooding extended beyond Istanbul, and one person was still missing on 25 October.",
+        "sourceIndex": 2
+      },
+      {
+        "item": "Price and delivery of European-made goods",
+        "effect": "Any effect from delayed Turkish parts should be small and short-lived. This is our estimate, not a sourced finding."
       }
     ],
     "scenarios": [
       {
-        "name": "Local tragedy, little supply effect",
-        "probability": 65,
-        "looksLike": "The toll settles near or a little above eight. Factories and ports resume quickly. European buyers see at most isolated late deliveries.",
+        "name": "Contained disaster",
+        "probability": 55,
+        "looksLike": "The Tuesday rain causes only local flooding. The toll stays at or near eight, the missing person is found, and Turkish suppliers deliver roughly on time.",
         "signposts": [
-          "No supplier or manufacturer warnings",
-          "Port and road operations reported normal"
+          "No new deaths after 27 October",
+          "Supplier delay notices stay rare"
         ],
-        "effectOnWorld": "Negligible beyond Turkey."
+        "effectOnWorld": "A national tragedy with a negligible effect on European industry."
       },
       {
-        "name": "Moderate industrial disruption",
-        "probability": 25,
-        "looksLike": "Some Istanbul-area plants or logistics sites are out for days to weeks. European customers see delayed castings and components and use buffer stock.",
+        "name": "Repeat flooding",
+        "probability": 30,
+        "looksLike": "New heavy rain causes more damage and possibly more casualties in Istanbul and the north-west. Roads and ports are hit for several days.",
         "signposts": [
-          "Company statements on delays",
-          "Reports of damaged industrial districts or closed ports"
+          "More deaths reported",
+          "Port or highway closures announced"
         ],
-        "effectOnWorld": "Small production slips in European plants; added strain on Turkish exporters' CBAM and customs paperwork."
+        "effectOnWorld": "Short delays for Turkish castings and components. European buyers draw on stock."
       },
       {
-        "name": "Severe or repeated flooding",
+        "name": "Supply scare",
         "probability": 10,
-        "looksLike": "A higher toll, more rain events and prolonged damage to transport and industry around Istanbul.",
+        "looksLike": "Several Istanbul-area foundries or ports are shut for more than a week, and European plants report line stoppages.",
         "signposts": [
-          "New heavy-rain warnings",
-          "Toll rising well above eight",
-          "Extended port closures"
+          "Carmakers or machinery makers cite Turkish parts delays",
+          "Rerouting of freight announced"
         ],
-        "effectOnWorld": "European buyers shift orders to other suppliers; flood resilience becomes a major political issue in Turkey."
+        "effectOnWorld": "A modest, regional manufacturing hit that gets tangled with CBAM and EUDR preparation."
+      },
+      {
+        "name": "Policy follow-through",
+        "probability": 5,
+        "looksLike": "The flood prompts a new national or city programme for drainage and early warning, with funding announced.",
+        "signposts": [
+          "Budget or project announcements from authorities"
+        ],
+        "effectOnWorld": "Slower, longer-term effect on resilience; little immediate global impact."
       }
     ],
     "predictions": [
       {
-        "text": "The official death toll will rise above eight (probability about 0.4), because recovery is still under way and the count of missing is unknown to us.",
-        "horizon": "By 2 November 2026",
-        "resolves": "2026-11-02"
-      },
-      {
-        "text": "No major European manufacturer will publicly report a production stoppage caused by the Istanbul floods (probability about 0.85).",
+        "text": "The confirmed death toll will stay at ten or fewer by 30 November 2026 (probability 0.8).",
         "horizon": "By 30 November 2026",
         "resolves": "2026-11-30"
       },
       {
-        "text": "The EU will keep its published CBAM and deforestation-regulation dates unchanged because of the floods (probability about 0.95).",
+        "text": "The Tuesday 27 October rain will cause at least some reported local flooding in Istanbul or north-western Turkey (probability 0.6).",
+        "horizon": "By 31 October 2026",
+        "resolves": "2026-10-31"
+      },
+      {
+        "text": "No major European manufacturer will publicly attribute a production stoppage to the Istanbul floods (probability 0.8).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
+      },
+      {
+        "text": "The EU will keep the 30 December 2026 EUDR date and the 1 February 2027 CBAM certificate-sale date unchanged, with no flood-related carve-out (probability 0.85).",
         "horizon": "By 1 February 2027",
         "resolves": "2027-02-01"
       },
       {
-        "text": "Turkish authorities will announce a formal review or investigation of the flood response or drainage (probability about 0.6; low confidence).",
-        "horizon": "By end-November 2026",
-        "resolves": "2026-11-30"
+        "text": "Ak Sigorta or another Turkish insurer will publish a flood-related loss figure (probability 0.5).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Ask Turkish suppliers in the Istanbul area for written status updates on plants, staff and transport.",
-          "Identify single-source castings and components and check safety stock.",
-          "Allow extra transit time for shipments from the Istanbul region until port operations are confirmed normal.",
-          "Check that customs and CBAM-related data from Turkish suppliers is ready ahead of 2027."
+          "Ask Istanbul-area suppliers for a plain status update: site access, power, transport routes and expected delay.",
+          "Add a few days of buffer on Turkish castings and components shipping through Istanbul ports.",
+          "Identify single-source parts from Turkey and line up a second source.",
+          "Start CBAM and EUDR readiness work now, so delay risk does not collide with new paperwork."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Watch company statements and insured-loss estimates before assuming any earnings effect.",
-          "Treat the supply-chain link as a risk to monitor, not an established loss."
+          "Watch for claim-cost disclosures from Turkish insurers; the total is not yet known.",
+          "Treat any European production warnings tied to Turkish parts as the signal that the supply risk has become material.",
+          "Do not assume a large macro effect: severity is rated 2 of 5."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "If you are in or travelling to Istanbul, follow local authority guidance and expect disruption.",
-          "No change to European shopping or budgeting is warranted on current information."
+          "In Istanbul and the north-west, follow official rain alerts and avoid flooded roads and underpasses.",
+          "Photograph damage and file insurance claims promptly.",
+          "Plan journeys around the Tuesday forecast."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Publish verified casualty and damage figures promptly.",
-          "Review urban drainage and flood warning systems.",
-          "Coordinate on customs and CBAM paperwork flexibility only within existing rules if ports are disrupted."
+          "Prioritise early warning and drainage in flood-prone districts.",
+          "Publish clear damage and loss figures so insurers and exporters can plan.",
+          "Consider whether short CBAM and EUDR compliance help is warranted for suppliers hit by disruption."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "September 2009 Istanbul flood",
+        "event": "Istanbul flash floods (Ikitelli area)",
         "year": "2009",
-        "whatFollowed": "Heavy rain hit the city and an industrial district; reported deaths were more than 30. Our recollection is approximate. It prompted debate over urban drainage and planning."
+        "whatFollowed": "Dozens of people died in flooding in the city; it became a reference point for debates about drainage and urban planning. Exact figures are from general knowledge and not checked here."
       },
       {
-        "event": "Black Sea region floods in Turkey",
-        "year": "2021",
-        "whatFollowed": "Floods in northern Turkey killed dozens of people (reported figure above 80, approximate). Recovery and flood-resilience debates followed."
+        "event": "Valencia floods",
+        "year": "2024",
+        "whatFollowed": "Over 200 deaths in Spain, with disruption to local industry and parts supply for some weeks. Shows how a regional flood can briefly ripple through manufacturing."
       },
       {
         "event": "Thailand floods",
         "year": "2011",
-        "whatFollowed": "Flooding of industrial estates disrupted global auto and electronics supply chains for months. It shows how flooded manufacturing zones can reach distant buyers, though no such damage is reported in Istanbul."
-      },
-      {
-        "event": "Western Europe floods",
-        "year": "2021",
-        "whatFollowed": "Floods in Germany and Belgium caused major loss of life and insured losses, followed by long rebuilding."
+        "whatFollowed": "Long-lasting flooding hit industrial estates and disrupted global electronics and auto supply chains for months. A far larger case than Istanbul so far, but it shows how supplier concentration amplifies weather."
       }
     ],
     "watch": [
       {
-        "title": "Final death toll and missing persons",
-        "why": "The toll is still rising as of 19 October."
+        "date": "2026-10-27",
+        "title": "Tuesday heavy-rain forecast",
+        "why": "The key near-term test of whether more flooding and casualties follow."
       },
       {
-        "title": "Port and industrial district status",
-        "why": "Confirmed closures or damage would make the supply-chain link real."
+        "title": "The missing person",
+        "why": "The search outcome decides whether the toll stays at eight.",
+        "date": "2026-10-30"
       },
       {
-        "title": "Company statements from European manufacturers",
-        "why": "Warnings of late castings or components would signal disruption."
+        "title": "Insurer claim updates",
+        "why": "Ak Sigorta and others will give the first hint of financial cost."
+      },
+      {
+        "title": "Supplier delay notices",
+        "why": "Any message from Turkish foundries or European buyers about late shipments turns the supply risk from theoretical to real."
       },
       {
         "date": "2026-12-30",
-        "title": "EU deforestation regulation applies to large and medium operators",
-        "why": "Importers face new paperwork; any extra logistics delay worsens the squeeze."
+        "title": "EUDR start for large and medium operators",
+        "why": "Importers will have less room for delay."
       },
       {
         "date": "2027-02-01",
         "title": "CBAM certificate sales open",
-        "why": "Turkish steel and casting exporters are exposed; port disruption adds to delay risk."
-      },
-      {
-        "date": "2027-06-30",
-        "title": "Deforestation regulation applies to small firms",
-        "why": "Wider compliance burden on smaller importers."
+        "why": "Turkish steel and casting exporters are exposed; delays add to cost."
       },
       {
         "date": "2027-09-30",
         "title": "First CBAM declaration due",
-        "why": "Paperwork deadline for importers of covered goods, including steel and aluminium."
+        "why": "Marks the first full compliance cycle for affected importers."
       }
     ]
   },
@@ -471,54 +588,96 @@
         "url": "https://www.euronews.com/2026/10/19/istanbul-flood-death-toll-rises-to-eight-as-rescuers-find-more-bodies-governor-says",
         "publisher": "Euronews",
         "date": "2026-10-19"
+      },
+      {
+        "title": "Istanbul braces for new round of flooding",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXprYzgxVFkya1hhSjJsUEV5bU9MVWEza1pVQXJ0UC14eUgyeDBnZlNTbmswNk9UNjBtSDNaVGpqNGEwVF9pYWhfMDJieksyQk45SGpfNG05TGhJaEpUUzB4X3o1ME1jRGNVUXpzX2ZIbG9uTHdwZ19FQXhnLTlJZFNPc0xmQktXRFE?oc=5",
+        "publisher": "Hürriyet Daily News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Floods in Istanbul and north-western Turkey leave 8 dead, one missing",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzkyMmxpcm5KbE1udnprd1VBVGY1eEpoY3M4eWpfWWxzQ2NfN0p3RERmNEZsZTVSa3Z1blg5Yk9ZU1FRR19TcEIyRGlZc1R0VHdhNXVMU3pUNThPMVoza01ndlByRkttTnVFXzVzSmJTZFE3OGgzTTdrTXYwNFJQelloWUpQZWVMQU54MGw4S282OGRaSjhfQTJMOTBHQQ?oc=5",
+        "publisher": "Hispanatolia",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Heavy rain threatens flooding across Türkiye on Tuesday",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTgxWk9Ud3QxMEZacDFENmpCZDhNLUxVb3U2TVExcl9HZ1FqeGk3d0dlZXhZZUVVUHJBMEtWdXRoZkE5N1ljWkp5aHMwcFRuRDh3REk3T3R6MWZVMUdkSUVqUDZsUDllakl5SlFSemRXNDVCUXFvLTNpS0IzejBaWlZZMHN1T2dhaEt4Qlk1aHBkcFFXN1I3bTRXUm5IZEZi0gGgAUFVX3lxTE5lODFaT1R3dDEwRlpwMUQ2akJkOE0tTFVvdTZNUTFyX0dnUWp4aTd3R2VleFllRVVQckEwS1Z1dGhmQTk3WWNaSnloczBwVG5EOHdESTdPdHoxZlUxR2RJRWpQNmxQOWVqSXlKUVJ6ZFc0NUJRcW8tM2lLQjN6MFpaVlkwc3VPZ2FoS3hCWTVocGRwUVc3UjdtNFdSbkhkRmI?oc=5",
+        "publisher": "Daily Sabah",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Ak Sigorta Says It Continues To Receive Claim Notifications After Istanbul Flooding Event",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYmFOaVlXMU1hbzBRVEZnekcyd01jM3ZsbC01ZDd3SDJGZkY1LTY4TkJRWW9GSS1ubTFjeENUQjFXNWpQR01DMkQzZzF2R2o2elUtSUFSMXNGcUh1eS00SnRFRGpidmdkRC1kYzdiZHBpMHRjcUFFMkJWOENSTi1VSzJEa1ZBaVNKSXNTLVpwNDB0YWNDQjRBaHVZMFVBMjl2NHdXWVRieTNDb29lWFJ5V0VjSlR5SjR6QWlQR0cyUngtQkhzc29CM2xJSVNKQ2NYVi1RWU9tRGNsYzJVbGdLVVQ2emNndmNrZFBRLUtYSlY?oc=5",
+        "publisher": "TradingView",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Storm in Istanbul: orange alert issued for heavy rain today",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlVTTkU3OEU2SjVXQl9NTWl2T0JnUnZrU1BhejZYMlhKNHFtb1FROGJ6RExUcU1LRGc3TzZycHc4OGowSTE4UTZOQWxLNzYtTmdBaUNjaHB3QklhaWE1cEtVVVF3d1J4YkV1czR5alUwU211eWROTEEtVHlYNG0yaTE2ZDN0SlNVQzI4bktneGR4QQ?oc=5",
+        "publisher": "Hispanatolia",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "New flood warning from Meteorology for Istanbul! Pay attention to Tuesday",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHBiSWhmbHY1T09sM2pfb2Fkb094aTQ4X1pDbWNmc1hMSm1XNUEtdEtVRkxtWVBaNFQ1a0RpWmhmYnk1aVQ3N1dEMms3S1A1aEYzaWxzaVhwR0k2WWdsVFM1REl4b1hzbzRHSnNIX0YzNHpxR2pWYjJVRldveUtZclNDLW1LMTQ?oc=5",
+        "publisher": "Haberler.com",
+        "date": "2026-10-26"
       }
     ],
     "confidence": [
       {
-        "claim": "Flooding on 15 October and a death toll of eight as of 19 October",
-        "level": "medium",
-        "note": "Single source (Euronews, citing the governor). The toll is still rising."
+        "claim": "Eight deaths by 19 October and one person missing by 25 October",
+        "level": "high",
+        "note": "Euronews reports the governor's figure; Hispanatolia repeats eight dead and adds one missing. The toll could still change."
+      },
+      {
+        "claim": "Orange rain alert on 26 October and fresh flooding warned for Tuesday 27 October",
+        "level": "high",
+        "note": "Reported by several Turkish outlets. We do not know what actually happened on Tuesday."
       },
       {
         "claim": "Turkey is a major supplier of castings and components to European manufacturers",
         "level": "medium",
-        "note": "From the event summary; we did not check a statistical source."
+        "note": "Taken from the event summary and the judged connection; we found no volume or share figure."
       },
       {
-        "claim": "Supply-chain disruption from the floods",
-        "level": "low",
-        "note": "No source reports factory or port damage. This is a risk, not an observed effect."
-      },
-      {
-        "claim": "CBAM and deforestation-regulation dates",
+        "claim": "EUDR and CBAM dates",
         "level": "medium",
-        "note": "From the linked dossier on EU supply-chain rules, not independently checked here."
+        "note": "Taken from the connection notes supplied with the event. No official EU URL was given, so none is cited."
       },
       {
-        "claim": "Scenario probabilities and prediction probabilities",
+        "claim": "Port or factory disruption in Istanbul",
         "level": "low",
-        "note": "Author judgement on a thin evidence base."
+        "note": "The connection assumes port disruption adds delay risk, but our sources do not confirm any closure. Treated as a risk, not a fact."
       },
       {
-        "claim": "Historical analogues",
+        "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "From general knowledge, with approximate figures and no linked source."
+        "note": "Author judgement, not sourced forecasts."
+      },
+      {
+        "claim": "Analogues (Istanbul 2009, Valencia 2024, Thailand 2011)",
+        "level": "medium",
+        "note": "From general knowledge, described loosely. Exact figures were not checked against a source here."
       }
     ],
-    "method": "Drafted from one listed source (a Euronews report of 19 October 2026), the matching wire headline, the event summary and a linked dossier on EU supply-chain rules. Nothing else was available. Cause, damage, sector effects, scenarios and probabilities are estimates and are flagged as such in the text. Analogues come from general knowledge and carry low confidence. No chart is included because we have no real numeric series.",
+    "method": "Drafted from the listed sources and wire headlines opened on 26 October 2026: one Euronews report on the toll, Turkish and regional outlets on the follow-up rain alerts and the missing person, and an insurer-claims headline. The material contained no damage totals, port-closure notices or supplier statements, so the supply-chain and insurance effects are estimates and are labelled as such. Scenario probabilities and predictions are the author's judgement. The CBAM and EUDR dates come from the connection notes supplied with the event rather than from a cited EU document.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-26",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:15:03.594Z",
+    "at": "2026-10-26T21:20:42.173Z",
     "model": "claude-sonnet-5-5",
     "sources": 1,
-    "headlines": 1,
-    "reviewed": false
+    "headlines": 19,
+    "reviewed": false,
+    "size": "deep"
   }
 }

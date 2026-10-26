@@ -1,46 +1,70 @@
 {
   "slug": "belgium-cost-of-living-clashes",
-  "title": "Cost-of-living clashes in Brussels and Liège",
-  "deck": "Belgian school protests that copied France's blockades turned into street clashes with police on 17 October, a small but telling sign that France's unrest is travelling.",
-  "updated": "2026-10-19",
+  "title": "Cost-of-living clashes in Brussels and Liege",
+  "deck": "Belgian students copied France's school blockades, the anger turned to cost of living and governance, and two weekends of street clashes in Brussels now sit inside a wider European protest wave.",
+  "updated": "2026-10-26",
   "status": "developing",
   "region": "Belgium",
   "tags": [
     "unrest",
     "cost of living",
     "Belgium",
-    "EU politics",
-    "contagion"
+    "copycat protest",
+    "Europe protest wave"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 16
   },
-  "card": {
-    "headline": "Belgium's clashes are a spillover from France, not yet a crisis of their own",
-    "keyNumber": {
-      "value": "2",
-      "label": "Belgian cities, Brussels and Liège, where police clashed with demonstrators on 17 October",
+  "fuel": [
+    {
+      "aspect": "politics",
+      "title": "Italian and Albanian clashes join the wave",
+      "how": "Protests in Rome, Turin, Bologna, Milan and Tirana over costs, education and governance add momentum that Belgian protesters can draw on.",
+      "sourceIndex": 4
+    },
+    {
+      "aspect": "security",
+      "title": "Second Brussels clash; shops boarded up",
+      "how": "A week after looting, police and protesters clashed again in Brussels, nine people were arrested and shopkeepers boarded up, which keeps the confrontation alive.",
+      "sourceIndex": 1
+    },
+    {
+      "aspect": "living",
+      "title": "Living-cost anger behind Europe's protests",
+      "how": "Coverage ties the demonstrations to the gap between wages and prices, the grievance that turned a school protest into a broader one.",
       "sourceIndex": 0
+    }
+  ],
+  "card": {
+    "headline": "Belgium's clashes are a French-style school protest that turned into a cost-of-living and anti-government fight",
+    "keyNumber": {
+      "value": "9",
+      "label": "arrested in Brussels on 24 October, a week after the 17 October clashes in Brussels and Liege",
+      "sourceIndex": 1
     },
     "impactMeter": 2,
     "forYou": [
       {
-        "role": "Supply chain",
-        "line": "Expect short, local disruption around protest squares in Brussels and Liège. Nothing so far suggests a network-wide problem."
+        "role": "Retail and hospitality",
+        "line": "Shops in central Brussels boarded up on 24 October for fear of a repeat of the previous week's looting. Plan for protest Saturdays."
       },
       {
-        "role": "Finance",
-        "line": "Belgian assets are not the story. The story is whether French unrest keeps spreading across Europe."
+        "role": "Travel and events",
+        "line": "Expect police cordons and disruption around demonstrations in Brussels. We have no sourced numbers on transport impact."
       },
       {
-        "role": "Sales into Europe",
-        "line": "Cost-of-living anger is now visible in more than one country. Treat it as a demand and sentiment risk, not just a French one."
+        "role": "Investors",
+        "line": "No sign of a market effect in our sources. The risk is political contagion across Europe, not Belgian finances."
+      },
+      {
+        "role": "Parents and students",
+        "line": "The wave began with school blockades. School-level disruption and tension may continue."
       },
       {
         "role": "Everyone",
-        "line": "If you are in Brussels or Liège, avoid protest squares on announced days and check transport before you travel."
+        "line": "Belgium's interior minister calls it violence, not protest. That framing points to a security-led response, not concessions."
       }
     ],
     "ripple": [
@@ -48,16 +72,24 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Police and demonstrators clashed in Brussels and Liège on 17 October",
-            "sector": "Public order"
+            "text": "Police and demonstrators clash in Brussels and Liege on 17 October; the interior minister calls it violence, not protest",
+            "sector": "Security"
           },
           {
-            "text": "The interior minister called it violence, not protest, signalling a firm line",
-            "sector": "Government"
+            "text": "Looting in Brussels, then shops boarded up a week later on fear of a repeat",
+            "sector": "Security, retail"
           },
           {
-            "text": "Likely local disruption to shops, transport and city-centre business around the clashes (scale not confirmed)",
-            "sector": "Retail, transport"
+            "text": "Nine arrests in Brussels on 24 October as protesters and police clash again",
+            "sector": "Security"
+          },
+          {
+            "text": "Belgian students copy French school blockades, then add cost-of-living demands",
+            "sector": "Politics and protest"
+          },
+          {
+            "text": "Anger over the gap between wages and prices feeds the marches",
+            "sector": "Living costs"
           }
         ]
       },
@@ -65,16 +97,16 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Pressure on Belgian authorities to separate peaceful protest from disorder, and possibly to restrict gatherings",
-            "sector": "Policy"
+            "text": "Belgium is now named alongside France and Italy as part of a three-country protest wave",
+            "sector": "Politics and protest"
           },
           {
-            "text": "Students and unions may link school grievances to prices and pay, widening the movement",
-            "sector": "Labour"
+            "text": "Businesses in central Brussels pay for boarding up and lost trade on protest days (estimate; no figures yet)",
+            "sector": "Retail"
           },
           {
-            "text": "Higher policing and security costs for city authorities",
-            "sector": "Public finance"
+            "text": "Pressure on the government to answer both public order and cost-of-living complaints",
+            "sector": "Government"
           }
         ]
       },
@@ -82,16 +114,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Evidence of cross-border contagion strengthens the case that Europe faces a shared cost-of-living politics problem",
+            "text": "Clashes in Italian cities and Tirana suggest the protest wave is not tied to one country's politics",
             "sector": "Europe"
           },
           {
-            "text": "Governments elsewhere may pre-empt copycat protests with tougher policing or quick concessions",
-            "sector": "Governance"
+            "text": "A hard security line could harden protesters' view of the state, as the interior minister's framing suggests (judgement)",
+            "sector": "Politics and protest"
           },
           {
-            "text": "Anti-establishment parties may gain if disorder dominates the story",
-            "sector": "Politics"
+            "text": "Repeated unrest in the EU's host city draws attention to how Europe handles protest and living costs",
+            "sector": "EU politics"
           }
         ]
       }
@@ -99,107 +131,140 @@
   },
   "brief": {
     "whatHappened": [
-      "On 17 October 2026, police clashed with demonstrators in Brussels and Liège. The clashes followed weeks of high-school protests in Belgium that echoed the school blockades in France.",
-      "Belgium's interior minister described the events as violence, not protest. That framing suggests the government wants to treat the disorder as a policing matter and not as a political grievance.",
-      "The same day, France saw its largest march of the autumn, about 550,000 people, with roughly 2,400 arrests. A Euronews report on 19 October described protests spreading across Europe and tied them to cost-of-living pressures.",
-      "We do not have reliable figures for Belgian turnout, arrests or injuries. We have not stated any."
+      "On 17 October 2026, police clashed with demonstrators in Brussels and Liege. It followed weeks of high-school protests that echoed the school blockades in France. Belgium's interior minister called what happened violence, not protest.",
+      "A week later, on 24 October, protesters and police clashed again in Brussels. Nine people were arrested. Shops were boarded up because of fears of a repeat of the previous week's looting.",
+      "The Belgian wave is part of a bigger pattern. Reports from 24 and 25 October describe clashes with police in Rome, Turin, Bologna, Milan and Tirana over living costs, education and governance. Several outlets now speak of a protest wave across France, Italy, Belgium and Albania."
     ],
     "whyItMatters": [
-      "It is a sign of contagion. Belgian students copied French tactics, and the protests then moved from school gates to city streets. That is how a national story becomes a European one.",
-      "Belgium is a small economy, but Brussels hosts the EU institutions and NATO headquarters. Disorder there draws attention out of proportion to its size.",
-      "The underlying driver is shared: prices have risen faster than many households' pay. That pressure exists across Europe, so Belgium is unlikely to be the last case.",
-      "The risk is modest for now. The severity is low (2 out of 5), and the clashes have not been shown to have shut down anything beyond local streets."
+      "Politics and protest: this is a copycat. French students blockaded schools over teacher shortages. Belgian students copied the tactic and the demands weeks later. That means unrest travels fast between neighbouring countries, and one country's school dispute can become another's street fight.",
+      "Security: two Saturdays of confrontation in the capital of both Belgium and the EU have already changed behaviour. Shops are boarded up and police are bracing for repeat looting. The interior minister's wording suggests the state is treating the events as a public-order problem, which can narrow the room for talks.",
+      "Living costs: coverage ties the demonstrations to the gap between wages and prices, and to anger over education and governance. If that grievance is real and widespread, a firm police response will not remove it. That is why the unrest could return.",
+      "Scale check: Belgium's severity is lower than France's. The sources we have give no Belgian crowd size or damage figure, so we rate the impact at 2 out of 5."
     ],
     "winners": [
       {
-        "who": "Hard-line and anti-establishment parties",
-        "why": "Images of disorder tend to help parties that promise order. This is a general pattern, not a Belgian poll result."
+        "who": "Security firms and insurers",
+        "why": "Boarding up and riot-risk worries raise demand for private security and cover (our estimate)."
       },
       {
-        "who": "Private security and riot-insurance providers",
-        "why": "Demand typically rises after visible disorder, though the effect here is small."
+        "who": "Opposition and protest-aligned parties",
+        "why": "Anti-government anger is a political opening in any country. We have no Belgian polling to size it."
       }
     ],
     "losers": [
       {
-        "who": "Shopkeepers and hospitality near protest squares",
-        "why": "Clashes cut footfall and risk property damage, although the extent in Belgium is not known."
+        "who": "Brussels shopkeepers and hospitality",
+        "why": "Shops were looted on 17 October, and had to board up again by 24 October."
       },
       {
-        "who": "Belgian authorities",
-        "why": "They face a choice between a firm response that may inflame students and concessions that may encourage more protest."
+        "who": "Belgium's federal government",
+        "why": "Headlines call the protests anti-government. It has to answer both disorder and cost-of-living complaints."
       },
       {
-        "who": "Commuters in Brussels and Liège",
-        "why": "Closures and police cordons around protest sites cause delays on affected days."
+        "who": "Students and genuine peaceful protesters",
+        "why": "The interior minister's 'violence, not protest' framing risks lumping them in with looters."
       }
     ],
     "whatsNext": [
-      "Watch whether further protest days are called in Belgium, and whether unions or student groups announce a common date.",
-      "Watch whether the government moves from words to measures: protest restrictions, policing changes or any response on school funding or prices.",
-      "Watch France. If French unrest keeps growing, the Belgian protests are likely to continue. If it fades, they probably will too."
+      "More Saturday marches are plausible. The first two came a week apart, 17 and 24 October.",
+      "Watch whether the government offers anything on school funding or living costs, or sticks to a security line.",
+      "Watch France and Italy. Belgian unrest has followed French unrest, so what happens there may shape Belgium."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely path for the Belgian protests over the next few weeks?",
+      "question": "Before you read the scenarios: what is the most likely path for Belgium's protests over the next month?",
       "options": [
-        "They fade quickly as French unrest cools",
-        "They simmer, with occasional clashes in Brussels and Liège",
-        "They merge with union action and become a national movement",
-        "They escalate into serious, sustained disorder"
+        "Fades quickly as the school-led wave burns out",
+        "Recurring weekend clashes with small arrest numbers",
+        "Escalates into nationwide unrest on the French scale",
+        "Government concessions calm the streets"
       ],
-      "answerIndex": 0,
-      "explanation": "Our base case, at about 45%, is that the protests fade within weeks, because they are small, copy a foreign movement and lack a clear Belgian trigger. A simmering path at 30% is the main alternative. These are author judgements, not forecasts from a model."
+      "answerIndex": 1,
+      "explanation": "Our base case is recurring weekend clashes at modest scale, at about 40%. The first two weekends produced violence but, as far as our sources show, small arrest numbers. A fade-out is the next most likely at about 30%."
     },
     "recap": [
       {
-        "question": "Where did police clash with demonstrators in Belgium on 17 October?",
+        "question": "What began the wave that reached Belgium?",
         "options": [
-          "Antwerp and Ghent",
-          "Brussels and Liège",
-          "Charleroi and Namur"
-        ],
-        "answerIndex": 1
-      },
-      {
-        "question": "How did the Belgian interior minister characterise the events?",
-        "options": [
-          "As a legitimate protest",
-          "As violence, not protest",
-          "As a union dispute"
-        ],
-        "answerIndex": 1
-      },
-      {
-        "question": "What links the Belgian protests to France?",
-        "options": [
-          "Belgian students copied French school blockades",
-          "A shared fuel tax",
-          "A joint union strike"
+          "French school blockades copied by Belgian students",
+          "A Belgian rail strike",
+          "A tax rise in Liege"
         ],
         "answerIndex": 0
+      },
+      {
+        "question": "How many people were arrested in Brussels on 24 October?",
+        "options": [
+          "Nine",
+          "Nine hundred",
+          "None"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "How did Belgium's interior minister describe the 17 October clashes?",
+        "options": [
+          "A legitimate protest",
+          "Violence, not protest",
+          "A strike"
+        ],
+        "answerIndex": 1
       }
     ]
   },
   "deep": {
     "timeline": [
       {
+        "date": "2026-09-25",
+        "title": "French students begin school blockades",
+        "detail": "Starting in late September, French high-school students blockaded schools over teacher shortages. This is the model Belgian students later copied (see france-unrest-2026).",
+        "turning": false
+      },
+      {
+        "date": "2026-10-01",
+        "title": "Belgian high-school protests begin (approximate)",
+        "detail": "Our sources say only that Belgian students copied the French blockades weeks before 17 October. The exact start date is not in them, so this entry is placed early in October as an estimate."
+      },
+      {
         "date": "2026-10-17",
-        "title": "550,000 march in France; roughly 2,400 arrested",
-        "detail": "The peak of France's autumn protests so far, with looting and arson in several cities. This is the model Belgian students had been copying.",
+        "title": "Mass marches in France",
+        "detail": "About 550,000 marched in France and roughly 2,400 were arrested in one day, the same day as the Belgian clashes (from the connected France dossier)."
+      },
+      {
+        "date": "2026-10-17",
+        "title": "Police and demonstrators clash in Brussels and Liege",
+        "detail": "Belgium's interior minister called it violence, not protest.",
         "turning": true
       },
       {
         "date": "2026-10-17",
-        "title": "Police clash with demonstrators in Brussels and Liège",
-        "detail": "Clashes follow weeks of Belgian high-school protests. The interior minister calls it violence, not protest. Turnout, arrests and injuries are not confirmed in our material.",
-        "sourceIndex": 0,
-        "turning": true
+        "title": "Looting in Brussels (date approximate)",
+        "detail": "A 24 October headline refers to fears of a repeat of 'last week's looting', which puts it around the 17 October clashes.",
+        "sourceIndex": 2
       },
       {
         "date": "2026-10-19",
-        "title": "Euronews reports protests spreading across Europe",
-        "detail": "The article links the demonstrations to cost-of-living pressures, framing Belgium and France as part of a wider pattern.",
+        "title": "Europe-wide cost-of-living framing",
+        "detail": "Euronews reports on the economic pressures, wages against prices, behind the protests across Europe.",
         "sourceIndex": 0
+      },
+      {
+        "date": "2026-10-24",
+        "title": "Second Brussels clash; nine arrests",
+        "detail": "Protesters and police clash at anti-government protests. Shops are boarded up in fear of a repeat of the previous week's looting.",
+        "sourceIndex": 1,
+        "turning": true
+      },
+      {
+        "date": "2026-10-24",
+        "title": "Clashes in Italian cities and Tirana",
+        "detail": "Protesters clash with police in Rome, Turin, Bologna, Milan and Tirana over living costs, education and governance.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Coverage frames a Europe-wide protest wave",
+        "detail": "Outlets describe anger over costs, education and governance across France, Italy, Belgium and Albania.",
+        "sourceIndex": 3
       }
     ],
     "causes": [
@@ -208,270 +273,295 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "Prices outrunning pay",
-            "detail": "Cost-of-living pressure is the common theme in the Euronews coverage. Belgium has automatic wage indexation, which cushions some workers more than others, but young people and those outside indexed jobs feel it less."
+            "name": "Cost-of-living squeeze",
+            "detail": "Coverage links the protests to the gap between wages and prices across Europe. We have no Belgian-specific figures."
           },
           {
-            "name": "Tight public budgets",
-            "detail": "Belgium has been under pressure to cut its deficit, and its federal government has faced union opposition to reforms since 2025. We treat this as background with medium confidence."
+            "name": "Education grievances",
+            "detail": "Italian protests were reported as being over education as well as costs. The Belgian wave began with high-school protests that copied French demands on teacher shortages."
           },
           {
-            "name": "Youth frustration",
-            "detail": "Students are a reliable early signal of wider discontent about services and prospects."
+            "name": "Distrust of governance",
+            "detail": "Headlines call the Brussels events anti-government protests and cite political failures as a cause."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "Autumn 2026",
+        "when": "Late September to early October 2026",
         "causes": [
           {
-            "name": "French school blockades",
-            "detail": "Belgian students copied the French tactic of blockading schools, which brought the protests onto the street."
+            "name": "Copycat school blockades",
+            "detail": "Belgian students copied French blockades and demands weeks after the French began."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "Mid-October 2026",
+        "when": "17 to 25 October 2026",
         "causes": [
           {
-            "name": "French escalation",
-            "detail": "The 17 October march in France, and the violence around it, gave Belgian protesters a visible example and a date."
+            "name": "Police confrontation",
+            "detail": "Clashes in Brussels and Liege on 17 October, and again in Brussels on 24 October."
           },
           {
-            "name": "Social media",
-            "detail": "Images of French clashes travel quickly. This is our inference; the sources provided do not detail it."
+            "name": "Looting and framing",
+            "detail": "Looting gave the interior minister grounds to call the events violence, not protest, which can sharpen the dispute (our judgement)."
           },
           {
-            "name": "Policing posture",
-            "detail": "A firm response and the framing of the clashes as violence can harden positions on both sides."
+            "name": "Cross-border momentum",
+            "detail": "Clashes in Italian cities and Tirana, and media talk of a wave, keep the movement visible."
           }
         ]
       }
     ],
     "stakeholders": [
       {
-        "name": "Belgian federal government",
-        "role": "Responsible for order and national policy",
-        "wants": "End the clashes without handing protesters a political win",
-        "leverage": "Policing powers, the ability to restrict gatherings, control of the budget",
-        "likelyMove": "Hold a firm line on violence while offering limited dialogue on schools"
+        "name": "Belgium's interior minister",
+        "role": "Responsible for policing and public order",
+        "wants": "Order restored; the clashes framed as criminal violence",
+        "leverage": "Police powers, public statements, arrests",
+        "likelyMove": "Keep a firm security line and push prosecutions for looting and violence"
       },
       {
-        "name": "Interior minister",
-        "role": "Political head of policing",
-        "wants": "A clear distinction between peaceful protest and disorder",
-        "leverage": "Direction of federal police priorities and public messaging",
-        "likelyMove": "Repeat the violence-not-protest framing; back arrests of those who clash with police"
+        "name": "High-school and student protesters",
+        "role": "Originators of the Belgian wave",
+        "wants": "Better schools and help with living costs, in line with the demands copied from France",
+        "leverage": "Numbers, social-media reach, the ability to disrupt schools",
+        "likelyMove": "Keep protesting, but risk being overshadowed by looters and clashes"
       },
       {
-        "name": "City authorities in Brussels and Liège",
-        "role": "Local order and services",
-        "wants": "Safe streets, open shops and transport",
-        "leverage": "Local policing coordination, permits for gatherings",
-        "likelyMove": "Tighten rules around protest locations on announced days"
+        "name": "Brussels police and city authorities",
+        "role": "Front-line public order",
+        "wants": "Prevent a repeat of the looting; limit damage",
+        "leverage": "Cordons, arrests, seizing items (they defended seizing swimming goggles at a protest, per a Brussels Times headline)",
+        "likelyMove": "Heavier presence on protest Saturdays; arrests of those seen as violent"
       },
       {
-        "name": "Student groups and unions",
-        "role": "Organisers and likely participants",
-        "wants": "Funding for schools, action on prices and pay",
-        "leverage": "Ability to call further days of action; possible alliance between them",
-        "likelyMove": "Call more protests, and distance themselves from violence"
+        "name": "Brussels shopkeepers",
+        "role": "Exposed to looting and lost trade",
+        "wants": "Protection and compensation",
+        "leverage": "Lobbying the city and insurers",
+        "likelyMove": "Board up on protest days; press for security and cover"
       },
       {
-        "name": "French protest movement",
-        "role": "Source of the model and the momentum",
-        "wants": "School funding, relief on prices and an end to austerity",
-        "leverage": "Size: about 550,000 marched on 17 October",
-        "likelyMove": "Continue marching, which keeps Belgian protesters motivated"
+        "name": "French government",
+        "role": "Origin of the model; faces the larger unrest",
+        "wants": "Calm at home",
+        "leverage": "Whatever it concedes sets expectations across the border",
+        "likelyMove": "Depends on how its own crisis develops; see france-unrest-2026"
+      },
+      {
+        "name": "Italian and Albanian protesters and governments",
+        "role": "Parallel movements in the same wave",
+        "wants": "Action on costs, education and governance",
+        "leverage": "Same shared narrative of a European protest wave",
+        "likelyMove": "Further protests; their size will shape the narrative around Belgium"
       }
     ],
     "sectors": [
       {
-        "sector": "Retail and hospitality in central Brussels and Liège",
+        "sector": "Retail and hospitality in central Brussels",
         "direction": "down",
-        "size": 1,
-        "why": "Clashes cut footfall and risk property damage on protest days. Scale in Belgium is unknown."
-      },
-      {
-        "sector": "Urban public transport",
-        "direction": "down",
-        "size": 1,
-        "why": "Police cordons and closures near protest sites cause short delays."
+        "size": 2,
+        "why": "Looting around 17 October and boarding up on 24 October mean lost trade and costs. We have no figures."
       },
       {
         "sector": "Private security and insurance",
         "direction": "up",
         "size": 1,
-        "why": "Visible disorder tends to raise demand for security and riot cover."
+        "why": "Demand for guarding and riot cover is likely to rise (our estimate)."
       },
       {
-        "sector": "EU-facing services in Brussels",
+        "sector": "Education",
         "direction": "mixed",
-        "size": 1,
-        "why": "Little direct effect so far. The risk is reputational and tied to whether disorder reaches the EU quarter."
+        "size": 2,
+        "why": "The protests began in high schools. Disruption hurts teaching, but the pressure may bring attention and funding (judgement)."
       },
       {
-        "sector": "Belgian government bonds",
-        "direction": "mixed",
+        "sector": "Public order and policing",
+        "direction": "up",
+        "size": 2,
+        "why": "Heavier deployments on protest days and a political push for tough enforcement."
+      },
+      {
+        "sector": "Events, tourism and transport in Brussels",
+        "direction": "down",
         "size": 1,
-        "why": "No sign of market stress in our material. French contagion is the thing to watch."
+        "why": "Protest days disrupt the city centre. Low confidence; our sources give no data."
+      },
+      {
+        "sector": "Belgian domestic politics",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Anti-government anger pressures the government. Whether the opposition benefits is unclear without polling."
       }
     ],
     "dailyLife": [
       {
-        "item": "Getting around Brussels and Liège",
-        "effect": "Expect cordons and delays near protest squares on announced days."
+        "item": "Shopping in central Brussels",
+        "effect": "Shops were boarded up on 24 October for fear of a repeat of looting.",
+        "sourceIndex": 2
       },
       {
-        "item": "Shopping and eating out",
-        "effect": "Some city-centre businesses may close early or board up on protest days."
+        "item": "Getting around on protest days",
+        "effect": "Expect police presence and arrests; nine were detained on 24 October. We have no sourced transport detail.",
+        "sourceIndex": 1
+      },
+      {
+        "item": "Prices and wages",
+        "effect": "The protests are tied in coverage to the gap between wages and prices across Europe.",
+        "sourceIndex": 0
       },
       {
         "item": "Schools",
-        "effect": "Student blockades can disrupt classes. Expect more of this if school grievances stay unresolved."
-      },
-      {
-        "item": "Household budgets",
-        "effect": "The Euronews coverage ties the protests to prices rising against wages. Belgian indexation protects many workers but not everyone.",
-        "sourceIndex": 0
+        "effect": "The wave began with high-school protests copied from France; further blockades are possible."
       }
     ],
     "scenarios": [
       {
-        "name": "Fizzles out",
-        "probability": 45,
-        "looksLike": "The protests lose momentum within weeks, as the French movement cools or fragments. A few arrests, then quiet.",
+        "name": "Recurring weekend clashes",
+        "probability": 40,
+        "looksLike": "Saturday protests in Brussels continue with small arrest numbers, shops board up, and the government stays on a security line.",
         "signposts": [
-          "No new protest dates are announced",
-          "Turnout falls compared with 17 October"
+          "Third consecutive Saturday of clashes",
+          "Arrest totals remain in the tens"
         ],
-        "effectOnWorld": "Belgium remains a footnote. The French story dominates."
+        "effectOnWorld": "Belgium stays a sideshow to France and Italy, but a steady source of images that feed the European protest narrative."
       },
       {
-        "name": "Simmering",
+        "name": "Fade-out",
         "probability": 30,
-        "looksLike": "Periodic clashes on protest days in Brussels and Liège, with limited disruption and ongoing political argument over the response.",
+        "looksLike": "The school-led energy runs down, protests shrink, and the looting does not repeat.",
         "signposts": [
-          "Repeated weekend clashes",
-          "Local bans on gatherings in protest areas"
+          "Fewer arrests on the next protest day",
+          "Shops stop boarding up"
         ],
-        "effectOnWorld": "A low-level drag on city-centre business. It adds evidence of European contagion."
+        "effectOnWorld": "The Belgian episode is remembered as a copycat that did not take root."
       },
       {
-        "name": "Merges with union action",
-        "probability": 15,
-        "looksLike": "Students and unions combine, producing larger, better-organised marches and national strike days, with violence confined to the fringe.",
+        "name": "Escalation",
+        "probability": 20,
+        "looksLike": "Larger marches, wider damage, curfews or bans on demonstrations.",
         "signposts": [
-          "A joint union and student call for action",
-          "Strike notices in transport or education"
+          "A serious injury or death",
+          "Unions or other groups join the students",
+          "Protest bans"
         ],
-        "effectOnWorld": "Moves Belgium from spillover to its own social-protest story, with some effect on transport and services."
+        "effectOnWorld": "Belgium joins France as a major case, and EU institutions in Brussels face unrest on their doorstep."
       },
       {
-        "name": "Serious escalation",
+        "name": "Concession reset",
         "probability": 10,
-        "looksLike": "Sustained disorder, serious injuries or deaths, and emergency measures such as curfews.",
+        "looksLike": "The government announces money for schools or help with living costs and talks open with student groups.",
         "signposts": [
-          "A serious injury or death during a clash",
-          "Government announces emergency powers or curfews"
+          "A funded school plan",
+          "Ministers meet student organisations"
         ],
-        "effectOnWorld": "Raises the risk of copycat disorder in other EU capitals and heightens security concerns around EU institutions."
+        "effectOnWorld": "Calmer streets, a modest budget cost, and an example other governments may follow."
       }
     ],
     "predictions": [
       {
-        "text": "There will be further protest days in Belgium within a month of 17 October, but none will be larger than the 17 October clashes (about 65%, author judgement).",
-        "horizon": "By 19 November 2026",
-        "resolves": "2026-11-19"
+        "text": "Further protests with clashes will take place in Brussels at least once more before the end of November 2026.",
+        "horizon": "By 30 November 2026",
+        "resolves": "2026-11-30"
       },
       {
-        "text": "No curfew or general ban on demonstrations will be imposed in Brussels or Liège (about 85%, author judgement).",
+        "text": "Belgium will not see unrest on the French scale: no single day will exceed several thousand arrests.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Belgian protest intensity will track French intensity: if French protests ebb by December, Belgian clashes will have stopped (about 70%, author judgement).",
+        "text": "The government will not abandon its 'violence, not protest' framing, and will announce no major new living-cost package aimed at protesters before year-end.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Cost-of-living protests will break out in at least one more EU country beyond France, Belgium and Italy by year-end (about 40%, author judgement).",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
+        "text": "Unrest will continue in at least two other European countries besides Belgium and France during November 2026.",
+        "horizon": "November 2026",
+        "resolves": "2026-11-30"
+      },
+      {
+        "text": "Reporting will still describe a linked protest wave across France, Italy and Belgium in January 2027.",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Check protest calendars before scheduling deliveries or events in central Brussels and Liège.",
-          "Prepare a simple site-safety plan for staff near protest squares.",
-          "Confirm that your insurance covers civil-disorder damage."
+          "Plan for boarding up and early closing on protest Saturdays in central Brussels.",
+          "Check insurance for riot and looting cover.",
+          "Brief staff on routes and safety around demonstrations."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat Belgium as a low-severity spillover. The market-relevant story is French politics and debt.",
-          "Watch whether disorder spreads to larger economies before changing positions."
+          "Treat this as political contagion risk, not a Belgian financial event; our sources show no market effect.",
+          "Watch the French situation, which is the bigger driver."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Check transport status and avoid protest squares on announced days.",
-          "Plan around possible student blockades if you have school-age children.",
-          "Keep an eye on food and energy bills. The underlying driver is prices."
+          "Check police and city notices before travelling into central Brussels on Saturdays.",
+          "Parents should watch school communications for blockades or disruption."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Separate prosecuting violence from engaging on the grievances that students and unions raise.",
-          "Communicate early about school funding and prices, so protesters do not rely only on French events for momentum.",
-          "Coordinate with French and other European counterparts on shared cost-of-living drivers."
+          "Separate prosecution of looting from engagement with students' grievances.",
+          "Address the wages-and-prices complaint directly, since a security response alone will not remove it.",
+          "Coordinate with neighbouring governments on a shared pattern."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Yellow vest protests reaching Belgium",
-        "year": "2018-19",
-        "whatFollowed": "Protests in Brussels drew arrests and police action but stayed smaller than in France and faded over time."
-      },
-      {
-        "event": "Disorder in France spilling into other European cities after Nahel's death",
+        "event": "French banlieue riots",
         "year": "2023",
-        "whatFollowed": "There was some disorder and arrests outside France, including in Brussels, but it was short-lived and did not change policy."
+        "whatFollowed": "Several nights of violence and thousands of arrests, with no major policy change. Disorder tends to fade under heavy policing while the grievances remain."
       },
       {
-        "event": "Cost-of-living and energy-price demonstrations across Europe",
+        "event": "Yellow vests movement",
+        "year": "2018-19",
+        "whatFollowed": "A French fuel-tax protest spread to other countries, including Belgium, and faded in most of them. A cost-of-living grievance can cross borders quickly."
+      },
+      {
+        "event": "Energy-price protests across Europe",
         "year": "2022",
-        "whatFollowed": "Large marches in several capitals pressured governments into price-support packages, but they did not produce lasting street movements."
+        "whatFollowed": "Rising bills prompted protests in several countries and relief packages from governments. Concessions on living costs were a common response."
       }
     ],
     "watch": [
       {
-        "title": "New protest dates in Belgium",
-        "why": "A joint student and union call would be the clearest sign of escalation."
+        "date": "2026-10-31",
+        "title": "Next Saturday in Brussels",
+        "why": "The first two clashes were a week apart; a third would suggest a pattern, a quiet day a fade-out."
       },
       {
-        "title": "Government response",
-        "why": "Protest restrictions, or a funded school plan, will show whether the government is tightening or conceding."
+        "title": "Government response on schools and living costs",
+        "why": "Any funded school plan or talks with students would signal a move beyond the security-only line."
       },
       {
-        "title": "French protest momentum",
-        "why": "Belgian protests are borrowed from France. If the French movement ebbs, expect Belgium's to follow."
+        "title": "Arrest and damage totals",
+        "why": "Our sources give only the nine arrests on 24 October. Larger counts would show escalation."
       },
       {
-        "title": "Other European cities",
-        "why": "More copycat disorder would confirm a continent-wide cost-of-living story."
+        "title": "Italy and Albania",
+        "why": "Continued clashes in Rome, Turin, Bologna, Milan and Tirana keep the wave in the headlines."
       },
       {
-        "title": "Arrest and injury counts",
-        "why": "We do not have confirmed Belgian figures. A serious injury would change the picture."
+        "title": "France",
+        "why": "Belgian unrest followed French unrest, so French developments are the best leading signal (see france-unrest-2026)."
+      },
+      {
+        "title": "Protest bans or curfews in Brussels",
+        "why": "These would mark a step up in the state's response."
       }
     ]
   },
@@ -482,59 +572,84 @@
         "url": "https://www.euronews.com/2026/10/19/wages-vs-prices-the-economic-pressures-behind-europes-protests",
         "publisher": "Euronews",
         "date": "2026-10-19"
+      },
+      {
+        "title": "Police arrest nine protesters after Brussels demonstrations",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkNfdWZLYXo2WlktY3YzdFdKWmFYVlBpRHJ1TXUtdl9QUWJSSVdIZU5TUFMxTWxPU1FyQmJrb054bElzRHpMbkJmRXZCWUpzQlF1dV9Iblp6NnVlYmRfaUdyYXFWa3BHcFEzWExtbWxweVRFQ0tMR3FKTlZNM042bE01cjFzeExBb1NQSmNsakRBSmdYdVZrdjduME1ZQQ?oc=5",
+        "publisher": "The Brussels Times",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Brussels shops boarded up amid fears of repeat of last week's looting",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekdrSG5oa3M4TDVlN0lFN3hiQ25DMW03aFhmQVIweFZ5M09Zblgxc2U5T3N2UjhPaWw3ZXc5T2hoeXZpTk1PR1VKa2hYSE12VHJ5VThQWFdZd3AwU2RkS3JSZFlMSUFfNHhQMkRtQXI4dmdKdGwxUFQ5TmJNT0dCNFptUkI5OXBxSFU1dHFEMUt3YVNvdjlfb3UxUUl2S1BmcFQ5UUtCcw?oc=5",
+        "publisher": "Euronews",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Europe's protest wave: France, Italy, Belgium, Albania see anger over costs, education, governance",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRDhGbi0wVWF2ZlFhZDR2bEdwVS1PSmZvNUZnNkpIcWlKRWdLZ2h1a25tS3NxUHlwYjlaTy1QQUk4aGZoUkg4WXgzVGJfV0dSWEp6UnVOcC1YMXNMSjZtVndHdnByeDY2T3NlWkFHcGlhSXZ4VmdmNGVJbWJzVkJLS01XWHRuOFlRTkVUNklvOG1yc3NOZkg3ZkhPeF9MdVNnQzMwWjEwQjA0OVZOQWs2LUJFUEZXMU5iVElneHBKU2tJMlNudHlZRHZMYjhlWWQ2UVl6cGNxemg3bE1mZExUS1c4SGZKckJIYmNZ?oc=5",
+        "publisher": "The Economic Times",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Protesters Clash With Police in Rome, Turin, Bologna, Milan, Tirana, and Brussels Over Costs: how 6 outlets framed it",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3htczZmMWhsUTdCSWEwTHV0dTJ5MmZuQkhTVmZRMnl3YUVRbHJiYkhRdHIwclF2WnBiVVdnckN6NFZNLXE2X2stRFR2dzMzR0ZmMGlyY05vQ0UyRkx2TjBnOTNBM2p0OVdPbWtZd0drNTA2RVIxRUcxVXdGOGtzd2FvTV9kVlVJcHJzWnNtWFhVTTRSaE1oXzhHbGdxUWRXUWV4SS1KaDEwbm9XbFVJWUpZcXBwSnpQeTRHMnh6LVBmUEpQNGtxWmVLU2dUaW8?oc=5",
+        "publisher": "NewsCord",
+        "date": "2026-10-25"
       }
     ],
     "confidence": [
       {
-        "claim": "Police clashed with demonstrators in Brussels and Liège on 17 October",
+        "claim": "Clashes in Brussels and Liege on 17 October and the interior minister's 'violence, not protest' remark",
         "level": "medium",
-        "note": "Taken from the event summary and one cited article. We have not seen independent counts."
+        "note": "Taken from the event summary. We did not open the underlying articles, so the minister's exact words are paraphrased."
       },
       {
-        "claim": "The interior minister called the events violence, not protest",
+        "claim": "Nine arrests and boarded-up shops in Brussels on 24 October",
         "level": "medium",
-        "note": "From the event summary; we did not see the original statement."
+        "note": "Based on headlines from The Brussels Times and Euronews; no further detail was read."
       },
       {
-        "claim": "Belgian protests copied French school blockades",
+        "claim": "Belgian students copied French school blockades",
         "level": "medium",
-        "note": "Stated in the event's connection to France's unrest. The source for this link is the event record, not an article."
+        "note": "From the connected event judgement. The exact start date of the Belgian protests is not in our sources; the early-October timeline entry is an estimate."
       },
       {
-        "claim": "French figures: about 550,000 marched and roughly 2,400 were arrested on 17 October",
+        "claim": "Clashes in Rome, Turin, Bologna, Milan and Tirana",
         "level": "medium",
-        "note": "Taken from the linked France dossier; not independently sourced in this dossier."
+        "note": "Headline-level reporting from several outlets; scale unknown."
       },
       {
-        "claim": "Belgian turnout, arrests and injuries",
+        "claim": "Looting in Brussels around 17 October",
         "level": "low",
-        "note": "No figures in the material. None are stated in this dossier."
-      },
-      {
-        "claim": "Belgian political and economic background, including indexation and union opposition to reforms",
-        "level": "medium",
-        "note": "General knowledge, stated without a source link. Treat as context rather than as confirmed detail of this event."
+        "note": "Inferred from a 24 October headline referring to 'last week's looting'; no date or scale given."
       },
       {
         "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, not a sourced forecast. They will be graded as events resolve."
+        "note": "Author judgement, not a sourced forecast. No Belgian polling, crowd counts or damage figures were available."
+      },
+      {
+        "claim": "Sector and daily-life effects beyond retail boarding up",
+        "level": "low",
+        "note": "Estimates; no data in the sources."
       }
     ],
-    "method": "Drafted on 19 October 2026 from a single listed source (a Euronews article on cost-of-living pressures behind European protests), the event summary and the linked France dossier. We had no direct reporting on the Belgian clashes, so the timeline, turnout and casualty detail are deliberately thin. Belgian background is drawn from general knowledge and flagged at medium confidence. Scenario probabilities, predictions and sector sizes are the author's estimates, and no chart is included because we have no numbers for a series.",
+    "method": "Drafted from the five listed sources, a set of wire headlines matched to the event, the event summary and the connected France dossier. We did not read full articles for most items, so facts are limited to what the headlines and the summary state. No Belgian crowd sizes, damage totals or polling were available. Scenario probabilities, sector impacts, daily-life effects and analogues are the author's estimates and are flagged as such.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-26",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:19:39.563Z",
+    "at": "2026-10-26T21:13:43.449Z",
     "model": "claude-sonnet-5-5",
     "sources": 1,
-    "headlines": 1,
-    "reviewed": false
+    "headlines": 19,
+    "reviewed": false,
+    "size": "deep"
   }
 }
