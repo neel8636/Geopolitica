@@ -241,5 +241,135 @@
     "hash": "1ttf8bm",
     "tags": [],
     "headlines": []
+  },
+  "sudan-darfur-kordofan-famine-alert": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "hauott",
+    "tags": [],
+    "headlines": []
+  },
+  "ethiopia-eritrea-war-fears": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "67vaz9",
+    "tags": [],
+    "headlines": []
+  },
+  "israel-election-2026": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "1378an2",
+    "tags": [],
+    "headlines": []
+  },
+  "opec-plus-november-output-hold": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "yff3yk",
+    "tags": [
+      {
+        "point": "HORMUZ",
+        "effect": "security",
+        "likelihood": 0.85,
+        "delayDays": [
+          2,
+          7
+        ],
+        "costPct": [
+          10,
+          35
+        ],
+        "why": "As of 26 Oct 2026 Gulf exports through Hormuz still run at about 60-80% of normal after the Iran war, with Brent above $100 and mixed Iran messaging, even though a ceasefire framework was proposed and Iraq's oil exports are reported back at pre-war levels.",
+        "action": "Ask your forwarder for current war-risk surcharges and transit schedules through Hormuz, and add 7 days of buffer stock for Gulf-origin or Gulf-bound cargo until a ceasefire holds.",
+        "sources": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "delay",
+        "likelihood": 0.5,
+        "delayDays": [
+          2,
+          6
+        ],
+        "costPct": [
+          5,
+          20
+        ],
+        "why": "Jebel Ali sits inside the Gulf behind Hormuz, so the fluctuating 60-80% Hormuz flows and unresolved Iran conflict through late Oct 2026 can bring vessel delays, schedule changes and extra war-risk charges.",
+        "action": "Ask your carrier whether Jebel Ali calls are guaranteed and what contingency applies. Pre-book an overland or alternative-port option, such as Omani or Red Sea ports with trucking, for time-critical cargo.",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Oil futures: Crude volatility remains amid mixed messaging on Iran",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT05rSUtwRXhtT0o3R2owbUdadXZ3VW1MV3MyLURfQUFhdVhmUm95Y09DZWZnZ3YyUWpZbEpyaU9HbklsWWZNR00tRmwtajRTcE45QTd6dFdORUxjcWhqTnc5Z3V2V1JLLThsZy10NDAtN2RJZEhITUJHOFp1NnlOSWlUQUI4LXZTTm0xaDdTYVp6UV9wQ1drS2MwME84QzZVU2VjdUZnWFdvTWF5?oc=5",
+        "publisher": "Quantum Commodity Intelligence",
+        "published": "2026-10-26T18:11:47.000Z"
+      },
+      {
+        "title": "Brent Crude Oil Price Near Six-Month High on Iran War",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHlGbzRVWGlzNEVLVXB2T3BkQzRCbDhRVXhYb0Q5SjBhSHAxNzF4N2RpUHkzdDNnWVpzbEpta2RZaUZkamstelVKdGE5WXFIcWp3TlFhY3pMbmxSeThpc1ZBRFVUQmlmVi1pT0h3aU9CSDlHQnMtWC1EVHk2MHRYQm9RUnB2N2s?oc=5",
+        "publisher": "Admirals",
+        "published": "2026-10-26T12:06:43.000Z"
+      },
+      {
+        "title": "Iraq oil exports return to pre-war levels",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUt3d2RTRTBHNXNrdzVmSFR2VWZmSlBHSDdJSDVydklCQXdKNUh1OTNCLWdwZjJEX01oMWpOaVEteFdKbTRUZ2t4dW41cFplS0ZKY1RhdkEwNWtPb2o0MWticEpDRlQ2bm1aMUVCcE12UkpYeTVuZThEMjdBWGQwNGpkczhPMXpZSUs0MW8xY3NzQlgxTkk3aGtyVEhuMm05T3c?oc=5",
+        "publisher": "Upstream Online",
+        "published": "2026-10-26T11:50:37.000Z"
+      },
+      {
+        "title": "Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2EzT2V0SWZFdVQ5QlZsMWtnNjhxMjF5RTFJNmNmZkZ5d2VFcFBjX21mQ1lDRG5XYk5XUHVTZWo1RlhYcThmOWZjU2k4WXZNVXBNTFoxeGdWRVQ2YndtS2tqdHNJcGlzdjIwMjctdG0tMGFBQkpVQkxXQ3pJUWVOV29qaUdMLXNGZGctOU0zNDB6bkliTGI3dHNoUGJwaEFvRGxV?oc=5",
+        "publisher": "EnergyNow.com",
+        "published": "2026-10-26T07:46:17.000Z"
+      },
+      {
+        "title": "WTI retreats to around 101.00 after Trump rules out immediate Iranian strikes",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNk82dndDT2NyTWtGeWlhRlhVNlZwN0ROZ09xSlpxeVpnRWlFRHBaOGpxVHJHOHhvem81M0R5X1RvLUZpT1U1TWYtdF8teFlSN083ZTRJN3RQWm5wSmRINVh3RHlqOGctWUNYZ2xGdkJLLTM2aFFfQV9sX2lqZHZoWnhmTElWbGZya3RiMElycExqb1ZRa3FHcHNZNmFaQ3haaVJuTVJDZ0pURlJuNzNwUWp3bkVWX3dpdFFtb2tSbE5INmw0aW40bTlPSW1wTURPdEU4?oc=5",
+        "publisher": "www.tmgm.com",
+        "published": "2026-10-26T05:32:58.000Z"
+      }
+    ]
+  },
+  "italy-cost-of-living-riots": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "1c74pj3",
+    "tags": [],
+    "headlines": []
+  },
+  "italy-election-2027": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "hfqz8s",
+    "tags": [],
+    "headlines": []
+  },
+  "spain-strike-and-snap-election": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "c73hhx",
+    "tags": [],
+    "headlines": []
+  },
+  "eu-budget-2028-2034": {
+    "at": "2026-10-26T19:04:42.571Z",
+    "by": "pipeline",
+    "hash": "1rpm886",
+    "tags": [],
+    "headlines": []
   }
 }
