@@ -121,25 +121,25 @@
     ]
   },
   "alberta-independence-vote": {
-    "at": "2026-10-26T00:03:19.315Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "albertans-reject-constitutional-change-questions",
-        "title": "Albertans reject constitutional change questions",
-        "when": "2026-10-25",
-        "place": "Alberta",
-        "lat": 53.53,
-        "lon": -113.49,
-        "what": "On the same ballot, Albertans gave Premier Smith a slim majority on the immigration questions but rejected the constitutional changes, showing voters weighing each question separately.",
-        "via": "split ballot signals voter caution",
-        "aspect": "politics",
+        "id": "us-50-tariffs-on-canada-take-effect",
+        "title": "US 50% tariffs on Canada take effect",
+        "when": "2026-10-26",
+        "place": "Ottawa",
+        "lat": 45.42,
+        "lon": -75.7,
+        "what": "Trump's 50% tariffs on Canadian goods took effect as Carney vowed to retaliate, sharpening Alberta's grievances with Ottawa's handling of trade.",
+        "via": "trade pressure and grievance with Ottawa",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkRaaklEcTJVa1A4RHd2Wk5VcW1wMkdsSFlkdEtKM1FWR2xONk9FODJIUHRYV21DVENqSXZMUHdXWXhla25BdUF3X1Rja1E2RTF2REZUdGNnQWFsbHlMVWtOVlFhSGYxdTdWRlM3OWd4UFNNY2VtcUpIQ1ZHblZOQU5VSE9jYzBYcndBWklkRHByMnNFZ0FiaXpvdkFic0laY1laZg?oc=5",
-            "publisher": "CBC"
+            "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+            "publisher": "ABC News - Breaking News, Latest News and Videos"
           }
         ]
       },
@@ -147,11 +147,11 @@
         "id": "us-venezuela-oil-deal-threatens-oil-sands",
         "title": "US-Venezuela oil deal threatens oil sands",
         "when": "2026-10-25",
-        "place": "Fort McMurray, Alberta",
+        "place": "Fort McMurray",
         "lat": 56.73,
         "lon": -111.38,
-        "what": "Analyst Varcoe calls a US oil deal with Venezuela a significant competitive threat to Alberta oil sands and Canada, adding pressure on the province's main industry.",
-        "via": "pressure on oil sands income",
+        "what": "A U.S. oil deal with Venezuela is described as a significant competitive threat to Alberta's oil sands, raising stakes for the province's economic future.",
+        "via": "oil sector competitive worries",
         "aspect": "energy",
         "flow": "into",
         "sources": [
@@ -159,6 +159,25 @@
             "title": "SIGNIFICANT COMPETITIVE THREAT: U.S. Oil Deal With Venezuela is a ‘Significant Competitive Threat’ to Alberta Oil Sands & Canada: VARCOE",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBhbWdsb2RDdHI0Y211Rl9fcld6ajhHTmpTWHEtQzd6QWg0TmhQUjlIcmh5cURVaVpNdWZ0b3BkdnE5Z0JXYndLZWN0R3YySW42NWZRZ0dPdkw3Tl9nTU5OOFI5aldjWnJhMnhtczhMSUtSU2RZUXpOX3ZrM2xxYzlZLVc0MklCWGpnX2ZHQkxyNUNDc2JEOC1RLWFLRlBXOHlKYXJiTWhtT3d2VVhhdmlNVnotdw?oc=5",
             "publisher": "EnergyNow"
+          }
+        ]
+      },
+      {
+        "id": "immigration-and-constitution-questions-on-ballot",
+        "title": "Immigration and constitution questions on ballot",
+        "when": "2026-10-25",
+        "place": "Edmonton",
+        "lat": 53.55,
+        "lon": -113.49,
+        "what": "The referendum also asked about immigration and constitutional changes: Smith won a slim majority on immigration questions while Albertans rejected the constitutional changes.",
+        "via": "ballot questions shaping the vote",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkRaaklEcTJVa1A4RHd2Wk5VcW1wMkdsSFlkdEtKM1FWR2xONk9FODJIUHRYV21DVENqSXZMUHdXWXhla25BdUF3X1Rja1E2RTF2REZUdGNnQWFsbHlMVWtOVlFhSGYxdTdWRlM3OWd4UFNNY2VtcUpIQ1ZHblZOQU5VSE9jYzBYcndBWklkRHByMnNFZ0FiaXpvdkFic0laY1laZg?oc=5",
+            "publisher": "CBC"
           }
         ]
       }
@@ -763,30 +782,30 @@
     ]
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-26T00:32:52.254Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "kremlin-starts-preparing-putin-xi-trump-trilateral-at-apec",
-        "title": "Kremlin starts preparing Putin-Xi-Trump trilateral at APEC",
+        "id": "kremlin-begins-putin-xi-trump-summit-preparations",
+        "title": "Kremlin begins Putin-Xi-Trump summit preparations",
         "when": "2026-10-25",
         "place": "Moscow",
-        "lat": 55.76,
+        "lat": 55.75,
         "lon": 37.62,
-        "what": "The Kremlin says preparations have begun for a possible first Putin-Xi-Trump summit in China, though it says no agreement yet exists on a Putin-Trump APEC meeting.",
-        "via": "added summit participants and agenda",
+        "what": "The Kremlin says preparations have begun for a first Putin-Xi-Trump meeting in China, possibly at APEC, with Moscow, Beijing and Washington reported 'ready in principle'.",
+        "via": "added leader-level summit agenda",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Trump and Putin may meet in China, while talks on Ukraine are being prepared for the coming weeks",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHoxc3pkeHhxU1JHRzhPTXh5a0dTeGkyelRoM25sekM1dVhGMlg5WGVUd1hYSFN3SzQzZW5oaUhDWnpBcWw3bGtGQUk4cVk4MmRoMHVmTHZhclJhSVpJdjdpcl8wRmhMSmpwdVNjSThhQkpaclNmZFVYOEdyLU9WalB0TXltcW1RU2FPT0MwSGRlNGVkS0dYb3FHUWl2ZGRuUXc5NXBSYk12UlZfWndYRFdHR1NRN0NoWU1j0gG6AUFVX3lxTE5YTEkxcmNYNThvWjd6dHhxa1BkZ0VMSlJCM1VXZ1E5OTJrbzJPWmRSdHZfcXFxVXdKMFJUdktNaUo3VXFsckJSVnRPMEFEUktaWGlsNnJSUFpBaVVGTFVyTGlEWWl2X1dTYjlwZXo5RmZCMkItSExUUXJuTHdCVXpwc0JzNjlNRUNLaGY3eEZrb1hOR3N1ZWItOWIwTDdoUzIwMFQyTXpFNVNpX0JyVEwwUnM3N3ZsU0Jidw?oc=5",
-            "publisher": "Українські Національні Новини (УНН)"
-          },
-          {
             "title": "Moscow, Beijing, Washington 'ready in principle' for first Putin-Xi-Trump summit",
             "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEtHT3J3bHVwTTBHQVVpaE83WmMzeUVBNHhXcGZjNmEzZk1aOC0yVmZLZHpjNTR5aHlOVEhGLXJXeEY3d21FUEtKb0k1SXZqb25Xb0RWTGNWQW52UUkzM3FoWEloQXp3RTdDNUFwbWc3Z3dGaExSWFlRb3RfSXpXTy1xcm4tMGR0dWo3clpZZEE1T0c5RG9hQVNKa002TVM3OUxnaHNWTEszYVZxTnFqR0tJSmI0V3hITHBv?oc=5",
             "publisher": "Türkiye Today"
+          },
+          {
+            "title": "Kremlin says preparations underway for Putin-Xi-Trump summit in China",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OOW9HUHhfRDdtd2o5VXlXSGxxSmxqLTBjZTFnWUVDQlRNUFVNX0JsNThkak5mamtlYnVqUGNjSmEzaXdMb2NMVUlaa3Ixd3Qzekkxag?oc=5",
+            "publisher": "Saudi Gazette"
           },
           {
             "title": "Putin, Xi and Trump May Meet at APEC as Kremlin Says Preparations Begin",
@@ -799,145 +818,174 @@
             "publisher": "Yeni Şafak English"
           },
           {
-            "title": "Kremlin announces start of preparations for Trump, Xi Jinping, and Putin summit",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjdOZGxLZ1BPemNuNnRpQW52MWdTZlVYNEtMbVVMblU2Z0U0ZlkyXzZDVTIzRmNfdzZsZ1dONERodmtIX0FSeGJNejYzU2dldVRKQ2FCM1A0cWRpeXhiOXdOMlNLZGRvQ0xLMG82QnFEWGpKS2U3cWJ6RmpZbmVPejc2SnFETkh5eTFyZzAxd0Y2TGNwYkE?oc=5",
-            "publisher": "RBC-Ukraine"
+            "title": "Kremlin says preparations have begun for Putin-Xi-Trump summit",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3poMm5BX3FmWk5Vbm9saGhLbWVqTmhOQ2I5MGQ1LTRaY3N1ajF0QXBkc1Y1MS14X3lPb0JjY3MxTnZuemdZNll1MGxGaVg2bGF3MzZ1MkdaMXluT2xnY1JKODJ0TDlSR08yMzRmQWExaDhRdUJYandPN3lRNU83d21SSDVQTXp0VVA3aW9HeXZXaERqWGE5ZXAyd2pqMkU?oc=5",
+            "publisher": "Operativ Məlumat Mərkəzi"
           },
           {
-            "title": "Preparations Underway for Putin-Trump-Xi Trilateral Summit, Ushakov Says",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SSnlTQ29oaGlUc0IyQ1VWSmFkTXFhYkVIckZKX0wzLWM0dW9UcUNxUG5feTZGbXVMWmp2aGs3WDJxRUVMWml3YnBFRQ?oc=5",
-            "publisher": "Kyiv Post"
-          },
-          {
-            "title": "Kremlin: No agreement yet on Putin-Trump APEC meeting",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeHNncWd3Z1NLdzZNM0FhNXFuQjhrZ2FGY0ZzWWlYY2syaXB4ZnJ6aW50Sm9Va3MtWHRoZXdWM2h0azVWX25jTmdOMVltN2p6aTF0ZUQxVF9xYmVzbElydjRSb0t0ZlZtM0RWbXNMRTZGQjk4bmhMbnhHUno0RWpZQmhLYy13ZmpUYXlXUXRnaUJXMTdOMjB0X3ZabEtjUXM?oc=5",
-            "publisher": "Breakingthenews.net"
-          },
-          {
-            "title": "Putin has proposed a summit with Trump and Xi in China",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90VkZyN1Q5eV9CR0IwSkVJMXdaS0hVWTl1c3VRN2ROTUp5czRBSjNqVjdnYl8xUjE1WU9fLVktZnBlU1I0Tkk2NzJncldrZlZWRElCOWUxdld0cERhbnZqLUxYZkQwU3N5cTJiRA?oc=5",
-            "publisher": "UkrMedia News"
+            "title": "Meeting of Russian, Chinese, US Leaders May Become Important Event at APEC Summit - Envoy",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZld4Wm5sQjVIa1dPWlE3blZFa25DS01lX19zODh5XzZ3UmN0TzluVV9KSEVqZUtYeEJ0NDJ0VG1aT1NUckkwQjFFZEZrd0xxVVNCNWhCTmxNZ09COUV3RFpZSmtURjVQcHliM0stWjdaTXBHRUZwTHdGTGFBV05lYWpIQjlNb1hRQWVJTUhKZTZ5YnN3eEp5T0xMdzh3ZDFIXzg1OUJUM05ndw?oc=5",
+            "publisher": "Hindusthan Samachar English"
           }
         ]
       },
       {
-        "id": "kim-s-china-visit-revives-trump-meeting-talk",
-        "title": "Kim's China visit revives Trump meeting talk",
+        "id": "kim-jong-un-meets-wang-huning-in-china",
+        "title": "Kim Jong Un meets Wang Huning in China",
         "when": "2026-10-25",
         "place": "Beijing",
         "lat": 39.9,
-        "lon": 116.41,
-        "what": "Kim Jong Un's visit to China renewed talk of a Trump-Kim meeting around APEC, though the odds of it happening are reported to be fading.",
-        "via": "possible Trump-Kim side meeting",
+        "lon": 116.4,
+        "what": "Kim met Wang Huning in China ahead of possible US talks, while analysts doubt it lays groundwork for a Trump-Kim summit on the Shenzhen trip.",
+        "via": "possible Trump-Kim meeting",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Kim’s China visit revives Trump summit talk, but odds fade before APEC",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemt5eE5IcjZGaU5naS1ZaTlmM2tvX3JvZ1FQQjF4Yi1KWll6U2szUGljMnVwSEUyamlrb2ptak9aRW5FMktQZzRleFJKMnNlV28wcFBQNG9pSTFtZklCdnBDMHUtU3JRYy12SDZUUEtRUHFEWnVGOUE1eUFCNXRzNUVtZ3ROWlFoLVFkRFVseElhX0ZQeUhmSm9KQjZuNHRiMFN3ek5rWjc4WWFRVmRGcFc5aWVkQVNJZGc?oc=5",
-            "publisher": "Korea JoongAng Daily"
+            "title": "Kim Meets Wang Huning as Xi Skips Summit Ahead of U.S. Talks",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHcxc2k4S0toNTVhOEIxazVRakRHZ0xyU0hCaTVXVVp5UXlRRzR0VWNPYnlhRTVBZkt6NFV1Zjk3a2ZzYUVtS0pUY0tPZkZOWXRiSzA1S1QxdXcxcHc5cU5qc000RnlfZklWc2wwOWFmOVktMzFlSUdUVk40XzNRUEgyTm4?oc=5",
+            "publisher": "조선일보"
           },
           {
-            "title": "Ahead of APEC summit, Trump comes knocking on Kim's door",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkg1THJpYzNuVXk0N0dUOUJ3YlNoYmdpeGh4dDVnUnRKVjlRdnVtSzI2M3NpZ1dmS3BJbmcyazU4T3JzQjJWeHBnUXIyRVd4YzJzejhmV3ZsZXY2b2pWdjdaS29PMzlYMDIzU2pXMWFyQXM5S3FUSDZ3UE9VQU5QSG9KLWlueGlXMVVnMk1wd2hvaWR3YU80?oc=5",
-            "publisher": "Times of Suriname"
+            "title": "Was Kim Jong Un’s China Visit Meant to Lay the Groundwork for a North Korea-U.S. Summit? Most Assessments Are Skeptical",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJVnRXcHVfRVVoUHpMZ25WTXhhb19vWExSMDhpT2RDdEc5cUJyTk13T3FzZHJXanIxWVJtT0JxZlRUc2NtU0cxS1I1ZGc5OWlQUUFtYWRsOUs?oc=5",
+            "publisher": "파이낸셜뉴스"
+          },
+          {
+            "title": "[Column] What it will take to make a US-North Korea summit happen",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lMlJaS3NFT1BNM2Nlb2ZqWjE5YjJFZmJzbHEtLXFPVVRRT096NkRxeW85VVpDNlQyUzJ2blJoUDUxcTllWjhfRFM4bXNQZVB4enFTb3M2V015WG5aZjVoR0ZSUnBsMk1CbXhNQ0d6NlZ4VVZTakJr?oc=5",
+            "publisher": "한겨레"
           }
         ]
       },
       {
-        "id": "trump-exempts-some-canadian-goods-from-tariffs",
-        "title": "Trump exempts some Canadian goods from tariffs",
-        "when": "2026-10-25",
+        "id": "us-50-canada-tariffs-start-some-later-eased",
+        "title": "US 50% Canada tariffs start, some later eased",
+        "when": "2026-10-26",
         "place": "Washington",
         "lat": 38.9,
         "lon": -77.04,
-        "what": "Trump loosened Section 338 tariffs on some Canadian products, reportedly to help a Republican senator seeking re-election in Maine.",
-        "via": "signal of tariff flexibility",
+        "what": "Trump's 50% tariffs on Canada took effect and Carney vowed to retaliate, yet the White House eased some tariffs and Trump promised a trade deal soon.",
+        "via": "US tariff stance before APEC",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Trump loosens Canada tariffs in bid to help Republican senator seeking re-election in Maine",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWVsTWU4TUdqdGYxUEpma3RKS2xtRkJRZ2ZhcjBlcUVXeHZyV1VzTi0zR3ZaVDJKb09IX01BMV9RWnNkVXVkSG5LcGZIWWtsR1JrTzdsMFliQjhhZ0lHV2pqcXlHU014MDlSdl83OEdYaXN1Qy1vaUhPLS1ia3RFekt5d3BLQmZuNkdwNUdmX3Q?oc=5",
-            "publisher": "LBC"
+            "title": "President Trump announces upcoming Canada trade deal, lifts certain tariffs",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeXM5czhBekZ1SVRrTjdLOFhFaWt1azNQRThBSFY4R2dTRWw1T1pRLXhzMlRyM00wdExFUzFvNVF5ZzNDZ1BTbkZzUzZfTUFfakZGTHVVMkhodm8?oc=5",
+            "publisher": "Fox Business"
           },
           {
-            "title": "Trump Exempts Some Canadian Products From Section 338 Tariffs - But his Illegal Trade War Continues",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDczTVhrdmppMjFRdWxyakVYeU9fUmNrbEFHY3A3MU5YSUl0YVBfa2VWZk1mLTFyek5qMVRLSjdpNTZnZXRkS0RDM3E2T0RCQ0xTN0c3OE0ydWo2amVvQUF1RUcyT0k5eFpBQkxXWHhITDJBZ2ktRXdDcUhBOWQzckNsRTNIMEp0SlUxd3BNSG5NM0hlNVhmdmd0UGJVUFFINkZnUGllWGN5a0dpTFZUVFNnNnZxTm5FUTRLQmFVRWszNkRpQXM1cTlpWlFlQjBw?oc=5",
-            "publisher": "Reason Magazine"
+            "title": "Trump Says Canada Trade Deal Coming Soon as White House Eases Some Tariffs After Collins Request",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVVleC1LUHJrN1pmdHBFdVhGNTd3eXNQWktVNkxYMGVsNGJDVG1ic3JhWWRSR081M1UwY0FvdnQtRWZ1ZHBpcXlXUUxuUVFsOTFyVE9DSkZsVGdrbWpfSWdrWEd0RkxCdVNFajdKeTBKWDdpNFlqTjUtVDdhZE1Rbndrb3ZtN19YUlJrcXJlbVdUVVRfSC1xT2RtWjd4ZzJWcmswTExidlpoTkZNYlVkQXUzMXpBZFVKcGRrWkhrMnZLWlRxNTkwdUg0SQ?oc=5",
+            "publisher": "LawStreet Journal"
+          },
+          {
+            "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+            "publisher": "ABC News - Breaking News, Latest News and Videos"
+          },
+          {
+            "title": "Donald Trump promises a rapid trade agreement with Canada, despite tariffs and tensions between the two countries",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnhzSDRCQ28wdF9MNlp5RzBLemxGSU9BNzBicU53U1NDN2FWa3I0YzU3U3JmdDNKQjNpNllfbXJpVHNLMFo5UUhzLW9VRlM1M0tZSFVmZUcySUZ4aWNoZ05ZN2N6QVA0RDE5UUZ6MU0yQV94TFBRSG9FY0xzWG8xRnBMU1RVZ2x0REMyUVF2Uk1Bam8?oc=5",
+            "publisher": "Informat.ro"
+          }
+        ]
+      },
+      {
+        "id": "poll-a-third-of-trump-voters-oppose-canada-tariffs",
+        "title": "Poll: a third of Trump voters oppose Canada tariffs",
+        "when": "2026-10-26",
+        "place": "United States",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "One in three Trump voters has turned against his Canada tariffs, and a Michigan Republican congressman has raised alarm over the auto tariffs.",
+        "via": "domestic pressure on tariffs",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "One in Three Trump Voters Turns Against His Canada Tariffs",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWnZtZjhreTI3N09ldmFQSGFJZzJ0SDg4dHNtSUpKRzJpZlR1N2pEcm5FR0dPS2NnLXUzQmpCalZPTGNsNExGc29ac2YzRm5LdW1YOFdINHd1eGpnMXFuU21CQTRLV2dRRmVrNXpSZTVJVUVDUWxFdk01UE5QUnVocHZJOVJzLVlrZVRCNlRoR1hKcUh2Wi10cW5lMm5sblJ1OHBxUzBjbEpUZw?oc=5",
+            "publisher": "Seoul Economic Daily"
+          },
+          {
+            "title": "Trump Says Canada Is ‘Willing to Give Us Anything’ as Michigan GOP Rep Raises Alarm Over Auto Tariffs — P",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNWtia1RMZHFrVVMxcmdpaXpjbndRbDkxVWRQMVNLVmxBb2VfQVJUTktUNzd5MmlxV2djNl9GZFVuekJieHRyUFB0SDlhZ2RSakVjTVFCb0t2X1ZYWWczNm9uN05fTXk2Nm1icHR6Nlp4bEJOM2x1MkRDVVFfT0FvOE1Pa09iYXlPRjJ6cGViUUNyYWR1WXdHV2RpVFllZnltam9pV2pMRzFpT29JUW9kUjlLcmdPN0tmbUhkdGIyVnVmSUs3b3NHWFdHdFZlbTQ2SDJKY2VKam5wSV95YjI0aUtaSWNVZkQweUNkcWNGbjFRUHNjaTZpMTc2SzNlM2ZKODZRdF90SkhBX2tsdGxWOVUtd0pxbVEwUzNLRG14ZlI?oc=5",
+            "publisher": "Benzinga"
           }
         ]
       }
     ]
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-26T00:32:52.254Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "trade-deal-draft-ready-but-gaps-remain",
-        "title": "Trade deal draft ready but gaps remain",
-        "when": "2026-10-25",
+        "id": "goyal-says-talks-are-in-fine-tuning-stage",
+        "title": "Goyal says talks are in fine-tuning stage",
+        "when": "2026-10-26",
         "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "Reports say the interim India-US trade deal draft is ready but has a few gaps, and India is not yet ready to sign despite Rubio's optimism.",
-        "via": "unresolved tariff and text gaps",
+        "what": "Commerce Minister Piyush Goyal says most India-US trade talks have concluded and the deal has entered a fine-tuning stage.",
+        "via": "negotiations nearly finished",
         "aspect": "trade",
         "flow": "into",
         "sources": [
+          {
+            "title": "India-US trade deal enters fine-tuning stage as most talks conclude, says Piyush Goyal",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWkVmTjgxNjZZdEFwY2RSRzFpZ211a091ejJRRmktcFpBeVNHcm9uYjMtOG91cGYyR3R1Rm4tY1NWVE5QcGdyNHJaMzBNeHo4WEZoOC15bWxVQzhkWmZ6Vjd3a2Vhdm1wY2xyMmhlWWM1ZXJObmRKcWJ4dGZOVVY1YnNWcmdRXy11eGZKbzNVTjJTSTFkS0NXZzI3S0FqWlVqR053Rml2STNtbjRvd3UtZUQyaTRPUmxUU09BbXhLNVEyVU5GSGszU2tXckNrM19TU2I3RjVQM0JsUXV4T0phS2JFcjhLdkNSZ2JIUzRFVVVGSFg5RlpLdC130gH_AUFVX3lxTFBfRERxT0xZUDRNeDRfUVdRSC05Uk1MR043a3BUYWVhMmN2VXgwNV8yeVZfODZJSlI3TVBoeTNQRVdEcWFxN0ttS0pwVjVLQWdHNkZEWWZSMGFnOXVndDhEWER2ZXhfTURZWlhMTGNVVk1PZ0lldHdoU3FWQzF6bVZyck9YcU5paEhfZENLMVF0V0laRXpJMzZRZ1hKSHN0amRmeWpicHV6bm9Od25wMndsLUxELW5vRVBMZjlucmdPTWJ6dDdEZ3E2U2dMdTdwTW1Ebks0a2lscFYxenpOa0N0VDdJWkRJOW5hQ3V0MlRZblNaenhDSHpwd2lKLUh1cw?oc=5",
+            "publisher": "The Economic Times"
+          }
+        ]
+      },
+      {
+        "id": "interim-deal-stuck-over-tariffs-and-politics",
+        "title": "Interim deal stuck over tariffs and politics",
+        "when": "2026-10-26",
+        "place": "New Delhi",
+        "lat": 28.61,
+        "lon": 77.21,
+        "what": "Sources say the interim deal remains stuck over tariffs and political concerns, and USTR Greer says it is near completion but no immediate agreement is expected.",
+        "via": "unresolved tariff and political concerns",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Why India's interim trade deal with US remains stuck",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlo3b18wbjR3ak9HQWctOGZtRjNKdUpOeFFXTXVMb3FfM1F1Zlpwb1QyaUQxV2ZRTmJNVDdZR2dMSGZfdVlsNXJiTV9NenRPNVJ6T0xONVRFTTl4TFgtbDlZUlFuYVRteFlxNG1vdlpCZC1VM0puTUJnZ3ZYTVdqYVVVdGUtMzJkR3dpcXVIdzJJRlI3eFQxZExoMWt0SmM0Z0szM2lVY2wtZw?oc=5",
+            "publisher": "NewsBytes"
+          },
           {
             "title": "India-US interim trade deal remains stuck over tariffs, political concerns, sources",
             "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdGprNU1Pa0U1RUlnNnA1bUVrajFRU2Rma21wRkJyUFdzZ3YtOVFXY0g3aDc3SjE5THRCS3NiZF90ekppWXQ0ZzVvMlF5aTVQT3NpcDFRNDhjckNsYVZCeHFzVWdXcHVyeldWNXI4V0wxOVBTMzd1dFFzZEJaMlJJOUloVnNrYnZGR1V0elpmWjBvcGs5c2hSV21SQlNjZHRTMFRVeW1hcHlybHd2bUhHdzBxQXJ0Vm82NDN5RDdYM1VGaEZPZFlpajh4QUE0S181YVYtUlhaajJBV1FqMHdV0gHmAUFVX3lxTE5lRXR1eE9IbXFURWxlU3hWLTVmbnN2S20tLVBxclZxMk90QjZyNUVBTTZ1eTBsQ2hkSVVPenk4SjZXOWxaUWRGTkFoY0dxbGRldTgxTUh3elRDY2xUMElUNnd1SVU2UXgxclAwcmxoTnAwenh0LTdIejZkZjQzQlQ1dmtrY010Mm1QYWFTdzd0NDRIYkgxRWk5ZVBqTVd2anI3NG1KTFZaUHZQcER4NGtxTHlrMHZDSkxyQ2lKZTJ5UmYxekRaYW5Wd2dvSU16SFhjX1dMblpEVnNyRmtFSUk5cWhPcE9n?oc=5",
             "publisher": "BusinessLine"
           },
           {
-            "title": "Rubio optimistic, but India not ready to sign trade deal, yet",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObE1Mazh5X0NGdnNuc0owaGlDZVNMYktTNGZyR05OdnNLU1NoWWRydUFIWUxBTERaMkRzdHdFT1RoTDB0THNYakloUFR4Uk5XcW9MMEgwUkdUREVyNkdlOURBb0FTNUJ6Slh4Y0J5cTFTOU5uY1hRWHdUaFdDc19fTlNxeTlRN1RJUUpQNHhSTXotaUJFT2Q1VHdLUE1YcUE2UHhPa0h5NXF6WDN3bGfSAbMBQVVfeXFMUDNJU1lTUEo1U2RxTWROTmpaUFZvcVpud2k0UDlxVTlETDhOTmtPRjBUSnhWNm4wRUdIZEJzUFdRWmxaNzkzWV9mcG5yZDFvWWplSEdaS19ZME9IVlJhOGdqRndlemlzUkJSaUhSSEFUTzJidUFHN01YNU90Q1NidTdLbGYzRTA5VE5zVGFVcDdheHpFRGd5X0c0eTJyelJXbXoyLTJqNmY0dWlMbVIxN0JlSzQ?oc=5",
-            "publisher": "The Sunday Guardian"
-          },
-          {
-            "title": "India-U.S. Trade Deal draft is ready, but still there are few gaps",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0RiVzRtWU1GQlpBM2NzYngtanotQmlDS1ZsRXpOdjRGTmE5cjRQc1BPdWVoRG1KOTlWTk1xVWFPM21CLXNFSUdhSy05MjJ1WXBPTnl5ZVRmREtxSVlmWVQwQXA3dG5sM0ZXRGdjcHdCQzJ1U0hUdDQ2VXlVdUxfQXFiM0lqcHdaS2lRRURhaUVlYUN5Mnc?oc=5",
-            "publisher": "The Northlines"
+            "title": "India-US Trade Deal Nears Completion, but No Immediate Agreement Expected: Greer",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2c1Y202WThTNnZ5Y0hsZzlfN045UkQ3SDYyTU1LY1pEelM4QXF4WHpGOUpoaC1KZDJKMTlzVjdwRUtscDRrT2xCM0hUNzZDS1lNX2ZaQzZkUF92Z3FCa0pZekZUbVF4Mmx2Nk1RYnNXZWpyRXUxazRORURLLWlEUF9ELTMyYW80ZG0yQUtmbWdsYWFDamJuTTRzNk4wZzdLZGE3RmRFay1lbm8?oc=5",
+            "publisher": "INDIA New England News"
           }
         ]
       },
       {
-        "id": "operation-sindoor-enters-us-midterm-campaign",
-        "title": "Operation Sindoor enters US midterm campaign",
-        "when": "2026-10-24",
-        "place": "Washington DC",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "Trump's boasts about mediating over Operation Sindoor have become a US midterm campaign issue, adding political sensitivity to relations with India.",
-        "via": "political sensitivity on both sides",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Operation Sindoor enters US Midterms as Trump boasts mediation",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUlzSWw1TlhiVWExeFZESEFDRVBON3R1QXJwNWQ3WFhpSWxiU09XUWIzRXMtdC02T3VfOTdWblNTQWRxSVFnVTZFU2hOOEltSnJDWnd2SWpIMEd2Qm5zMUlfNmhKdHNJSFBPQ2diNjVMSEhqdm1TbUVlLXM0LVlTUFliMkVBb2dFMEdGMlllTmFsRzU3TDFPdUJKbnFTbTZCQjNSYWtKTzQwQ0NDQklKeVpTV1N6SDZ1UkZXVk9LSktGRVRubkHSAcsBQVVfeXFMUEw5dE8yOXdJWDVJVHNHV0dfN0JjM2p6aUNIZWRCX1JNNmdqQUU1SmM2aFRpVGVyX2JmRTd3SkVDQU8zVkJvd0tWUGJham9sbi1JSks1QmdjcTFfNlZhMlRHMGtrMlpPVkt5UFhsZ2RUZ0RaUlhCSUlvRnZWbDRrY094cGFkSlFjcEt6V2VyZHlZMkxHWUpoTmtHTlR2WGdsTWNYMHFEZjZWekpaeDVYRGdOODd1Z3p1ZE9oZ1l5NXloREhtTWY1VXY1Qkk?oc=5",
-            "publisher": "The Economic Times"
-          }
-        ]
-      },
-      {
-        "id": "india-may-buy-15-bn-venezuelan-oil",
-        "title": "India may buy $15 bn Venezuelan oil",
-        "when": "2026-10-24",
-        "place": "India",
-        "lat": 20.59,
-        "lon": 78.96,
-        "what": "India may end up buying about $15 billion worth of oil from Venezuela this year, reshaping its crude sourcing as energy sanctions feature in the talks.",
-        "via": "changing oil sourcing",
+        "id": "rubio-heads-to-jamnagar-as-oil-prices-bite",
+        "title": "Rubio heads to Jamnagar as oil prices bite",
+        "when": "2026-10-26",
+        "place": "Jamnagar",
+        "lat": 22.47,
+        "lon": 70.07,
+        "what": "Rubio turns to the small Indian city of Jamnagar as the US faces high oil prices, linking energy supply to the trade talks.",
+        "via": "US oil price pressure",
         "aspect": "energy",
         "flow": "into",
         "sources": [
           {
-            "title": "India May End Up Buying $15 Bn Worth Oil From Venezuela This Year",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGV3TXNGbnNQU2hjYjZBU0tiRkdxcGJ3WkNTV3EwNTRKd19MRWF5RWREcFR5WnJJOXBhdGw4YkNBYllGMDFkVGRzLXJBNTRVQ0Q2VDNXOUt1ZVlYTEhiZjQxVjdDSFMyZEMwQmMwRGRiWVhudklQN0Y0MHBUSnBwbU1xb1ROMU5UemJSMXlvUzExUmVJU0N2MnlrM1Fib3hubzFOZHNwaUowbE9fRUl6R3drNXBYNzE10gG4AUFVX3lxTE9IZXdNc0Zuc1BTaGNiNkFTS2JGR3FwYndaQ1NXcTA1NEp3X0xFYXlFZERwVHlackk5cGF0bDhiQ0FiWUYwMWRUZHMtckE1NFVDRDZUM1c5S3VlWVhMSGJmNDFWN0NIUzJkQzBCYzBEZGJZWG52SVA3RjQwcFRKcHBtTXFvVE4xTlR6YlIxeW9TMTFSZUlTQ3YyeWszUWJveG5vMU5kc3BpSjBsT19FSXpHd2s1cFg3MTU?oc=5",
-            "publisher": "Deccan Chronicle"
+            "title": "Rubio turns to small Indian city as US faces high oil prices",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTcyLVJEZTBENkdZanZ6LVZaekVjNUFYX3lRNUZ0RXU4RDlVQ0hUWkdxenlfcjlRNUpBbDd0M3JBU01kYzN6X1ZkSmlTSG84RDU0Yl9zMklPUVYzNWNXcjVLR0tyNGZUQVFMVnY4WDlsZEl5OFdMU0I1aHlFNmFuZ3k3cHhFTWZyczRSbG1VSng?oc=5",
+            "publisher": "Yahoo"
           }
         ]
       }
@@ -1352,151 +1400,150 @@
     ]
   },
   "israel-election-2026": {
-    "at": "2026-10-26T00:03:19.315Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "trump-renews-endorsement-of-netanyahu",
-        "title": "Trump renews endorsement of Netanyahu",
-        "when": "2026-10-25",
-        "place": "United States",
+        "id": "trump-urges-israelis-to-vote-netanyahu",
+        "title": "Trump urges Israelis to vote Netanyahu",
+        "when": "2026-10-26",
+        "place": "Washington, DC",
         "lat": 38.9,
         "lon": -77.04,
-        "what": "Two days before the vote, Trump again endorsed Netanyahu, urged Israelis to reelect him and called on Israel and the US to 'finish the job' in Iran.",
-        "via": "US backing for Netanyahu",
+        "what": "Donald Trump called on Israelis to cast their ballots for Netanyahu, and commentators are debating whether the endorsement will help or hurt him.",
+        "via": "US backing for Likud",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Trump reiterates his endorsement of Netanyahu, urges Israel to ‘finish the job’ in Iran",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlpLLXJpejdmOEtreUNacEZMamxLdWdTYlZMNTZxTUJzVTlKM2xPaGNLeVR0NHFnaFBkQ1NuZkRadUZteDQ3WDBxM250T0ZNM2pFcXlCbnA3MEJFNU8xYWREVk5rWXVrOHEzYS1ncXRxSnNtNXNaUmEtTEg1TDVlTHl0c0dxc19pZ2hrSS1jNndMVjBDLVZfRnhINmdWYWNTV3hwUksxZHRSbi1pNmZXUHVhcUtCR2pHaG5OVkZuWnlCVFA4?oc=5",
+            "title": "Israeli elections: Will Trump’s endorsement help or hurt Netanyahu?",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREVvR2V5TXpWRlZHUExTWFUtTHB5R2JqYTdMc3BMWEJKQmt0TnJnbnZ5YXNMUWt2R3pDMGVoUmlLMG1KbnpkS3FSN3laaVZ2b3o4X2psaDlIcWVXbE8zYzQ1UWIzWHd0U3lQX29RZnU5NklNaDZfYjVEczNRZHdCVldwWkxleUJqQmNVeGlyX0YzR21wakJ3V0w3OV9IMUlWZUpOTWZ3MGNDOExNYlVj?oc=5",
             "publisher": "Anadolu Ajansı"
           },
           {
-            "title": "Donald Trump endorses Benjamin Netanyahu, calls for Israel, US to 'finish the job'",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDQkE2RTEycjd6SU5TWHpKem15U0RGTGpLbHJuSXFTZDBuVkZEaVJHdkJUcDRreWxlV1I2S0JyRVpjZ2RpMnpPaFZ3UFl3MjRpR0llQ212cEJRb0NjdGZ1Q0FVWTliUktr?oc=5",
-            "publisher": "The Jerusalem Post"
-          },
-          {
-            "title": "Trump Renews Netanyahu Endorsement, Urges Israelis to Reelect Him",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV2kwemNrdXA2eXpLeDBSM0E0UDlnejZSWmM2VVJWb2pRdHNCeVM2Q1l2NzVvaXNUak1iakhOOFctQnQtRXRiWGZJWWxRWHo0WU1SNHZQb0Y1bkJJa0RHbVkwa3R5YWpZdkh2TFpqeUJGdC11dGY2NXAzSk5NMFhZb21hdnM5Q2N3aFZpeVlMTXBiUUV0LWpBSE54NkxrOEloWjEtSFpWQ1BiRTJzbFhNRGFVZ0kwbFpOOGhaOWJDeVhZNWN5RlRGZ2NZNlA2MERNVUpMQ0RXVnhpUURXN3V5d2llWkZLTTROdmE3cEVGc2JaY2JGcW84b0xrX2FkaEtZSGRFSUlTZHRLQQ?oc=5",
-            "publisher": "Haaretz"
-          },
-          {
-            "title": "Trump renews endorsement of Netanyahu: We have to finish the job we started",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nZGdhMW1fS1FlMmZKak5fR1hyVGNYLTR3R19SRjB4R2o2QVRTdnBsY2UxRVdQNUdVVWFXN3JOTndVaHRQNHd2QkhzMnZNVFlGekxiVldGS0Iwdw?oc=5",
-            "publisher": "Israel National News"
+            "title": "US President Donald Trump called on Israelis to cast their ballots for Prime Minister Benjamin Netanyahu in upcoming elections. Link to the full story in the comments section. | via ANC 24/7",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFg5dEowdHIzVlFFSFVnbGQ4R09DUnZEb3RqdDBCTXduQmNRXzJseXloenpSVlVGYTlRQ1pVbGVYOTVoY0hOdS0zUkMxdFdEMGpNZ3JzM01FZFEwRURUaDVUTWw1OEF2bXAyVHVKWTR4TDdvY1R0S2pBVTc0MERNaW5wN3MxV0ppQ1pzTW4tT2JzMzBTcTlhNGdleVV4ZVZlS3FFNExwcWZfVmtic0FmRGtKTmswYUI4TWVSZ0FUYndTbGtHZGp3Y1BrRVNfNUxXRkhnbWxPRQ?oc=5",
+            "publisher": "Facebook"
           }
         ]
       },
       {
-        "id": "idf-chief-resists-netanyahu-s-iran-order",
-        "title": "IDF chief resists Netanyahu's Iran order",
-        "when": "2026-10-25",
-        "place": "Israel",
+        "id": "reported-iran-strike-push-trump-refusal",
+        "title": "Reported Iran strike push, Trump refusal",
+        "when": "2026-10-26",
+        "place": "Jerusalem",
         "lat": 31.77,
         "lon": 35.21,
-        "what": "The IDF chief reportedly resisted a Netanyahu order for military action tied to Iran, and army leaders fear an offensive before Tuesday's election.",
-        "via": "doubts over war timing",
+        "what": "CNN reported Netanyahu pushed for an Iran strike before the election and Trump refused; Netanyahu denied reports of escalation with Iran on the last day.",
+        "via": "Iran war record in campaign",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Report: IDF chief pushes back on Netanyahu's order",
-            "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-            "publisher": "France 24"
-          },
-          {
-            "title": "In ‘unprecedented confrontation,’ IDF chief said resisting Netanyahu’s order for military action tied to Iran",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1F6OTFMaDNiQUszRmdqMy1aYlBXQ0s0NHE1OHVkMXN1OHJtUFV6TTJZUUJBdGNPdGRYWkVJSXlRSm0wYmZLZWhJT1lhNU9ZQmRNcGdQd1J3UFM1eGJEdDB3N21WSEpESFZHYUdoSXR4aHFiOXVSSndCMU94V3lvWldiLXlhRFVocnpLazFYbkxROWd2Sl9QR2FfOF8wVlNpVkptcFdkdmxwaWhtUjNpUVoybGhYdlpnTHI5ZE1lbDctWHZYUmpPTNIBzgFBVV95cUxPMlR0Sm5SM0pxV1p3NWh4cFRtSEk1bVNITWtDc1dmWGV3T1VsVWEwY2ZpUlo5SDFvaXFrNnJ0S0wyQVdSME9IOUNiN1hiZlUycDU1OUpzV0hoQU5CY3BPM2E4WUc4UHNqQ3BtdDJsZjV1ZnFJeDQ4SUxNSlJXVXJCTk1DUWMxcVMtaHRiMHM4NDdBdF92Q1cxd1k0VUNWc0cyMmNZSEVtamxBdkwwQmJ6OXF6NVBCVmVCV19rbFhDdXBxZ3B4U1lBSlZpNDlqQQ?oc=5",
+            "title": "Netanyahu pushed for Iran strike before election but Trump refused, CNN says",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSllVZTRWSlotR3pRbDliYldYLWFOMy1jNUtSRHVCVDNUQWN4MTFPYVdzUEU0T2ZhZE95czU2aWVLd3FXNU1fX2ZqMTVTdDdmQnQwYjFBQ3ZxbmRNU1NVM2J6Wk10d0RIWEYyT2hobzlyblNfSmRDN0hPZmx4RGxDaWN0MERQWVREa3JKVVdNbW4yZ21qWGtraURZcEh1YTZNZGhLSDktV2J5d9IBrwFBVV95cUxPdHRXNUhRc213aVBLeVkwWlBWTlZQMTBxTmYwS2NpRnF3dFZfTVpmcXN4aGdiRFBBakdxMFFfLXozd25MVzRFbmNnVmlaTXJRcWs4cV9WbFlac0VrMENjYlZIS3VfR0x5YzAxTHIzNTR5SmJhbnVxUUsySE4zb1FORllTWkdtWE5oeXVsMHBiYklvbGVuem5EQ0RmMlJESWtHbU5ES0tqdWpvX0dLMFM4?oc=5",
             "publisher": "The Times of Israel"
           },
           {
-            "title": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election",
-            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMlUweVp5TnJWUDhnRkx0ZmY1alRaemtaRTc1TTZjNm5BVTFPaDJxeDZfcmt6Y3FxbXEtRFdBSkFwbC1iZDBjUXlBZFVVZmRqeXhvTTBaZ2NWZE1pNVN1TTM1MGM4U25XS1ZpZ2F5T3pEZzh1UDlwRndKOTZBbmNlV1B0YzJRWkN6ODlITFU4cWhwakhsWmtELU14blpDa3dzTkpISXNFbTM2SmtmeG9KTmNYNmR6SjRQLWZRZ2ZyalppdHBma2VCZTZfY1NpZmMwZVhPTDl1Yk54YUNwaldQX2JPeFBWWnB5c2JZelhHcjU4U2UtanYwRDBJQVlXc25yVTY4TThGT3Q3N1d4QWVwaWdqZlU2YnptM1BMMw?oc=5",
+            "title": "Netanyahu denies reports about escalation with Iran in last day before election",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFBqY2NKVnVLOHZTS29yVWhnQk1Dc245WFE4TzRVQ2V4UHZRa0dDWDBuNXRqLVNlUkIwM3hwTzZiWUdqLVVwdVVSU21IQWlHQXFscm1vNnlFdmhjUzdzNnJHNVd4MlZ2RDFuTkZkSGtmeU9ueUVMUExlc3YyQWFwWHlwNFNUcVR5VUJ3dXduMTJCOWJlM2lhem5uaWhPclpTX2JWMXN3T183aE1NY25vQWNSbl91RVUzVFNEMHJhdFlYUQ?oc=5",
+            "publisher": "Audacy"
+          }
+        ]
+      },
+      {
+        "id": "arab-israeli-voters-seen-as-decisive",
+        "title": "Arab Israeli voters seen as decisive",
+        "when": "2026-10-26",
+        "place": "Israel",
+        "lat": 31.5,
+        "lon": 34.9,
+        "what": "France 24 reports that Arab Israeli voters could prove decisive, as neither Netanyahu's bloc nor its rivals reach a majority without them.",
+        "via": "Arab turnout swing",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Israel: Arab Israeli voters could prove decisive in the upcoming elections",
+            "url": "https://www.france24.com/en/israel-arab-israeli-voters-could-prove-decisive-in-the-upcoming-elections",
+            "publisher": "France 24"
+          }
+        ]
+      },
+      {
+        "id": "netanyahu-warns-police-of-election-disruption",
+        "title": "Netanyahu warns police of election disruption",
+        "when": "2026-10-26",
+        "place": "Jerusalem",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "Netanyahu told the police chief that 'left-wing anarchists' could disrupt the election, adding to tension on the final day of campaigning.",
+        "via": "election-day fears, polarisation",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Netanyahu tells police chief 'left-wing anarchists' could disrupt election",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWl83NUNlME9mRVFHdlVJU3JEaGl5VWd6YnpuQ2dMU18wOGdLWU8tNS1TcUNrZ28tS19TQjhfR3lGcVVaTjMyQThPUWNPaWd6cTJaOUpqWUtJZ1BtSC1rX2plWW42RnBVSVVyb3JoRmZESE1ZQU10dWp5Q0VjTzh2bmZZSzNPUGdFTGZmYkgyUFk0TzJXUS0xYzc5bV84cnVycFhnSkxVQmFEeEZYbzU5RDh1bW9wV1h2V011LWwyVGZJVXRyTEVRLXBzX2p5LWxicTZtRXBmY1B3V013SGs0M2pYTURXNDZPZHBXTmNiLUVQSzFGdktqLXVfM3BXRjczU1B0ODRNN1JnTGRZUFpqWjEyT0Y?oc=5",
             "publisher": "Haaretz"
           }
         ]
       },
       {
-        "id": "netanyahu-warns-iran-may-disrupt-election",
-        "title": "Netanyahu warns Iran may disrupt election",
-        "when": "2026-10-25",
-        "place": "Israel",
-        "lat": 31.77,
-        "lon": 35.21,
-        "what": "Netanyahu warned that Iran may try to disrupt the Israeli election and told Tehran 'don't test us', putting security at the centre of the final days.",
-        "via": "security fears before voting",
+        "id": "deadly-israeli-fire-in-gaza-continues",
+        "title": "Deadly Israeli fire in Gaza continues",
+        "when": "2026-10-26",
+        "place": "Gaza",
+        "lat": 31.5,
+        "lon": 34.47,
+        "what": "Israeli forces killed at least five people in Gaza, including a 7-year-old girl, as voters weigh Netanyahu's handling of the war.",
+        "via": "Gaza war scrutiny",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "US-Iran War Live Updates: Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNjl0dGttZVpnU3JBUkdQaElGenkyZ0R1Y3hWSUNFWkxfejkwMDRpUmk0azhLTkZneVFjN2J1VHRLWDVFNXVoSVJtaGJWZW1rZW9RWGJybm9JT0k2cTByVjdOUkkwMUJyUjA4V092NWtFQlJ3bWFuTE5qNVZ2UFZDcFpFT2dHZ2dMcUNrMW1VWGlJeHNjb1VsQkhiSWloWGdoUHhCVFpHWndUN2UxYU5mWDd2YkwxZDZjZEM3M2xzeE1WR1NGVWhEU2xwUXJBcTc2aDJmbWs5THJjaUh0VVpnX3hCVU1waEtDUHRhdzBoQ25oQdIB-AFBVV95cUxQRUo0Y0pJY2Y5djlXSTVBblBESjhPbkF5STkzMG02Z19nZkdmbFNPZ0pLWkJERHNxVUppeUotM09YNllPY1FScWtRTFhabkdGanJvWVp6OTB4MURwZjhUbEFqbHEwMEE4LTc0TVl0enhySnZQNTFNQUtQTUlNcEZ2RlFmZzRWbVJGMjNISzN1MUllQmljLWU1NjZWOXNzYzkwNERhcHJzUEVuNW5pQWV5bndXakVkcG1lTURRYlVVVk8xLUdoUDUwNVJzZVlsLThmNmwtVUtlb0FFdXZpZEhHeUNHSXlKdzRBdmFDVGR0S0F2NmF4Y2ltMA?oc=5",
-            "publisher": "The Indian Express"
-          },
-          {
-            "title": "Netanyahu warns Iran may try to disrupt Israeli elections, says ‘don’t test us’",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnZCRjQtRFhNdzFjV3pGNkwxa00wQ1BqOVo5TEYtOVljRThQZUs2SG1MUUJUclJ0LXFVTG5vNUd2cUNic1oyaVRNcDVMSVVhOTRrYXVzeEtvcjYzR1hIX1ZoYVdUdDdzSE83YXRzTHljUWhLV0NfcWRETWhackU2SzhfYWtwaktQMGZsUWwwTXpuLURidkN2aGp1QmRic3A0cm5xMV9GdzdKM0R1MFRJSUNYYnBZNnVqVWtBTzNQcFZfMzlvWDljd3Nzd25ScFJWcnU0ckhn0gHWAUFVX3lxTE42dkJGNC1EWE13MWNXekY2TDFrTTBDUGo5WjlMRi05WWNFOFBlSzZIbUxRQlRyUnQtcVVMbm81R3ZxQ2JzWjJpVE1wNUxJVWE5NGthdXN4S29yNjNHWEhfVmhhV1R0N3NITzdhdHNMeWNRaEtXQ19xZERNaFpyRTZLOF9ha3BqS1AwZmxRbDBNem4tRGJ2Q3ZoanVCZGJzcDRybnExX0Z3N0ozRHUwVElJQ1hicFk2dWpVa0FPM1BwVl8zOW9YOWN3c3N3blJwUlZydTRySGc?oc=5",
-            "publisher": "Al Arabiya English"
-          }
-        ]
-      },
-      {
-        "id": "protests-demand-netanyahu-be-held-accountable",
-        "title": "Protests demand Netanyahu be held accountable",
-        "when": "2026-10-25",
-        "place": "Israel",
-        "lat": 31.77,
-        "lon": 35.21,
-        "what": "Protests erupted in Israel ahead of the parliamentary elections, with demonstrators demanding that Netanyahu be held accountable.",
-        "via": "anti-Netanyahu street pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Protests erupted in Israel ahead of the parliamentary elections, demanding that Netanyahu be held accountable",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGx6Q2Z5LWRwRzM4VTJnQnlsVjgwVzMzNks0aDJ0N3MyQm52N3R5eGZDd1VhRlhTRTdpenBPc2JYMEdXb0JfUkdNU25weHduaHJSSGx5ak15VDJNNkkxQkY4V3d6SXBrRndkVXJFbUZRYU5kSTA0b2FLMDBhYjVEZGtwUmJlRTlIZVdpTVFka2dkRi1JYUdXbnU1NzVMbFdLLWZZYV9kUVZVeVNDNkJuWTBjZXhRTnNjTW1IMzMxSktvQ0VwOUtUQUtOWdIBygFBVV95cUxPamJYNHYxQmJLS0lzelVXOUs5X3ozVGhtcFRoZkFRY3hZaC1sTEVkems1VU9xYlNDZS1xc1JyaENaZDZucW92R291OUl2YnE0aXBpMHhnanNvY2loZnViSDhhSTYyaktxZXFicFVyY3VVN3pwdGRNTW02X0ZSdXB0YXl3UEtaay13bE13MlFRV1Z0Zm1ucERyUy1zeDdsOTlfdERqOHpnOWNBdkRCeXBOWnIzMjN5SnNIVjJRX3NaUzE0dkJOMTlLZUx3?oc=5",
-            "publisher": "Українські Національні Новини (УНН)"
-          }
-        ]
-      },
-      {
-        "id": "expatriate-israelis-fly-back-to-vote",
-        "title": "Expatriate Israelis fly back to vote",
-        "when": "2026-10-25",
-        "place": "Israel",
-        "lat": 32.01,
-        "lon": 34.89,
-        "what": "Israelis living abroad are flying home to vote, hoping for a reason to stay, which could add turnout in a tight race.",
-        "via": "returning voter turnout",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "'A Last Chance': Israelis Fly Back to Vote, Hoping for a Reason to Stay",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdmlZZk9HZEprMTkwSG1iUDNOVFNfZmdrRl85NHI0M0RFbkZvdkRhaDRURnVWRWZic1hIZEZpcTdXVmRkN3R6djktVUd2OEZBTzBLMDJJSGpmZDMzd0ZDX2NRY2tGMld6NjI2WHh6YTVfTWFxRkpPVWFfd3lNRi14QXExR3NjaDh2NEk5VjBPZWlXZndOcHRqemdYOEFzMW14RTJTekNuU3pnMjQ3bG1QNW1qbkhFcjBuMmFtMXVUalpqWS1tRnFUbzZvMm1YUWRPSWZaeng0RGJ0ZTdHYUNuNmo5MmZIWjlMeXJScDFDQ2tweGNzRjdKdjZFeDNKLUtSLXl0Mk4yZzgtNzBlZmJnaEZLT2JTWkJSN1E?oc=5",
-            "publisher": "Haaretz"
+            "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+            "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+            "publisher": "Al Jazeera"
           }
         ]
       }
     ]
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-26T00:03:19.315Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "brent-crude-reaches-116-a-barrel",
-        "title": "Brent crude reaches $116 a barrel",
+        "id": "delegates-expect-opec-to-keep-quota-plan",
+        "title": "Delegates expect OPEC+ to keep quota plan",
+        "when": "2026-10-26",
+        "place": "Gulf",
+        "lat": 24.71,
+        "lon": 46.68,
+        "what": "Delegates say OPEC+ is likely to stick with its existing quota plan at the coming meeting, pointing to an unchanged policy.",
+        "via": "delegate signals of no change",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "OPEC+ Likely to Stick With Plan for Quotas, Delegates Say",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0NrTDVfN2U2SFNYc2E0OUp1Sm53UHV1S2ZpWTVaMnVJbmF1ZWVGWlJSNHZwNEpjT2QwMGh4ZWplYURDZUVZUmlOU0JQUTY1b2kwRXpkZWs3M2tYMG5GVVJxanJTZ1FWTUp0LVNDTjZMVXEzMU5KQ2ozeDhZNlkyQ0xHS2ZCcmRkcFV6OHFKbw?oc=5",
+            "publisher": "EnergyNow.com"
+          }
+        ]
+      },
+      {
+        "id": "brent-climbs-toward-116-on-iran-war",
+        "title": "Brent climbs toward $116 on Iran war",
         "when": "2026-10-25",
-        "place": "London (Brent benchmark)",
+        "place": "London",
         "lat": 51.51,
         "lon": -0.13,
-        "what": "Brent hit $116 and other outlets report oil above $100, far over the $73 before the war, which shapes the quota debate.",
-        "via": "high prices, supply anxiety",
+        "what": "Brent crude hit $116 and sat near a six-month high, as the Iran war keeps supply risk priced into oil.",
+        "via": "high prices, supply fear",
         "aspect": "markets",
-        "flow": "into",
+        "flow": "both",
         "sources": [
           {
             "title": "Brent Crude Oil Price Hits $116: Market Outlook & Energy Stocks October 2026",
@@ -1504,115 +1551,125 @@
             "publisher": "Intellectia AI"
           },
           {
-            "title": "Oil Prices Above $100: Best Energy Stocks to Watch in October 2026",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fbXZxX1NjTG1zT1pGM1ZXTDRnSVhzYl9fRDVtNGVzUXRxRUtYRGxQQjFMMjFfdXBudEQ3SXRiTDVMTndabmJPUmJnMDhvOUxjbjFVZWhtZkVDMXBiQzlXMjlkaElPUk03VGtYaXlRNHRZLWliUUY4?oc=5",
-            "publisher": "Intellectia AI"
+            "title": "Brent Crude Oil Price Near Six-Month High on Iran War",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHlGbzRVWGlzNEVLVXB2T3BkQzRCbDhRVXhYb0Q5SjBhSHAxNzF4N2RpUHkzdDNnWVpzbEpta2RZaUZkamstelVKdGE5WXFIcWp3TlFhY3pMbmxSeThpc1ZBRFVUQmlmVi1pT0h3aU9CSDlHQnMtWC1EVHk2MHRYQm9RUnB2N2s?oc=5",
+            "publisher": "Admirals"
           }
         ]
       },
       {
-        "id": "iran-claims-attack-on-us-warship",
-        "title": "Iran claims attack on US warship",
-        "when": "2026-10-25",
-        "place": "Strait of Hormuz",
-        "lat": 26.57,
-        "lon": 56.25,
-        "what": "Iran said it attacked a US warship, which the US denied, and oil rose about 3% on the report.",
-        "via": "Gulf supply risk premium",
+        "id": "attacks-on-saudi-arabia-continue",
+        "title": "Attacks on Saudi Arabia continue",
+        "when": "2026-10-26",
+        "place": "Saudi Arabia",
+        "lat": 24,
+        "lon": 45,
+        "what": "Attacks on Saudi Arabia persist even as Iran tensions ease, keeping risk high for output and exports from the largest OPEC+ producer.",
+        "via": "threat to Saudi output",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Oil Up 3% After Iran Claims it Attacked US Warship; US Denies Report",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGdhT3VWdGdOZWgwNEJkbnFkZHJvSVpZNHdRZlItaHBHeGZfSFYzbGFwLWc1X1FGaEJPOGZMbUpCa0o5RnVpVVJXdHoxU1R1ZHlCVy05NWotN1BXeFhoZTM3ei1iQXNINDFfZ3RtRFNoU0hFalpYckdXTHdCcVN1b1JEWVVsRkFBTXpqMFptWmdtUUJIRmVsSWo4MW8?oc=5",
-            "publisher": "EnergyNow"
+            "title": "Oil prices slip on Monday as Iran tensions ease, but attacks on Saudi Arabia persist",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNREFQU216Yk1Zb0ZLYWdTOVJLNkJ0YmxCbHhIbEI5UDdPVmNsX0syZUFRVW5QbVhBZmhrSXBXR0NJbUNjdTNmM3ViZy1NZlMzZDBLQUFzYmw2Q2VLck1JY2FNczhmY3N0bElZU2VKLUM3VHJvVlNqaTh0dmMxUkV2c3JFVVZ6Q3hETXNQcGpyNnNqdXJSWGRDaEJac2pLU3k4N0tWWjM2cDJSTGdwOXUwdzVkU2hxUQ?oc=5",
+            "publisher": "Bol News"
           }
         ]
       },
       {
-        "id": "trump-says-hormuz-transit-exceeds-pre-war-levels",
-        "title": "Trump says Hormuz transit exceeds pre-war levels",
-        "when": "2026-10-25",
-        "place": "Strait of Hormuz",
-        "lat": 26.57,
-        "lon": 56.25,
-        "what": "Trump claimed Hormuz oil transit is above pre-war levels, a contested signal on how fast Gulf export capacity is recovering.",
-        "via": "claimed export recovery",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Trump claims US strikes 'blew the hell out of' Iran's nuclear capacity, says Hormuz oil transit exceeds pre-war levels",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1NLSTg2NmVSR0d6Zjc4UW5tNENHWVhBTWR6eEZKOFIwUEF1WWxqVm1GUk1BTmJKQXNuSHIxUjRUSXRzRUloaGlVaFZwd3ZmS2pJdTlDMmRySjRBVklzWUdRSVhtNHN6ZWc2d3pCb3ZNd3BhR1JiT2NrWGpQVFZfajY2T3VYajNLczVsZGdfeG96RWtFQ1hxOERtV0R3amFQcTJ6RVlUb2wzOW4wSG92MTBDUXJISUJtTVhlODAxTE9aMGlWLUsxSWx1dkNwWG4xdDJPNDlRYUlwOVVRQmdOMVcweEJKT1BoQ3QtRDRlaUtxQTFsQUljMg?oc=5",
-            "publisher": "ANI News"
-          }
-        ]
-      },
-      {
-        "id": "uae-talks-up-life-outside-opec",
-        "title": "UAE talks up life outside OPEC",
-        "when": "2026-10-24",
-        "place": "Abu Dhabi",
-        "lat": 24.45,
-        "lon": 54.38,
-        "what": "The UAE oil head said leaving OPEC gives it room to speed up investment, raising doubts about group cohesion and future quotas.",
-        "via": "cartel cohesion doubts",
+        "id": "us-and-iran-receive-ceasefire-framework",
+        "title": "US and Iran receive ceasefire framework",
+        "when": "2026-10-26",
+        "place": "Iran",
+        "lat": 35.69,
+        "lon": 51.39,
+        "what": "The US and Iran received a framework ceasefire proposal, and Trump hinted a deal is still possible, which pushed oil prices lower.",
+        "via": "hopes of Hormuz reopening",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXQ1dGNTQVlqczc4M0dfV2VGM1pPQ3BiSUlaWnF3eGZZNkhXWHBDc1k5NlNMT1JRMmpoYzktT1hFbU9HOHg4aUswdU5QNnJremlSc2dzSkthZjhtMjJ4MlZRblZkZktkNjR6V0FKM2I1amQ2Tks0TkFZREJFSVZSZUJjOUdkZjBiNjlia2VsRzJoRFZvQ2xuZEdTUQ?oc=5",
+            "title": "Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2EzT2V0SWZFdVQ5QlZsMWtnNjhxMjF5RTFJNmNmZkZ5d2VFcFBjX21mQ1lDRG5XYk5XUHVTZWo1RlhYcThmOWZjU2k4WXZNVXBNTFoxeGdWRVQ2YndtS2tqdHNJcGlzdjIwMjctdG0tMGFBQkpVQkxXQ3pJUWVOV29qaUdMLXNGZGctOU0zNDB6bkliTGI3dHNoUGJwaEFvRGxV?oc=5",
             "publisher": "EnergyNow.com"
           },
           {
-            "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEpkd2NmQk53bE5KOXV2RkM5NlQ5d2owa1kxV3B4eHJlejNvVmt1WTIxQXdtemRQTW0yS0FZYnNwXzVMZG13aUR5bzNMWlVsVDRJUTk5elg5a3hfSm1yQ2szelA4Z1l5ek5laUxGVUNhUjZFQWJuUkVma09lS2d3elVLcWRJQUVUNk5IWUhlYnB2Nml0T3hmZ2JkZw?oc=5",
+            "title": "Oil futures: Crude eases as Trump hints Iran deal still possible",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3Fkb2NZUDQxa28tSmdVc0xIbHBIbld2VlZBSkE5SWNJUXhwZVNLQnQ4VEVtT25pWjEtNmdDM1ZnczVoYjdGYzljVEJVd2NnblQ0ZU4zYUNDSGM0OGFTUnF1UUg0d3J5eUZLcS1nZFpUOU9tbE9XaXV4MjB1N0V0OE54SXYza1g3aVhOYWhvVUJaeVNBVnZMRUZoS1FoTEExNU50SUJBX2F5QQ?oc=5",
+            "publisher": "Quantum Commodity Intelligence"
+          }
+        ]
+      },
+      {
+        "id": "uae-plans-output-above-5-million-bpd",
+        "title": "UAE plans output above 5 million bpd",
+        "when": "2026-10-25",
+        "place": "Abu Dhabi",
+        "lat": 24.45,
+        "lon": 54.38,
+        "what": "The IEA says the UAE's push to expand after leaving OPEC will lift its oil output above 5 million bpd next year.",
+        "via": "rival supply growth",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVhWV0dBMjNucnZ6RkhPZWhhZnNBZWVpZXN4WGdoUkFGYkEwODRnYUNqRlZ5LUxqcGp3VnBlelBFLXVhMTY4YlNBZVRvY1JPMERKeTEyazZqTkpnLXhxbVRfOHgtWnptakdkcmpaN2FYd2I5WGhxMnhBclp1VzVGTWxjOU1oSVdiU3hnWGQ5RjZEMHdMZy1qaUVRamN6bEVralBYLU9NUGFnVlBhZk4zaDB6TXA3dmtRTXc?oc=5",
             "publisher": "EnergyNow.com"
           }
         ]
       },
       {
-        "id": "saudi-output-recovers-from-30-year-low",
-        "title": "Saudi output recovers from 30-year low",
-        "when": "2026-10-24",
-        "place": "Riyadh",
-        "lat": 24.71,
-        "lon": 46.68,
-        "what": "Saudi Arabia reported its crude output recovering from a 30-year low, while OPEC halved its 2026 demand growth forecast.",
-        "via": "Saudi supply rebound",
-        "aspect": "energy",
+        "id": "opec-cuts-2026-demand-growth-forecast-again",
+        "title": "OPEC cuts 2026 demand growth forecast again",
+        "when": "2026-10-25",
+        "place": "Vienna",
+        "lat": 48.21,
+        "lon": 16.37,
+        "what": "OPEC trimmed its 2026 oil demand growth outlook for the fifth time, weakening the case for raising quotas.",
+        "via": "weaker demand outlook",
+        "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "Saudi Arabia reports crude output recovery from 30-year low as OPEC halves its 2026 demand growth forecast",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05UHcwSkZCNUVSQ2xUOWtseUxNdGZWRm9ab1VpZHNHUVFPckpVT2lwTjRMQ0JlaGtSdFMzRktuWjRBc0FVZGM2VG9PT3F3MjhLQ09WSTVmWVlJZWFLYnNxYW13MllwQ2UxR3VFeUJR?oc=5",
-            "publisher": "Energies Media"
+            "title": "Nigeria Faces Revenue Risk As OPEC Cuts 2026 Oil Demand Growth 5th Time",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGJYTk9rT0ctaWVrUWpPV1VlWTlONG1EMzFyRkFWTWtCcG5XZHFnbkg3NXZpYmpJOHVGek1mNEVMR01mc3RMOU0zNjRkZlBBdjJWcU5zamxzSkZMV0J1bnFOVjl1WmRKRlZTVW9wUUhWYm9LRWNQR3UyWnV4dmtSY1IzZVYzb19EaUZoOUJDTVFfc1RCd2hKa2tn?oc=5",
+            "publisher": "LEADERSHIP Newspapers"
           }
         ]
       }
     ]
   },
   "france-election-2027": {
-    "at": "2026-10-26T00:03:19.315Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "le-pen-opens-campaign-in-orle-ans",
-        "title": "Le Pen opens campaign in Orléans",
+        "id": "le-pen-launches-campaign-at-orle-ans-congress",
+        "title": "Le Pen launches campaign at Orléans congress",
         "when": "2026-10-25",
         "place": "Orléans",
         "lat": 47.9,
         "lon": 1.91,
-        "what": "Marine Le Pen launched her presidential bid in Orléans, promising to restore the rule of law and a zero tolerance approach to order.",
-        "via": "law-and-order campaign message",
+        "what": "Marine Le Pen opened her 2027 presidential bid at a National Rally congress that drew crowds, promising a French renaissance, restored rule of law and tougher immigration laws.",
+        "via": "campaign momentum for far right",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Marine Le Pen Launches Presidential Campaign In Orléans, Promises Rule Of Law And Zero Tolerance",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOHlhUVpFUDlFbkMtRkR0VFVnRUtYX2VaNHJFdGVpUEtqMUFDUGc4enZENVJoOXdGbEp5V3VFcDl0ZTFZcmUtcERHUVhxcVV3cnhOV0NmNi1MOFFvNU5SVHo5N3pkR1BOMDQ2Q1dKWC1jeFRWUHhDLVR3dlh1d1FDbGI3X29KV1JiYXlTaFFLM09XVkY0dzhRaVVQSVFJQXBBSEg5bnhUblBZNDZxVlZYYzVUakVWTzZoS3ZJOWpxNmhhRlcwN1RXTUk0REpGSEJCV21QMWtJZnRwSVN3NkJON09oXzlGZndy?oc=5",
-            "publisher": "NewsCord"
+            "title": "Marine Le Pen Invokes Joan of Arc as She Launches Presidential Campaign, Vows New French ‘Renaissance’",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVDZYdTBfdFlkdkRiU09RSFBtUHNiUzkybnZnQU1CYmU3cHluQ1BaNGU2dmhjLWhxeXJzQzdIY3dEMGxmZ2ItSHVOTGd2andiN1hHdjNSOENCdnNBb1hhaXY2c0QzZUxHOE5WVEpyWDRoaXNjR0tYSlg4TmtNc2JXVkRERlliSEdtR0lCR0NMQ1FHQUI3UV9zQldHWUZvM09FN0xSbllGWnRySzN0OHUwNC1JU2tZNHNBTGJDbkJTY0NXZnhHUEpxYXJqMWxGaFJYTGhYNG5SOFE4U24ya3JKNFhpYmFvZ9IB6wFBVV95cUxObEU4S2RKWFNyS2Z1UWNRV3BtS3ZYTU9tdnNPNnc2N1lBV2hWMnB6MVd1U2xDRVo0V3ZBQXlXbDM1YzBpeWN4Vm1lajNDcFUzc1lYalVjMnNyd200ODlDaVNkY0JKTFBsQUlfdGNyelloeDRFYzRrU3dXM0tuR2RWOGxaZVpEZWxybmR4NlVpUkxySVJIMUZOdUVVLWRXeUV2UHdxcEJkc1VER0xKV2x4YVRSa0kydF84UTRzZnRvdHFIQlpZcVZ5OWlHbUM0QnlKVmZRY2ttZ3lGb1E1WFd4c1M5c0JZVFlwdktr?oc=5",
+            "publisher": "Breitbart"
+          },
+          {
+            "title": "Le Pen Pledges to Restore “Rule of Law” as 2027 Race Heats Up",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamx6OXdQbGdPbFctOVVjS2NkYnh1WWJFdVBFeVZvcjdmSUppNW43c3lEUVdYRHBjUUJ1R29qNXNfSWNfZ1JQVC1yNlFUT1dfTEV0bW5OUjFxa1R2c3k5dnJBU2g5cG5mWVpDVEloTUpqTU9rNTlrU293bFB4dy1CVF9zeExyTGxvVTBLNVl6d3lGSW8?oc=5",
+            "publisher": "Menafn"
+          },
+          {
+            "title": "Congress for Le Pen's National Rally party in France draws crowds, ahead of next year's election",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tenBtelNQVVVaa2NMUzM5ZFpXVHZqazU3NWlnNXVhOWM5aENhSHZRTUtaVzE4RjNoQWVkeVZPQnZWV19HZTR3ZEZXV1A5UC0tQUkxa2hHRUdKZ2lIZXRyenY4ckhtX1UwZzRnUVRoN3E2NXdQd1FXSm1zWkE?oc=5",
+            "publisher": "Yahoo News Canada"
           },
           {
             "title": "France’s Le Pen launches presidential bid vowing to restore ‘rule of law’",
@@ -1620,34 +1677,39 @@
             "publisher": "Arab News"
           },
           {
-            "title": "France’s Le Pen vows ‘zero tolerance’ order in presidential launch",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEZMc3BCUnZiS0EwSDJVTDdUWDVaYXVZZ1lIdzhXYjJnYWlIREFSc1pucmlwVEI1SHlDb28xUTZldjg1NXpZNjhXQkVFaEMxcnlIUkxOdERQSWJ0VjR0am1SVHVmWUp3QXlTY0lOa1FlVVo5SHNOQ2ZTa29RQXhmMTJsbjhBV19Zc3JMR2NrbFdURG5PNDhuWlhiUlE1S3JIQW1DT1NQZkNidkE?oc=5",
-            "publisher": "AFR"
-          },
-          {
-            "title": "Marine Le Pen launches French presidential campaign",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+            "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDI0M0dESlgteFVhRlU2ZkxheWFIUG9CV1A1ZjRxUmxJZWw5bTNaSHE5YWdVOGRoXzNsb09wTXBZb1NkeHlfb3ktM2pwdXFhUkFIU0lscDd1WExzOGQ4WnExdmg0WXB6NjlZTUF1YVdOT1J2Q3haamZDZTBUTGdkT2dxaDNQZG54V01LaHlhaE5xQ3RtZTM0RFdjcUJ6QUVSakRQMWNXejlXMHNjUmdCRGFPc9IBuAFBVV95cUxQRWh1RkFDN25FX2tOcUlLWXlfU0hzWVI1MnByc21JcHFWc3g0aUtjdk1MUVhsZ29YQ2lTZlptTnl4MWRhV0d4RjJlZ1VaZWZ4Q1lrRDB4eVpFMWxWVHN0eWs4elJvVW5SNmpPeDF2V0VpTG5IaEs5NUtYdUJfM0ZzODN4TTRIZVZaSk84cHp3U1BlT1BaT2RtZjl4ZUFoRFdYMVFqYXMyVGYtWUQ1Y1I4TDYxSzhKUFRj?oc=5",
             "publisher": "Al Jazeera"
           },
           {
-            "title": "Marine Le Pen launches presidential campaign in Orléans",
-            "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-            "publisher": "France 24"
+            "title": "Le Pen launches presidential campaign, vows tougher immigration laws",
+            "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBvRXpwZTZUUnFvWld2YmJfRWN6VXVfTzViN2FLNk9xdjh5U1VaOFRDUU0xcndFdWxUNm9v?oc=5",
+            "publisher": "Howl.Link"
           }
         ]
       },
       {
-        "id": "protests-rattle-le-pen-s-launch-day",
-        "title": "Protests rattle Le Pen's launch day",
+        "id": "mass-protests-and-barricades-around-le-pen-launch",
+        "title": "Mass protests and barricades around Le Pen launch",
         "when": "2026-10-25",
         "place": "Orléans",
         "lat": 47.9,
         "lon": 1.91,
-        "what": "Mass and at times violent protests surrounded the Orléans launch, and Le Pen sought to leverage the unrest in her campaign kick-off.",
-        "via": "unrest she can exploit",
+        "what": "The campaign launch took place amid mass protests, with Orléans described as silent, tense and barricaded, and commentators asking whether street violence helps Le Pen.",
+        "via": "public unrest and polarisation",
         "aspect": "security",
         "flow": "into",
         "sources": [
+          {
+            "title": "Presidential election watch: Is street violence really a boost for Le Pen?",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFlYQXZBZWhOdTFmclNZYTE1SG9ncDVYb1k1NkJZU2g5cUk1elpwM0x0bEJHOWxlMW0xY3AyUENQeVdTWS02bThHSmtJUVMyNV9wWU4tbEhrTG1FYnAyd0U3cEZXOTd0WVRiVTU3R0RMbF8zMlBXR1VQc3h0MVVOczNKVWxUWWhWWFJkTjl5Zm9LOExXTUlqdGZZZk5YVlNMQ0NEMEtyVDY?oc=5",
+            "publisher": "The Local France"
+          },
+          {
+            "title": "Social unrest has pushed French politics to a turning point.",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEwzWTdqRF85YU9RN01PMUJ1Q0s3YWZmd20zU3prR1lQclhmRHQtbnZUeW9JSE10NFFJdnNkVWdlVkxuVDBXbF81VWFxWXlTdm1ZZVNPTHU3RUJwUVlDWHRKZ0JRbmN6S0duX09zR1QxWko3MGw2Zi1SSTN3QmVxS2dn?oc=5",
+            "publisher": "Vietnam.vn"
+          },
           {
             "title": "Silent, tense and barricaded, Orléans reveals a deeply divided France",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEhmRmNFM0RXXzMyVUZKWXpRR1VNR2lLZzA4eF9pLXRYamd4NmRsREpxOXFTWmlETU9ZZVM1QVVTOGw0MVlSZVdEcmdQOUNjVG9EakhnN2hCUE4yNGpVSGxTTTZZakI4d2xadER0SG9fcEpyQ0F4dGZPRXN4dmptVnVKWVdCTXQzdGxIZlFMcHNNem5VTnd2Mzd1WVpueW9lYXY3bVpjTUZUSXhNMVpSWEI1S3E?oc=5",
@@ -1657,33 +1719,66 @@
             "title": "Marine Le Pen has launched her presidential campaign in France amid mass protests",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGZCSlJ3MFhrNEo2TE81bFRzcUhSaC03SXhoc2JhVVJabC1CdXRqV0VxR01FVk05MGtFMW0yQ0NmWmNlSFVKYzlvUkZGSklKd2RDSGpGSnFpbExXU3VNRE5CTWNFc2dBUkZjME41OXU2ZTdfYzFkNmlqd0w2Uld0TFRzUmlGQnRmNXpoVy1QemhaZVNteEx3ZHVhb0ZvNkdkYy02SWtmSdIBpgFBVV95cUxPZDZkRHBwZzZiSng4eTFZdHN1eHB2YThLOFhVUDhiTVlMUFRKZG5QY05rYWZ0cl9KNW1yMEZYWDRHbGdXcmhSZHFKUU5aaGRRTl9YSXh4WC0zWm1VMTVOaTQ4Um5zVXhzb0JCczRvNUtRNVNCOTV4ZEowaVFSVFVRS2RoeTYzS0JGUFY4TkVveU5zd09xSHBYaldmVUE0ei1rRzdrNDZn?oc=5",
             "publisher": "Українські Національні Новини (УНН)"
-          },
-          {
-            "title": "France's Le Pen launches presidential bid as protests rattle the nation",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5",
-            "publisher": "Reuters"
-          },
-          {
-            "title": "France: Marine Le Pen launches presidential campaign amid violent protests",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3lEbUtUd29aVHp6V2hISGREM0NhaUlTZUdzV1ZYNnRHaERXblBCTURkTWU3TzRKR3FCM3EzaVJjNU1TcS1wNUJpUUR2aWJEQ1hiaHlEb0o3dUtTeEo0VWhnbTZpZUktM1A2ZDVhMlZ1N2NaZUlaXy1uMnFFLUFsTDN5cWVQcEdLbnE0ekdnQlUtclpOR0J4VkswMXEwYVNMbkRsbzhn?oc=5",
-            "publisher": "Channel 4"
-          },
-          {
-            "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
-            "url": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
-            "publisher": "France 24"
           }
         ]
       },
       {
-        "id": "poll-shows-le-pen-beating-me-lenchon-in-run-off",
-        "title": "Poll shows Le Pen beating Mélenchon in run-off",
+        "id": "le-pen-confirms-bardella-as-future-prime-minister",
+        "title": "Le Pen confirms Bardella as future prime minister",
+        "when": "2026-10-25",
+        "place": "Paris",
+        "lat": 48.86,
+        "lon": 2.35,
+        "what": "Le Pen named Jordan Bardella as her prime minister at Matignon if she wins, presenting a ready-made government team to voters.",
+        "via": "signal of a governing team",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Presidential 2027: Marine Le Pen Promises a “Rebirth” of France and Confirms Jordan Bardella at Matignon if Victorious",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUxzNjdOZVFoV1hqRndOdzI2MnBnNG9DOHhjRTE0TkhZNU11Y0hJd1hJS1l1SFJQbXdraVkxUlVlRl9SUXB0Uld2dmhPZGtRX3ozeXlzdFV3YzNxWngxLXRnWDh2NXJtUnRJdXdEVVlwMF83TXdWT2h5OGhYQmRKMFFIVzFYa0Zyc1NzWXVMNm5yY0VERnVsdl9PaUZMckw5VVcySA?oc=5",
+            "publisher": "entrevue.fr"
+          },
+          {
+            "title": "Le Pen has launched her presidential campaign in France and named her future prime minister",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN6NHJRQWVfN2tyYUlJQ1kxOUZwcnpEX3BHOTBXNnBzc3JScks1UEtJczNQRWkya0h2VC05TERENjBxNkg1UWkxS01RZFVaTklKVUtzVTlFQ2RZcTJEbWRJRFV2SWRuVGM1NlVMeDBRM3EwVl8wcVJHNGxiVHRfeFA3cUdWNG1WUGRMLWd3My1JUDIxR1FRUWYtQXVfQl93VFJkVVJ2aFdlQ3QwS1JXMzNOc2JZQlB4eEh1VjhpdEFBTU1UT1HSAcsBQVVfeXFMUE1WLXBXb2xCYVRidnhNX0xXM3VSNTVxNVllMzNEQWVjZzVkVnp0UGxTcUlsOHNfRlZtRUhDcEVfbTB3R2JNTzF0aUtRUzlvUjhFYm8xMVJtb0ZWM0F5QlV2M05Oel9hWmpINGl3WGtmU3VxUmphOFAxWC1McFgtV0c3NmttNFl1VEgzajJnRUdnRDNyVjIyN0tZU003SVBjNmZYXzZCUkFzZ1ZUV0JTZ2JOODNaaDBTSkpGZ2FHZVNKTXF1UUk3OFdMLVk?oc=5",
+            "publisher": "LIGA.net"
+          }
+        ]
+      },
+      {
+        "id": "philippe-falls-behind-me-lenchon-in-new-poll",
+        "title": "Philippe falls behind Mélenchon in new poll",
+        "when": "2026-10-26",
+        "place": "Paris",
+        "lat": 48.86,
+        "lon": 2.35,
+        "what": "A new poll shows centrist hopeful Édouard Philippe losing ground and slipping behind Jean-Luc Mélenchon, reshaping the field of challengers to Le Pen.",
+        "via": "weaker centre-right challenger",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "French presidential election 2027: Édouard Philippe loses ground and falls behind Jean-Luc Mélenchon",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUJFZ09OeFllaDQ2NlhsMnJLNGk5a0NWYU5vZlFsalFYZ3ZjWnNEdGNSU091LWxwZlBPRnRGRzFDMWhJOVRNYVdTeVphekZhUWdzblkxNlJ2Q1h3a0R3NHNTRTZSWGtmcVc1OXhmakJIMVp2bFBPcXY5UVNHaURfX2ZJYTliQjEyLTVldG93LVM?oc=5",
+            "publisher": "Mezha.net"
+          },
+          {
+            "title": "French presidential hopeful Philippe slips in new poll",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUpEbGRNYURUQU1Zak54MEhvblFXN2NBQWxaUHk3R09FSGhnVmNoN2ZDQTV6RWlfU3l4YzliOTJ1dmRpaGw3cVhVOGFMekFxbEppUnFkTjYxV2JUdzQyUmlaVzFaQ3JNRzcya1k2OXNxeER1Nnc2NXhyX01EbzhwcXZ1UnVjWjNYX1VXWndHTTdNSHJjSWlJYmtlY2FveFNJc0E?oc=5",
+            "publisher": "POLITICO.eu"
+          }
+        ]
+      },
+      {
+        "id": "runoff-poll-shows-le-pen-beating-me-lenchon",
+        "title": "Runoff poll shows Le Pen beating Mélenchon",
         "when": "2026-10-25",
         "place": "France",
         "lat": 46.6,
         "lon": 2.2,
-        "what": "A run-off poll puts Le Pen ahead of Jean-Luc Mélenchon by 69% to 31% in a hypothetical 2027 second round.",
-        "via": "run-off voting intentions",
+        "what": "A poll reported by JFeed has Le Pen beating Mélenchon 69% to 31% in a hypothetical 2027 runoff.",
+        "via": "runoff polling advantage",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -1691,25 +1786,6 @@
             "title": "Le Pen Would Beat Mélenchon 69%-31% in France 2027 Runoff",
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RenJhVDBJTHFHOW1nSklUb1N6Sld4X252eXl0Yl9WcGtRVzEyMWwwbjRFZWJWaFBwVE12ZzdJRjYwWmNPVWlNOWpsNmZzcVVl?oc=5",
             "publisher": "JFeed"
-          }
-        ]
-      },
-      {
-        "id": "le-pen-names-her-future-prime-minister",
-        "title": "Le Pen names her future prime minister",
-        "when": "2026-10-25",
-        "place": "Orléans",
-        "lat": 47.9,
-        "lon": 1.91,
-        "what": "At the campaign launch Le Pen named the person she would appoint prime minister if elected, signalling a ready-made government.",
-        "via": "credible governing team",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Le Pen has launched her presidential campaign in France and named her future prime minister",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN6NHJRQWVfN2tyYUlJQ1kxOUZwcnpEX3BHOTBXNnBzc3JScks1UEtJczNQRWkya0h2VC05TERENjBxNkg1UWkxS01RZFVaTklKVUtzVTlFQ2RZcTJEbWRJRFV2SWRuVGM1NlVMeDBRM3EwVl8wcVJHNGxiVHRfeFA3cUdWNG1WUGRMLWd3My1JUDIxR1FRUWYtQXVfQl93VFJkVVJ2aFdlQ3QwS1JXMzNOc2JZQlB4eEh1VjhpdEFBTU1UT1HSAcsBQVVfeXFMUE1WLXBXb2xCYVRidnhNX0xXM3VSNTVxNVllMzNEQWVjZzVkVnp0UGxTcUlsOHNfRlZtRUhDcEVfbTB3R2JNTzF0aUtRUzlvUjhFYm8xMVJtb0ZWM0F5QlV2M05Oel9hWmpINGl3WGtmU3VxUmphOFAxWC1McFgtV0c3NmttNFl1VEgzajJnRUdnRDNyVjIyN0tZU003SVBjNmZYXzZCUkFzZ1ZUV0JTZ2JOODNaaDBTSkpGZ2FHZVNKTXF1UUk3OFdMLVk?oc=5",
-            "publisher": "LIGA.net"
           }
         ]
       }
@@ -2996,48 +3072,9 @@
     ]
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-26T00:03:19.315Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
-    "items": [
-      {
-        "id": "nearly-two-years-of-student-led-protests",
-        "title": "Nearly two years of student-led protests",
-        "when": "ongoing",
-        "place": "Belgrade",
-        "lat": 44.8,
-        "lon": 20.46,
-        "what": "Student-led protests that ran for almost two years weakened Vučić's once-tight grip on power and forced the snap general election.",
-        "via": "sustained street pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Aleksandar Vucic, Serbia’s longtime nationalist strongman, conceded defeat Sunday in a general election held after his once-tight grip on power was weakened by nearly two years of student-led protests. https://nyti.ms/4e1d0kN",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkxRRHdpOGpnbVBCSUx6dXE4cHRoa29tY2JyYVpxS3hYaTFGS3dZTzNwSzhlbEFSSnE2c3Frdnl5cnhZWFgtM1Z6Z2NhcHk5eEJGOUxrbFJUT2ZTWTJMWjlpdlV2ZGVkSkxsRk9QZWxZbkNBMGhhTzJsc1NhMDR2TEN4ejd3Q2tOb1ZxVnM5V2VsV3poNnZ3RGo0U29uT3NmVmtDcHp6eGlsSWRBd1pyTGlHNkJFd2JKeHk1MHhfaGlYUUpKX291VFk0eVI4aFlYVmZj?oc=5",
-            "publisher": "Facebook"
-          }
-        ]
-      },
-      {
-        "id": "evangelical-backing-for-the-student-movement",
-        "title": "Evangelical backing for the student movement",
-        "when": "ongoing",
-        "place": "Serbia",
-        "lat": 44.8,
-        "lon": 20.46,
-        "what": "The student movement drew support from evangelical Christians, widening its appeal beyond its student base ahead of the vote.",
-        "via": "broader voter coalition",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Serbia's Vučić concedes election to student movement that drew evangelical support",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWlCZHdXbUhDc0x1enZ1d2pCdnhIbDlwdElCalZ6WXZsaXVqR1N4ZF9aUDZkTzBzX3VzNnBmUVcxNHBzLUJTNnUxOHNsUEVRQVR4a0lHMXdlMVc4dy00UndTeEVMMUVjTTV2OWx3NGI4WnJFZnhrMGZxVlZkaHYwRGJ5a3FDQ25RM0NkUnFfS3Bzbm80RDVxbXU0eHBadjNsRExSSWQyXzZ4OGZzWHczQ1NQLWZKWE8zWUE?oc=5",
-            "publisher": "www.christiandaily.com"
-          }
-        ]
-      }
-    ]
+    "items": []
   },
   "ebola-drc-nigeria-kenya-2026": {
     "at": "2026-10-26T00:32:52.254Z",
@@ -3166,7 +3203,7 @@
     ]
   },
   "west-bank-lockdown-hebron-2026": {
-    "at": "2026-10-26T00:03:19.315Z",
+    "at": "2026-10-26T13:04:15.829Z",
     "by": "pipeline",
     "items": [
       {
@@ -3176,8 +3213,8 @@
         "place": "Hebron, West Bank",
         "lat": 31.53,
         "lon": 35.1,
-        "what": "Two Israeli soldiers were killed in a shooting in Hebron, after which Israel removed about 250 Palestinian families from the city.",
-        "via": "retaliation after soldier deaths",
+        "what": "A shooting in Hebron killed two Israeli soldiers, and the closure of the city and removal of Palestinian families followed.",
+        "via": "attack triggering retaliation",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -3194,15 +3231,15 @@
         ]
       },
       {
-        "id": "knesset-election-days-away",
-        "title": "Knesset election days away",
+        "id": "massive-israeli-military-operation-across-west-bank",
+        "title": "Massive Israeli military operation across West Bank",
         "when": "2026-10-25",
-        "place": "Israel",
-        "lat": 31.77,
-        "lon": 35.21,
-        "what": "The West Bank operation is running days before Israel's election, and the army has ordered all land crossings closed on election day.",
-        "via": "election-season security pressure",
-        "aspect": "politics",
+        "place": "West Bank",
+        "lat": 32,
+        "lon": 35.25,
+        "what": "The Israeli military is running a large operation in the West Bank, with Palestinians reportedly detained and Hebron closures tightened.",
+        "via": "expanded troop deployment",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
@@ -3211,33 +3248,33 @@
             "publisher": "CBC"
           },
           {
+            "title": "Israeli Forces Abduct Palestinians, Tighten Hebron Closures",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0JqU1haT3A3YzhvM2taSUhCUXo4QU53LUI0bFdzeE54eDZjVFZoYXNhVmZxU2RTb0dwbVB2eFotc3J4RjJrYnp2cTIzd2RLMlpGT0xOTElDdmRPalZrXy11a0NFc3dKLUZrenV2Zkw0T3NCaGs3MXVKaE42T0xEZ3VzeXhJOXNvUDJuNGl3?oc=5",
+            "publisher": "- IMEMC News"
+          }
+        ]
+      },
+      {
+        "id": "knesset-election-days-away-crossings-to-close",
+        "title": "Knesset election days away, crossings to close",
+        "when": "2026-10-27",
+        "place": "Jerusalem",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "Israel votes in its Knesset election on Tuesday, and the army has announced all West Bank land crossings will close that day.",
+        "via": "election-period security posture",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
             "title": "Israel to close West Bank crossings on election day as military operation continues",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zVC1jMGp0Ry1tVFlvNnlJY2RPRm50b1FoTUhaQXhBbjlLdGJnTWduVjlvM0pLVHVRZmlmR2NkcDFscFNIQ3dOdkVSZWFqVFRQQ2tLSEg3MUlUQQ?oc=5",
             "publisher": "CBC"
           },
           {
-            "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-            "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC World"
-          }
-        ]
-      },
-      {
-        "id": "idf-pushes-to-call-hebron-attack-a-clash",
-        "title": "IDF pushes to call Hebron attack a clash",
-        "when": "2026-10-25",
-        "place": "Hebron, West Bank",
-        "lat": 31.53,
-        "lon": 35.1,
-        "what": "The Israeli military is pushing for the Hebron attack to be classified as a clash between soldiers and militants rather than as terror.",
-        "via": "military framing of the attack",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "IDF pushing for Hebron attack to be classified as clash between soldiers, terrorists, not terror",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSy1ZT1JFdE5lUjAzb2hDWTVaa2tCVDFMM240MmZLMUlfRDhDZklHRkNSdkNMYzV3dkZrWDgwNnNWVDVJaHR0VWx2bk1ubm81dnRxalN3NjFxUzdiRnhPenpxMUxIdUxid2w0UW13?oc=5",
-            "publisher": "The Jerusalem Post"
+            "title": "Israel to impose full closure on West Bank for election day",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YTUdkNGlWMnEwNFNSZmVGcm9DSnFycUxORVpyWFh1VkZ6cEtJT1ZqSHUzVl9YVWFqd0pFRlZXMWFueWJsSnZwd3RpWHdYZTA?oc=5",
+            "publisher": "Ammon News"
           }
         ]
       }
