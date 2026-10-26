@@ -3618,25 +3618,131 @@
     ]
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-10-25T14:16:07.161Z",
+    "at": "2026-10-26T03:03:28.997Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "rayner-backs-burnham-call-for-free-movement-debate",
-        "title": "Rayner backs Burnham call for free movement debate",
+        "id": "rayner-backs-burnham-s-call-for-debate",
+        "title": "Rayner backs Burnham's call for debate",
         "when": "2026-10-25",
-        "place": "London",
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "what": "Angela Rayner publicly backed the Prime Minister's call for a debate on returning to EU freedom of movement, widening political support for opening talks.",
-        "via": "senior political backing",
+        "place": "Westminster, London",
+        "lat": 51.4995,
+        "lon": -0.1248,
+        "what": "Angela Rayner backed the call for a debate on returning to EU free movement, saying nothing is off the table in Burnham's talks with the EU.",
+        "via": "senior Labour backing",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
             "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KWXBFVl9OMTBoOFBQeDk4aVB4WXBtR3lUXzVBakxSWS1xV0VtLTl5RFhfMVlSdDNFSS1kM2ZXRVF0RVg3dkFjcUFrYUZOMWpoV0ZJV0VLM1B4NzJvV3FGTEwtMThzdUNueGIwdDRjdGdrY1BJUXdJYWY3bFJ2THc?oc=5",
+            "publisher": "NewsCord"
+          },
+          {
+            "title": "Rayner: Nothing off table in Burnham’s talks with European Union",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CZFBOdGJmTTNtbVNwZUxISXluZlFqeHlzMC1HaXdhMlhrMHdHM0FoUmVyREpqVHUzZnljcTU4SDlESERkRFBXLUhfbVFSdzNNekM2bjdhMVFYTlUtSFVLdkRJQTBBZlJLelFUakRqNC1DaGpiY19PbG1EbnlDVnM?oc=5",
+            "publisher": "NewsCord"
+          },
+          {
+            "title": "Rayner says ‘nothing off the table’ for Burnham to undo harms of Brexit",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW1EaWtTY1pNVTBwUzlDX3ZMazBmR2NWdzl3RUluaGREcGpSeEVXcWZ2c1BQWjNtRlplNzFNQlh2SlQzWmtfaFo4S0ZWeVNmVTFBMmljWU9FNVV1cGpveHNYV01QejJfbk9iaDlsQi13TWtRLWViR2hTSFBmZENHOHFuY2E3bEowTnpnM1pkZkFqYW03UWdsQUNmT25qSHNHTnZLVnh0cnd1VGl3UEVaYQ?oc=5",
+            "publisher": "The Independent"
+          }
+        ]
+      },
+      {
+        "id": "cabinet-ministers-back-debate-on-free-movement",
+        "title": "Cabinet ministers back debate on free movement",
+        "when": "2026-10-25",
+        "place": "Westminster, London",
+        "lat": 51.4995,
+        "lon": -0.1248,
+        "what": "Cabinet ministers backed Burnham's call for a debate on free movement, and ministers are expected to fall in line behind his decision.",
+        "via": "cabinet unity",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
             "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
             "publisher": "The Guardian World"
+          },
+          {
+            "title": "Ministers expected to fall in line over Andy Burnham’s Brexit decision",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeVZjRGZVTzJZR2lVNVNBeVktenBDdC13TmJ5aXV3WkRrSjA4YjFXNzRYbnFfX29ZTkdrNTZUT3k2b2dMdGRNaTRDNks5TVY1cVlpd25wbldEQ3NPWEpxLXNhb2w2ZnktYUw3M3FxSWtFRTZIQkVOS3B5T0xjc0g0SENBYjduVG9vM2I3TXI0ZC01X0VvWVRiSlpIREUwS3I0d0gw?oc=5",
+            "publisher": "The Times"
+          }
+        ]
+      },
+      {
+        "id": "farage-attacks-burnham-over-betrayal-of-brexit-voters",
+        "title": "Farage attacks Burnham over 'betrayal' of Brexit voters",
+        "when": "2026-10-25",
+        "place": "United Kingdom",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "Nigel Farage accused Burnham of plotting a betrayal of Brexit voters, and other critics called the plan a total betrayal.",
+        "via": "opposition pressure",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Farage: PM Burnham Plotting ‘Betrayal’ of Brexit Voters Amid Talk of Rejoining EU Open Borders Scheme",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTXE1cHlJQU1Yc3NwYjFQRXlDRGtQSGpIdVpMalhXdDdxOHM2WDRPUHVUZ1ZocWxUblRFWms1V3NSSGxFSDR6eFVINmllTnRQalJMdWRoZTVjdVplUW8xT1ROTXUtZ0NoSndwc0o3bzFpc0RrSlhhNGk2S2dvdjMxdGtNRkE0eUlVSWx1elcxdjI4b0QxY0wyUkZ3VEowOEM5N0NOSnZrVmRDa0NUN25TR2hxZHdVcm9NSldXcVlKYmZfWGhyZDNGVTlwVmdvMmh4c2c2ZGJYSdIB3AFBVV95cUxOakJOWmwzX2RzbGdNMHU4Y0RUVmlKcy1kazZEdnVjYUFHVHdmT3hZb3hWTmxqV3ZpU09RTFlSZHpaeV95NVdFWF9DWTQtTUxlaDV0TkNwM19RTFNaTEgxZmV0V0ZJTHYtUy1fLTNhRy1YWmlZQ3RMUnZYcFlsZnRVNFh6Q3NaMnk1WDBrSTRMVzJYQ0hpMU1pOXdyUUlUeElucTJDR211QUk3WDR5WXdYT0NUbTA5bURrUkFlSVJYajdHTGUtdlk0WVdnRE50NHBhMEdMN0tQYUJQU3Bm?oc=5",
+            "publisher": "Breitbart"
+          },
+          {
+            "title": "Nigel Farage tears apart Andy Burnham's EU plot and rages 'the cat's out the bag!'",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1JmSC1qc1pncEJmZUdFZG1PVTlvdGZNc1hMUzJHSHhockNqMXM4YzkzQWVwN2R2WnFvYXAwRmlycmczV0EtQkJhYTZ0Y20ySjlRdmpsLThhcGp4eHNQOWwteklidy1OOTJUSXl6TnFrX2pUMzJucUdvZEc5TEdBZi1iZGZXbWNjRXJYNkp6SWhyYUFy0gGUAUFVX3lxTE03UmZILWpzWmdwQmZlR0VkbU9VOW90Zk1zWExTMkdIeGhyQ2oxczhjOTNBZXA3ZHZacW9hcDBGaXJyZzNXQS1CQmFhNnRjbTJKOVF2amwtOGFwanh4c1A5bC16SWJ3LU45MlRJeXpOcWtfalQzMm5xR29kRzlMR0FmLWJkZldtY2NFclg2SnpJaHJhQXI?oc=5",
+            "publisher": "Daily Express"
+          },
+          {
+            "title": "Plan to drag UK back into EU single market slammed as 'total betrayal'",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwcElJVG9zX0N0Z3huMzM5T1Q3djZ1YnpfeE9MTnlTbE1QTlVhTy0zcjFvemdTUnpGby1kR2NyaHI0SWo2MzJSY29DMjY5YVM0aXJ3ek03TTIzdUUwLWJQbHdjSkFscnkwUjRXWXlCVjNuMVNm?oc=5",
+            "publisher": "AOL.co.uk"
+          }
+        ]
+      },
+      {
+        "id": "government-explores-closer-eu-ties-before-brussels-summit",
+        "title": "Government explores closer EU ties before Brussels summit",
+        "when": "2026-10-25",
+        "place": "Brussels",
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "what": "The government is exploring closer ties with the EU, and Burnham made his free movement call ahead of a critical summit in Brussels.",
+        "via": "pending EU negotiations",
+        "aspect": "trade",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Burnham Calls for Honest Discussion on EU Free Movement Ahead of Critical Brussels Summit",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGY4Zm80N3ZIZUpkLWQybl9oWWFNQzVYZ3k5eE5pX3phbTJFWS14U0JNb21iWnRBdGV4ODFsVkZjQVBxWFJ1ZUdhZkVYdTBXcVZ6bWdENGlld2k1aF9GR19HX0NQUFRTRWg5NWNhWFVPZUFBeFNCRVAtbDVBRW1oYjk3NF8zMmdMQmppaTRBa0lCTVZVTWhPOHR5c3RlTGFjWml4VUpXUW1LTjhJeXp4UkJGcnZjRHZxUU96SnJ6ZFI?oc=5",
+            "publisher": "BBN Times"
+          },
+          {
+            "title": "PM open to discussing free movement as government explores closer ties with EU",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWG5xWGhSMzVFSjV4MWQwQ2piVDRrdUt0NzZpcHdjTVlzbkxvUnZZYXVkX3IxVVdCUThLMy1UcHltZThLR3RLbTJucUJjdDB6dEFERmZGMW9kcVhWTGF0ZVN3QU9xMnVSRDROc2RjenBVX2RWWEh4bVZUcjhCSTBjZTlvaGw4M0NkQVBPSlo4NlBhck1ITE5UV1hSeUNBbk9zbEowYzBRMGZSZmd0?oc=5",
+            "publisher": "Channel 4"
+          }
+        ]
+      },
+      {
+        "id": "90-day-stay-limit-debate",
+        "title": "90-day stay limit debate",
+        "when": "2026-10-25",
+        "place": "United Kingdom",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "Commentary asks whether Burnham's free movement bid could solve the 90-day issue, the limit on how long Britons can stay in the EU.",
+        "via": "travel limit frustration",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Burnham’s free movement bid: Could this solve the 90-day issue?",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUdHRTY2M1d2UEJzOEZHemI5WUd5cVh3ZWNPSjI5Ni1TeWdCWDVVbXN6eTk0Y3F0cmQ5c0x5Z0tpMnFMM2I0VWdBbU5jYXFpVW9IekR6cjRWVHZORWk3RU9PU0ItNk1jTkpvaERUUm80d2piMnp0U3F3QmZZckc2WDR2UUxTYU84SlVYcW1MbHh6UzZjTnVBWWxjV1ItSXg3?oc=5",
+            "publisher": "Euro Weekly News"
           }
         ]
       }
