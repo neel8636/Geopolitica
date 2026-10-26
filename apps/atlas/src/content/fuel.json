@@ -161,25 +161,44 @@
     ]
   },
   "alberta-independence-vote": {
-    "at": "2026-10-25T11:06:55.905Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "carney-campaigns-to-keep-canada-united",
-        "title": "Carney campaigns to keep Canada united",
-        "when": "2026-10-19",
-        "place": "Ottawa",
-        "lat": 45.42,
-        "lon": -75.7,
-        "what": "Prime Minister Carney fought to hold Canada together as Albertans voted on a path to independence, putting federal weight behind the stay-in-Canada side.",
-        "via": "federal push for unity",
+        "id": "albertans-reject-constitutional-change-questions",
+        "title": "Albertans reject constitutional change questions",
+        "when": "2026-10-25",
+        "place": "Alberta",
+        "lat": 53.53,
+        "lon": -113.49,
+        "what": "On the same ballot, Albertans gave Premier Smith a slim majority on the immigration questions but rejected the constitutional changes, showing voters weighing each question separately.",
+        "via": "split ballot signals voter caution",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
-            "url": "https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united",
-            "publisher": "Euronews"
+            "title": "Smith scores slim majority on immigration questions, Albertans reject constitutional changes",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkRaaklEcTJVa1A4RHd2Wk5VcW1wMkdsSFlkdEtKM1FWR2xONk9FODJIUHRYV21DVENqSXZMUHdXWXhla25BdUF3X1Rja1E2RTF2REZUdGNnQWFsbHlMVWtOVlFhSGYxdTdWRlM3OWd4UFNNY2VtcUpIQ1ZHblZOQU5VSE9jYzBYcndBWklkRHByMnNFZ0FiaXpvdkFic0laY1laZg?oc=5",
+            "publisher": "CBC"
+          }
+        ]
+      },
+      {
+        "id": "us-venezuela-oil-deal-threatens-oil-sands",
+        "title": "US-Venezuela oil deal threatens oil sands",
+        "when": "2026-10-25",
+        "place": "Fort McMurray, Alberta",
+        "lat": 56.73,
+        "lon": -111.38,
+        "what": "Analyst Varcoe calls a US oil deal with Venezuela a significant competitive threat to Alberta oil sands and Canada, adding pressure on the province's main industry.",
+        "via": "pressure on oil sands income",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "SIGNIFICANT COMPETITIVE THREAT: U.S. Oil Deal With Venezuela is a ‘Significant Competitive Threat’ to Alberta Oil Sands & Canada: VARCOE",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdDBhbWdsb2RDdHI0Y211Rl9fcld6ajhHTmpTWHEtQzd6QWg0TmhQUjlIcmh5cURVaVpNdWZ0b3BkdnE5Z0JXYndLZWN0R3YySW42NWZRZ0dPdkw3Tl9nTU5OOFI5aldjWnJhMnhtczhMSUtSU2RZUXpOX3ZrM2xxYzlZLVc0MklCWGpnX2ZHQkxyNUNDc2JEOC1RLWFLRlBXOHlKYXJiTWhtT3d2VVhhdmlNVnotdw?oc=5",
+            "publisher": "EnergyNow"
           }
         ]
       }
@@ -1265,18 +1284,18 @@
     ]
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-25T12:02:41.720Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "goyal-warns-europe-over-cbam-and-steel-duty",
-        "title": "Goyal warns Europe over CBAM and steel duty",
+        "id": "goyal-warns-eu-over-cbam-and-steel-duty",
+        "title": "Goyal warns EU over CBAM and steel duty",
         "when": "2026-10-23",
-        "place": "New Delhi, India",
-        "lat": 28.61,
-        "lon": 77.21,
-        "what": "Piyush Goyal warned Europe over CBAM and a 50 percent steel duty, saying trust is the hardest currency in business.",
-        "via": "exporter pushback on carbon charges",
+        "place": "Berlin",
+        "lat": 52.52,
+        "lon": 13.4,
+        "what": "India's commerce minister told the Berlin Global Dialogue that the EU carbon tax on steel and a 50 percent steel import duty could raise living costs and harm industries.",
+        "via": "trade pressure from India",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -1284,37 +1303,101 @@
             "title": "Piyush Goyal warns Europe on CBAM, 50 pc steel duty; says trust hardest currency in business",
             "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOMnc5aUItUFliSGpZY0dOeGFUR0x2M1FLLU1LODk1eVRTblBObGhXTTlOek1Zc3NndGhUbVVTUmhZb0xIejJHWXFobmtHLWVCUC1xd1dhemlDdXhQOEt2eVZCYUJ3eUVReHQza29sVHhpYWZaV19FU3ZpU1lSRWw5d1dxVzFwaExBQVBaenZHVkhmNFRiblBKVmkxQllMeHZaNi1zRjZuRVBxaUhYSVpxUm8wbnN0WkpuY2NpVFZVMGx0eUF1b0FpdEdwX3VGbXZLS0ZORGYxVHEyLU5rUlgyb3NWa1JNaEVjSUdjX1BZNWVqQjlubzJmTVlmUjEwRmpJQkhjUEJsSE9RMlJUcVMtSzB0NXl1Q3F5cW11Tko4dkRZWThlVHF6LXM0eDNhdUstbkliRTdiZnk5YTdhX29TREtTMndsM2ZWT2I0WFFsU3Z5U3Bnd19TVmRMaG1hZm55MmNaUWZtcURTVHpXLWN5SWNUV2lQNmYxdm5z0gH7AkFVX3lxTE4ydzlpQi1QWWJIalljR054YVRHTHYzUUstTUs4OTV5VFNuUE5saFdNOU56TVlzc2d0aFRtVVNSaFlvTEh6MkdZcWhua0ctZUJQLXF3V2F6aUN1eFA4S3Z5VkJhQnd5RVF4dDNrb2xUeGlhZlpXX0VTdmlTWVJFbDl3V3FXMXBoTEFBUFp6dkdWSGY0VGJuUEpWaTFCWUx4dlo2LXNGNm5FUHFpSFhJWnFSbzBuc3RaSm5jY2lUVlUwbHR5QXVvQWl0R3BfdUZtdktLRk5EZjFUcTItTmtSWDJvc1ZrUk1oRWNJR2NfUFk1ZWpCOW5vMmZNWWZSMTBGaklCSGNQQmxIT1EyUlRxUy1LMHQ1eXVDcXlxbXVOSjh2RFlZOGVUcXotczR4M2F1Sy1uSWJFN2JmeTlhN2Ffb1NES1Myd2wzZlZPYjRYUWxTdnlTcGd3X1NWZExobWFmbnkyY1pRZm1xRFNUelctY3lJY1RXaVA2ZjF2bnM?oc=5",
             "publisher": "Social News XYZ"
+          },
+          {
+            "title": "Piyush Goyal Slams Europes Climate Policies Over Carbon Emissions, Warns CBAM And Steel Import Tariffs Could",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbGFUYVJIMUx6VnR0RkUxVmwzSWJ3TnhGcmdKeHFGVFRhcDNyaDdhX0NEeHlTLTlPWEJleS0tdm0yeC1KeWluRGUteDU3Q2NvcnIyYWFfeEg2cHp5Uy1Fa3EtaGhQNWpxbEw1T1dpM0pkNFF2ODBMVktBdldfaG9FaVd5NjZhT3RSejBSWUZSRjVtR2duQ3I5TnN2eTVkVFdPUzlwQVNwOU1kUDBKa1Q3dTRGU0pIajNlVFpDZHJiM1RSd0FNOUpJTVRBakR4VUZhSDFvNTF3X281ckRZeHpJZzlLRzZIc1QxS09fc200cHE4cDdUT0HSAfsBQVVfeXFMTW16Mjd1MGFRYWQ0M2lKVFluZTd3SVRySUNmSXU4MGpVSDRWRmFScnduSDE4aEZOOE9PWmJjeXlWZ3RURnZvaUZwU01jckl2cWE2OGsyWmJqYUNJMmZvZTRFSzhxS1BMazI0cGNYZTFWTXpZXzVzbTRTV1doWURYZXo2VWhWRjM2cDFLeUVvNmNacWdheHpsTVRKYUR0Sk1FbUtnTWFYZTY5X3VUYzliYVU0QUY5dHNNYlVCYTBrNlNsVTV2UVoxRkZzQTZub0dlU2JiR0hMZW1GSDVsSjdfa2FzUGdnMGNibU1PaWVNdU1seVd2SWE1b3EyWlU?oc=5",
+            "publisher": "Free Press Journal"
+          },
+          {
+            "title": "\"Problem Caused By You\": Piyush Goyal Challenges Europe's Climate Stance",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUJIQXN5Q3VKRU02VHI2X0RFM1poTnVDT3N4ZTQzaDNlUEJGRmZHYUlVdkFHUzkxU2tqdGN0U29DREFzdm5uV1VwZHl0WF85MVMwMnZZMWJDNTZJOXJWNnZvQlpTdldvSmVpRnphanBRSDdIVFRLbG5wYUtxR0laZExNekpsNlVVdHZBM0RDcm9taVpNOEkzY0dzZS1jSmpNY0ZMNXptMzFSSmR1SVRMNHVqdWU0a0NNd085TFRaRU44TmNfQ25qUUp0ZWVjd3FFcWdsR1AxbXB6d9IB4gFBVV95cUxQSjZ5WmhKUTJQVGcwTm1mNUNVZ0hIRE5sc0RyV2JlUnFnVEZOa2xhQi1ycXhMT3pNa0I4amxXb09XNl9NYW9ZOUQzVXQ1SnJQLVE3Vk94Y0g4TFZOUW1TWjh6dmxHampHc2lmYzhFcmtZdlBkN0Y4V2tFcDhPTE1aOUItSTF1OTNrcE05bWNNbGJMYUFTUm1BSTBIREZWTTg1WkpleEhOUzZuWFhiX0NrdzVxVEZHRnpUdE9xenNWUGJ3TXZ2bExHYmk3RGxfWmFCYjRGSExvUkNLaFpMbDBPa05B?oc=5",
+            "publisher": "NDTV"
+          },
+          {
+            "title": "Berlin Global Dialogue 2026 | CBAM & trade barriers won’t solve climate crisis: Piyush Goyal confronts EU leadership",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWk1XQXhBVDBwZ1dWYnNTOEhSdFdtbGtqYjZjN2Y2clhuYnFSdFRTazA4RWZrelhlMGhNN3hlLV9vd0YtMElOcnZETXpCdTY2RjRmalRpVDBlRFdWNEV6M244M1dPeFFYR00zZUNpT0xvS3RKYWthVVFpdmxPN0RiOER0anNrS1F6SmVpWlZoUXAzbVpiT0hueTJmR1JudTNpU01kaDFpYlNlUkFZU01VNlBfMUpXUmJIX28wSElWWHIzd2d6YWtXcTk3LTZkRmhyNWt0VlpUcjRINTd6alNwLVpBSjdZUVkzTFdWSWVB0gHzAUFVX3lxTE1ITXBBZWdYYmN0OGpuY0QwdnNscktlRUZIZGZNX3VFSHpKYTg5czBuV2FvSjhqNjZkcEd3T3RKdF9YemE2aGxWeFdTVEN2RkU5MGRxNURCaV81U3FDSlgwUmNOZ1F5LTFEa3c2OGVSb3F1NWp5S2pCb1RiUFdzSE1oTFZ3YWhRTnR4OU9iMkh2c3dqSkFQNklVR2pNcjV0TkRiRExLQXFtN21zUUVpRGdrZmJzMU95eXdROGhYU2M4Vkcybm5kTDFsSmhkU0FmRTBxWm5adDFQYXZOaVRqQlM4ZXhRRlgtQkxTSFNiWHR2ZVRmSQ?oc=5",
+            "publisher": "Organiser"
+          },
+          {
+            "title": "EU ‘inviting disaster’ by imposing carbon tax on steel, says Piyush Goyal in Berlin",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdExmcDJoX3JyYlQ1NldPVUlrWHBxbl9vLVNUanlLVkFCTnktNlF4Z1RmdmtYMmVCcXhHYlJhZ01hM3dsZ09RRTk5Y0dVSzJTYzZYZm1MOFhQVC1MWldqSm5vNmN1S0wzLUVsSy04UWhqeG1WMXBXcFBfWmtwZC1QWDhackE4S01SU3hkdzhoNnJqa2U2MWFlOV9wQTg0V01Xc0k4U0xvNVUxQWtueGVyMGJ0ZngySTBrQ0o2eDNlaHRCM21TWjRZMmJidEZPNFM2NnluTFo2MGs4SkFTZW1NTl81Z9IB4wFBVV95cUxPdExmcDJoX3JyYlQ1NldPVUlrWHBxbl9vLVNUanlLVkFCTnktNlF4Z1RmdmtYMmVCcXhHYlJhZ01hM3dsZ09RRTk5Y0dVSzJTYzZYZm1MOFhQVC1MWldqSm5vNmN1S0wzLUVsSy04UWhqeG1WMXBXcFBfWmtwZC1QWDhackE4S01SU3hkdzhoNnJqa2U2MWFlOV9wQTg0V01Xc0k4U0xvNVUxQWtueGVyMGJ0ZngySTBrQ0o2eDNlaHRCM21TWjRZMmJidEZPNFM2NnluTFo2MGs4SkFTZW1NTl81Zw?oc=5",
+            "publisher": "The Hindu"
+          },
+          {
+            "title": "Piyush Goyal Warns Europe: High Steel Duties, CBAM Could Hike Living Costs, Harm Industries",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblR3T2VmcmRua2ZLQXdsd3daNDhrRlg1TWpaem1RZ0FULTRkLURLX3JnazFqVW1HTU9DR2g2Y3cwS2xsR3NiS3NtR2FrZnVjNlh3eTliZmdlcDktZjdkQmdScVBZeWRwZ1hRQThOUHlfNURWV0dDQ2lvUlVZZlpIVUFSRDExRnVLaDlBcVNpMWpuS052dHBDX0sxS1M1bXNaajhmdmxJOEdOdm41SFcxT05scnE4Q213Z3Y2TVp1YUphYndhMWRRSXBQSmZVZTdGVDAw0gHYAUFVX3lxTE5VNHVXbTFJWU9VZV9na1lnMTNIenZiSzhnU2RJQVI2anR4UlJla3FpaGVzNE1JY3ZEcE5iNkNpMnd1enp4TWNHaDNoTFBZNzJfT1d6NVNFaEFJYVNUaldNcGNhRkxmZ2s1bjN2LUljWEdOdTJXR2xPTURSYkd5TEN2R0xDb3gwZ1JpWWVYT1JUREliM0o5Qm9JMXVOTG5ET1J0Vml2eTFZVkp4WHJNX2Q4SEtHVWxXZ0hHajYtemRsZHJ0MGNEWmw2V2k3NGNJaVlITnNINVo3NA?oc=5",
+            "publisher": "Lokmat Times"
+          },
+          {
+            "title": "Commerce Minister Piyush Goyal Warns EU Carbon Tax Could Raise Costs",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnRENWRTUW1lT091Um15X1dTZnBoWmZZNEVCUWVreUoxeUY5a3oyY0pCODBSeThfSExKejUwTVZUSk5NSC1TMWlVSV9uTm41b1ZTT1NQX3ZaR244OFRpZjktMjBWZGJKNC1ieUs2dmxYY1VKUEM1ZWVZTHFsM3JlNm9wTzI1eUtKMFhQdXdWV3lSWG9ZSDRTb1hELU9YMFk?oc=5",
+            "publisher": "News On AIR"
+          },
+          {
+            "title": "'EU shooting itself in the foot': Piyush Goyal warns Europe over CBAM, import duty",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMk4xNjVCVVV0Z1BhTDYyYXBCVlY5MnZVMDRjN0JoVlZmbUYtbjNpdjdxZnpneUZyTkx2WU04U1JpdlFqeWpDZEpiZmRTMXM1eDhuNUNhSHNWZTRRYkEwaXZhV1RHUWJZU3B4UEtWUzNiZWd1MThBbWw3N2JmSFREa050X3JTcFk5R2V3TGpwSWktQlRWejRCX2JrTVptbnV4ZkN4bVlSMmh1dWEwNzV2MWdqWVZOeFl6ZWg1OS1ObHFqU20yNWlsVVk3eEl5b3kxWXdJ0gHYAUFVX3lxTE5lV0YyX1hHUlFpTXVtWTRoSGIzWnZwTHBCME1UZ3lJZEFzU0lkd1p5WGJEa0V0T0VWbkRMZzlZZUcxRW9mZVI0Z1pRTGNWRlU3Y3RValVLSmNqZjU0OGNBTXBrOVJQZUhqbEctb05CODdkaDFKM2hOYU9haDh1d0kzNXdTMExyU3MwM2xldm9mZVFSUVhXbDNhR0d4MUFaQ0twaGJvYjhTSUJicGZ4RUN0N203WXNENnZZc0UzYkdPX1NVWHpldWRHY3BIV1ZmellxT3ZQUmlyVQ?oc=5",
+            "publisher": "Business Today"
           }
         ]
       },
       {
-        "id": "india-to-fund-epm-certification-for-small-exporters",
-        "title": "India to fund EPM certification for small exporters",
+        "id": "india-to-pay-msme-certification-costs",
+        "title": "India to pay MSME certification costs",
         "when": "2026-10-23",
-        "place": "New Delhi, India",
+        "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "Piyush Goyal said the government will bear the expensive certification costs for micro and small exporters under the EPM, easing their cost of meeting EU rules.",
-        "via": "public funds for compliance costs",
+        "what": "The Indian government will bear small and medium firms' certification costs for the EU's CBAM and deforestation rules, according to Goyal.",
+        "via": "subsidised compliance costs",
         "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "Govt To Bear 'Expensive' Certification Costs For Micro, Small Exporters Under EPM: Piyush Goyal",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOGZLQ01Hb3NzTTFLUUZWc01PM1ZwUzY3X2lMVXJFNWdFU2dLQzRpTmgtdVN1TnQtVVk2cUlKWHhjajJvNEp4X0pHMnhyUjJuZm01a3R6d05ENnBJdlVtbjFybGR1S29UN0gtb09EUm9QcUowVmx3dzRBXzZVTUM5NVdIYThWSjE2TWEzWEx6NUNPeldJQ0lDRTdVN0lXR1VkSzBqNExjSUI3Z0pIT2FiUldqSVF2SzFsZGxFWGxXQ0JkRmNGR3JreEdnMzNUZVB1VVZsWkxB0gHWAUFVX3lxTE44ZktDTUdvc3NNMUtRRlZzTU8zVnBTNjdfaUxVckU1Z0VTZ0tDNGlOaC11U3VOdC1VWTZxSUpYeGNqMm80SnhfSkcyeHJSMm5mbTVrdHp3TkQ2cEl2VW1uMXJsZHVLb1Q3SC1vT0RSb1BxSjBWbHd3NEFfNlVNQzk1V0hhOFZKMTZNYTNYTHo1Q096V0lDSUNFN1U3SVdHVWRLMGo0TGNJQjdnSkhPYWJSV2pJUXZLMWxkbEVYbFdDQmRGY0ZHcmt4R2czM1RlUHVVVmxaTEE?oc=5",
-            "publisher": "Outlook India"
+            "title": "Govt to bear MSMEs' certification costs for EU's CBAM, deforestation rules, says Goyal",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbnVMYmVnaFVqcno3bmpndGtpZ3VENXNDdlJIeExHa3RDOUtxMFlDaHFUWG8xY1ZpMHA3bTBRbWVvNXBOWFZVXzF2NDRUbjZNS0oyeUo5ejFnci1VZzNpbjE4UGFDUHFNMmdlclRUaTZxWWluYVUxNmpneDhVZDViZ0ZiVHdzLV84LTAtUDB5Zk4tNHZ5VEVzZjdLRXg2THFyNm1zV0VDamVpcGNBQlJmbzlIdjMwVlBlNjIxcmlvV3d5Wjkxbk8yMUZ4RUJHRE55Rk12Rkdlc9IB3AFBVV95cUxPMUtqbkkyT1RfMXdWX2J1SG0wZkw0dHJycUUtdF95X244d2NDSDZvQzB4bW9xeW05YWxiLXhCM3BOQmp5aDdEYnFVa0NGQW9TX29KQmdDVVF5bXpDTDZjVzJ1R21FTkdFdXNBZ1Z6cVFNSENLVzQ5NUtEblBHclhyV1oyXzYxam9RUEE4QlNZTmg5YnJPTXRzRk02clc4UnBBc0c0WjhKSDhwOWtBZk8yRUI2Y1hxdnFtcGpLYVVkQ2wwNUJBMUMxNnNUbWtsTUVZYXQzZnF2WUt5X3Rt?oc=5",
+            "publisher": "Moneycontrol.com"
           }
         ]
       },
       {
-        "id": "coffee-body-rejects-eudr-exclusion-fears",
-        "title": "Coffee body rejects EUDR exclusion fears",
+        "id": "sarawak-smallholders-risk-losing-eu-market",
+        "title": "Sarawak smallholders risk losing EU market",
+        "when": "2026-10-23",
+        "place": "Sarawak",
+        "lat": 1.55,
+        "lon": 110.35,
+        "what": "About 58,000 oil palm smallholders in Sarawak risk losing EU market access under the deforestation regulation, and the minister urged faster land titling for growers.",
+        "via": "smallholder access risk",
+        "aspect": "food",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "58,000 S’wak oil palm smallholders risk losing EU market access, says Nanta",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbHM1WWlCQmI3TnRUVmhCY2I5U3MxeWVFRDFtbHVFWTJsZk1OQUdsODhhWmtNcWVyamVULWhYRUcwcE9jY1FfRGc5UGdVU2hTejFGLTJfNk91eldLVFlGTGlmdDhCUjh1Y0RuMkN5OEFJekFvWlJyWEJsWnN2MXZmeGRZSTJ4UUdoenZkTnhJM3BrWXhqV2tsek5oLW9Fd3d2MjdKZXZ1bVlxUzN4X1pEdFNqbWlYdWo3VEp5Mm5yMFJmRGlOOEI2MUVNNmd4VVF2?oc=5",
+            "publisher": "Free Malaysia Today"
+          },
+          {
+            "title": "Nanta urges faster NCR land titling for oil palm growers",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3VnTGVMZkNrSHd6MTc0OHFyQ21BMFAtaGdERUlPSzgwbGVwU3RWTFZMRS12bm5BVTlXa1JMSU13MWxUeUl1ZEdRaU9Qd3RpQnM4aHhUcllEMFBnMnUwc1FJRWhCXzRGQUkzaWhpRno3SWwwenp4UGxXU1l3ZE9Oc2ttTmJSNXM?oc=5",
+            "publisher": "The Sun Malaysia"
+          },
+          {
+            "title": "Minister urges action as 58,000 S’wak smallholders face EU market risks under deforestation regulation",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY0ZDclRGclBLOGx2Z2lyVU54MktMaGhTVUFIdGdhVElSQVJuZWZGdEJ6NVp3YUE5S2FBYUFuZzItRU54M1pZaUE4MzFyQ3ZpNzR3NVB5X3p5Q2FVU0UyVzROSF9Yc1lvc3V1aDY5WWVZc3QzaVQtcy1RTk9fU0MtQTVSdUlTZ2FiVklhMEMwVlhteC1hYlhlaEw0YW5DZHQ3OFdQZHQ3cGtQTEJYallWRFVDVUhlMVoyam9BOTVwOGdldw?oc=5",
+            "publisher": "DayakDaily"
+          }
+        ]
+      },
+      {
+        "id": "coffee-body-disputes-eudr-exclusion-fears",
+        "title": "Coffee body disputes EUDR exclusion fears",
         "when": "2026-10-24",
-        "place": "Ethiopia",
-        "lat": 9.03,
-        "lon": 38.74,
-        "what": "ECTA said over 99% of coffee farms are deforestation-free, countering concerns that producers could be excluded from the EU market under the EUDR.",
-        "via": "coffee supply compliance claims",
+        "place": "Nairobi",
+        "lat": -1.29,
+        "lon": 36.82,
+        "what": "ECTA said over 99 percent of coffee farms are deforestation-free and rejected concerns that producers would be excluded under the EUDR.",
+        "via": "coffee supplier readiness",
         "aspect": "food",
         "flow": "into",
         "sources": [
@@ -1324,417 +1407,387 @@
             "publisher": "Capital Newspaper"
           }
         ]
+      },
+      {
+        "id": "eu-holds-eudr-technical-workshop-in-colombo",
+        "title": "EU holds EUDR technical workshop in Colombo",
+        "when": "2026-10-23",
+        "place": "Colombo",
+        "lat": 6.93,
+        "lon": 79.86,
+        "what": "The EU hosted a technical workshop in Colombo to help exporters prepare for the deforestation regulation.",
+        "via": "exporter compliance preparation",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "EUDR preparation: EU hosts technical workshop in Colombo",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zNm94RWtZNmxPZHYtTDhOakc5RkxfSzNOb0VWNzVfcE1vSVJRazBIWkhjeWpDbTlqVFlzeDR0TlRrcXZ0MlhQaGl4Qk1qdGl6WF9RZlYwSlFxMUFSeWFsVGkxVFJHZw?oc=5",
+            "publisher": "The Morning"
+          }
+        ]
       }
     ]
   },
   "israel-election-2026": {
-    "at": "2026-10-25T12:02:41.720Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "final-polls-show-no-bloc-reaching-61",
-        "title": "Final polls show no bloc reaching 61",
+        "id": "trump-renews-endorsement-of-netanyahu",
+        "title": "Trump renews endorsement of Netanyahu",
+        "when": "2026-10-25",
+        "place": "United States",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "Two days before the vote, Trump again endorsed Netanyahu, urged Israelis to reelect him and called on Israel and the US to 'finish the job' in Iran.",
+        "via": "US backing for Netanyahu",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Trump reiterates his endorsement of Netanyahu, urges Israel to ‘finish the job’ in Iran",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlpLLXJpejdmOEtreUNacEZMamxLdWdTYlZMNTZxTUJzVTlKM2xPaGNLeVR0NHFnaFBkQ1NuZkRadUZteDQ3WDBxM250T0ZNM2pFcXlCbnA3MEJFNU8xYWREVk5rWXVrOHEzYS1ncXRxSnNtNXNaUmEtTEg1TDVlTHl0c0dxc19pZ2hrSS1jNndMVjBDLVZfRnhINmdWYWNTV3hwUksxZHRSbi1pNmZXUHVhcUtCR2pHaG5OVkZuWnlCVFA4?oc=5",
+            "publisher": "Anadolu Ajansı"
+          },
+          {
+            "title": "Donald Trump endorses Benjamin Netanyahu, calls for Israel, US to 'finish the job'",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDQkE2RTEycjd6SU5TWHpKem15U0RGTGpLbHJuSXFTZDBuVkZEaVJHdkJUcDRreWxlV1I2S0JyRVpjZ2RpMnpPaFZ3UFl3MjRpR0llQ212cEJRb0NjdGZ1Q0FVWTliUktr?oc=5",
+            "publisher": "The Jerusalem Post"
+          },
+          {
+            "title": "Trump Renews Netanyahu Endorsement, Urges Israelis to Reelect Him",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPV2kwemNrdXA2eXpLeDBSM0E0UDlnejZSWmM2VVJWb2pRdHNCeVM2Q1l2NzVvaXNUak1iakhOOFctQnQtRXRiWGZJWWxRWHo0WU1SNHZQb0Y1bkJJa0RHbVkwa3R5YWpZdkh2TFpqeUJGdC11dGY2NXAzSk5NMFhZb21hdnM5Q2N3aFZpeVlMTXBiUUV0LWpBSE54NkxrOEloWjEtSFpWQ1BiRTJzbFhNRGFVZ0kwbFpOOGhaOWJDeVhZNWN5RlRGZ2NZNlA2MERNVUpMQ0RXVnhpUURXN3V5d2llWkZLTTROdmE3cEVGc2JaY2JGcW84b0xrX2FkaEtZSGRFSUlTZHRLQQ?oc=5",
+            "publisher": "Haaretz"
+          },
+          {
+            "title": "Trump renews endorsement of Netanyahu: We have to finish the job we started",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nZGdhMW1fS1FlMmZKak5fR1hyVGNYLTR3R19SRjB4R2o2QVRTdnBsY2UxRVdQNUdVVWFXN3JOTndVaHRQNHd2QkhzMnZNVFlGekxiVldGS0Iwdw?oc=5",
+            "publisher": "Israel National News"
+          }
+        ]
+      },
+      {
+        "id": "idf-chief-resists-netanyahu-s-iran-order",
+        "title": "IDF chief resists Netanyahu's Iran order",
         "when": "2026-10-25",
         "place": "Israel",
         "lat": 31.77,
         "lon": 35.21,
-        "what": "The last pre-election polls point to deadlock, with neither Netanyahu's bloc nor the opposition securing a Knesset majority.",
-        "via": "deadlocked seat projections",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Final Election Polls Point To Deadlock As Neither Bloc Secures A Majority",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1pDUkZsbHZEMjVQNGczNUdiU2hVcmE4OXJLbVA5b1poUTZ2anBhakZPdlFoa3FTbWU4RlU1VDgwaDVqbmlBYzVhZFBmR0FkMHQ4eUwtMmtzQmE0R0ZjNFgyQ0tnVEc3V3Z4cVF2cUt0SUxvSkNxVnR4ajZKSHhJUDhVUl9YMEZ0TTM4ZmFCQVFhY0pZV0JwYXhTbzBnQWNIX2s1ai1XcFFGTkhpQWF4OHVPWWdXclAzeEVYdlFzelNBanpXeVE?oc=5",
-            "publisher": "i24NEWS"
-          },
-          {
-            "title": "Israel’s Election Has 2 Front-Runners—and No Clear Path to Government",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVY0bnd5bzlNRlk3eGV4MnlnQ3AwMV9WanhzUDhkdm5TN1I5TlNuMDhWUGpzS0JrVnNCcHZLeS01MnBWXy16RkN5czl6X0YxY2o5UnpVS0V0MGEzaXpUQW0zZ3NzZXRWME03dnhTM2NiQ0VGbGdHdEJ3R2N6WlU3UmJGb3Y2OW53NnVRcFJWSDY1V0RJUTNkbzc1Mlk2aEVsWXpyaXNjY3UxRUIzOWcxeGNWaw?oc=5",
-            "publisher": "The Media Line"
-          }
-        ]
-      },
-      {
-        "id": "thousands-rally-against-netanyahu-government",
-        "title": "Thousands rally against Netanyahu government",
-        "when": "2026-10-25",
-        "place": "Tel Aviv",
-        "lat": 32.08,
-        "lon": 34.78,
-        "what": "Demonstrators gathered in Israel to protest against the government in the final days before the election.",
-        "via": "anti-government turnout",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Israel: Demonstrators rally against government ahead of election",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0NmaldxeXVsZDF0UUI4TThsVlFWSVJVZG1TeFkxbDYtcjNQbmRvMjZHcmVOazQ2X2tBdThyMGlTaUtrS1dwWC1iOGEtRkItWWVYeFViNGgzTXFBZ1Iycl81MjQxbHZlaHZDd2tad0xELWljMzRMV3dwTTRnNDFqZjhsSFJmSkhBaUhHX09STGlPNU5NRnc?oc=5",
-            "publisher": "France 24"
-          },
-          {
-            "title": "Thousands rally against Netanyahu government ahead of Israeli election",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQai1TS1p4LU9KVVRpdm83cGlSaUdfODF1dnFLNGFMQ2R6U0lpbG5yeUFRZzNBTno1MWRxXzJScjk4VEpscXJObGdYVGFWWV9STjZ3N2VVNzVoVTNEcWx3UXV6bGdHeDlvYzJSdF9Xd1djb1NyTkgwdUFubGFnQ1ZLZkNTelhFaGNVaFA0d3lUeFpwNXBYbV9ZbEpRdDVVLUh4cm51bw?oc=5",
-            "publisher": "Pajhwok Afghan News"
-          }
-        ]
-      },
-      {
-        "id": "west-bank-and-gaza-closed-for-election-day",
-        "title": "West Bank and Gaza closed for election day",
-        "when": "2026-10-25",
-        "place": "Hebron, West Bank",
-        "lat": 31.53,
-        "lon": 35.1,
-        "what": "After a shooting in Hebron, Israel ordered all land crossings with the West Bank and Gaza closed on election day as forces mobilised.",
-        "via": "election-day security alert",
+        "what": "The IDF chief reportedly resisted a Netanyahu order for military action tied to Iran, and army leaders fear an offensive before Tuesday's election.",
+        "via": "doubts over war timing",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Israel orders West Bank crossings to close on election day following Hebron shooting",
-            "url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
-            "publisher": "Euronews"
+            "title": "Report: IDF chief pushes back on Netanyahu's order",
+            "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
+            "publisher": "France 24"
           },
           {
-            "title": "West Bank, Gaza Face Election-Day Closure as Israel Mobilizes on Multiple Fronts",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaUU3cVlBU0lWZW9TcjBlYS1CTkZNUG51a1NoekU5MUdoOE9BNXBuUXRtWW05SlJNUGFxT0FJT3NvR3J0MFJJUXJDNEE3TUNqVy11SUo2cXZrakNRNUk3VzI3ZmlyN3lIbEs4akxVNkVrTkFydkt1cElkLWZuVXFka01uMWdsaEdtWWNhcXpHMVJ0U3NiX1ZyRU0zOVhGZk5KYV8tai1JaXpTQW9PeVdsTGMtcWFMdw?oc=5",
-            "publisher": "Palestine Chronicle"
+            "title": "In ‘unprecedented confrontation,’ IDF chief said resisting Netanyahu’s order for military action tied to Iran",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1F6OTFMaDNiQUszRmdqMy1aYlBXQ0s0NHE1OHVkMXN1OHJtUFV6TTJZUUJBdGNPdGRYWkVJSXlRSm0wYmZLZWhJT1lhNU9ZQmRNcGdQd1J3UFM1eGJEdDB3N21WSEpESFZHYUdoSXR4aHFiOXVSSndCMU94V3lvWldiLXlhRFVocnpLazFYbkxROWd2Sl9QR2FfOF8wVlNpVkptcFdkdmxwaWhtUjNpUVoybGhYdlpnTHI5ZE1lbDctWHZYUmpPTNIBzgFBVV95cUxPMlR0Sm5SM0pxV1p3NWh4cFRtSEk1bVNITWtDc1dmWGV3T1VsVWEwY2ZpUlo5SDFvaXFrNnJ0S0wyQVdSME9IOUNiN1hiZlUycDU1OUpzV0hoQU5CY3BPM2E4WUc4UHNqQ3BtdDJsZjV1ZnFJeDQ4SUxNSlJXVXJCTk1DUWMxcVMtaHRiMHM4NDdBdF92Q1cxd1k0VUNWc0cyMmNZSEVtamxBdkwwQmJ6OXF6NVBCVmVCV19rbFhDdXBxZ3B4U1lBSlZpNDlqQQ?oc=5",
+            "publisher": "The Times of Israel"
           },
           {
-            "title": "Israel Announces Closure of West Bank, Gaza on Tuesday for Knesset Elections",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVbGJPS0xyQzR0XzZmQWgtUVlJUVEwamhocENjbnlmTnVYOVJQWEhSSEtFdlJnRFFsTWxNVHMwVVZpeHNDVE81WjI5UnBuWGlhWnd3bTVONkw?oc=5",
-            "publisher": "وكالة سبأ"
-          },
-          {
-            "title": "Israeli army announces closure of all land crossings with the West Bank on the day of Israel’s elections",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MWi1hMlhGblVBYzRZOG9qRk1hLWdrTTlLQmt6ZXBDbGJUVTBZdFEyMnhPU0xvdUpmMW5ORVJUX0htU1k4MlItTjFpMVB3T1pGRzRtTVlIVHk?oc=5",
-            "publisher": "MTV Lebanon"
+            "title": "Analysis • IDF brass fears Netanyahu may launch Iran offensive before Tuesday's election",
+            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMlUweVp5TnJWUDhnRkx0ZmY1alRaemtaRTc1TTZjNm5BVTFPaDJxeDZfcmt6Y3FxbXEtRFdBSkFwbC1iZDBjUXlBZFVVZmRqeXhvTTBaZ2NWZE1pNVN1TTM1MGM4U25XS1ZpZ2F5T3pEZzh1UDlwRndKOTZBbmNlV1B0YzJRWkN6ODlITFU4cWhwakhsWmtELU14blpDa3dzTkpISXNFbTM2SmtmeG9KTmNYNmR6SjRQLWZRZ2ZyalppdHBma2VCZTZfY1NpZmMwZVhPTDl1Yk54YUNwaldQX2JPeFBWWnB5c2JZelhHcjU4U2UtanYwRDBJQVlXc25yVTY4TThGT3Q3N1d4QWVwaWdqZlU2YnptM1BMMw?oc=5",
+            "publisher": "Haaretz"
           }
         ]
       },
       {
-        "id": "netanyahu-s-crypto-sanctions-bypass-plan-draws-rebuke",
-        "title": "Netanyahu's crypto sanctions-bypass plan draws rebuke",
+        "id": "netanyahu-warns-iran-may-disrupt-election",
+        "title": "Netanyahu warns Iran may disrupt election",
         "when": "2026-10-25",
-        "place": "Jerusalem",
+        "place": "Israel",
         "lat": 31.77,
         "lon": 35.21,
-        "what": "Netanyahu said Israel is considering using crypto ahead of possible sanctions, and was rebuked for a plan to bypass economic sanctions.",
-        "via": "sanctions fears in campaign",
-        "aspect": "markets",
+        "what": "Netanyahu warned that Iran may try to disrupt the Israeli election and told Tehran 'don't test us', putting security at the centre of the final days.",
+        "via": "security fears before voting",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
-            "publisher": "Reuters"
+            "title": "US-Iran War Live Updates: Netanyahu warns Iran may try to disrupt election, says ‘don’t test us’",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNjl0dGttZVpnU3JBUkdQaElGenkyZ0R1Y3hWSUNFWkxfejkwMDRpUmk0azhLTkZneVFjN2J1VHRLWDVFNXVoSVJtaGJWZW1rZW9RWGJybm9JT0k2cTByVjdOUkkwMUJyUjA4V092NWtFQlJ3bWFuTE5qNVZ2UFZDcFpFT2dHZ2dMcUNrMW1VWGlJeHNjb1VsQkhiSWloWGdoUHhCVFpHWndUN2UxYU5mWDd2YkwxZDZjZEM3M2xzeE1WR1NGVWhEU2xwUXJBcTc2aDJmbWs5THJjaUh0VVpnX3hCVU1waEtDUHRhdzBoQ25oQdIB-AFBVV95cUxQRUo0Y0pJY2Y5djlXSTVBblBESjhPbkF5STkzMG02Z19nZkdmbFNPZ0pLWkJERHNxVUppeUotM09YNllPY1FScWtRTFhabkdGanJvWVp6OTB4MURwZjhUbEFqbHEwMEE4LTc0TVl0enhySnZQNTFNQUtQTUlNcEZ2RlFmZzRWbVJGMjNISzN1MUllQmljLWU1NjZWOXNzYzkwNERhcHJzUEVuNW5pQWV5bndXakVkcG1lTURRYlVVVk8xLUdoUDUwNVJzZVlsLThmNmwtVUtlb0FFdXZpZEhHeUNHSXlKdzRBdmFDVGR0S0F2NmF4Y2ltMA?oc=5",
+            "publisher": "The Indian Express"
           },
           {
-            "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
-            "publisher": "Bloomberg.com"
+            "title": "Netanyahu warns Iran may try to disrupt Israeli elections, says ‘don’t test us’",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONnZCRjQtRFhNdzFjV3pGNkwxa00wQ1BqOVo5TEYtOVljRThQZUs2SG1MUUJUclJ0LXFVTG5vNUd2cUNic1oyaVRNcDVMSVVhOTRrYXVzeEtvcjYzR1hIX1ZoYVdUdDdzSE83YXRzTHljUWhLV0NfcWRETWhackU2SzhfYWtwaktQMGZsUWwwTXpuLURidkN2aGp1QmRic3A0cm5xMV9GdzdKM0R1MFRJSUNYYnBZNnVqVWtBTzNQcFZfMzlvWDljd3Nzd25ScFJWcnU0ckhn0gHWAUFVX3lxTE42dkJGNC1EWE13MWNXekY2TDFrTTBDUGo5WjlMRi05WWNFOFBlSzZIbUxRQlRyUnQtcVVMbm81R3ZxQ2JzWjJpVE1wNUxJVWE5NGthdXN4S29yNjNHWEhfVmhhV1R0N3NITzdhdHNMeWNRaEtXQ19xZERNaFpyRTZLOF9ha3BqS1AwZmxRbDBNem4tRGJ2Q3ZoanVCZGJzcDRybnExX0Z3N0ozRHUwVElJQ1hicFk2dWpVa0FPM1BwVl8zOW9YOWN3c3N3blJwUlZydTRySGc?oc=5",
+            "publisher": "Al Arabiya English"
           }
         ]
       },
       {
-        "id": "netanyahu-posts-atomic-bomb-image-over-tel-aviv",
-        "title": "Netanyahu posts atomic bomb image over Tel Aviv",
+        "id": "protests-demand-netanyahu-be-held-accountable",
+        "title": "Protests demand Netanyahu be held accountable",
         "when": "2026-10-25",
-        "place": "Tel Aviv",
-        "lat": 32.08,
-        "lon": 34.78,
-        "what": "Netanyahu posted an image of an atomic bomb over Tel Aviv with the caption 'Nothing else will matter', pushing an Iran-threat message.",
-        "via": "Iran-threat campaign messaging",
+        "place": "Israel",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "Protests erupted in Israel ahead of the parliamentary elections, with demonstrators demanding that Netanyahu be held accountable.",
+        "via": "anti-Netanyahu street pressure",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Netanyahu posts image of atomic bomb over Tel Aviv: ‘Nothing else will matter’",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyS0J6cDZmRnZ0T3cxb0NXR09oM0NNTW5FaUo1V25CZV9LOFotQkpZZDlYVWtWZWNtNjVkLUR6UEdhV3lqaVFhX3dOUFZlMENmNl9UYnpB?oc=5",
-            "publisher": "Ynetnews"
+            "title": "Protests erupted in Israel ahead of the parliamentary elections, demanding that Netanyahu be held accountable",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGx6Q2Z5LWRwRzM4VTJnQnlsVjgwVzMzNks0aDJ0N3MyQm52N3R5eGZDd1VhRlhTRTdpenBPc2JYMEdXb0JfUkdNU25weHduaHJSSGx5ak15VDJNNkkxQkY4V3d6SXBrRndkVXJFbUZRYU5kSTA0b2FLMDBhYjVEZGtwUmJlRTlIZVdpTVFka2dkRi1JYUdXbnU1NzVMbFdLLWZZYV9kUVZVeVNDNkJuWTBjZXhRTnNjTW1IMzMxSktvQ0VwOUtUQUtOWdIBygFBVV95cUxPamJYNHYxQmJLS0lzelVXOUs5X3ozVGhtcFRoZkFRY3hZaC1sTEVkems1VU9xYlNDZS1xc1JyaENaZDZucW92R291OUl2YnE0aXBpMHhnanNvY2loZnViSDhhSTYyaktxZXFicFVyY3VVN3pwdGRNTW02X0ZSdXB0YXl3UEtaay13bE13MlFRV1Z0Zm1ucERyUy1zeDdsOTlfdERqOHpnOWNBdkRCeXBOWnIzMjN5SnNIVjJRX3NaUzE0dkJOMTlLZUx3?oc=5",
+            "publisher": "Українські Національні Новини (УНН)"
+          }
+        ]
+      },
+      {
+        "id": "expatriate-israelis-fly-back-to-vote",
+        "title": "Expatriate Israelis fly back to vote",
+        "when": "2026-10-25",
+        "place": "Israel",
+        "lat": 32.01,
+        "lon": 34.89,
+        "what": "Israelis living abroad are flying home to vote, hoping for a reason to stay, which could add turnout in a tight race.",
+        "via": "returning voter turnout",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "'A Last Chance': Israelis Fly Back to Vote, Hoping for a Reason to Stay",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdmlZZk9HZEprMTkwSG1iUDNOVFNfZmdrRl85NHI0M0RFbkZvdkRhaDRURnVWRWZic1hIZEZpcTdXVmRkN3R6djktVUd2OEZBTzBLMDJJSGpmZDMzd0ZDX2NRY2tGMld6NjI2WHh6YTVfTWFxRkpPVWFfd3lNRi14QXExR3NjaDh2NEk5VjBPZWlXZndOcHRqemdYOEFzMW14RTJTekNuU3pnMjQ3bG1QNW1qbkhFcjBuMmFtMXVUalpqWS1tRnFUbzZvMm1YUWRPSWZaeng0RGJ0ZTdHYUNuNmo5MmZIWjlMeXJScDFDQ2tweGNzRjdKdjZFeDNKLUtSLXl0Mk4yZzgtNzBlZmJnaEZLT2JTWkJSN1E?oc=5",
+            "publisher": "Haaretz"
           }
         ]
       }
     ]
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-25T12:02:41.720Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "houthi-attacks-on-saudi-oil-facilities",
-        "title": "Houthi attacks on Saudi oil facilities",
-        "when": "2026-10-24",
-        "place": "Saudi Arabia",
-        "lat": 24.71,
-        "lon": 46.68,
-        "what": "Yemen's Houthis claimed new attacks on oil facilities and airports across Saudi Arabia, and Saudi forces intercepted missiles and drones as fighting continued.",
-        "via": "risk to Saudi output",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Yemen's Houthi rebels claim new attacks on oil facilities and airports across Saudi Arabia",
-            "url": "https://www.france24.com/en/middle-east/20261024-yemen-s-houthi-rebels-claim-new-attacks-on-oil-facilities-and-airports-across-saudi-arabia",
-            "publisher": "France 24"
-          },
-          {
-            "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
-            "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          }
-        ]
-      },
-      {
-        "id": "brent-jumps-past-117-on-us-iran-fears",
-        "title": "Brent jumps past $117 on US-Iran fears",
+        "id": "brent-crude-reaches-116-a-barrel",
+        "title": "Brent crude reaches $116 a barrel",
         "when": "2026-10-25",
-        "place": "Strait of Hormuz",
-        "lat": 26.57,
-        "lon": 56.25,
-        "what": "Brent crude surged past $117 a barrel as fresh strike fears between the US and Iran threatened global crude supply.",
-        "via": "war-driven price spike",
+        "place": "London (Brent benchmark)",
+        "lat": 51.51,
+        "lon": -0.13,
+        "what": "Brent hit $116 and other outlets report oil above $100, far over the $73 before the war, which shapes the quota debate.",
+        "via": "high prices, supply anxiety",
         "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "Oil Prices Hit $117 As Fresh US-Iran War Fears Threaten Global Crude Supply",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUdSOWdlUDlrS1hSeU1NOWlfVmVzVHlfTHFWVl91ajZyXy03ekgwMy1OV3N5ZTd2XzdQMXFoZDJvMmoycjkxUHdvQk9UOGR6V2trV0pYRjY3SUFjM2NMSjNwX3hqem9BME50RDZVOFpnMnBJVG81NHRqNWlNbVd2cWdOQTZoYnA3Vi1jRkdycFJXT19iQVVaVmVoWWs?oc=5",
-            "publisher": "Arise News"
+            "title": "Brent Crude Oil Price Hits $116: Market Outlook & Energy Stocks October 2026",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CZjA3U3RMYnRwcUFQN3ZURGlLVk5mbEQxTmxGbGxUNWVPc3dVVFVER0NnOVFackk5bzdVdTZtbFBLVzhfYXlBOW4tRXMyU2tMdGpXempFNmJkMHYzWDQ1dVgyOWw3NFZlY1F4dFJ1Z0s4M01URlVwS3lR?oc=5",
+            "publisher": "Intellectia AI"
           },
           {
-            "title": "US-Israel-Iran War Latest Live Updates: Brent Crude Surges Past $117 as Fresh Strike Fears Mount, Could Oil Hit $150 a Barrel?",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR0RERzg0S3N3TW5VUnR1LTBUNXhkemNaX1ZuTnNxYmU3cHZ0VWdhakVXVk9CTndhT3MtVjhWVlpxSGdhVURtSEtUaUFEaUU1dXFwVl9LdnhabzFhQjNuSl9WbWUtNDF6UWQzbGtQQTA3ZmFzWXdQeXk2a3ctUXk1UDZOWG53eUNMd0x5cDBvWkZQMC1EcjdsS2ppQmF5WDMtR3g0UFhmVGx0SGtVQ2NneFFxa3pBQXBISWNOOVBIU0RkQWVkVFBoUm1tZkVQdmd3blQ1RTk1SmxWZTYyV3FoRmw0YUwybjZxbFFpLWVtTnBDZG9qSEZkbHRn0gH_AUFVX3lxTE9jRGRBTTlScHA4dTBYaGNZbGJONlNQRHBVNi0zUEFxUHFLRE1tWmg5WmhLT2Myd0tqeEdXSkVvM3BCal9mQnpPTnRsTWd3eUQzLUxTUWJ3cFpKM1ZOWnpSNWdrNExVcUFkNVdZbmNCTlVrSmNyTkxKOWJWSWRzdDdCLVlXQkI0b1NXM1ZiTkVqNnlqYnFJSzd4aE5HVjJaeUIwZUVhZENaZk43eXU4ZW5LOGN5VkppMVNyY2k3WGN6TWQ4MUQtTFNkQm5HZzZlTjlKS0F1cEV4ejBtRTZRYy12NjN1MXI3M2FjdThEOFQzdzFHMHR0RzdNWUE0YktKaw?oc=5",
-            "publisher": "The Sunday Guardian"
+            "title": "Oil Prices Above $100: Best Energy Stocks to Watch in October 2026",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fbXZxX1NjTG1zT1pGM1ZXTDRnSVhzYl9fRDVtNGVzUXRxRUtYRGxQQjFMMjFfdXBudEQ3SXRiTDVMTndabmJPUmJnMDhvOUxjbjFVZWhtZkVDMXBiQzlXMjlkaElPUk03VGtYaXlRNHRZLWliUUY4?oc=5",
+            "publisher": "Intellectia AI"
           }
         ]
       },
       {
-        "id": "iraq-presses-for-a-bigger-opec-quota",
-        "title": "Iraq presses for a bigger OPEC quota",
-        "when": "2026-10-24",
-        "place": "Baghdad",
-        "lat": 33.31,
-        "lon": 44.37,
-        "what": "Iraq's push for a larger OPEC quota is driven by revenue pressures and new oil investment, adding pressure on the group's quota talks.",
-        "via": "quota demands from Iraq",
-        "aspect": "budget",
+        "id": "iran-claims-attack-on-us-warship",
+        "title": "Iran claims attack on US warship",
+        "when": "2026-10-25",
+        "place": "Strait of Hormuz",
+        "lat": 26.57,
+        "lon": 56.25,
+        "what": "Iran said it attacked a US warship, which the US denied, and oil rose about 3% on the report.",
+        "via": "Gulf supply risk premium",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Iraq’s Push for Bigger OPEC Quota Driven by Revenue Pressures, New Oil Investment",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY1RWT0NzcXJieEZJODl0UmtDY05jM2Z6VUNybTc3MzFMTWgtbWlWUk1WQzhjeTlkZy1rOHFrOW56YnN1STJXSWZObW1zNmM4dUlSajdoYm9ZWXNfUkcxbW9xcjhoV3lxQV92NEJpLTlaZmN5eVZtTVhmOE13c1lhenlIWmxFNUlFR0VySG1wUFpXRDd4SXRpUEo5eTJDdm5pcXota1VYVlkzQVYzNUxr?oc=5",
-            "publisher": "EnergyNow.com"
+            "title": "Oil Up 3% After Iran Claims it Attacked US Warship; US Denies Report",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGdhT3VWdGdOZWgwNEJkbnFkZHJvSVpZNHdRZlItaHBHeGZfSFYzbGFwLWc1X1FGaEJPOGZMbUpCa0o5RnVpVVJXdHoxU1R1ZHlCVy05NWotN1BXeFhoZTM3ei1iQXNINDFfZ3RtRFNoU0hFalpYckdXTHdCcVN1b1JEWVVsRkFBTXpqMFptWmdtUUJIRmVsSWo4MW8?oc=5",
+            "publisher": "EnergyNow"
           }
         ]
       },
       {
-        "id": "venezuela-output-reaches-highest-since-2019",
-        "title": "Venezuela output reaches highest since 2019",
-        "when": "2026-10-24",
-        "place": "Caracas",
-        "lat": 10.48,
-        "lon": -66.9,
-        "what": "Venezuelan oil production rose to 1.25 million barrels a day, the highest level since 2019, amid a US energy deal.",
-        "via": "rival supply outside quotas",
-        "aspect": "energy",
+        "id": "trump-says-hormuz-transit-exceeds-pre-war-levels",
+        "title": "Trump says Hormuz transit exceeds pre-war levels",
+        "when": "2026-10-25",
+        "place": "Strait of Hormuz",
+        "lat": 26.57,
+        "lon": 56.25,
+        "what": "Trump claimed Hormuz oil transit is above pre-war levels, a contested signal on how fast Gulf export capacity is recovering.",
+        "via": "claimed export recovery",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Venezuela Oil Output Hits Highest Level Since 2019 Amid US Energy Deal",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdjNoOWRCMEwtcHk3T01mUDdvNGF5RGZWMFl0SC1lcXdoUGFGeHFtNTlMVGlqLTFfWFBHU2F4MVA3Uk5GWXNDS3VZMG5KaVB4UnVMODNreGIwRzR6b0wxSkRua0ZVQnRaRkJmZnNNT1lQMGlYSXhxSEZSNndIRnI1ZzE3QkprR0tWV1oyeEFiVmhWT2d5NWhkSm1R?oc=5",
-            "publisher": "Sri Lanka Guardian"
-          },
-          {
-            "title": "Venezuela Oil Production Hits 1.25 Million Barrels Daily in Major Recovery",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxZDQxdHQwa2hPeXFTTGxNT3FLYXNHaGVOb2RBX2FDV2tIY21tMUNnVmxvUTNNVkJhakxnbmNRcXY0UGxMZnRKd3VvS0w1N1VBMGxKSVpWOTlZRExPWUltRFFvaDNNdzA?oc=5",
-            "publisher": "teleSUR English"
-          },
-          {
-            "title": "Venezuela records highest oil output in recent years",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFlfZXdRTVFDN2FFQ1hSMGxZMU1majhwYjR4V1Y5aDgyTllRb2Jhbmczczl0ZG1vU1BMcUFhWXJ0Q2VwRFhja3hQeDdpUG9MWUp3Mlp3SEU4cTE0a2xSM1BSWWJNa2cxcTBLZDdIOS1xLUp3Z25tbEJRdGtld0hQZTZ3VE15UnlkWU5TSklxZDdoSGc?oc=5",
-            "publisher": "Report.az"
+            "title": "Trump claims US strikes 'blew the hell out of' Iran's nuclear capacity, says Hormuz oil transit exceeds pre-war levels",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQV1NLSTg2NmVSR0d6Zjc4UW5tNENHWVhBTWR6eEZKOFIwUEF1WWxqVm1GUk1BTmJKQXNuSHIxUjRUSXRzRUloaGlVaFZwd3ZmS2pJdTlDMmRySjRBVklzWUdRSVhtNHN6ZWc2d3pCb3ZNd3BhR1JiT2NrWGpQVFZfajY2T3VYajNLczVsZGdfeG96RWtFQ1hxOERtV0R3amFQcTJ6RVlUb2wzOW4wSG92MTBDUXJISUJtTVhlODAxTE9aMGlWLUsxSWx1dkNwWG4xdDJPNDlRYUlwOVVRQmdOMVcweEJKT1BoQ3QtRDRlaUtxQTFsQUljMg?oc=5",
+            "publisher": "ANI News"
           }
         ]
       },
       {
-        "id": "uae-expansion-push-after-leaving-opec",
-        "title": "UAE expansion push after leaving OPEC",
+        "id": "uae-talks-up-life-outside-opec",
+        "title": "UAE talks up life outside OPEC",
         "when": "2026-10-24",
         "place": "Abu Dhabi",
         "lat": 24.45,
         "lon": 54.38,
-        "what": "The IEA says the UAE's post-OPEC expansion will lift its output above 5 million bpd next year, while commentators say its exit strips OPEC of clout.",
-        "via": "weaker group cohesion",
+        "what": "The UAE oil head said leaving OPEC gives it room to speed up investment, raising doubts about group cohesion and future quotas.",
+        "via": "cartel cohesion doubts",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVhWV0dBMjNucnZ6RkhPZWhhZnNBZWVpZXN4WGdoUkFGYkEwODRnYUNqRlZ5LUxqcGp3VnBlelBFLXVhMTY4YlNBZVRvY1JPMERKeTEyazZqTkpnLXhxbVRfOHgtWnptakdkcmpaN2FYd2I5WGhxMnhBclp1VzVGTWxjOU1oSVdiU3hnWGQ5RjZEMHdMZy1qaUVRamN6bEVralBYLU9NUGFnVlBhZk4zaDB6TXA3dmtRTXc?oc=5",
+            "title": "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXQ1dGNTQVlqczc4M0dfV2VGM1pPQ3BiSUlaWnF3eGZZNkhXWHBDc1k5NlNMT1JRMmpoYzktT1hFbU9HOHg4aUswdU5QNnJremlSc2dzSkthZjhtMjJ4MlZRblZkZktkNjR6V0FKM2I1amQ2Tks0TkFZREJFSVZSZUJjOUdkZjBiNjlia2VsRzJoRFZvQ2xuZEdTUQ?oc=5",
             "publisher": "EnergyNow.com"
           },
           {
-            "title": "PERSPECTIVE: UAE Exit Strips OPEC of Clout, Risks Bitter Price War: Bousso",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalNZYXViclVTRHFSaEk5dnpYTTVMMk85dHUzVU9QS1QtcWJuNklGb2FTSmtuZk1nRHdnS3RNTFZQZ1dxQmt6MWRRWnVqMjZ1VUpEWVBHTlk4WVlYVnUwd1hYQ0VuWHBHYkN0dXRvQjVUNVdpZDRPYXB2dC1rNjhGMTlIamN3Zk9nclZSUFpkN2J2Zk1K?oc=5",
+            "title": "The UAE Dumping OPEC May Not Affect Crude as Anticipated: Russell",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdEpkd2NmQk53bE5KOXV2RkM5NlQ5d2owa1kxV3B4eHJlejNvVmt1WTIxQXdtemRQTW0yS0FZYnNwXzVMZG13aUR5bzNMWlVsVDRJUTk5elg5a3hfSm1yQ2szelA4Z1l5ek5laUxGVUNhUjZFQWJuUkVma09lS2d3elVLcWRJQUVUNk5IWUhlYnB2Nml0T3hmZ2JkZw?oc=5",
             "publisher": "EnergyNow.com"
+          }
+        ]
+      },
+      {
+        "id": "saudi-output-recovers-from-30-year-low",
+        "title": "Saudi output recovers from 30-year low",
+        "when": "2026-10-24",
+        "place": "Riyadh",
+        "lat": 24.71,
+        "lon": 46.68,
+        "what": "Saudi Arabia reported its crude output recovering from a 30-year low, while OPEC halved its 2026 demand growth forecast.",
+        "via": "Saudi supply rebound",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Saudi Arabia reports crude output recovery from 30-year low as OPEC halves its 2026 demand growth forecast",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05UHcwSkZCNUVSQ2xUOWtseUxNdGZWRm9ab1VpZHNHUVFPckpVT2lwTjRMQ0JlaGtSdFMzRktuWjRBc0FVZGM2VG9PT3F3MjhLQ09WSTVmWVlJZWFLYnNxYW13MllwQ2UxR3VFeUJR?oc=5",
+            "publisher": "Energies Media"
           }
         ]
       }
     ]
   },
   "france-election-2027": {
-    "at": "2026-10-25T12:02:41.720Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "le-pen-launches-campaign-at-orle-ans-congress",
-        "title": "Le Pen launches campaign at Orléans congress",
+        "id": "le-pen-opens-campaign-in-orle-ans",
+        "title": "Le Pen opens campaign in Orléans",
         "when": "2026-10-25",
         "place": "Orléans",
         "lat": 47.9,
         "lon": 1.91,
-        "what": "Marine Le Pen opened her 2027 presidential campaign at the National Rally congress in Orléans, held under heavy protest.",
-        "via": "campaign launch momentum",
+        "what": "Marine Le Pen launched her presidential bid in Orléans, promising to restore the rule of law and a zero tolerance approach to order.",
+        "via": "law-and-order campaign message",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Marine Le Pen Launches 2027 Presidential Campaign At National Rally Congress In Orléans Amid Protests",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSnpTdjJtNVlhckNuOHpxaXdUcFpJbm1NUHZMbF9MVVlkWHVFMEpIcXNrQVlLcmdHMzAwOW9BRzhZUTVJdTNydmxYZHRjaW9LTF9TZlJjRmJaR2owWG5sNHBEX1hGY2R5ZTE5NmpDWUZSb3FDSkNzYnFTUEtBeEdSa2VRTHZSeERvc3p4WVgzemhadVR2Vy1yS1g1MEhvQi1MVFBvaFpFN3E2UHRxQklzMDRoS19WN3NubzM1dVhrSzBwQXNhbG9mYnNNanZoaDRaeERnUzRUSzg4dW5obDFKNDRVeHoxek13?oc=5",
+            "title": "Marine Le Pen Launches Presidential Campaign In Orléans, Promises Rule Of Law And Zero Tolerance",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOHlhUVpFUDlFbkMtRkR0VFVnRUtYX2VaNHJFdGVpUEtqMUFDUGc4enZENVJoOXdGbEp5V3VFcDl0ZTFZcmUtcERHUVhxcVV3cnhOV0NmNi1MOFFvNU5SVHo5N3pkR1BOMDQ2Q1dKWC1jeFRWUHhDLVR3dlh1d1FDbGI3X29KV1JiYXlTaFFLM09XVkY0dzhRaVVQSVFJQXBBSEg5bnhUblBZNDZxVlZYYzVUakVWTzZoS3ZJOWpxNmhhRlcwN1RXTUk0REpGSEJCV21QMWtJZnRwSVN3NkJON09oXzlGZndy?oc=5",
             "publisher": "NewsCord"
           },
           {
-            "title": "France’s far right gathers as Le Pen prepares her presidential campaign",
-            "url": "https://www.france24.com/en/france-s-far-right-gathers-as-le-pen-prepares-her-presidential-campaign",
+            "title": "France’s Le Pen launches presidential bid vowing to restore ‘rule of law’",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeTRmeEl6Mjh4X2h4MGMzT1lIeVpQN29oSFc4WDFQVzVwaGNYS2ZXZ21XQTJVTlFITDZUQ2s5ZUQyMU9jRlc1UW9Nbmkyb2lnVGNkT18wMzkwYlRlMFc2Z09NRUE4U21PTW5pWWVvMEhEMzJicV8xazRPX1p1NS1qdDBzR2M4enlSMDJQR0RaWUptWnpOMG9hSjBsY181TWlmUzd0MjNjUHhxTmYwc3c?oc=5",
+            "publisher": "Arab News"
+          },
+          {
+            "title": "France’s Le Pen vows ‘zero tolerance’ order in presidential launch",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEZMc3BCUnZiS0EwSDJVTDdUWDVaYXVZZ1lIdzhXYjJnYWlIREFSc1pucmlwVEI1SHlDb28xUTZldjg1NXpZNjhXQkVFaEMxcnlIUkxOdERQSWJ0VjR0am1SVHVmWUp3QXlTY0lOa1FlVVo5SHNOQ2ZTa29RQXhmMTJsbjhBV19Zc3JMR2NrbFdURG5PNDhuWlhiUlE1S3JIQW1DT1NQZkNidkE?oc=5",
+            "publisher": "AFR"
+          },
+          {
+            "title": "Marine Le Pen launches French presidential campaign",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          },
+          {
+            "title": "Marine Le Pen launches presidential campaign in Orléans",
+            "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
             "publisher": "France 24"
           }
         ]
       },
       {
-        "id": "bardella-re-elected-national-rally-leader-with-99",
-        "title": "Bardella re-elected National Rally leader with 99%",
-        "when": "2026-10-24",
+        "id": "protests-rattle-le-pen-s-launch-day",
+        "title": "Protests rattle Le Pen's launch day",
+        "when": "2026-10-25",
         "place": "Orléans",
         "lat": 47.9,
         "lon": 1.91,
-        "what": "Jordan Bardella won re-election as party leader with nearly 99% of votes, showing the party united behind Le Pen's run.",
-        "via": "party unity behind candidate",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "France: National Rally Closes Ranks Around Re-Elected Leader Jordan Bardella",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUppa1dzXzBjenhIWDRPZ3Z3SFp4RVlZUVkwS1YweWFrNWZxdHM5VlJQb0tLZUQ2X2ZMSU9yWEVIaW05VXlkdWdhNVNFS0F6dVF1dWlBYUdwNFpmMGxJdU03SnU0MGU4QlZmeVFqRzkzN1RqTllpWlkyRkx4NnotS3VPWXJLQ1hQQVZzOGVWQ3k4YUJfS3dpYmhTcExNRVh3WnIzZVFXQ2ZOS3ZQdzlTLUlGYkkzQQ?oc=5",
-            "publisher": "Eurasia Review"
-          },
-          {
-            "title": "France: Jordan Bardella was re-elected to lead the Rassemblement National party with nearly 99%",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEZlRnZwSFJUWERJbWU3eHFUT2I4ekdTUFc2ajlPNzNXb3RSaXRoRTRpMzQxVFhqeFFBN2dsT2FXWC1ELWFoZVpFamx3ejZ6ek1SWEd4OGtLQ0Y3T2pmUHVEMkk0bHNLSDFzYjhkYXVQXy0tZ21yUFA3MXRPZm8zLXQ2YkJBZ3Vjc2RwVlZBeTljeE90LXFJVzlkMVFkeGltcDZPY0tsYw?oc=5",
-            "publisher": "Informat.ro"
-          },
-          {
-            "title": "Bardella wins 99% backing as Le Pen gears up for French presidential race",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUdHUS1QMmFOY2J3YUhHVDh3cy1qS0JuSW5TclluUHRvRGlvRnNLNzVQaEFOTkp2NzNtT0luSjhqQnplbjFxSmFuWlZ5dUVKX2J1ODcyVEhzSHdzblB6ZENEa1ZWcEZpU1J1b0ZETFJGcTVMRHJnOVpUTXhjTkN0TDBkaFYyX2FtTmt3dW1ZbnJyYnVaTng4d2txZDVMeXYwZEppdWVwVlA5eGd4?oc=5",
-            "publisher": "Euronews.com"
-          },
-          {
-            "title": "Jordan Bardella re-elected as leader of France's far-right party",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmh5MENLZGh6MnROX0U4bVZUZllrMTdRdUJVYzZLZk9XUktQUDRzd3k0NkFUVkh3b2dNQXo1Q19JMktnV3M5SUhmRVlxekxJcDBSWGpxaERDUnV3X0doelVtZFlVbVBKdllYVUNldGFnVzZXcjU2R3N2cmh1VUlUdWJET24tZU5qSFJwMzRCQ0VPSUlxU1pZUllYMzItZUpF0gGgAUFVX3lxTFBCaHkwQ0tkaHoydE5fRThtVlRmWWsxN1F1QlVjNktmT1dSS1BQNHN3eTQ2QVRWSHdvZ01BejVDX0kyS2dXczlJSGZFWXF6TElwMFJYanFoRENSdXdfR2h6VW1kWVVtUEp2WVhVQ2V0YWdXNldyNTZHc3ZyaHVVSVR1YkRPbi1lTmpIUnAzNEJDRU9JSXFTWllSWVgzMi1lSkU?oc=5",
-            "publisher": "vijesti.me"
-          }
-        ]
-      },
-      {
-        "id": "le-pen-leaves-national-assembly-group-presidency",
-        "title": "Le Pen leaves National Assembly group presidency",
-        "when": "2026-10-24",
-        "place": "Paris",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "Sébastien Chenu was appointed president of the RN group in the National Assembly as Marine Le Pen stepped down to prepare her presidential bid.",
-        "via": "candidate freed for campaigning",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "National Assembly: Sébastien Chenu Appointed President of RN Group, Marine Le Pen Steps Down to Prepare for Presidential Election",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS3NvUzlSYXhESGJndEx0eTdLTE1SaXczdnBWTnk2bFc0ZVBFekVINkh2YnpQTHpJaEpOa0Nscmw1MU1fa3pUWjgtSFVmb0VJYUExQU5WSzVHZDhPY0NnUVZUZEtxeDdobTFaVUwzajFFOUY0cGxJVWxUSkUtUlEzSFlsN0wwRHdxOHF0QUJhUmZ2czIxNHV1VE5NLWF5TFJxcHVsRWNQU2w?oc=5",
-            "publisher": "entrevue.fr"
-          }
-        ]
-      },
-      {
-        "id": "thousands-march-against-national-rally-in-orle-ans",
-        "title": "Thousands march against National Rally in Orléans",
-        "when": "2026-10-24",
-        "place": "Orléans",
-        "lat": 47.9,
-        "lon": 1.91,
-        "what": "Thousands joined an anti-RN demonstration in Orléans as the party gathered, with authorities locking down the city centre.",
-        "via": "organised anti-RN opposition",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "‘We want to stop being afraid’: thousands join anti-RN demonstration in Orléans",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTZOY013S05MQXVRMzFVYkxVSW9EdlowSmthU0pZR3FpQ1MzU2ZONEh1MEZWY211bWowVmo0aHpUSksyREVLaEN0NU5XMEU3TDJRRG1fc2k5ZUJLdFRVQ3RDVUxqSFZkbFVjalBqdW12Skl2Wnp6T3lGZEFCYkMzRTh3WVRDa1dMV1BTM3hyd2NRUjB2NHhwV0RldWtpaG85bHNTRXFsT1YtV2FWRE5CVw?oc=5",
-            "publisher": "RFI"
-          },
-          {
-            "title": "France braces for 30,000 leftist extremists as Orléans locks down for Le Pen",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1hHV2kySGQ3ZWtGd3hGMGtXS2VNeU5xUHBiUm5uR3dVT04zdDIzZFNXOThlYkU1ZFhWbGw1WHRlUTFqODhDMHhlLVU0aXA3MEUzYTRWbGlVWUV6eWlxSW9JSnNkTGVMUWNETVR1LWJ1ZWs3VTJrYzloNG56UThzc2ZBVXFENWMwbkpORUExMXlrSHV0VDNtVDlkcjZ1ejVp?oc=5",
-            "publisher": "newsfire.gr"
-          },
-          {
-            "title": "Tensions mount in France as thousands rally against Marine Le Pen’s National rally",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlNPaFBSVEhoMzI4cGlVTEZ5b05uUkNCZ0s0UE53ODd2eFBrNnNiTTh3YnNtSDI5LUVRSFhyc19YNWhhWlE0THVyalZLWU41ZWJQdUdoaGx1eDZCLVZHMGl3d0FUbm1lYjY4UjRtUnRyQjR0MkF4UHE3T1RRX2ZxSWNSaXY?oc=5",
-            "publisher": "Yahoo News Singapore"
-          },
-          {
-            "title": "Video. Tensions mount as thousands rally against Marine Le Pen’s rally",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFhVM0pPMGZEMDV4aUlyRDBfdEo4NGhDb3pwWDR2eHM1WmFTQkNyRE80VTU0M3pRYkloX05hcHFpVjUxdWpXX0YzS1p0TE1NUUN2aklPOGl6WVpjWElqM0NVQXJhQjd3NElldG1Ma1JwSlVzaFJIZUxLZE9wRXRmSEJ3TlBoei1sclBJd0h4azZHbFc5RFhPWmIyYzljVkdmbFVzcXVyTGNjdHpqT3pYbQ?oc=5",
-            "publisher": "Euronews.com"
-          },
-          {
-            "title": "France: March against National Rally in Orleans",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8teC02YzYwQWgwTzUwX1hGeHRWNFE2d1ZGLXJBRHZyWjhEeC1DVjdVcmZKQzNTblRNRnpIbER4dHFlYmJKQVFMczBWRHVmcXNnd2pSblBjcG9rek5mdFNGNUJEdWhaRnJSaGxBcEd1XzJMTFVkcHlyVWZmZEl0UW8?oc=5",
-            "publisher": "France 24"
-          }
-        ]
-      },
-      {
-        "id": "riots-and-mass-arrests-across-france",
-        "title": "Riots and mass arrests across France",
-        "when": "2026-10-24",
-        "place": "France",
-        "lat": 46.6,
-        "lon": 2.2,
-        "what": "Violent protests brought over 1,000 arrests and hundreds of injuries, with protests banned in Marseille and Lyon, and candidates are using the unrest as campaign material.",
-        "via": "unrest as campaign issue",
+        "what": "Mass and at times violent protests surrounded the Orléans launch, and Le Pen sought to leverage the unrest in her campaign kick-off.",
+        "via": "unrest she can exploit",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Over 1000 arrests, hundreds injured in violent protests across France, as riots rage on in Spain and Albania",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRkR0UmI3blBXenhxZUlvQld5VHdBdGJqeW81Y0UxOTNjcjhYU2dyNF82RlpaUFpOU1R5R09aM1gzcG9VNDZNYTVWWFQyX1IwSnQtMW5QR2Z5MV9iVnhZTjhmMVZ4VDhuNHFRUEZGQlRlMVduSmY5UEhJNFctQjI2R1dLcmVoTHFyU282NkR3R3l1X1pseVRaUXdYLXpaQkhxOWpQRnc4ZjZDZzBKZ2tVSTlBcXVweVd5UlIta0VJREZLOG1UOTFlYWE0MkYtUVdFRF9HTkRmdHZ6c0U?oc=5",
-            "publisher": "ProtoThema English"
+            "title": "Silent, tense and barricaded, Orléans reveals a deeply divided France",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEhmRmNFM0RXXzMyVUZKWXpRR1VNR2lLZzA4eF9pLXRYamd4NmRsREpxOXFTWmlETU9ZZVM1QVVTOGw0MVlSZVdEcmdQOUNjVG9EakhnN2hCUE4yNGpVSGxTTTZZakI4d2xadER0SG9fcEpyQ0F4dGZPRXN4dmptVnVKWVdCTXQzdGxIZlFMcHNNem5VTnd2Mzd1WVpueW9lYXY3bVpjTUZUSXhNMVpSWEI1S3E?oc=5",
+            "publisher": "BreakingNews.ie"
           },
           {
-            "title": "How French presidential hopefuls turn unrest into campaign ammo - RT reports",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlBJN3pVRTlQajA1dGJuTHh2c014QnpOVEdFa0J3VUNNSG9GMGhXQ2I2X2VlQUdqUWVyeFV1SDNHUGFmSXAwQUZzc0ViUnZNU19MS0dVUzREcHVlN0JYMWhIcW5YSkxqbXYwRktYb0JTUmdoTnc3c2dTVTRTTy1ySnk5NFZLYWtoTzdEcHJiVl9CX1lENEF3TzA2Y3FBNi1CVU1vODlmUEJEajNPcmQzOTAwY1pzejQxeUNPQg?oc=5",
-            "publisher": "Big News Network.com"
+            "title": "Marine Le Pen has launched her presidential campaign in France amid mass protests",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGZCSlJ3MFhrNEo2TE81bFRzcUhSaC03SXhoc2JhVVJabC1CdXRqV0VxR01FVk05MGtFMW0yQ0NmWmNlSFVKYzlvUkZGSklKd2RDSGpGSnFpbExXU3VNRE5CTWNFc2dBUkZjME41OXU2ZTdfYzFkNmlqd0w2Uld0TFRzUmlGQnRmNXpoVy1QemhaZVNteEx3ZHVhb0ZvNkdkYy02SWtmSdIBpgFBVV95cUxPZDZkRHBwZzZiSng4eTFZdHN1eHB2YThLOFhVUDhiTVlMUFRKZG5QY05rYWZ0cl9KNW1yMEZYWDRHbGdXcmhSZHFKUU5aaGRRTl9YSXh4WC0zWm1VMTVOaTQ4Um5zVXhzb0JCczRvNUtRNVNCOTV4ZEowaVFSVFVRS2RoeTYzS0JGUFY4TkVveU5zd09xSHBYaldmVUE0ei1rRzdrNDZn?oc=5",
+            "publisher": "Українські Національні Новини (УНН)"
           },
           {
-            "title": "France Bans Protests in Marseille, Lyon; Paris Museums Closed Ahead of Fresh Demonstrations",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVJfZ0JpeEpWU2txcnJVblNCYzc3NnF6eDJja2Y4ZG5fejFTWnVVZVdXTHBYNWxRakZBdG1Md093UjhaRGZvMHJDWTQ1ZFJlRUNaaERjOHRRTEJVU1c1Y0tLTTh5aXNTbWlhZ2NUR19DbmU1UlpWZkdhZy1yS0RacXo4ZUE5NGxoMlhYSl9MUFQ5NEhJVk1MOG9ENzUwSzlsYzZaekNYZjdTZHJiTjUwWFN3eHYwUlJjYXJZXzk0VTktUlNYZUVBSHBIbjJBMmZTNTNJM2lXbHVTSy12akVYVGV30gHnAUFVX3lxTE9TRnR0YjM1b3lNZXJoNUhGY0U0aHIyeGR5Wk9iSS1veV9ZNkw4VWh0SzhYMXh0d2xTYnJxY09uVlh2M1paal9kaGRjbjNnZ2daTEhoamFUS3lWSG9HTmV0dnQ0TzZLckwwVzZveTA0LVQ1a2F1YkRRLU1NNVBRSV9oTEtrZ3A1UF9qSDJDWlljaURidVdFR2tUWmFNb1AxVGt6MmYtdXhoQlN2Qk9Rdy1NWk5rMzJrRzRuNGdhb1gxb3RoTEZoOEZsYUhWQy1nSzNPc0w5M1ZENE93QUFfcjRlazBobk1pRQ?oc=5",
-            "publisher": "Republic World"
+            "title": "France's Le Pen launches presidential bid as protests rattle the nation",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlyYlVtZ3dZV1ZlUmdLeFZGczB3NnU2R0R4QWxrZEw2SFBoU2l5ckpyblc2NGgxNmdXdFEwdGw3RExIaFFPNkdlVDF1XzRrNFI3Y0g5WFR0MkpZMUpOMW9nZ1ZYQ3VvR2dKRXF1QV9HSE5ZTGtPZkJEYlVNMTdkTWNzeDNqLVFMZXVNQW8wODNRUnBQVjdJNXgxT2p0OURoU0hreHZWako?oc=5",
+            "publisher": "Reuters"
           },
           {
-            "title": "How the French riots will affect the 2027 Elysée battle",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CVlVhZmw4Vkd4UlpDS0NmTjhSZ3ViTlZKVTFxbndDV25ySG9UdDhFMFZkeE5OVm44dzJUaE56aHlGdnkxMjZ6MnJrUmNGUS1YeE1MeGxMOU1fc1d5S0hrOEo0V296T2x4al94VkNyNUVNYm8?oc=5",
-            "publisher": "RTE.ie"
+            "title": "France: Marine Le Pen launches presidential campaign amid violent protests",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3lEbUtUd29aVHp6V2hISGREM0NhaUlTZUdzV1ZYNnRHaERXblBCTURkTWU3TzRKR3FCM3EzaVJjNU1TcS1wNUJpUUR2aWJEQ1hiaHlEb0o3dUtTeEo0VWhnbTZpZUktM1A2ZDVhMlZ1N2NaZUlaXy1uMnFFLUFsTDN5cWVQcEdLbnE0ekdnQlUtclpOR0J4VkswMXEwYVNMbkRsbzhn?oc=5",
+            "publisher": "Channel 4"
+          },
+          {
+            "title": "France: Le Pen seeks to leverage unrest in presidential campaign kick-off",
+            "url": "https://www.france24.com/en/france-le-pen-seeks-to-leverage-unrest-in-presidential-campaign-kick-off",
+            "publisher": "France 24"
+          }
+        ]
+      },
+      {
+        "id": "poll-shows-le-pen-beating-me-lenchon-in-run-off",
+        "title": "Poll shows Le Pen beating Mélenchon in run-off",
+        "when": "2026-10-25",
+        "place": "France",
+        "lat": 46.6,
+        "lon": 2.2,
+        "what": "A run-off poll puts Le Pen ahead of Jean-Luc Mélenchon by 69% to 31% in a hypothetical 2027 second round.",
+        "via": "run-off voting intentions",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Le Pen Would Beat Mélenchon 69%-31% in France 2027 Runoff",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RenJhVDBJTHFHOW1nSklUb1N6Sld4X252eXl0Yl9WcGtRVzEyMWwwbjRFZWJWaFBwVE12ZzdJRjYwWmNPVWlNOWpsNmZzcVVl?oc=5",
+            "publisher": "JFeed"
+          }
+        ]
+      },
+      {
+        "id": "le-pen-names-her-future-prime-minister",
+        "title": "Le Pen names her future prime minister",
+        "when": "2026-10-25",
+        "place": "Orléans",
+        "lat": 47.9,
+        "lon": 1.91,
+        "what": "At the campaign launch Le Pen named the person she would appoint prime minister if elected, signalling a ready-made government.",
+        "via": "credible governing team",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Le Pen has launched her presidential campaign in France and named her future prime minister",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHN6NHJRQWVfN2tyYUlJQ1kxOUZwcnpEX3BHOTBXNnBzc3JScks1UEtJczNQRWkya0h2VC05TERENjBxNkg1UWkxS01RZFVaTklKVUtzVTlFQ2RZcTJEbWRJRFV2SWRuVGM1NlVMeDBRM3EwVl8wcVJHNGxiVHRfeFA3cUdWNG1WUGRMLWd3My1JUDIxR1FRUWYtQXVfQl93VFJkVVJ2aFdlQ3QwS1JXMzNOc2JZQlB4eEh1VjhpdEFBTU1UT1HSAcsBQVVfeXFMUE1WLXBXb2xCYVRidnhNX0xXM3VSNTVxNVllMzNEQWVjZzVkVnp0UGxTcUlsOHNfRlZtRUhDcEVfbTB3R2JNTzF0aUtRUzlvUjhFYm8xMVJtb0ZWM0F5QlV2M05Oel9hWmpINGl3WGtmU3VxUmphOFAxWC1McFgtV0c3NmttNFl1VEgzajJnRUdnRDNyVjIyN0tZU003SVBjNmZYXzZCUkFzZ1ZUV0JTZ2JOODNaaDBTSkpGZ2FHZVNKTXF1UUk3OFdMLVk?oc=5",
+            "publisher": "LIGA.net"
           }
         ]
       }
@@ -1978,28 +2031,9 @@
     ]
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-10-25T12:02:41.720Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
-      {
-        "id": "ai-generated-calls-to-protest-circulate",
-        "title": "AI-generated calls to protest circulate",
-        "when": "2026-10-24",
-        "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "Protest calls generated with AI circulated ahead of Saturday's demonstrations in Brussels, though the city stayed calm that day.",
-        "via": "online mobilisation calls",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Calm in Brussels on Saturday despite AI-generated protest calls",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUNWb3RlR2hYTUktZHZuRGRhNWo2dTM3eGp3RTBMQmdrQWJjT2FDZ2YwckVJTGJnc1ZvZEdHR3BjVzhmOEY0ZHpCanJ0QTFPOExDZ2hScWV4Mk52QjVMNjh4M0d0RkczMnZWYWhseDlLbDJFMGdtVEZ2ejh4NllFZzhOSEtFVDV2OUVYTHVjTjh6b2NwU2FNMTRIWnNmUDUwS2VZ?oc=5",
-            "publisher": "The Brussels Times"
-          }
-        ]
-      },
       {
         "id": "brussels-shops-boarded-up-after-looting",
         "title": "Brussels shops boarded up after looting",
@@ -2007,8 +2041,8 @@
         "place": "Brussels",
         "lat": 50.85,
         "lon": 4.35,
-        "what": "Shops in Brussels were boarded up amid fears of a repeat of the previous week's looting during unrest.",
-        "via": "fear of repeat looting",
+        "what": "Shops in Brussels were boarded up over fears of a repeat of looting seen the previous week, keeping the city tense ahead of further demonstrations.",
+        "via": "looting fears, tense streets",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -2020,15 +2054,15 @@
         ]
       },
       {
-        "id": "cost-driven-clashes-in-italian-cities-and-tirana",
-        "title": "Cost-driven clashes in Italian cities and Tirana",
+        "id": "cost-protests-turn-violent-in-italy-and-albania",
+        "title": "Cost protests turn violent in Italy and Albania",
         "when": "2026-10-24",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Protesters clashed with police in Rome, Turin, Bologna, Milan and Tirana over living costs, showing the same anger as in Belgium.",
-        "via": "shared cost-of-living anger",
-        "aspect": "living",
+        "what": "Protesters clashed with police over living costs in Rome, Turin, Bologna, Milan and Tirana, adding momentum to the Belgian unrest.",
+        "via": "cross-border protest momentum",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
@@ -2037,19 +2071,38 @@
             "publisher": "NewsCord"
           },
           {
-            "title": "Europe’s protest wave: France, Italy, Belgium, Albania see anger over costs, education, governance",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQV0NJZk83MWw4LUNVdlVoODhTdUVCd212TXlVN2h2RDNnSVctYjVSMlBSZU14Z3BDUEh0RjJ0ZkFadExjZWxCcERNSFU0ZXBKRGQ5LXRoWHNzdElVODdsR2ljdF91MmxsUlhCYWFMYUp0OVNBSjZsTUszeGVweWE0eWdRMUVnMlR4M3FIQV9IZGpfMW84ZHZUQjRnRVFuY2VXV01uWkdpbWJsakdXbHQ5Ti1OVnlfX1dJZ1B3LV85aTNHT1gyT25hS1VMSzNESHZmR01IM3VIeEo2dUU1ZzlvVlM1czgzakIwVVROVS14bWRUWnJS0gH6AUFVX3lxTFBBX3VUUWh5ckMyQTh0VG5sTzlfcFZlQlhRUTlyVWQtakQxVG1Zejd3M3hZQml6aFRKczU1TmVDOW83NnR5d0tuVGpHRTBuZ3BlVTZHU3hNSE4zRnRZVkpoWVZ1cnF5dVJZNXFnRlRia3Rsam42STQwcWhKdjNJaFMxMFNKSU03RWZ1Q3Nwd0w5Q05CQVp0ZDEzTDhuVE5uei1CS1YwY0c4RERibzg4eUo1bDUyQlB5Uzg3R01jZXgxRkVBWF90bkJ0eWthcWo1SzJibTllWktETVNtT2RSMlQyU1RVXzlvaHg2VllrdW51bnZYcXJpdzJtMEE?oc=5",
-            "publisher": "The Economic Times"
-          },
-          {
-            "title": "Europe unrest: Protests over living costs, education & political failures rock France, Italy, Albania & Be",
-            "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNcnNGb0ZCbnpmbzVLbnBQamVIRjl2djgySUpwR3RRZ1h3OWJaU0l5cDlYdEJxYzlXdHh6VGNIRXN2aWJxVkgtd2ZWcGJvUEg3NmlkVjdpUVJuZFBLcmh4Q3ZBV0c3WmtQVGJMeVpTeWZCN2pGQnB5S2VEUkZMSmVfMlB6ZlZTLXZyZG40RTJjU2NFTmdydDRiaGVDZVhRbm5mWi1Hcmc2NkFqY3hranVMUDR0M29Kem5wc3pReUVKcUZfaE5qOC1oYWxraGVDbzZqZXlscFZaOURwcDVMakg3emRzQ1IxTjhVRWhibW9FMEw3X3pKdEJaazNRd3dRMHUzY29mQlBVdnNNSWVVXzRJLTloblNVZXVrX2xN0gGgAkFVX3lxTE5fVUtjUDViX0FVdlQ1cjJiRmNlSS0wU3N2SWJsbXhMMFZLLXFaUS1FOWlyelp0dkM4TTRPczdQOE5QWU11OThiWVJmZFhBX2dpWThtbjBRSjAzTXA5Q1lXVUNMSGNyaGtZMV9GRHlDcHJ3S2RPcUlmamc2NXhDaHc2TW11MnBIUWJsVDFMSTRHWklMQWtPdjFSX1BNZk5IZzJzVVNucmlMa0NERUpiQnJSeDBBcUljR2tSQXNKVVA0OVlrNDJuSmpYalZ0MUhITmhJMHNoYlgyY2ttUnpYQ2UtMGpKaFluR3R6djlvX09JXzRlVWJKYTFSNUFxYS1hWGNseXJrZlFpRklpSzVSZ2lVSTBXQW9IRzlKMWQ0NnR3ZQ?oc=5",
-            "publisher": "The Economic Times"
+            "title": "Protest Chaos Grips Europe: Violent Clashes Sweep Italy, Belgium and Albania",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekEzVDBmNGJvRHNUcjdhcXowOUJhNTE2NU1Qd2hBS3dxeVB0ckVhUXVwRUNzZlNnMnQ5MlEtLUVnX0JDdU1TNjhodzhFV05JbThtdmxHZC1hSVM5QWxZUm1KVklJUmRRZnZlcVFvSkY0YUhRczlpWUpXdldweUg4cE5LYlhMOXFqM002LVlSRDhtRXFSaHFiVTNmT1d2c1BiaHZNanRIUkxBVjFqQXlFWlRMRC1FWGxlQWRtUDI0RVFnaS1sSzM2c2J3cnU2dkVINjRv0gHYAUFVX3lxTFA4MWVrT0JkM3NfU2pNMXU3bGg5VTVwLW9mLTdXYklfaGtUbHZUV1VZbGF2VVlvUG1MWE82dzl2VkVqcl9uR3hXVkpxTndFcVlfQlBFNTBzU2lrODhLelZ1NjNMUzBLTW9JLXVIZXYtRDBMSUtrR01QZmladFdLR21fbWlTejV1Q1FrUUp5d250alRvNTkwalJzT3NhcHRLY0t0cHE5aXRIamZzZ1dvYUcxd1BkVWJkUXB3RGlXSzdsNXE1UWd0dW9HYUNPTlhHRzJaVTU1aXNYag?oc=5",
+            "publisher": "Times Now"
           },
           {
             "title": "Clashes erupt in Albania, Belgium and Italy as protests intensify",
             "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBJOUM1aHZCT1lERndIaVE4anZlUWoyNjdfVjQ4NXM0Z2hVRkFxLTQzdDRhYlloOExVRHF3?oc=5",
             "publisher": "Howl.Link"
+          }
+        ]
+      },
+      {
+        "id": "video-of-police-striking-student-protester",
+        "title": "Video of police striking student protester",
+        "when": "2026-10-24",
+        "place": "Brussels",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "Footage showed police kicking and striking a student protester as clashes broke out in Brussels, which fed anger at police tactics.",
+        "via": "anger at police force",
+        "aspect": "security",
+        "flow": "both",
+        "sources": [
+          {
+            "title": "Watch: Police kick and strike student protester as clashes erupt in Brussels",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFdlYkRNWE8xTXdHMDdUalBlZkhBekJuZzJjSHNYZk5haVhlSW9tLXpyUXRYUlJ4R0hoaFAzbU1vbkxNeUN4MkdDM21SdEl2SnJYcUg4MXUzWlRjWTgyOUdLRktNb21paXFob1lsTURFWFVYaFVXNE1iY2tydW9WVmYxRU95d2ZjYXhSeTFOUzE0c2ZtQ1lyWFBR?oc=5",
+            "publisher": "Metro.co.uk"
+          },
+          {
+            "title": "Europe Protests Turn Violent: Police Beat, Kick Protesters As Belgium, Italy Witness Fierce Clashes",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWjd2VGdPOWpzT1ZkUUZ6Q0xubjg2T0pGbklpdHdkdjVjN3FEMXNabmZZOUpOclR5Nmo0bVdqZFJmSWlxVEYxLThZRVZ3ZFZabkxoM0RJNzktaWMxZVRQTTR1cmthTXBQeXc5cFktQWxheWxEcVdmZzBGcEl0WkJRNFFMMEtxMGFldUhNUjZHWml2SmJqaXpiUHJreFEtNnhoX3BwenhJczk2TDdNQXRsRV9HOHctNnBRWlkzTFh0R3ozaDVuTWNmYXZyeDdfQ2pSSnVqSGxZNTlsWEwzMzljeVBXbk0zYk16Uy1LNS1YcTRLNGhzWVNvMEd4dVVYdWVELUk3blRmLXjSAY4CQVVfeXFMUERjaHpBdGwzeTlmWjdrSnVmTGZEdGFSV2RtQ1pHdVRSOHhHa2FNcU05OVZtNnpEUkotY1dqTFJMZy1XcHpNWXc2UDc0eVpCUmFyQm0wYWdWUGEtOXFZbGtibFVwNjNnV3Z3a2ZfZmFYanhSbVFTbzZOYjhPQnR4RzJ0U3gyZDFQSmdyNmE0UVBUOERmQWFqLVNLZGY5WUlTRGtPT1FGaDRIa1VDNDcyTHNPX2NXUjFRbXZjWUZiOU1MREREWGJOWWJPa05ZT3B5NVh6VkdaM2VrQTZpZkVtbF9tRFJMM3BHNkZ6YmQtVFhldTJISElBdjlSc29LeVpLZ24zWmhJNUpQcHF0d1hR?oc=5",
+            "publisher": "The Times of India"
           }
         ]
       }
@@ -3126,68 +3179,44 @@
     ]
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-25T11:06:55.905Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "final-student-led-rally-fills-belgrade",
-        "title": "Final student-led rally fills Belgrade",
-        "when": "2026-10-22",
+        "id": "nearly-two-years-of-student-led-protests",
+        "title": "Nearly two years of student-led protests",
+        "when": "ongoing",
         "place": "Belgrade",
-        "lat": 44.82,
+        "lat": 44.8,
         "lon": 20.46,
-        "what": "Thousands of student protesters gathered in Belgrade for the movement's last big rally before the snap election, turning street pressure into a final show of strength.",
-        "via": "street mobilisation, voter turnout",
+        "what": "Student-led protests that ran for almost two years weakened Vučić's once-tight grip on power and forced the snap general election.",
+        "via": "sustained street pressure",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Thousands gather at final student-led rally ahead of Serbia election",
-            "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Serbia: Student protesters flood Belgrade ahead of snap elections",
-            "url": "https://www.euronews.com/video/2026/10/22/serbia-student-protesters-flood-belgrade-ahead-of-snap-elections",
-            "publisher": "Euronews"
+            "title": "Aleksandar Vucic, Serbia’s longtime nationalist strongman, conceded defeat Sunday in a general election held after his once-tight grip on power was weakened by nearly two years of student-led protests. https://nyti.ms/4e1d0kN",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkxRRHdpOGpnbVBCSUx6dXE4cHRoa29tY2JyYVpxS3hYaTFGS3dZTzNwSzhlbEFSSnE2c3Frdnl5cnhZWFgtM1Z6Z2NhcHk5eEJGOUxrbFJUT2ZTWTJMWjlpdlV2ZGVkSkxsRk9QZWxZbkNBMGhhTzJsc1NhMDR2TEN4ejd3Q2tOb1ZxVnM5V2VsV3poNnZ3RGo0U29uT3NmVmtDcHp6eGlsSWRBd1pyTGlHNkJFd2JKeHk1MHhfaGlYUUpKX291VFk0eVI4aFlYVmZj?oc=5",
+            "publisher": "Facebook"
           }
         ]
       },
       {
-        "id": "race-with-vuc-ic-reported-neck-and-neck",
-        "title": "Race with Vučić reported neck-and-neck",
-        "when": "2026-10-23",
+        "id": "evangelical-backing-for-the-student-movement",
+        "title": "Evangelical backing for the student movement",
+        "when": "ongoing",
         "place": "Serbia",
         "lat": 44.8,
         "lon": 20.46,
-        "what": "BBC reports the student movement has taken Vučić to the wire, with the election described as neck-and-neck going into the vote.",
-        "via": "tight race, opposition momentum",
+        "what": "The student movement drew support from evangelical Christians, widening its appeal beyond its student base ahead of the vote.",
+        "via": "broader voter coalition",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-            "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC World"
-          }
-        ]
-      },
-      {
-        "id": "european-student-protests-target-serbia-s-election",
-        "title": "European student protests target Serbia's election",
-        "when": "2026-10-24",
-        "place": "Europe",
-        "lat": 50,
-        "lon": 10,
-        "what": "Student protests in several European countries took aim at Serbia's elections, adding outside attention and solidarity to the domestic student campaign.",
-        "via": "international student solidarity",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "European student protests take aim at Serbia's elections",
-            "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-            "publisher": "NPR World"
+            "title": "Serbia's Vučić concedes election to student movement that drew evangelical support",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWWlCZHdXbUhDc0x1enZ1d2pCdnhIbDlwdElCalZ6WXZsaXVqR1N4ZF9aUDZkTzBzX3VzNnBmUVcxNHBzLUJTNnUxOHNsUEVRQVR4a0lHMXdlMVc4dy00UndTeEVMMUVjTTV2OWx3NGI4WnJFZnhrMGZxVlZkaHYwRGJ5a3FDQ25RM0NkUnFfS3Bzbm80RDVxbXU0eHBadjNsRExSSWQyXzZ4OGZzWHczQ1NQLWZKWE8zWUE?oc=5",
+            "publisher": "www.christiandaily.com"
           }
         ]
       }
@@ -3295,67 +3324,19 @@
     ]
   },
   "west-bank-lockdown-hebron-2026": {
-    "at": "2026-10-25T11:06:55.905Z",
+    "at": "2026-10-26T00:03:19.315Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "two-israeli-soldiers-shot-dead-at-checkpoint",
-        "title": "Two Israeli soldiers shot dead at checkpoint",
-        "when": "2026-10-23",
+        "id": "two-israeli-soldiers-shot-dead-in-hebron",
+        "title": "Two Israeli soldiers shot dead in Hebron",
+        "when": "2026-10-24",
         "place": "Hebron, West Bank",
         "lat": 31.53,
         "lon": 35.1,
-        "what": "A deadly attack on a West Bank checkpoint killed two Israeli soldiers, and the Israeli prime minister pledged a massive military operation in response.",
+        "what": "Two Israeli soldiers were killed in a shooting in Hebron, after which Israel removed about 250 Palestinian families from the city.",
         "via": "retaliation after soldier deaths",
         "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-            "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
-            "publisher": "NPR World"
-          }
-        ]
-      },
-      {
-        "id": "closure-of-all-west-bank-land-crossings",
-        "title": "Closure of all West Bank land crossings",
-        "when": "2026-10-24",
-        "place": "West Bank",
-        "lat": 31.9,
-        "lon": 35.2,
-        "what": "Israel announced it would close all West Bank land crossings on election day as the crackdown escalated.",
-        "via": "restricted Palestinian movement",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
-            "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-            "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC World"
-          },
-          {
-            "title": "Israel to close all West Bank land crossings on election day",
-            "url": "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day",
-            "publisher": "France 24"
-          }
-        ]
-      },
-      {
-        "id": "around-250-families-removed-from-hebron",
-        "title": "Around 250 families removed from Hebron",
-        "when": "2026-10-24",
-        "place": "Hebron, West Bank",
-        "lat": 31.53,
-        "lon": 35.1,
-        "what": "Israel removed about 250 Palestinian families from Hebron after the soldier deaths, with France 24 reporting around 2,000 people displaced.",
-        "via": "mass forced displacement",
-        "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
@@ -3364,52 +3345,57 @@
             "publisher": "Euronews"
           },
           {
-            "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
-            "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
-            "publisher": "France 24"
+            "title": "Israel orders West Bank crossings to close on election day following Hebron shooting",
+            "url": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting",
+            "publisher": "Euronews"
           }
         ]
       },
       {
-        "id": "israeli-forces-raze-hebron-neighbourhood",
-        "title": "Israeli forces raze Hebron neighbourhood",
+        "id": "knesset-election-days-away",
+        "title": "Knesset election days away",
         "when": "2026-10-25",
-        "place": "Hebron, West Bank",
-        "lat": 31.53,
-        "lon": 35.1,
-        "what": "Israeli soldiers began demolitions and razed a Hebron neighbourhood, driving families from their homes.",
-        "via": "demolished homes and buildings",
-        "aspect": "living",
+        "place": "Israel",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "The West Bank operation is running days before Israel's election, and the army has ordered all land crossings closed on election day.",
+        "via": "election-season security pressure",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
-            "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
-            "publisher": "The Guardian World"
+            "title": "Israeli military conducts massive West Bank operation, days before Israel election",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWhfd2JWYmM3M2d3dzZydkpCNUdUYlhPOHFYSjZ5cVo0eHRaMmlaRlc1VW5yWDNNM0RyT21aMnNjZVIzWVpmbWM3MGRxZGYtWmI5dlRSYmtyd21fSTgzbGlKc2JmMHE4b3A1S1dZa2RGamJ1MnI3RUc2dUlvZGFGYkZ5MFNNUTlxNFE?oc=5",
+            "publisher": "CBC"
           },
           {
-            "title": "Israel begins demolitions in West Bank",
-            "url": "https://www.france24.com/en/israel-begins-demolitions-in-west-bank",
-            "publisher": "France 24"
+            "title": "Israel to close West Bank crossings on election day as military operation continues",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zVC1jMGp0Ry1tVFlvNnlJY2RPRm50b1FoTUhaQXhBbjlLdGJnTWduVjlvM0pLVHVRZmlmR2NkcDFscFNIQ3dOdkVSZWFqVFRQQ2tLSEg3MUlUQQ?oc=5",
+            "publisher": "CBC"
+          },
+          {
+            "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+            "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+            "publisher": "BBC World"
           }
         ]
       },
       {
-        "id": "hebron-homes-turned-into-military-posts",
-        "title": "Hebron homes turned into military posts",
+        "id": "idf-pushes-to-call-hebron-attack-a-clash",
+        "title": "IDF pushes to call Hebron attack a clash",
         "when": "2026-10-25",
         "place": "Hebron, West Bank",
         "lat": 31.53,
         "lon": 35.1,
-        "what": "Israeli forces took over Palestinian homes in Hebron and converted them into military posts during the lockdown.",
-        "via": "expanded troop presence",
+        "what": "The Israeli military is pushing for the Hebron attack to be classified as a clash between soldiers and militants rather than as terror.",
+        "via": "military framing of the attack",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
-            "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
-            "publisher": "Al Jazeera"
+            "title": "IDF pushing for Hebron attack to be classified as clash between soldiers, terrorists, not terror",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSy1ZT1JFdE5lUjAzb2hDWTVaa2tCVDFMM240MmZLMUlfRDhDZklHRkNSdkNMYzV3dkZrWDgwNnNWVDVJaHR0VWx2bk1ubm81dnRxalN3NjFxUzdiRnhPenpxMUxIdUxid2w0UW13?oc=5",
+            "publisher": "The Jerusalem Post"
           }
         ]
       }
