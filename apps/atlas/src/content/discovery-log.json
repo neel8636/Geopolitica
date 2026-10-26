@@ -2820,6 +2820,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-26T02:03:28.161Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-26T00:32:52.254Z",
       "screened": 0,
       "accepted": [],
@@ -4436,119 +4445,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 38 min ago"
-    },
-    {
-      "at": "2026-10-24T11:01:25.093Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Typhoon Champi hits Taiwan",
-          "reason": "It is a natural disaster with local casualties and no clear cross-border or policy effect.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Gunmen kill mourners at church funeral in Jordan",
-          "reason": "It is a violent crime with no stated state-level or cross-border ripple.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Fire at Hitler's Eagle's Nest retreat",
-          "reason": "It is a local crime story with no geopolitical effect.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Building collapse in Nairobi",
-          "reason": "It is a local accident with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Albanian student protests and parliament scuffle",
-          "reason": "It is domestic unrest with no clear cross-border channel or nationwide contest over state power.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Magnitude 7 earthquake in Tibet",
-          "reason": "It is a natural disaster with no cross-border or policy ripple.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "US designates helium as a critical material",
-          "reason": "The headline gives no dated decision or concrete cross-border effect, only a vague supply squeeze.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Ukraine says Starlink still restricted",
-          "reason": "It is a dispute over a company's service claims, not a clear state decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Pentagon labels China-backed campus centers a threat",
-          "reason": "It is a symbolic designation with no clear flow of money, goods or people.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UN food aid cuts hit displaced West Bank Palestinians",
-          "reason": "It is a humanitarian report with no clear cross-border decision or scale beyond the local area.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "White House lifts tariffs on some Canadian goods",
-          "reason": "This is a development in the US-Canada tariff war already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-canada-trade-war"
-        },
-        {
-          "title": "US DoJ actions on California ballots and Alaska certification",
-          "reason": "Both are part of the US midterm election story already mapped.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump threatens another strike on Iran; Gulf reinforcements; Qatar buys US gas",
-          "reason": "These are all part of the Iran war and Gulf energy shock already on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "EU states wrangle over the 2028-2034 budget",
-          "reason": "This is part of the EU budget negotiations already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "eu-budget-2028-2034"
-        },
-        {
-          "title": "French bonds face a stress test",
-          "reason": "This is part of the French bond stress event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Ukraine hit by strikes after Russia agrees to new talks",
-          "reason": "This belongs to the Ukraine peace-talks diplomacy already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
