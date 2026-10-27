@@ -153,9 +153,9 @@
     "headlines": []
   },
   "france-debt-stress": {
-    "at": "2026-10-27T06:04:59.755Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "1q8428d",
+    "hash": "19ezq2n",
     "tags": [],
     "headlines": []
   },
@@ -181,97 +181,90 @@
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "1ug2h92",
+    "hash": "1sgczmo",
     "tags": [],
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-27T14:05:38.866Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "hu0pjz",
+    "hash": "11vm6lh",
     "tags": [],
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-27T14:05:38.866Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "1rfkyqa",
+    "hash": "1vjpdbn",
     "tags": [],
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-10-27T14:05:38.866Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "1k79pqr",
+    "hash": "5q3pos",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-27T14:05:38.866Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "10gnnes",
+    "hash": "n8jfmd",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.92,
+        "likelihood": 0.95,
         "delayDays": [
           3,
           10
         ],
         "costPct": [
           15,
-          40
+          60
         ],
-        "why": "Gulf exports through Hormuz are running at only 60-80% of normal, and on 2026-10-27 Iran's army reported a tanker on fire after hitting mines in the strait, so transit is still disrupted and war-risk costs are high.",
-        "action": "Ask your forwarder or carrier now for the current war-risk surcharge and transit status on Hormuz-routed bookings, and add at least 10 days of buffer stock for cargo that must pass the strait.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of late October 2026, Qatar is urging Iran to reopen the strait, and a tanker is reported on fire after hitting mines, so transits face queues, war-risk premiums and rerouting.",
+        "action": "Ask your forwarder for current war-risk surcharges and the sailing status of Hormuz-bound bookings, and add at least 10 days of buffer stock for cargo that must transit the strait.",
         "sources": [
           0,
-          3,
-          1,
-          2
+          2,
+          1
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
-        "likelihood": 0.65,
+        "effect": "delay",
+        "likelihood": 0.7,
         "delayDays": [
-          2,
-          7
+          3,
+          10
         ],
         "costPct": [
           10,
-          30
+          35
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where mine incidents and 60-80% flow levels as of 2026-10-27 mean vessel delays and war-risk surcharges for cargo calling there.",
-        "action": "Ask your forwarder about carrier schedule reliability and war-risk surcharges for Jebel Ali calls, and price an alternative routing such as an Oman or Red Sea port with overland trucking to the UAE.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where restricted and mine-threatened transits as of late October 2026 are slowing vessel arrivals and raising insurance and surcharge costs for containers.",
+        "action": "Ask your forwarder to quote a fallback through Khor Fakkan or Fujairah with trucking to Dubai, and to confirm vessel schedules before you commit cargo to Jebel Ali.",
         "sources": [
           0,
-          3
+          2
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Iran army says oil tanker on fire after hitting mines in Hormuz",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45VWkyTG9Wdm9wRWQ4TDRDQm8tV2pYOWJVSWN1UHlaanF1elVUQWhZSmtQT2tNUnE2UkwyRnVBcWhkM3FQY3BOdDhCdzZTcnZVSGNvSmY0NA?oc=5",
-        "publisher": "Bangladesh Sangbad Sangstha (BSS)",
-        "published": "2026-10-27T13:35:52.000Z"
+        "title": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
+        "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
+        "publisher": "Euronews",
+        "published": "2026-10-27T17:04:21.000Z"
       },
       {
-        "title": "OPEC+ set to keep December oil output targets steady amid Iran war disruptions",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWZUandqX0hjZWY0S2VJaC1ZeS1jaG1KVFVCR2hHbUlMNmlHUnlFZlI5aUdjSEdUOTNvNGpYQjZhUzliT0gxTVl1QmdBbXVSTTRSd1l5bEVzZzNaRktoSE9sVkRQeEVBZnd4RC1PX0JSU05XSDM1S3BJT1doZXIwVHI0Y1NlUG0yVlpaYWFRZlFZcXhzYmxxbndEbHU3TVpEUjRTUWdSNWxVbVE0bjAyTy1JTE9FaGVHQVYyWllQUVFqZXZ30gHKAUFVX3lxTE5fQVZtZDJ5eFJseTlkVkc4WjRyTWdLSVJyZGhTa1NUcUVuZWVEMG9KMlEzdVYyUmtNa2NQWEVjTzFPZDJTLVRocW1lRWMycElyT2ZYZlltVVd1VlF3UUdfSm1NcmtRZGh6S3YyNVpicWY4ZGM2ckI2RGFEczVab3prLU16SjM5ZnZ2S1Y2WFBDVXB2WmF4NWdTZEpxbDM3b1F5Ymk5NFEtOEIzUUhIQXBSTW54QURIaUJBdUplYnNaQk9ESXMzNXpkRUE?oc=5",
-        "publisher": "Firstpost",
-        "published": "2026-10-27T11:57:18.000Z"
-      },
-      {
-        "title": "OPEC+ Members Likely to Hold December Oil Production Targets as Gulf Exports Recover",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTAyUWtMUnFpNXJrS195ckxBNWYydEZnZnRPbmJIZURBR2RvN1hPQjFIN19PN1FUTGdsZE1zYmlJbjY0YXhNajBPY01XNUJlMGdXV28xNDZqZV9HYmNmQmdwb1FHX0xyQ21sQ3p4ZXo2V2V6d2JldHZjLUNWNXpSTlRYazJvQ2hxZEE?oc=5",
-        "publisher": "Yahoo Finance UK",
-        "published": "2026-10-27T10:40:56.000Z"
+        "title": "OPEC Set to Keep Oil Quotas Unchanged",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0UtbWpzVjNWQXd1Zm1xcmNZWmgxVDh2NFdUZVdzWE1odlBFV0E5bUYtaGFWaUtHXzZqRkpEWnY0WWZEcXg5TVhGR2stUDNEd2x4dWdqclRCa2dfN1NHTjJGYUxfV1BBa3p1cDExdDhyTWVyYms0TTRUOUY4Q3VuVFNFWVItSWdEblhkeHN6SU5tV2t2TV8yedIBngFBVV95cUxPd2ZwVTZhTVZ6eDFCSk5KbGF6akt0YTNqRExUWXROd0NvXzM5bnRPWTgyU1pldkw0VHE0MS1lMHp1UmZqWmJRM05jU2Q0Nk1QaHhocFZVZFlUeTVhd0Y4T01OVEZjNGk4cEVCUWRfMGk1OUhzbW02YVFRRU02NFZfSFBwV0xuZ2llcU5BZWpRR0hpdnhnTzFWdDRMS2RCUQ?oc=5",
+        "publisher": "Crude Oil Prices Today | OilPrice.com",
+        "published": "2026-10-27T14:30:00.000Z"
       },
       {
         "title": "OPEC Meets November 1 With Saudi Quota at 10.5 mb/d and Hormuz Closed",
@@ -289,9 +282,9 @@
     "headlines": []
   },
   "italy-election-2027": {
-    "at": "2026-10-27T14:05:38.866Z",
+    "at": "2026-10-27T20:06:00.433Z",
     "by": "pipeline",
-    "hash": "zp7zip",
+    "hash": "ogjl4m",
     "tags": [],
     "headlines": []
   },
