@@ -1,8 +1,8 @@
 {
   "slug": "venezuela-oil-reopening",
   "title": "Venezuela touts $76bn oil investment under US-backed interim rule",
-  "deck": "Acting president Delcy Rodríguez says signed deals will bring nearly $76 billion of oil investment in five years, a US-backed bet that Venezuelan heavy crude can ease an energy shock, though pledges are not barrels and the geopolitics are as important as the geology.",
-  "updated": "2026-10-19",
+  "deck": "Nine months after US forces captured Nicolás Maduro, Washington is steering Venezuelan heavy crude and Western capital into the country's oilfields to ease an Iran-war fuel squeeze, while China is shut out and the opposition is back on the scene.",
+  "updated": "2026-10-27",
   "status": "developing",
   "region": "Venezuela, United States",
   "tags": [
@@ -10,42 +10,68 @@
     "sanctions",
     "Venezuela",
     "US politics",
-    "energy security",
-    "China"
+    "Gulf energy shock",
+    "investment"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 18
   },
+  "fuel": [
+    {
+      "aspect": "budget",
+      "title": "Chevron to self-fund $7bn Venezuela investment",
+      "how": "The money comes from Chevron's existing Venezuelan revenue, not a bailout or government budget, so the ramp-up leans on company cash flow.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "energy",
+      "title": "UAE and Qatari firms join BP-led gas deal",
+      "how": "Gulf investors entering through a BP-led gas deal widen the pool of foreign capital beyond the US and European oil majors.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "trade",
+      "title": "Oil exports top 1 million bpd again",
+      "how": "Shipping data show exports passing 1 million barrels a day for the first time in six months, which brings in the revenue that makes investment pay.",
+      "sourceIndex": 4
+    },
+    {
+      "aspect": "politics",
+      "title": "US bars China from Venezuelan oil revenue",
+      "how": "Energy Secretary Wright's statement sets who may share in the investment, and Machado's call for talks with Rodríguez adds political risk to the same deals.",
+      "sourceIndex": 5
+    }
+  ],
   "card": {
-    "headline": "Venezuela says 61 signed oil deals will bring nearly $76bn over five years, with US firms inside and China shut out",
+    "headline": "Venezuela's oil is reopening to Western firms on US terms, and the deals are signed faster than the oil is pumped",
     "keyNumber": {
       "value": "$76bn",
-      "label": "nearly, in oil investment over five years from 61 signed agreements (17 with the United States), per acting president Delcy Rodríguez on 17 October",
+      "label": "oil investment over five years, from 61 signed agreements (17 with US firms), per acting president Delcy Rodríguez on 17 October",
       "sourceIndex": 0
     },
     "impactMeter": 3,
     "forYou": [
       {
         "role": "Energy and refining",
-        "line": "Venezuelan heavy crude is being fast-tracked to US Gulf Coast refiners; output was 1.206 million barrels a day in September, up about 30% this year."
+        "line": "Heavy-crude supply to Gulf Coast refiners is rising from a low base: Venezuela reported 1.206 million barrels a day in September, up about 30% this year."
       },
       {
         "role": "Investors",
-        "line": "Six majors hold licences under US General License 50C: BP, Chevron, Eni, Maurel & Prom, Repsol and Shell. Treat the $76bn as a pledge, not spending."
+        "line": "Chevron says it will fund $7bn from existing Venezuelan revenue. Expect many signed deals and slower real spending."
       },
       {
-        "role": "Trade and China exposure",
-        "line": "General License 50C excludes China, Russia and Iran, cutting off a crude supplier China had financed for about two decades."
+        "role": "Drivers and households",
+        "line": "The US pitch is cheaper diesel. Venezuela alone cannot offset the Gulf shock, and any pump-price effect before 3 November is likely small."
       },
       {
-        "role": "US voters and drivers",
-        "line": "Trump sells the deal as fuel-price relief before the 3 November midterms. Any effect on pump prices will be small and slow."
+        "role": "Companies tied to China, Russia or Iran",
+        "line": "US General License 50C excludes them, and Wright says China will have no claim on the oil revenue."
       },
       {
         "role": "Everyone",
-        "line": "The oil is real but the ramp-up is not instant. Political risk in Caracas is the main thing that could stall it."
+        "line": "The deals rest on an interim government and a returning opposition leader. A political break would hit the whole plan."
       }
     ],
     "ripple": [
@@ -53,16 +79,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "61 agreements signed, 17 with the United States, said to be worth nearly $76bn over five years; 44 more deals worth about $12bn are in talks",
-            "sector": "Oil and gas"
+            "text": "Chevron commits $7bn, funded from its existing Venezuelan operations",
+            "sector": "Company capital"
           },
           {
-            "text": "US General License 50C licenses six Western firms and excludes China, Russia and Iran",
-            "sector": "Sanctions"
+            "text": "UAE and Qatari firms make their Venezuela debut through a BP-led gas deal",
+            "sector": "Energy"
           },
           {
-            "text": "Output reached 1.206 million barrels a day in September, up about 30% this year",
-            "sector": "Oil production"
+            "text": "Oil exports pass 1 million bpd for the first time in six months; September output was 1.206 million bpd",
+            "sector": "Trade and shipping"
+          },
+          {
+            "text": "US licences cover BP, Chevron, Eni, Maurel & Prom, Repsol and Shell and exclude China, Russia and Iran",
+            "sector": "Politics"
           }
         ]
       },
@@ -70,20 +100,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "More heavy crude heads to US Gulf Coast refineries, offsetting part of the Hormuz disruption",
-            "sector": "Refining, energy security"
+            "text": "More Venezuelan heavy crude reaches US Gulf Coast refiners and European buyers such as Spain, easing part of the Hormuz shortfall",
+            "sector": "Energy"
           },
           {
-            "text": "Demand rises for drilling, pipeline and field-service work inside Venezuela",
+            "text": "Oil-service firms sign long contracts with PDVSA, including a five-year deal with Swiss engineer Sulzer",
             "sector": "Oilfield services"
           },
           {
-            "text": "China loses a crude source it financed for two decades and must buy elsewhere",
-            "sector": "Trade, China"
+            "text": "Power shortages and ageing infrastructure push Caracas to ask producers to supply their own electricity",
+            "sector": "Power"
           },
           {
-            "text": "Venezuelan state revenue and foreign exchange should improve if production keeps rising",
-            "sector": "Venezuelan economy"
+            "text": "China loses a path to Venezuelan barrels and revenue",
+            "sector": "Geopolitics"
           }
         ]
       },
@@ -91,20 +121,20 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Trump gets a fuel-price talking point just before 3 November, though the real pump effect is likely modest",
+            "text": "A Venezuelan recovery caps some of the Gulf-driven diesel spike, but only at the margin and over years",
+            "sector": "Living costs"
+          },
+          {
+            "text": "Trump's fuel-price pitch is tested at the 3 November midterms",
             "sector": "US politics"
           },
           {
-            "text": "Washington's Caracas intervention becomes a model, or a warning, for Latin American alignment, including in Brazil's 25 October run-off",
-            "sector": "Geopolitics"
+            "text": "Machado's push for talks with Rodríguez decides whether investors see a stable transition or a risk of rupture",
+            "sector": "Markets"
           },
           {
-            "text": "Russia and Iran lose a sanctioned-oil partner as the US pulls Venezuela into its orbit",
-            "sector": "Geopolitics"
-          },
-          {
-            "text": "A durable Venezuelan recovery would weigh on global oil prices over years, if it happens",
-            "sector": "Global oil market"
+            "text": "Other Latin American governments watch a US strategy that pairs regime change, licences and investment",
+            "sector": "Regional politics"
           }
         ]
       }
@@ -112,95 +142,101 @@
   },
   "brief": {
     "whatHappened": [
-      "On 17 October 2026, at an energy conference in Maracaibo, acting president Delcy Rodríguez said Venezuela had signed 61 oil agreements, 17 of them with the United States. She said these should bring nearly $76 billion of investment over five years. A further 44 deals, worth about $12 billion, are in negotiation.",
-      "Rodríguez has led Venezuela since US forces captured Nicolás Maduro on 3 January 2026. On 28 August, Donald Trump announced a US-Venezuela deal covering 17 fields. US General License 50C licenses BP, Chevron, Eni, Maurel & Prom, Repsol and Shell to operate, and excludes China, Russia and Iran.",
-      "Venezuela reported output of 1.206 million barrels a day in September, up about 30% this year. That implies a start-of-year level near 0.93 million (our estimate, not a reported figure)."
+      "On 17 October, Venezuela's acting president Delcy Rodríguez told an energy conference in Maracaibo that 61 signed agreements, 17 of them with US firms, should bring nearly $76 billion of oil investment over five years. Another 44 deals worth about $12 billion are in talks.",
+      "Rodríguez has led the country since US forces captured Nicolás Maduro on 3 January 2026. Trump announced a US-Venezuela deal on 28 August covering 17 fields. US General License 50C licenses BP, Chevron, Eni, Maurel & Prom, Repsol and Shell and excludes China, Russia and Iran.",
+      "Production is up. Venezuela reported 1.206 million barrels a day in September, about 30% more than at the start of the year. By 26 October, shipping data showed exports above 1 million bpd for the first time in six months. Chevron's CEO said the company will fund $7 billion in Venezuela from revenue from its existing operations there.",
+      "The politics moved too. Opposition leader María Corina Machado, back from exile, is seeking talks with Rodríguez. US Energy Secretary Chris Wright said China will have no claim to Venezuelan oil revenue."
     ],
     "whyItMatters": [
-      "The oil market is under strain. Strikes on Iran that began in late February 2026 have kept oil and freight costs high for eight months, and French diesel hit a record EUR 2.41 a litre in September. Washington is fast-tracking Venezuelan heavy crude to Gulf Coast refineries partly to offset the Hormuz disruption and lower US diesel prices.",
-      "The politics are tight. Trump bills the August deal as fuel-price relief before the 3 November midterms, where high pump prices are hurting Republicans. Whether the crude arrives fast enough to change the mood is doubtful.",
-      "The deal also redraws who sells oil to whom. Excluding Chinese firms cuts off a supplier China had financed for about two decades. It fits a wider US push to realign Latin American governments, the same driver behind Washington's backing of Flávio Bolsonaro in Brazil."
+      "Money: Chevron's $7bn is self-funded, drawn from what it already earns in Venezuela. That makes the plan less dependent on outside financing. It also means spending depends on Chevron's cash flow and its view of the risks. The $76bn headline is an official figure for signed agreements over five years, not money already spent.",
+      "Energy: The US wants heavy crude for Gulf Coast refineries because the Iran war, which began on 28 February, has disrupted flows through Hormuz and kept oil and freight costs high. UAE and Qatari firms joining a BP-led gas deal widens the investor base. Output is still modest. Goldman Sachs reportedly sees it rising but a return to pre-2018 levels as unlikely.",
+      "Trade: Exports passing 1 million bpd for the first time in six months suggests the licences are starting to move barrels. Higher exports mean more revenue for Caracas and more supply for buyers in the US and Europe, with Spain's imports reportedly at a 20-year high.",
+      "Politics: Washington is deciding who gets in. Wright says China gets no claim to the revenue. All of it rests on an interim government created by a US military operation. Machado's return and her bid for talks with Rodríguez could steady the transition or unsettle it. Investors will watch that closely. The deals are also tied to the 3 November US midterms, where pump prices are a dominant issue."
     ],
     "winners": [
       {
-        "who": "Licensed Western majors (BP, Chevron, Eni, Maurel & Prom, Repsol, Shell)",
-        "why": "They get access to Venezuelan fields under US licence, with Chinese, Russian and Iranian rivals shut out."
+        "who": "Chevron, Shell, BP, Eni, Repsol and Maurel & Prom",
+        "why": "They hold licences under General License 50C and are first in line for fields. Chevron and Shell are reported to be closing in on the first big production deals."
       },
       {
         "who": "US Gulf Coast refiners",
-        "why": "Venezuelan heavy crude is a natural fit for refineries built to process it, and supply is being fast-tracked."
+        "why": "They are built for heavy crude and get a nearby source as Middle East supply is disrupted."
+      },
+      {
+        "who": "Oilfield service firms",
+        "why": "Contracts such as Sulzer's five-year PDVSA deal show a rebuild order book forming."
       },
       {
         "who": "Delcy Rodríguez's interim government",
-        "why": "Investment pledges and rising output give it revenue prospects and a claim to competence."
+        "why": "Rising exports and signed deals bring revenue and political cover from Washington."
       },
       {
         "who": "The Trump administration",
-        "why": "It gets an energy-price story before the midterms, though the real effect is likely small."
+        "why": "It can point to a supply response before the midterms, though the effect on pump prices is limited."
       }
     ],
     "losers": [
       {
-        "who": "China",
-        "why": "It loses a crude supplier it financed for about two decades, and its lending there may be hard to recover (our inference)."
+        "who": "China, Russia and Iran",
+        "why": "They are excluded from licences and, in China's case, from any claim on oil revenue."
       },
       {
-        "who": "Russia and Iran",
-        "why": "Both are explicitly excluded from the licensed sector and lose an ally-adjacent producer."
+        "who": "Some other oil producers",
+        "why": "Reports flag red flags for some major producers as Venezuelan barrels compete in the heavy-crude market."
       },
       {
-        "who": "Venezuelans who see the deals as foreign control of national resources",
-        "why": "The arrangement is US-backed and was born of a military intervention; legitimacy is contested (our judgement)."
+        "who": "Venezuelans sceptical of the deals",
+        "why": "Critics call it a giveaway that could become a major uncertainty, and the benefits may not reach households soon."
       },
       {
-        "who": "Rival oil exporters in the long run",
-        "why": "A sustained Venezuelan recovery would add supply and press prices, though only over years."
+        "who": "Investors who exit under pressure",
+        "why": "A report says Sargeant is leaving its Venezuela oil stake amid a pressure campaign, a sign of how politicised the sector is."
       }
     ],
     "whatsNext": [
-      "25 October: Brazil's presidential run-off, a test of the US realignment push.",
-      "3 November: US midterms, where fuel prices are a dominant issue.",
-      "Monthly: Venezuela's output figures, the best check on whether pledges become barrels.",
-      "Coming months: whether the 44 deals in talks get signed, and whether any signed deals turn into spending."
+      "More deals: 44 further agreements worth about $12bn are in talks, and Chevron and Shell are reported close to major production deals.",
+      "3 November: US midterm elections. Trump has sold the Venezuela deal as fuel-price relief.",
+      "Monthly output and export data will show whether the 1.206 million bpd September figure is a floor or a blip.",
+      "Politics: whether Rodríguez accepts talks with Machado, and whether Washington keeps backing the interim arrangement."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely path for Venezuelan oil over the next year?",
+      "question": "Before you read the scenarios: how fast will Venezuelan oil production recover over the next year?",
       "options": [
-        "A rapid surge that visibly lowers global prices",
-        "A gradual ramp-up, with pledges converting slowly",
-        "A stall as politics or infrastructure problems bite",
-        "A collapse of the US-backed arrangement"
+        "Back above pre-2018 levels",
+        "Steady but modest gains, held back by power and politics",
+        "Collapse as the political deal fails",
+        "No change from today"
       ],
       "answerIndex": 1,
-      "explanation": "Our base case, at about 45%, is a gradual ramp. Output keeps rising from the 1.206 million barrels a day reported for September, but pledges convert to spending slowly and the global price effect stays small. A stall is the next most likely path at about 25%."
+      "explanation": "Our base case, at about 50%, is a slow, patchy ramp. Output rises from today's roughly 1.2 million bpd, limited by electricity, ageing infrastructure and political risk. This is author judgement, in line with reports that Goldman Sachs sees rising but still limited output."
     },
     "recap": [
       {
-        "question": "How much oil investment does Rodríguez say the 61 agreements should bring over five years?",
+        "question": "How much investment does Venezuela say its 61 agreements should bring over five years?",
         "options": [
           "About $12 billion",
           "Nearly $76 billion",
-          "About $120 billion"
+          "About $7 billion"
         ],
         "answerIndex": 1
       },
       {
-        "question": "Which countries are excluded from US General License 50C?",
+        "question": "Which countries does US General License 50C exclude?",
         "options": [
           "China, Russia and Iran",
-          "Brazil, Cuba and Iran",
-          "China, India and Russia"
+          "Spain, Italy and France",
+          "Brazil and Colombia"
         ],
         "answerIndex": 0
       },
       {
-        "question": "What was Venezuela's reported September oil output?",
+        "question": "How will Chevron fund its $7 billion Venezuela investment?",
         "options": [
-          "0.93 million barrels a day",
-          "1.206 million barrels a day",
-          "3.2 million barrels a day"
+          "A US government loan",
+          "New bonds",
+          "Revenue from its existing Venezuelan operations"
         ],
-        "answerIndex": 1
+        "answerIndex": 2
       }
     ]
   },
@@ -209,41 +245,70 @@
       {
         "date": "2026-01-03",
         "title": "US forces capture Nicolás Maduro",
-        "detail": "Delcy Rodríguez becomes acting president and has led Venezuela since.",
+        "detail": "Delcy Rodríguez becomes acting president under a US-backed interim arrangement.",
         "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-02-27",
-        "title": "Strikes on Iran begin",
-        "detail": "Oil and freight costs stay elevated for eight months. Sources in our material give 27 or 28 February for the start; we use 27 February.",
-        "turning": true
+        "date": "2026-02-28",
+        "title": "US-Israel strikes on Iran begin",
+        "detail": "Oil and freight costs have stayed high for eight months, raising Washington's interest in Venezuelan heavy crude."
       },
       {
         "date": "2026-08-28",
         "title": "Trump announces US-Venezuela oil deal",
-        "detail": "The deal covers 17 fields. General License 50C licenses BP, Chevron, Eni, Maurel & Prom, Repsol and Shell and excludes China, Russia and Iran.",
-        "sourceIndex": 1,
+        "detail": "It covers 17 fields and is billed as fuel-price relief ahead of the midterms.",
+        "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-09-30",
-        "title": "September output reported at 1.206 million barrels a day",
-        "detail": "Venezuela reports production up about 30% this year. The reporting date is approximate; the figure is for the month of September.",
-        "sourceIndex": 1
+        "title": "September output reported at 1.206 million bpd",
+        "detail": "The figure is up about 30% this year. The date is the end of the reporting month.",
+        "sourceIndex": 0
       },
       {
         "date": "2026-10-17",
-        "title": "Rodríguez touts $76bn at Maracaibo conference",
-        "detail": "61 signed agreements, 17 with the United States, with 44 more worth about $12bn in talks.",
+        "title": "Rodríguez cites 61 agreements and $76bn",
+        "detail": "She says 17 of the deals are with US firms and 44 more worth about $12bn are in talks. The conference was in Maracaibo.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-18",
-        "title": "Deal figures reach international press",
-        "detail": "Outlets including The Rio Times and VOV World relay the government's numbers.",
+        "title": "Regional and international press report the figures",
+        "detail": "Outlets including The Rio Times and VOV World carry the $76bn claim.",
         "sourceIndex": 1
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Chevron says it will fund $7bn from existing operations",
+        "detail": "The same day, shipping data show exports above 1 million bpd for the first time in six months.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-26",
+        "title": "UAE and Qatari firms enter through a BP-led gas deal",
+        "detail": "This widens the foreign investor base beyond the Western majors.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Wright says China has no claim to Venezuelan oil revenue",
+        "detail": "The statement sets the terms for who shares in the investment.",
+        "sourceIndex": 5,
+        "turning": true
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Machado seeks talks with Rodríguez",
+        "detail": "The opposition leader, back from exile, offers to negotiate. The EU welcomes her and calls for free and fair elections.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Sulzer signs five-year deal with PDVSA",
+        "detail": "The Swiss engineering firm's contract is another sign of a rebuild order book forming."
       }
     ],
     "causes": [
@@ -252,30 +317,30 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "Decline of Venezuelan output",
-            "detail": "Venezuela once produced far more oil than today. From the 2010s, mismanagement, underinvestment and US sanctions drove output down sharply (background knowledge; exact figures not in our sources)."
+            "name": "Decayed oil industry",
+            "detail": "Venezuelan output fell well below its earlier levels under mismanagement and sanctions, leaving fields, power and pipelines in poor condition."
           },
           {
-            "name": "Heavy crude and Gulf Coast refiners",
-            "detail": "Venezuelan oil is mostly heavy crude, which many US Gulf Coast refineries were built to process (background knowledge)."
+            "name": "Heavy-crude fit",
+            "detail": "US Gulf Coast refineries are configured for heavy oil, and Venezuela is close by."
           },
           {
-            "name": "Chinese financing",
-            "detail": "China financed Venezuelan oil for about two decades, so excluding Chinese firms is a deliberate geopolitical shift."
+            "name": "US sanctions leverage",
+            "detail": "Licences can be granted or withheld, so Washington controls who may invest."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "January to August 2026",
+        "when": "3 January 2026",
         "causes": [
           {
-            "name": "Maduro's capture",
-            "detail": "US forces captured Maduro on 3 January 2026, installing an interim government led by Delcy Rodríguez."
+            "name": "Capture of Maduro",
+            "detail": "US forces seized him and an interim government under Delcy Rodríguez took over with US backing."
           },
           {
-            "name": "The 28 August deal",
-            "detail": "Trump announced a deal covering 17 fields, then licensed six Western firms under General License 50C."
+            "name": "Licensing framework",
+            "detail": "General License 50C opened Venezuela to named Western firms and excluded China, Russia and Iran."
           }
         ]
       },
@@ -284,16 +349,20 @@
         "when": "February to October 2026",
         "causes": [
           {
-            "name": "Gulf energy shock",
-            "detail": "Strikes on Iran, renewed fighting in Yemen and attacks on Saudi energy infrastructure kept oil and freight costs high; French diesel hit a record EUR 2.41 a litre in September."
+            "name": "Iran war and Hormuz disruption",
+            "detail": "Strikes beginning 28 February kept oil and freight costs high and raised the value of any non-Gulf barrel."
           },
           {
-            "name": "US midterm pressure",
-            "detail": "High pump prices are hurting Republicans before 3 November, giving Washington reason to speed up Venezuelan supply."
+            "name": "Midterm pressure",
+            "detail": "High pump prices are hurting Republicans, so Trump has tied the August deal to fuel relief before 3 November."
           },
           {
-            "name": "Latin America realignment",
-            "detail": "The Caracas intervention and Trump's backing of Flávio Bolsonaro are part of the same push to realign Latin American governments."
+            "name": "Great-power competition",
+            "detail": "Washington wants to keep China out and pull Latin American governments into its orbit."
+          },
+          {
+            "name": "Investor momentum",
+            "detail": "A large first mover such as Chevron and the entry of Gulf firms encourage others to follow."
           }
         ]
       }
@@ -302,254 +371,274 @@
       {
         "name": "Delcy Rodríguez",
         "role": "Acting president of Venezuela",
-        "wants": "Investment, revenue and legitimacy for an interim government created by a US intervention",
-        "leverage": "Control over licences and contracts; the deal numbers she announces",
-        "likelyMove": "Keep touting signed deals and push for more, while avoiding unpopular concessions"
+        "wants": "Revenue, legitimacy and survival of the interim arrangement",
+        "leverage": "Control of PDVSA and access to the fields; she can sign or delay deals",
+        "likelyMove": "Keep announcing large investment totals and sign deals with Western firms"
       },
       {
-        "name": "Trump administration",
-        "role": "Sponsor of the interim arrangement",
-        "wants": "Lower fuel prices before 3 November, and a realigned Latin America",
-        "leverage": "Sanctions licences such as General License 50C, which can be widened or withdrawn",
-        "likelyMove": "Promote the oil deal as price relief and tighten the licence if partners misbehave"
+        "name": "Trump administration, including Energy Secretary Chris Wright",
+        "role": "Architect of the arrangement",
+        "wants": "Lower fuel prices before the midterms and Chinese influence kept out",
+        "leverage": "Licences, sanctions and the threat of withdrawing support",
+        "likelyMove": "Keep publicising deals, defend the China exclusion and press for quick output gains"
       },
       {
-        "name": "Licensed majors (BP, Chevron, Eni, Maurel & Prom, Repsol, Shell)",
-        "role": "Foreign operators",
-        "wants": "Access to fields and returns with limited political and legal risk",
-        "leverage": "Capital and technical skill that Venezuela lacks",
-        "likelyMove": "Spend cautiously and stage investment, tying it to contract and licence stability (our judgement)"
+        "name": "Chevron, Shell, BP and the other licensed firms",
+        "role": "Investors",
+        "wants": "Returns, secure contracts and reduced political risk",
+        "leverage": "Capital and technical capacity; the pace of their spending sets the real ramp-up",
+        "likelyMove": "Self-fund in stages and avoid overcommitting while politics stay uncertain"
+      },
+      {
+        "name": "María Corina Machado",
+        "role": "Main opposition leader, returned from exile",
+        "wants": "A negotiated transition and elections",
+        "leverage": "Domestic and international standing; EU support for free elections",
+        "likelyMove": "Press for talks with Rodríguez while staying aligned with Washington's goals"
+      },
+      {
+        "name": "China",
+        "role": "Previously a major buyer and lender, now excluded",
+        "wants": "Recovery of its stake and continued access to oil",
+        "leverage": "Diplomatic weight and past claims on Venezuelan revenue",
+        "likelyMove": "Contest the exclusion diplomatically; unclear whether it has a practical response"
+      },
+      {
+        "name": "UAE and Qatari companies",
+        "role": "New entrants through a BP-led gas deal",
+        "wants": "A foothold in a reopening producer",
+        "leverage": "Deep capital and links to the Western majors",
+        "likelyMove": "Expand through partnerships rather than acting alone"
       },
       {
         "name": "US Gulf Coast refiners",
         "role": "Buyers of heavy crude",
-        "wants": "Reliable heavy crude to replace disrupted Gulf supply",
-        "leverage": "Purchasing power and processing capacity",
-        "likelyMove": "Increase Venezuelan purchases as cargoes become available"
-      },
-      {
-        "name": "China",
-        "role": "Former financier and buyer",
-        "wants": "Recover its past lending and keep crude access",
-        "leverage": "Past loans and large demand for crude",
-        "likelyMove": "Seek supplies elsewhere and contest the legitimacy of the interim government (our judgement)"
-      },
-      {
-        "name": "Russia and Iran",
-        "role": "Excluded parties",
-        "wants": "Retain a sanctioned-oil partner",
-        "leverage": "Limited; they have been shut out of licensed activity",
-        "likelyMove": "Criticise the arrangement and look for other friendly governments in the region"
+        "wants": "Reliable heavy barrels at good prices",
+        "leverage": "Demand and the ability to take larger volumes",
+        "likelyMove": "Take more Venezuelan cargoes as they come, reportedly pushing traders aside"
       }
     ],
     "sectors": [
       {
-        "sector": "Oilfield services",
-        "direction": "up",
-        "size": 2,
-        "why": "Drilling, pipelines and maintenance are needed to lift output beyond 1.206 million barrels a day."
-      },
-      {
-        "sector": "US Gulf Coast refiners",
-        "direction": "up",
-        "size": 2,
-        "why": "They gain access to heavy crude at a time of Gulf supply disruption."
-      },
-      {
-        "sector": "Licensed Western oil majors",
-        "direction": "up",
-        "size": 2,
-        "why": "They gain fields and contracts under US licence, with rivals excluded."
-      },
-      {
-        "sector": "Chinese state lenders and oil buyers",
-        "direction": "down",
-        "size": 2,
-        "why": "They lose a crude supplier and may struggle to recover past loans."
-      },
-      {
-        "sector": "Russian and Iranian oil exporters",
-        "direction": "mixed",
-        "size": 1,
-        "why": "They lose a partner, but high global prices from the Gulf shock still help their revenue."
-      },
-      {
-        "sector": "Global oil prices",
-        "direction": "mixed",
-        "size": 1,
-        "why": "More Venezuelan barrels ease supply over time, but the Gulf war still dominates the price."
-      },
-      {
-        "sector": "Venezuelan economy",
+        "sector": "Oil and gas producers (licensed majors)",
         "direction": "up",
         "size": 3,
-        "why": "Rising output and investment should bring revenue, though pledges are not spending."
+        "why": "They get first access to fields and can self-fund the ramp-up, with Chevron committing $7bn."
+      },
+      {
+        "sector": "US Gulf Coast refining",
+        "direction": "up",
+        "size": 2,
+        "why": "A nearby heavy-crude source helps offset Hormuz disruption."
+      },
+      {
+        "sector": "Shipping and freight",
+        "direction": "mixed",
+        "size": 2,
+        "why": "More Atlantic-basin voyages help, but a reported freight squeeze means the Americas have a heavy-oil glut while Asia and Europe scramble."
+      },
+      {
+        "sector": "Oilfield services and engineering",
+        "direction": "up",
+        "size": 2,
+        "why": "Multi-year contracts such as Sulzer's with PDVSA suggest a pipeline of rebuild work."
+      },
+      {
+        "sector": "Venezuelan power and utilities",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Caracas wants producers to supply their own power, which shows the grid is a limit but also creates a market for generation."
+      },
+      {
+        "sector": "Other heavy-crude exporters",
+        "direction": "down",
+        "size": 1,
+        "why": "More Venezuelan barrels compete for the same refiners, and some major producers have raised red flags."
+      },
+      {
+        "sector": "Chinese state energy interests",
+        "direction": "down",
+        "size": 2,
+        "why": "The licensing excludes China and Wright says it will have no claim on the revenue."
       }
     ],
     "dailyLife": [
       {
-        "item": "US petrol and diesel",
-        "effect": "Trump bills the deal as fuel-price relief. Any pump effect is likely small and slow while the Hormuz disruption continues.",
-        "sourceIndex": 1
+        "item": "US diesel and petrol",
+        "effect": "The aim is lower pump prices, but Venezuelan output is small next to the Gulf disruption. Any relief is likely modest and slow, and this is our estimate.",
+        "sourceIndex": 0
       },
       {
-        "item": "European diesel",
-        "effect": "French diesel hit a record EUR 2.41 a litre in September; Venezuelan barrels alone will not reverse that."
+        "item": "European fuel",
+        "effect": "Diesel hit a record EUR 2.41 a litre in France in September. More Atlantic supply, including Spain's reportedly record imports of Venezuelan oil, helps only at the margin."
       },
       {
         "item": "Venezuelan households",
-        "effect": "Higher oil revenue could improve supply and the exchange rate over time, but the sources do not say how quickly any gain would reach households."
+        "effect": "Higher exports bring revenue to the state, but power shortages and the pace of reconstruction mean household benefits are not guaranteed."
       },
       {
-        "item": "Prices of goods made in China",
-        "effect": "No direct effect; any impact would come through China's costs for crude and freight (our inference)."
+        "item": "Oil-worker jobs",
+        "effect": "Signed deals and service contracts point to hiring, though real spending lags announcements."
+      },
+      {
+        "item": "Voting in the US",
+        "effect": "Fuel prices are a dominant midterm issue, so voters' view of pump prices on 3 November may colour how the Venezuela deal is judged."
       }
     ],
     "scenarios": [
       {
-        "name": "Gradual ramp",
-        "probability": 45,
-        "looksLike": "Output keeps rising from the 1.206 million barrels a day reported for September. Signed deals convert to spending slowly and some of the 44 deals in talks get signed.",
+        "name": "Slow, patchy ramp",
+        "probability": 50,
+        "looksLike": "Output creeps above 1.2 million bpd, limited by electricity and infrastructure. Chevron and Shell sign production deals. Announced totals far outrun actual spending.",
         "signposts": [
-          "Monthly output prints keep rising",
-          "Licensed firms announce staged investment programmes"
+          "Monthly output rises by tens of thousands of bpd, not hundreds",
+          "Further self-supply power requirements for projects",
+          "Some investors delay or exit"
         ],
-        "effectOnWorld": "A modest, steady help to US refiners and a small downward effect on heavy-crude prices over years."
+        "effectOnWorld": "A small, steady easing for heavy-crude buyers, and little visible effect on pump prices."
       },
       {
-        "name": "Faster surge",
+        "name": "Faster-than-expected ramp",
         "probability": 20,
-        "looksLike": "Investment converts quickly, output jumps beyond the pace of 2026 and the US widens General License 50C to more firms.",
+        "looksLike": "Licensed majors mobilise quickly, exports clearly exceed 1.2 million bpd and the 44 pending deals close.",
         "signposts": [
-          "Output accelerating month after month",
-          "New licences or more fields added to the 17-field deal"
+          "Exports well above 1 million bpd for several months",
+          "Pending deals signed",
+          "Grid and port bottlenecks fixed"
         ],
-        "effectOnWorld": "Visible easing of global heavy-crude supply and a political win for Washington."
+        "effectOnWorld": "Heavy-crude market loosens, adding pressure on other exporters and helping US refiners."
       },
       {
-        "name": "Stall",
-        "probability": 25,
-        "looksLike": "Infrastructure problems, legal disputes or political friction hold output near current levels and investment stays on paper.",
+        "name": "Political rupture stalls deals",
+        "probability": 20,
+        "looksLike": "Talks between Machado and Rodríguez fail or unrest erupts. Investors pause new commitments and licences become contested.",
         "signposts": [
-          "Output flattening or falling",
-          "Firms pausing or renegotiating contracts"
+          "Breakdown of talks",
+          "Street protests or security incidents",
+          "US withdrawing support from the interim arrangement"
         ],
-        "effectOnWorld": "Little effect on global prices; the Trump fuel-price narrative weakens."
+        "effectOnWorld": "Venezuelan barrels fall back and the supply hope fades, worsening US fuel-price politics."
       },
       {
-        "name": "Arrangement breaks",
+        "name": "Gulf calm cuts urgency",
         "probability": 10,
-        "looksLike": "Political turmoil in Caracas or a change in US policy collapses the licensing framework.",
+        "looksLike": "The Iran war eases and Hormuz flows normalise. Washington presses less for Venezuelan barrels.",
         "signposts": [
-          "Withdrawal or tightening of General License 50C",
-          "Open conflict inside the interim government"
+          "Ceasefire or sustained drop in oil and freight costs",
+          "Less US official promotion of Venezuela"
         ],
-        "effectOnWorld": "Venezuelan output falls back, investors flee and the Latin America realignment narrative suffers."
+        "effectOnWorld": "Lower global prices and less political cover for risky Venezuelan projects."
       }
     ],
     "predictions": [
       {
-        "text": "About 70% likely: Venezuela reports October output at or above the 1.206 million barrels a day reported for September.",
-        "horizon": "By end-November 2026",
-        "resolves": "2026-11-30"
-      },
-      {
-        "text": "About 85% likely: General License 50C is not widened to include China, Russia or Iran.",
-        "horizon": "By end-2026",
+        "text": "Venezuela's reported crude output for October or November will exceed September's 1.206 million bpd (probability 0.70).",
+        "horizon": "By end-December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "About 60% likely: at least some of the 44 deals in talks (about $12bn) are signed, bringing the signed total above 61.",
-        "horizon": "By end-March 2027",
-        "resolves": "2027-03-31"
+        "text": "Chevron or Shell will announce a major signed production deal in Venezuela (probability 0.60).",
+        "horizon": "By end-December 2026",
+        "resolves": "2026-12-31"
       },
       {
-        "text": "About 55% likely: Venezuelan output exceeds 1.4 million barrels a day in a monthly report.",
+        "text": "Machado and Rodríguez will hold formal, publicly confirmed talks (probability 0.40).",
+        "horizon": "By end-January 2027",
+        "resolves": "2027-01-31"
+      },
+      {
+        "text": "US licensing will still exclude China, Russia and Iran (probability 0.85).",
+        "horizon": "By mid-2027",
+        "resolves": "2027-06-30"
+      },
+      {
+        "text": "Venezuelan output will still be below 1.5 million bpd at the end of 2027 (probability 0.75).",
         "horizon": "By end-2027",
-        "resolves": "2027-12-31"
-      },
-      {
-        "text": "About 75% likely: US average pump prices on 3 November are not lower than at the time of the 28 August announcement by a margin voters would clearly notice (our judgement).",
-        "horizon": "3 November 2026",
-        "resolves": "2026-11-03"
+        "resolves": "2028-01-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Refiners and traders: check whether your crude slate can take more heavy Venezuelan grades and what licence compliance is needed.",
-          "Oilfield-service firms: scope opportunities but demand payment terms and political-risk cover.",
-          "Avoid any dealings that touch Chinese, Russian or Iranian parties in Venezuelan oil, given the licence exclusions."
+          "Treat announced Venezuelan investment totals as ceilings, not forecasts, when planning supply.",
+          "Check any exposure to PDVSA or Venezuelan assets against licence terms, including the exclusion of China, Russia and Iran.",
+          "Include power supply and logistics costs in project budgets, as Caracas wants firms to supply their own electricity.",
+          "Build contract clauses for political disruption."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat the $76bn as a pledge until spending shows up in company filings and output data.",
-          "Watch monthly output as the key signal for whether pledges are becoming barrels.",
-          "Price political risk in Caracas and in Washington; a licence can be withdrawn."
+          "Separate signed agreements from spent capital. Chevron's $7bn is self-funded, so watch its cash flow and statements.",
+          "Watch the Machado-Rodríguez talks as a leading signal of stability.",
+          "Assume heavy-crude competition may weigh on other exporters.",
+          "Do not assume sanctions relief is permanent; it depends on US policy."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Do not expect a quick fall in fuel prices from Venezuelan supply; the Hormuz disruption still dominates.",
-          "Budget for fuel and freight costs staying elevated while the Gulf war continues."
+          "Do not expect quick pump-price relief from Venezuelan supply; the Gulf disruption is much larger.",
+          "Expect fuel prices to follow the Iran war and Hormuz more than Caracas.",
+          "For US voters, treat official price claims around 3 November with care."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Tie licences to clear conditions on transparency and revenue use to reduce legitimacy risks.",
-          "Plan for how a Venezuelan recovery fits with oil-market stability and with allies' energy needs.",
-          "Be explicit about the difference between investment pledges and delivered supply."
+          "Pair investment licences with transparency on revenue so the benefits reach Venezuelans.",
+          "Support credible talks between the government and the opposition, since investor confidence rests on a stable transition.",
+          "Plan for the case where Gulf supply recovers and Venezuelan barrels are no longer urgent."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Iraq oil sector after the 2003 invasion",
+        "event": "Iraq's oil reopening after 2003",
         "year": "2003 onward",
-        "whatFollowed": "Foreign investment arrived but output recovery took years and was repeatedly slowed by security and political problems (background knowledge)."
+        "whatFollowed": "Foreign companies signed long contracts, but security, power and politics held output well below early hopes for years."
       },
       {
-        "event": "Libya's oil restart after 2011",
-        "year": "2011 onward",
-        "whatFollowed": "Output rebounded quickly at first, then was repeatedly disrupted by political conflict (background knowledge)."
+        "event": "Libya after the 2011 revolution",
+        "year": "2011",
+        "whatFollowed": "Output rebounded fast at first, then was repeatedly disrupted by factional conflict."
       },
       {
-        "event": "Chevron's Venezuelan licence under easing of sanctions",
-        "year": "2022",
-        "whatFollowed": "A narrow licence allowed limited output and exports, showing licences can be used and withdrawn as political tools (background knowledge)."
+        "event": "Venezuela's 1990s oil opening (apertura)",
+        "year": "1990s",
+        "whatFollowed": "Foreign investment flowed in, then was reversed in later years when the political setting changed, showing how policy shifts can undo investment."
       }
     ],
     "watch": [
       {
-        "date": "2026-10-25",
-        "title": "Brazil presidential run-off",
-        "why": "A test of the US push to realign Latin American governments; Flávio Bolsonaro and Lula are within the margin of error."
-      },
-      {
         "date": "2026-11-03",
         "title": "US midterm elections",
-        "why": "High pump prices are a dominant issue; the Venezuelan deal is billed as relief."
+        "why": "Trump has billed the Venezuela deal as fuel-price relief. Voter reaction shows how much it counts."
       },
       {
-        "title": "Monthly Venezuelan output",
-        "why": "The best check on whether the $76bn in pledges is turning into barrels."
+        "title": "Monthly Venezuelan output and export data",
+        "why": "These show whether September's 1.206 million bpd and the 1 million bpd export mark are sustained."
       },
       {
-        "title": "Signing of the 44 pending deals",
-        "why": "About $12bn is in talks; conversion shows whether momentum is real."
+        "title": "Chevron and Shell production deals",
+        "why": "Reports say both are close, and signing would mark the first big post-Maduro production agreements."
       },
       {
-        "title": "Changes to General License 50C",
-        "why": "Any widening or tightening would signal Washington's confidence in the arrangement."
+        "title": "Machado-Rodríguez talks",
+        "why": "Progress or failure shapes investor confidence in the interim government."
       },
       {
-        "title": "Hormuz and Gulf supply",
-        "why": "The oil shock is the reason for the fast-track; relief there would reduce urgency."
+        "title": "Pending 44 deals worth about $12bn",
+        "why": "Closing them would lift the signed total toward the $76bn framing."
+      },
+      {
+        "title": "Energy Secretary Wright's Venezuela trip",
+        "why": "Headlines say a visit is expected; it may bring new announcements on licences and revenue."
+      },
+      {
+        "title": "Venezuelan power supply",
+        "why": "Caracas wants producers to supply their own power. Outages would slow any ramp-up."
       }
     ]
   },
@@ -566,59 +655,95 @@
         "url": "https://vovworld.vn/news/venezuela-secures-oil-investment-agreements-worth-nearly-76-billion-usd-2473681.vov5",
         "publisher": "VOV World",
         "date": "2026-10-18"
+      },
+      {
+        "title": "Chevron to Fund $7 Billion Venezuela Investment With Revenue From Existing Operations, CEO Says",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1l2SXR3RE5wOFp0TkF3VHhfZHBEaVFhV2w4V2w1SWk0bkpJMDdWVFp5NFFkVjVWcGhiVi12UHlTTjl2azdiRmdfN1RZRzBCN1l3NHBpdE82My1XanZHbEdkeEw3dV91ampDSXpBbHdmMFR6aWxSUHBFWjBQVHZEMVhEU01ieDFDWlZCSG54eHBSWGdVZm84OHFfQ2s1eWFEbVBZdDRGYl9xN0ZESWNjbHZVbFJxa0J3V2dKa3o1elpFdw?oc=5",
+        "publisher": "EnergyNow.com",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "UAE and Qatari firms enter Venezuela via BP-led gas deal",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjNQMHBTTFZoUG53dFloZGFLTHhad0tmT3JQV2RzeGdGb2x4RlNyT0JZTC1lc19RTHJ6TEtVUDFxWF82OU0ySGR6eW5GU1NwVVE4eWM1SmVJU2t2Y1dKLWNkaDNGM09LaHBQcEpVMDlMUDAwT0dMeENqdFo3eUU3TDBCM1ViRGFoREVPWjhQVFU4WDJ3?oc=5",
+        "publisher": "EnergyNow.com",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Venezuela's Oil Exports Surpassed 1 Million Bpd for the First in 6 months, Shipping Data Shows",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0hoOUNPLV9BSU5MdjZYMnk3bTNMbjhKQXBjNjRjenh3b0F4eWU4a1RBaWtBM1BUUzdVX2FBLXNlRkRsTVJxejg5VjJGMFpmVEdVQkE4czF5ckpSOU1qYWJqZk14UmxoWlhzNXJXU0xTa2htZjFzcFhlNC10M0lHU21DWk9tTjdlYW5LUEpnT0pWSjhobUdpQWVtdHllblExclctR2hNQllzbUpTX3dCQWs3Tm1kZnZfRXA1V1hSR0g?oc=5",
+        "publisher": "EnergyNow.com",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "China Won't Have Claim to Venezuela Oil Revenue, Wright Says",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0txdjFOSDFvRWh3S1UzcGRWVm1jVmVORE1DTTZxZENpUlU5ZENSWWVySHZPLWp3NjJzNVJVZzFmZTkyd3NrV2Z3QlhCSzhJUlR4UG5IS3h2Y0V0NjVFcVhHVVZUa2dLVUt6aF9VS2FyTWpyR1pVMU45SEFEQWZRbUMtSWhzeDhNRTQydUd2TlctYVU?oc=5",
+        "publisher": "EnergyNow.com",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
+        "url": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
+        "publisher": "Euronews",
+        "date": "2026-10-26"
       }
     ],
     "confidence": [
       {
-        "claim": "The $76bn, 61-agreement and 44-pending-deal figures",
+        "claim": "61 agreements, 17 with US firms, nearly $76bn over five years; 44 more deals worth about $12bn in talks",
         "level": "medium",
-        "note": "They are the acting government's own claims, relayed by two outlets; they are investment pledges, not spending."
+        "note": "Official figures from Rodríguez as reported by two outlets. They are claims about signed agreements, not spent money."
       },
       {
-        "claim": "September output of 1.206 million barrels a day, up about 30% this year",
+        "claim": "September output of 1.206 million bpd, up about 30% this year",
         "level": "medium",
-        "note": "Reported by Venezuela; we have no independent estimate in the material. The start-of-year level of about 0.93 million is our arithmetic."
+        "note": "Reported production figure from the event material. Output and export numbers differ in definition, and one headline cites 1.2 million bpd exports in June, so treat them with care."
       },
       {
-        "claim": "General License 50C terms and the 28 August deal covering 17 fields",
+        "claim": "Exports passed 1 million bpd for the first time in six months",
         "level": "medium",
-        "note": "Taken from the event summary; we did not open the licence text."
+        "note": "Based on a shipping-data headline and summary; the article text was not reviewed."
       },
       {
-        "claim": "Iran strikes start date",
+        "claim": "Chevron to fund $7bn from existing operations",
         "level": "medium",
-        "note": "Connected reports give 27 February in one place and 28 February in another; we use 27 February in the timeline."
+        "note": "Based on a headline and summary of the CEO's statement; the timing and phasing of the spending are not known."
       },
       {
-        "claim": "Link between Venezuelan crude, Gulf Coast refiners and diesel prices",
+        "claim": "General License 50C scope and the 28 August Trump deal covering 17 fields",
         "level": "medium",
-        "note": "The connection is stated in the event notes; the size of the price effect is our judgement and probably small."
+        "note": "Taken from the event summary. The licence text was not reviewed."
       },
       {
-        "claim": "Historical background and analogues",
+        "claim": "Links to the Iran war, midterms and regional US policy",
+        "level": "medium",
+        "note": "Framing comes from the connections supplied, not independent sourcing here."
+      },
+      {
+        "claim": "Effect on pump prices",
         "level": "low",
-        "note": "From general knowledge, not from the listed sources; treat as context."
+        "note": "Author estimate. Venezuelan volumes are small next to the Gulf disruption."
       },
       {
-        "claim": "Scenario probabilities and prediction odds",
+        "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, not a sourced forecast; to be graded as events resolve."
+        "note": "Author judgement, to be graded as events resolve."
       }
     ],
-    "method": "Drafted from the two listed sources, which are near-identical reports of the 17 October speech, plus the event summary and connection notes supplied with the event. Headline figures come from the acting government's claims as relayed by those outlets. Background on Venezuelan oil history and the analogues is from general knowledge and is flagged as lower confidence. The implied start-of-year output, scenario probabilities and prediction odds are estimates by the author.",
+    "method": "Drafted from the two sources cited on the event, five wire items from EnergyNow and Euronews dated 26 October, and a list of 24 matched headlines, not from full articles in most cases. Headline-only items are treated as medium or low confidence. Dates for the timeline use the event material and article dates. Scenario probabilities, price effects and predictions are the author's estimates. No chart is included because there is no consistent numeric series in the material.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-27",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:01:38.562Z",
+    "at": "2026-10-27T10:10:27.741Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 24,
+    "reviewed": false,
+    "size": "deep"
   }
 }
