@@ -2524,6 +2524,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-27T01:24:11.360Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 139 min ago"
+    },
+    {
       "at": "2026-10-27T01:04:50.068Z",
       "screened": 0,
       "accepted": [],
@@ -4081,121 +4090,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 7 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-25T11:06:55.905Z",
-      "screened": 122,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Bulgaria holds presidential election amid split over Ukraine",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "El Salvador's president on bodies found in Haiti",
-          "reason": "Unclear, narrow hostage-identification story with no evident cross-border state ripple.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Northern Irish Protestant march before court ruling",
-          "reason": "Local political march with no cross-border ripple.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Who Israel elects matters",
-          "reason": "Opinion piece, not a development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Qatar official calls for peace to boost trade",
-          "reason": "Routine statement that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget previews",
-          "reason": "Domestic budget previews and speculation with no clear cross-border channel.",
-          "headlines": 4,
-          "publishers": 1
-        },
-        {
-          "title": "UK storms",
-          "reason": "Local weather with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Paris racist gun attack suspect moved to psychiatric unit",
-          "reason": "Crime case with no effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran war: US-Iran talks derailed, embassies on alert, energy fallout",
-          "reason": "These are all developments in the US-Israel war on Iran and its energy shock, already on the map.",
-          "headlines": 5,
-          "publishers": 4,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Sudan drone strikes and attacks on hospitals",
-          "reason": "Part of the Sudan war and humanitarian crisis in Darfur and Kordofan already covered.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "sudan-darfur-kordofan-famine-alert"
-        },
-        {
-          "title": "Brazil election coverage",
-          "reason": "Belongs to the Brazil run-off event.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "US lifts some Canadian tariffs",
-          "reason": "A turn in the US-Canada tariff war already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-canada-trade-war"
-        },
-        {
-          "title": "Ukraine Starlink restrictions",
-          "reason": "Same story as the existing event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Israel pledges West Bank operation after checkpoint attack",
-          "reason": "Part of the West Bank lockdown event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "Italy protests in Rome and Milan",
-          "reason": "Part of the Italian cost-of-living unrest.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "US midterm campaign items",
-          "reason": "All part of the US midterms event.",
-          "headlines": 4,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

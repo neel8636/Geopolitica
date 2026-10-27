@@ -1,51 +1,67 @@
 {
   "slug": "portugal-housing-protests",
   "title": "Portugal's housing and wages marches",
-  "deck": "Peaceful marches over rents, mortgages, wages and pensions show the same household-budget squeeze that fed the weekend's far larger and more violent unrest in France.",
-  "updated": "2026-10-19",
+  "deck": "A peaceful 17 October march over pay, pensions and rents was followed a week later by police clearing protest camps, and activists are now pushing for a general strike.",
+  "updated": "2026-10-27",
   "status": "developing",
   "region": "Portugal",
   "tags": [
     "unrest",
     "housing",
-    "cost of living",
     "wages",
-    "pensions",
-    "Europe"
+    "policing",
+    "cost of living",
+    "Southern Europe"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
     "deep": 15
   },
+  "fuel": [
+    {
+      "aspect": "security",
+      "title": "Police clear Lisbon and Porto protest camps",
+      "how": "Police with dogs and batons dismantled the housing camps, wounded demonstrators and made dozens of arrests, turning a peaceful movement into a dispute over how it was policed.",
+      "sourceIndex": 1
+    },
+    {
+      "aspect": "jobs",
+      "title": "Activists push nationwide general strike",
+      "how": "Rents and mortgages are rising faster than pay, and activists want to move the protest from the streets into workplaces.",
+      "sourceIndex": 5
+    },
+    {
+      "aspect": "politics",
+      "title": "Resignation call and bar association inquiry demand",
+      "how": "An Algarve group called for Prime Minister Montenegro to resign and the bar association asked for an inquiry into police conduct, turning a housing grievance into a question about the government.",
+      "sourceIndex": 6
+    }
+  ],
   "card": {
-    "headline": "Portugal's marches are a rents-and-wages story, not a regime crisis",
+    "headline": "Portugal's peaceful wage-and-rent marches have become a fight over policing and a possible general strike",
     "keyNumber": {
-      "value": "17 October",
-      "label": "unions and housing-rights groups marched; our source set has no confirmed turnout figure",
-      "sourceIndex": 0
+      "value": "31",
+      "label": "people detained as police cleared housing protest camps in Lisbon and Porto on 25 October (Al Jazeera counted 25 in Lisbon alone)",
+      "sourceIndex": 2
     },
     "impactMeter": 2,
     "forYou": [
       {
         "role": "Renters and buyers",
-        "line": "The marches target rents and mortgage costs. Watch for any government housing measures, but none are confirmed in our sources."
+        "line": "Nothing in the news changes rents or mortgage rates yet. The pressure behind the marches is real, and the pay-versus-housing gap is the story to watch."
       },
       {
-        "role": "Employers",
-        "line": "Pressure for higher wages and pensions is building. Expect louder pay claims, not disruption, for now."
+        "role": "Business and logistics",
+        "line": "A general strike is being pushed but is not called. If it comes, plan for disruption to transport and public services with little notice."
       },
       {
-        "role": "Investors",
-        "line": "Low direct market impact. Housing policy risk for landlords and short-term-let owners is the thing to track."
-      },
-      {
-        "role": "Travel and logistics",
-        "line": "The marches were reported as peaceful, so no disruption is expected. Check for strike calls before booking."
+        "role": "Travellers",
+        "line": "Marches and camp clearances were centred on Lisbon and Porto. Expect closures around protest squares on march days."
       },
       {
         "role": "Everyone",
-        "line": "This is one of several cost-of-living protests across Europe the same weekend, including a much larger and more violent one in France."
+        "line": "The same household-budget squeeze lay behind France's unrest on the same weekend, but neither caused the other. Portugal's movement has so far been peaceful and smaller in scale."
       }
     ],
     "ripple": [
@@ -53,16 +69,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Unions and housing-rights groups marched on 17 October for higher wages, better pensions and action on rents and mortgage costs",
-            "sector": "Civil society"
+            "text": "Police with dogs and batons dismantle housing protest camps in Lisbon and Porto; demonstrators wounded, dozens detained",
+            "sector": "Security"
           },
           {
-            "text": "The marches were reported as peaceful, with no major disruption in our sources",
-            "sector": "Public order"
+            "text": "Housing activists push for a nationwide general strike to take the movement into workplaces",
+            "sector": "Jobs and wages"
           },
           {
-            "text": "Housing costs return to the top of the political agenda",
-            "sector": "Government"
+            "text": "A group in the Algarve calls for Prime Minister Montenegro to resign after incidents at the housing demonstration",
+            "sector": "Politics and protest"
+          },
+          {
+            "text": "The bar association asks for an inquiry into how police handled the protest",
+            "sector": "Politics and protest"
           }
         ]
       },
@@ -70,16 +90,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Pressure on the government to offer rent, mortgage or tax relief, with the cost of any package unclear",
-            "sector": "Public finance"
+            "text": "Anger at the crackdown may swell later marches beyond the core of housing activists",
+            "sector": "Security"
           },
           {
-            "text": "Unions press wage and pension claims in coming talks and budget debates",
-            "sector": "Labour"
+            "text": "A strike call needs union backing; if it comes, transport and public services would be hit",
+            "sector": "Logistics, public services"
           },
           {
-            "text": "Landlords and developers watch for rent caps or tighter rules on short-term lets, which are politically contested",
-            "sector": "Real estate"
+            "text": "Government is pressed to show concrete housing and wage measures, not only to defend police tactics",
+            "sector": "Public policy"
+          },
+          {
+            "text": "An inquiry, if opened, keeps the policing story alive for weeks",
+            "sector": "Government"
           }
         ]
       },
@@ -87,16 +111,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Persistent housing stress may feed support for anti-establishment parties, such as Chega, which became Portugal's second-largest party in 2025",
+            "text": "Housing could become a defining issue in Portuguese politics, giving opposition parties an opening",
             "sector": "Politics"
           },
           {
-            "text": "Portugal joins a Europe-wide pattern of cost-of-living protest that makes governments warier of austerity",
-            "sector": "Europe"
+            "text": "Landlords and property investors weigh the chance of tougher rent or short-let rules",
+            "sector": "Real estate"
           },
           {
-            "text": "Young and skilled workers may keep leaving or delaying family formation as housing stays unaffordable",
-            "sector": "Demographics"
+            "text": "Housing protests in Madrid and Luxembourg and unrest in France show a shared Southern and Western European squeeze on household budgets",
+            "sector": "Europe"
           }
         ]
       }
@@ -104,83 +128,91 @@
   },
   "brief": {
     "whatHappened": [
-      "On 17 October 2026, unions and housing-rights groups marched in Portugal. They demanded higher wages, better pensions and action on rents and mortgage costs.",
-      "Our sources describe the marches as peaceful. We have no confirmed turnout figure, no list of cities and no arrest numbers, so this report does not give any.",
-      "The marches came the same weekend as much larger and more violent unrest in France, where about 550,000 people marched on 17 October and roughly 2,400 were arrested in one day. Euronews framed the Portuguese marches as part of a wider wave of European cost-of-living protests."
+      "On 17 October 2026, unions and housing-rights groups marched in Portugal for higher wages, better pensions and action on rents and mortgage costs. The marches were peaceful. They took place on the same day as much larger and more violent cost-of-living unrest in France.",
+      "On 25 October, police with dogs and batons dismantled housing protest camps in Lisbon and Porto. Reports say demonstrators were wounded. The Guardian headline counted 31 people detained and Al Jazeera counted 25 arrests in Lisbon. NDTV reported thousands marching for affordable housing the same day.",
+      "On 26 October the story widened. Housing activists pushed for a nationwide general strike. A group in the Algarve called for Prime Minister Luis Montenegro to resign. The bar association asked for an inquiry into police actions at the housing protest."
     ],
     "whyItMatters": [
-      "Portugal is a small economy, and this is a low-severity event. But it shows that the same pressure, with wages lagging rents and living costs, is reaching countries that are not in political crisis.",
-      "Housing is the sharpest point. Rents and house prices in Lisbon and Porto have risen faster than most local incomes for years, and many Portuguese mortgages are tied to short-term euro interest rates. These points come from general knowledge, so treat them as context.",
-      "Peaceful protest is still a signal. If governments do not answer it, the pattern in other countries suggests the anger can find other outlets, including at the ballot box."
+      "Security: a movement that was peaceful on 17 October was met with force on 25 October. Police action against camps tends to harden a movement, and it moves the debate from rents to rights and public order. The camps were set up before 25 October; our sources do not say exactly when.",
+      "Jobs and wages: the root grievance is that rents and mortgage costs are rising faster than pay and pensions. That is the same driver as in France, though neither country's protests caused the other. A general strike would move the dispute into workplaces, where it has more economic weight than a march.",
+      "Politics: a resignation call from one regional group is minor on its own. It matters alongside the bar association's call for an inquiry, which adds legal and institutional pressure on the authorities. Together they make housing a question about whether the government is handling it well."
     ],
     "winners": [
       {
-        "who": "Unions and housing-rights groups",
-        "why": "The marches put their demands on the news agenda and strengthen their hand in wage and budget talks."
+        "who": "Housing-rights groups and unions",
+        "why": "A police crackdown raises their profile and gives them a second grievance, which may widen support."
       },
       {
         "who": "Opposition parties",
-        "why": "Cost-of-living anger usually helps those outside government, whichever side they sit on. This is our estimate, not a sourced claim."
+        "why": "A government defending police tactics while rents bite is an easy target. We have no polling to show who gains."
+      },
+      {
+        "who": "Legal and rights bodies",
+        "why": "The bar association's call for an inquiry puts them at the centre of the story."
       }
     ],
     "losers": [
       {
-        "who": "The government",
-        "why": "It faces pressure to act on housing and pay, with limited room to spend. How much room is not covered in our sources."
+        "who": "The Montenegro government",
+        "why": "It faces calls to resign and an inquiry demand while still lacking an answer on rents and pay."
       },
       {
-        "who": "Renters and first-time buyers",
-        "why": "The squeeze that prompted the marches has not eased yet, and no relief measure is confirmed."
+        "who": "Protesters hurt or detained",
+        "why": "Reports say demonstrators were wounded and dozens were detained; legal outcomes are not yet known."
       },
       {
-        "who": "Landlords and short-term-let operators",
-        "why": "They carry the risk of tougher rules if housing becomes the main political issue. This is an estimate."
+        "who": "Renters and mortgage-holders",
+        "why": "The squeeze that drove the marches is unchanged by the news."
+      },
+      {
+        "who": "Commuters and businesses",
+        "why": "A general strike, if called, would cut transport and services."
       }
     ],
     "whatsNext": [
-      "Watch for any government response on rents, mortgage relief or wages. None is confirmed in our sources.",
-      "Watch for further marches or strike calls from unions. Our sources do not report any scheduled date.",
-      "The state budget debate and wage negotiations are the places where the demands would turn into policy. Check current dates.",
-      "Keep an eye on France. A calming or a worsening there will shape how Europe's governments read this wave."
+      "Whether unions formally back a general strike, and if so on what date. Today it is a push by activists, not a call.",
+      "Whether an official inquiry into the police clearances is opened and who runs it.",
+      "Whether the government responds with housing or wage measures, for example in the state budget debate (timing not confirmed in our sources).",
+      "Whether new marches draw bigger crowds than 17 October, and whether they stay peaceful."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely result of Portugal's marches over the next six months?",
+      "question": "Before you read the scenarios: what is the most likely path over the next three months?",
       "options": [
-        "Recurring peaceful marches with little policy change",
-        "Targeted government housing and pay concessions",
-        "Escalation into strikes and disruption",
-        "The marches fade without notice"
+        "A general strike paralyses the country",
+        "Simmering protest with periodic marches and no big policy change",
+        "The government quickly concedes with a major housing package",
+        "Montenegro's government falls"
       ],
-      "answerIndex": 0,
-      "explanation": "Our base case, at about 50%, is recurring peaceful protest with small, partial responses. Targeted concessions come next at about 25%. These are judgement calls on thin evidence, not sourced forecasts."
+      "answerIndex": 1,
+      "explanation": "Our base case, at about 45%, is simmering protest. Marches continue, the inquiry debate runs on, and policy moves only at the margin. A general strike is the second most likely path at about 25%. Montenegro's fall is the least likely."
     },
     "recap": [
       {
-        "question": "What were the Portuguese marchers demanding?",
+        "question": "What happened in Lisbon and Porto on 25 October?",
         "options": [
-          "Higher wages, better pensions and action on rents and mortgage costs",
-          "A new election",
-          "Lower fuel taxes only"
+          "A general strike began",
+          "Police dismantled housing protest camps",
+          "The government announced a rent freeze"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who asked for an inquiry into police actions?",
+        "options": [
+          "The bar association",
+          "The European Commission",
+          "The central bank"
         ],
         "answerIndex": 0
       },
       {
-        "question": "How were the Portuguese marches described in our source?",
+        "question": "What shared driver links Portugal's protests with France's?",
         "options": [
-          "Peaceful",
-          "Marked by widespread looting",
-          "Banned by the government"
+          "A fuel-tax rise",
+          "Rents and mortgage costs rising faster than pay",
+          "A teacher strike"
         ],
-        "answerIndex": 0
-      },
-      {
-        "question": "What shared driver links Portugal's marches to those in France?",
-        "options": [
-          "Rents and real wages",
-          "A school-funding dispute",
-          "A national election"
-        ],
-        "answerIndex": 0
+        "answerIndex": 1
       }
     ]
   },
@@ -188,25 +220,64 @@
     "timeline": [
       {
         "date": "2023-04-01",
-        "title": "Earlier housing marches in Portuguese cities",
-        "detail": "Large housing protests took place in Lisbon, Porto and other cities in spring 2023, and the government then announced a housing package. Date and scale are from general knowledge, so treat them as approximate."
-      },
-      {
-        "date": "2025-05-18",
-        "title": "Parliamentary election",
-        "detail": "A centre-right government was re-elected and Chega became the second-largest party. This is from general knowledge, not from the listed source."
+        "title": "Earlier national housing marches in Portugal",
+        "detail": "Housing marches in Lisbon and other cities in 2023 showed the issue had been building for years. This entry is from general knowledge, not the listed sources."
       },
       {
         "date": "2026-10-17",
-        "title": "Unions and housing-rights groups march",
-        "detail": "They demanded higher wages, better pensions and action on rents and mortgage costs. The marches were peaceful and part of a wider European weekend of cost-of-living protest.",
+        "title": "Unions and housing groups march for wages, pensions and housing",
+        "detail": "The marches were peaceful and demanded higher pay, better pensions and action on rents and mortgage costs. They were part of protests across Europe that weekend.",
         "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-10-19",
-        "title": "This dossier first drafted",
-        "detail": "Our source set holds only one article on the event, so turnout and government response are not yet known."
+        "date": "2026-10-17",
+        "title": "France sees its largest unrest of the autumn",
+        "detail": "About 550,000 marched in France and roughly 2,400 were arrested. Portugal's protests share the cost-of-living driver but were not caused by France's."
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Police clear protest camps in Lisbon and Porto",
+        "detail": "Police with dogs and batons dismantled housing camps. Reports say demonstrators were wounded.",
+        "sourceIndex": 1,
+        "turning": true
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Dozens detained",
+        "detail": "The Guardian headline counted 31 detained; Al Jazeera counted 25 arrests in Lisbon. The difference probably reflects Lisbon alone versus Lisbon and Porto, though the sources do not say.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Thousands march for affordable housing",
+        "detail": "NDTV reported thousands marching in Portugal for affordable housing on the same day.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Madrid sees a housing protest",
+        "detail": "A Euronews item on Madrid's Transhumance Festival said the sheep route was changed to avoid a housing protest, which shows the issue is not only Portuguese.",
+        "sourceIndex": 8
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Bar association demands an inquiry",
+        "detail": "The bar association asked for an inquiry into police actions at the housing protest.",
+        "sourceIndex": 7
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Algarve group calls for Montenegro to resign",
+        "detail": "The call followed incidents at the housing demonstration. The size of the group is not stated in our sources.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Activists push for a nationwide general strike",
+        "detail": "The aim is to take the protest movement from the streets into workplaces. No date or union commitment is reported.",
+        "sourceIndex": 5,
+        "turning": true
       }
     ],
     "causes": [
@@ -215,286 +286,311 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "Housing supply and price pressure",
-            "detail": "Rents and house prices have risen faster than typical incomes in major Portuguese cities. This is from general knowledge, not from the listed source."
+            "name": "Housing costs outrun pay",
+            "detail": "Rents and mortgage costs have risen faster than wages in Portugal, as in France. The marchers' demands on wages, pensions and housing point to this gap. We have no exact figures in the sources."
           },
           {
-            "name": "Wage and pension weakness",
-            "detail": "Portuguese pay is low relative to western Europe, so a rise in living costs bites harder. This is general context and not quantified here."
-          },
-          {
-            "name": "Rate-sensitive mortgages",
-            "detail": "A large share of mortgages follow short-term euro rates, so higher rates feed quickly into household budgets. This is general knowledge, so confidence is medium."
+            "name": "Visible housing pressure",
+            "detail": "The 2023 housing marches show the grievance is not new. Causes often cited include limited supply, short-term lets and demand from foreign buyers; these come from general knowledge and are not tested in our sources."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "Autumn 2026",
+        "when": "17 October 2026",
         "causes": [
           {
-            "name": "Accumulated cost-of-living pressure",
-            "detail": "The summary points to rents, mortgage costs, wages and pensions. The specific immediate trigger is not given in our sources."
+            "name": "Coordinated wage-and-housing march",
+            "detail": "Unions and housing-rights groups joined forces, widening the base beyond housing activists."
           },
           {
-            "name": "A wave of protest across Europe",
-            "detail": "Euronews framed the marches as part of demonstrations sweeping Europe on the same weekend."
+            "name": "European protest wave",
+            "detail": "Cost-of-living protests the same weekend in other countries made the day feel like part of a larger movement."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "October 2026",
+        "when": "25 to 26 October 2026",
         "causes": [
           {
-            "name": "Contagion of attention",
-            "detail": "News of the much larger unrest in France can raise visibility and turnout elsewhere. This is our inference."
+            "name": "Forceful camp clearances",
+            "detail": "Police with dogs and batons, wounded demonstrators and dozens of arrests created a second grievance about policing."
           },
           {
-            "name": "Union mobilisation",
-            "detail": "Organised unions bring numbers and a calendar, which helps explain a peaceful, structured march. This is an inference, and the organisers are not named in our sources."
+            "name": "Legal and political calls",
+            "detail": "The bar association's inquiry demand and the Algarve resignation call moved the story from housing policy to accountability."
+          },
+          {
+            "name": "Strike mobilisation",
+            "detail": "Activists' push for a general strike aims to raise the economic cost to the government."
           }
         ]
       }
     ],
     "stakeholders": [
       {
-        "name": "The Portuguese government",
-        "role": "Policymaker",
-        "wants": "Calm, a passable budget, and credit for housing measures without a big fiscal bill",
-        "leverage": "Budget, tax and housing law; the largest say on timing",
-        "likelyMove": "Point to existing housing measures, offer limited targeted help, resist large spending"
+        "name": "Luis Montenegro's government",
+        "role": "Government of Portugal",
+        "wants": "Order restored, its policing defended, and housing answers that do not break the budget",
+        "leverage": "Police, the state budget and housing legislation",
+        "likelyMove": "Defend the police operation while announcing or highlighting housing measures"
       },
       {
-        "name": "Unions",
-        "role": "Organisers of wage and pension demands",
-        "wants": "Higher wages and pensions, and a voice in housing policy",
-        "leverage": "Marches and strike calls; sectoral bargaining",
-        "likelyMove": "Keep up pressure through budget season; the organisers are not named in our sources"
+        "name": "Housing-rights groups and camp organisers",
+        "role": "Core of the movement",
+        "wants": "Affordable housing, an end to eviction and a response to the crackdown",
+        "leverage": "Street mobilisation and media attention, now boosted by the crackdown",
+        "likelyMove": "Keep marching and press for a general strike"
       },
       {
-        "name": "Housing-rights groups",
-        "role": "Campaigners",
-        "wants": "Rent relief, more affordable supply, curbs on speculation and short-term lets",
-        "leverage": "Public attention and the ability to draw younger renters",
-        "likelyMove": "Further marches and lobbying; possibly tie their cause to the broader European wave"
+        "name": "Trade unions",
+        "role": "Co-organisers of the 17 October marches",
+        "wants": "Higher wages and better pensions",
+        "leverage": "The power to call strikes, which activists cannot do alone",
+        "likelyMove": "Weigh whether to back a general strike; unclear yet, and the decision will be central"
       },
       {
-        "name": "Landlords, developers and short-term-let owners",
-        "role": "Property interests",
-        "wants": "Stable rules, tax treatment and returns",
-        "leverage": "Control of supply and influence on rent levels",
-        "likelyMove": "Lobby against caps and tax changes"
+        "name": "Police and the interior authorities",
+        "role": "Enforcers of the camp clearances",
+        "wants": "Public order and an operation judged lawful",
+        "leverage": "Control over how protests are policed",
+        "likelyMove": "Defend the operation and respond to any inquiry"
       },
       {
-        "name": "Banks and mortgage lenders",
-        "role": "Credit providers",
-        "wants": "Low defaults and steady margins",
-        "leverage": "Terms and forbearance on loans",
-        "likelyMove": "Case-by-case relief; broad concessions only if pushed"
+        "name": "The bar association",
+        "role": "Legal professional body",
+        "wants": "An inquiry into police conduct",
+        "leverage": "Legal standing and public credibility",
+        "likelyMove": "Press for an independent inquiry"
       },
       {
-        "name": "Opposition parties, including the populist right",
-        "role": "Political challengers",
-        "wants": "To turn cost-of-living anger into votes",
-        "leverage": "Parliament and media attention",
-        "likelyMove": "Blame the government; the right may tie housing to migration. This is an estimate."
+        "name": "Landlords and property investors",
+        "role": "Owners of rental housing",
+        "wants": "Stable returns and no tougher rent rules",
+        "leverage": "Control of supply and political lobbying",
+        "likelyMove": "Lobby against rent-control-style measures while the issue is hot"
       }
     ],
     "sectors": [
       {
-        "sector": "Residential property and rentals",
-        "direction": "mixed",
-        "size": 2,
-        "why": "Rent and sale prices are the heart of the grievance. Landlords face regulatory risk, but supply constraints still support prices. This is a judgement."
-      },
-      {
-        "sector": "Banks and mortgage lenders",
-        "direction": "mixed",
-        "size": 1,
-        "why": "Borrower stress raises the risk of defaults and political pressure for relief, while higher rates support margins."
-      },
-      {
-        "sector": "Tourism and short-term lets",
-        "direction": "down",
-        "size": 1,
-        "why": "They are a frequent target of housing campaigners, so tighter rules are possible. No specific measure is confirmed."
-      },
-      {
-        "sector": "Retail and consumer spending",
-        "direction": "down",
-        "size": 1,
-        "why": "Households squeezed by housing costs have less to spend elsewhere. The effect is likely small and gradual."
-      },
-      {
-        "sector": "Construction",
+        "sector": "Policing and public order",
         "direction": "up",
         "size": 1,
-        "why": "Any push for more affordable supply would help builders, though timing and funding are unknown."
+        "why": "Operations to clear camps and manage marches mean more deployment and more scrutiny."
       },
       {
-        "sector": "Public finances",
+        "sector": "Labour and wage bargaining",
+        "direction": "up",
+        "size": 2,
+        "why": "Unions and activists are pushing a general strike, which raises the leverage of wage demands."
+      },
+      {
+        "sector": "Rental and property investment",
         "direction": "down",
+        "size": 2,
+        "why": "Political pressure on housing raises the risk of tougher rules; we do not know whether the government will act."
+      },
+      {
+        "sector": "Transport and public services",
+        "direction": "down",
+        "size": 2,
+        "why": "A general strike, if called, would halt or slow services; none is yet scheduled."
+      },
+      {
+        "sector": "Tourism and hospitality (Lisbon, Porto, Algarve)",
+        "direction": "mixed",
         "size": 1,
-        "why": "Relief for renters, borrowers or pensioners would cost money; no package is confirmed."
+        "why": "Marches cause local disruption but have been peaceful and short; effects are small unless violence returns. This is our estimate."
+      },
+      {
+        "sector": "Mortgage lending and banks",
+        "direction": "mixed",
+        "size": 1,
+        "why": "Mortgage costs are part of the grievance, which adds pressure for borrower relief that could squeeze margins. We have no numbers in the sources."
+      },
+      {
+        "sector": "Government and political risk",
+        "direction": "down",
+        "size": 2,
+        "why": "Calls to resign and an inquiry demand reduce the government's room for manoeuvre."
       }
     ],
     "dailyLife": [
       {
         "item": "Rents",
-        "effect": "Rent remains a main grievance. The summary names rents, but our source does not give figures, so we do not quote any.",
+        "effect": "Rents rising faster than pay is the core grievance. Nothing in this week's news changes what tenants pay, and we have no figures.",
         "sourceIndex": 0
       },
       {
         "item": "Mortgages",
-        "effect": "Mortgage costs are named in the summary as a pressure point. Many loans follow short-term euro rates, so household payments move with the ECB. This is general context."
+        "effect": "Mortgage costs are one of the three things the marchers named. Borrowers on variable rates feel the pressure most."
       },
       {
         "item": "Wages and pensions",
-        "effect": "Unions want higher pay and pensions. Any rise would depend on negotiations and the budget; none is confirmed.",
+        "effect": "Unions marched for higher wages and better pensions; no deal or wage settlement has been reported.",
         "sourceIndex": 0
       },
       {
         "item": "Getting around",
-        "effect": "Peaceful marches rarely disrupt travel for long. Check for strike calls separately; none is reported in our sources."
+        "effect": "Expect closures near protest sites in Lisbon and Porto on march days. A general strike, if called, would disrupt transport; no date has been set.",
+        "sourceIndex": 5
+      },
+      {
+        "item": "Public space",
+        "effect": "Police have shown they will clear protest camps by force, which affects anyone planning to camp or demonstrate.",
+        "sourceIndex": 1
       }
     ],
     "scenarios": [
       {
-        "name": "Recurring marches, little change",
-        "probability": 50,
-        "looksLike": "Periodic peaceful protests; the government points to existing measures and offers small adjustments; no major break.",
+        "name": "Simmering protest",
+        "probability": 45,
+        "looksLike": "Periodic marches and local clashes. The inquiry debate runs on and the government offers modest housing measures. No general strike takes place.",
         "signposts": [
-          "Further march dates announced by unions",
-          "Budget debate passes with few housing changes"
+          "Union leaders stay cool on a strike",
+          "Marches draw crowds similar to 17 October",
+          "A limited inquiry is opened"
         ],
-        "effectOnWorld": "Portugal stays calm but the grievance persists, adding to the wider European pattern of cost-of-living unrest."
+        "effectOnWorld": "Portugal stays a low-intensity example of the Southern European housing squeeze, with little market or international effect."
       },
       {
-        "name": "Targeted concessions",
+        "name": "General strike and escalation",
         "probability": 25,
-        "looksLike": "The government offers some rent, mortgage or tax relief and a pay or pension adjustment, and the marches lose momentum.",
+        "looksLike": "Unions back a general strike. Transport and services are disrupted, and marches grow after further clashes with police.",
         "signposts": [
-          "An announced housing or relief package",
-          "Unions accept talks"
+          "A union confederation names a strike date",
+          "Further injuries at a protest",
+          "Big turnout on a march day"
         ],
-        "effectOnWorld": "A modest fiscal cost and a template other governments may copy."
+        "effectOnWorld": "Short disruption to Portuguese transport and services; the housing issue gains attention in the EU."
       },
       {
-        "name": "Escalation",
-        "probability": 15,
-        "looksLike": "Marches grow and unions call strikes; the issue dominates the political agenda; confrontation with the government.",
+        "name": "Government concession",
+        "probability": 20,
+        "looksLike": "The government announces a housing and wage package, possibly in the state budget, and agrees to an inquiry. The movement splits between those satisfied and those pressing on.",
         "signposts": [
-          "Strike calls or a general-strike notice",
-          "Turnout clearly above 17 October levels",
-          "Unrest in France or Italy worsening"
+          "Budget measures on rents or youth housing",
+          "An inquiry is announced early"
         ],
-        "effectOnWorld": "Heightens risk for Portugal's government and raises the profile of the populist right across southern Europe."
+        "effectOnWorld": "Calmer streets and a modestly wider deficit; landlords face tougher rules."
       },
       {
-        "name": "Fade",
+        "name": "Political rupture",
         "probability": 10,
-        "looksLike": "The marches are one-off, attention moves on and no follow-up is scheduled.",
+        "looksLike": "The inquiry or further violence causes a serious crisis for the government, with ministerial resignations or a confidence vote.",
         "signposts": [
-          "No further dates announced",
-          "Cost pressures ease, for example lower rates or prices"
+          "Findings critical of police leadership",
+          "A minister resigns",
+          "Coalition or parliamentary partners withdraw support"
         ],
-        "effectOnWorld": "Little change. Housing stays unresolved but is out of the headlines."
+        "effectOnWorld": "Portuguese political instability would draw European attention, but the economic effects would be limited."
       }
     ],
     "predictions": [
       {
-        "text": "Unions or housing groups will announce at least one further national march or strike action in Portugal. Probability 0.6.",
-        "horizon": "By 31 January 2027",
-        "resolves": "2027-01-31"
+        "text": "Montenegro is still prime minister on 31 March 2027. Probability about 0.93.",
+        "horizon": "By March 2027",
+        "resolves": "2027-03-31"
       },
       {
-        "text": "The government will announce at least one new or expanded measure on rents, mortgage relief or housing tax. Probability 0.5.",
+        "text": "A formal inquiry into the police clearance of the camps is opened by an official body. Probability about 0.55.",
+        "horizon": "By 30 November 2026",
+        "resolves": "2026-11-30"
+      },
+      {
+        "text": "A nationwide general strike actually takes place. Probability about 0.2.",
         "horizon": "By 31 March 2027",
         "resolves": "2027-03-31"
       },
       {
-        "text": "Portuguese protests will remain mostly peaceful, with no reported death or major rioting linked to them. Probability 0.85.",
-        "horizon": "By 30 April 2027",
-        "resolves": "2027-04-30"
+        "text": "Another nationwide housing or wages march takes place, and it is again largely peaceful. Probability about 0.6.",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
       },
       {
-        "text": "Portugal will not see unrest on the scale of France's 17 October marches, with 100,000 or more marching in a single day. Probability 0.85. Note this depends on turnout data we do not yet have.",
-        "horizon": "By 30 June 2027",
-        "resolves": "2027-06-30"
+        "text": "The government announces a new housing or rent-support measure explicitly in response to the protests. Probability about 0.4.",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Check for strike calls before planning logistics or travel in Portugal; none is reported in our sources.",
-          "Expect louder wage claims in coming rounds and plan pay budgets accordingly.",
-          "If you depend on Portuguese tourism or short-term lets, track proposed rule changes."
+          "Prepare for short-notice disruption to transport and public services if a general strike is called.",
+          "Brief staff on protest locations in Lisbon and Porto on march days.",
+          "Check supplier and delivery plans that depend on public transport or port access."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat this as a low-severity political signal, not a market event.",
-          "Track housing policy, rent rules and any relief package for effects on property and banks.",
-          "Watch the euro-area rate path, since rate-sensitive mortgages transmit changes into household budgets."
+          "Treat Portuguese rental and property exposure as carrying policy risk while the housing issue is hot.",
+          "Watch for housing measures in the state budget and any rent rules.",
+          "Do not read the protests as a sovereign-debt risk; the sources show no market impact."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "If you have a variable-rate mortgage, check how your payment would change if rates move.",
-          "Renters should know their contract terms and any announced protections.",
-          "Check for any announced support schemes before they are widely reported."
+          "If you rent, check your lease terms and any scheduled increases.",
+          "If you have a variable-rate mortgage, review whether a fixed rate suits you.",
+          "Plan travel around march days and any announced strike."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Separate quick relief for squeezed households from the slower work of building supply.",
-          "Publish who gains from any measure so it is not read as favouring landlords or lenders.",
-          "Coordinate with other EU governments facing the same drivers, since the unrest is not confined to one country."
+          "Separate the policing question from the housing question: open a credible inquiry and publish findings.",
+          "Publish a housing and wage plan with numbers, so protesters have something to judge.",
+          "Talk to unions before a strike call, not after."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Portugal's housing marches",
+        "event": "Portugal's 'Geracao a Rasca' march",
+        "year": "2011",
+        "whatFollowed": "Hundreds of thousands marched over insecure work and low pay. The government fell and Portugal sought a bailout within weeks. The march was not the only cause."
+      },
+      {
+        "event": "Portugal's general strikes under bailout austerity",
+        "year": "2011-2013",
+        "whatFollowed": "Several general strikes disrupted transport. Austerity largely continued, which shows strikes do not guarantee policy change."
+      },
+      {
+        "event": "Portugal's national housing marches",
         "year": "2023",
-        "whatFollowed": "Large marches led to a government housing package and the end of golden visas for property purchases. Critics said the package did not fix supply. From general knowledge; details approximate."
-      },
-      {
-        "event": "Portugal's anti-austerity marches",
-        "year": "2012-13",
-        "whatFollowed": "Very large peaceful protests against austerity put pressure on the government. Some measures were softened, while bailout conditions remained. From general knowledge; details approximate."
-      },
-      {
-        "event": "France's autumn of unrest",
-        "year": "2026",
-        "whatFollowed": "A much larger, violent wave on the same weekend, with a state that cannot afford to buy peace. It shows the downside risk if housing and wage anger goes unanswered. See the dossier france-unrest-2026."
+        "whatFollowed": "Marches drew attention to housing costs and the government responded with a housing package. Rents kept rising according to wide reporting, which is why the issue is back."
       }
     ],
     "watch": [
       {
-        "title": "Government response on housing and pay",
-        "why": "The clearest sign of whether the marches changed anything."
+        "date": "2026-10-28",
+        "title": "Reaction to the bar association and any inquiry announcement",
+        "why": "Whether an official inquiry is opened shows how seriously the government treats the police story."
       },
       {
-        "title": "Further union or housing-group march dates",
-        "why": "Shows whether this is a one-off or a campaign."
+        "title": "Union confederations' response on a general strike",
+        "why": "Activists cannot call a general strike alone; union backing and a date are the key signal."
       },
       {
-        "title": "Portuguese budget debate",
-        "why": "The place where wage, pension and housing measures become law; check current dates."
+        "title": "Next housing march date and turnout",
+        "why": "Turnout compared with 17 October will show whether the crackdown widened or cut support."
       },
       {
-        "title": "ECB meetings and euro interest rates",
-        "why": "They move mortgage payments for rate-sensitive borrowers."
+        "title": "State budget debate on housing and wages (timing not confirmed)",
+        "why": "Measures on rents, youth housing or pensions would show whether the government concedes."
       },
       {
-        "title": "France's unrest",
-        "why": "A worsening there could raise attention and turnout across Europe, including in Portugal."
+        "title": "Further resignation calls beyond the Algarve group",
+        "why": "Broader calls, including from established parties, would mark a real political threat."
+      },
+      {
+        "title": "Housing protests elsewhere in Europe",
+        "why": "Madrid and Luxembourg already have housing protests, and France's unrest shares the cost-of-living driver.",
+        "sourceIndex": 8
       }
     ]
   },
@@ -505,54 +601,108 @@
         "url": "https://www.euronews.com/2026/10/17/portugal-sees-protests-over-cost-of-living-and-housing-crisis-as-demonstrations-sweep-euro",
         "publisher": "Euronews",
         "date": "2026-10-17"
+      },
+      {
+        "title": "Demonstrators wounded as police break up Lisbon and Porto housing protest camps",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlZQM2xSeWhGZDBHNHdUTnV2RGxxUkx4LUJBNy1GRm5NZEhlaU9HRll0Z2JfTDFBc0g4VHA4eGhyRUJJbUtIREdSSFJOei1tZGtQakVCeVVfUTA3ZEdFV2FwUnhHRnpBT3VpRy1ZV3lVZjNTak1YQWczbHpmN3Bvd1ZVLTFPSHMxMHB5UWhsR0JUV0FRa0txUzZFQTdwTWNoUHVOS2l1UUtNbUxnTWFOT2pLUzdqQQ?oc=5",
+        "publisher": "Euronews",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Portugal dismantles protest camps and detains 31 people",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaVJPNWh4ZmpNSVQ4NWpsbG91amdUVTFnaVNUQkRBRkItOF9pTzdmcU9lRmpWQnV2LVdaVmVTUHlYb1kxcWRrZi14Q2VtM1N3Mmd6ZlFoR2cwUDctM0x5ci1tcFFweHBxTG1sOGIzTkdsYzVZY3lxSW9sU3dlb3hFMWNYREEwSXJnbTlqZFZPQlVET3Zhb01XZTF4MlJvSWh4?oc=5",
+        "publisher": "The Guardian via UA.NEWS",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRJZHlxTlZoWHZrXzYwdWhrVlJrVFhiWUJ3Ujc4Z01hbXF6aEVva3Y2VGlYRDJldGpXLS1QRUVUNjFJbmExdWZpalE5dUc4MlFMYlg0NHJXeEU4RlJYM0VBWmxXX1dmWHpJUElFMEF6T3BZXzJvSXhEaFg5Zl9EbG5Ubi0tc1o3Vy12TVJFdmVSZWVWbG40Z1EwT3JSMllkNGJMRHc3NlBJUdIBrwFBVV95cUxNNVZUR3BTMmd2cW0zMHFUcTlBTFkzWGMwRWhSanUwa0tKOGl2LXhOYnQyOXZiYmdBb2M5ekVyLTlEblRwRG5RZW5kOVlTWlc5bUFRM0RQSDlVVm9Wb2N3SzhQdGRvNTBLY2JQWVdZRldoNy1DUGNrRDlCRGFmcEdWQjVJY2txYjFiZDZLSjhGczI0cS02RVotbU53WnFmaWkwTXFEX2xrX0IwNkE0V1dZ?oc=5",
+        "publisher": "Al Jazeera",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Thousands March In Portugal To Demand Affordable Housing",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDA0b2ZweklTZjY4ODNlelRzQnJnYWY2aEp0ME9TeGQ0ak5VUkE3S3R2Slh2ZlNoSmM1VGlfOTFFMUtha0F2Qjc0NER0M3dkRVEzUVQ2SWRqMG56bjliTElYTGNpeTBKZmY2d08zVWZZaHNHVUVsWF9HUkhibXFDWGtoVnpyWUlaYVRWejFsN0d6MHRFWkVz?oc=5",
+        "publisher": "NDTV",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Portugal Housing Activists Push for Nationwide General Strike",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rb1FZMHJnaXJpdHF5SmFrUGZPal94NU0yMEdIbXFVYjE0cjlObEc5UzJGeGN1ZXpkLUVITTJYWWNVYXhJaVI5NmpQOXRZeHVBa1Blc2RrR0Q1MzhQMmNFbGE2dHkzQUlSRkd0S01sZFJpV21WZllsaHNlbWY?oc=5",
+        "publisher": "teleSUR English",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Algarve group calls for Montenegro resignation after housing demonstration incidents",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcG1tcGR1RmtSOUJrYy1jVzlrQjNoOUFwTlg2ZUpNUVBwOXFXcS00S1hlbUdFemJxYkZqM2lpSzMxQUx6em5NNFd5S25oSVBtaVdDQ0ZSUFZxSjh0Y3N0ZHhYTGxWa1RqQk9CLVlZdVpvSm9YUEk0ZjJYQmMtNWNCZW16Rzg1WEJEbGphNjBZV3VOU3l3djlONVliYXZ2RDEwMnpQdkZoUmozaTRHajZRZU5oUU0ySnlwczhmWkVCWDlNb1FjTVE4NFRXbV9vZkZWbmlxUGkyZUo?oc=5",
+        "publisher": "The Portugal News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Bar association demands inquiry into police actions at housing protest",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWkhBeFZmUmtxZ2VHdmNpQkoxWU5YQzNkVENsOFFTS3ZRVlM4bTR5NC1oTzNWY2tMUHh6a0tJSl95Rk5TUzlEd244YkhMbVY1TTVfV1VMTHc1VDcwNTRUOWtsaHk3Ymh3X3lMaS1hcnZlNWs4LWYxTENNMVQtQXZqa3NVSjF4S2hMWno5R0JIZ3ZHWW5NU1dQQ1p1MjZRcHBjc1JISHJObw?oc=5",
+        "publisher": "Portugal Resident",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Thousands of sheep take over Madrid's streets for Transhumance Festival",
+        "url": "https://www.euronews.com/video/2026/10/25/thousands-of-sheep-take-over-madrids-streets-for-transhumance-festival",
+        "publisher": "Euronews",
+        "date": "2026-10-25"
       }
     ],
     "confidence": [
       {
-        "claim": "Unions and housing-rights groups marched in Portugal on 17 October 2026 over wages, pensions, rents and mortgage costs",
+        "claim": "The 17 October marches were peaceful and demanded higher wages, pensions and action on rents and mortgages",
+        "level": "medium",
+        "note": "From the event summary and the Euronews headline; we did not have the full article text."
+      },
+      {
+        "claim": "Police cleared camps in Lisbon and Porto on 25 October with dogs and batons, wounding demonstrators",
         "level": "high",
-        "note": "Event summary and the Euronews article agree."
+        "note": "Reported consistently by Euronews, RFI, inkl and others."
       },
       {
-        "claim": "The marches were peaceful",
+        "claim": "Number detained: 31 in total, 25 in Lisbon",
         "level": "medium",
-        "note": "Stated in the event summary. Our source set is a single article, with no confirming second source."
+        "note": "Guardian and Al Jazeera headlines differ; the likely reason is Lisbon alone versus both cities, which the sources do not state."
       },
       {
-        "claim": "Turnout, locations and organisers",
-        "level": "low",
-        "note": "Not in our materials, so none is stated."
-      },
-      {
-        "claim": "Background on Portuguese housing, mortgages and politics",
+        "claim": "General strike push, Algarve resignation call and bar association inquiry demand",
         "level": "medium",
-        "note": "General knowledge, not from the listed source. Context only; check before relying on details."
+        "note": "Known from 26 October headlines only; the size and weight of each actor is unclear."
       },
       {
-        "claim": "Link to France's unrest, with rents and real wages as the common thread",
+        "claim": "Rents and mortgage costs are rising faster than pay in Portugal",
         "level": "medium",
-        "note": "Taken from the event connection notes. France figures come from the dossier france-unrest-2026."
+        "note": "Stated in the connection brief and consistent with general knowledge; no figures are cited."
       },
       {
         "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement on thin evidence, to be graded as events resolve."
+        "note": "Author judgement, not sourced forecasts; to be graded as events resolve."
+      },
+      {
+        "claim": "Historical analogues",
+        "level": "medium",
+        "note": "From general knowledge, not the listed sources; no URL is cited."
       }
     ],
-    "method": "This report was drafted from one listed source, the Euronews article of 17 October 2026, one matched wire headline (the same article), the event summary and the connection note linking it to France's unrest. We had no turnout, organiser, government-response or market data, so none is stated. Background on Portugal's housing market, mortgages and politics comes from general knowledge and is hedged in the text. Scenario probabilities and predictions are estimates.",
+    "method": "Drafted on 27 October 2026 from the Euronews report of 17 October and 17 matched wire headlines, with nine of them listed as sources. For most items we had headlines and one-line summaries, not full article text, so details such as crowd sizes, the number and timing of camps, union positions and the Algarve group's size are not known and are not claimed. Scenario probabilities, prediction probabilities and sector effects are the author's estimates. The link to France's unrest follows the connection note: a shared driver, with neither event causing the other.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-27",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:05:18.565Z",
+    "at": "2026-10-27T01:28:48.640Z",
     "model": "claude-sonnet-5-5",
     "sources": 1,
-    "headlines": 1,
-    "reviewed": false
+    "headlines": 17,
+    "reviewed": false,
+    "size": "deep"
   }
 }
