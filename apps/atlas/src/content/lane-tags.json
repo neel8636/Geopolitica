@@ -397,16 +397,16 @@
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-26T19:04:42.571Z",
+    "at": "2026-10-27T11:05:26.265Z",
     "by": "pipeline",
-    "hash": "1rpm886",
+    "hash": "1nay4h1",
     "tags": [],
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T11:05:26.265Z",
     "by": "pipeline",
-    "hash": "1ckdpa8",
+    "hash": "1r6oi56",
     "tags": [],
     "headlines": []
   },
@@ -685,16 +685,16 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-27T05:05:10.399Z",
+    "at": "2026-10-27T11:05:26.265Z",
     "by": "pipeline",
-    "hash": "3qjwc2",
+    "hash": "1xo4js",
     "tags": [],
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-27T05:05:10.399Z",
+    "at": "2026-10-27T11:05:26.265Z",
     "by": "pipeline",
-    "hash": "qi7mth",
+    "hash": "tpk1bp",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
@@ -702,53 +702,39 @@
         "likelihood": 0.25,
         "delayDays": [
           1,
-          3
+          2
         ],
         "costPct": [
           0,
-          5
-        ],
-        "why": "Floods hit Istanbul on 15 Oct and killed eight, and an orange heavy-rain alert was issued on 26 Oct with a new round of flooding expected, which could block trucking access to the Ambarlı port area and slow gate and loading operations.",
-        "action": "Ask your forwarder for current truck pick-up and gate status at Ambarlı, and add 3 days of buffer on castings and components due out of Istanbul in the next two weeks, or move cut-off dates earlier.",
-        "sources": [
-          0,
-          1,
-          2,
           3
+        ],
+        "why": "Istanbul flooded on 15 October with eight deaths, and on 26 October local press reported the city bracing for a new round of flooding while rain pushed road congestion to 80%, which could slow truck access to Ambarlı.",
+        "action": "Ask your forwarder to confirm Ambarlı gate and truck pickup slots for the next two weeks, and add 2 days of buffer to inland trucking from Istanbul-area suppliers.",
+        "sources": [
+          1,
+          0
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Storm in Istanbul: orange alert issued for heavy rain today",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlVTTkU3OEU2SjVXQl9NTWl2T0JnUnZrU1BhejZYMlhKNHFtb1FROGJ6RExUcU1LRGc3TzZycHc4OGowSTE4UTZOQWxLNzYtTmdBaUNjaHB3QklhaWE1cEtVVVF3d1J4YkV1czR5alUwU211eWROTEEtVHlYNG0yaTE2ZDN0SlNVQzI4bktneGR4QQ?oc=5",
-        "publisher": "Hispanatolia",
-        "published": "2026-10-26T20:33:08.000Z"
+        "title": "Istanbul congestion hits 80% as rain slows morning commute",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTl0RXRLdmNHWUxtZ3BwRmpaVVVGa3diQy1BRUpPcDU1RTVQbHJ6MFk4T2VEXzRneGN3MUNGd1UxWm50SEFPZ3IxdDZGNnRNbzlmMGlvbzBibUpIUXltTGFHaDlMdnhPQ2NOalVLWVItUnlWSmpObXdOYWZyTjduRFdrSGcyYzk0cGE0d05YTHhhRGM?oc=5",
+        "publisher": "Türkiye Today",
+        "published": "2026-10-27T07:09:21.000Z"
       },
       {
         "title": "Istanbul braces for new round of flooding",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXprYzgxVFkya1hhSjJsUEV5bU9MVWEza1pVQXJ0UC14eUgyeDBnZlNTbmswNk9UNjBtSDNaVGpqNGEwVF9pYWhfMDJieksyQk45SGpfNG05TGhJaEpUUzB4X3o1ME1jRGNVUXpzX2ZIbG9uTHdwZ19FQXhnLTlJZFNPc0xmQktXRFE?oc=5",
         "publisher": "Hürriyet Daily News",
         "published": "2026-10-26T06:06:16.000Z"
-      },
-      {
-        "title": "New flood warning from Meteorology for Istanbul! Pay attention to Tuesday",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHBiSWhmbHY1T09sM2pfb2Fkb094aTQ4X1pDbWNmc1hMSm1XNUEtdEtVRkxtWVBaNFQ1a0RpWmhmYnk1aVQ3N1dEMms3S1A1aEYzaWxzaVhwR0k2WWdsVFM1REl4b1hzbzRHSnNIX0YzNHpxR2pWYjJVRldveUtZclNDLW1LMTQ?oc=5",
-        "publisher": "Haberler.com",
-        "published": "2026-10-26T04:03:10.000Z"
-      },
-      {
-        "title": "Floods in Istanbul and north-western Turkey leave 8 dead, one missing",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzkyMmxpcm5KbE1udnprd1VBVGY1eEpoY3M4eWpfWWxzQ2NfN0p3RERmNEZsZTVSa3Z1blg5Yk9ZU1FRR19TcEIyRGlZc1R0VHdhNXVMU3pUNThPMVoza01ndlByRkttTnVFXzVzSmJTZFE3OGgzTTdrTXYwNFJQelloWUpQZWVMQU54MGw4S282OGRaSjhfQTJMOTBHQQ?oc=5",
-        "publisher": "Hispanatolia",
-        "published": "2026-10-25T21:54:40.000Z"
       }
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-27T05:05:10.399Z",
+    "at": "2026-10-27T11:05:26.265Z",
     "by": "pipeline",
-    "hash": "7ntr4j",
+    "hash": "9wt8fq",
     "tags": [],
     "headlines": []
   }

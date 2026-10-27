@@ -4003,7 +4003,7 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-26T23:04:50.597Z",
+    "at": "2026-10-27T11:05:26.265Z",
     "by": "pipeline",
     "items": [
       {
@@ -4011,40 +4011,50 @@
         "title": "Deadly church attack in Jordan",
         "when": "ongoing",
         "place": "Jordan",
-        "lat": 31.95,
-        "lon": 35.93,
-        "what": "A deadly attack on a church last week prompted Jordan's retaliation against militants inside Syria.",
-        "via": "public demand for retaliation",
+        "lat": 31.2,
+        "lon": 36.5,
+        "what": "A deadly attack on a church prompted Jordan to retaliate with airstrikes on militant targets in Syria, which it says were tied to the attackers.",
+        "via": "retaliation for the attack",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
+            "title": "Jordan launches airstrikes in Syria after church attack",
+            "url": "https://www.france24.com/en/jordan-launches-airstrikes-in-syria-after-church-attack",
+            "publisher": "France 24"
+          },
+          {
+            "title": "Jordan attacks militant groups in Syria in retaliation for church attack",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkk3ZkNkZXR5ZjBXN0lBRlRpRjRjci1vQVBTMnd0TXRzTThEaFdlSG1qbk93Y0R2bW9UeUdTcG5JU3l2aVNXaWtVYmRkbWNYYzhwOWFzUUVBb3liUHhJRmZSNEZ3VldFejk3em53b2haWVZRMFRJVGMzR2pxZC1RemNZSU9jUjQtWXFDWFRLUEgzSHV3WjdDTmxoUWdUV2hVY2ZGNHozUDFwNlYxeTlJWTJ4cUkzSGJwclhOVmx3?oc=5",
+            "publisher": "Saudi Gazette"
+          },
+          {
+            "title": "Jordan strikes militants in Syria tied to church attack",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWdyd0lEU2JmVFRxMDlkM0Z0c1ZRWE1pWDZZTUZxQU5Id2RjSURManpXM3J6RmdQUWh0WUVMbmR2YmJmRWpLdGtnM245azR5a2VKZm95YWNORXFCaFNCVU1Gbjc3cktZRkZOdmFISDI5bnNkVWtPZDQ4bTNJcjBqaFNpS1prWnJOWUJsajhMdFJ1bl8wWW1JdWRwaDUzZUI4NnVLb1BR?oc=5",
+            "publisher": "The Canberra Times"
+          },
+          {
+            "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+            "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+            "publisher": "BBC World"
+          },
+          {
+            "title": "Jordan attacks militants in Syria in retaliation for church attack",
             "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
             "publisher": "The Guardian World"
-          },
-          {
-            "title": "Jordan arrests three suspects over deadly church attack",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Jordan's strikes on Syria over church terror attack kill several civilians",
-            "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church",
-            "publisher": "France 24"
           }
         ]
       },
       {
-        "id": "three-suspects-arrested-over-church-attack",
-        "title": "Three suspects arrested over church attack",
+        "id": "jordan-arrests-three-church-attack-suspects",
+        "title": "Jordan arrests three church attack suspects",
         "when": "2026-10-26",
-        "place": "Jordan",
+        "place": "Amman",
         "lat": 31.95,
         "lon": 35.93,
-        "what": "Jordanian authorities arrested three suspects in connection with the deadly church attack, alongside the military response across the border.",
-        "via": "investigation and security pressure",
-        "aspect": "security",
+        "what": "Jordanian authorities arrested three suspects over the church attack, adding to pressure for a firm response against those behind it.",
+        "via": "domestic pressure to act",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
