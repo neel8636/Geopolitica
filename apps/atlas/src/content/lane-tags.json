@@ -338,37 +338,37 @@
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "1u9in7f",
+    "hash": "1ckdpa8",
     "tags": [],
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "tkf61x",
+    "hash": "6nrgye",
     "tags": [],
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "o3k8qy",
+    "hash": "66fva8",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "1dfd629",
+    "hash": "1j9ps33",
     "tags": [],
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "13mg83r",
+    "hash": "1rdre8i",
     "tags": [
       {
         "point": "LAREDO",
@@ -376,14 +376,14 @@
         "likelihood": 0.5,
         "delayDays": [
           1,
-          3
+          4
         ],
         "costPct": [
           3,
           10
         ],
-        "why": "Mexican truckers walked off the job on 2026-10-26, and as the busiest road crossing Laredo–Nuevo Laredo is the most likely place for stoppages or blockades to back up trucks.",
-        "action": "Ask your forwarder today which carriers on your Laredo lanes are striking, and move urgent loads to the Laredo rail bridge or add 3 days of buffer stock.",
+        "why": "Mexican truckers began a walkout on 26 Oct 2026, and the Latin Times piece asks what breaks first, so trucking into and out of Nuevo Laredo, the main USMCA road gateway, may stall or queue.",
+        "action": "Ask your forwarder today for the status of drayage into Nuevo Laredo, move time-critical loads to rail or already-staged trucks, and hold 4 extra days of buffer stock for Mexico-origin parts.",
         "sources": [
           0
         ]
@@ -397,11 +397,11 @@
           3
         ],
         "costPct": [
-          3,
-          10
+          2,
+          8
         ],
-        "why": "The Mexican truckers' walkout that began 2026-10-26 can cut the number of trucks reaching Reynosa and cause queues at Pharr, a major produce and auto-parts crossing.",
-        "action": "Confirm with your Reynosa drayage provider that pickups are covered, and pre-file customs entries so trucks can cross as soon as they arrive.",
+        "why": "The Mexican trucker walkout reported on 26 Oct 2026 could cut the supply of carriers feeding Reynosa, which would slow produce and manufactured freight at Pharr.",
+        "action": "Ask your carrier to confirm drivers and trucks are secured for Reynosa pickups this week, and pre-file customs entries so loads can cross once trucks are available.",
         "sources": [
           0
         ]
@@ -415,11 +415,11 @@
           3
         ],
         "costPct": [
-          3,
-          10
+          2,
+          8
         ],
-        "why": "The Mexican truckers' strike that began 2026-10-26 may thin out trucking capacity from Ciudad Juárez, where maquiladora freight depends on cross-border trucks.",
-        "action": "Ask your forwarder for a contingency plan for Juárez shipments, such as rail through El Paso or a backup carrier, and add 3 days of buffer stock for production-critical parts.",
+        "why": "The trucker stoppage that began 26 Oct 2026 may reduce truck availability around Ciudad Juárez, which would hold up maquiladora freight at El Paso.",
+        "action": "Ask your forwarder for rail or alternative-carrier options out of Juárez, and add 3 days of buffer on just-in-time components.",
         "sources": [
           0
         ]
@@ -435,23 +435,23 @@
     ]
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "16mt1ux",
+    "hash": "wxcbn2",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "1lvmasu",
+    "hash": "pah53z",
     "tags": [],
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-26T20:04:33.577Z",
+    "at": "2026-10-27T03:04:55.845Z",
     "by": "pipeline",
-    "hash": "1yejj92",
+    "hash": "1p6oy9j",
     "tags": [],
     "headlines": []
   },

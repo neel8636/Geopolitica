@@ -1,47 +1,72 @@
 {
   "slug": "india-us-trade-deal-2026",
   "title": "Rubio in Mumbai as the US-India trade deal nears signing",
-  "deck": "Washington says it is 'very close' to a trade deal with India, and is openly tying sanctions waivers on Russian energy to the talks, but the first tranche is still in legal drafting.",
-  "updated": "2026-10-19",
+  "deck": "Washington says it is 'very close' to a trade deal with India, but the first tranche is still in legal drafting, and the US has tied its Russian-oil sanctions waivers to the talks while the Iran war keeps oil prices high.",
+  "updated": "2026-10-27",
   "status": "developing",
-  "region": "India, United States, Russia",
+  "region": "India, United States",
   "tags": [
     "trade",
     "tariffs",
-    "India",
     "Russian oil",
     "sanctions",
-    "energy security"
+    "Quad",
+    "Iran war",
+    "energy"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 18
   },
+  "fuel": [
+    {
+      "aspect": "trade",
+      "title": "Goyal: most talks concluded, fine-tuning",
+      "how": "India's commerce minister says the text is nearly done, which makes a signing look close, though not dated.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "politics",
+      "title": "Interim deal stuck on tariffs, politics",
+      "how": "Sources and USTR Greer say unresolved tariff and political issues mean no immediate agreement, so the timing stays uncertain.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "energy",
+      "title": "Rubio visits Jamnagar amid high oil",
+      "how": "High oil prices from the Iran war push Washington to link energy interests, including Russian-oil waivers, to the trade deal.",
+      "sourceIndex": 5
+    }
+  ],
   "card": {
-    "headline": "The US says an India trade deal is close, and links it to Russian-oil sanctions waivers",
+    "headline": "The US-India trade deal is close but not done, and oil is now part of the bargain",
     "keyNumber": {
       "value": "18%",
-      "label": "US reciprocal tariff on Indian goods under the February 2026 framework, down from 25%; a separate 25% Russian-oil penalty was also removed",
+      "label": "US tariff on Indian goods under the February 2026 framework, down from 25%; a separate 25% Russian-oil penalty was also removed",
       "sourceIndex": 1
     },
     "impactMeter": 3,
     "forYou": [
       {
         "role": "Exporters to the US",
-        "line": "The 18% rate is already in the framework. A signed deal would lock it in and may add detail on which goods get relief. Expect that detail to come last."
+        "line": "The 18% rate is the working number, but the first tranche is not signed. Plan for slippage, not a clean date."
       },
       {
-        "role": "Energy and refining",
-        "line": "Rubio visits the Jamnagar refinery on 21 October. Watch for any statement on how much Russian crude India may keep buying, and under what waiver."
+        "role": "Textiles and apparel",
+        "line": "Some Indian suppliers are already trying to cut US reliance; one Gap supplier wants to double its Europe share."
+      },
+      {
+        "role": "Energy and refiners",
+        "line": "US waivers on Russian-energy sanctions are tied to the talks. A stall could raise sanctions risk on Indian crude buying."
       },
       {
         "role": "Investors",
-        "line": "Treat the headline as a signal, not a signing. The US trade representative said on 2 October that a deal was not imminent, and the first tranche is still in legal drafting."
+        "line": "Watch the Quad ministers' meeting and the 18-19 November Shenzhen summit. Both could move the deal's timing."
       },
       {
         "role": "Everyone",
-        "line": "Trade, oil and sanctions are now one negotiation. A deal here also shapes how other Asian partners see Trump's tariff bargains before the November APEC summit."
+        "line": "The Iran war keeps oil and freight costs high, which is why Washington and Delhi both want an energy understanding."
       }
     ],
     "ripple": [
@@ -49,16 +74,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Rubio meets External Affairs Minister Jaishankar in Mumbai on 20 October and visits the Jamnagar refinery on 21 October",
-            "sector": "Diplomacy"
+            "text": "India's commerce minister says most talks are concluded and the text is being fine-tuned; the White House calls the talks 'productive'",
+            "sector": "Trade and shipping"
           },
           {
-            "text": "Washington publicly says it is 'very close' to finalising the deal, which raises expectations of a signing",
-            "sector": "Trade policy"
+            "text": "Rubio meets Jaishankar in Mumbai and visits the Jamnagar refinery, tying US sanctions waivers on Russian energy to the trade talks",
+            "sector": "Energy"
           },
           {
-            "text": "US waivers on Russian-energy sanctions are explicitly tied to the trade talks",
-            "sector": "Sanctions, energy"
+            "text": "USTR Greer says the deal is nearing completion but no immediate agreement is expected; the interim deal is reportedly stuck over tariffs and political concerns",
+            "sector": "Politics"
+          },
+          {
+            "text": "Indian exporters keep trading under uncertainty about which US tariff rate will hold",
+            "sector": "Trade and shipping"
           }
         ]
       },
@@ -66,16 +95,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "If signed, the 18% tariff is locked in. Indian exporters gain planning certainty against rivals facing higher or less settled rates.",
-            "sector": "Exporters"
-          },
-          {
-            "text": "India keeps some room to buy Russian crude while Gulf supply is disrupted, which limits import-cost pressure on refiners",
+            "text": "Indian refiners and the government must weigh cheap Russian crude against US sanctions pressure while Hormuz flows are disrupted",
             "sector": "Energy"
           },
           {
-            "text": "Remaining legal drafting and a possible new Russia-related condition could delay the first tranche into winter",
-            "sector": "Trade policy"
+            "text": "Exporters hedge: some, such as a Gap apparel supplier, aim to shift more sales to Europe",
+            "sector": "Textiles"
+          },
+          {
+            "text": "Indian negotiators face domestic criticism that a rushed deal could be lopsided",
+            "sector": "Politics"
+          },
+          {
+            "text": "An 18% tariff keeps India competitive against other Asian exporters for US import share",
+            "sector": "Trade and shipping"
           }
         ]
       },
@@ -83,16 +116,20 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Competition for US import share with China sharpens, since China is growing 4.5% on an export surge",
-            "sector": "Global trade"
+            "text": "Chinese exporters, growing at 4.5% on exports, compete with Indian goods for US import share",
+            "sector": "Trade and shipping"
           },
           {
-            "text": "The deal becomes a template, or a warning, for other partners before Trump meets Xi at APEC in Shenzhen on 18-19 November",
+            "text": "A signed deal could cement the Quad's diplomatic momentum; a collapse could chill it",
             "sector": "Geopolitics"
           },
           {
-            "text": "Using waivers as a bargaining chip may erode the credibility of the sanctions regime on Russia over time",
-            "sector": "Sanctions"
+            "text": "The deal is one of several bilateral tariff deals Trump wants before the midterms and before Shenzhen, so its timing may follow US politics",
+            "sector": "Politics"
+          },
+          {
+            "text": "If India cuts Russian oil buying, Moscow's revenue and global crude balances shift",
+            "sector": "Energy"
           }
         ]
       }
@@ -100,85 +137,86 @@
   },
   "brief": {
     "whatHappened": [
-      "US Secretary of State Marco Rubio said on 19 October that Washington is 'very close' to finalising a trade deal with India. He meets External Affairs Minister S. Jaishankar in Mumbai on 20 October and visits the Jamnagar refinery on 21 October.",
-      "A framework announced in February 2026 cut the US reciprocal tariff on Indian goods from 25% to 18%. It also removed a separate 25% penalty tied to India's purchases of Russian oil.",
-      "The first tranche of the deal is still in legal drafting. US Trade Representative Jamieson Greer said on 2 October that a deal was not imminent. Rubio has now explicitly tied US waivers on Russian-energy sanctions to the trade talks."
+      "US Secretary of State Marco Rubio said on 19 October that Washington is 'very close' to finalising a trade deal with India. On 20 October he met External Affairs Minister S. Jaishankar in Mumbai. A visit to the Jamnagar refinery was planned for 21 October.",
+      "The deal builds on a framework announced in February 2026. That framework cut the US reciprocal tariff on Indian goods from 25% to 18% and removed a separate 25% penalty tied to India's purchases of Russian oil. The first tranche of the actual agreement is still in legal drafting.",
+      "Signals since then are mixed. USTR Jamieson Greer said on 2 October that a deal was not imminent. On 26 October Indian Commerce Minister Piyush Goyal said most discussions are concluded and the agreement is being fine-tuned, and the White House called the talks productive. Greer also said the deal is nearing completion but no immediate agreement is expected. Reports say the interim deal remains stuck over tariffs and political concerns.",
+      "Rubio has explicitly tied US waivers on Russian-energy sanctions to the trade talks. Quad foreign ministers are due to meet in the US ahead of a leaders' summit."
     ],
     "whyItMatters": [
-      "For India, the US is a very large export market, and the tariff rate sets how competitive its goods are against rivals. Certainty matters as much as the rate.",
-      "Oil is the hinge. Strikes on Iran since 28 February have kept energy and freight costs high. That makes it hard for India to drop Russian crude, so the US is linking waivers to the trade deal instead of demanding a cut-off.",
-      "The talks sit inside a wider push by Trump to lock in bilateral tariff deals before the APEC summit in Shenzhen on 18-19 November, and ahead of the US midterm elections on 3 November."
+      "Trade: India is a large market and a manufacturing alternative to China. An 18% US tariff decides how Indian textiles, goods and services compete for US buyers against Chinese exporters, whose economy grew 4.5% in the third quarter on an export surge. Goyal's 'most talks concluded' makes a deal look near, but Greer's caution shows the last gaps are real.",
+      "Energy: US strikes on Iran began on 28 February 2026 and have kept oil and freight costs high for eight months. With Hormuz flows disrupted, India cannot easily replace Russian crude. That gives Washington a reason to ease sanctions on that oil and a way to use the waivers as leverage in the trade talks. Rubio's Jamnagar stop shows how closely energy and trade are linked.",
+      "Politics: The deal is a diplomatic prize on both sides. The Quad meeting adds momentum. But the reported stalemate over tariffs and political concerns, and criticism from a former Indian trade negotiator that Delhi must not sign a lopsided deal, show the limits. The deal also fits Trump's push to lock in bilateral tariff deals before the midterms and the Shenzhen APEC summit on 18-19 November."
     ],
     "winners": [
       {
-        "who": "Indian exporters",
-        "why": "A signed deal would keep tariffs at 18%, not the earlier 25% plus a 25% penalty, and reduce the risk of sudden changes."
-      },
-      {
-        "who": "Indian refiners with access to Russian crude",
-        "why": "A waiver would let them keep a discounted supply source while Gulf flows are disrupted. The scale is not stated in the material."
+        "who": "Indian exporters, if the 18% rate is locked in",
+        "why": "A clear, lower tariff than the 25% rate (and the extra 25% Russian-oil penalty) improves their position against Asian rivals."
       },
       {
         "who": "The Trump administration",
-        "why": "A signed deal gives a visible tariff win before the midterms and the APEC summit, and shows that tariff pressure can bring partners to terms."
+        "why": "A signed deal gives it a headline win before the midterms and leverage ahead of Shenzhen."
+      },
+      {
+        "who": "Indian refiners with US-compatible sourcing, such as Jamnagar operators",
+        "why": "Waivers and a settled trade relationship could reduce sanctions risk, though details are unconfirmed."
       }
     ],
     "losers": [
       {
-        "who": "Russia's oil revenue outlook",
-        "why": "Linking waivers to trade shows Washington is not trying to cut India off fully. But a deal could still include Russia-related conditions that reduce its sales over time."
+        "who": "Chinese exporters competing for US import share",
+        "why": "An 18% rate for India narrows their relative tariff advantage in some categories. This is an inference, not a measured result."
       },
       {
-        "who": "Competing exporters facing higher US duties",
-        "why": "If India's 18% rate holds, rivals with higher or less certain rates lose price advantage in the US market. Which countries this hits depends on their own deals."
+        "who": "Indian firms that wait on the text",
+        "why": "Until the first tranche is signed, investment and pricing decisions stay on hold."
       },
       {
-        "who": "Advocates of tough Russia sanctions",
-        "why": "Tying waivers to a bilateral trade deal treats sanctions as a bargaining chip."
+        "who": "Russian energy sellers",
+        "why": "If India cuts its Russian crude purchases to meet US demands, they lose a large buyer. The waivers suggest the US may not demand this yet."
       }
     ],
     "whatsNext": [
-      "20-21 October: Rubio's Mumbai meeting with Jaishankar and his Jamnagar visit. Watch for statements on signing timing and Russian crude.",
-      "Late October to November: legal drafting of the first tranche continues. A signing date is possible but not announced.",
-      "3 November: US midterm elections.",
-      "18-19 November: APEC leaders' meeting in Shenzhen, where Trump plans to attend and Beijing will push for tariff relief."
+      "Late October to November: lawyers finish the first tranche; the key question is whether the signing date is announced.",
+      "3 November: US midterm elections. Trade announcements may be timed around them.",
+      "18-19 November: APEC leaders meet in Shenzhen, with Trump due to attend. A China deal could change how Washington values an India deal.",
+      "Quad foreign ministers meet in the US ahead of the leaders' summit; the date of that summit is not confirmed in the material."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely outcome for the first-tranche trade deal by the end of 2026?",
+      "question": "Before you read the scenarios: when will the first tranche of the US-India deal most likely be signed?",
       "options": [
-        "Signed before the APEC summit on 18 November",
-        "Signed between the summit and 31 December",
-        "Announced as 'agreed in principle' but not formally signed",
-        "Talks stall and the February framework stays the only text"
+        "Before the US midterms on 3 November",
+        "Between the midterms and the end of 2026",
+        "In 2027 or later",
+        "Never; talks collapse"
       ],
       "answerIndex": 1,
-      "explanation": "Our base case, at about 35%, is a signing after APEC but before year-end. Rubio's tone is upbeat, but Greer said on 2 October that a deal was not imminent and the text is still in legal drafting. Signing before 18 November is the next most likely at about 30%. These are author judgements, not sourced forecasts."
+      "explanation": "Our base case is signing between the midterms and end-2026. Both sides say the text is nearly done, but Greer says nothing is imminent, and drafting and political disputes usually take weeks. The probability is our judgement, not a sourced forecast."
     },
     "recap": [
       {
-        "question": "What did the February 2026 framework do to the US reciprocal tariff on Indian goods?",
+        "question": "What did the February 2026 framework do to the US tariff on Indian goods?",
         "options": [
-          "Raised it from 18% to 25%",
+          "Raised it to 50%",
           "Cut it from 25% to 18%",
-          "Left it unchanged at 25%"
+          "Left it unchanged"
         ],
         "answerIndex": 1
       },
       {
-        "question": "What is Rubio explicitly linking to the trade talks?",
+        "question": "What has Rubio linked to the trade talks?",
         "options": [
           "US waivers on Russian-energy sanctions",
-          "A US troop deployment",
-          "A new Indian defence purchase"
+          "A US withdrawal from the Quad",
+          "Indian arms purchases"
         ],
         "answerIndex": 0
       },
       {
-        "question": "What stage is the first tranche of the deal at?",
+        "question": "What did Greer say on 26 October?",
         "options": [
-          "Already in force",
-          "Legal drafting",
-          "Rejected by India"
+          "The deal was signed",
+          "The deal is nearing completion but no immediate agreement is expected",
+          "Talks were cancelled"
         ],
         "answerIndex": 1
       }
@@ -187,54 +225,59 @@
   "deep": {
     "timeline": [
       {
-        "date": "2025-08-01",
-        "title": "US puts heavy tariffs on India (approximate date)",
-        "detail": "In 2025 the US imposed a 25% reciprocal tariff on Indian goods and then a further 25% penalty tied to Russian oil purchases. This is background from general knowledge; the exact dates were not in the source material.",
-        "turning": true
-      },
-      {
         "date": "2026-02-15",
-        "title": "US-India trade framework analysed by Stimson",
-        "detail": "The framework cut the reciprocal tariff from 25% to 18% and removed the separate 25% Russia-linked penalty. The announcement came shortly before the Stimson Center published its analysis on 15 February.",
+        "title": "Analysts assess the US-India trade announcements",
+        "detail": "The Stimson Center reviews the February framework, which cut the US reciprocal tariff on Indian goods from 25% to 18% and removed a separate 25% penalty tied to Russian oil.",
         "sourceIndex": 1,
         "turning": true
       },
       {
-        "date": "2026-02-27",
+        "date": "2026-02-28",
         "title": "Strikes on Iran begin",
-        "detail": "Oil and freight costs stay elevated for the following eight months and make India's energy choices harder.",
-        "sourceIndex": 0
+        "detail": "The US-Israel war on Iran starts and, with disrupted Hormuz flows, keeps oil and freight costs elevated for the next eight months."
       },
       {
         "date": "2026-10-02",
-        "title": "USTR Greer says a deal is not imminent",
-        "detail": "The first tranche is still in legal drafting.",
-        "sourceIndex": 0
+        "title": "Greer says a deal is not imminent",
+        "detail": "The US Trade Representative signals that the first tranche is still in legal drafting."
       },
       {
         "date": "2026-10-19",
-        "title": "Rubio says the US is 'very close' to a deal",
-        "detail": "He speaks the day before his Mumbai visit and ties sanctions waivers on Russian energy to the talks.",
-        "sourceIndex": 0,
-        "turning": true
+        "title": "Rubio says the US is 'very close'",
+        "detail": "The secretary of state speaks the day before his Mumbai visit.",
+        "sourceIndex": 0
       },
       {
         "date": "2026-10-20",
         "title": "Rubio meets Jaishankar in Mumbai",
-        "detail": "Talks on the trade deal and energy.",
-        "sourceIndex": 0
+        "detail": "The talks cover the trade deal and Russian-energy waivers, which Rubio explicitly ties to the trade negotiations.",
+        "sourceIndex": 0,
+        "turning": true
       },
       {
         "date": "2026-10-21",
-        "title": "Rubio visits the Jamnagar refinery",
-        "detail": "A site closely tied to India's crude imports and refining capacity.",
-        "sourceIndex": 0
+        "title": "Planned visit to the Jamnagar refinery",
+        "detail": "Rubio was scheduled to visit the Jamnagar refinery. Wire headlines describe the trip as a turn to a small Indian city as the US faces high oil prices; we have not confirmed what was agreed there.",
+        "sourceIndex": 5
       },
       {
-        "date": "2026-11-18",
-        "title": "APEC leaders' meeting opens in Shenzhen",
-        "detail": "Trump plans to attend. It is a deadline that the broader tariff push is working towards.",
-        "turning": false
+        "date": "2026-10-25",
+        "title": "Quad ministers to meet; deal reported stuck",
+        "detail": "Quad foreign ministers are set to meet in the US ahead of the leaders' summit. Separately, sources say the interim deal is stuck over tariffs and political concerns. Jaishankar says 'It's never done till it's done'.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Goyal: most discussions concluded",
+        "detail": "India's commerce minister says the agreement is now being fine-tuned. Greer says the deal is nearing completion but no immediate agreement is expected.",
+        "sourceIndex": 2,
+        "turning": true
+      },
+      {
+        "date": "2026-10-27",
+        "title": "White House calls the talks 'productive'",
+        "detail": "Washington's response to Goyal's comments is positive but gives no signing date.",
+        "sourceIndex": 2
       }
     ],
     "causes": [
@@ -243,16 +286,16 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "Large bilateral trade relationship",
-            "detail": "The US is a major destination for Indian goods, so tariff levels matter a great deal to Indian exporters."
+            "name": "US tariff strategy",
+            "detail": "The administration uses tariffs as leverage and wants bilateral deals with each partner."
           },
           {
-            "name": "India's reliance on imported oil",
-            "detail": "India imports most of its crude, and Russian barrels became a major source after 2022. That is general knowledge; shares were not in the source material."
+            "name": "India's reliance on Russian crude",
+            "detail": "Cheap Russian oil became a large share of India's imports, and the US used a 25% penalty to pressure Delhi before removing it in February."
           },
           {
-            "name": "Tariffs as a US bargaining tool",
-            "detail": "Washington uses tariff levels, and penalties linked to Russian oil, to extract commitments from partners."
+            "name": "Competition with China for US import share",
+            "detail": "Both countries sell similar categories of goods to US buyers, so tariff gaps matter."
           }
         ]
       },
@@ -262,11 +305,11 @@
         "causes": [
           {
             "name": "February framework",
-            "detail": "It cut the tariff to 18% and removed the 25% Russia-linked penalty, but left the legal text for later."
+            "detail": "It set the 18% rate and dropped the Russian-oil penalty, but left details for later tranches."
           },
           {
-            "name": "Drafting delay",
-            "detail": "The first tranche is still in legal drafting; Greer said on 2 October that a deal was not imminent."
+            "name": "Drafting stage",
+            "detail": "The first tranche is in legal drafting, so a signing is near in principle but not scheduled."
           }
         ]
       },
@@ -275,16 +318,16 @@
         "when": "October 2026",
         "causes": [
           {
-            "name": "Gulf energy shock",
-            "detail": "With Hormuz flows disrupted, India cannot easily replace Russian crude, so the US links waivers to the trade deal."
+            "name": "Iran war energy shock",
+            "detail": "Disrupted Hormuz flows and high oil prices make India's Russian crude harder to replace, so the US links waivers to the trade deal."
           },
           {
-            "name": "Calendar pressure",
-            "detail": "The US midterms on 3 November and APEC in Shenzhen on 18-19 November give Washington reasons to show deals."
+            "name": "US political calendar",
+            "detail": "Midterms on 3 November and the Shenzhen summit on 18-19 November create pressure to show trade wins."
           },
           {
-            "name": "Rubio's visit",
-            "detail": "A senior US visit to Mumbai and the Jamnagar refinery signals political weight behind closing."
+            "name": "Diplomatic track",
+            "detail": "Rubio's visit and the Quad ministers' meeting add momentum to the relationship."
           }
         ]
       }
@@ -293,261 +336,264 @@
       {
         "name": "Marco Rubio",
         "role": "US Secretary of State",
-        "wants": "A signed deal and a managed approach to India's Russian energy purchases",
-        "leverage": "Sanctions waivers and the tariff rate",
-        "likelyMove": "Stay publicly upbeat, link waivers to progress, avoid a hard public date"
+        "wants": "A closed deal and Indian alignment on energy and security",
+        "leverage": "Waivers on Russian-energy sanctions; the Quad track",
+        "likelyMove": "Keep pressing publicly that the deal is 'very close' while linking it to energy"
       },
       {
         "name": "Jamieson Greer",
         "role": "US Trade Representative",
-        "wants": "Legal text that holds up and delivers concessions on market access",
-        "leverage": "Control of the drafting process",
-        "likelyMove": "Stay cautious on timing, as in his 2 October comments"
+        "wants": "A deal that meets US tariff and market-access aims",
+        "leverage": "Control of the legal text and the tariff schedule",
+        "likelyMove": "Stay cautious on timing, saying no immediate agreement is expected"
       },
       {
-        "name": "S. Jaishankar and the Modi government",
-        "role": "Indian foreign policy and trade decision-makers",
-        "wants": "Tariff certainty, continued energy supply and room to act independently on Russia",
-        "leverage": "Size of the Indian market and its importance to US strategy",
-        "likelyMove": "Welcome progress, avoid public commitments on cutting Russian oil"
+        "name": "S. Jaishankar",
+        "role": "India's External Affairs Minister",
+        "wants": "A deal that preserves India's strategic autonomy",
+        "leverage": "The Quad relationship and India's market size",
+        "likelyMove": "Stress that nothing is final until signed"
       },
       {
-        "name": "Indian refiners (including the Jamnagar operator)",
-        "role": "Large buyers of crude",
-        "wants": "Reliable, affordable supply and legal cover for Russian purchases",
-        "leverage": "Their purchase volumes and refined-product exports",
-        "likelyMove": "Keep buying where permitted, seek clear waiver terms"
+        "name": "Piyush Goyal",
+        "role": "India's Commerce Minister",
+        "wants": "A signed first tranche that locks in the 18% rate",
+        "leverage": "Control of India's negotiating text",
+        "likelyMove": "Keep describing the talks as nearly complete"
+      },
+      {
+        "name": "Indian refiners (e.g. Jamnagar operators)",
+        "role": "Buyers of Russian and other crude",
+        "wants": "Supply security and protection from sanctions risk",
+        "leverage": "Large refining capacity that the US wants to see supplied",
+        "likelyMove": "Keep diversifying crude sources while waivers hold"
       },
       {
         "name": "Indian exporters",
-        "role": "Firms selling into the US",
-        "wants": "A fixed, low tariff and fewer surprises",
-        "leverage": "Lobbying and employment in export sectors",
-        "likelyMove": "Press for a fast signing and for coverage of labour-intensive goods"
+        "role": "Textiles, goods and services sellers",
+        "wants": "A predictable US tariff and fewer extra duties",
+        "leverage": "Employment and lobbying weight",
+        "likelyMove": "Diversify to Europe and other markets in case the deal slips"
       },
       {
-        "name": "Russia",
-        "role": "Oil seller",
-        "wants": "Keep India as a buyer",
-        "leverage": "Discounts and supply reliability",
-        "likelyMove": "Offer favourable terms and treat US waivers as validation"
-      },
-      {
-        "name": "China",
-        "role": "Competitor and APEC host",
-        "wants": "Tariff relief and US import share",
-        "leverage": "Export capacity and hosting the Shenzhen agenda",
-        "likelyMove": "Use the summit to press for relief"
+        "name": "Moscow",
+        "role": "Supplier of discounted crude",
+        "wants": "To keep India as a major buyer",
+        "leverage": "Price discounts and supply",
+        "likelyMove": "Offer favourable terms to hold market share while the US wavers"
       }
     ],
     "sectors": [
       {
-        "sector": "Indian export manufacturing",
+        "sector": "Indian textiles and apparel",
+        "direction": "mixed",
+        "size": 2,
+        "why": "A lower US tariff helps, but firms such as a Gap supplier are also looking to Europe to cut US reliance."
+      },
+      {
+        "sector": "Indian refining and oil trading",
+        "direction": "mixed",
+        "size": 3,
+        "why": "Waivers ease sanctions risk, but any US demand to cut Russian crude would raise costs while Hormuz flows are disrupted."
+      },
+      {
+        "sector": "US consumers and importers of Indian goods",
         "direction": "up",
-        "size": 2,
-        "why": "A locked-in 18% tariff, down from earlier levels, gives price and planning certainty. How far it helps depends on rivals' rates."
+        "size": 1,
+        "why": "A lower tariff than 25% (plus the Russian-oil penalty) lowers import costs, though the pass-through is unmeasured."
       },
       {
-        "sector": "Indian refining",
-        "direction": "mixed",
-        "size": 2,
-        "why": "A waiver would protect access to Russian crude, but conditions in the final text could tighten volumes."
-      },
-      {
-        "sector": "Russian energy exporters",
-        "direction": "mixed",
-        "size": 2,
-        "why": "Waivers keep a major buyer for now. A later deal condition could erode that."
-      },
-      {
-        "sector": "Competing Asian exporters",
+        "sector": "Chinese export manufacturers",
         "direction": "down",
-        "size": 1,
-        "why": "Their relative position in the US market weakens if India's tariff is lower or more certain than theirs."
-      },
-      {
-        "sector": "Global oil markets",
-        "direction": "mixed",
-        "size": 1,
-        "why": "Continued Indian purchases of Russian oil ease pressure on other supply, but sanctions uncertainty keeps risk premiums in place."
+        "size": 2,
+        "why": "A lower tariff on Indian goods narrows China's relative advantage in categories where both compete for US import share."
       },
       {
         "sector": "Shipping and logistics",
         "direction": "mixed",
         "size": 1,
-        "why": "More US-India trade is helpful, but elevated Gulf-related freight costs persist."
+        "why": "A signed deal could raise India-US volumes, but war-driven freight costs remain high."
+      },
+      {
+        "sector": "Global crude markets",
+        "direction": "mixed",
+        "size": 2,
+        "why": "If India shifts away from Russian crude, supplies tighten; if waivers continue, little changes."
       }
     ],
     "dailyLife": [
       {
-        "item": "Prices of Indian-made goods in the US",
-        "effect": "A lower tariff can reduce the cost passed to US buyers on goods such as textiles and similar items, though retailers may not pass savings on quickly."
+        "item": "Prices of Indian-made clothing and goods in US shops",
+        "effect": "A lower tariff can reduce costs for importers, but how much reaches shoppers depends on retailers and is not measured here.",
+        "sourceIndex": 1
       },
       {
-        "item": "Fuel and energy costs in India",
-        "effect": "Continued access to Russian crude helps limit the pressure from the Gulf energy shock. The size of the effect was not in the source material."
+        "item": "Fuel prices",
+        "effect": "The Iran war has kept oil and freight costs high for eight months; French diesel hit a record EUR 2.41 a litre in September, and Indian refiners face the same global market."
       },
       {
-        "item": "Jobs in export sectors",
-        "effect": "Tariff certainty supports hiring in export-heavy industries, though much depends on demand in the US."
+        "item": "Jobs in Indian export hubs",
+        "effect": "Textile and apparel workers depend on US orders, so a signed deal or a stall affects hiring. We have no figures."
       },
       {
-        "item": "Travel and visas",
-        "effect": "The material does not say that the deal covers this, so no effect is expected from this event."
+        "item": "Travel and diplomacy",
+        "effect": "High-level visits and the Quad meeting can speed visas and business links, but no concrete changes are announced."
       }
     ],
     "scenarios": [
       {
-        "name": "Signed before APEC",
-        "probability": 30,
-        "looksLike": "The first tranche is signed or formally announced before 18 November. Waivers on Russian energy are extended or clarified.",
-        "signposts": [
-          "A signing date announced after the Rubio visit",
-          "Greer shifts tone from cautious to confident",
-          "Indian cabinet clears the text"
-        ],
-        "effectOnWorld": "Gives Trump a template before meeting Xi. It also strengthens the idea that tariff relief can be traded for energy and market-access commitments."
-      },
-      {
-        "name": "Signed late 2026",
-        "probability": 35,
-        "looksLike": "Drafting runs past APEC. A signing follows in December or just before year-end, with minor text changes.",
-        "signposts": [
-          "Public statements about 'final stages'",
-          "Trade officials meeting in person after Rubio's visit",
-          "No new Russia-related demand"
-        ],
-        "effectOnWorld": "The deal arrives as a quiet closure, with less leverage in the Shenzhen talks."
-      },
-      {
-        "name": "Agreed in principle only",
+        "name": "Signing before Shenzhen",
         "probability": 20,
-        "looksLike": "Leaders announce an agreement, but legal text and key details keep slipping into 2027.",
+        "looksLike": "The first tranche is signed in the weeks after the US midterms and before 18 November, with the 18% rate and energy language confirmed.",
         "signposts": [
-          "Repeated 'very close' statements without dates",
-          "Disputes over agriculture or digital trade",
-          "Waivers renewed in short steps"
+          "A signing date is announced by either side",
+          "Greer's language shifts from 'nearing completion' to 'finalised'",
+          "Waivers are extended or formalised"
         ],
-        "effectOnWorld": "Uncertainty lingers; Indian exporters stay exposed to policy change."
+        "effectOnWorld": "Gives Trump a trade win before Shenzhen and reduces uncertainty for Indian exporters."
       },
       {
-        "name": "Stall or breakdown",
-        "probability": 15,
-        "looksLike": "A dispute over Russian oil, or a shift in US priorities, halts progress. Tariff levels are reopened.",
+        "name": "Signing by early 2027",
+        "probability": 35,
+        "looksLike": "Drafting finishes after the midterms and the deal is signed between mid-November and end-January, perhaps alongside a Quad summit.",
         "signposts": [
-          "New US demands on Russian crude volumes",
-          "Waiver lapses",
-          "Indian officials publicly push back"
+          "Quad leaders' summit date set",
+          "No new tariff threats against India",
+          "Talks described as 'final text'"
         ],
-        "effectOnWorld": "India leans harder on other partners and Russia; the US loses a showcase deal."
+        "effectOnWorld": "A modest boost to India-US trade, with timing driven by diplomatic events."
+      },
+      {
+        "name": "Drawn-out stalemate",
+        "probability": 30,
+        "looksLike": "Both sides keep saying 'nearly done' while disputes over tariffs and politics persist beyond the first quarter of 2027.",
+        "signposts": [
+          "Repeated 'no immediate agreement' statements",
+          "Indian exporters shift to Europe",
+          "Domestic criticism of a lopsided deal grows"
+        ],
+        "effectOnWorld": "Uncertainty persists and exporters diversify; waivers become the main bargaining chip."
+      },
+      {
+        "name": "Breakdown",
+        "probability": 15,
+        "looksLike": "Talks collapse over Russian oil, tariffs or politics, and the US raises tariffs or ends the waivers.",
+        "signposts": [
+          "Waivers lapse",
+          "Public disputes between Delhi and Washington",
+          "Quad meetings postponed"
+        ],
+        "effectOnWorld": "Higher costs for Indian exporters, more Russian crude pressure and a setback for the Quad."
       }
     ],
     "predictions": [
       {
-        "text": "The first tranche of the US-India trade deal will be signed or formally announced by 31 December 2026. Probability about 65%.",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
-      },
-      {
-        "text": "It will be signed or formally announced before the APEC leaders' meeting opens on 18 November. Probability about 30%.",
+        "text": "Probability 0.20: the first tranche of the US-India trade deal is signed before 18 November 2026.",
         "horizon": "By 18 November 2026",
         "resolves": "2026-11-18"
       },
       {
-        "text": "The US reciprocal tariff on most Indian goods will remain at 18% or lower through year-end. Probability about 85%.",
+        "text": "Probability 0.55: the first tranche is signed by 31 January 2027.",
+        "horizon": "By end-January 2027",
+        "resolves": "2027-01-31"
+      },
+      {
+        "text": "Probability 0.75: the US keeps its 18% reciprocal tariff on Indian goods unchanged through the end of 2026.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "The US will extend or clarify its waivers for Russian-energy purchases by India, not let them lapse without a replacement. Probability about 70%.",
+        "text": "Probability 0.60: US waivers on Russian-energy sanctions remain tied publicly to the India talks until the deal is signed.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Rubio or another senior US official will publicly describe the deal as signed or complete by the end of the first quarter of 2027. Probability about 80%.",
-        "horizon": "By 31 March 2027",
-        "resolves": "2027-03-31"
+        "text": "Probability 0.50: the Quad leaders' summit takes place within six months, with the trade deal mentioned in the outcome.",
+        "horizon": "By April 2027",
+        "resolves": "2027-04-30"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Exporters to the US: keep pricing flexible until the first tranche is signed, since the 18% rate is not yet in final legal text.",
-          "Check which product lines are covered by the first tranche and which are left for later rounds.",
-          "Importers of Indian goods: avoid long fixed-price contracts that assume a lower tariff before signing.",
-          "Firms exposed to energy costs: model a case where Russian crude waivers are narrowed."
+          "Price US contracts with the 18% rate as the base case and add a clause for tariff changes.",
+          "Build alternative markets, such as Europe, as some Indian suppliers are doing.",
+          "Watch energy and freight costs, which the Iran war keeps high.",
+          "Track Russian-oil sanctions language if your supply chain touches Indian refiners."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat 'very close' as a signal, not a signing. Greer said on 2 October that the deal was not imminent.",
-          "Watch for the waiver text on Russian energy, since it affects refiners and oil markets.",
-          "Consider the read-across to China and APEC, where the same US tariff push is under way."
+          "Treat 'nearing completion' statements as signals, not dates.",
+          "Watch Indian refiners and textile exporters for headline sensitivity.",
+          "Follow the Quad and Shenzhen calendars, which can shift timing."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Do not expect immediate price changes from the announcement alone.",
-          "Energy prices depend more on the Gulf conflict than on this deal."
+          "Expect little direct effect on shop prices in the near term.",
+          "Plan for continued high fuel prices while the Iran war persists."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Publish the legal text and the list of covered goods promptly, to reduce uncertainty.",
-          "Be clear on how waivers will be reviewed, and who decides.",
-          "Coordinate the sanctions message with allies, since linking waivers to trade can read as a weakened stance."
+          "Publish the tariff schedule and energy terms clearly to reduce uncertainty.",
+          "Avoid signing a deal seen as lopsided; domestic critics warn against it.",
+          "Coordinate on energy supply so waivers do not create sudden cliffs."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "US tariffs and Russian-oil penalty on India",
+        "event": "US-UK trade announcements",
         "year": "2025",
-        "whatFollowed": "A 25% reciprocal tariff plus a separate 25% penalty strained ties and led to the negotiations that produced the February 2026 framework. Dates and details are from general knowledge."
+        "whatFollowed": "A headline framework was announced quickly, while fuller legal text and details took months to finalise."
       },
       {
-        "event": "US-Japan tariff agreement",
+        "event": "US-Vietnam and US-Japan tariff frameworks",
         "year": "2025",
-        "whatFollowed": "A headline deal came first, with details and implementation sorted out over the following months. This is from general knowledge and the specifics should be checked."
+        "whatFollowed": "Frameworks set tariff rates first, with details and implementation negotiated afterwards and sometimes disputed."
       },
       {
-        "event": "US-UK trade announcement",
-        "year": "2025",
-        "whatFollowed": "An initial announcement was followed by slow work on the remaining terms. This is from general knowledge."
+        "event": "US sanctions waivers on Iranian oil for major buyers",
+        "year": "2018-19",
+        "whatFollowed": "The US granted temporary waivers to large importers including India, then let them lapse, showing how waivers can serve as leverage."
       }
     ],
     "watch": [
       {
-        "date": "2026-10-20",
-        "title": "Rubio-Jaishankar meeting in Mumbai",
-        "why": "Statements here show whether a signing date or new conditions are on the table."
-      },
-      {
-        "date": "2026-10-21",
-        "title": "Rubio at the Jamnagar refinery",
-        "why": "The visit may bring signals on Russian crude volumes and waivers."
-      },
-      {
         "date": "2026-11-03",
         "title": "US midterm elections",
-        "why": "The political incentive for a visible tariff deal peaks around this date."
+        "why": "Trade announcements may be timed around the vote, and the result affects Trump's negotiating posture."
       },
       {
         "date": "2026-11-18",
-        "title": "APEC leaders' meeting in Shenzhen opens",
-        "why": "Trump plans to attend and the broader tariff push is working towards this date."
+        "title": "APEC summit in Shenzhen begins",
+        "why": "A US-China exchange could change how Washington weighs the India deal; the summit runs 18-19 November."
       },
       {
-        "title": "Legal text of the first tranche",
-        "why": "Publication or a cabinet clearance would show the deal is real."
+        "title": "Quad foreign ministers' meeting in the US",
+        "why": "A date for the leaders' summit or trade language would signal momentum."
       },
       {
-        "title": "Status of Russian-energy waivers",
-        "why": "Any lapse or extension reveals how hard Washington is pressing."
+        "title": "US waivers on Russian-energy sanctions",
+        "why": "An extension, formalisation or lapse would show where energy and trade bargaining stands."
+      },
+      {
+        "title": "Greer and Goyal statements",
+        "why": "A change from 'fine-tuning' and 'no immediate agreement' to a signing date would be the clearest signal."
+      },
+      {
+        "title": "Oil and freight prices",
+        "why": "Further Gulf escalation raises India's need for Russian crude and the value of the waivers."
+      },
+      {
+        "title": "Indian exporters' order books",
+        "why": "Shifts toward Europe or other markets would show how little exporters trust the timeline."
       }
     ]
   },
@@ -564,54 +610,85 @@
         "url": "https://www.stimson.org/2026/implications-of-us-india-trade-announcements/",
         "publisher": "Stimson Center",
         "date": "2026-02-15"
+      },
+      {
+        "title": "India-US Trade Deal: Piyush Goyal says most discussions concluded, agreement being fine-tuned",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSlpIOWJXZkJxYm9MaEF3VzNsdUVMX1U2cVFrbGVzS2tIUUVPMVNGbFp2VHA1STJLamZSSm0xSTk2NzIwZmZuODI2X0gtRU1QcnNOTVIwa0JlSmQxYlNwTEdYSnA0MFIzTm5ERTczMXRoOVMybnFsd2pVMW1WcndRM2ZTRHlGVmRqeHd5WHpoa3EzYWtmaUc5U1VlSzNGd3BtbV8wUkR0Z0g2T0twM3hNd0tweVdPY05neGtmUHZmeVctY28xOVZobXY2VXR3YzRl0gHWAUFVX3lxTE9QRXo2RmM2X3lSaTQ2SGRVVGRNUTBUeUtRV3owWFJYSm5DWFJpdzd0cmZpUXNwMFhzdTZKREZsMzcxa19XZ0V0UGl2ZUw1NmtuX1hnanR1dENHZGZPd2I0LWNlVUlMdnJRTWZKNF9aaElUZXpPZ0d4MG04UmVIUElicFFTNVBNcFdoVFpIYWRXZG5mZWJGUWlnTVZfX3ZjRnh6aEJ4OVBBbEtRRFZaajNDcFRaU0lCQXZPUlExRk80bkZ3OElCcTk2OHZiQjlSZm14Y1hFV1E?oc=5",
+        "publisher": "CNBC TV18",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Why India's interim trade deal with US remains stuck",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlo3b18wbjR3ak9HQWctOGZtRjNKdUpOeFFXTXVMb3FfM1F1Zlpwb1QyaUQxV2ZRTmJNVDdZR2dMSGZfdVlsNXJiTV9NenRPNVJ6T0xONVRFTTl4TFgtbDlZUlFuYVRteFlxNG1vdlpCZC1VM0puTUJnZ3ZYTVdqYVVVdGUtMzJkR3dpcXVIdzJJRlI3eFQxZExoMWt0SmM0Z0szM2lVY2wtZw?oc=5",
+        "publisher": "NewsBytes",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "India-US Trade Deal Nears Completion, but No Immediate Agreement Expected: Greer",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2c1Y202WThTNnZ5Y0hsZzlfN045UkQ3SDYyTU1LY1pEelM4QXF4WHpGOUpoaC1KZDJKMTlzVjdwRUtscDRrT2xCM0hUNzZDS1lNX2ZaQzZkUF92Z3FCa0pZekZUbVF4Mmx2Nk1RYnNXZWpyRXUxazRORURLLWlEUF9ELTMyYW80ZG0yQUtmbWdsYWFDamJuTTRzNk4wZzdLZGE3RmRFay1lbm8?oc=5",
+        "publisher": "INDIA New England News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Rubio turns to small Indian city as US faces high oil prices",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRTcyLVJEZTBENkdZanZ6LVZaekVjNUFYX3lRNUZ0RXU4RDlVQ0hUWkdxenlfcjlRNUpBbDd0M3JBU01kYzN6X1ZkSmlTSG84RDU0Yl9zMklPUVYzNWNXcjVLR0tyNGZUQVFMVnY4WDlsZEl5OFdMU0I1aHlFNmFuZ3k3cHhFTWZyczRSbG1VSng?oc=5",
+        "publisher": "Yahoo",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Ahead of leaders' summit, Quad foreign ministers to meet in US",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjRITVdrU2RzT1N0V1ZtMDY5TWdvN0tneFJpdDgwSml3a1pVYnhab1JNamhFWElBY1VFQ0VnSWhQbDV0Ukt0MERWbFZIOFU2cEJQQy1LbFdwbmVnVERqZFA4U1g4dkl2Q3NNSk9yQXVEMERIbUFjeEFZQUl3WWM4NFhXV1o2b2VJcUtpcmRLZzhMYWlVa28wTU1qS3hUeFN0Vzd0T3pmMU1uMUdnbmfSAbMBQVVfeXFMUHBvTEF3WnU5WWlrQ1pwVHFUb2h5WVBXQXNuMXZGeXBDMlZpbmdnVl94OHFqd0xnWF92OWhPM0FzcGtvTmRPMVNUTkxic2d1b09tbkZWeEotSU9uT0RnRHlyajYxRmJmVXlUZzJwVHFvQUgxV0d3RTdRTlRlOXZJdzFmVWxyN2l2WUhmRjc2UUthdms3aWZwUjJELTBLbkVBQldMeU8yQTl2MUZwRlI0dHZUdFk?oc=5",
+        "publisher": "The Times of India",
+        "date": "2026-10-25"
       }
     ],
     "confidence": [
       {
-        "claim": "Rubio said the US is 'very close' to a deal and will meet Jaishankar on 20 October and visit Jamnagar on 21 October",
+        "claim": "February framework: US tariff on Indian goods cut from 25% to 18%, and a separate 25% Russian-oil penalty removed",
         "level": "high",
-        "note": "Reported in the ETV Bharat piece listed and in the event summary."
+        "note": "Stated in the event summary and discussed in the Stimson Center analysis."
       },
       {
-        "claim": "The February framework cut the tariff from 25% to 18% and removed a separate 25% Russia-linked penalty",
+        "claim": "The first tranche is still in legal drafting and no immediate signing is expected",
         "level": "medium",
-        "note": "Taken from the event summary and consistent with the Stimson analysis date. The exact wording in the Stimson article was not checked for this draft."
+        "note": "Based on the event summary and headlines quoting Greer and unnamed sources; no official text is available."
       },
       {
-        "claim": "The first tranche is still in legal drafting and Greer said on 2 October a deal was not imminent",
+        "claim": "Rubio ties US waivers on Russian-energy sanctions to the trade talks",
         "level": "medium",
-        "note": "From the event summary; not independently confirmed against a second source."
+        "note": "From the event summary; the exact scope of the waivers is not detailed in our sources."
       },
       {
-        "claim": "Gulf energy shock makes Russian crude hard to replace",
-        "level": "medium",
-        "note": "From the linked event on the Gulf war. The share of Russian crude in India's imports was not in the material and is not estimated."
-      },
-      {
-        "claim": "2025 tariff background and analogues (US-Japan, US-UK)",
+        "claim": "Rubio visited Jamnagar on 21 October",
         "level": "low",
-        "note": "General knowledge, not in the listed sources. Dates and details should be checked before reliance."
+        "note": "The visit was planned; headlines describe it but we did not read an account of what was agreed."
       },
       {
-        "claim": "Scenario probabilities and prediction probabilities",
+        "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, not sourced forecasts. They are graded as events resolve."
+        "note": "Author judgement, not a sourced forecast; to be graded as events resolve."
+      },
+      {
+        "claim": "Link between India deal timing and the midterms and Shenzhen summit",
+        "level": "low",
+        "note": "Based on the connection analysis rather than a direct statement from US officials."
       }
     ],
-    "method": "Drafted from the two listed sources, the event summary and the three linked event descriptions (Gulf energy shock, China's Q3 growth, APEC Shenzhen). Neither source was re-read in full; figures come from the summary. The ETV Bharat piece and the Stimson analysis are the only URLs cited. Historical analogues rely on general knowledge and carry low confidence. Scenario probabilities, prediction probabilities and sector effects are estimates. No chart is included because the material has no numeric series.",
+    "method": "Drafted from the listed sources and the matched wire headlines, mostly secondary reports of statements by Rubio, Greer, Goyal and Jaishankar. No primary text of the agreement was available. Tariff rates come from the event summary and the Stimson analysis. Oil-market context comes from the connected event material. Scenario probabilities, prediction probabilities and sector directions are the author's estimates, and the Jamnagar visit outcome and the scope of the sanctions waivers could not be confirmed.",
     "changeLog": [
       {
-        "date": "2026-10-19",
-        "change": "First draft."
+        "date": "2026-10-27",
+        "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:05:09.296Z",
+    "at": "2026-10-27T03:15:17.189Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 24,
+    "reviewed": false,
+    "size": "deep"
   }
 }

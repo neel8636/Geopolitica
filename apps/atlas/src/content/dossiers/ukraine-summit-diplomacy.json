@@ -1,47 +1,72 @@
 {
   "slug": "ukraine-summit-diplomacy",
-  "title": "Putin wants a Ukraine deal made by three leaders, not four",
-  "deck": "Putin has proposed a summit with Trump and Xi on a Ukraine settlement while refusing to meet Zelensky, so the bargaining table is being drawn up without Kyiv or Brussels and just before elections that could shift Western support.",
-  "updated": "2026-10-19",
+  "title": "Putin seeks a Ukraine summit with Trump and Xi",
+  "deck": "Moscow wants a three-way summit in China on a Ukraine deal while refusing to meet Zelensky, and Kyiv and Europe fear being bargained over rather than bargained with.",
+  "updated": "2026-10-27",
   "status": "developing",
   "region": "Russia, Ukraine, United States, China",
   "tags": [
     "Ukraine war",
     "summit diplomacy",
     "US-China-Russia",
+    "ceasefire",
+    "air defence",
     "EU politics",
-    "sanctions",
-    "intelligence sharing"
+    "oil"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 18
   },
+  "fuel": [
+    {
+      "aspect": "security",
+      "title": "Patriot sign-off stalls while Oleshky truce holds",
+      "how": "Zelensky says Hegseth took a month to approve Patriot missiles, which shows how much Kyiv's air defence depends on Washington, even as a US-brokered local ceasefire gives talks a template.",
+      "sourceIndex": 4
+    },
+    {
+      "aspect": "politics",
+      "title": "Trilateral talks to restart, summit prepared",
+      "how": "Zelensky says talks with Russia and the US will restart and Ukraine wants Abu Dhabi moved earlier with the EU at the table, while Moscow pushes a different format of Putin, Trump and Xi.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "energy",
+      "title": "Trump and Zelensky split over oil strikes",
+      "how": "The two leaders disagree over Ukrainian strikes on Russian oil, which exposes a split over how much pressure to put on Moscow before any deal."
+    },
+    {
+      "aspect": "budget",
+      "title": "Russian deficit doubles as Gulf war competes",
+      "how": "A 2026 deficit near twice the plan raises Moscow's incentive to deal, while the war with Iran splits Washington's attention and money."
+    }
+  ],
   "card": {
-    "headline": "Putin asks for a summit with Trump and Xi on Ukraine, and will not meet Zelensky",
+    "headline": "Putin wants to settle Ukraine with Trump and Xi, without Zelensky in the room",
     "keyNumber": {
-      "value": "3 of 4",
-      "label": "leaders Putin wants at the table: himself, Trump and Xi. He refuses to meet Zelensky, the fourth.",
-      "sourceIndex": 0
+      "value": "1 month",
+      "label": "how long Zelensky says Hegseth took to sign off on Patriot missiles for Ukraine",
+      "sourceIndex": 4
     },
     "impactMeter": 5,
     "forYou": [
       {
-        "role": "Finance",
-        "line": "Peace-deal headlines can move oil, European defence stocks and Russian assets quickly. Treat each one as unconfirmed until both Washington and Kyiv respond."
+        "role": "Defence and air-defence suppliers",
+        "line": "Interceptor supply is the bottleneck; US approvals, not Ukrainian demand, set the pace."
       },
       {
-        "role": "Supply chain",
-        "line": "A real deal would be slow to change sanctions or shipping rules. Plan for the status quo, and keep an eye on the APEC summit in Shenzhen on 18-19 November."
+        "role": "Energy and freight",
+        "line": "Oil-strike disputes and the Gulf war keep supply risk priced in; a real ceasefire could ease Black Sea risk, but not soon."
       },
       {
-        "role": "European business",
-        "line": "Ukraine funding runs mostly through EU channels. The French election in April 2027 and the EU budget talks decide how much of it survives."
+        "role": "Investors in Europe",
+        "line": "A US-China-Russia deal struck without allies is a tail risk for European defence and Ukraine-funding plans."
       },
       {
         "role": "Everyone",
-        "line": "The real question is whether any deal would be negotiated over Ukraine's head. Zelensky's answer to Le Pen was that lives are worth more than the price."
+        "line": "A local ceasefire in Oleshky began on 27 October. Whether it widens is the first real test of Moscow's intent."
       }
     ],
     "ripple": [
@@ -49,16 +74,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Putin proposes a Trump-Xi-Putin summit on Ukraine and rules out meeting Zelensky",
-            "sector": "Diplomacy"
+            "text": "Kremlin says preparations are under way for a Putin-Xi-Trump summit in China; Putin still refuses to meet Zelensky",
+            "sector": "Politics"
           },
           {
-            "text": "Rubio denies any pause in US intelligence sharing with Ukraine, which suggests the question was live",
+            "text": "Zelensky says trilateral talks with Russia and the US will restart; Kyiv pushes to pull the Abu Dhabi round forward and bring in the EU",
+            "sector": "Politics"
+          },
+          {
+            "text": "US-brokered ceasefire takes effect in Oleshky for evacuations and aid; Moscow floats copying the model elsewhere",
             "sector": "Security"
           },
           {
-            "text": "Zelensky answers Le Pen's pledge to cut French aid by saying lives are worth more than the price",
-            "sector": "European politics"
+            "text": "Trump and Zelensky clash over Ukrainian strikes on Russian oil",
+            "sector": "Energy"
           }
         ]
       },
@@ -66,20 +95,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Pressure on Kyiv and European capitals to say whether they would accept a deal made without them",
-            "sector": "Diplomacy"
+            "text": "Washington's choices on Patriots, intelligence sharing and Starlink become bargaining chips, whatever the intent",
+            "sector": "Security"
           },
           {
-            "text": "Trump-Xi talks at APEC in Shenzhen (18-19 November) become the nearest real chance to test the idea",
-            "sector": "Geopolitics"
+            "text": "Russia's budget squeeze, with a 2026 deficit near double plan, raises its interest in a deal on its terms",
+            "sector": "Public money"
           },
           {
-            "text": "Russia's budget deficit has nearly doubled against plan, which raises Moscow's incentive to bargain",
-            "sector": "Public finance"
+            "text": "US attention and money are split with the Iran war, weakening Kyiv's claim on both",
+            "sector": "Public money"
           },
           {
-            "text": "The US midterms on 3 November shape how much leverage Trump has on aid",
-            "sector": "US politics"
+            "text": "Europe fears being a price-taker; Zelensky rejects neutrality and army limits ahead of possible talks",
+            "sector": "Politics"
           }
         ]
       },
@@ -87,20 +116,20 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "A French exit from Ukraine funding could weaken the EUR 90bn EU support loan, which relies on big-state backing",
-            "sector": "EU finance"
+            "text": "Ukraine aid becomes a campaign issue in France, with Le Pen pledging to end funding within six months",
+            "sector": "Politics"
           },
           {
-            "text": "The 2028-2034 EU budget fight and the 2027 Italian and French elections become tests of whether Europe's right stays united on Russia",
-            "sector": "European politics"
+            "text": "The next EU budget has to size Ukraine funding without knowing whether there will be a deal or a ceasefire",
+            "sector": "Public money"
           },
           {
-            "text": "North Korea's leverage shifts if its Moscow ally is bargaining with Washington and Beijing",
-            "sector": "Asia security"
+            "text": "A Democratic House from January would constrain what Trump can trade away on Ukraine aid",
+            "sector": "Politics"
           },
           {
-            "text": "A Gulf escalation would pull US attention and money away from Ukraine",
-            "sector": "Energy, security"
+            "text": "Kim Jong Un and Putin both angle for Trump meetings, tying Korean and Ukrainian bargaining together",
+            "sector": "Security"
           }
         ]
       }
@@ -108,130 +137,166 @@
   },
   "brief": {
     "whatHappened": [
-      "Putin proposed a summit with Donald Trump and Xi Jinping to discuss a Ukraine deal. He said he would not meet Volodymyr Zelensky. The proposal was reported on 19 October 2026.",
-      "The same day, US Secretary of State Marco Rubio denied that there had been any pause in US intelligence sharing with Ukraine. We do not have the full detail of the reports that prompted the denial.",
-      "Zelensky also answered Marine Le Pen's pledge to cut French aid to Ukraine. He said that lives are worth more than the price."
+      "On 19 October, Putin proposed a summit with Donald Trump and Xi Jinping on a Ukraine deal while again refusing to meet Volodymyr Zelensky. The same day, Secretary of State Marco Rubio denied there had been any pause in US intelligence sharing with Ukraine.",
+      "By 25 October, headlines said the Kremlin was preparing a Putin-Xi-Trump summit in China and that Moscow, Beijing and Washington were ready in principle. The obvious venue is the APEC leaders' meeting in Shenzhen on 18-19 November, which Trump plans to attend. We have not seen a confirmed date for a three-way meeting.",
+      "On 26 October, Zelensky called out a monthlong wait for Defense Secretary Pete Hegseth to sign off on Patriot missiles, and Trump and Zelensky were reported to clash over Ukrainian strikes on Russian oil. Zelensky also said trilateral talks with Russia and the US would restart.",
+      "On 27 October, a US-brokered local ceasefire began in the occupied town of Oleshky, in the Kherson region, to allow evacuations and aid. Reports credit First Lady Melania Trump with securing it. Russia says it does not intend to halt hostilities elsewhere while talks go on."
     ],
     "whyItMatters": [
-      "A summit of Putin, Trump and Xi would put the three largest military and economic powers around a table on a war in Europe, with the country being invaded and its European backers absent. That is the part that worries Kyiv and European capitals.",
-      "Moscow has reasons to push now. Russia projects a 2026 deficit of 7.345 trillion rubles, nearly double the original plan, and oil-and-gas revenue fell 17.2% in January-September. Defence is set to take more than a third of 2027 federal spending.",
-      "The West's support is also under political strain. Le Pen leads French polls at 35-36% and pledges to end Ukraine funding within six months. US midterms come on 3 November. Italy votes in 2027, and Meloni takes the opposite line from Le Pen."
+      "Security: Ukraine's air defence depends on decisions in Washington. A month's wait on Patriot approval shows the leverage the US holds, at a time when Russian long-range attacks are intensifying; the UN reported at least 14 civilians killed overnight into 22 October. The Oleshky truce is the first concrete sign of a model that could widen, but it is local and humanitarian.",
+      "Politics: Putin wants a format with the two biggest powers and without Kyiv or Europe. Zelensky is pushing the opposite, with Europe at the table, and has publicly rejected neutrality and limits on his army. The talks matter in Europe too: Ukraine aid is now a central issue in France's 2027 campaign, and Italy's Meloni says support for Ukraine is what makes peace possible.",
+      "Energy: Trump and Zelensky disagree over strikes on Russian oil, so the two governments are not aligned on how hard to press Moscow. Oil is also where the second war bites: Gulf fighting since February has kept fuel and freight prices high, and French diesel hit a record EUR 2.41 a litre in September.",
+      "Public money: Russia's government projects a 2026 deficit of 7.3 trillion rubles, nearly double the plan, with defence set to take more than a third of 2027 spending. That is pressure on Moscow to deal. In the West, money and attention are split between Ukraine and Iran, and a Democratic House after 3 November could shape what the US can offer."
     ],
     "winners": [
       {
         "who": "Putin and the Kremlin",
-        "why": "They set the agenda: a deal framed as a great-power matter, with Zelensky shut out. Even a proposal that goes nowhere divides the West."
+        "why": "A summit with Trump and Xi lifts Russia's status, sidelines Kyiv and Europe, and costs nothing if Moscow keeps fighting during talks."
       },
       {
         "who": "Xi Jinping and Beijing",
-        "why": "China hosts APEC in Shenzhen on 18-19 November and gains status as a necessary party to any settlement. Its Q3 growth of 4.5% adds weight."
+        "why": "As APEC host, China controls the stage and could be the broker or arbiter in a great-power deal."
       },
       {
-        "who": "Donald Trump",
-        "why": "He gains the option of presenting himself as the broker between two powers. Whether that becomes a concrete result is unclear."
+        "who": "Residents of Oleshky",
+        "why": "The local ceasefire allows evacuations and aid deliveries in a town described as on the brink of disaster."
+      },
+      {
+        "who": "Air-defence manufacturers",
+        "why": "Demand for interceptors stays far ahead of supply."
       }
     ],
     "losers": [
       {
-        "who": "Volodymyr Zelensky and Ukraine",
-        "why": "Kyiv risks being offered a deal negotiated without it, at a time when French and US support are both uncertain."
+        "who": "Ukraine's negotiating position",
+        "why": "Zelensky is excluded from Putin's proposed format and depends on US decisions for interceptors, intelligence and communications."
       },
       {
-        "who": "European governments backing Ukraine",
-        "why": "Most Ukraine aid runs through EU channels, and Europe would not be at this table. A French pullback would hit the EUR 90bn EU support loan."
+        "who": "European governments",
+        "why": "They fear a deal over their heads on sanctions, borders and security guarantees, while funding most of the aid."
       },
       {
-        "who": "The idea of a negotiated, inclusive settlement",
-        "why": "Putin's refusal to meet Zelensky makes direct talks harder."
+        "who": "Ukrainian civilians",
+        "why": "Long-range attacks are intensifying and Russia says it will not pause fighting during talks."
+      },
+      {
+        "who": "Households in Europe and the US",
+        "why": "Fuel and food prices stay high while two wars compete for attention and money."
       }
     ],
     "whatsNext": [
-      "29 October: first reading of Russia's budget in the Duma, a check on how much Moscow is committing to war spending.",
-      "3 November: US midterms. A Democratic House seated in January would constrain Trump's room to trade aid for a deal.",
-      "18-19 November: APEC leaders' meeting in Shenzhen. Trump plans to attend and may also meet Kim Jong Un.",
-      "By end-2026: EU leaders try to agree the 2028-2034 budget.",
-      "18 April and 2 May 2027: French presidential election rounds."
+      "29 October: first reading of Russia's budget in the Duma.",
+      "1 November: Bulgaria's presidential run-off, where the Ukraine war divides voters.",
+      "3 November: US midterms; a Democratic House would hold the purse strings on Ukraine aid from January.",
+      "Early November, date unconfirmed: trilateral talks with Russia and the US are due to restart; Kyiv wants Abu Dhabi moved forward.",
+      "18-19 November: APEC in Shenzhen, the likeliest venue if a Putin-Xi-Trump meeting happens."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what do you think is the most likely outcome of Putin's summit proposal over the next six months?",
+      "question": "Before you read the scenarios: what is the most likely outcome by the end of 2026?",
       "options": [
-        "A Trump-Putin-Xi summit takes place",
-        "Talk of a summit continues but no leaders' meeting happens",
-        "A ceasefire is agreed through some other channel",
-        "Washington formally rejects the idea and the push fades"
+        "A full ceasefire across Ukraine",
+        "Talks continue and local truces spread, but fighting goes on",
+        "A Putin-Xi-Trump summit produces a signed framework deal",
+        "Talks collapse and the US cuts support"
       ],
       "answerIndex": 1,
-      "explanation": "Our base case, at about 50%, is that the idea stays alive as a talking point and a Trump-Xi side conversation at APEC, but no three-way meeting takes place. A real summit would need Trump's agreement, Beijing's agreement and some answer to the Zelensky question. Treat all of this as our judgement, not a forecast from a source."
+      "explanation": "Our base case, at about 45%, is talks without a general ceasefire: Russia says it will not halt hostilities while negotiating, the BBC's Russia editor judges Putin is under no pressure to end the war, and the Oleshky model may spread only in small steps."
     },
     "recap": [
       {
-        "question": "Who does Putin say he will not meet?",
+        "question": "What did Putin propose on 19 October?",
         "options": [
-          "Trump",
-          "Xi",
-          "Zelensky"
+          "A summit with Trump and Xi, without Zelensky",
+          "A summit with Zelensky and Macron",
+          "A unilateral ceasefire"
         ],
-        "answerIndex": 2
+        "answerIndex": 0
       },
       {
-        "question": "What did Rubio deny?",
+        "question": "What began on 27 October in Oleshky?",
         "options": [
-          "That the US supplies weapons",
-          "That there was any pause in intelligence sharing with Ukraine",
-          "That Trump will attend APEC"
+          "A full ceasefire across Ukraine",
+          "A localised, US-brokered ceasefire for evacuations and aid",
+          "A prisoner exchange"
         ],
         "answerIndex": 1
       },
       {
-        "question": "Which upcoming event is the nearest venue for a Trump-Xi meeting?",
+        "question": "What did Zelensky criticise on 26 October?",
         "options": [
-          "The US midterms on 3 November",
-          "The APEC summit in Shenzhen on 18-19 November",
-          "The French election in April 2027"
+          "A month-long wait for Patriot missile sign-off",
+          "A Russian ban on grain exports",
+          "An EU sanctions delay"
         ],
-        "answerIndex": 1
+        "answerIndex": 0
       }
     ]
   },
   "deep": {
     "timeline": [
       {
-        "date": "2026-02-27",
-        "title": "US and Israeli strikes on Iran begin",
-        "detail": "The start date is given as 27 or 28 February in different material. The Gulf war has kept oil and freight costs high and competes with Ukraine for US attention."
+        "date": "2026-02-28",
+        "title": "US strikes on Iran begin",
+        "detail": "The Gulf war starts to compete with Ukraine for US attention, weapons and money, and keeps oil and freight costs high for months."
       },
       {
         "date": "2026-09-25",
         "title": "Xi's state visit to Washington ends",
-        "detail": "A three-day visit that produced a declared 'constructive relationship of strategic stability' but few concrete trade deliverables. It sets the backdrop for Trump-Xi contact."
+        "detail": "A 'constructive relationship of strategic stability' is declared, with few concrete trade deliverables. It sets up the Trump-Xi channel Moscow now wants to use."
       },
       {
         "date": "2026-10-01",
-        "title": "Russia submits its three-year budget",
-        "detail": "The 2026 deficit is projected at 7.345 trillion rubles ($88bn, 3.2% of GDP), nearly double the plan. Defence spending is set to rise 27% in 2027."
+        "title": "Russia submits a three-year budget",
+        "detail": "The 2026 deficit is projected at 7.345 trillion rubles, nearly double the plan; the first Duma reading is set for 29 October."
       },
       {
         "date": "2026-10-12",
-        "title": "Trump says he 'may' meet Kim Jong Un on his November Asia trip",
-        "detail": "The same day North Korea fired two ballistic missiles. Pyongyang's alliance with Moscow ties its fortunes to any Ukraine bargain."
-      },
-      {
-        "date": "2026-10-14",
-        "title": "North Korea tests sub-launched cruise missiles",
-        "detail": "The first reported sub-launched cruise test since January 2024, capping a month of launches."
+        "title": "Trump says he may meet Kim Jong Un on his Asia trip",
+        "detail": "Kim's missile tests continue; North Korea's troops-for-technology alliance with Moscow links the two bids for a Trump meeting."
       },
       {
         "date": "2026-10-19",
-        "title": "Putin seeks a summit with Trump and Xi; refuses to meet Zelensky",
-        "detail": "Rubio denies any pause in US intelligence sharing. Zelensky answers Le Pen's aid-cut pledge.",
+        "title": "Putin proposes a summit with Trump and Xi, refuses to meet Zelensky",
+        "detail": "Rubio denies there was any pause in US intelligence sharing with Ukraine.",
         "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-10-19",
-        "title": "Rubio denies a pause in intelligence sharing",
-        "detail": "The denial implies there were reports or concerns of a pause. We do not have details of when, or what was shared.",
-        "sourceIndex": 1
+        "date": "2026-10-21",
+        "title": "Russia agrees to talks but sees little to discuss",
+        "detail": "The BBC's Russia editor writes that Putin does not feel under pressure to end the war.",
+        "sourceIndex": 5
+      },
+      {
+        "date": "2026-10-22",
+        "title": "Russian long-range attacks intensify",
+        "detail": "UN News reports at least 14 civilians killed and 78 injured overnight, including in Kyiv.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-10-23",
+        "title": "Zelensky says Starlink limits still affect Ukrainian forces",
+        "detail": "US officials and Elon Musk give conflicting accounts of who controls access. Ukraine later said the connection was restored on 24 October.",
+        "sourceIndex": 7
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Kremlin says preparations begin for a Putin-Xi-Trump summit in China",
+        "detail": "Headlines say Moscow, Beijing and Washington are 'ready in principle'. Allied commentators call it a possible new Yalta. No date is confirmed.",
+        "turning": true
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Zelensky calls out a monthlong Patriot approval wait",
+        "detail": "Kyiv presses for more interceptors against missiles and jet-powered drones. Trump and Zelensky also clash over oil strikes.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Oleshky ceasefire takes effect",
+        "detail": "Russia halts strikes on the town for evacuations and aid; reports credit Melania Trump with brokering it. Putin's office floats expanding the model.",
+        "sourceIndex": 2,
+        "turning": true
       }
     ],
     "causes": [
@@ -240,52 +305,52 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "A war with no decisive result",
-            "detail": "The war has lasted long enough that all sides face rising costs and pressure to find a settlement they can sell at home."
+            "name": "Great-power bargaining",
+            "detail": "Putin wants a settlement made by the strongest states rather than by Kyiv and Europe."
           },
           {
-            "name": "Great-power framing",
-            "detail": "Moscow has long argued that Ukraine's fate is a matter between big powers. A three-leader summit is the clearest version of that argument."
+            "name": "Dependence on US systems",
+            "detail": "Ukraine relies on Washington for Patriot interceptors, intelligence and communications links, so US decisions double as leverage."
           },
           {
-            "name": "Dependence on outside money",
-            "detail": "Ukraine relies heavily on EU channels and on US intelligence and support. Any shift in either changes its bargaining position."
+            "name": "Russia's war economy",
+            "detail": "Defence is set to take more than a third of federal spending in 2027 at a record 17.1 trillion rubles, with oil revenue falling."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "19 October 2026",
+        "when": "Mid to late October 2026",
         "causes": [
           {
             "name": "Putin's summit proposal",
-            "detail": "He asks for Trump and Xi but excludes Zelensky, which tests whether Washington will insist on Kyiv's presence."
+            "detail": "Announced on 19 October alongside a refusal to meet Zelensky."
           },
           {
-            "name": "Questions over US intelligence sharing",
-            "detail": "Rubio's denial suggests doubts about US support were circulating, and the denial is aimed at calming them."
+            "name": "Trump-Xi calendar",
+            "detail": "Xi's Washington visit in September and the Shenzhen APEC meeting on 18-19 November give a ready venue."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "Autumn 2026",
+        "when": "Late October 2026",
         "causes": [
           {
-            "name": "Russia's finances",
-            "detail": "A deficit nearly double plan, oil-and-gas revenue down 17.2% and defence spending at a record give Moscow reasons to want a deal on its terms."
+            "name": "US-Ukraine friction",
+            "detail": "A monthlong Patriot approval wait, a clash over oil strikes, and Starlink restrictions with Musk alleging a terms breach, which Kyiv denies."
           },
           {
-            "name": "Western political calendar",
-            "detail": "US midterms on 3 November, French election in April 2027, Italy in 2027. Each could change the balance of support."
+            "name": "Escalating Russian strikes",
+            "detail": "Intensified long-range attacks raise the human cost of every week without a ceasefire."
           },
           {
-            "name": "Le Pen's pledge",
-            "detail": "She promises to end French Ukraine funding within six months and to cap France's EU budget contribution at EUR 5bn."
+            "name": "US midterms and Gulf war",
+            "detail": "Domestic politics and the Iran conflict split attention and funding."
           },
           {
-            "name": "Competing crises",
-            "detail": "The Gulf war and North Korean launches compete for US attention."
+            "name": "Local-truce template",
+            "detail": "The Oleshky ceasefire shows a US-brokered pause is possible and may be a model for wider talks."
           }
         ]
       }
@@ -294,290 +359,271 @@
       {
         "name": "Vladimir Putin",
         "role": "Russian president",
-        "wants": "A settlement framed as a great-power deal, with Kyiv excluded and sanctions relief",
-        "leverage": "Control of territory held, nuclear weapons, a war economy that is straining but functioning",
-        "likelyMove": "Keep the summit idea public while refusing direct talks with Zelensky and waiting for Western politics to move his way"
+        "wants": "A settlement brokered by Trump and Xi that locks in gains, and 1997-style limits on NATO, as one report claims",
+        "leverage": "Ongoing offensives; no sign he feels pressure to stop; the ability to offer local pauses",
+        "likelyMove": "Accept talks and local truces, refuse a general halt, keep Zelensky out of the room"
       },
       {
         "name": "Donald Trump",
         "role": "US president",
-        "wants": "A visible deal and a role as broker, with limited cost to the US",
-        "leverage": "Intelligence sharing, weapons, sanctions, a possible meeting with Xi in Shenzhen",
-        "likelyMove": "Welcome contact with Putin and Xi without committing to a three-way summit before the midterms"
+        "wants": "A deal he can call his own, without losing attention on Iran or votes at home",
+        "leverage": "Patriots, intelligence sharing, Starlink-linked access and sanctions",
+        "likelyMove": "Keep both channels open, push Kyiv on terms, and meet Xi in Shenzhen on 18-19 November"
       },
       {
         "name": "Xi Jinping",
-        "role": "Chinese president, APEC host",
-        "wants": "Status as an indispensable party and tariff relief from Washington",
-        "leverage": "Economic weight, ties to Moscow, control of the Shenzhen agenda",
-        "likelyMove": "Stay noncommittal on a three-way meeting; use the Trump meeting to press on trade"
+        "role": "Chinese president and APEC host",
+        "wants": "Tariff relief and a bigger say in the post-war order",
+        "leverage": "Host's control of the Shenzhen agenda; economic ties to Russia",
+        "likelyMove": "Welcome a three-way meeting in principle while avoiding blame for its outcome"
       },
       {
         "name": "Volodymyr Zelensky",
         "role": "Ukrainian president",
-        "wants": "No deal about Ukraine without Ukraine; continued aid and intelligence",
-        "leverage": "Moral and political standing in Europe, battlefield resistance",
-        "likelyMove": "Press Washington and Europe publicly to keep Kyiv at the table and to hold aid steady"
+        "wants": "Talks with Europe at the table, security guarantees, and no neutrality or army caps",
+        "leverage": "Domestic resolve, European backing, and Ukrainian strikes on Russian oil",
+        "likelyMove": "Push to bring Abu Dhabi talks forward, keep the US on side, and criticise delays publicly"
       },
       {
-        "name": "Marco Rubio",
-        "role": "US Secretary of State",
-        "wants": "To calm doubts about US reliability while keeping Trump's room to bargain",
-        "leverage": "Control of the diplomatic channel",
-        "likelyMove": "Deny any cut in support and keep options open"
+        "name": "European leaders (Macron, Meloni, EU institutions)",
+        "role": "Main funders alongside the US",
+        "wants": "A seat at the table and no deal over their heads",
+        "leverage": "EU funding channels, sanctions and the Coalition of the Willing",
+        "likelyMove": "Press for inclusion, as Meloni told the Senate that support is what makes peace possible"
       },
       {
-        "name": "Macron, Meloni and EU leaders",
-        "role": "Main European backers",
-        "wants": "To keep EU Ukraine support funded and secure a seat at any talks",
-        "leverage": "The EUR 90bn support loan and the EU budget",
-        "likelyMove": "Reaffirm support. Meloni has told the Senate that supporting Ukraine is what makes peace possible."
+        "name": "Marine Le Pen and the French far right",
+        "role": "Poll leaders for France's 2027 presidency",
+        "wants": "End Ukraine funding within six months and cap France's EU contribution at EUR 5bn",
+        "leverage": "About 35-36% first-round polling",
+        "likelyMove": "Treat a Putin-Trump-Xi deal as proof that Europe should step back"
       },
       {
-        "name": "Marine Le Pen",
-        "role": "French National Rally leader, poll leader",
-        "wants": "To win in 2027 on a platform of ending Ukraine funding and cutting France's EU contribution",
-        "leverage": "35-36% in October polls",
-        "likelyMove": "Keep the aid-cut pledge central and frame it as cost to French taxpayers"
-      },
-      {
-        "name": "Kim Jong Un",
-        "role": "North Korean leader",
-        "wants": "To keep his troops-for-technology alliance with Moscow and a seat in any Trump conversation",
-        "leverage": "Missile tests, his ties to Moscow",
-        "likelyMove": "Keep testing while signalling openness to Trump"
+        "name": "US Democrats in Congress",
+        "role": "Possible House majority from January",
+        "wants": "Oversight of Ukraine aid and limits on a bargain over allies",
+        "leverage": "The power of the purse if they win the House on 3 November",
+        "likelyMove": "Contest any summit deal that trades away Ukraine aid"
       }
     ],
     "sectors": [
       {
-        "sector": "European defence",
-        "direction": "mixed",
-        "size": 2,
-        "why": "A deal that sidelines Europe could raise spending needs. A French aid cut could shift costs to other states."
+        "sector": "Air defence and interceptors",
+        "direction": "up",
+        "size": 3,
+        "why": "Kyiv is pressing for more interceptors against missiles and jet-powered drones, and approvals are the bottleneck."
       },
       {
         "sector": "Oil and gas",
         "direction": "mixed",
         "size": 2,
-        "why": "A credible peace track could ease risk premia, but Russia's $50 oil baseline and the Gulf war cut the other way. We have no sourced price estimate."
+        "why": "Strikes on Russian oil and the Gulf war keep supply risk priced in; a real ceasefire or a deal on those strikes would change it."
       },
       {
         "sector": "Russian public finances",
         "direction": "down",
         "size": 3,
-        "why": "The deficit is nearly double plan and defence takes more than a third of 2027 spending, which pushes Moscow toward a deal."
+        "why": "A 2026 deficit of 7.3 trillion rubles and defence above a third of 2027 spending leave little room."
       },
       {
-        "sector": "Chinese exporters",
-        "direction": "up",
-        "size": 1,
-        "why": "Third-quarter growth of 4.5% rested on exports. Any Trump-Xi easing on tariffs would help, but no deliverables are agreed."
-      },
-      {
-        "sector": "EU public finance",
-        "direction": "down",
+        "sector": "EU budget and aid channels",
+        "direction": "mixed",
         "size": 2,
-        "why": "The 2028-2034 budget and the EUR 90bn loan depend on France and other large states backing Ukraine funding."
+        "why": "Ukraine funding runs largely through EU channels, so the next seven-year budget has to be set before a deal or ceasefire is known."
       },
       {
-        "sector": "Ukrainian reconstruction and investment",
-        "direction": "down",
-        "size": 2,
-        "why": "Uncertainty over terms and support makes long-term commitments harder."
-      },
-      {
-        "sector": "Regional security (Korea)",
+        "sector": "Satellite communications",
         "direction": "mixed",
         "size": 1,
-        "why": "A Trump-Putin-Xi bargain would change what Pyongyang can extract from its Moscow alliance."
+        "why": "Starlink and Starshield access underpins Ukrainian military communications; restrictions and disputes with Musk show the dependency."
+      },
+      {
+        "sector": "Humanitarian logistics",
+        "direction": "mixed",
+        "size": 1,
+        "why": "The Oleshky truce allows evacuations and aid deliveries but is local and fragile."
       }
     ],
     "dailyLife": [
       {
-        "item": "Fuel prices",
-        "effect": "French diesel hit a record EUR 2.41 a litre in September, driven by the Gulf war. A Ukraine deal would not by itself bring this down."
+        "item": "Diesel and fuel",
+        "effect": "French diesel hit a record EUR 2.41 a litre in September; the Gulf war and oil-strike disputes keep supply risk in prices."
       },
       {
-        "item": "Taxes and aid",
-        "effect": "The argument over aid is increasingly about cost. Le Pen would cap France's EU contribution at EUR 5bn, down from a net figure of about EUR 8bn."
+        "item": "Grocery and energy bills in Europe",
+        "effect": "Cost-of-living pressure feeds the politics that decide how much aid Europe funds."
       },
       {
-        "item": "Food and energy bills",
-        "effect": "Gasoline, diesel and grocery prices are the dominant issue in the US midterms, so peace talk competes with household costs for political attention."
+        "item": "Civilians in Ukraine",
+        "effect": "Long-range strikes continue; the UN counted at least 14 civilians killed overnight into 22 October.",
+        "sourceIndex": 6
       },
       {
-        "item": "Travel and trade",
-        "effect": "Nothing changes immediately. Sanctions and shipping restrictions stay in place unless a deal is signed and implemented."
+        "item": "Residents of Oleshky",
+        "effect": "A ceasefire allows evacuations and aid, but the town is described as on the brink of disaster.",
+        "sourceIndex": 2
+      },
+      {
+        "item": "Taxpayers in France and Italy",
+        "effect": "France has committed about EUR 27bn to Ukraine; the 2027 elections in France and Italy decide whether that continues."
       }
     ],
     "scenarios": [
       {
-        "name": "Summit talk, no summit",
-        "probability": 50,
-        "looksLike": "The idea stays in the news. Trump and Xi meet at APEC and talk Ukraine among other topics. No three-way meeting. Zelensky stays excluded and fighting continues.",
+        "name": "Talks without a general ceasefire",
+        "probability": 45,
+        "looksLike": "Trilateral talks restart, more local truces follow, but Russia keeps fighting and no framework is signed by year-end.",
         "signposts": [
-          "Trump says he is open to a summit but sets no date",
-          "A Trump-Xi meeting is held in Shenzhen",
-          "Moscow repeats the Zelensky exclusion"
+          "Russia repeats that it will not halt hostilities during talks",
+          "More attacks on Kyiv and other cities",
+          "Abu Dhabi round held but without an outcome"
         ],
-        "effectOnWorld": "Uncertainty persists; European leaders keep funding Ukraine and delay hard decisions until after the French election."
+        "effectOnWorld": "Uncertainty persists; European funding decisions are made without clarity, and oil and defence prices stay elevated."
       },
       {
-        "name": "US-led pressure on Kyiv",
+        "name": "Summit with a thin framework",
         "probability": 20,
-        "looksLike": "Washington presses Ukraine to accept terms discussed with Moscow and Beijing, possibly through slowed aid or intelligence.",
+        "looksLike": "Putin, Xi and Trump meet in China or nearby and announce principles; Kyiv and Europe are consulted late and object.",
         "signposts": [
-          "Reports of renewed slowdowns in US support",
-          "Trump publicly sides with a Russian framing",
-          "Democrats fail to take the House"
+          "Date and venue confirmed by the Kremlin and White House",
+          "Zelensky invited or excluded",
+          "European leaders hold an emergency meeting"
         ],
-        "effectOnWorld": "European states have to choose whether to back Kyiv independently, and the EU loan and budget debates become urgent."
+        "effectOnWorld": "Allies fear a new Yalta; European defence and EU budget plans are rushed, and a fight over sanctions follows."
       },
       {
-        "name": "A real three-way summit",
+        "name": "Escalation and US-Ukraine rupture",
+        "probability": 25,
+        "looksLike": "Disputes over oil strikes, Patriots and Starlink deepen; the US slows or conditions support while Russian attacks intensify.",
+        "signposts": [
+          "Further delays in Patriot approvals",
+          "Trump publicly pressing Kyiv to stop oil strikes",
+          "Russian offensive gains"
+        ],
+        "effectOnWorld": "Europe must fill a larger gap; far-right campaigns in France and elsewhere gain from the argument that Europe cannot afford it."
+      },
+      {
+        "name": "Wider ceasefire built from local truces",
         "probability": 10,
-        "looksLike": "Trump, Putin and Xi agree to meet, possibly on the margins of another event, with some formula for Ukrainian participation.",
+        "looksLike": "The Oleshky model spreads to other towns and then to energy or air strikes, with US and perhaps Chinese backing.",
         "signposts": [
-          "A date and venue announced",
-          "Kyiv invited in some form",
-          "Beijing's foreign ministry confirms attendance"
+          "Further US-brokered local truces",
+          "A joint statement on energy or air strikes",
+          "Ukraine and Russia exchanging monitoring proposals"
         ],
-        "effectOnWorld": "The biggest shift in the war's diplomacy since it began, with real effects on sanctions and Europe's role."
-      },
-      {
-        "name": "Proposal fades",
-        "probability": 15,
-        "looksLike": "Washington and Beijing both decline to commit, other crises take over (Gulf, Korea, midterms) and the proposal drops out of the news.",
-        "signposts": [
-          "Rubio or Trump ignore the proposal in public",
-          "The Gulf war escalates",
-          "Putin shifts to a different demand"
-        ],
-        "effectOnWorld": "The war grinds on, with Russia's budget strain and the Western elections the main drivers."
-      },
-      {
-        "name": "Ceasefire by another route",
-        "probability": 5,
-        "looksLike": "A ceasefire or framework emerges from direct contacts that do not involve the summit.",
-        "signposts": [
-          "Unexpected Russia-Ukraine contacts",
-          "A sudden easing of strikes",
-          "Kyiv and Moscow agree venue and agenda"
-        ],
-        "effectOnWorld": "The summit proposal becomes irrelevant; focus shifts to monitoring and reconstruction."
+        "effectOnWorld": "Oil and shipping risk fall; the EU debates how much to fund for reconstruction versus defence."
       }
     ],
     "predictions": [
       {
-        "text": "Probability 0.80: Trump attends the APEC leaders' meeting in Shenzhen and holds a bilateral meeting with Xi.",
-        "horizon": "By 19 November 2026",
+        "text": "A Putin-Xi-Trump meeting is held in person before 31 December 2026 (probability 0.3).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
+      },
+      {
+        "text": "Russia and Ukraine agree at least one further localised ceasefire beyond Oleshky (probability 0.4).",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
+      },
+      {
+        "text": "No general ceasefire covering the whole front is in force (probability 0.85).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
+      },
+      {
+        "text": "Democrats win control of the US House on 3 November (probability 0.75, based on polling averages and the 219-seat Fox News Power Rankings estimate; an estimate, not a sourced forecast).",
+        "horizon": "3 November 2026",
+        "resolves": "2026-11-04"
+      },
+      {
+        "text": "Trump and Xi hold a bilateral meeting at APEC in Shenzhen on 18-19 November (probability 0.8).",
+        "horizon": "November 2026",
         "resolves": "2026-11-20"
-      },
-      {
-        "text": "Probability 0.07: Trump, Putin and Xi meet together in person.",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
-      },
-      {
-        "text": "Probability 0.05: Putin and Zelensky meet face to face.",
-        "horizon": "By 18 April 2027",
-        "resolves": "2027-04-18"
-      },
-      {
-        "text": "Probability 0.12: A general ceasefire in Ukraine takes effect and holds for at least 30 days.",
-        "horizon": "By 30 June 2027",
-        "resolves": "2027-06-30"
-      },
-      {
-        "text": "Probability 0.25: EU leaders reach a political agreement on the 2028-2034 budget.",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Do not plan around a peace deal or sanctions relief; treat any headline as unconfirmed until implemented.",
-          "Stress-test scenarios in which Ukraine aid falls and European defence or energy costs rise.",
-          "Watch the Shenzhen APEC outcomes for tariff signals that affect China-linked supply chains."
+          "Stress-test supply chains for continued high fuel and freight costs under the Gulf and Ukraine scenarios.",
+          "Plan defence and dual-use orders around US approval timelines rather than production capacity.",
+          "Watch sanctions language in any summit outcome; allies may have to follow decisions made without them."
         ]
       },
       {
-        "role": "placeholder",
         "audience": "investors",
         "actions": [
-          "Expect volatility on summit headlines in oil, European defence and Russia-exposed assets.",
-          "Treat the French election and EU budget talks as the real long-term drivers of European support for Ukraine.",
-          "Check whether a claimed deal has Kyiv's agreement and Washington's confirmation before acting."
+          "Treat 18-19 November as an event risk for oil, defence and European sovereign debt.",
+          "Do not assume a ceasefire from local truces; Moscow says it will not pause fighting during talks.",
+          "Watch Russia's budget first reading on 29 October and the US midterm result on 3 November for signals."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Expect energy and food prices to be driven mainly by the Gulf war, not by Ukraine diplomacy, in the near term.",
-          "Be sceptical of social-media claims of imminent peace or sudden aid cuts; check official statements."
+          "Expect fuel and food prices to stay high while two wars compete for attention.",
+          "Treat headlines about summits as proposals until a date and venue are confirmed.",
+          "Follow aid appeals for Oleshky and other frontline towns through established humanitarian organisations."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Secure a clear Western position that no settlement is made without Ukraine.",
-          "Lock in EU funding commitments, including the EUR 90bn loan, before the 2027 elections.",
-          "Prepare contingency plans for a drop in US intelligence and military support."
+          "Secure a European seat in any format that decides Ukraine's future, and say so before a summit is announced.",
+          "Settle the 2028-2034 EU budget's Ukraine envelope with scenarios for both a deal and no deal.",
+          "Reduce single-point dependence on US systems such as satellite links and interceptor approvals."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Minsk agreements",
-        "year": "2014-2015",
-        "whatFollowed": "Negotiated with Kyiv's involvement but never fully implemented; the conflict continued and later escalated."
+        "event": "Yalta Conference",
+        "year": "1945",
+        "whatFollowed": "Three leaders redrew Europe's map with allies absent or sidelined; commentators now invoke it as a warning for any Putin-Xi-Trump deal."
       },
       {
         "event": "Trump-Putin summit in Alaska",
         "year": "2025",
-        "whatFollowed": "A leaders' meeting that produced attention but no ceasefire; Kyiv and Europe scrambled to respond. We are confident it occurred but have not detailed its aftermath here."
+        "whatFollowed": "A leaders-only meeting produced no ceasefire; fighting continued and Kyiv and Europe were left to react."
       },
       {
-        "event": "Yalta conference",
-        "year": "1945",
-        "whatFollowed": "Great powers settled the fate of Eastern Europe largely without the states concerned. The comparison is often used by critics of leader-only deals, though the circumstances differ."
+        "event": "Minsk agreements",
+        "year": "2014-2015",
+        "whatFollowed": "Ceasefires and a negotiated framework failed to hold, and the conflict resumed on a larger scale in 2022."
       }
     ],
     "watch": [
       {
         "date": "2026-10-29",
-        "title": "Russia's Duma first reading of the budget",
-        "why": "Shows how much Moscow plans to keep spending on the war and how it handles its deficit."
+        "title": "Duma first reading of Russia's budget",
+        "why": "Shows how Moscow plans to finance a war with a nearly doubled 2026 deficit and record 2027 defence spending."
+      },
+      {
+        "date": "2026-11-01",
+        "title": "Bulgaria presidential run-off",
+        "why": "A vote coloured by divisions over the war and relations with the Kremlin."
       },
       {
         "date": "2026-11-03",
         "title": "US midterm elections",
-        "why": "A Democratic House would constrain Trump's room to trade Ukraine aid in a summit bargain."
+        "why": "A Democratic House from January would constrain what Trump can trade away on Ukraine aid."
       },
       {
         "date": "2026-11-18",
-        "title": "APEC leaders' meeting, Shenzhen (18-19 November)",
-        "why": "The nearest venue for a Trump-Xi meeting and the best test of the three-way summit idea. Trump may also meet Kim Jong Un."
+        "title": "APEC leaders' meeting in Shenzhen",
+        "why": "Runs to 19 November; the nearest venue for a Trump-Xi meeting and a possible Putin-Xi-Trump summit."
       },
       {
-        "date": "2026-12-31",
-        "title": "EU 2028-2034 budget target date",
-        "why": "Leaders aim to agree the next budget before elections in France, Spain, Italy and Poland; it decides how much Ukraine aid EU channels can carry."
+        "title": "Abu Dhabi talks date",
+        "why": "Kyiv is pushing to bring the round forward and to include the EU."
       },
       {
-        "date": "2027-04-18",
-        "title": "French presidential election, round 1",
-        "why": "Le Pen leads polls and pledges to end Ukraine funding within six months."
+        "title": "Oleshky ceasefire",
+        "why": "Whether it holds and whether Moscow's offer to expand the model produces further local truces."
       },
       {
-        "title": "US intelligence-sharing statements",
-        "why": "Any sign of a real pause, or a more detailed denial, changes the picture for Kyiv."
-      },
-      {
-        "title": "Zelensky's response to any three-way formula",
-        "why": "Whether Kyiv accepts or rejects a framework that excludes it shapes European positions."
+        "title": "Patriot approvals and Starlink access",
+        "why": "Delays or restrictions would show whether support is being used as leverage in bargaining."
       }
     ]
   },
@@ -594,54 +640,102 @@
         "url": "https://www.euronews.com/2026/10/19/marco-rubio-denies-there-was-any-pause-in-us-intelligence-sharing-with-ukraine",
         "publisher": "Euronews",
         "date": "2026-10-19"
+      },
+      {
+        "title": "Russia halts strikes on Ukraine's Kherson as Oleshky ceasefire takes effect",
+        "url": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Zelenskyy says peace talks with Russia, US to restart",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
+        "url": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
+        "publisher": "Euronews",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, 'unlawful' elderly deaths",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+        "publisher": "UN News",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Who actually controls Ukraine's access to Starlink?",
+        "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC",
+        "date": "2026-10-23"
+      },
+      {
+        "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+        "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf",
+        "publisher": "Deutsche Welle",
+        "date": "2026-10-25"
       }
     ],
     "confidence": [
       {
-        "claim": "Putin proposed a summit with Trump and Xi and refused to meet Zelensky",
-        "level": "medium",
-        "note": "Drawn from the event summary and a Euronews headline. We did not have the article text, so details of the proposal are not covered."
+        "claim": "Putin proposed a summit with Trump and Xi and refused to meet Zelensky; Rubio denied a pause in intelligence sharing",
+        "level": "high",
+        "note": "Two Euronews reports of 19 October; we worked from headlines and summaries, not full text."
       },
       {
-        "claim": "Rubio denied any pause in US intelligence sharing",
+        "claim": "Kremlin says a Putin-Xi-Trump summit in China is being prepared",
         "level": "medium",
-        "note": "Headline and summary only. We do not know what reports prompted the denial."
+        "note": "Based on matched wire headlines of 25 October from several outlets, without a primary Kremlin statement; no date or venue is confirmed, and APEC in Shenzhen is our inference."
       },
       {
-        "claim": "Zelensky's reply to Le Pen",
-        "level": "medium",
-        "note": "From the event summary; the exact wording and occasion are not known."
+        "claim": "Oleshky ceasefire in effect and brokered by Melania Trump",
+        "level": "high",
+        "note": "Al Jazeera and many matched headlines of 27 October agree; whether it will widen is unclear."
       },
       {
-        "claim": "Russia budget, French polling, US midterm and APEC figures",
-        "level": "medium",
-        "note": "Taken from linked event descriptions supplied with the material, not from the two cited sources."
-      },
-      {
-        "claim": "Scenario and prediction probabilities",
+        "claim": "Russia will not halt hostilities during talks; Putin wants 1997 borders for NATO",
         "level": "low",
-        "note": "Author judgement, not sourced forecasts. They should be graded as events resolve."
+        "note": "Reported secondhand, with the NATO claim attributed to the Telegraph; we did not open the original and the URLs matched were aggregator links."
       },
       {
-        "claim": "Historical analogues",
+        "claim": "Russia's 2026 deficit of 7.345 trillion rubles and 17.1 trillion rubles 2027 defence budget",
+        "level": "medium",
+        "note": "Taken from the connected event's description, not from a source opened for this report."
+      },
+      {
+        "claim": "Trump and Zelensky clash over oil strikes",
         "level": "low",
-        "note": "Drawn from general knowledge without a linked source; kept brief and hedged."
+        "note": "Single aggregator headline; details of the disagreement are not known."
+      },
+      {
+        "claim": "Scenario probabilities and predictions",
+        "level": "low",
+        "note": "Author judgement, not a sourced forecast; graded as events resolve."
       }
     ],
-    "method": "Drafted from two Euronews headlines dated 19 October 2026, the event summary and the descriptions of linked events supplied with the material. We did not have article text, so the exact content of Putin's proposal, the timing of any intelligence pause and the wording of Zelensky's reply are not covered. Figures on Russia's budget, French polling, US midterms and APEC come from linked-event descriptions and carry no separate source link. Scenario probabilities, predictions and analogues are the author's estimates and general knowledge.",
+    "method": "Drafted from the listed sources, two Euronews event reports and wire headlines matched to the event through 27 October 2026, plus the connected-event summaries supplied with the material. Several items, including the Kremlin summit preparations, the oil-strike dispute and the Russian budget figures, rest on headlines or connected-event summaries and could not be checked against full articles. Scenario probabilities, prediction probabilities and the link between the summit idea and APEC in Shenzhen are estimates.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-27",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:08:02.743Z",
+    "at": "2026-10-27T03:11:49.871Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 39,
+    "reviewed": false,
+    "size": "deep"
   }
 }
