@@ -181,9 +181,9 @@
     "headlines": []
   },
   "france-election-2027": {
-    "at": "2026-10-27T08:05:14.287Z",
+    "at": "2026-10-27T14:05:38.866Z",
     "by": "pipeline",
-    "hash": "18wa7xs",
+    "hash": "13xzkn9",
     "tags": [],
     "headlines": []
   },
@@ -209,108 +209,90 @@
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-27T08:05:14.287Z",
+    "at": "2026-10-27T14:05:38.866Z",
     "by": "pipeline",
-    "hash": "jcpnrw",
+    "hash": "hu0pjz",
     "tags": [],
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-27T08:05:14.287Z",
+    "at": "2026-10-27T14:05:38.866Z",
     "by": "pipeline",
-    "hash": "jexpnj",
+    "hash": "1rfkyqa",
     "tags": [],
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-10-27T08:05:14.287Z",
+    "at": "2026-10-27T14:05:38.866Z",
     "by": "pipeline",
-    "hash": "192neos",
+    "hash": "1k79pqr",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-27T08:05:14.287Z",
+    "at": "2026-10-27T14:05:38.866Z",
     "by": "pipeline",
-    "hash": "1bwiyv1",
+    "hash": "10gnnes",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "capacity",
-        "likelihood": 0.9,
-        "delayDays": [
-          2,
-          7
-        ],
-        "costPct": [
-          15,
-          40
-        ],
-        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of the 4 October OPEC+ meeting, with one outlet on 2026-10-26 describing the strait as closed, so ships face queues, rerouting and war-risk premiums while talks continue.",
-        "action": "Ask your forwarder for the current war-risk surcharge and Hormuz transit status, and keep at least 14 days of buffer stock on Gulf-origin or Gulf-bound cargo.",
-        "sources": [
-          3,
-          2,
-          1
-        ]
-      },
-      {
-        "point": "JEBELALI",
-        "effect": "delay",
-        "likelihood": 0.7,
-        "delayDays": [
-          2,
-          6
-        ],
-        "costPct": [
-          10,
-          25
-        ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic is at 60-80% of normal through late October 2026, so vessel arrivals, schedules and insurance costs are affected.",
-        "action": "Ask your carrier about overland options via Omani or Red Sea ports for urgent cargo, and add 5-7 days to Jebel Ali delivery dates.",
-        "sources": [
-          3,
-          2
-        ]
-      },
-      {
-        "point": "RED_SEA",
         "effect": "security",
-        "likelihood": 0.4,
+        "likelihood": 0.92,
         "delayDays": [
           3,
           10
         ],
         "costPct": [
-          5,
-          20
+          15,
+          40
         ],
-        "why": "Houthi strikes on Saudi Arabia reported on 2026-10-27 keep the Red Sea in a threat zone, so insurers and carriers may add surcharges or divert ships even though the strikes were not reported against merchant ships.",
-        "action": "Ask your forwarder for a Cape of Good Hope routing quote and the current Red Sea war-risk surcharge before booking sailings this month.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal, and on 2026-10-27 Iran's army reported a tanker on fire after hitting mines in the strait, so transit is still disrupted and war-risk costs are high.",
+        "action": "Ask your forwarder or carrier now for the current war-risk surcharge and transit status on Hormuz-routed bookings, and add at least 10 days of buffer stock for cargo that must pass the strait.",
         "sources": [
           0,
+          3,
+          1,
           2
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "surcharge",
+        "likelihood": 0.65,
+        "delayDays": [
+          2,
+          7
+        ],
+        "costPct": [
+          10,
+          30
+        ],
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where mine incidents and 60-80% flow levels as of 2026-10-27 mean vessel delays and war-risk surcharges for cargo calling there.",
+        "action": "Ask your forwarder about carrier schedule reliability and war-risk surcharges for Jebel Ali calls, and price an alternative routing such as an Oman or Red Sea port with overland trucking to the UAE.",
+        "sources": [
+          0,
+          3
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Brent crude slips below $115 a barrel (about AED 422) as Tehran talks offset Houthi strikes on Saudi Arabia",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBweUxmTkZfUnRjVEVzYXlxTWhFN1h2WG1Ic19NeUFlZjh6Q0ZjbmNlTUhkRnNmNHJmQnNpRTQzal9fcE5ncnVpNW90cWdKenYyT04zVXR2d0sxMXI1ZUx0TldTQTBoX2NmOXZCdFVXbTJOOGlJTURFRGpJM2Q?oc=5",
-        "publisher": "Oil & Gas Middle East",
-        "published": "2026-10-27T05:09:58.000Z"
+        "title": "Iran army says oil tanker on fire after hitting mines in Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45VWkyTG9Wdm9wRWQ4TDRDQm8tV2pYOWJVSWN1UHlaanF1elVUQWhZSmtQT2tNUnE2UkwyRnVBcWhkM3FQY3BOdDhCdzZTcnZVSGNvSmY0NA?oc=5",
+        "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+        "published": "2026-10-27T13:35:52.000Z"
       },
       {
-        "title": "OPEC+ Agrees to Keep November Oil Output Targets Steady",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWIzaV9QMGF4MDZQT0pHT3FRbTRDN0pzNkVBTVI0eDhPQ00yRjNCTUxBS3B6MWFTU3BHcjdqUlpQYzBpbWN2QTJWUFB5VlFCUDU0Ulg2bEdMTkxzTzFjN1pyX3FnX0dUWHpJaWFyNEtxS1ZheTVTU2pzTVROX2tZeGROTU5qRmozYV8xVk5n?oc=5",
-        "publisher": "EnergyNow.com",
-        "published": "2026-10-27T02:56:43.000Z"
+        "title": "OPEC+ set to keep December oil output targets steady amid Iran war disruptions",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQWZUandqX0hjZWY0S2VJaC1ZeS1jaG1KVFVCR2hHbUlMNmlHUnlFZlI5aUdjSEdUOTNvNGpYQjZhUzliT0gxTVl1QmdBbXVSTTRSd1l5bEVzZzNaRktoSE9sVkRQeEVBZnd4RC1PX0JSU05XSDM1S3BJT1doZXIwVHI0Y1NlUG0yVlpaYWFRZlFZcXhzYmxxbndEbHU3TVpEUjRTUWdSNWxVbVE0bjAyTy1JTE9FaGVHQVYyWllQUVFqZXZ30gHKAUFVX3lxTE5fQVZtZDJ5eFJseTlkVkc4WjRyTWdLSVJyZGhTa1NUcUVuZWVEMG9KMlEzdVYyUmtNa2NQWEVjTzFPZDJTLVRocW1lRWMycElyT2ZYZlltVVd1VlF3UUdfSm1NcmtRZGh6S3YyNVpicWY4ZGM2ckI2RGFEczVab3prLU16SjM5ZnZ2S1Y2WFBDVXB2WmF4NWdTZEpxbDM3b1F5Ymk5NFEtOEIzUUhIQXBSTW54QURIaUJBdUplYnNaQk9ESXMzNXpkRUE?oc=5",
+        "publisher": "Firstpost",
+        "published": "2026-10-27T11:57:18.000Z"
       },
       {
-        "title": "Oil prices dip on Iran peace hopes, but Saudi attacks keep Brent near six-month highs",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGpocS10MlFOUGg5Z1VMZm1jYVpmTGU2a3FaSE1mbG85cFB0eVpqd2htZDJ6M1d4blJocTdGVFZSbWJSdlpweFZuZFJtUU9lMXc0dDRYd3UzaVIwWUFzS0ttZzF3MzE0OUU2S0RBcUNpcl91cUtiQ01ld1VuVzdYX2Y2d2VDbDZidXVoYkJ5QW9sX3hMUXFvY0otYlJ4QmI3TVBsUjFyQnBWSjc3ODdPdWI5UzVhOHdvNHhKWm5SQ1FySk8weGotaVM1QjEyX25acXlXazB2R0VvWHZhdnRNbVFQVWtWZTJSdkJNV0xGSnhlNG9IV29J0gH8AUFVX3lxTE83a25feHVWcFdVTHJwT1R2ajRtbHhSSWpvVVdEOWFXMjUwdWdvMUlLVlo0NXFuTWIxN0RXeHI1Y2t4NTUwa2FaVVplRFJfcFlodWVtVk13amRFdlVGQjJuRGVfNUhLVnpReERNczk4Qld4S0xEM0lSOS1jUHd5V0tZUjg2RlBBZmtDRzZYc3F0VVRfdDRxWGZOOHNhWG5HVzRXVlhqMjdwTHF0bk5fUjF0SXR3QWVuSUZaMnhWaDZnSVgyNUxvR3VBSy00bEVUdmxnRHR5bjUyYU14MGV3aE80aXhFSmkzSmxoRHNnNkV4QkhVTlJ3TlJOcE5reg?oc=5",
-        "publisher": "The Times of India",
-        "published": "2026-10-27T02:33:00.000Z"
+        "title": "OPEC+ Members Likely to Hold December Oil Production Targets as Gulf Exports Recover",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTAyUWtMUnFpNXJrS195ckxBNWYydEZnZnRPbmJIZURBR2RvN1hPQjFIN19PN1FUTGdsZE1zYmlJbjY0YXhNajBPY01XNUJlMGdXV28xNDZqZV9HYmNmQmdwb1FHX0xyQ21sQ3p4ZXo2V2V6d2JldHZjLUNWNXpSTlRYazJvQ2hxZEE?oc=5",
+        "publisher": "Yahoo Finance UK",
+        "published": "2026-10-27T10:40:56.000Z"
       },
       {
         "title": "OPEC Meets November 1 With Saudi Quota at 10.5 mb/d and Hormuz Closed",
@@ -328,9 +310,9 @@
     "headlines": []
   },
   "italy-election-2027": {
-    "at": "2026-10-27T05:05:10.399Z",
+    "at": "2026-10-27T14:05:38.866Z",
     "by": "pipeline",
-    "hash": "qbn8hu",
+    "hash": "zp7zip",
     "tags": [],
     "headlines": []
   },
