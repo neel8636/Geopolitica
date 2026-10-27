@@ -1,8 +1,8 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "ldfwm4",
+    "hash": "1uoo8cs",
     "tags": [
       {
         "point": "HORMUZ",
@@ -16,17 +16,18 @@
           15,
           40
         ],
-        "why": "A vessel was struck near Iran on 2026-10-27 and Iran's supreme leader and security chief are discussing Hormuz, in the eighth month of the war, so transits face attack risk, war-risk premiums and waiting.",
-        "action": "Ask your forwarder for the current war-risk surcharge and a fixed-rate quote, and hold 10 extra days of buffer stock for Gulf-bound and Gulf-origin cargo.",
+        "why": "On 2026-10-27 a tanker was reported burning near Hormuz and another ship was struck in the strait, while Qatar is urging Iran to reopen it, so transit is still restricted and carries war-risk costs.",
+        "action": "Ask your forwarder for current war-risk surcharges and the transit status of each booking, and add at least 7 days of buffer stock for cargo that must pass Hormuz.",
         "sources": [
           0,
           1,
-          5
+          3,
+          7
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
+        "effect": "delay",
         "likelihood": 0.7,
         "delayDays": [
           2,
@@ -34,142 +35,120 @@
         ],
         "costPct": [
           10,
-          25
+          30
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where ships were still reported under attack on 2026-10-27, so carriers add war-risk surcharges and schedules slip.",
-        "action": "Ask your carrier whether Jebel Ali calls are guaranteed or can be cancelled, and pre-agree a fallback such as an Oman or Red Sea port with onward trucking.",
+        "why": "Jebel Ali lies inside the Gulf and depends on Hormuz transit, which is still being attacked and disputed as of 2026-10-27, so vessel schedules and war-risk charges are affected.",
+        "action": "Ask your carrier about overland or Gulf-of-Oman transshipment options (such as Khor Fakkan or Fujairah) for urgent Jebel Ali cargo, and add 6 days of buffer to delivery dates.",
         "sources": [
-          0,
-          5
-        ]
-      },
-      {
-        "point": "BAB_EL_MANDEB",
-        "effect": "security",
-        "likelihood": 0.75,
-        "delayDays": [
-          10,
-          14
-        ],
-        "costPct": [
-          20,
-          60
-        ],
-        "why": "Fighting in Yemen has resumed and on 2026-10-27 the Saudi-led coalition said it downed Houthi missiles and drones, so ships using Bab el-Mandeb face attack risk and many are diverted around Africa.",
-        "action": "Ask your forwarder to routinely plan Asia–Europe cargo via the Cape of Good Hope and add 14 days to your lead times.",
-        "sources": [
-          4,
-          5
+          1,
+          3,
+          7
         ]
       },
       {
         "point": "RED_SEA",
         "effect": "security",
-        "likelihood": 0.75,
-        "delayDays": [
-          10,
-          14
-        ],
-        "costPct": [
-          20,
-          60
-        ],
-        "why": "Renewed Houthi missile and drone fire toward Saudi Arabia, reported 2026-10-27, and continuing attacks on ships keep the Red Sea high-risk, with war-risk premiums and diversions.",
-        "action": "Confirm in writing with your carrier that bookings avoid the Red Sea, and check whether war-risk insurance covers any Red Sea leg.",
-        "sources": [
-          4,
-          5
-        ]
-      },
-      {
-        "point": "SUEZ",
-        "effect": "capacity",
         "likelihood": 0.5,
         "delayDays": [
-          8,
+          7,
           14
         ],
         "costPct": [
           15,
-          40
+          35
         ],
-        "why": "With the Red Sea approaches under Houthi threat in late October 2026, Suez transits are being avoided or rerouted, which cuts capacity and raises rates on Asia–Europe services.",
-        "action": "Book Asia–Europe cargo with a carrier that offers a Cape routing option, and avoid fixed Suez transit-time commitments in your contracts.",
+        "why": "The Houthis claimed further missile attacks on Saudi Arabia on 2026-10-27, one reportedly hitting a refinery, and Red Sea tensions are rising, so commercial vessels face a credible threat and may divert or pay extra war-risk premiums.",
+        "action": "Ask your forwarder whether Red Sea bookings can be rerouted via the Cape of Good Hope, and get war-risk surcharge quotes in writing before confirming.",
         "sources": [
+          2,
           4,
-          5
+          5,
+          6
         ]
       },
       {
-        "point": "IR_AIRSPACE",
-        "effect": "closure",
-        "likelihood": 0.8,
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.5,
         "delayDays": [
-          1,
-          3
+          7,
+          14
         ],
         "costPct": [
-          5,
-          15
+          15,
+          35
         ],
-        "why": "The war on Iran, which began on 2026-02-28 and is still active with talks stalled on 2026-10-27, makes Iranian airspace unsafe, so air cargo between Europe and Asia has to be rerouted.",
-        "action": "Ask your air forwarder to confirm routings that avoid Iranian airspace and to quote the added fuel surcharge for Europe–Asia flights.",
+        "why": "Renewed Houthi missile activity from Yemen, with attacks claimed on 2026-10-27, keeps the Bab el-Mandeb approaches exposed to a threat to shipping, which can force diversions around Africa.",
+        "action": "Keep Asia–Europe bookings flexible with a Cape routing option and add 10 days of buffer stock for cargo that normally uses this passage.",
         "sources": [
-          3,
-          2
+          2,
+          4,
+          5
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Iran ‘Always’ Had Ability to Shut Down Strait of Hormuz, Top Risk Analyst Says Amid Vessel Strike Near Ir",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxON2w1WnRsUzRWSTk4QzI2WVNBVUdNaFU1WU1DNEkxM1czb29tZHQwZ3JFRnZ6aEp5VjY0SndZVHE5Y3VLeXdMTHBoWkJrUThyWjloNENmd2xid25BQW9MVGxMalI0ZkRFRGt1NUlaX3VSdlkwRjhuaktqazFYSVNVTE0zSWVzR3ExRmVkbjZKMWdSMG5MQ084U1Z2MmF0N2xISlNjcERzaWJFTzhvdnN4a0E3dFh5RmJsQnV3MU1oRzV5SDJVd2JwZGNqdGlYS29xOFNUY01CZF95Yl9xdG4zcC0wVkNyMTRKUjhiZVpVd1NnR08xcm9zZDk0Q2tRZmpvSVlyRVBMV0tZbHVvMzJXNkFxU0tMakhDWG5kQUh4WkowRlR3b3VveXRTVTNZc3Yt?oc=5",
-        "publisher": "Benzinga",
-        "published": "2026-10-27T11:28:10.000Z"
+        "title": "Iran Says Supreme Leader Met with Security Chief Over Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0h4OG9od0Nzb29lVzU2X0djRVNueW8xYXlrVTdPakFET1dwaE5GZ1piYmVWTEhkWjQxbWZnQUtNR2JjcngtZjZabGZkS0JpZGU2bnQ2RW5hX2FPS3BJX1MxTk5adFNEZHJjdy1KSEVvcEVaOUk0SjFMa0dRWG54T0JoRzNja1psMnhqODRJTkRHaDJUeGc3UFoxOGM?oc=5",
+        "publisher": "ASHARQ AL-AWSAT English",
+        "published": "2026-10-27T17:43:01.000Z"
       },
       {
-        "title": "Iran’s Supreme Leader and Top Security Chief Discuss War, Hormuz",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWEFMQWNxdFlVVWdMX1psMHpHVVVUNG1XNXhxa0s4VzlacElFbENVNEdFSHBEbkZkOEJ4dm9DbWh3SGpLWUdyRjJBWUJTRERfUmJwRC04Y2RRZ1BqdGJ2SDZ1YkdVbkd5QTA3RHVCbXRNbUM2ejY3cE9FX0VvdXR2MFVubXF6eUc3MmFqTDNhc2pSZnRqYVdCbng3bERVcHlnSkRZTENOUVIxT21hSDRFUmVob29GS1h2ZC14QkRxV20?oc=5",
-        "publisher": "Bloomberg.com",
-        "published": "2026-10-27T11:25:57.000Z"
+        "title": "‘Neither War nor Peace’: Khamenei Demands Iran’s Terms Be Met as Tanker Burns near Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVHIzbUwzOWpPNWZtVWZHZy11ZHdRei15Sk9tMnpGS3diRzdSVjY4c1BKaFczemttbC1PdGRGTWtTWldmLUtlS1RmaEJfSDRLYkRtSTVJSVpGNkZMWTBNWGNaVWJPa0ZLenp4QVlPbWFHcFlkdlNsUlFJWTNGQmU0QkFySm5yNDA2YmdjRFMwYUZ0eVd3NW82WjlDQzRwM1ZCSHRaU181dDZLVV82cHJnTk5uMGdPR3JuN2FGeDdn?oc=5",
+        "publisher": "Palestine Chronicle",
+        "published": "2026-10-27T17:15:58.000Z"
       },
       {
-        "title": "Iran’s supreme leader calls for meeting Tehran’s conditions to end war",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGQ1RjFPakRUSnZ5QnVyTFdreXBjX3VUUVJzZURXWElyR3RTeXZGQWgyNmNCQV9wZFZDQVlHY3FRQnRDcW5GdXVKc0pXS25WNmY2MkthSG03UC1xblBobFNqZTN3eDEzTVUzR3JqRVh5ZDNhYlctSmNGYno3R2NXTGxYVC1qSkQ2a3oxT1ZJdDRLTjNpMHVoMDFLM2V4MHVPMnJ0SWNhQmZyQW9MOGNIVXFuRi1aQQ?oc=5",
-        "publisher": "Anadolu Ajansı",
-        "published": "2026-10-27T11:24:06.000Z"
+        "title": "Houthi Missile Strikes Saudi Oil Refinery",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmVvdjlkNllLVXpFWVlpZVhRN0dmaVZjSjlvcHlOY05wSHJ3dkk2U2pESGpXZHFYOXZ1dVUxYldTX0QxaDVnckhkazFPa0hTWk1yVEFOMFJnQ2pGYWwyTGJtRnNRNHQwR25zaHZjVVQwWmxtV0hET0QtNlQ0OFpMcF9md1NsbUk?oc=5",
+        "publisher": "Marine News Magazine",
+        "published": "2026-10-27T17:04:31.000Z"
       },
       {
-        "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "published": "2026-10-27T10:36:54.000Z"
+        "title": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
+        "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
+        "publisher": "Euronews",
+        "published": "2026-10-27T17:04:21.000Z"
       },
       {
-        "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXlqZ2hqcnVxVFQ5c1dTTEZYVWdybnItSno1SHNHRnVNUmNvU3phanJwODI3U1FoZEpFYkllQmtYSVhEUUtGU1RhR1dvaXNKMHJMOFIyaS1aWk5xdWo0TTl0OXJHY0JHbjRuazNOaVJsMFVER1llQjdMU2poMUZmU3VzR3JzUDRtSVkzM2VzTVpmQk3SAZgBQVVfeXFMTzcyYWktUzV0Nk5zNzRWck1Ub3pXald0MDJldUdNVVgyUUxjMTJ2eXZVa1J0VW9QbFlJVktNekNudVRER2diN09fY2w4YS1VNGFQb2pMZ0JybFI0SUthU3ZPTXV3RTBMaEduVlFiSDNBVHhWSDZpRGNlc2RiT2FiVWRxVFd1dmlfNWpxdzlCVXRST1ZkRk5xN2Y?oc=5",
-        "publisher": "Al Jazeera",
-        "published": "2026-10-27T10:07:13.000Z"
+        "title": "Middle East latest: Saudi Arabia reports missile interception damage in Riyadh as Houthis claim more attacks",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmN6SzJtQ0JYM2gwc3RFSmQ5V3lFTFVfbk04VEdnUXJDcVRZTE90aDVfSUhvVzFUOExCT0FNd2h5MFFjMlltY3dwd2JUc3ZtM1R6RXRXdldlMUZBSnZrR1pteE4yeGd2Vi1saWwySzh3MTJFQWpsNGFNQ1NQWFRPMmtkMkE4Uko4LUZaZTdUMWFQOWFqRXhSZ0k1ZWVPcmhpc1FXZ0FaYVBxRWFuTkNydzF3?oc=5",
+        "publisher": "The National",
+        "published": "2026-10-27T16:52:53.000Z"
       },
       {
-        "title": "Middle East war: Oil prices surge as ships continue to come under attacks",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbktSRno1alMzUEM2Zy1oX1VMUjJ5cXE4ZWZxV1VUQldaSzQwTkJ5Z2dkaHNFdW1zWGw3SXBQa0hzMnRzVS1OUDZ5N2E3RlE1Y2FHWXdXN1FSUGdacE9rX1FxNVJvU1JCNEhRUjR4Y2o3bUF1ODdRMGZvdHpiZENaWm5XWE5KdlBlbFBLMDFtR1Y1TzREUGY0WXlNOFhwU05Jb01ycVNKTUxtNVlC?oc=5",
-        "publisher": "https://www.engine.online/",
-        "published": "2026-10-27T09:34:38.000Z"
+        "title": "China To Send Special Envoy To Middle East As Iran War Fears Grow, Red Sea Tensions Rise",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRTg0eU1RbXN6dUxjOWZzQVQ1VEdxcmt2YkNaRy16WWJILS1sZklSb0ZnOXA4dzMtcDFsakxLallwSkZnekZZSFRvTGFLMGt0bHNoUGM5R2JsWlBveG5KaWVGVnFWYS0zX3hqeDJwYUdoUmZBaHkzelRFb2NGRF9fQUZOZkdwdktTbU90S09xaEV4U0hCRVdjTlVKUWlNU3piOVpYWTRBdFZZQjlrTk53dmtVeHpuREFzLW5mS1ZFb185U0dNajB5cWZ1Q3ZuY0hsSVBUclVzaTNOTTgxcXFaalFxMTJwU0xpeVVkR2lUX0s5VlVQV2dPaUtUMlnSAYICQVVfeXFMUEkzeTNhSTIwWWxEY2ZfTWM5dVFfX2psMDlPdlpQVHFwM3owZXQwQWNsSFNvNHJZQXRCcDE1M2hLWDZlZXlFUl9XVkVpd1lSNnB0R0R3NEcxQnhEeENIZW1LNjY2LUwxRTlJWlNEMkd6OUpvb3NaX0ZrME43ZUlMNjRZbVFzelVQNnlrY1J6eDhWdDhaVlBsdG54Zm1RZk5vTG85MUVxUTVRX2lNdE5pQnVQZGhSUFpzbFV3RHRuVHdTT0kxNEd1WkJfUUtud21xOXJkSy1PZ0VtSWRUY2xPd2pxaXJNUlo2eGpCRjB4NWJJNTA0dUpqVE1ld1pFN1RfeVpR?oc=5",
+        "publisher": "The Times of India",
+        "published": "2026-10-27T16:28:50.000Z"
+      },
+      {
+        "title": "Qatar and Egypt Press Iran Diplomacy as Houthis Claim Saudi Strikes",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0JnSEY3bXMwSDRsdWdFTVdwanNUVnAwN2lldzQ0OHRQUXp1YmlSUkJvS2RoQmtpVkhobWVkbjBMb2tnWG13ZVBEZUJjZklrOEFXWjhkcm9nTFFuRWFYZVJtenB3aklyNmVTLUI2NlJjQmxKaUNYcVk4NkFrT2JNRC1UODNFYXc2QU9aOXJmc2lWdE9aV1JsanhBZ0tvLXJ5bTZ3dW84dlVqZWs3QlpDNg?oc=5",
+        "publisher": "Kurdistan24",
+        "published": "2026-10-27T15:13:44.000Z"
+      },
+      {
+        "title": "Qatar, Iran discuss war and Hormuz in Moscow meeting as another ship struck in Strait",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1hWM01wUEtkUnYwQkRqQnkwNVQzWHZ6dkRCQ2hDcGlKVEs5UkV5NWVWXzUtY1d1WXd1ZDNMSDkyeHA0RVBkbEYzdG1xaXhNaUVwQVVqajlCZzZueFdRN1FUQ3JKTXVXS2dFbHVxc3hISnY3RnJLTWhKdVZFbzhRR0VyQ2lFMHA4d2dHXzFJa2tFTDZBNlNZbGRVQ2x1M2FGbGJlcUpCVnJJVUtnYW1iMzZDY1JOZ9IBuwFBVV95cUxNd2hTZUhBNlJ6MlNmWWhFelRCU3U0bDM0aWpPanM2aTZGLW9XV1loZ0hwN3pXcFREeEkwQzJwTzlBd3JJT1V4M2FQSnJNYWVRak8yTWlISUQzeVU4M2cycGFvNW1BQkNLSTNGTnhtLXd6dEw4Mm12cENWOThkVngxWjJvS0tpOFVfWGNVSFgyVC1EaDBaOGlTMEZnTWxqempqXzlIeUxDRUhheXJjUUVxU3pWZ2tKME1VYjJJ?oc=5",
+        "publisher": "The Times of Israel",
+        "published": "2026-10-27T14:54:16.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "w2unqv",
+    "hash": "11gsshs",
     "tags": [],
     "headlines": []
   },
   "france-unrest-2026": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "1vh07tr",
+    "hash": "1jep8d6",
     "tags": [],
     "headlines": []
   },
@@ -188,16 +167,16 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "1l5jti8",
+    "hash": "11wspz4",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "1xoxyrf",
+    "hash": "qwrtql",
     "tags": [],
     "headlines": []
   },
@@ -489,9 +468,9 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-27T12:05:30.282Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "gv29ec",
+    "hash": "q9z88o",
     "tags": [],
     "headlines": []
   },
@@ -580,9 +559,9 @@
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-27T11:05:26.265Z",
+    "at": "2026-10-27T18:05:53.302Z",
     "by": "pipeline",
-    "hash": "tpk1bp",
+    "hash": "1jzwfuh",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
@@ -596,11 +575,12 @@
           0,
           3
         ],
-        "why": "Istanbul flooded on 15 October with eight deaths, and on 26 October local press reported the city bracing for a new round of flooding while rain pushed road congestion to 80%, which could slow truck access to Ambarlı.",
-        "action": "Ask your forwarder to confirm Ambarlı gate and truck pickup slots for the next two weeks, and add 2 days of buffer to inland trucking from Istanbul-area suppliers.",
+        "why": "After the 15 October floods, Istanbul was bracing for a new round of heavy rain on 26 October, and rain pushed city road congestion to 80% on 27 October, which could slow truck access to and gate turnaround at Ambarlı in the next 30 days.",
+        "action": "Ask your forwarder to confirm Ambarlı gate and truck-slot times for the next two weeks, and add 2 days of buffer to inbound and outbound container pickups when heavy-rain warnings are issued.",
         "sources": [
-          1,
-          0
+          2,
+          0,
+          1
         ]
       }
     ],
@@ -610,6 +590,12 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTl0RXRLdmNHWUxtZ3BwRmpaVVVGa3diQy1BRUpPcDU1RTVQbHJ6MFk4T2VEXzRneGN3MUNGd1UxWm50SEFPZ3IxdDZGNnRNbzlmMGlvbzBibUpIUXltTGFHaDlMdnhPQ2NOalVLWVItUnlWSmpObXdOYWZyTjduRFdrSGcyYzk0cGE0d05YTHhhRGM?oc=5",
         "publisher": "Türkiye Today",
         "published": "2026-10-27T07:09:21.000Z"
+      },
+      {
+        "title": "Tornado kills four in Antalya as floods hit Istanbul",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVUzZ3dHUmlsdldUNS1iWGxmcktMc2V4ZERaVmJJcWQxcHFtQzV2Z29Md0gyLTBVM21uOWRpRHNvTmR4cDcwTXdVVGdTWF9XNWJsSGVEQUV4VEh0LTVaWVB2MkpPbHJEYjRiSTJuR0NJTGZHOXhFNnl6Qkx0ZkxsZzY3bnE4c2RLYjJqUXQ2Vmh6Mi05T1k0Wg?oc=5",
+        "publisher": "Hürriyet Daily News",
+        "published": "2026-10-27T06:58:26.000Z"
       },
       {
         "title": "Istanbul braces for new round of flooding",

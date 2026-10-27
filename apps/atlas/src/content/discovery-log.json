@@ -1,5 +1,5 @@
 {
-  "screenedAt": "2026-10-27T15:05:39.203Z",
+  "screenedAt": "2026-10-27T18:05:53.302Z",
   "judged": {
     "b2917dd007e7": {
       "at": "2026-10-25T02:02:15.770Z",
@@ -2098,7 +2098,7 @@
       "verdict": "reject"
     },
     "3fc1e2f37f00": {
-      "at": "2026-10-27T15:05:39.203Z",
+      "at": "2026-10-27T18:05:53.302Z",
       "verdict": "existing"
     },
     "df38c93bbc72": {
@@ -2222,7 +2222,7 @@
       "verdict": "reject"
     },
     "0cd6fb0f29c7": {
-      "at": "2026-10-27T15:05:39.203Z",
+      "at": "2026-10-27T18:05:53.302Z",
       "verdict": "existing"
     },
     "ee186b92d804": {
@@ -2364,9 +2364,191 @@
     "899a2efaaf16": {
       "at": "2026-10-27T15:05:39.203Z",
       "verdict": "no story"
+    },
+    "562dcfb52ba7": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "432fe861dfec": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "existing"
+    },
+    "517c34e55c3a": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "existing"
+    },
+    "ba30ad1147a2": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "36d01cfefffa": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "3b4ab57bd224": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "a9e8c91b64ad": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "e4df2c0f723d": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "bcc9fb0c2601": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "reject"
+    },
+    "9c2aabe5af39": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "fc22cc8da0e0": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "fab3686353c4": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "e9a5d96704cf": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "e63c0c9edf06": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "8cddf144fc33": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "acd888d90569": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "3b3db85a526a": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "da23d8773a24": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "aef29cc2a1b9": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "f56a930be19a": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "ea0ec7319b84": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "9fdd38e7f137": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "633a214d0522": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "dfd0302b1a3b": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "19aad8b2cf08": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "96cb75d537a9": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
+    },
+    "c7db17386122": {
+      "at": "2026-10-27T18:05:53.302Z",
+      "verdict": "no story"
     }
   },
   "runs": [
+    {
+      "at": "2026-10-27T18:05:53.302Z",
+      "screened": 132,
+      "accepted": [],
+      "rejected": [
+        {
+          "title": "Spain deports migrants from Ceuta",
+          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
+          "headlines": 1,
+          "publishers": 1
+        },
+        {
+          "title": "US strike on alleged drug vessel in eastern Pacific kills five",
+          "reason": "It is a routine, repeated counter-narcotics strike with no clear cross-border channel or decision change in another state named in the headline.",
+          "headlines": 1,
+          "publishers": 1
+        },
+        {
+          "title": "Gunmen attack in northeastern Nigeria kills 62",
+          "reason": "It is a domestic security incident with no stated channel into other countries.",
+          "headlines": 1,
+          "publishers": 1
+        },
+        {
+          "title": "Egyptian journalist Lina Attalah detained after news site closure order",
+          "reason": "A domestic press-freedom case with no effect on money, goods, people or other states' decisions.",
+          "headlines": 1,
+          "publishers": 1
+        },
+        {
+          "title": "Hegseth heads to Manila",
+          "reason": "A routine visit to shore up ties, with no decision reported.",
+          "headlines": 1,
+          "publishers": 1
+        },
+        {
+          "title": "UK emergency stockpile advice sparks buying of water and tinned food",
+          "reason": "The headline reports consumer buying, with no cross-border channel or another country's decision named.",
+          "headlines": 1,
+          "publishers": 1
+        },
+        {
+          "title": "Cyclone Arnab hits India's east coast",
+          "reason": "A weather event with no reported effect abroad.",
+          "headlines": 1,
+          "publishers": 1
+        }
+      ],
+      "existing": [
+        {
+          "title": "Iranian and Qatari leaders meet in Moscow at Russian energy forum",
+          "reason": "The meeting of Iran's and Qatar's leaders is part of the diplomacy around the Gulf war and energy shock already on the map.",
+          "headlines": 2,
+          "publishers": 1,
+          "event": "gulf-war-energy-shock"
+        },
+        {
+          "title": "Man charged over incident at UK base used for Iran strikes",
+          "reason": "The charge is a spillover of the US-Israel war on Iran, which is already covered by the Gulf war event.",
+          "headlines": 1,
+          "publishers": 1,
+          "event": "gulf-war-energy-shock"
+        },
+        {
+          "title": "Machado returns to Venezuela from exile",
+          "reason": "This is the same return already on the map.",
+          "headlines": 1,
+          "publishers": 1,
+          "event": "machado-returns-venezuela-2026"
+        }
+      ],
+      "retired": [],
+      "skipped": ""
+    },
     {
       "at": "2026-10-27T17:05:54.820Z",
       "screened": 0,
@@ -3798,94 +3980,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 2 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-26T03:03:28.997Z",
-      "screened": 80,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "UK Budget previews",
-          "reason": "These are previews and commentary on a domestic budget, with no named cross-border channel.",
-          "headlines": 7,
-          "publishers": 2
-        },
-        {
-          "title": "Storms cut power across UK and northern Europe",
-          "reason": "Weather damage with no policy or cross-border effect.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Cabinet split over Rosebank oilfield",
-          "reason": "This is a domestic UK licensing dispute, and no decision has been made.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Kim Jong-un crosses new bridge into China",
-          "reason": "The headline reports a visit and no decision or concrete cross-border measure.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Turkey-Libya maritime deal irritates Greece and EU",
-          "reason": "This reads as analysis, and the headline gives no dated development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Bulgaria election heads to run-off",
-          "reason": "This is a domestic election round with no stated cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Prague protest over public media funding",
-          "reason": "This is a domestic policy protest with no cross-border ripple.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran war: Trump rules out strikes 'today', missile downed near Riyadh",
-          "reason": "This is a live update on the US-Israel war on Iran and the Gulf, which is already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UK heating oil costs more than double ahead of winter",
-          "reason": "The price spike is a knock-on effect of the Gulf energy shock already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Ukraine disputes Musk's Starlink violation claim",
-          "reason": "This continues the Starlink restrictions dispute already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Brazil presidential candidates ahead of run-off",
-          "reason": "This is coverage of the Brazil run-off, which is already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "Protests and troops on the streets in Rome and Milan",
-          "reason": "These are further street clashes in the Italian cost-of-living unrest already on the map.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
