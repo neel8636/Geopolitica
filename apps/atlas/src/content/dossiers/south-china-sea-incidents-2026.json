@@ -1,47 +1,66 @@
 {
   "slug": "south-china-sea-incidents-2026",
   "title": "Philippine-Chinese clashes spike across the South China Sea",
-  "deck": "Six dangerous encounters in nine days, a blocked resupply to a grounded Philippine outpost and a new flashpoint near Taiwan test whether summit diplomacy with Beijing restrains Chinese behaviour at sea.",
-  "updated": "2026-10-19",
+  "deck": "At least six dangerous encounters in nine days, a new flashpoint off northern Luzon and a Chinese carrier group circling the Philippines put Manila, Beijing and Washington on a collision course just before Trump meets Xi in Shenzhen.",
+  "updated": "2026-10-27",
   "status": "developing",
   "region": "Philippines, South China Sea, Luzon Strait",
   "tags": [
     "South China Sea",
     "Philippines",
     "China Coast Guard",
-    "Taiwan",
     "US alliances",
-    "shipping lanes"
+    "Taiwan",
+    "APEC",
+    "naval buildup"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 16
   },
+  "fuel": [
+    {
+      "aspect": "security",
+      "title": "Liaoning group shadowed off Mindanao",
+      "how": "China's carrier group sails near the southern Philippines while a US carrier group exercises in the same waters, and a new Philippine Coast Guard vessel shadows the Chinese group, so forces are in close contact at sea.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "politics",
+      "title": "Hegseth to visit Manila as rhetoric hardens",
+      "how": "A Philippine official dares China to 'do what you want' and the US defense secretary is due in the Philippines, which hardens positions on both sides.",
+      "sourceIndex": 5
+    }
+  ],
   "card": {
-    "headline": "Chinese pressure on the Philippines is spreading from old shoals to a new front near Taiwan",
+    "headline": "The South China Sea is hotter than at any point this year, and the heat now reaches the Luzon Strait",
     "keyNumber": {
       "value": "6+",
-      "label": "dangerous Philippine-Chinese encounters between 1 and 9 October",
+      "label": "dangerous Philippine-Chinese encounters between 1 and 9 October, at four separate areas",
       "sourceIndex": 0
     },
     "impactMeter": 3,
     "forYou": [
       {
         "role": "Shipping and logistics",
-        "line": "Watch the Luzon Strait and Spratly approaches. Harassment has not closed any lane, but a second sensitive route adds risk on top of Gulf disruption."
+        "line": "No commercial disruption is reported so far. Watch Scarborough Shoal, the Spratlys and the Luzon Strait for any move toward exclusion zones or blockades."
       },
       {
-        "role": "Finance",
-        "line": "This is a risk-premium story, not a market shock. The trigger would be a collision, an injury or a US treaty response."
+        "role": "Defence and security",
+        "line": "A Chinese carrier group, a US carrier exercise and a Philippine coast guard shadowing ship are all in the same waters. Close contact raises the risk of an accident."
       },
       {
-        "role": "Policy and security",
-        "line": "Chinese coast guard ships are probing Philippine and Taiwanese responses just before the 18-19 November APEC summit in Shenzhen."
+        "role": "Investors",
+        "line": "Markets have not been shown to react. The real test is whether Trump's 18-19 November meeting with Xi in Shenzhen calms or inflames the sea."
+      },
+      {
+        "role": "Fishing communities and coastal households",
+        "line": "Fishers near Scarborough and off Batanes face the most direct risk. Church leaders in the Philippines are urging safety for fishermen."
       },
       {
         "role": "Everyone",
-        "line": "The risk is accident, not invasion. Close passes at sea can escalate even when neither side wants a fight."
+        "line": "Taiwan's coast guard has now appeared in the Luzon Strait. That ties Manila's dispute to the Taiwan question."
       }
     ],
     "ripple": [
@@ -49,20 +68,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Chinese ships block a Philippine patrol within 9 metres; a PLA J-16 closes on a Philippine Cessna 208",
+            "text": "At least six dangerous encounters at Scarborough Shoal, Second Thomas Shoal, the Spratlys and off Batanes between 1 and 9 October",
             "sector": "Security"
           },
           {
-            "text": "China Coast Guard harassment delays a medevac from BRP Sierra Madre at Second Thomas Shoal",
-            "sector": "Maritime, humanitarian"
-          },
-          {
-            "text": "Beijing blocks a Sierra Madre resupply in September, the first since the June 2024 provisional arrangement",
-            "sector": "Diplomacy"
-          },
-          {
-            "text": "A China Coast Guard cutter escorts a survey ship off Batanes; Taiwan sends three coast guard boats",
+            "text": "A PLA J-16 fighter closes on a Philippine Cessna 208 on 3 October; Chinese ships block a Philippine patrol within 9 metres on 4 October",
             "sector": "Security"
+          },
+          {
+            "text": "China Coast Guard harassment delays a medevac from BRP Sierra Madre; in September Beijing blocked a resupply for the first time since the June 2024 provisional arrangement",
+            "sector": "Security"
+          },
+          {
+            "text": "Official rhetoric hardens: a Philippine official tells China to 'do what you want'; US Defense Secretary Hegseth is due in the Philippines for ASEAN defence events",
+            "sector": "Politics and protest"
           }
         ]
       },
@@ -70,20 +89,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Manila faces pressure to publicise incidents and invoke its US alliance; Beijing faces pressure not to look weak",
-            "sector": "Government"
-          },
-          {
-            "text": "The provisional resupply arrangement looks fragile, so every later mission becomes a test",
-            "sector": "Diplomacy"
-          },
-          {
-            "text": "Taiwan is drawn into a Philippine-Chinese dispute for the first time at this location",
+            "text": "The 2024 resupply understanding looks fragile, and the Sierra Madre outpost becomes the likeliest place for an incident",
             "sector": "Security"
           },
           {
-            "text": "Shipping and insurers start pricing the Luzon Strait and Spratly lanes as sensitive, though no closure has occurred",
-            "sector": "Shipping, insurance"
+            "text": "The Luzon Strait becomes a new flashpoint, with Taiwan sending three coast guard boats as a China Coast Guard cutter escorts a survey ship",
+            "sector": "Security"
+          },
+          {
+            "text": "Chinese and US carrier groups operate in the western Pacific at the same time, and a Philippine coast guard vessel shadows the Chinese group",
+            "sector": "Security"
+          },
+          {
+            "text": "Manila leans harder on Washington and other partners, such as Italy, for diplomatic and security support",
+            "sector": "Politics and protest"
           }
         ]
       },
@@ -91,16 +110,20 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "The Shenzhen APEC summit on 18-19 November becomes a test of whether summitry restrains Chinese coast guard behaviour",
-            "sector": "Geopolitics"
+            "text": "Beijing hosts Trump at APEC in Shenzhen on 18-19 November, so continued coast guard pressure tests whether summitry restrains Chinese behaviour at sea",
+            "sector": "Politics and protest"
           },
           {
-            "text": "Tankers already rerouting around Hormuz face a second chokepoint concern in Asia",
-            "sector": "Energy"
+            "text": "Pressure on US-allied frontline states grows at the same time on the Korean peninsula, as Trump pursues deals with both Xi and Kim",
+            "sector": "Politics and protest"
           },
           {
-            "text": "US allies in Asia, including South Korea, watch whether Trump's deal-seeking with Xi and Kim softens frontline support",
-            "sector": "Alliances"
+            "text": "A serious accident or death would put the US-Philippine Mutual Defense Treaty and US credibility under test",
+            "sector": "Security"
+          },
+          {
+            "text": "Insurers, shipowners and fishing fleets may start to price in a persistently contested route and fishing grounds (our estimate; nothing reported yet)",
+            "sector": "Shipping"
           }
         ]
       }
@@ -108,84 +131,89 @@
   },
   "brief": {
     "whatHappened": [
-      "Between 1 and 9 October 2026, there were at least six dangerous encounters between Philippine and Chinese forces. They occurred at Scarborough Shoal, Second Thomas Shoal, in the Spratly Islands and at a new flashpoint off Batanes in the Luzon Strait.",
-      "On 3 October a PLA J-16 fighter closed on a Philippine Cessna 208 aircraft. On 4 October Chinese ships blocked a Philippine patrol at a distance of 9 metres. China Coast Guard harassment also delayed a medical evacuation from BRP Sierra Madre.",
-      "Off Batanes, a China Coast Guard cutter escorted a survey ship near an exclusive economic zone. Taiwan sent three coast guard boats in response. In September, Beijing blocked a Sierra Madre resupply for the first time since the June 2024 provisional arrangement."
+      "Between 1 and 9 October 2026, Philippine and Chinese forces had at least six dangerous encounters. They took place at Scarborough Shoal, Second Thomas Shoal, in the Spratly Islands and at a new flashpoint off Batanes in the Luzon Strait. On 3 October a Chinese PLA J-16 fighter closed on a Philippine Cessna 208 patrol aircraft. On 4 October Chinese ships blocked a Philippine patrol within 9 metres. China Coast Guard harassment also delayed a medevac from BRP Sierra Madre, the Philippine outpost on Second Thomas Shoal.",
+      "In September Beijing blocked a Sierra Madre resupply mission for the first time since the June 2024 provisional arrangement that had calmed the shoal. Off Batanes, a China Coast Guard cutter escorted a survey ship near an exclusive economic zone, and Taiwan sent three coast guard boats to the area.",
+      "The pressure carried into late October. A Chinese carrier group led by the Liaoning passed near the southern Philippines while the USS Theodore Roosevelt group exercised in the Philippine Sea. A new Philippine Coast Guard vessel shadowed the Chinese group off Mindanao. A Philippine official told China to 'do what you want' as the diplomatic exchange sharpened, and US Defense Secretary Hegseth was reported to be heading to the Philippines for ASEAN defence ministers' events."
     ],
     "whyItMatters": [
-      "Sierra Madre is a Philippine navy ship that was deliberately grounded at Second Thomas Shoal in 1999 and still holds a small garrison. If Beijing can block its resupply and slow its medevacs, it can squeeze the outpost without firing a shot.",
-      "Batanes sits in the Luzon Strait between the Philippines and Taiwan. Pressure there links the Philippine dispute to the Taiwan question, which raises the stakes of any miscalculation.",
-      "The timing matters. Xi hosts the APEC leaders' meeting in Shenzhen on 18-19 November, and Trump plans to attend after Xi's state visit to Washington. Continued coercion in the weeks before shows whether warmer leader-level ties change Chinese behaviour at sea."
+      "Security: this is gray-zone pressure, meaning coercion without open war, and it is spreading geographically. Scarborough, Second Thomas and the Spratlys are long-running hotspots. The Luzon Strait is newer and sits between the Philippines and Taiwan. When a carrier group, a US carrier exercise and a coast guard ship that is shadowing the Chinese group all operate in the same waters, a small mistake could turn into a larger incident. The September resupply block also suggests the 2024 understanding is weaker than assumed. Nothing in the reporting shows a shot fired or anyone killed.",
+      "Politics: both sides are hardening in public. Manila's tone is defiant and Washington is signalling backing through Hegseth's visit. Beijing hosts Trump at the APEC summit in Shenzhen on 18-19 November, after Xi's state visit to Washington ended on 25 September with a declared 'constructive relationship of strategic stability'. If coast guard pressure continues while Beijing plays host, summitry is not changing behaviour at sea. If it eases, the summit may be restraining China. North Korea's missile tests are a separate driver, but they also put US-allied frontline states under pressure ahead of Trump's November Asia trip."
     ],
     "winners": [
       {
-        "who": "China Coast Guard and the PLA",
-        "why": "They gain operational experience and normalise closer, more frequent presence without a shooting incident."
+        "who": "Naval and defence planners in the region",
+        "why": "Carrier deployments, patrols and shadowing missions strengthen the case for more ships, aircraft and surveillance spending."
       },
       {
-        "who": "Defence suppliers and maritime security firms in the region",
-        "why": "Persistent incidents support the case for patrol craft, surveillance aircraft and coast guard capacity. This is an expectation, not a reported order."
+        "who": "Beijing's hardliners",
+        "why": "Coast guard and PLA pressure has so far met no costly response; coercion is working in the near term (our judgement)."
+      },
+      {
+        "who": "US-Philippine defence cooperation",
+        "why": "Hegseth's visit and a US carrier exercise nearby show Washington's commitment and give Manila diplomatic cover."
       }
     ],
     "losers": [
       {
-        "who": "Philippine garrison and supply crews at Second Thomas Shoal",
-        "why": "Resupply and medevac are now contested, which puts crew welfare at risk."
+        "who": "Philippine fishers and coast guard crews",
+        "why": "They face harassment and close passes at sea, and a medevac from Sierra Madre has already been delayed."
       },
       {
-        "who": "Philippine fishers and patrol crews",
-        "why": "Blocking and close passes raise safety risks and limit access to waters Manila considers its own."
+        "who": "The Sierra Madre garrison",
+        "why": "Resupply is blocked or impeded for the first time since the 2024 arrangement."
       },
       {
-        "who": "Taiwan",
-        "why": "A new Luzon Strait flashpoint stretches its coast guard and raises its exposure to Chinese pressure."
+        "who": "Regional stability and ASEAN unity",
+        "why": "A cohesive ASEAN response is harder when two members are in a public war of words and a third is drawn in through the Luzon Strait."
       },
       {
-        "who": "Shipping and insurers using Asian lanes",
-        "why": "Risk premiums may rise even without closures, on top of Gulf-related cost pressure."
+        "who": "Anyone hoping summitry would calm the sea",
+        "why": "Pressure continues despite the run-up to Shenzhen."
       }
     ],
     "whatsNext": [
-      "18-19 November: APEC leaders' meeting in Shenzhen, hosted by Beijing, with Trump planning to attend.",
-      "Before then: further Sierra Madre resupply attempts will show whether the provisional arrangement still works.",
-      "Watch for another incident in the Luzon Strait, where Taiwan has now shown it will send boats."
+      "29 October: the Keen Sword exercise in the Philippine Sea is due to run through this date, per one report.",
+      "Date not stated in the material: Hegseth visits the Philippines for ASEAN defence ministers' events.",
+      "Next Sierra Madre resupply: the main test of whether Beijing allows the 2024 arrangement to hold.",
+      "18-19 November: APEC leaders meet in Shenzhen, with Trump expected to attend.",
+      "Late November: Trump may meet Kim Jong Un during the Asia trip, and North Korea's missile tests are a parallel pressure."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely pattern at sea between now and the Shenzhen APEC summit?",
+      "question": "Before you read the scenarios: what do you think is the most likely path through the 18-19 November Shenzhen summit?",
       "options": [
-        "Incidents stop as Beijing prepares to host Trump",
-        "Persistent coercion, with no deaths and no treaty invocation",
-        "A serious collision or injury triggers a US-Philippine response",
-        "A new formal Philippine-Chinese deal restores the 2024 arrangement"
+        "Gray-zone pressure continues at a lower, steadier level",
+        "A visible lull as Beijing tries to look like a stable host",
+        "A serious accident or casualty at sea",
+        "A formal US-China understanding on the South China Sea"
       ],
-      "answerIndex": 1,
-      "explanation": "Our base case, at about 55%, is persistent gray-zone pressure without fatalities. Beijing has used this level of coercion before without crossing the threshold for armed conflict, and the October pattern shows no sign of stopping. The probabilities are author judgement."
+      "answerIndex": 0,
+      "explanation": "Our base case, at about 50%, is continued gray-zone pressure at a similar or slightly lower level, with periodic incidents and no deaths. A temporary lull is the second most likely path at about 25%. A serious accident is about 20%."
     },
     "recap": [
       {
-        "question": "Where is the new flashpoint in this episode?",
+        "question": "Where is the new flashpoint named in this report?",
         "options": [
           "Off Batanes in the Luzon Strait",
           "Off Vietnam's coast",
-          "In the Strait of Malacca"
+          "In the Taiwan Strait's far north"
         ],
         "answerIndex": 0
       },
       {
-        "question": "What did Beijing do in September that it had not done since June 2024?",
+        "question": "What did Beijing block in September for the first time since the June 2024 arrangement?",
         "options": [
-          "Blocked a Sierra Madre resupply",
-          "Closed the Luzon Strait to all shipping",
-          "Seized the Philippine ship"
+          "A Sierra Madre resupply",
+          "A Philippine fishing season",
+          "A US carrier visit"
         ],
         "answerIndex": 0
       },
       {
-        "question": "Which upcoming event could test Chinese restraint?",
+        "question": "Where does China host Trump on 18-19 November?",
         "options": [
-          "APEC leaders' meeting in Shenzhen, 18-19 November",
-          "The Hormuz reopening",
-          "An ASEAN football final"
+          "Shenzhen, at APEC",
+          "Beijing, at a bilateral summit",
+          "Manila, at ASEAN"
         ],
         "answerIndex": 0
       }
@@ -195,68 +223,82 @@
     "timeline": [
       {
         "date": "2016-07-12",
-        "title": "Arbitral tribunal rejects China's sweeping South China Sea claims",
-        "detail": "A tribunal under the UN Convention on the Law of the Sea ruled for the Philippines. China does not accept the ruling. Background from general knowledge."
+        "title": "Arbitral tribunal rules on the Philippines' case",
+        "detail": "The tribunal at The Hague largely rejects China's sweeping South China Sea claims. Beijing says it does not accept the ruling. General background, not from the cited sources."
       },
       {
-        "date": "2024-06",
-        "title": "Provisional arrangement on Sierra Madre resupply",
-        "detail": "The material refers to a June 2024 provisional arrangement. We have not seen its full terms, so we describe it only as a deal that allowed resupply to proceed."
+        "date": "2024-06-17",
+        "title": "Clash at Second Thomas Shoal",
+        "detail": "A resupply run ended in a violent confrontation that injured Filipino personnel. A provisional arrangement on resupply followed in June 2024, as described in the event material."
       },
       {
-        "date": "2026-09",
+        "date": "2026-09-01",
         "title": "Beijing blocks a Sierra Madre resupply",
-        "detail": "The first block since the June 2024 arrangement. The exact day is not in our material.",
+        "detail": "The first block since the June 2024 provisional arrangement. The exact day is not given in the material; the date shown is a placeholder for September.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-09-25",
         "title": "Xi's state visit to Washington ends",
-        "detail": "Both sides declared a 'constructive relationship of strategic stability', with few concrete trade deliverables."
+        "detail": "The two sides declare a 'constructive relationship of strategic stability', with few concrete trade deliverables. Context from the connected APEC dossier."
       },
       {
         "date": "2026-10-03",
         "title": "PLA J-16 closes on a Philippine Cessna 208",
-        "detail": "A military aircraft intercept of a light Philippine surveillance-type aircraft, raising collision risk in the air.",
+        "detail": "A Chinese fighter jet approaches a Philippine patrol aircraft, one of at least six dangerous encounters in nine days.",
         "sourceIndex": 0
       },
       {
         "date": "2026-10-04",
         "title": "Chinese ships block a Philippine patrol within 9 metres",
-        "detail": "Manila accuses China of harassing patrols in disputed waters. Separately, harassment delays a medevac from BRP Sierra Madre.",
+        "detail": "Manila accuses China of harassing patrols in disputed waters; AFP reports the claims.",
         "sourceIndex": 1,
         "turning": true
       },
       {
         "date": "2026-10-09",
-        "title": "USNI reports at least six encounters since 1 October",
-        "detail": "Incidents span Scarborough Shoal, Second Thomas Shoal, the Spratlys and Batanes. Taiwan sends three coast guard boats as a China Coast Guard cutter escorts a survey ship.",
+        "title": "Incidents spike across four areas, including Batanes",
+        "detail": "A China Coast Guard cutter escorts a survey ship near an EEZ off Batanes. Taiwan sends three coast guard boats. A Sierra Madre medevac is delayed by harassment.",
         "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-11-18",
-        "title": "APEC Economic Leaders' Meeting opens in Shenzhen",
-        "detail": "A two-day summit hosted by China. Trump plans to attend."
+        "date": "2026-10-25",
+        "title": "Liaoning group passes near the southern Philippines",
+        "detail": "China's carrier and its escorts operate in waters where a US carrier group is also exercising. One report counts 288 missile cells among the Chinese escorts.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Manila-Beijing word war escalates",
+        "detail": "A Philippine official dares China to 'do what you want'.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Philippine coast guard vessel shadows Chinese carrier group",
+        "detail": "A new coast guard ship follows the Chinese strike group off Mindanao, putting the two sides in close contact. Hegseth is also reported to be heading to the Philippines.",
+        "sourceIndex": 2,
+        "turning": true
       }
     ],
     "causes": [
       {
         "name": "Structural roots",
-        "when": "Decades",
+        "when": "Years to decades",
         "causes": [
           {
             "name": "Overlapping claims",
-            "detail": "China claims most of the sea. The Philippines, Vietnam, Malaysia, Brunei and Taiwan claim parts. The 2016 ruling did not settle practice on the water."
+            "detail": "China claims most of the South China Sea. The Philippines claims features and waters inside its own EEZ. The 2016 tribunal ruling went Manila's way, but Beijing rejects it."
           },
           {
-            "name": "Fixed outposts",
-            "detail": "Sierra Madre at Second Thomas Shoal is a permanent flashpoint because it needs regular resupply by sea."
+            "name": "The Sierra Madre outpost",
+            "detail": "The Philippines keeps a ship grounded on Second Thomas Shoal as a military outpost. China wants it gone, so every resupply is a potential confrontation."
           },
           {
-            "name": "Coast guard as instrument",
-            "detail": "China uses coast guard and other white-hulled ships for pressure below the threshold of war. This pattern is well documented, though we have no source on its scale in 2026."
+            "name": "US-China rivalry",
+            "detail": "The Philippines is a US treaty ally, so any serious incident draws in Washington. Taiwan's location just north of Luzon adds another link."
           }
         ]
       },
@@ -265,12 +307,12 @@
         "when": "September to early October 2026",
         "causes": [
           {
-            "name": "Blocked resupply",
-            "detail": "The September block broke the practical understanding of mid-2024."
+            "name": "First resupply block since the 2024 arrangement",
+            "detail": "Beijing's September block removed the main rule that had been reducing friction at Second Thomas Shoal."
           },
           {
-            "name": "New geography",
-            "detail": "Activity off Batanes shifted attention north, toward the Luzon Strait and Taiwan."
+            "name": "A burst of coordinated pressure",
+            "detail": "Six dangerous encounters in nine days across four areas suggest a deliberate campaign, though the sources do not say why it began now."
           }
         ]
       },
@@ -279,12 +321,20 @@
         "when": "October 2026",
         "causes": [
           {
-            "name": "Summit leverage",
-            "detail": "Beijing hosts APEC and may calculate that Washington will not press hard before it. This is an inference, not a reported Chinese aim."
+            "name": "A new northern flashpoint",
+            "detail": "The Batanes encounter, with a China Coast Guard cutter escorting a survey ship and Taiwan sending coast guard boats, links the Philippine dispute to the Taiwan question."
           },
           {
-            "name": "Alliance signalling",
-            "detail": "Manila's publication of incidents and Taiwan's deployment raise the cost of stepping back for both sides."
+            "name": "Naval build-up",
+            "detail": "A Chinese carrier group circling the Philippines at the same time as a US carrier exercise raises the chance of a collision."
+          },
+          {
+            "name": "Hardening rhetoric",
+            "detail": "Public defiance from Manila and a visit from Hegseth make backing down costlier for both sides."
+          },
+          {
+            "name": "Summit calendar",
+            "detail": "With Trump due in Shenzhen on 18-19 November, each side has an incentive to look strong, and the timing may also be shaping Beijing's choices (our judgement)."
           }
         ]
       }
@@ -292,204 +342,214 @@
     "stakeholders": [
       {
         "name": "Philippine government (Marcos administration)",
-        "role": "Claimant and treaty ally of the US",
-        "wants": "Keep Sierra Madre supplied and Philippine patrols unobstructed, without a shooting war",
-        "leverage": "Public disclosure of incidents; the alliance with the US",
-        "likelyMove": "Keep publicising incidents and attempt resupply missions; seek talks on the provisional arrangement"
+        "role": "Claimant and US treaty ally",
+        "wants": "Keep the Sierra Madre supplied, protect fishers and patrols, and defend its EEZ without a shooting war",
+        "leverage": "Public transparency about incidents, new coast guard ships, and the US alliance",
+        "likelyMove": "Keep publicising Chinese harassment, keep shadowing missions and seek more international partners"
       },
       {
         "name": "China Coast Guard and PLA",
-        "role": "Instruments of Chinese pressure",
-        "wants": "Assert Chinese claims, restrict Philippine access and probe the US response",
-        "leverage": "Greater numbers, blocking manoeuvres, control of timing",
-        "likelyMove": "Calibrate pressure to stay below a lethal incident, with some restraint close to the APEC summit"
-      },
-      {
-        "name": "Beijing leadership (Xi)",
-        "role": "Summit host",
-        "wants": "A successful APEC, tariff relief and no major crisis that embarrasses the host",
-        "leverage": "Control over APEC's agenda and the pace of coast guard activity",
-        "likelyMove": "Offer the US warm summit atmospherics while keeping pressure on the Philippines"
+        "role": "Chinese enforcement at sea and in the air",
+        "wants": "Establish control over disputed features and discourage Philippine and foreign activity",
+        "leverage": "Larger numbers of ships and aircraft, and the ability to turn the pressure up or down",
+        "likelyMove": "Continue gray-zone pressure while avoiding a clear act of war, possibly easing before 18-19 November"
       },
       {
         "name": "Taiwan",
-        "role": "Neighbour with a stake in Luzon Strait access",
-        "wants": "Avoid being isolated; show it can defend its waters and respond",
-        "leverage": "Coast guard deployments, cooperation with Manila and the US",
-        "likelyMove": "Continue sending coast guard boats and share maritime information with partners"
+        "role": "Neighbour with its own stake in the Luzon Strait",
+        "wants": "Show presence and keep the strait from becoming a Chinese-controlled lane",
+        "leverage": "Coast guard boats and diplomatic signalling",
+        "likelyMove": "Keep modest, visible coast guard patrols and coordinate informally with Manila"
       },
       {
-        "name": "United States (Trump administration)",
-        "role": "Treaty ally of the Philippines and summit guest",
-        "wants": "Trade and strategic-stability deals with Xi, and credibility with allies",
-        "leverage": "The 1951 Mutual Defense Treaty; naval and air presence",
-        "likelyMove": "Restate treaty support in general terms while avoiding steps that jeopardise the Shenzhen meetings"
+        "name": "United States (Hegseth and the Pentagon)",
+        "role": "Treaty ally and rival power",
+        "wants": "Reassure Manila and deter China without being drawn into an incident before the Shenzhen summit",
+        "leverage": "Carrier presence, the Mutual Defense Treaty, military cooperation",
+        "likelyMove": "Visible backing at ASEAN defence events and naval exercises, with no new binding commitments"
       },
       {
-        "name": "Shipping lines and insurers",
-        "role": "Users of the affected lanes",
-        "wants": "Predictable routing and stable premiums",
-        "leverage": "Route choices and pricing",
-        "likelyMove": "Monitor and add contract clauses; no wholesale rerouting unless lanes are actually obstructed"
+        "name": "Donald Trump and Xi Jinping",
+        "role": "Leaders meeting at APEC in Shenzhen on 18-19 November",
+        "wants": "Trump: trade and other deals. Xi: tariff relief and a stable-host image",
+        "leverage": "Control of the summit agenda (Xi) and US tariff and security policy (Trump)",
+        "likelyMove": "Both keep the sea off the main agenda unless an incident forces it on"
+      },
+      {
+        "name": "ASEAN",
+        "role": "Regional bloc hosting the defence ministers' events",
+        "wants": "A code of conduct and stability among its members",
+        "leverage": "Convening power; little coercive capacity",
+        "likelyMove": "Call for restraint and dialogue while members split over how hard to press China"
+      },
+      {
+        "name": "Philippine fishers and church leaders",
+        "role": "People closest to the sea",
+        "wants": "Safe access to fishing grounds",
+        "leverage": "Public moral pressure; headlines show Catholic leaders urging both firmness and peace",
+        "likelyMove": "Keep calling for peaceful, firm defence of the West Philippine Sea"
       }
     ],
     "sectors": [
       {
-        "sector": "Regional shipping",
-        "direction": "mixed",
-        "size": 2,
-        "why": "No closure has been reported. Delay and insurance risk rise if incidents move closer to commercial lanes."
-      },
-      {
-        "sector": "Marine insurance",
-        "direction": "up",
-        "size": 1,
-        "why": "War-risk and general premiums can rise on persistent incidents. We have no figures."
-      },
-      {
-        "sector": "Defence and maritime security",
+        "sector": "Defence and naval procurement",
         "direction": "up",
         "size": 2,
-        "why": "Manila and Taipei have reasons to buy more patrol and surveillance capacity."
+        "why": "Carrier deployments, shadowing missions and aircraft intercepts strengthen the case for more ships, aircraft and surveillance in the region."
       },
       {
-        "sector": "Philippine fisheries",
+        "sector": "Philippine military logistics",
         "direction": "down",
+        "size": 2,
+        "why": "Blocked or delayed Sierra Madre resupply and a delayed medevac raise the cost and risk of keeping the outpost supplied."
+      },
+      {
+        "sector": "Fishing",
+        "direction": "down",
+        "size": 2,
+        "why": "Harassment near Scarborough and Spratly features makes fishing riskier for Filipino crews. Church leaders have urged safety for fishermen amid the Chinese buildup."
+      },
+      {
+        "sector": "Shipping and marine insurance",
+        "direction": "mixed",
         "size": 1,
-        "why": "Blocking and harassment raise risk and restrict access at sea."
+        "why": "No disruption to commercial traffic is reported. A frequently cited estimate puts roughly a third of global maritime trade through the South China Sea, so any shift would matter. Risk premiums may creep up if incidents spread to commercial lanes (our estimate)."
       },
       {
-        "sector": "Energy transport",
+        "sector": "Diplomacy and regional ties",
         "direction": "mixed",
         "size": 2,
-        "why": "Gulf disruption already raises costs; Asian lane harassment adds risk but not a cut-off."
+        "why": "Manila is seeking deeper ties with partners such as Italy, which helps it. A word war with Beijing, and a tougher ASEAN meeting, hurts it."
       },
       {
-        "sector": "Electronics supply chains",
+        "sector": "Taiwan-related maritime security",
         "direction": "mixed",
         "size": 2,
-        "why": "Pressure near Taiwan adds a tail risk. Current flows are not reported as disrupted."
+        "why": "Taiwan's coast guard presence near Batanes shows closer coordination of interests, but it also gives Beijing a reason to frame the Luzon Strait as part of the Taiwan question."
       }
     ],
     "dailyLife": [
       {
-        "item": "Fuel and freight",
-        "effect": "No direct effect yet. Costs are already high because of the Gulf war, and a second sensitive route adds upside risk to freight rates."
+        "item": "Fishing livelihoods",
+        "effect": "Fishers near contested features face the most direct risk. Church leaders in the Philippines have urged their safety amid the Chinese buildup."
       },
       {
-        "item": "Seafood in the Philippines",
-        "effect": "Harassment of boats and patrols may limit fishing in contested waters. We have no price data."
+        "item": "Prices and supply chains",
+        "effect": "No effect on consumer prices has been reported so far. A real disruption would show up first in shipping and insurance costs, which we do not yet see."
       },
       {
-        "item": "Insurance and trade contracts",
-        "effect": "Expect more clauses and caution around the South China Sea. This is an expectation, not a reported shift."
+        "item": "News and public mood in the Philippines",
+        "effect": "Defiant rhetoric from officials and church statements are keeping the dispute at the centre of public debate."
       },
       {
-        "item": "Travel to the region",
-        "effect": "Commercial flights and ferries are not reported as affected."
+        "item": "Travel and aviation",
+        "effect": "No airspace closures are reported. Military aircraft intercepts, like the J-16 pass at a Cessna 208, are a risk to patrol flights, not commercial ones."
       }
     ],
     "scenarios": [
       {
-        "name": "Persistent gray-zone pressure",
-        "probability": 55,
-        "looksLike": "More blocking, water-cannon-style harassment and close passes. Sierra Madre resupply is contested but eventually completes. No deaths.",
+        "name": "Simmering gray-zone pressure",
+        "probability": 50,
+        "looksLike": "Incidents continue at a similar pace with no deaths. The 2024 arrangement frays but survives in some form, and carrier groups leave after exercises.",
         "signposts": [
-          "Further incidents every week or two",
-          "Philippine statements after each mission",
-          "No formal treaty invocation"
+          "More reports of water cannon, blocking and close air passes",
+          "No formal resupply agreement",
+          "Summit statements avoid the sea"
         ],
-        "effectOnWorld": "A slow burn that normalises Chinese presence, keeps risk premiums modestly higher and keeps the alliance question in the headlines."
+        "effectOnWorld": "The sea stays a permanent source of friction, and Manila keeps drawing in partners."
       },
       {
-        "name": "Pre-summit quiet",
+        "name": "Summit-driven lull",
+        "probability": 25,
+        "looksLike": "Beijing eases pressure before and during the Shenzhen summit to look like a stable host. Incidents drop in number, though not to zero.",
+        "signposts": [
+          "A quiet fortnight before 18 November",
+          "Resupply missions get through",
+          "Chinese statements emphasise dialogue"
+        ],
+        "effectOnWorld": "Evidence that summitry can restrain behaviour at sea, though the pause may only last until the summit ends."
+      },
+      {
+        "name": "Serious accident or casualty",
         "probability": 20,
-        "looksLike": "Beijing eases pressure ahead of APEC to protect the host's image. Incidents drop sharply, then may return after the meeting.",
+        "looksLike": "A collision, injury or death at Scarborough, Second Thomas or in the Luzon Strait. Manila and Washington consult, and Beijing blames Manila.",
         "signposts": [
-          "Fewer reported encounters from late October",
-          "A quiet resupply with no harassment"
+          "A ship collision or a medevac that cannot reach the outpost",
+          "Aircraft intercept at under tens of metres",
+          "US officials speak of treaty obligations"
         ],
-        "effectOnWorld": "The summit shows leverage over Chinese behaviour, but the pause is temporary."
+        "effectOnWorld": "A sharp rise in tension that could disrupt the summit, move markets and test the US-Philippine treaty."
       },
       {
-        "name": "Serious incident",
-        "probability": 20,
-        "looksLike": "A collision, injury or death at sea, or an aircraft accident. Manila invokes its alliance. Taiwan and the US get drawn in diplomatically.",
-        "signposts": [
-          "Any casualty report",
-          "A US statement referencing the Mutual Defense Treaty",
-          "Chinese warnings to Taiwan about Batanes"
-        ],
-        "effectOnWorld": "The summit is overshadowed, risk premiums rise and the alliance is tested."
-      },
-      {
-        "name": "Managed deal",
+        "name": "Open crisis",
         "probability": 5,
-        "looksLike": "Beijing and Manila restore or update a resupply arrangement, with the US and others encouraging quiet diplomacy.",
+        "looksLike": "A blockade of the Sierra Madre or a standoff in the Luzon Strait that involves Taiwan and the US directly.",
         "signposts": [
-          "Announced talks",
-          "A resupply mission without incident"
+          "Exclusion zones announced",
+          "US carrier moves toward the contested area",
+          "Taiwan and the Philippines coordinate operations"
         ],
-        "effectOnWorld": "Lower tension, though underlying claims remain unresolved."
+        "effectOnWorld": "Shipping and trade reroute or pause, markets sell off and the summit is likely cancelled or overshadowed."
       }
     ],
     "predictions": [
       {
-        "text": "Probability 0.85: at least one further publicly reported Philippine-Chinese incident at sea or in the air occurs before the Shenzhen APEC summit opens.",
+        "text": "At least one more publicly reported dangerous Philippine-Chinese encounter will occur between 27 October and 18 November (about 85% likely).",
         "horizon": "By 18 November 2026",
         "resolves": "2026-11-18"
       },
       {
-        "text": "Probability 0.15: an incident causes a death or serious injury to personnel on either side.",
-        "horizon": "By end-2026",
+        "text": "No one will be killed in a Philippine-Chinese encounter at sea by the end of 2026 (about 90% likely).",
+        "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Probability 0.20: the US publicly cites the Mutual Defense Treaty in response to a specific incident before the end of 2026.",
-        "horizon": "By end-2026",
+        "text": "China will block or impede at least one more Sierra Madre resupply or medevac by year-end (about 50% likely).",
+        "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Probability 0.60: a Sierra Madre resupply is completed in the coming months, though with reported Chinese interference.",
-        "horizon": "By 31 January 2027",
-        "resolves": "2027-01-31"
+        "text": "Trump will publicly raise the South China Sea or the Philippines in Shenzhen or in remarks around the summit (about 25% likely).",
+        "horizon": "By 20 November 2026",
+        "resolves": "2026-11-20"
       },
       {
-        "text": "Probability 0.60: the Philippines and China do not announce a new written resupply arrangement before the summit.",
-        "horizon": "By 18 November 2026",
-        "resolves": "2026-11-18"
+        "text": "The Philippines will not formally invoke the Mutual Defense Treaty with the US (about 97% likely).",
+        "horizon": "By end of 2027",
+        "resolves": "2027-12-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Map exposure to routes through the Luzon Strait and the Spratly approaches.",
-          "Add contract clauses covering delays and rerouting.",
-          "Check Philippine and Taiwanese supplier continuity plans, especially single-source parts."
+          "Track Scarborough Shoal, the Spratlys and the Luzon Strait on shipping risk dashboards.",
+          "Review insurance and contract clauses for routes through the South China Sea.",
+          "Prepare contingency routing for cargo to and from the Philippines and Taiwan."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat this as headline risk with tail risk, not a base-case disruption.",
-          "Watch for casualties, treaty statements and any shipping advisory as triggers.",
-          "Avoid assuming that summit warmth means calm at sea."
+          "Treat this as a persistent political-risk factor, not a one-off shock.",
+          "Watch the 18-19 November summit for any change in tone before assuming a calmer period.",
+          "Look at defence, shipping and insurance exposure; no market move has yet been shown."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "No action needed now; the main effect would come through freight and fuel costs.",
-          "Follow reputable updates if you have travel plans or family in affected areas."
+          "Expect no direct price effect unless shipping lanes are disrupted.",
+          "Follow official advice if you live or work in coastal northern Luzon or fishing communities.",
+          "Check travel advisories for areas near Batanes and the Spratlys."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Keep communication channels open between coast guards to reduce accident risk.",
-          "Share maritime information among allies and with Taiwan.",
-          "Raise sea and air conduct at the Shenzhen meetings rather than leaving it off the agenda."
+          "Keep Sierra Madre resupply open and publicise obstruction.",
+          "Coordinate with the US and Taiwan on incident communications to avoid accidents.",
+          "Use the Shenzhen summit window to seek a crisis hotline or incident rules."
         ]
       }
     ],
@@ -497,40 +557,49 @@
       {
         "event": "Scarborough Shoal standoff",
         "year": "2012",
-        "whatFollowed": "China took de facto control of access to the shoal after a standoff with the Philippines, then kept expanding its presence. Background from general knowledge."
+        "whatFollowed": "After a weeks-long face-off, Chinese vessels stayed and the Philippines lost practical access; background knowledge, not from the cited sources."
       },
       {
-        "event": "Second Thomas Shoal resupply confrontations",
-        "year": "2023-2024",
-        "whatFollowed": "Repeated blocking and water-cannon incidents led to the June 2024 provisional arrangement referred to in our material."
+        "event": "HD-981 oil rig standoff with Vietnam",
+        "year": "2014",
+        "whatFollowed": "China parked a drilling rig in disputed waters for weeks, ships collided and the rig was withdrawn; coercion continued afterwards in other forms."
       },
       {
-        "event": "Hainan EP-3 collision",
-        "year": "2001",
-        "whatFollowed": "A collision between a Chinese fighter and a US surveillance plane caused a crisis that was defused through negotiation. It shows how air incidents can escalate."
+        "event": "Second Thomas Shoal clash and provisional arrangement",
+        "year": "2024",
+        "whatFollowed": "A violent incident in June 2024 led to an arrangement that reduced resupply confrontations until September 2026."
       }
     ],
     "watch": [
       {
+        "date": "2026-10-29",
+        "title": "Keen Sword exercise end date",
+        "why": "One report says the US carrier exercise runs through 29 October. Chinese carrier movements after it ends will show whether this was a one-off."
+      },
+      {
+        "title": "Hegseth's Philippines visit",
+        "why": "The date is not given in the material. His statements on the treaty will show how firmly Washington backs Manila."
+      },
+      {
+        "title": "Next Sierra Madre resupply",
+        "why": "Whether it is blocked, delayed or allowed is the cleanest test of the 2024 arrangement."
+      },
+      {
         "date": "2026-11-18",
-        "title": "APEC leaders' meeting opens in Shenzhen",
-        "why": "Trump and Xi meet on China's ground; see whether coast guard behaviour changes in the run-up."
+        "title": "APEC leaders' meeting, Shenzhen (18-19 November)",
+        "why": "Watch whether pressure eases before it and whether the leaders mention the sea."
       },
       {
-        "title": "Next Sierra Madre resupply attempt",
-        "why": "The key test of whether the provisional arrangement still works."
+        "title": "Luzon Strait and Batanes",
+        "why": "More Taiwanese or Chinese coast guard activity would confirm a second theatre."
       },
       {
-        "title": "Luzon Strait and Batanes activity",
-        "why": "Further Chinese survey or escort activity, or more Taiwanese deployments, would confirm a durable new front."
+        "title": "North Korea's missile tests and Trump's possible Kim meeting",
+        "why": "A parallel pressure on US allies that may shape how Washington handles both summits."
       },
       {
-        "title": "US statements on the Philippines",
-        "why": "Any explicit mention of the Mutual Defense Treaty in relation to an incident would raise the stakes."
-      },
-      {
-        "title": "Gulf energy prices and shipping",
-        "why": "Combined chokepoint risk matters most if the Gulf shock persists."
+        "title": "Philippine-Chinese statements",
+        "why": "Further public defiance or a diplomatic summons would signal a harder line or a break in talks."
       }
     ]
   },
@@ -547,54 +616,89 @@
         "url": "https://www.arabnews.com/world/philippines-accuses-china-of-harassing-patrols-in-disputed-waters-3004551",
         "publisher": "Arab News / AFP",
         "date": "2026-10-04"
+      },
+      {
+        "title": "New Philippine Coast Guard Vessel Shadows Chinese Carrier Strike Group off Mindanao",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1U5ZDJqS0FSV0w2SEYyVU5sTmNIOERvYXhIUnRkMWZRVWdZdnlDdnJCSE1NZnFNYnpfd25leDBBMlYtX3NKNDV6c0tMVFF1SzRCS0Ntdlk5Zlo0UzlqU2FwZkxlaE1rclFGZ3BQT1JrV0hxVGhLblNocDJpaU1iWXViNm5RUVFlS0dHVXlVZWh4bzcwbVU4QW5ESDFwLWI5dWZJTkotcmZPbTUtV0tYM2RORDFfb2s?oc=5",
+        "publisher": "USNI News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "China's Aircraft Carrier Liaoning Is Circling the Philippines With 288 Missile Cells of Escort While the USS Theodore Roosevelt Runs Keen Sword in the Philippine Sea Through October 29",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORTRZODkzSEc4UWtTbHBjZjhaX3A4dVZKUEpSQlpuNnoxM3NoRGZaU2lVa3NsWVpsUzlwNnNCdkRHMEJCWXdPa2RGbDg0SE5TMlZRTkZsOXV6VGVIb3NEQ3JXak93eGJoWC01bEtGX3BKZGhvbHV0R0xiaDN3WGZ0MDB2dXl6T3VaTVAxUmFHVG1JWkZIMm5menIwWVY1MFBXbmtJbHlyNXlaTkxJSjd2Q0pDZlFqNzBaWkpmdnZibG1YaUJCQV9sQkFudm1EQWlqd25QZEhvNmVJWDhlck9rN2E5N09MZTZWZFExTTBYdXhGV3BPVVRjeURraXhsTk5PX0pSU251dGVPazZVTDRIbFNZaWRRZlU1MUI5TElDbEYya0s3RkJYc3haR05MVmE4VzNLVTFQblpWbzlVQXYzNll3?oc=5",
+        "publisher": "19FortyFive",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Gibo dares China: \"Do what you want\" as diplomatic word war escalates",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFNkWlRnSmFuQlVGcVJlMTdRRnJLWHc1eEE5SHNLXzcwUGRNcTFZLXhyT1cyeURjbzFmTWVWLWFxcEZ1QW1mNjJycWJTQXBXNy1mRlBkRzBONHhsZE52VGpxTXBvYUdJS3BKNFZNdUsyQVZmSFd6ZmpXZVdERnhJbFU0R05hX3RyQmJJOWlzZTgwb3RuaTg5Ukx5aWh2ckNaUk5EU0plcmxVSk9L?oc=5",
+        "publisher": "Guru Press Cordillera",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Hegseth to visit Philippines for ASEAN defense ministers' meeting",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0pXck1KdzJEQnBsWU1CZm0zdDEyTHFKS0ZIRlZsbmRuUXNNcW9yT3lBSjVCSEIyNDdod21EMFBHQktUVmtRX0pZYWFad1EwV0VWaEt2SGNZalRFZ01VMFc2M2p5R1Y4ODRxSDlMOHprYjU2N3VWSzAtODIwWW9XVWlfaFdzMTE1ZXhfMlV2QlBBcjlzSU01WXZ6U3BwUjhiZU5oaFEwQThRbGRNQUFWVDYzLXNNbkdDWjBDRUhlRDY?oc=5",
+        "publisher": "South China Morning Post via UA.NEWS",
+        "date": "2026-10-26"
       }
     ],
     "confidence": [
       {
-        "claim": "At least six dangerous encounters between 1 and 9 October",
-        "level": "medium",
-        "note": "From the USNI headline and event summary. We worked from headlines and a summary, not the full article text, so details may differ."
+        "claim": "At least six dangerous encounters between 1 and 9 October, including the J-16 intercept and the 9-metre blocking",
+        "level": "high",
+        "note": "From the USNI News report of 9 October and AFP reporting of 4 October; both rely on Philippine accounts."
       },
       {
-        "claim": "Specific incidents: J-16 intercept on 3 October, 9-metre block on 4 October, delayed medevac",
+        "claim": "Beijing blocked a Sierra Madre resupply in September for the first time since the June 2024 arrangement",
         "level": "medium",
-        "note": "As given in the event summary; the 4 October attribution to the AFP report is inferred from matching dates."
+        "note": "Taken from the event summary; the exact day and Chinese account are not in the material."
       },
       {
-        "claim": "First blocked Sierra Madre resupply since June 2024",
+        "claim": "Taiwan sent three coast guard boats off Batanes as a China Coast Guard cutter escorted a survey ship near an EEZ",
         "level": "medium",
-        "note": "Stated in the event summary; the exact September date and the terms of the 2024 arrangement are not in our material."
+        "note": "From the event summary; the material does not say whose EEZ, and Taiwan's and China's views are not shown."
       },
       {
-        "claim": "Taiwan's response off Batanes",
+        "claim": "The Liaoning group is passing near the southern Philippines while a US carrier group exercises nearby, and a Philippine coast guard ship shadows it",
         "level": "medium",
-        "note": "Three coast guard boats sent while a China Coast Guard cutter escorted a survey ship. Which EEZ the ship approached is unclear from the summary."
+        "note": "Based on headlines from USNI News, 19FortyFive, Marine Insight and the SCMP; full articles were not read. The 288 missile cell figure comes from a headline only."
       },
       {
-        "claim": "Link to the APEC summit and Gulf energy shock",
+        "claim": "Hegseth will visit the Philippines for ASEAN defence events",
         "level": "medium",
-        "note": "Taken from the judged connections; whether the timing is deliberate is an inference."
+        "note": "Headline-level information from the SCMP via UA.NEWS; no visit date is given."
+      },
+      {
+        "claim": "Links to the APEC summit and North Korea's missile tests",
+        "level": "medium",
+        "note": "Taken from the connected dossiers as judged; the causal links are indirect and no source says either event caused the other."
       },
       {
         "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, not a sourced forecast."
+        "note": "Author judgement, not sourced forecasts; to be graded as events resolve."
+      },
+      {
+        "claim": "Background points (2016 ruling, 2012 and 2014 standoffs, share of global trade through the sea)",
+        "level": "medium",
+        "note": "General knowledge, not cited to a source; stated cautiously and not used for headline claims."
       }
     ],
-    "method": "Drafted from the two listed sources and headlines, plus the event summary and the connected-event notes supplied. Background on the 2016 arbitration, the 1999 grounding of Sierra Madre and the 1951 treaty comes from general knowledge and is marked as such. No full article text was reviewed. Probabilities, sector sizes and the likely moves of each actor are estimates by the author.",
+    "method": "Drafted from the listed sources, the matched headlines and the connected dossiers on APEC and North Korea. Only two of the sources are full articles with usable URLs on the event; the late-October developments (the Liaoning group, the coast guard shadowing, the rhetoric and the Hegseth visit) come from headlines and short summaries, so details such as dates and scale are limited. Because the material supports only two parts of the economy, security and politics, the fuel section has two entries rather than three or more. Scenario probabilities, predictions and the sector and everyday-life effects are estimates by the author.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-27",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:07:29.996Z",
+    "at": "2026-10-27T09:13:58.472Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 22,
+    "reviewed": false,
+    "size": "deep"
   }
 }

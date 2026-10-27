@@ -364,11 +364,37 @@
     "headlines": []
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-27T01:04:50.068Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "1s4ke9c",
-    "tags": [],
-    "headlines": []
+    "hash": "10k16ra",
+    "tags": [
+      {
+        "point": "VALENCIA",
+        "effect": "delay",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          0,
+          5
+        ],
+        "why": "Spanish unions are mobilizing for a general strike on 2026-11-11 over housing, and port and haulage workers could join, which would slow gate and terminal handling at Valencia, though the headlines do not confirm any port action and the dates are not yet fixed.",
+        "action": "Ask your forwarder whether port and trucking unions in Valencia have joined the 11 Nov strike, and move container pick-ups and deliveries to 9-10 Nov or 12 Nov or later. Keep 3 days of buffer stock for cargo due that wee",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "General strike for affordable housing: Spain’s trade unions mobilize for November 11",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1JfWTVKaHlUMnkyRThfa1JJbm1LZG15b09hZ0pNZnBycE9VQkhfd1VJYlRsLTh3Wm0xMkpWaDRlTU9ZUVhmeTR0VzdVT3ltNWZGbDZZSk95RFlLbjBtTzBXcDNxSWtTclRQcXozaEhXX0pDam1zeTZLWmxxb1NTMFJTdVJmS3lha01EczJYM3pGWG12cGxVV09ZaTFCSGF6dmJiZkhycUU0UGYzdjFocTdqR0dmTzQ?oc=5",
+        "publisher": "Spanien Press",
+        "published": "2026-10-27T06:23:24.000Z"
+      }
+    ]
   },
   "eu-budget-2028-2034": {
     "at": "2026-10-26T19:04:42.571Z",
@@ -385,23 +411,23 @@
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "6nrgye",
+    "hash": "x3rt89",
     "tags": [],
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "66fva8",
+    "hash": "162wb0e",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "1j9ps33",
+    "hash": "lpuuqv",
     "tags": [],
     "headlines": []
   },
@@ -475,23 +501,23 @@
     ]
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "wxcbn2",
+    "hash": "j1ulkp",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "pah53z",
+    "hash": "16p83bz",
     "tags": [],
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T09:05:13.977Z",
     "by": "pipeline",
-    "hash": "1p6oy9j",
+    "hash": "twehnx",
     "tags": [],
     "headlines": []
   },
