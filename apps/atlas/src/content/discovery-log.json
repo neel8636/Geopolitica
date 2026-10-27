@@ -1,22 +1,6 @@
 {
   "screenedAt": "2026-10-27T03:04:55.845Z",
   "judged": {
-    "6e9db18e8007": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "reject"
-    },
-    "5b0b1c5830fb": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "reject"
-    },
-    "ace894679257": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "reject"
-    },
-    "cca5fe90b712": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "existing"
-    },
     "69f578ee4a88": {
       "at": "2026-10-23T17:00:19.409Z",
       "verdict": "existing"
@@ -89,20 +73,12 @@
       "at": "2026-10-23T13:00:04.052Z",
       "verdict": "reject"
     },
-    "ab99a38ed97b": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "reject"
-    },
     "bfddb5098dba": {
       "at": "2026-10-23T09:59:54.200Z",
       "verdict": "reject"
     },
     "bfd2f2a99f0c": {
       "at": "2026-10-23T06:59:40.541Z",
-      "verdict": "reject"
-    },
-    "e8bbb41dee75": {
-      "at": "2026-10-23T03:59:38.111Z",
       "verdict": "reject"
     },
     "1f540ac10886": {
@@ -113,10 +89,6 @@
       "at": "2026-10-24T17:01:41.628Z",
       "verdict": "reject"
     },
-    "9389fc92d72d": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "existing"
-    },
     "1a9016105a77": {
       "at": "2026-10-23T06:59:40.541Z",
       "verdict": "reject"
@@ -125,77 +97,17 @@
       "at": "2026-10-23T06:59:40.541Z",
       "verdict": "reject"
     },
-    "b5547c309e00": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "reject"
-    },
-    "0e37272728d7": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "reject"
-    },
     "6f37d453b00a": {
       "at": "2026-10-25T02:02:15.770Z",
       "verdict": "reject"
-    },
-    "de45d5661eff": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "410b20fc4926": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
     },
     "5e97f2194ae2": {
       "at": "2026-10-23T09:59:54.200Z",
       "verdict": "reject"
     },
-    "781a0e13eb2a": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "2163ef1c1085": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "3f478b3645db": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "90c2a7e4c33d": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "fc0ad4d4655e": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "440704cf6a74": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
     "ac4d350326df": {
       "at": "2026-10-23T09:59:54.200Z",
       "verdict": "reject"
-    },
-    "797b3801bb98": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "ac853f5f9dd5": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "7fc19b5dc05c": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "773779c52c34": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
-    },
-    "d5a669c63923": {
-      "at": "2026-10-23T03:59:38.111Z",
-      "verdict": "no story"
     },
     "063ca5be2c9c": {
       "at": "2026-10-23T09:59:54.200Z",
@@ -2620,6 +2532,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-27T04:05:02.041Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 4 new uncovered headlines"
+    },
+    {
       "at": "2026-10-27T03:04:55.845Z",
       "screened": 123,
       "accepted": [],
@@ -4282,15 +4203,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 176 min ago"
-    },
-    {
-      "at": "2026-10-25T13:02:50.670Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 116 min ago"
     }
   ]
 }

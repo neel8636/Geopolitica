@@ -456,40 +456,71 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "1haox4c",
+    "hash": "17wckvz",
     "tags": [],
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "5fuok2",
+    "hash": "4wn6v",
     "tags": [
       {
         "point": "SOUTH_CHINA_SEA",
         "effect": "security",
-        "likelihood": 0.2,
+        "likelihood": 0.3,
         "delayDays": [
-          0,
-          2
-        ],
-        "costPct": [
-          0,
+          1,
           3
         ],
-        "why": "At least six Philippine-Chinese confrontations were reported between 1 and 9 October, Beijing blocked a Sierra Madre resupply in September, and as of 25-26 October a Chinese carrier group is operating near the Philippines while a 3 km runway is reported on a Paracel reef; these a",
-        "action": "Ask your forwarder and marine insurer whether war-risk or security surcharges apply to Philippine-bound or Spratly-adjacent routings, and keep 2-3 days of buffer on cargo timed to arrive via the central South China Sea.",
-        "sources": [
+        "costPct": [
           2,
+          8
+        ],
+        "why": "Between 1 and 9 October there were at least six dangerous Philippine-Chinese encounters, and AFP counted 54 Chinese vessels in Philippine waters in the week to 27 October, so a collision or blockade near the Spratlys and Scarborough could prompt ships to reroute or insurers to ad",
+        "action": "Ask your forwarder whether war-risk or security surcharges apply to South China Sea transits for the next 30 days, and agree now on a routing that keeps clear of the Spratlys and Scarborough Shoal.",
+        "sources": [
           0,
-          3,
-          1
+          2,
+          4
+        ]
+      },
+      {
+        "point": "LUZON_STRAIT",
+        "effect": "security",
+        "likelihood": 0.2,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          1,
+          5
+        ],
+        "why": "A new flashpoint opened off Batanes in the Luzon Strait in early October, where Taiwan sent three coast guard boats as a China Coast Guard cutter escorted a survey ship, and the Liaoning carrier group is operating nearby, so a further escalation could disrupt transits.",
+        "action": "Ask your forwarder for a fallback routing for Taiwan-Philippines and Pacific-bound cargo that avoids the Luzon Strait, and add 3 days of buffer stock on lanes that depend on it.",
+        "sources": [
+          0,
+          1,
+          3
         ]
       }
     ],
     "headlines": [
+      {
+        "title": "Chinese vessels in WPS rise to 54 in past week — AFP",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdW1QVUd3cTV3MFljVVhZV2duUVRyZFROQXd1WWs4SDRvb1hRb2wySjhoV1ZrOFZISUlpMkRqdkFaYXNyTlgtSW16WjR6bHhSaXVfVHhySkZ2MU8tRFE1RjVqN3c3TmlobG81enRRbWtXckY4cG1kTGdJZ2JHRnU5ajR0UjltYnpyVFcwczR0Z1M3VlVad2ZCR0ZzYUNCa3d5bGhpUzBoTVJhb1ZfUENLWW04TUppd9IBuwFBVV95cUxOYWNIeEE4bkhiSHl0N1pkVl9GSnpfUmRoUktBR1pRbWF1c083UW5wcklmTFJ3M1JaQzBYMjVGSmtMYzJTMU5sUDlleUstek5TRzdtb05uZG5DbGZGYU1XSTY4TXRDOGxJRUQtdmFxUkhJbVhNYndwVzlYcUZLSWJ0dk05NXR5emxEMVh5d0llcWJIU19rYWR6T3BRNVpVOFlGZEdhT0ZkcHZ4SkhGZnBPVTlkUGY5b0YxTmJV?oc=5",
+        "publisher": "GMA Network",
+        "published": "2026-10-27T03:48:51.000Z"
+      },
+      {
+        "title": "Weak mag. 2.2 earthquake - South China Sea, 27 km northwest of Calayan Island, Philippines, on 27 October 2026 - 01:44 AM (PST)",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSFZZYTFVTTBGbUlQaE0zV3N6YkxyYmROMkFsUW56LUN1eVBYRHpOWi1EVTFqR29vMTBlTllkRmNHSTkxazlQdURHOElOeHJJUG1vS1NSaUZEcF9DVEtSaXB5Y1pFMlRGLXVIaFBGR216Q01URFgxOG11V3QtdUVjM1lBRmRELU9aM3d5dVRFNzh6SWN0ZEc4OXZiVmtWbEhHRnpvN0l4ZHRSRmNQVUlTRGh2Wm1saFZaZl9uSzBWMHh3SFVzcnpzdw?oc=5",
+        "publisher": "Volcano Discovery",
+        "published": "2026-10-26T17:57:38.000Z"
+      },
       {
         "title": "China’s Aircraft Carrier Liaoning Is Circling the Philippines With 288 Missile Cells of Escort While the USS Theodore Roosevelt Runs Keen Sword in the Philippine Sea Through October 29",
         "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORTRZODkzSEc4UWtTbHBjZjhaX3A4dVZKUEpSQlpuNnoxM3NoRGZaU2lVa3NsWVpsUzlwNnNCdkRHMEJCWXdPa2RGbDg0SE5TMlZRTkZsOXV6VGVIb3NEQ3JXak93eGJoWC01bEtGX3BKZGhvbHV0R0xiaDN3WGZ0MDB2dXl6T3VaTVAxUmFHVG1JWkZIMm5menIwWVY1MFBXbmtJbHlyNXlaTkxJSjd2Q0pDZlFqNzBaWkpmdnZibG1YaUJCQV9sQkFudm1EQWlqd25QZEhvNmVJWDhlck9rN2E5N09MZTZWZFExTTBYdXhGV3BPVVRjeURraXhsTk5PX0pSU251dGVPazZVTDRIbFNZaWRRZlU1MUI5TElDbEYya0s3RkJYc3haR05MVmE4VzNLVTFQblpWbzlVQXYzNll3?oc=5",
@@ -497,43 +528,37 @@
         "published": "2026-10-26T17:48:31.000Z"
       },
       {
-        "title": "China’s Aircraft Carrier Strike Group Moves Near U.S. Naval Exercise In The Pacific",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0tWQU1jX1pmWlBzTTdVWTRrYzE2YlhVakkxVVVxVzRERnAyRzM1T3VZbUtfYjNzcFpqYkVadDJ3Nm5sOXFRWEYyc3FuOC1sNFJQRzFLekZteFplUVFoTURqZjlVYUFjVk5NVlVvMWgxS3FLVkFyYW01SEpNTS1fcllCNGloc3lTSkljcFUxOXJVWXBaaThCY1dUcXJ0SHhDdUZBSzBaMHI4VDNSYmwtSGZn?oc=5",
-        "publisher": "Marine Insight",
-        "published": "2026-10-26T13:23:34.000Z"
+        "title": "Light mag. 3.3 earthquake - South China Sea, 57 km southwest of Sabtang, Philippines, on Monday, Oct 26, 2026, at 03:57 pm (Universal Time)",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYXhZTlVuZnA2M0FsUi1zSmhmSmhDYUI1ajhJUHpwS0FmaDVSTkZwWkxHNmk3TUtxY3ptMFIxWXltU3ZiSGdSRjZHWG12OGx4QjY1X2xNQ0xrVjNfVVZncEtESlQtbmlOMEdWM1k0YWhrSHRpYUdON0RHcktmU0NvTUVxMWNZYUoxbFZtM1BEVVBsQ0RLZWFBMVRpbkVyZ2RPYXo1em9kVEJLT3J2cmsyVWdSclJwclRrbDVQV2ZLUG1hS0RLOXhGVGRmd29MdU4zeGc?oc=5",
+        "publisher": "Volcano Discovery",
+        "published": "2026-10-26T16:10:22.000Z"
       },
       {
-        "title": "China Builds 3-Kilometer Runway on Disputed Paracel Reef",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlVMLWs5Y2lDZkVSYkxYN3VZU3hWSVBZNlVRWFVMSzZKby1vUi01dzRQb2xSN1ZPWmdHNEkyWGQ1Wk9rRnlhOUNLYWhjM3ZlTi1QTU85NVU5VW8zZG54T1JnUU5oWTN1U1FjT0lCVVVveGZMeUtQcTZoUmdwXzZvMjQtVUY?oc=5",
-        "publisher": "조선일보",
-        "published": "2026-10-26T04:14:50.000Z"
-      },
-      {
-        "title": "Chinese group led by Liaoning passes near southern Philippines — South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGItbnU1a0lTeW5nMGZhUnNROS1DMjdINEFvbk9QYm5ocTduR3NSTGdkZDBrdEY3c3M3OWcwcjU5SDkzbGNjNTBWWDV4V2xsSU0xemRfZlg1aG1JU2xuczdCYkJlU3BmYThMZTF6cTh3NUUtVmRGMW9vS19obUV1VEh3Z1B3Q1JIWlo4NFpyel9FY1NVUDVEN0JiREJXZDdCZjlYVXhCb0VSblZMMGN0czRsd0ZsSzRaSjZJX1RrSHI1bVU?oc=5",
-        "publisher": "UA.NEWS",
-        "published": "2026-10-25T12:52:01.000Z"
+        "title": "New Philippine Coast Guard Vessel Shadows Chinese Carrier Strike Group off Mindanao",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1U5ZDJqS0FSV0w2SEYyVU5sTmNIOERvYXhIUnRkMWZRVWdZdnlDdnJCSE1NZnFNYnpfd25leDBBMlYtX3NKNDV6c0tMVFF1SzRCS0Ntdlk5Zlo0UzlqU2FwZkxlaE1rclFGZ3BQT1JrV0hxVGhLblNocDJpaU1iWXViNm5RUVFlS0dHVXlVZWh4bzcwbVU4QW5ESDFwLWI5dWZJTkotcmZPbTUtV0tYM2RORDFfb2s?oc=5",
+        "publisher": "USNI News",
+        "published": "2026-10-26T14:45:00.000Z"
       }
     ]
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "eynw65",
+    "hash": "nllr1e",
     "tags": [],
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "1hfksxg",
+    "hash": "10w572n",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "1nl8yf0",
+    "hash": "1ppeiyw",
     "tags": [],
     "headlines": []
   },
@@ -545,9 +570,9 @@
     "headlines": []
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "4548sb",
+    "hash": "6uqi9x",
     "tags": [],
     "headlines": []
   },
@@ -559,16 +584,16 @@
     "headlines": []
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-10-26T21:52:47.422Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "oywbbd",
+    "hash": "1ar2baj",
     "tags": [],
     "headlines": []
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-26T21:52:47.422Z",
+    "at": "2026-10-27T04:05:02.041Z",
     "by": "pipeline",
-    "hash": "1uqhpcm",
+    "hash": "15893ez",
     "tags": [],
     "headlines": []
   },
