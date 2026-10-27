@@ -371,14 +371,14 @@
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-27T03:04:55.845Z",
+    "at": "2026-10-27T18:17:46.711Z",
     "by": "pipeline",
-    "hash": "1rdre8i",
+    "hash": "ksyj3a",
     "tags": [
       {
         "point": "LAREDO",
         "effect": "delay",
-        "likelihood": 0.5,
+        "likelihood": 0.4,
         "delayDays": [
           1,
           4
@@ -387,44 +387,8 @@
           3,
           10
         ],
-        "why": "Mexican truckers began a walkout on 26 Oct 2026, and the Latin Times piece asks what breaks first, so trucking into and out of Nuevo Laredo, the main USMCA road gateway, may stall or queue.",
-        "action": "Ask your forwarder today for the status of drayage into Nuevo Laredo, move time-critical loads to rail or already-staged trucks, and hold 4 extra days of buffer stock for Mexico-origin parts.",
-        "sources": [
-          0
-        ]
-      },
-      {
-        "point": "PHARR",
-        "effect": "delay",
-        "likelihood": 0.35,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          2,
-          8
-        ],
-        "why": "The Mexican trucker walkout reported on 26 Oct 2026 could cut the supply of carriers feeding Reynosa, which would slow produce and manufactured freight at Pharr.",
-        "action": "Ask your carrier to confirm drivers and trucks are secured for Reynosa pickups this week, and pre-file customs entries so loads can cross once trucks are available.",
-        "sources": [
-          0
-        ]
-      },
-      {
-        "point": "EL_PASO",
-        "effect": "delay",
-        "likelihood": 0.35,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          2,
-          8
-        ],
-        "why": "The trucker stoppage that began 26 Oct 2026 may reduce truck availability around Ciudad Juárez, which would hold up maquiladora freight at El Paso.",
-        "action": "Ask your forwarder for rail or alternative-carrier options out of Juárez, and add 3 days of buffer on just-in-time components.",
+        "why": "A Latin Times headline of 26 Oct 2026 reports Mexican truckers walked off the job, which could slow or block trucks heading to the Laredo–Nuevo Laredo crossing, the busiest US-Mexico freight gateway; the headline does not say how long it will last or whether the border itself is ",
+        "action": "Ask your forwarder or carrier today whether Nuevo Laredo pickups and crossings are running, move time-critical loads to rail (Laredo rail bridge) if trucks are stuck, and add 3 days of buffer stock for loads due before m",
         "sources": [
           0
         ]
@@ -503,16 +467,16 @@
     "headlines": []
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-27T04:05:02.041Z",
+    "at": "2026-10-27T18:17:46.711Z",
     "by": "pipeline",
-    "hash": "6uqi9x",
+    "hash": "1e61ovb",
     "tags": [],
     "headlines": []
   },
   "ukraine-starlink-restrictions-2026": {
-    "at": "2026-10-26T21:04:39.605Z",
+    "at": "2026-10-27T18:17:46.711Z",
     "by": "pipeline",
-    "hash": "15yght8",
+    "hash": "ozkoje",
     "tags": [],
     "headlines": []
   },
@@ -545,9 +509,9 @@
     "headlines": []
   },
   "portugal-housing-protests": {
-    "at": "2026-10-26T21:52:47.422Z",
+    "at": "2026-10-27T18:17:46.711Z",
     "by": "pipeline",
-    "hash": "1tqa722",
+    "hash": "1eoafuz",
     "tags": [],
     "headlines": []
   },
