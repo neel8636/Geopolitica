@@ -2476,6 +2476,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-27T22:06:04.652Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 60 min ago"
+    },
+    {
       "at": "2026-10-27T21:06:01.574Z",
       "screened": 131,
       "accepted": [],
@@ -3962,117 +3971,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 6 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-26T07:03:47.821Z",
-      "screened": 81,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Kim Jong-un crosses new bridge into China",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Turkey-Libya maritime boundary deal strains ties with Greece and the EU",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK poised to miss 0.3% aid target",
-          "reason": "This is a projection about domestic budget lines, not a decision with a date, and the channel to recipient countries is weak.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Dakar Rally 2027 moved out of Saudi Arabia",
-          "reason": "This is a sporting event relocation with no state policy decision or cross-border flows.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Russia hosts Olympic federation world event",
-          "reason": "This is a sports event with no decision that moves money, goods or people in a way that matters.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "China's elite meet on Party discipline",
-          "reason": "The meeting is routine internal Party business with no stated decision or cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "SoftBank plans $50bn Malaysia investment",
-          "reason": "This is company investment news, reportedly planned, with no state or policy decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Appeals court on Trump's California voter rolls suit",
-          "reason": "This is a domestic court case with no effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Emirati diplomat enters UN secretary general race",
-          "reason": "A single candidacy is not a decision that changes what states do.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Gunmen attack church funeral in Jordan",
-          "reason": "This is a local crime with no stated state or cross-border angle.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget previews",
-          "reason": "These are domestic budget previews and commentary, not decisions with cross-border effects.",
-          "headlines": 6,
-          "publishers": 1
-        },
-        {
-          "title": "Storms hit northern Europe and UK",
-          "reason": "These are weather events with local effects and no cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Ukraine disputes Musk's Starlink claim",
-          "reason": "This is the continuing dispute over Starlink restrictions in Ukraine.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Heating oil costs more than double ahead of winter",
-          "reason": "The price rise is a knock-on effect of the Gulf energy shock.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Rome and Milan protests with soldiers on the streets",
-          "reason": "These are further episodes of the Italian cost-of-living unrest already on the map.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "Deadly strike on Russian factory",
-          "reason": "This is part of the ongoing Russia-Ukraine war that frames the summit diplomacy.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
