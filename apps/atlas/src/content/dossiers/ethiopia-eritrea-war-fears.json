@@ -1,47 +1,78 @@
 {
   "slug": "ethiopia-eritrea-war-fears",
-  "title": "Ethiopia and Eritrea edge toward war",
-  "deck": "Two former enemies that made peace in 2018 cut ties, trade accusations at the UN Security Council and fight over Tigray, with a Red Sea port and millions of hungry civilians in the middle.",
-  "updated": "2026-10-19",
+  "title": "Ethiopia and Eritrea on the brink",
+  "deck": "Addis Ababa says Eritrean troops are inside Tigray, Asmara calls that a 'declaration of war', and a region already short of food and aid sits between two armies, a rebel alliance and the Red Sea's most sensitive shipping lane.",
+  "updated": "2026-10-27",
   "status": "developing",
   "region": "Horn of Africa",
   "tags": [
     "conflict",
+    "Ethiopia",
+    "Eritrea",
     "Tigray",
     "Red Sea",
     "humanitarian",
-    "coffee",
     "shipping"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 18
   },
+  "fuel": [
+    {
+      "aspect": "security",
+      "title": "Army chief blames Eritrea, Egypt and Sudan",
+      "how": "Ethiopia's army chief has widened the list of states Addis Ababa says back the TPLF, which raises the odds that a Tigray war becomes a regional one.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "politics",
+      "title": "TPLF rejects new Tigray administration",
+      "how": "The rebels' refusal to recognise the new regional administration keeps control of Tigray contested, so federal gains in the cities may not end the fighting.",
+      "sourceIndex": 5
+    },
+    {
+      "aspect": "displacement",
+      "title": "WHO scales up Tigray emergency health response",
+      "how": "About 4 million people in Tigray need urgent aid, and a wider war would push refugees and arms toward eastern Sudan and pull aid logistics away from Darfur.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "trade",
+      "title": "Assab claims add Bab al-Mandeb risk",
+      "how": "Eritrea says Addis Ababa wants to seize the port of Assab, which would add a second flashpoint to a Red Sea route already strained by the Iran war.",
+      "sourceIndex": 0
+    }
+  ],
   "card": {
-    "headline": "Ethiopia says Eritrean troops are inside Tigray; Eritrea calls that a 'declaration of war'",
+    "headline": "Ethiopia and Eritrea are trading war accusations while Tigray burns and the Red Sea route waits",
     "keyNumber": {
       "value": "60 km",
-      "label": "how far Ethiopia told the UN Security Council on 9 October that Eritrean troops had advanced into Tigray (a claim, not independently verified here)",
+      "label": "how far Ethiopia told the UN Security Council on 9 October that Eritrean troops had advanced into Tigray",
       "sourceIndex": 0
     },
     "impactMeter": 4,
     "forYou": [
       {
-        "role": "Supply chain",
-        "line": "Ethiopian coffee and other cargo face route and insurance risk. Check where your Red Sea-linked freight actually goes."
-      },
-      {
-        "role": "Finance",
-        "line": "Another Red Sea flashpoint on top of the Iran-war freight shock. Treat it as a tail risk to shipping costs, not yet a market event."
+        "role": "Shipping and trade",
+        "line": "Fighting near Assab would add a second risk on the Bab al-Mandeb approach, already strained by the Iran war. Expect higher insurance and freight costs."
       },
       {
         "role": "Aid and NGOs",
-        "line": "Roughly 4 million people in Tigray need urgent help, and the fighting is cutting across access routes."
+        "line": "About 4 million people in Tigray need urgent aid, and Sudan's famine alert competes for the same logistics and donors."
+      },
+      {
+        "role": "Investors",
+        "line": "Treat Ethiopian risk as a war risk, not just a reform story. Diplomatic ties are cut and the army chief is blaming three neighbouring states."
+      },
+      {
+        "role": "Policy watchers",
+        "line": "The test is whether the UN Security Council or the African Union can open talks before a border incident becomes a full war."
       },
       {
         "role": "Everyone",
-        "line": "Watch whether a border-and-port dispute becomes a full state-to-state war. That is the line that changes the outlook."
+        "line": "Distant, but the Red Sea lane carries freight and fuel. A second flashpoint there could feed prices that are already high."
       }
     ],
     "ripple": [
@@ -49,16 +80,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Federal forces retook Mekelle (3-4 October) and Adigrat (10 October) from a TPLF-led rebel alliance",
+            "text": "Federal forces retook Mekelle (3-4 October) and Adigrat (10 October), but a TPLF-led seven-group alliance still contests Tigray.",
             "sector": "Security"
           },
           {
-            "text": "Diplomatic ties between Ethiopia and Eritrea severed on 1 October; both sides now argue their case at the UN",
-            "sector": "Diplomacy"
+            "text": "Ethiopia invoked Article 51 at the UN; the two states cut diplomatic ties on 1 October.",
+            "sector": "Politics"
           },
           {
-            "text": "About 4 million people in Tigray need urgent aid as fighting continues",
-            "sector": "Humanitarian"
+            "text": "About 4 million people in Tigray need urgent aid; the WHO is scaling up health response in Afar, Amhara and Tigray.",
+            "sector": "Displacement"
+          },
+          {
+            "text": "Eritrea says Ethiopia wants Assab, putting a Red Sea port at the centre of the quarrel.",
+            "sector": "Trade"
           }
         ]
       },
@@ -66,15 +101,19 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Aid access and logistics in northern Ethiopia become harder and costlier",
-            "sector": "Humanitarian logistics"
+            "text": "Ethiopia's army chief blames Eritrea, Egypt and Sudan for backing the TPLF, widening the circle of hostile states.",
+            "sector": "Security"
           },
           {
-            "text": "Ethiopian coffee and other exports face disruption and higher risk premiums",
-            "sector": "Trade, agriculture"
+            "text": "Refugees, arms and aid diversion could flow toward eastern Sudan, where famine risk is already rising.",
+            "sector": "Displacement"
           },
           {
-            "text": "Ethiopia's Article 51 self-defence claim and Eritrea's Assab accusation harden positions and shrink room for mediation",
+            "text": "War risk is added to the Bab al-Mandeb approach on top of the Iran-war shock, lifting insurance and freight costs.",
+            "sector": "Shipping"
+          },
+          {
+            "text": "Addis Ababa looks for outside backing, with Abiy's call to Netanyahu one sign.",
             "sector": "Diplomacy"
           }
         ]
@@ -83,20 +122,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Refugees and arms may spill into eastern Sudan, while aid capacity is pulled away from Darfur and Kordofan",
-            "sector": "Regional security"
-          },
-          {
-            "text": "A fight over Assab would add a second strained point near the Bab al-Mandeb approach, already stressed by the Iran war",
-            "sector": "Shipping, energy"
-          },
-          {
-            "text": "Gulf patrons (UAE, Saudi) compete for Red Sea positions while Washington's attention is on Iran",
+            "text": "A wider Horn of Africa war would pull in Sudan, Egypt and perhaps Gulf and Red Sea powers.",
             "sector": "Geopolitics"
           },
           {
-            "text": "EU coffee importers, already facing EUDR costs from 30 December 2026, face supply uncertainty on top",
-            "sector": "EU imports"
+            "text": "Donor money and convoys diverted from Darfur and Kordofan, where the 2026 plan was already 57% unfunded.",
+            "sector": "Humanitarian"
+          },
+          {
+            "text": "Ethiopian investment, trade finance and routes through Djibouti face higher risk premiums.",
+            "sector": "Finance, trade"
           }
         ]
       }
@@ -104,82 +139,83 @@
   },
   "brief": {
     "whatHappened": [
-      "Ethiopia told the UN Security Council on 9 October 2026 that Eritrean troops had advanced up to 60 km into Tigray. It invoked Article 51 of the UN Charter, which covers self-defence.",
-      "On 10 October Eritrea replied that this amounted to a 'declaration of war'. It said Addis Ababa wants to seize the Red Sea port of Assab.",
-      "On the ground, federal forces retook Mekelle on 3-4 October and Adigrat on 10 October from a TPLF-led alliance of seven rebel groups formed in September. The two states had severed diplomatic ties on 1 October. Roughly 4 million people in Tigray need urgent aid."
+      "On 9 October 2026 Ethiopia told the UN Security Council that Eritrean troops had advanced up to 60 km into Tigray. It invoked Article 51 of the UN Charter, the right to self-defence. On 10 October Eritrea replied that this was a 'declaration of war' and said Addis Ababa wants to seize the Red Sea port of Assab.",
+      "On the ground, federal forces retook the Tigrayan capital Mekelle on 3-4 October and the town of Adigrat on 10 October. They were fighting a seven-group rebel alliance led by the TPLF, formed in September. The two states had severed diplomatic ties on 1 October.",
+      "Since then, Ethiopia's army chief has accused Eritrea, Egypt and Sudan of backing the TPLF. The TPLF has rejected the new Tigray administration as illegitimate. Prime Minister Abiy spoke with Israel's Netanyahu on 25 October. Press accounts vary and many claims come from the warring parties, so treat them with care."
     ],
     "whyItMatters": [
-      "The Tigray war of 2020-22 ended with the Pretoria agreement in November 2022. This is the most serious sign yet that the settlement is failing, and that it could pull in a second state.",
-      "Assab is a Red Sea port, and Ethiopia has been landlocked since Eritrea's independence. A fight over access to the sea touches shipping lanes that are already under strain from the Iran war.",
-      "The humanitarian cost is immediate. About 4 million people need urgent aid, and the same donors and agencies are stretched by famine alerts in Sudan."
+      "Security: Ethiopia is the Horn's most populous state and Eritrea's army is large and battle-tested. Addis Ababa now publicly blames three neighbours for the Tigray fighting. That makes a misjudgement or a border clash more likely to spiral into a regional war.",
+      "Politics: Retaking Mekelle and Adigrat gives Addis Ababa a battlefield footing, but the TPLF's refusal to recognise the new Tigray administration means the political dispute is open. Federal military gains may not end the insurgency.",
+      "Displacement: Roughly 4 million people in Tigray need urgent aid. Our assessment is that a Tigray-Eritrea war would push refugees and arms into eastern Sudan and divert aid logistics from Darfur and Kordofan. There, an IPC alert of 12 October says famine risk is accelerating, with child acute malnutrition at 38% and 30.8% in two South Darfur camps.",
+      "Trade: Ships to and from the Red Sea pass the Bab al-Mandeb strait. The Iran war, which began on 28 February 2026, has kept oil and freight costs high for eight months. Eritrea's claim that Ethiopia wants Assab would, if it led to fighting, add a second risk to that approach."
     ],
     "winners": [
       {
-        "who": "Arms suppliers and security contractors",
-        "why": "Fighting between two armed states raises demand for weapons and force protection. We have no sourced figures."
+        "who": "Arms suppliers and brokers",
+        "why": "Wars in the region tend to increase demand for weapons, though we have no sourced figures here."
       },
       {
-        "who": "Gulf states with Red Sea ambitions (UAE, Saudi)",
-        "why": "A weakened or distracted Horn of Africa gives patrons more leverage over port and security deals. This is our judgement, not a sourced finding."
+        "who": "Hardliners in Addis Ababa and Asmara",
+        "why": "External threats can justify tighter control at home. This is our judgement, not a sourced claim."
       },
       {
-        "who": "Hardliners on both sides",
-        "why": "War framing silences domestic critics and justifies tighter control. This is a general pattern, not a claim from our sources."
+        "who": "Outside powers seeking leverage",
+        "why": "Egypt, Gulf states and Israel have interests in the Red Sea and Nile politics; Abiy's call to Netanyahu suggests Addis Ababa is shopping for support."
       }
     ],
     "losers": [
       {
         "who": "Civilians in Tigray",
-        "why": "About 4 million need urgent aid, and frontline fighting makes delivery harder."
+        "why": "About 4 million need urgent aid, and fighting in Mekelle, Adigrat and the border zone makes delivery harder."
       },
       {
-        "who": "Ethiopian exporters, especially coffee",
-        "why": "Conflict raises transport, insurance and payment risk for the country's best-known export."
+        "who": "Sudanese famine zones",
+        "why": "Aid and donor attention may be diverted, and refugees and arms may flow into eastern Sudan, per the connection assessed for this report."
       },
       {
-        "who": "Sudan's aid operation",
-        "why": "A Tigray-Eritrea war would push refugees and arms into eastern Sudan and divert aid logistics from Darfur and Kordofan, where famine risk is rising."
+        "who": "Shippers and importers using the Red Sea",
+        "why": "A second chokepoint risk raises insurance and freight costs on top of the Iran-war shock."
       },
       {
-        "who": "Global shippers",
-        "why": "A second flashpoint near the Red Sea approach adds to freight costs that have been elevated since February."
+        "who": "Ethiopian households and firms",
+        "why": "A war economy, cut diplomatic ties and multiple internal conflicts raise risk and costs. Evidence here is thin, so this is a judgement."
       }
     ],
     "whatsNext": [
-      "Watch for further Security Council meetings or a statement. Neither Ethiopia's Article 51 claim nor Eritrea's reply has produced one yet in our sources.",
-      "Watch for a battle for the Tigray-Eritrea border zone and any move toward Assab or the Eritrean coast.",
-      "Watch for mediation by the African Union or regional states, and whether either government restores contact.",
-      "Watch whether the TPLF-led alliance holds together after losing Mekelle and Adigrat."
+      "Watch for any UN Security Council follow-up to the 9 October session and for African Union or Gulf mediation offers.",
+      "Watch whether federal forces consolidate in Tigray or whether the TPLF-led alliance mounts counterattacks.",
+      "Watch for fighting near Assab or the Eritrean border, which would signal a move from accusations to open interstate war.",
+      "Watch the humanitarian side: access to Tigray, WFP and WHO operations, and any flow of refugees toward Sudan."
     ],
     "predict": {
       "question": "Before you read the scenarios: what is the most likely path over the next six months?",
       "options": [
-        "Frozen standoff with continued insurgency in Tigray",
-        "Open war between the Ethiopian and Eritrean armies",
+        "Open Ethiopia-Eritrea war with fighting near Assab",
+        "Armed standoff, insurgency in Tigray and no formal talks",
         "Mediated de-escalation and restored contact",
-        "Quick federal consolidation and an Eritrean pullback"
+        "Wider regional war drawing in Sudan and Egypt"
       ],
-      "answerIndex": 0,
-      "explanation": "Our base case, at about 40%, is a frozen standoff. Fighting continues in Tigray, rhetoric stays hot and the border is tense, but neither capital commits to a full interstate war. Open war is the second most likely path at about 25%. These are author judgements, not sourced forecasts."
+      "answerIndex": 1,
+      "explanation": "Our base case, at about 45%, is an armed standoff. Accusations continue, Tigray stays contested, and neither capital chooses full war. The other paths are real: open war at about 20%, mediated de-escalation at about 25%, regional war at about 10%. These are author judgement."
     },
     "recap": [
       {
-        "question": "What did Ethiopia invoke at the UN Security Council?",
+        "question": "What did Ethiopia invoke at the UN Security Council on 9 October?",
         "options": [
-          "Article 5 of the NATO treaty",
-          "Article 51 of the UN Charter",
-          "Article 2 of the Pretoria agreement"
-        ],
-        "answerIndex": 1
-      },
-      {
-        "question": "Which Red Sea port does Eritrea say Ethiopia wants to seize?",
-        "options": [
-          "Assab",
-          "Djibouti",
-          "Massawa"
+          "Article 51, the right to self-defence",
+          "Chapter VII sanctions",
+          "An arms embargo"
         ],
         "answerIndex": 0
+      },
+      {
+        "question": "Which port does Eritrea say Ethiopia wants to seize?",
+        "options": [
+          "Djibouti",
+          "Assab",
+          "Berbera"
+        ],
+        "answerIndex": 1
       },
       {
         "question": "Roughly how many people in Tigray need urgent aid?",
@@ -195,81 +231,110 @@
   "deep": {
     "timeline": [
       {
+        "date": "2020-11-04",
+        "title": "Tigray war begins",
+        "detail": "Federal forces fight the TPLF, with Eritrean troops widely reported to have joined the federal side. Hundreds of thousands died by some estimates; counts are uncertain."
+      },
+      {
         "date": "2022-11-02",
-        "title": "Pretoria agreement ends the first Tigray war",
-        "detail": "Federal government and Tigrayan authorities sign a cessation of hostilities. Eritrean troops, who had fought in Tigray, were not party to it.",
-        "turning": false
+        "title": "Pretoria agreement ends the Tigray war",
+        "detail": "The African Union-brokered deal stopped the fighting but left political and territorial disputes unresolved."
+      },
+      {
+        "date": "2026-02-28",
+        "title": "Strikes on Iran begin",
+        "detail": "Oil and freight costs have stayed elevated for eight months, straining Red Sea routes and the region's economies."
       },
       {
         "date": "2026-09-01",
-        "title": "Seven-group rebel alliance formed (September)",
-        "detail": "A TPLF-led alliance of seven groups forms against the federal government. The exact date is not in our sources; the first of the month is a placeholder.",
-        "sourceIndex": 1
+        "title": "TPLF-led seven-group rebel alliance forms",
+        "detail": "Formed in September; the exact date is not given in the material, so this entry is approximate."
       },
       {
         "date": "2026-10-01",
         "title": "Ethiopia and Eritrea sever diplomatic ties",
-        "detail": "The two states break relations, ending the formal links that followed the 2018 peace deal.",
-        "sourceIndex": 0,
+        "detail": "The break removes the last formal channel between the two capitals.",
         "turning": true
       },
       {
         "date": "2026-10-03",
-        "title": "Federal forces retake Mekelle (3-4 October)",
-        "detail": "Tigray's regional capital changes hands, according to the event summary.",
-        "sourceIndex": 1
+        "title": "Federal forces retake Mekelle",
+        "detail": "Fighting for the Tigrayan capital took place on 3-4 October; the TPLF-led alliance is pushed out of its main city.",
+        "sourceIndex": 4
       },
       {
         "date": "2026-10-09",
-        "title": "Ethiopia tells the UN Eritrean troops advanced up to 60 km into Tigray",
-        "detail": "Addis Ababa invokes Article 51 of the UN Charter in a letter or address to the Security Council.",
+        "title": "Ethiopia takes its case to the UN Security Council",
+        "detail": "Addis Ababa says Eritrean troops advanced up to 60 km into Tigray and invokes Article 51.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-10",
-        "title": "Eritrea calls it a 'declaration of war'; Adigrat retaken",
-        "detail": "Eritrea accuses Ethiopia of seeking to seize the port of Assab. Federal forces retake Adigrat the same day.",
+        "title": "Eritrea answers: 'declaration of war'",
+        "detail": "Asmara says Ethiopia wants to seize Assab. Federal forces also retake Adigrat the same day.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-12",
-        "title": "The New Humanitarian reports fears of a wider regional war",
-        "detail": "Analysis of Eritrean incursions into Tigray and what they mean for the region.",
+        "title": "Analysts warn of wider regional war",
+        "detail": "The New Humanitarian reports fears that Eritrean incursions could widen the conflict; the IPC issues its Sudan famine alert the same day.",
         "sourceIndex": 1
+      },
+      {
+        "date": "2026-10-21",
+        "title": "WHO scales up emergency health response",
+        "detail": "Operations expand across Afar, Amhara and Tigray to meet needs from ongoing hostilities.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-25",
+        "title": "Army chief blames Eritrea, Egypt and Sudan; Abiy calls Netanyahu",
+        "detail": "Ethiopia widens the circle of states it says back the TPLF, and the prime minister speaks to Israel's leader as tensions rise.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-26",
+        "title": "TPLF rejects new Tigray administration",
+        "detail": "The rebels call the administration illegitimate, keeping the political dispute over Tigray open.",
+        "sourceIndex": 5
       }
     ],
     "causes": [
       {
         "name": "Structural roots",
-        "when": "Years in the making",
+        "when": "Decades in the making",
         "causes": [
           {
-            "name": "Unfinished Pretoria settlement",
-            "detail": "The 2022 agreement ended open war in Tigray but did not settle who holds power there or what role Eritrea would play."
+            "name": "Unfinished Tigray settlement",
+            "detail": "The 2022 Pretoria deal ended large-scale fighting but did not settle control of Tigray, the TPLF's role or Eritrea's position."
           },
           {
-            "name": "Landlocked Ethiopia and the Red Sea",
-            "detail": "Ethiopia has no coastline and has pressed for sea access. Eritrea reads that as a threat to Assab."
+            "name": "Red Sea access",
+            "detail": "Ethiopia has been landlocked since Eritrea's independence in 1993, and its leaders have talked about regaining sea access. Eritrea now says Assab is Addis Ababa's target."
           },
           {
-            "name": "Eritrea's militarised state",
-            "detail": "Eritrea's leadership sees Ethiopia's moves on the coast and in Tigray as security threats."
+            "name": "Rivalry between the two capitals",
+            "detail": "The two states fought a border war in 1998-2000 and made peace only in 2018. That peace has now collapsed."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "September-October 2026",
+        "when": "September to early October 2026",
         "causes": [
           {
             "name": "Rebel alliance forms",
-            "detail": "A seven-group TPLF-led alliance forms in September and the federal government moves against it."
+            "detail": "A TPLF-led seven-group alliance emerged in September, giving Addis Ababa a broader insurgent threat to answer."
           },
           {
             "name": "Diplomatic rupture",
-            "detail": "Ties are severed on 1 October, removing a channel for managing incidents."
+            "detail": "The two states severed ties on 1 October."
+          },
+          {
+            "name": "Fighting for Tigray's cities",
+            "detail": "Federal forces retook Mekelle on 3-4 October and Adigrat on 10 October."
           }
         ]
       },
@@ -278,223 +343,247 @@
         "when": "October 2026",
         "causes": [
           {
-            "name": "Fall of Mekelle and Adigrat",
-            "detail": "Federal advances put forces close to the Eritrean border."
+            "name": "Mutual accusations at the UN",
+            "detail": "Ethiopia invoked Article 51 and Eritrea called it a 'declaration of war'."
           },
           {
-            "name": "Reported Eritrean incursions",
-            "detail": "Ethiopia says Eritrean troops advanced up to 60 km into Tigray and takes the case to the UN."
+            "name": "Wider blame",
+            "detail": "The army chief also accuses Egypt and Sudan, which raises the stakes for neighbours."
           },
           {
-            "name": "Distracted great powers",
-            "detail": "US attention is on the Iran war, which leaves Gulf patrons and regional actors more room to act."
+            "name": "Disputed Tigray administration",
+            "detail": "The TPLF's refusal to accept the new administration keeps control contested."
+          },
+          {
+            "name": "Strained regional economy",
+            "detail": "Eight months of Iran-war oil and freight costs leave governments and households with less room to absorb a new shock."
           }
         ]
       }
     ],
     "stakeholders": [
       {
-        "name": "Abiy Ahmed's government",
-        "role": "Federal Ethiopia",
-        "wants": "Defeat the TPLF-led alliance, secure the north and keep Red Sea access on the agenda",
-        "leverage": "Larger army, UN platform, Article 51 argument",
-        "likelyMove": "Press the diplomatic case at the UN while consolidating control of Tigray's towns"
+        "name": "Abiy Ahmed and Ethiopia's federal government",
+        "role": "Prime minister; claimant of Eritrean aggression",
+        "wants": "Control of Tigray, defeat of the TPLF-led alliance and international backing for its case against Eritrea",
+        "leverage": "Army, battlefield gains in Mekelle and Adigrat, UN diplomacy",
+        "likelyMove": "Keep pressing the Article 51 case, consolidate Tigray and seek outside backing, as the call to Netanyahu suggests"
       },
       {
-        "name": "Isaias Afwerki's government",
-        "role": "Eritrea",
-        "wants": "Prevent any Ethiopian move on Assab; keep Tigray weak and divided",
-        "leverage": "Experienced, mobilised forces; control of the coast",
-        "likelyMove": "Frame Ethiopia as the aggressor and keep forces forward in border areas"
+        "name": "Isaias Afwerki and Eritrea",
+        "role": "President; Ethiopia's accused",
+        "wants": "To block any move on Assab and to protect its position in Tigray",
+        "leverage": "Large, experienced army; control of its coast",
+        "likelyMove": "Reject Ethiopian claims, signal readiness to fight, avoid concessions"
       },
       {
-        "name": "TPLF-led seven-group alliance",
-        "role": "Rebel coalition",
-        "wants": "Survive the loss of Mekelle and Adigrat and hold the alliance together",
-        "leverage": "Local knowledge, guerrilla options",
-        "likelyMove": "Shift to insurgency; seek outside backing"
+        "name": "TPLF and the seven-group alliance",
+        "role": "Tigrayan-led rebel coalition",
+        "wants": "Recognition of its authority in Tigray and an end to the federal push",
+        "leverage": "Local knowledge, contested political legitimacy",
+        "likelyMove": "Keep refusing the new administration and fight a mobile insurgency"
       },
       {
-        "name": "Tigrayan civilians and aid agencies",
-        "role": "Affected population and responders",
-        "wants": "Safe access and funding",
-        "leverage": "Moral and media pressure only",
-        "likelyMove": "Appeal for corridors; scale back where convoys are unsafe"
+        "name": "Egypt and Sudan",
+        "role": "Neighbours accused by Ethiopia's army chief",
+        "wants": "Egypt: a counterweight to Ethiopia over Nile and Red Sea politics. Sudan: stability on its eastern border while its own war goes on",
+        "leverage": "Border access, diplomatic and possibly material support (alleged, not proven)",
+        "likelyMove": "Deny involvement while keeping options open"
       },
       {
-        "name": "UN Security Council members",
-        "role": "Arbiters",
-        "wants": "Avoid a wider war without taking sides",
-        "leverage": "Statements, sanctions threats, mediation offers",
-        "likelyMove": "Call for restraint and talks; slow to act"
+        "name": "UN Security Council and African Union",
+        "role": "Mediators",
+        "wants": "To stop an interstate war",
+        "leverage": "Diplomatic cover, access to talks, aid",
+        "likelyMove": "Hold sessions and call for restraint; real mediation is uncertain"
       },
       {
-        "name": "Gulf patrons (UAE, Saudi)",
-        "role": "Regional powers",
-        "wants": "Influence over Red Sea ports and security arrangements",
-        "leverage": "Money, basing and political ties",
-        "likelyMove": "Quiet diplomacy and support to preferred partners"
+        "name": "Israel",
+        "role": "Outside power in contact with Addis Ababa",
+        "wants": "Influence around the Red Sea",
+        "leverage": "Diplomacy and possibly security cooperation, though the material shows only a phone call",
+        "likelyMove": "Keep channels open with Ethiopia"
+      },
+      {
+        "name": "WHO, WFP and humanitarian agencies",
+        "role": "Aid providers",
+        "wants": "Safe access to Tigray, Afar and Amhara and funding",
+        "leverage": "Supplies and expertise",
+        "likelyMove": "Keep scaling health and food operations, appeal for money and access"
       }
     ],
     "sectors": [
       {
-        "sector": "Ethiopian coffee exports",
-        "direction": "down",
-        "size": 2,
-        "why": "Conflict raises transport and insurance risk for Ethiopia's best-known export. Its exact route risks are not quantified in our sources."
+        "sector": "Red Sea shipping and insurance",
+        "direction": "up",
+        "size": 3,
+        "why": "Costs rise, not volumes: a second risk near Assab adds to the Iran-war strain on the Bab al-Mandeb approach."
       },
       {
-        "sector": "Humanitarian operations in Tigray",
+        "sector": "Humanitarian aid logistics",
+        "direction": "up",
+        "size": 3,
+        "why": "Needs grow in Tigray, Afar and Amhara; the WHO is already scaling up. Funding is stretched across Sudan and Ethiopia."
+      },
+      {
+        "sector": "Ethiopian economy and investment",
         "direction": "down",
         "size": 3,
-        "why": "About 4 million people need urgent aid and access is contested."
+        "why": "War risk, cut diplomatic ties and multiple internal conflicts raise financing and operating costs. Evidence is thin and this is a judgement."
       },
       {
-        "sector": "Red Sea and Bab al-Mandeb shipping",
+        "sector": "Defence and arms supply",
+        "direction": "up",
+        "size": 2,
+        "why": "Governments and armed groups in the region are likely to want more weapons; no sourced figures yet."
+      },
+      {
+        "sector": "Eastern Sudan and border trade",
         "direction": "mixed",
         "size": 2,
-        "why": "A fight over Assab would add risk to a route already strained by the Iran war, but no shipping disruption is reported yet."
+        "why": "Refugees and arms flows would stress already fragile areas, while cross-border trade could be disrupted."
       },
       {
-        "sector": "Arms and security services",
-        "direction": "up",
-        "size": 1,
-        "why": "Two armed states in open confrontation raise demand. We have no sourced figures."
-      },
-      {
-        "sector": "Ethiopian economy and currency",
-        "direction": "down",
+        "sector": "Djibouti and alternative routes",
+        "direction": "mixed",
         "size": 2,
-        "why": "War spending and trade risk usually weigh on an import-dependent economy. This is a general judgement, not sourced to the articles."
+        "why": "Ethiopia could lean more on Djibouti if the Assab dispute worsens, but regional instability also raises risk there."
       },
       {
-        "sector": "EU coffee importers",
+        "sector": "Energy and freight",
         "direction": "down",
         "size": 1,
-        "why": "EUDR compliance applies to large and medium operators from 30 December 2026, and supply uncertainty from northern Ethiopia adds to costs."
+        "why": "Importers face a further shock on top of elevated oil and freight costs; French diesel hit a record EUR 2.41 a litre in September."
       }
     ],
     "dailyLife": [
       {
-        "item": "Coffee",
-        "effect": "Ethiopian beans could get scarcer or pricier for roasters if exports are disrupted, while EUDR paperwork raises the cost of EU coffee imports from 30 December 2026."
+        "item": "Aid in Tigray",
+        "effect": "About 4 million people need urgent aid, and the WHO is expanding health operations across Afar, Amhara and Tigray.",
+        "sourceIndex": 2
       },
       {
-        "item": "Aid delivery",
-        "effect": "About 4 million people in Tigray need urgent aid. Fighting complicates every convoy and flight.",
-        "sourceIndex": 1
+        "item": "Mekelle and Adigrat",
+        "effect": "Both towns changed hands in a matter of days; residents face uncertainty over who governs them."
       },
       {
-        "item": "Shipping and fuel",
-        "effect": "A second Red Sea flashpoint adds risk to freight costs that have been elevated since the Iran war began on 28 February 2026."
+        "item": "Fuel and freight",
+        "effect": "Oil and freight costs have been elevated for eight months. Any added Red Sea risk would feed into import prices."
       },
       {
-        "item": "Refugee flows",
-        "effect": "If the war widens, people and arms may move into eastern Sudan, where famine risk is already rising."
+        "item": "Refugees and Sudan",
+        "effect": "A wider war would likely push people toward eastern Sudan, where 8.58 million are already displaced nationwide."
+      },
+      {
+        "item": "Diplomacy and travel",
+        "effect": "With ties cut on 1 October, movement and communication between Ethiopia and Eritrea are limited."
       }
     ],
     "scenarios": [
       {
-        "name": "Frozen standoff with insurgency",
-        "probability": 40,
-        "looksLike": "Federal forces hold Mekelle and Adigrat, the alliance fights on as an insurgency, Eritrean forces stay near the border and rhetoric stays hot without a formal war.",
+        "name": "Armed standoff and Tigray insurgency",
+        "probability": 45,
+        "looksLike": "Both capitals trade accusations and move troops but avoid full war. Fighting continues inside Tigray; the TPLF-led alliance resists the new administration.",
         "signposts": [
-          "No major battle between the two national armies",
-          "Continued UN statements without action",
-          "Aid convoys move intermittently"
+          "No direct Ethiopia-Eritrea battles reported",
+          "Further federal operations in Tigray",
+          "UN sessions with no mediation breakthrough"
         ],
-        "effectOnWorld": "A chronic humanitarian crisis, background risk to Red Sea trade and steady pressure on aid budgets."
+        "effectOnWorld": "Humanitarian needs grow, Red Sea risk premiums stay elevated and donor attention is split."
       },
       {
-        "name": "Open interstate war",
-        "probability": 25,
-        "looksLike": "Direct clashes between the Ethiopian and Eritrean armies, possibly around the border or Assab, with air strikes and mass displacement.",
+        "name": "Open Ethiopia-Eritrea war",
+        "probability": 20,
+        "looksLike": "Clashes near the border or Assab become sustained interstate fighting.",
         "signposts": [
-          "Fighting reported on Eritrean soil",
-          "Strikes on ports or the coast",
-          "Mobilisation orders on either side"
+          "Fighting reported near Assab or the border",
+          "Mass troop movements or air strikes",
+          "Eritrea formally mobilises"
         ],
-        "effectOnWorld": "Higher shipping and insurance risk at the Red Sea approach, large refugee flows into Sudan and a deeper aid funding gap."
+        "effectOnWorld": "Red Sea shipping risk rises sharply; refugees and arms move toward Sudan; aid is diverted from Darfur."
       },
       {
         "name": "Mediated de-escalation",
         "probability": 25,
-        "looksLike": "African Union, Gulf or UN mediation produces a pause, talks and possibly restored contact.",
+        "looksLike": "African Union, Gulf or UN mediation produces a ceasefire framework or restored contact.",
         "signposts": [
-          "A named envoy and a first meeting",
-          "Eritrean forces pull back from Tigray",
-          "Ethiopia softens its Article 51 framing"
+          "Announced talks",
+          "Eritrean troop pullback verified",
+          "Ties partly restored"
         ],
-        "effectOnWorld": "Calmer Red Sea risk and better aid access, though underlying disputes remain."
+        "effectOnWorld": "Risk premiums ease and aid access improves, though Tigray's political status stays unresolved."
       },
       {
-        "name": "Alliance collapse and federal consolidation",
+        "name": "Regional spillover",
         "probability": 10,
-        "looksLike": "The rebel alliance fragments, federal forces take the remaining towns and Eritrea withdraws or is pushed out.",
+        "looksLike": "Egypt, Sudan or other actors are drawn in, directly or through proxies.",
         "signposts": [
-          "Alliance defections",
-          "Eritrean troops reported leaving Tigray"
+          "Credible evidence of Egyptian or Sudanese support to the TPLF",
+          "Fighting on the Sudan border",
+          "Gulf powers pick sides"
         ],
-        "effectOnWorld": "Short-term stabilisation inside Ethiopia but a tense, armed border and unresolved port dispute."
+        "effectOnWorld": "A multi-front Horn of Africa war with severe humanitarian and shipping consequences."
       }
     ],
     "predictions": [
       {
-        "text": "The Ethiopia-Eritrea dispute will not produce a formal peace or restored diplomatic ties (probability about 0.9).",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
+        "text": "Ethiopia and Eritrea will not restore diplomatic ties (probability about 0.9).",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
       },
       {
-        "text": "The UN Security Council will hold at least one more meeting or issue a statement on the dispute, but will not adopt sanctions (probability about 0.7).",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
-      },
-      {
-        "text": "Ethiopian and Eritrean regular forces will clash in a reported direct engagement beyond the current Tigray front (probability about 0.3).",
-        "horizon": "By April 2027",
+        "text": "A formal mediation or ceasefire process involving the African Union, UN or a regional power will be announced publicly (probability about 0.3).",
+        "horizon": "By 30 April 2027",
         "resolves": "2027-04-30"
       },
       {
-        "text": "The Tigray humanitarian caseload will still be at least 4 million in need of urgent aid (probability about 0.7).",
-        "horizon": "By March 2027",
+        "text": "Sustained direct fighting between Ethiopian and Eritrean forces, reported by at least two credible outlets, will occur (probability about 0.25).",
+        "horizon": "By 30 April 2027",
+        "resolves": "2027-04-30"
+      },
+      {
+        "text": "The TPLF-led alliance will still control or contest significant territory in Tigray, so the federal government will not have fully pacified the region (probability about 0.7).",
+        "horizon": "By 31 March 2027",
         "resolves": "2027-03-31"
       },
       {
-        "text": "A shipping or port disruption in the Assab area will be reported (probability about 0.2).",
-        "horizon": "By June 2027",
-        "resolves": "2027-06-30"
+        "text": "Humanitarian agencies will report that the number of Tigrayans needing urgent aid is no lower than 4 million (probability about 0.75).",
+        "horizon": "By 31 March 2027",
+        "resolves": "2027-03-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Map where Ethiopian coffee or other Horn of Africa inputs enter your supply chain, and identify alternates.",
-          "Add war-risk and force-majeure language to contracts touching the region.",
-          "Prepare EUDR documentation for coffee well before 30 December 2026 so disruption does not compound compliance risk."
+          "Add buffer time and war-risk insurance quotes to any lane through the Red Sea and Bab al-Mandeb.",
+          "Review exposure to Ethiopian and Eritrean suppliers and customers; identify single-source dependencies.",
+          "Add force-majeure and surcharge clauses to contracts touching the Horn of Africa.",
+          "Issue staff safety guidance for Ethiopia, especially Tigray, Afar and Amhara."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat this as a tail risk to Red Sea shipping, not a current market driver, until fighting touches ports.",
-          "Watch freight and insurance quotes for the Red Sea route for early signals.",
-          "Do not assume diplomacy will hold: ties are already cut."
+          "Treat Ethiopian sovereign and corporate risk as war risk until ties or talks resume.",
+          "Watch shipping and insurance costs on the Red Sea approach as a signal.",
+          "Do not assume a quick mediated settlement; the two states have cut ties and traded UN accusations."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Expect little direct effect on prices unless coffee supply or shipping disruptions grow.",
-          "If you want to help, give through established humanitarian agencies working in Tigray and Sudan."
+          "Expect freight and fuel costs to stay elevated while the Iran war and Red Sea risks continue.",
+          "If you send money or travel to the region, check current advice and avoid Tigray and border areas.",
+          "If you donate, favour agencies working on Tigray and Sudan, where funding gaps are large."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Back quiet mediation by the African Union and regional states before the dispute hardens further.",
-          "Press for humanitarian corridors into Tigray.",
-          "Plan for refugee flows into eastern Sudan and for the aid funding gap there."
+          "Push for an urgent diplomatic channel between Addis Ababa and Asmara before a border incident escalates.",
+          "Protect humanitarian access to Tigray and keep Sudan's famine response funded separately.",
+          "Verify the allegations against Eritrea, Egypt and Sudan independently before acting on them."
         ]
       }
     ],
@@ -502,45 +591,47 @@
       {
         "event": "Ethiopia-Eritrea border war",
         "year": "1998-2000",
-        "whatFollowed": "Years of 'no war, no peace' after a costly conflict, until the 2018 peace deal."
+        "whatFollowed": "A costly conventional war with large casualties ended in an agreement, but the border dispute stayed unresolved for nearly two decades."
       },
       {
         "event": "Tigray war",
         "year": "2020-2022",
-        "whatFollowed": "A devastating conflict that ended with the Pretoria agreement, which left key questions open."
+        "whatFollowed": "A war with Eritrean involvement caused enormous loss of life and displacement and ended with the Pretoria agreement, which left key political questions open."
       },
       {
-        "event": "2018 Ethiopia-Eritrea peace deal",
+        "event": "2018 Ethiopia-Eritrea rapprochement",
         "year": "2018",
-        "whatFollowed": "Normalised relations and a Nobel Peace Prize for Abiy in 2019, now unravelled."
+        "whatFollowed": "A peace deal and a Nobel prize for Abiy in 2019 raised hopes, but the ties were never institutionalised; the 2026 rupture shows how fragile they were."
       }
     ],
     "watch": [
       {
-        "date": "2026-10-27",
-        "title": "Israel votes",
-        "why": "Gulf and regional attention on the Red Sea and the Iran war competes for diplomatic bandwidth."
-      },
-      {
-        "date": "2026-12-30",
-        "title": "EUDR applies to large and medium operators",
-        "why": "Raises compliance costs for coffee importers just as northern Ethiopia faces conflict."
-      },
-      {
         "title": "UN Security Council follow-up",
-        "why": "Any resolution, press statement or envoy appointment would signal how seriously the dispute is taken."
+        "why": "Whether the council moves from statements to a resolution or mediation mandate."
       },
       {
-        "title": "Fighting near Assab or the border",
-        "why": "Direct clashes between the two armies would mark a shift from a Tigray conflict to an interstate war."
+        "title": "Fighting near Assab or the Eritrean border",
+        "why": "The clearest sign of a shift from accusation to open war."
       },
       {
-        "title": "Aid access and convoy security in Tigray",
-        "why": "About 4 million people need urgent aid, so access is the best humanitarian indicator."
+        "title": "African Union, Gulf or UN mediation offers",
+        "why": "The main route to de-escalation."
       },
       {
-        "title": "Spillover into eastern Sudan",
-        "why": "New refugee flows or arms movements would link this crisis to the Darfur and Kordofan famine alert."
+        "title": "Control of Mekelle and Adigrat",
+        "why": "Whether federal forces hold the cities against the TPLF-led alliance."
+      },
+      {
+        "title": "Evidence for army chief's claims about Egypt and Sudan",
+        "why": "Credible proof would widen the conflict; absence would suggest rhetoric."
+      },
+      {
+        "title": "Refugee flows toward Sudan and aid access",
+        "why": "A key link to the Darfur and Kordofan famine response."
+      },
+      {
+        "title": "Red Sea freight and insurance costs",
+        "why": "Early signal of added Bab al-Mandeb risk beyond the Iran-war premium."
       }
     ]
   },
@@ -557,54 +648,90 @@
         "url": "https://www.thenewhumanitarian.org/analysis/2026/10/12/eritrean-incursions-raise-fears-wider-regional-war-ethiopia",
         "publisher": "The New Humanitarian",
         "date": "2026-10-12"
+      },
+      {
+        "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+        "publisher": "UN News",
+        "date": "2026-10-21"
+      },
+      {
+        "title": "Ethiopia's Army Chief Accuses Eritrea, Egypt and Sudan of Backing TPLF",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GNG9SR2lXbFk3NkF2dDZSS3F0RjJVazduZHpBZDhrQ0l1ZmpTazhBc2pEMmZCSjBhOXRzUDN0bzY3eW5mVHJMR0tUYlFBVDFtbklkT09NUFRQSTJENHhhalhIZUFqQUd5?oc=5",
+        "publisher": "Kulu Media (via Google News)",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Federal forces retake Tigray capital Mekelle",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG1LMnY2UktmN3BOVmJwSUs1Qmd5SGhuM2tYRkxIaU90a3gxMFdBMjctX3RvaS1CMkNlUDJ5SEhOMHIwYXRrYllOSGtLdTRHVmZiaEY3S0dDUFc4MjRsZE1ycFp0aF80Y3VKNFp3bXF5NUVBWkxYNzdPaDVvdVozMVdJM2FCWVdSdUxFVFBnZkVjM0M1clN2S3RQTWpxRGlSd1hzRjRkV3pmUVdVLXBfdlNR?oc=5",
+        "publisher": "GlobalPost (via Google News)",
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Ethiopia's TPLF rejects new Tigray administration as illegitimate",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1BlYlhNVUtuc2hHVE1SX2tXTXlRUTJzUFhaR3lrV29wV2l1RG1pRkJvSV94OWRVWG05QTZQOWpBdl85X1U4SHlFZi04RkNEdG5HSnhZNnBrY09zR2dhcS15aWNpWlN2MkhNTk1NaURGZ0lwQ3I4SGRTMmtfS2ZwQnhSZXVkeHAtNUFjeXFBd2cwdWhDV2Z2c3EzdjAtZ05BS3dfQVdNNVBORzZ5VDFpNmE1TFBHZw?oc=5",
+        "publisher": "Hiiraan Online (via Google News)",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Abiy holds call with Netanyahu",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hWVFKbjlPZXFYZFNtQnBvRWZ0VXFmVkpBZV95WTR1aGJsYnlIdWVYMDBQdkNFYnk0ZUFNN3lSZGpYZ1VKNjZjVk5KQzV6a0pwY3c?oc=5",
+        "publisher": "Addis Standard (via Google News)",
+        "date": "2026-10-25"
       }
     ],
     "confidence": [
       {
-        "claim": "Ethiopia told the UN Security Council on 9 October that Eritrean troops advanced up to 60 km into Tigray and invoked Article 51",
-        "level": "medium",
-        "note": "Reported as Ethiopia's claim in the event summary. We have not independently verified the distance or the troop presence."
+        "claim": "Ethiopia told the UN on 9 October that Eritrean troops advanced up to 60 km into Tigray; Eritrea called it a 'declaration of war' on 10 October",
+        "level": "high",
+        "note": "Both statements are reported as made; the military claim itself is Ethiopia's and not independently verified here."
       },
       {
-        "claim": "Eritrea called the claim a 'declaration of war' and accused Ethiopia of wanting Assab",
-        "level": "medium",
-        "note": "Eritrea's stated position as summarised from the sources, not verified independently."
+        "claim": "Eritrean troops are actually inside Tigray at that depth",
+        "level": "low",
+        "note": "Comes from one party to the dispute; we have not seen independent verification."
       },
       {
         "claim": "Federal forces retook Mekelle (3-4 October) and Adigrat (10 October)",
         "level": "medium",
-        "note": "From the event summary. Control of towns in an active conflict can change quickly."
+        "note": "From the event summary; an aggregator item dated 25 October repeats the Mekelle claim, suggesting later republication, so the dates may be imprecise."
+      },
+      {
+        "claim": "Ethiopia's army chief accuses Eritrea, Egypt and Sudan of backing the TPLF",
+        "level": "medium",
+        "note": "Reported by Kulu Media and aggregators; the accusation is Ethiopia's, and the three states' roles are unproven."
       },
       {
         "claim": "About 4 million people in Tigray need urgent aid",
         "level": "medium",
-        "note": "From the event summary; the underlying agency and date are not in our material."
+        "note": "From the event summary; the WHO scale-up is separately sourced, but we did not check the 4 million figure against a primary UN document."
       },
       {
-        "claim": "Background on the Pretoria agreement and the 1998-2000 war",
-        "level": "high",
-        "note": "Well-established history from general knowledge; no URL cited."
+        "claim": "Links to Sudan famine alert and Red Sea shipping risk",
+        "level": "medium",
+        "note": "The connection is judged plausible by the editors; the actual size of refugee, arms or freight effects is estimated and not sourced."
       },
       {
-        "claim": "Sector effects, daily-life effects and scenario probabilities",
+        "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, not sourced forecasts. The two articles were not read in full."
+        "note": "Author judgement, not sourced forecasts."
       }
     ],
-    "method": "Drafted from the event summary, the two listed articles (Al Jazeera, 9 October, and The New Humanitarian, 12 October) and the already-judged connections to other dossiers. Only the headlines and summary were available, so details of the incursions, casualties and diplomatic exchanges are limited. General historical context was used where highly confident. Scenario probabilities, prediction probabilities and sector impacts are estimates and are labelled as such in the text and in the confidence entries.",
+    "method": "Drafted from the listed sources and the headlines matched to this event, which run to 26 October 2026. Background on 1998-2000, 2018 and 2020-22 comes from general knowledge and is hedged; casualty figures are deliberately vague. The war-risk effects on Red Sea shipping and on refugee flows toward Sudan are estimates taken from the editors' connections, not measured data. Many Ethiopian and Eritrean claims come from the warring parties and were not independently verified. No chart is included because we lack a sourced numeric series.",
     "changeLog": [
       {
-        "date": "2026-10-19",
+        "date": "2026-10-27",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T20:09:50.076Z",
+    "at": "2026-10-27T01:21:07.405Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 23,
+    "reviewed": false,
+    "size": "deep"
   }
 }
