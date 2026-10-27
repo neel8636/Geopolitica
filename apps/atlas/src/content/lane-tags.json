@@ -317,9 +317,9 @@
     "headlines": []
   },
   "italy-election-2027": {
-    "at": "2026-10-26T19:04:42.571Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
-    "hash": "hfqz8s",
+    "hash": "qbn8hu",
     "tags": [],
     "headlines": []
   },
@@ -619,16 +619,16 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-26T21:52:47.422Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
-    "hash": "19w0tgq",
+    "hash": "3qjwc2",
     "tags": [],
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-26T21:52:47.422Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
-    "hash": "1su8yqy",
+    "hash": "qi7mth",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
@@ -636,14 +636,14 @@
         "likelihood": 0.25,
         "delayDays": [
           1,
-          2
+          3
         ],
         "costPct": [
           0,
-          3
+          5
         ],
-        "why": "After the 15 October floods that killed eight, an orange heavy-rain alert was issued for 26 October and a further warning for Tuesday 27 October, so flooded roads around Istanbul could slow truck access and gate turnaround at Ambarlı; no port closure has been reported.",
-        "action": "Ask your forwarder to confirm Ambarlı gate and truck-pickup status before the 27 October rain, and add 2 days of buffer to Istanbul-origin castings and components shipments this week.",
+        "why": "Floods hit Istanbul on 15 Oct and killed eight, and an orange heavy-rain alert was issued on 26 Oct with a new round of flooding expected, which could block trucking access to the Ambarlı port area and slow gate and loading operations.",
+        "action": "Ask your forwarder for current truck pick-up and gate status at Ambarlı, and add 3 days of buffer on castings and components due out of Istanbul in the next two weeks, or move cut-off dates earlier.",
         "sources": [
           0,
           1,
@@ -654,16 +654,16 @@
     ],
     "headlines": [
       {
+        "title": "Storm in Istanbul: orange alert issued for heavy rain today",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlVTTkU3OEU2SjVXQl9NTWl2T0JnUnZrU1BhejZYMlhKNHFtb1FROGJ6RExUcU1LRGc3TzZycHc4OGowSTE4UTZOQWxLNzYtTmdBaUNjaHB3QklhaWE1cEtVVVF3d1J4YkV1czR5alUwU211eWROTEEtVHlYNG0yaTE2ZDN0SlNVQzI4bktneGR4QQ?oc=5",
+        "publisher": "Hispanatolia",
+        "published": "2026-10-26T20:33:08.000Z"
+      },
+      {
         "title": "Istanbul braces for new round of flooding",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXprYzgxVFkya1hhSjJsUEV5bU9MVWEza1pVQXJ0UC14eUgyeDBnZlNTbmswNk9UNjBtSDNaVGpqNGEwVF9pYWhfMDJieksyQk45SGpfNG05TGhJaEpUUzB4X3o1ME1jRGNVUXpzX2ZIbG9uTHdwZ19FQXhnLTlJZFNPc0xmQktXRFE?oc=5",
         "publisher": "Hürriyet Daily News",
         "published": "2026-10-26T06:06:16.000Z"
-      },
-      {
-        "title": "Storm in Istanbul: orange alert issued for heavy rain today",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUlVTTkU3OEU2SjVXQl9NTWl2T0JnUnZrU1BhejZYMlhKNHFtb1FROGJ6RExUcU1LRGc3TzZycHc4OGowSTE4UTZOQWxLNzYtTmdBaUNjaHB3QklhaWE1cEtVVVF3d1J4YkV1czR5alUwU211eWROTEEtVHlYNG0yaTE2ZDN0SlNVQzI4bktneGR4QQ?oc=5",
-        "publisher": "Hispanatolia",
-        "published": "2026-10-26T05:35:58.000Z"
       },
       {
         "title": "New flood warning from Meteorology for Istanbul! Pay attention to Tuesday",
@@ -680,9 +680,9 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-26T23:04:50.597Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
-    "hash": "w0025q",
+    "hash": "7ntr4j",
     "tags": [],
     "headlines": []
   }

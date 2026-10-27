@@ -1045,101 +1045,54 @@
     ]
   },
   "china-q3-growth": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "heat-pump-exports-to-europe-surge",
-        "title": "Heat pump exports to Europe surge",
-        "when": "2026-10-26",
-        "place": "China",
+        "id": "industrial-profit-growth-hits-three-month-high",
+        "title": "Industrial profit growth hits three-month high",
+        "when": "2026-10-27",
+        "place": "China (national)",
         "lat": 39.9,
         "lon": 116.4,
-        "what": "Chinese heat pump exports to Europe are surging as high energy costs and a shift from gas to electric heating raise demand.",
-        "via": "European demand for Chinese goods",
-        "aspect": "trade",
+        "what": "China's industrial profits grew at their fastest pace in three months, led by a tech boom, even as the economy stays split between strong and weak sectors.",
+        "via": "stronger factory earnings",
+        "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "China's Heat Pump Exports to Europe Surge on High Energy Costs and Gas-to-Electric Shift",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOTNMSlJpVDRxUms5WjcyWXpCRUN1NDJHN21VTl9FZXl5LTFha1IzWmdoblV6RDljbXlEbnpITVFBZUFxMWl0WHlXVXpyV19qWUVCZjd5QTdzb241dFloV1FMSG8xOEc2YkYxWEF0dDROOVNYLVNlekttczkyQjRSZTE0b0U5MFdWblVuQ0VLSmxMQkZHSmJkaThXYTNvUmRKbVJBREItTzMzZHF5N285RGxPclZnZXp0VktNUlQyNFFvc2V0REZnWC1UX3dRMnotNlg5NjV1M0tCel9YVG5JN0xTZWc4aDROQ0FBOEV3TnozZw?oc=5",
-            "publisher": "www.citynewsservice.cn"
+            "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+            "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+            "publisher": "CNBC World"
+          },
+          {
+            "title": "China's industrial profit growth picks up amid two-speed economy",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ1YzQ2ZBVXE2a3RqZXZ1eVd0TnRlcU5qbDhHSjZOZGtvbHZtMUE5ZXBncTFKVm5zZXJQSkJ4OVR6OVN2bF9kQ0RfX3M4Q2hVN1d0bG1FamNUbkUySk5SaEZqSUZZcXR2RXZseUUxSzkxNTFUVjZHRFdMWDlaYnBkYjQwSkxGMldkZGx1VjFFQUNzWUJDV3RRVUFUZ0J3aGd4LVNsZnRqMUNLRHVwemRkNE9ZSy00VVRMaXZGQ0ptWVJiY0RnWlpFMVBtXzdKdzBPOHk0R2FfRTYxQ1pBV3ROatIB5gFBVV95cUxOZ1RyVHV5OGJZcnNyYWE1dzFRQnRQTDZNQnpvOW96eUNrYkJyN3dsejE2dTlmek82Y25Fd1d4ZVZnTEZjTTJPRmR0MkRVeldHTHRmVTlNdC1jVmRSQVoyR01tLTdkOFNxaFJUUi1FVUNXNFpJcWpCTUx2UUNFVWVJY09QTWZYMlNQbHBaZU5vSGczZExPZUpaR1NNZWMtby11bDduMFNTbkpsX0o2anE0RXh2aFJXbDF2WFJzbkhHbFp6MHFnc1dGVWFHeWpGQTNNNEZFa0dFTi1sRUhRUHdHbVlOVE1FUQ?oc=5",
+            "publisher": "The Economic Times"
+          },
+          {
+            "title": "China’s Factory Profits Jumped, But The Economy Split Further",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUm8wTkVLN1pJTlFQdF9GXzZ3d3E5azl4MDIyMnctVk5hd0gxcnEzd2gyVmlydDN1SnZnTnctZXo1NW01R1Z2YjlLclVVWnBQektsck1PbTVaWlZrbXk1d184Mm9TRUJiWlNKNXFnTmRyS0RVb1ZrLWZObFpZcC02c1ZXb1hURDNXcnZyazc5R3dmUQ?oc=5",
+            "publisher": "Finimize"
           }
         ]
       },
       {
-        "id": "aluminium-frp-exports-to-us-jump-278",
-        "title": "Aluminium FRP exports to US jump 278%",
+        "id": "experience-economy-lifts-domestic-demand",
+        "title": "Experience economy lifts domestic demand",
         "when": "2026-10-26",
-        "place": "China",
+        "place": "China (national)",
         "lat": 39.9,
         "lon": 116.4,
-        "what": "China's aluminium FRP exports to the US rose 278% in the first half of 2026.",
-        "via": "higher export volumes",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "China’s aluminium FRP exports to the US jump 278% in H1 2026",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVB3X2xrb0dVR2FvaE1WeERfdlV0XzRNblY3TXlGYzNFdHkyLUdFQmtsNXlOZm9oNlU0WFFSaW5vM0ZBV1pNX05xWVNzaFFRRUQ4eUVvczcxOTBqR2ZndlVkRldSckVKN1pHZzJNdTQ0OHZndVRkM3pLM0Vqc3FacEs3YVhtUEp0Tl9ydDlsMHFXbkVmY0RZcUhZVQ?oc=5",
-            "publisher": "AL Circle"
-          }
-        ]
-      },
-      {
-        "id": "chery-shifts-half-its-exports-offshore",
-        "title": "Chery shifts half its exports offshore",
-        "when": "2026-10-26",
-        "place": "China",
-        "lat": 39.9,
-        "lon": 116.4,
-        "what": "Almost half of Chery's exports are now made outside China, with a target of 70% by 2030, which may limit future export-led gains.",
-        "via": "carmaker production moving abroad",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Almost half of Chery exports now made outside of China as it targets 70% by 2030",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3QzdHpGRkFXTzV3NnpvTTR2NjJHbHdhTkpiVEVyRTd1cnNzMENjeGlsTWZNZG5RbHc2OThmTFpUNllSQmJGNFFnaXE4YmhuM2Q2VnQxQWdjcmF2RGtrTzc4YnUtaE4wbGVWZldGY3ZtZlhXUXk5MmNIei1pREtUOW9lUTJ5Sk1qSEEzTklCQ0Ytd0ZoSWtOM0VjUHEyQ24xSXBaYlBxd0pKS2NKb3BZeFE1ZGYyVDcxOW5VdUpHOEZRX2ZiUm0wNVFQZUFxX05zcmJr?oc=5",
-            "publisher": "Automotive Logistics"
-          }
-        ]
-      },
-      {
-        "id": "factory-gate-prices-rebound",
-        "title": "Factory-gate prices rebound",
-        "when": "2026-10-26",
-        "place": "China",
-        "lat": 39.9,
-        "lon": 116.4,
-        "what": "Factory-gate prices in China have rebounded, though analysts question whether the recovery will last.",
-        "via": "firmer industrial prices",
+        "what": "Spending on experiences such as leisure and services is emerging as a fresh spur to China's domestic demand, partly offsetting weak consumption elsewhere.",
+        "via": "services spending support",
         "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "Factory-gate prices are key for China, but is this rebound a flash in the pan?",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN29HTTRJdTRzY0R5SWdocFEzaUo3Y2EtSzFaN1Z6U0ZQSFI4VVJmYU5jcEluUFQ1U3dUR3kwVDZia1d6SjdhUHFaM3RFQUVKbkF4cVQ0di1NajV0bmRMdnVUT0FDLUlfdDdYa0hhR19iLTAtWFpaYTk0VUZuOFFYUENHbHZ6OWNRRTFfZkRicFpXUGVnTnhvT3lOYklEYm5IVGMzcExTZ0tzTDZfVC1sVWdubkxlTHZkMG9qUHZDVmxueUJpaWo2cFZOT2tvck9VTE1lTllLY0kwTDJIeXFvcXhzZw?oc=5",
-            "publisher": "South China Morning Post"
-          }
-        ]
-      },
-      {
-        "id": "airlines-add-288-domestic-routes",
-        "title": "Airlines add 288 domestic routes",
-        "when": "2026-10-26",
-        "place": "China",
-        "lat": 39.9,
-        "lon": 116.4,
-        "what": "Chinese airlines are adding 288 domestic routes as the sector recovers, adding to activity in services and travel.",
-        "via": "more domestic travel activity",
-        "aspect": "jobs",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "China’s airlines are adding 288 domestic routes. Can the sector’s recovery keep up?",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYjRrR3U0LV9saFdwMG0zTldXZVlCYnRXbzZ5LUYyRHY2NlJSVzlyb0xRTzJaNllHZUpSSWdVZU1jQ21MQUFZZmJ2alBNSGlKWndhSHhzQzR0R2ZWVm9ONjkyTzNVblF5NnJUMl9rTHYtYVppX2FCNjV5dlpKcE4wbHYwZ0gzb2ZDOTZSdEZwbm0xTVpLbUNvdW1QOHJVS0JPUU1WRWl1cWo2NHR4QXA0T1Zla3ZpeS04b1lVOXhIcmYtblFhWGV5Q3o4bmHSAcwBQVVfeXFMTWI0a0d1NC1fbGhXcDBtM05XV2VZQmJ0V282eS1GMkR2NjZSUlc5cm9MUU8yWjZZR2VKUklnVWVNY0NtTEFBWWZidmpQTUhpSlp3YUh4c0M0dEdmVlZvTjY5Mk8zVW5ReTZyVDJfa0x2LWFaaV9hQjY1eXZaSnBOMGx2MGdIM29mQzk2UnRGcG5tMU1aS21Db3VtUDhyVUtCT1FNVkVpdXFqNjR0eEFwNE9WZWt2aXktOG9ZVTl4SHJmLW5RYVhleUN6OG5h?oc=5",
-            "publisher": "South China Morning Post"
+            "title": "Experience economy emerges as fresh spur of China's domestic demand",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1SmJvSDBraS1ILXN2N1M5OU1NbUF1SFQtR282V2xuM2NqRG1ibUdVSThlZ2lfYWVLczdwM185a0thV2JvTXVnQUNmVzJVbWJmUUtZX0JCc0dtWUMtcnBmdUtB?oc=5",
+            "publisher": "Global Times"
           }
         ]
       }
@@ -2017,20 +1970,20 @@
     ]
   },
   "portugal-housing-protests": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
         "id": "police-clear-lisbon-and-porto-protest-camps",
         "title": "Police clear Lisbon and Porto protest camps",
         "when": "2026-10-25",
-        "place": "Lisbon and Porto",
+        "place": "Lisbon",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "Police with dogs and batons dismantled housing protest camps in Lisbon and Porto, wounding demonstrators and arresting dozens of people.",
-        "via": "protester anger at crackdown",
+        "what": "Police with dogs and batons dismantled housing protest camps in Lisbon and Porto, wounding several people and leading to arrests.",
+        "via": "anger at police response",
         "aspect": "security",
-        "flow": "both",
+        "flow": "into",
         "sources": [
           {
             "title": "Portuguese Police Clear Housing Protest Camp in Lisbon - anews",
@@ -2043,7 +1996,7 @@
             "publisher": "UA.NEWS"
           },
           {
-            "title": "Demonstrators wounded as police break up Lisbon and Porto housing protest camps",
+            "title": "Several wounded as police break up Lisbon and Porto protest camps",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlZQM2xSeWhGZDBHNHdUTnV2RGxxUkx4LUJBNy1GRm5NZEhlaU9HRll0Z2JfTDFBc0g4VHA4eGhyRUJJbUtIREdSSFJOei1tZGtQakVCeVVfUTA3ZEdFV2FwUnhHRnpBT3VpRy1ZV3lVZjNTak1YQWczbHpmN3Bvd1ZVLTFPSHMxMHB5UWhsR0JUV0FRa0txUzZFQTdwTWNoUHVOS2l1UUtNbUxnTWFOT2pLUzdqQQ?oc=5",
             "publisher": "Euronews.com"
           },
@@ -2053,24 +2006,14 @@
             "publisher": "inkl"
           },
           {
-            "title": "Portuguese police clear Lisbon housing protest camp, arresting 25",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVZRTDRnYkd6UmRRYXNsOXFkNFNYZlVzcTV2dlZWYWhRMTZPY2tfVFhpeTFGOHlwcjNDRE1IM0wtaXBremZvZGtMaWwzdFVROEdORzRaMG00TWVTUUhPUjlVeVZFR0c3UDRRcnpxa2s5QzZJZEpEd041X1ZSNno3cEthNWpSbUhJTzFjSw?oc=5",
-            "publisher": "ARYnews.tv"
-          },
-          {
             "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVRJZHlxTlZoWHZrXzYwdWhrVlJrVFhiWUJ3Ujc4Z01hbXF6aEVva3Y2VGlYRDJldGpXLS1QRUVUNjFJbmExdWZpalE5dUc4MlFMYlg0NHJXeEU4RlJYM0VBWmxXX1dmWHpJUElFMEF6T3BZXzJvSXhEaFg5Zl9EbG5Ubi0tc1o3Vy12TVJFdmVSZWVWbG40Z1EwT3JSMllkNGJMRHc3NlBJUdIBrwFBVV95cUxNNVZUR3BTMmd2cW0zMHFUcTlBTFkzWGMwRWhSanUwa0tKOGl2LXhOYnQyOXZiYmdBb2M5ekVyLTlEblRwRG5RZW5kOVlTWlc5bUFRM0RQSDlVVm9Wb2N3SzhQdGRvNTBLY2JQWVdZRldoNy1DUGNrRDlCRGFmcEdWQjVJY2txYjFiZDZLSjhGczI0cS02RVotbU53WnFmaWkwTXFEX2xrX0IwNkE0V1dZ?oc=5",
             "publisher": "Al Jazeera"
           },
           {
-            "title": "Demonstrators wounded as Portugal police clear housing protest camps - International - World",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xN0RzZjBDVVJZZThxcHpoRjRTeWZLNXE5Z1ZkaUJ3S09kaUdqSFVEYXpYOE1DcFp3eW5ZUy1GT09tZnF1cW9LVHJFOE14ak5TY2ctR1czdlg?oc=5",
-            "publisher": "Ahram Online"
-          },
-          {
-            "title": "Lisbon Housing Protest: Portuguese police clear camp, arrest 25 people",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXkxMjRFakJ5TXVmaUlTRV9qSFE1X3dFNFFLOE1xVFl1Szk0ZG5tSVhZbFYyb1dXX1QzNWhOdjVaZmFycHpJaEhXQnNpZzNHVjAxUkdDTVhrNG1TRkVOM2doM0x1N29kWk1QYlBodDVfdm4wLVF4V0ZUVVgtOUZwM3VfNS0zSlpmOU1LZ1BmSDZDQW5GZTBpMVRMZHZrNnhuQUVZbWhyZUlzdWRjQ3Zia0NjSTR2V0J3cWRvQzZuNjFmLUJxTHk4?oc=5",
-            "publisher": "Deccan Herald"
+            "title": "Portuguese police clear Lisbon housing protest camp, arresting 25",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUpKVUcwNGlpQU1Bakh6aUV6RlNtM0RVVUFhTXhDQTI2SkpFM3VkYmZuRjVvSGg0YW5lYzVnVy1DMXNiX2xiSkFPeUFKM1U4eXFCWjN6Ulp5LWVHWXhkWmt3TmhwbHQyZDRVSFN6Vi1OMk9Sc1BzLWF1WXZFQkZLTXpaZ2N1SHhMMV94MGFGM3VWal9BaVJXRGtQTkhWOXJTY3c?oc=5",
+            "publisher": "Cyprus Inform"
           },
           {
             "title": "Demonstrators wounded as Portugal police clear housing protest camps",
@@ -2086,8 +2029,8 @@
         "place": "Portugal",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "Housing activists are pushing for a nationwide general strike, which would take the protest movement from the streets into workplaces.",
-        "via": "strike mobilisation",
+        "what": "Housing activists are pushing for a nationwide general strike to keep up pressure over housing and living costs.",
+        "via": "escalating strike pressure",
         "aspect": "jobs",
         "flow": "into",
         "sources": [
@@ -2099,33 +2042,14 @@
         ]
       },
       {
-        "id": "algarve-group-demands-montenegro-s-resignation",
-        "title": "Algarve group demands Montenegro's resignation",
-        "when": "2026-10-26",
-        "place": "Algarve",
-        "lat": 37.02,
-        "lon": -7.93,
-        "what": "A group in the Algarve called for Montenegro to resign after incidents at the housing demonstration, widening the protest into a political challenge.",
-        "via": "political pressure on government",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Algarve group calls for Montenegro resignation after housing demonstration incidentst",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcG1tcGR1RmtSOUJrYy1jVzlrQjNoOUFwTlg2ZUpNUVBwOXFXcS00S1hlbUdFemJxYkZqM2lpSzMxQUx6em5NNFd5S25oSVBtaVdDQ0ZSUFZxSjh0Y3N0ZHhYTGxWa1RqQk9CLVlZdVpvSm9YUEk0ZjJYQmMtNWNCZW16Rzg1WEJEbGphNjBZV3VOU3l3djlONVliYXZ2RDEwMnpQdkZoUmozaTRHajZRZU5oUU0ySnlwczhmWkVCWDlNb1FjTVE4NFRXbV9vZkZWbmlxUGkyZUo?oc=5",
-            "publisher": "The Portugal News"
-          }
-        ]
-      },
-      {
-        "id": "bar-association-demands-inquiry-into-police-actions",
-        "title": "Bar association demands inquiry into police actions",
+        "id": "bar-association-demands-inquiry-into-police",
+        "title": "Bar association demands inquiry into police",
         "when": "2026-10-26",
         "place": "Lisbon",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "The bar association asked for an inquiry into how police handled the housing protest, adding legal and institutional pressure on the authorities.",
-        "via": "calls for accountability",
+        "what": "The bar association demanded an inquiry into police actions at the housing protest, adding legal scrutiny to the dispute.",
+        "via": "legal and public scrutiny",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2135,94 +2059,79 @@
             "publisher": "Portugal Resident"
           }
         ]
+      },
+      {
+        "id": "algarve-group-demands-montenegro-s-resignation",
+        "title": "Algarve group demands Montenegro's resignation",
+        "when": "2026-10-27",
+        "place": "Faro",
+        "lat": 37.02,
+        "lon": -7.93,
+        "what": "A group in the Algarve called for Montenegro to resign after incidents at the housing demonstration.",
+        "via": "political anger spreading regionally",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Algarve group calls for Montenegro resignation after housing demonstration incidents",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcG1tcGR1RmtSOUJrYy1jVzlrQjNoOUFwTlg2ZUpNUVBwOXFXcS00S1hlbUdFemJxYkZqM2lpSzMxQUx6em5NNFd5S25oSVBtaVdDQ0ZSUFZxSjh0Y3N0ZHhYTGxWa1RqQk9CLVlZdVpvSm9YUEk0ZjJYQmMtNWNCZW16Rzg1WEJEbGphNjBZV3VOU3l3djlONVliYXZ2RDEwMnpQdkZoUmozaTRHajZRZU5oUU0ySnlwczhmWkVCWDlNb1FjTVE4NFRXbV9vZkZWbmlxUGkyZUo?oc=5",
+            "publisher": "The Portugal News"
+          }
+        ]
       }
     ]
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "housing-no-longer-guaranteed-by-a-job",
-        "title": "Housing no longer guaranteed by a job",
-        "when": "2026-10-26",
+        "id": "housing-crisis-becomes-a-key-election-issue",
+        "title": "Housing crisis becomes a key election issue",
+        "when": "2026-10-25",
         "place": "Spain",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "A report finds that having a job no longer guarantees access to housing in Spain, which is the housing grievance behind the planned November strike.",
-        "via": "housing affordability anger",
+        "what": "Spain's housing crisis has emerged as a central issue ahead of the snap election, matching the housing grievances behind the planned November strike.",
+        "via": "housing cost anger",
         "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "'Having money is not enough': Why a job no longer guarantees access to housing in Spain",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbmNqclFWekRQQkFFNzlUQnlZQkctMVZPVGxadzIyQ2lEREdYcnd0WEQweUF2czlseVU0T0RkUm9wU1FIcllpRzhfbTljYnlXbkk4b0R6OUc3OTBhbUtsSGhYSWFvWWVRaFdIZVBtLTZLR1dQaWVwZmRrRXc2Sy1WMlln?oc=5",
-            "publisher": "Yahoo Finance UK"
+            "title": "Spain’s Housing Crisis Emerges as Key Issue Ahead of Snap Election",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObnJSNXdNdVh1WjdtZm1ucmVVSk9lZkJ5NEl3MTNjek0zQ1UyVjEta01keXBWbkFHN01GdElBdTU5cURpMzQyOVg4U0daYlhBVDVXdktzRnphdndtNXpidlRvdnRjNXNoQ1FoZlBqUXluTXVLYlBrdWpDSGR6QUtxUy1sRElRSnJ6WFlReGMwSXp6ejBHTVRsbmpPZHlmTjI1YnZEWExfY3lNbmpYX2x3ejRKU0NvRG5w?oc=5",
+            "publisher": "Realty Plus Magazine"
           }
         ]
       },
       {
-        "id": "election-poll-tracker-tracks-race-for-premiership",
-        "title": "Election poll tracker tracks race for premiership",
+        "id": "constitutional-court-rejects-gabilondo-appeal",
+        "title": "Constitutional Court rejects Gabilondo appeal",
         "when": "2026-10-26",
         "place": "Madrid",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "The Economist's poll tracker follows voting intentions and asks who will be the next prime minister ahead of the snap general election.",
-        "via": "voting intention shifts",
+        "what": "Spain's Constitutional Court rejected Gabilondo's appeal as premature, a legal ruling that lands in the middle of the campaign.",
+        "via": "legal fight in campaign",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Spain election poll tracker: Who will be the next prime minister?",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aTy1leVltUDQ1SlNWWXVtSXR0b3lKLUthM2hTd3dBZ0dxVFR2c0pJam9IX0pfRFdOSjVKcGNhWEI4MTVMbFRiM0JISzVDNEpTRXBZX25nb2lvdTVvUlNKQkEzNlJ0a2VfRTFPbkhtU2Yzb0U?oc=5",
-            "publisher": "The Economist"
+            "title": "Spain’s Constitutional Court rejects Gabilondo’s appeal as premature",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2tZcFI3TFdoUlA4cnBjTnl0WkVoQ1pESTNDZDZuS0V0UUZFSDljWjVuOFdiNV9aWnNYLVZmRzgzQzJCc1BHLUVOVEtyaFpMa0xlSF9UM0dLTnFMQjlEVzRPak90N2Zqa2NpTDRNbGdJUDZueXYwZkxRbHFwc0hEM1AzR3pmVVpHOFJKd0lCRVFGMVBIVVMwaktSRWpac1UxRlotWA?oc=5",
+            "publisher": "RUSSPAIN.com"
           }
         ]
       },
       {
-        "id": "sa-nchez-predicts-progressive-win-after-lula-victory",
-        "title": "Sánchez predicts progressive win after Lula victory",
+        "id": "sa-nchez-pledges-constitutional-abortion-safeguard",
+        "title": "Sánchez pledges constitutional abortion safeguard",
         "when": "2026-10-26",
         "place": "Madrid",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "After Lula's win in Brazil, Sánchez said the same would happen in Spain, casting the election as part of a global progressive comeback.",
-        "via": "campaign framing and momentum",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Sánchez applauds Lula's victory and predicts that the \"global resurgence of progressivism\" will be replicated in Spain.",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOOWRscmhwZ0ZMRW1xSkJnZVliUjJvalNZSXFTSXJ5emNETk5zdnpmVzQtVHc1MG5GZUpseDkzVGx2c0g2eXZJTnc3bTFDZ3dzczFzaWZKdS1Ucjc4bGRqalN2NkNuNzZzMEs4b0RZZ05xUU9WM01ONk1VNkRzRWRxR3FTb2V3MnZoaW03RHZOS0s5MnBpcHpHR0NCcy1FdkxZUWVXZk0zVExKMHM5amRDUm40QVEyalJmcm9VYTUxVUNBN0lKblVQT2M1VHJKVUpsQzM3d20zSkFhX2xxZHdKRWZIal83Mk5lamFDZlJ6VknSAfYBQVVfeXFMTWVadGFHZ1BNLW9SRW9MdlBzcS1YbElRWjJLRGtpRzFwSFhtam5lWTkyTHpIdnJlWUtQSVpCYVd2REUzczBhMFBoMnJzZFpoYUlrVjh2Nm1kZUY1SXYxU3I2ZzhkV0RXUFI5Y0F5V0NMeDNobC1wb1NpRFozRVJkSnJvdmg0VVpSeGh1MlNaMmdyeGM4RGtTZUhWUnFRTTdSS0xYMUxvcDFlTlBnNzJOYmJfczRXTWEzUUZ4MGNJR2E2b0J2bEN4SjdvRjdnUmFVdEY4UTcxWWxsclVYZVRIZ2tKdGExZ3BubGszcHBmRW8zd1VER0tB?oc=5",
-            "publisher": "Demócrata"
-          },
-          {
-            "title": "Sánchez celebrates Lula’s victory and asserts that “what happened in Brazil will happen in Spain”",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXlra08zQm1ZSzRiVmpkUXZpU3lKZ3hzc0hGN0hOSkFsTzBTUk5WR04yQkFQUWU5STYyUHZmZDVrWHprSkdjTGpoaEk5dF82MHF4YzdWdVdrNTQ4RDZnVHdQSjNIX2gyOVJlV1NuamoxM3VmcDBidjlySVN0VFJVcTJCZUM1c0s1eUk1bDBLNzFXU2s2UUhxQzVTTWQ3bXZoWHh4LWR6UG9sLTdIazM0VFgybURPQTRJR1Q3aHFkS1dicC1OLUxIaE84enlmdU5QOF9feDF3cw?oc=5",
-            "publisher": "thediplomatinspain.com"
-          },
-          {
-            "title": "Sánchez reacts to Lula's victory and predicts a progressive triumph in Spain on 29N: \"What happened in Brazil will happen in Spain\"",
-            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX2w0N1FzaG5qcXZQMFJpQ3ZWeDlzaWNPUWpFdXVpQkxMelRqSmp5TWdHNFJsazJieTQwQzJqNjdvTWphc0lSLS1KWmNJT1ZsMkVCb2NKbzRXb1h1WmNNaHNxc2ZZN1NFMTd1SnFCUmFYMzR1bWpKeEZHSi1KYmZKNXRNUURCeWhXbU1UWnRrdHY4dE9tcS1vNFV0ci1GMkJTc3NpX1JsNVZvMEppMGFFWGpPc2JuTUZjajB3LXVYbWhmNVpodVlnLXlJTG8zcXBKVU9vSDBSbUw1Q1pNYTFma3RFTnpZdnhySGhISlpNR3BlWTk3YlNUUnRfOEpveVRuN2tEd2VPT0RGSHJkLUF3?oc=5",
-            "publisher": "El Constitucional"
-          },
-          {
-            "title": "Sánchez applauds Lula's triumph and predicts that \"the global comeback of progressivism\" will also arrive in Spain.",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWTZtci1NSTN5OTB0WDRqVENUcFA2VkhCeGZMMUZ1SzFUS05GcXN1M1VkSW5aU3JYRUtkQUhaS2JIem5qV01LYlJsZTRSYkt5eXlhUW1YWkJYaUNBbXVPMlJWRUhkeS03RGxPak5jNzNGc2VnNmRBbHJ5UllzekdfN1Exdk1aZzFYT0JKNld0Y3ZmbGdHN0RlUldHa1FlSjlQeTItMGVsUGJYTlJ2S1FCbDJNSjllcjlBS3ltZkw4YkZmQjdiNUZ1enpBS1VKWXR0ZDYySlZ2VmdHS25yLTJwREFkMTF5cFRSMzR5dmdIb1RaeFVCZW84ZdIB_gFBVV95cUxPRXNMZVVJSi1mdFBzVnVPTE5UUm1oRVNmanJlQjVQSktnU1h0dE95RzlMWmd5MWR5UmJWQmdYaE5NNWJEby1IMENabWVfUkN3NzRyM00tUjVIZ3RRTmRCM0dsOUlQbXhETlFWMC16MUZ5cHFrS1M0U1RWcmdGVWJEYUQwVE9oNXZfRElNdklqWldpS2U4N0FzRmwzcjFaWVFnOXpiSEVPeHlheThxbWl6Y1ZHTmJKYlJjZ1Y2M0YxbENNdXg2WTFpV1U4cnd0QlJCbkRMTFA0TVBEMUZ5VENObzNYdnl6UHlGOWN0ZE84TGk1bDhpNWpFdTlrdnExZw?oc=5",
-            "publisher": "Demócrata"
-          }
-        ]
-      },
-      {
-        "id": "sa-nchez-plans-constitutional-abortion-safeguard",
-        "title": "Sánchez plans constitutional abortion safeguard",
-        "when": "2026-10-26",
-        "place": "Madrid",
-        "lat": 40.42,
-        "lon": -3.7,
-        "what": "Sánchez says he will pursue a constitutional safeguard for abortion in the next legislature, putting the issue into his election platform.",
-        "via": "campaign pledge",
+        "what": "Sánchez plans a constitutional safeguard for abortion in the next legislature, setting out a campaign position for the snap election.",
+        "via": "campaign policy pledge",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2234,28 +2143,52 @@
         ]
       },
       {
-        "id": "sa-nchez-announces-flood-disaster-relief",
-        "title": "Sánchez announces flood disaster relief",
-        "when": "2026-10-25",
-        "place": "Spain",
+        "id": "milei-accuses-sa-nchez-over-citizenship-law",
+        "title": "Milei accuses Sánchez over citizenship law",
+        "when": "2026-10-26",
+        "place": "Madrid",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "Sánchez announced disaster relief after severe flooding in Spain, adding a public spending commitment to the run-up to the election.",
-        "via": "public relief spending",
-        "aspect": "budget",
+        "what": "Argentine president Milei accused Sánchez of using the citizenship law to sway the election, adding foreign pressure to the campaign.",
+        "via": "foreign criticism of campaign",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Sánchez announces disaster relief following severe flooding in Spain!",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUF9ISTl2ZTk4R09HcjNKTVpJcjdWU0tPX3MxY3dybW91RGZydVdFbW5XeUd2VVd2RWVLUzVqSndWS0l4R0w1TFhoTDdITGpjeG5mTERXX1BSbTFRVVBCS0lUREpSZE12QTZzaXljZmhicnNlS3lxNGM3OVpJNHF6ZUJJMkt3WjNKVjVWcVFCZFFTWHhtWnJuaHI0Y01NdUU4TmM3blFEcXA0UQ?oc=5",
-            "publisher": "Spanien Press"
+            "title": "Milei accuses Sánchez of using citizenship for electoral gain",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORXY1UmlLTE44STJjZXBCYjZWMzctVjAzdE9POFduOGdqZzBObWVJYWpCNEk4SGw5TlhMZXJDaFE2NmVBc1hTREVxWEw4bHNrQ0dVTHJSaHh3RXk3bGZiVURuem9CcG5EUElycmxSckh1ekdwQ28wVXVSSWlKeXRKakVodjd4MWgyMklkRE44ODRlbzFWNno0dV83Yw?oc=5",
+            "publisher": "RUSSPAIN.com"
+          },
+          {
+            "title": "Milei accuses Sánchez of using citizenship law to sway election",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFkxNW1uY0k4Z3l6TlpHWklXUFhQMi1ZSk5YY0ROMUk2dXhyelRHTTJSdFhBZ2dHS2x3V3RONEoyaURlMElVZ0RXMW1DalhhZmhRdE5XOHFVYVpaZW53N1ZUblBxUjZOUVZFbjdkRWltZXpSd1lJQXVIZ0dWY0Fmc2d1dC1ITzc3YzVMeGU5bGZpYU9FOURraFRXeEs0dw?oc=5",
+            "publisher": "RUSSPAIN.com"
+          }
+        ]
+      },
+      {
+        "id": "deepfake-of-pm-s-wife-sparks-ai-row",
+        "title": "Deepfake of PM's wife sparks AI row",
+        "when": "2026-10-26",
+        "place": "Madrid",
+        "lat": 40.42,
+        "lon": -3.7,
+        "what": "A deepfake video of the prime minister's wife has triggered a fight over AI and disinformation during the election run-up.",
+        "via": "disinformation worries",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Spain deepfake video of the PM’s wife stirs a fight over AI",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc3QxbDc3MC1aaE8xYThpVFdWQjM5RlBBc0U4VG5BMVJ5eS1DNHJsRURqQ0o1NTRBQy1QS01lZFVsTGYtZFI5T0pmQlgzcll0X3FIY1pFVk1ZY3B4MlNneHY3ZVVJbU81bDVQOTlxTFBXd1F0SWxDUmZDbkZHZw?oc=5",
+            "publisher": "The Next Web"
           }
         ]
       }
     ]
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
@@ -2265,7 +2198,7 @@
         "place": "Washington, D.C.",
         "lat": 38.9072,
         "lon": -77.0369,
-        "what": "Trump said he does not care about USMCA while the US and Canada plan trade talks, signalling a hard US stance ahead of the review.",
+        "what": "Trump said he does not care about USMCA while the US and Canada plan trade talks, signalling a bilateral track alongside the annual review.",
         "via": "weaker US commitment to pact",
         "aspect": "politics",
         "flow": "into",
@@ -2278,50 +2211,21 @@
         ]
       },
       {
-        "id": "grain-shippers-seek-fixes-to-mexico-border-delays",
-        "title": "Grain shippers seek fixes to Mexico border delays",
-        "when": "2026-10-24",
-        "place": "US-Mexico border",
-        "lat": 31.7619,
-        "lon": -106.485,
-        "what": "The National Grain and Feed Association wants border delays and inspection costs for grain shipments to Mexico addressed in the USMCA review.",
-        "via": "agribusiness demands for review",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "NGFA wants Mexico border delays, inspection costs for grain shipments to be addressed in USMCA",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGxEYmpTd1h0U2JQbVRWSWRub2ZqTGVIMFZQYTU4Mk42YjNVYjBRQ2taNDh5aEUtUmxCcUl5d3dtdVRPVXpCeHVpdWVOVDBoVWVvMjN5TXltRENmdTBJMVdPMEdBQUtFUlBCTkxKUV9XVHRYbmJweGJURkZBdVFEMURvOUJmZ2hEQ19mOE1GcGtLQkFsWV91QlNfUW5oMHFuaEJCN1AzYnFXSE9fRHFMZmtRZXpxSnBoS3ZoLXVtVV8tNjdBQk9Z?oc=5",
-            "publisher": "Brownfield Ag News"
-          }
-        ]
-      },
-      {
-        "id": "canada-and-us-line-up-energy-talks",
-        "title": "Canada and US line up energy talks",
-        "when": "2026-10-25",
-        "place": "Ottawa",
-        "lat": 45.4215,
-        "lon": -75.6972,
-        "what": "Canada is promoting its oil trade with the US before its minister meets Greer, and the US trade chief says he wants to work with Canada on energy and critical minerals.",
-        "via": "energy bargaining chips in talks",
+        "id": "us-trade-chief-eyes-canada-energy-and-minerals",
+        "title": "US trade chief eyes Canada energy and minerals",
+        "when": "2026-10-26",
+        "place": "Washington, D.C.",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "what": "The US trade representative said Washington is looking to work with Canada on energy and critical minerals, shaping the US position on what the review should cover.",
+        "via": "US sector-specific bargaining priorities",
         "aspect": "energy",
         "flow": "into",
         "sources": [
           {
-            "title": "Canada Touts US Oil Trade Before Minister’s Talks With Greer",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRFluU3dwbl94TTAwOVRrb3dkNXh2VTNTSUt4dHhOUUVpdGs0RDRQZjVJLTRFNkRna2pGYThRQWtOT2J0YVZtX1JuY1p2bmpVZXhVeXg3M1R5Q3d6N1NnTm91M2I2SU9EYkNZellQWUI5d2NlVGNMdlhnRlc3enZPckZrbnFoYmtEM1dmcGFSUGwxMkU?oc=5",
-            "publisher": "EnergyNow"
-          },
-          {
             "title": "Trump’s Trade Czar Says U.S. Looking to Work with Canada on Energy and Critical Minerals",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWZvWnVTbjJlNDR1UHNTTVZFd3lRTmZYaVA0Q1l2SmRsWDhMWndUM0dXU2MxYmJpQWpUbUE3UVZTeS12SHcwYUZCNFROV1RMTER5clg0ZndESVF2dW5UZ3JBTkh1TmI3Q0ZPN1hacGt0blZrRVBmZkE1WVhiV0F6ZFpfbG8yNGJNQ3RIc2VNM0NqM3N0eHJJMEoxbE9nWDN5eFhlc0ZXeGFPU0JpeG8yRG9FUFBPc2px?oc=5",
             "publisher": "EnergyNow.com"
-          },
-          {
-            "title": "Canadian Energy Leaders Back Diversification, But U.S. Remains Key Customer",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWpRT3pBXzJCVnd5MFNDeW9ZWnRzanlmSldhZmJkcldrNHc5WVpGcTJ4TFQ4WVMzbGJMRjZMSHl4NTd6dWVrcnhDYkl3MGxGWXVHaklQbWhfc0JFSDZycmdNS1UyMEZoYlNiUlpOelptcWs0NGlEUUwzN3dqRWNMeFVWVlNISEdjSjc4aFVncEpBRmJtdlhlM0tSTjdVdjNXRXdia25R?oc=5",
-            "publisher": "EnergyNow"
           }
         ]
       }
@@ -2780,25 +2684,25 @@
     ]
   },
   "brazil-runoff-2026": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "lula-s-army-whatsapp-channel-mobilises-voters",
-        "title": "'Lula's Army' WhatsApp channel mobilises voters",
+        "id": "lula-mobilizes-millions-of-voters-for-run-off",
+        "title": "Lula mobilizes millions of voters for run-off",
         "when": "ongoing",
         "place": "Brazil",
         "lat": -15.7939,
         "lon": -47.8828,
-        "what": "A WhatsApp channel called 'Lula's Army' is credited by the BBC with helping turn the election around for Lula after Bolsonaro's first-round lead.",
-        "via": "online voter mobilisation",
+        "what": "Lula's campaign mobilized millions of supporters to turn out in the run-off, as reported after the vote, which worked against the narrow poll lead held by Flávio Bolsonaro.",
+        "via": "higher Lula voter turnout",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-            "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC World"
+            "title": "Lula mobilized millions to win Brazil's election, while Bolsonaro contests loss and Trump cries foul",
+            "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPRTlXQlpJUFVIX2JycEQ2UG5yWGUwdG9OaFRrZndHZ1JIUEFNYjV0TnNJd29EZE5pRlJ2cV80NjBqZm1oRWxtTEtOQ19WSHRSZ2c3dGEwT3lSOTRQV0p0ZkpGemFfRXM0dWg1amRpdDBBUm11YWtiQTRrV3lqOGVzRDJYaFBrTVA5Q3NmWkROOGE1OHRoSm9Wb3d5WjhUbm9hVGNPdENHMnB0bTZ2ck81YUktTTJuanN2MUZVbTJpYndMbUlUcExzOThFcC1FYmMzYlJFejhWMUhCamIyR3hKdGNjUW5JOWttTUp5cER6UnlNTm1sVDV6X09iR1pRa0FPQ3VxUWVMem0xUVdsWnhLd3U5VEVUUXdwOW9OYTVLXzV6RTZzRlE?oc=5",
+            "publisher": "Santa Fe New Mexican"
           }
         ]
       }
@@ -2926,18 +2830,18 @@
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "austria-threatens-veto-on-2028-2034-budget",
-        "title": "Austria threatens veto on 2028-2034 budget",
+        "id": "austria-threatens-to-veto-the-2028-2034-budget",
+        "title": "Austria threatens to veto the 2028-2034 budget",
         "when": "2026-10-26",
-        "place": "Vienna",
+        "place": "Vienna, Austria",
         "lat": 48.21,
         "lon": 16.37,
-        "what": "Austria threatens to block approval of the EU's 2028-2034 budget, and Chancellor Stocker is reported to be considering a veto.",
-        "via": "veto threat, harder unanimity",
+        "what": "Austria's chancellor Stocker is reportedly considering blocking approval of the EU's 2028-2034 budget, which would put the required unanimity among member states at risk.",
+        "via": "veto threat over unanimity",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2954,33 +2858,14 @@
         ]
       },
       {
-        "id": "parliament-moves-to-shield-erasmus-and-research",
-        "title": "Parliament moves to shield Erasmus and research",
-        "when": "2026-10-25",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "The European Parliament seeks to protect Erasmus and research funding in the next budget while debt repayment bills mount.",
-        "via": "spending demands against debt costs",
-        "aspect": "budget",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "EU Parliament seeks to protect Erasmus and research funding as debt bills mount",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQVh5Q3RHWU0tLWVfd2Fvc0ZMQ2lXTEZ1dGdNc3hmaTNDWGhwbTVrVXpwTTZSRXc3X3FCSVNqZzloSjczd0RVMWY2TVR5dU1CeGwyblV0TFFYanllblU5Y1p1MENVUjVLeHBLX0Q5OWxqZENtSDV2ME5iX1dWclE?oc=5",
-            "publisher": "EU Perspectives"
-          }
-        ]
-      },
-      {
-        "id": "organisations-demand-transport-funding-be-kept",
-        "title": "Organisations demand transport funding be kept",
+        "id": "european-organisations-demand-transport-funding-be-kept",
+        "title": "European organisations demand transport funding be kept",
         "when": "2026-10-26",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "Dozens of European organisations call for transport funding to be maintained in the 2028-2034 EU budget.",
-        "via": "lobbying for transport allocation",
+        "place": "Brussels, Belgium",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "Dozens of European organisations are calling for transport funding to be maintained in the 2028-2034 EU budget, adding to the lobbying over how the money is divided.",
+        "via": "sector pressure on spending lines",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2990,29 +2875,48 @@
             "publisher": "Railway PRO"
           }
         ]
+      },
+      {
+        "id": "parliament-moves-to-shield-erasmus-and-research-money",
+        "title": "Parliament moves to shield Erasmus and research money",
+        "when": "2026-10-25",
+        "place": "Brussels, Belgium",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "The EU Parliament is seeking to protect Erasmus and research funding in the next budget while the bills for EU debt keep growing.",
+        "via": "parliament spending demands, debt costs",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "EU Parliament seeks to protect Erasmus and research funding as debt bills mount",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QQVh5Q3RHWU0tLWVfd2Fvc0ZMQ2lXTEZ1dGdNc3hmaTNDWGhwbTVrVXpwTTZSRXc3X3FCSVNqZzloSjczd0RVMWY2TVR5dU1CeGwyblV0TFFYanllblU5Y1p1MENVUjVLeHBLX0Q5OWxqZENtSDV2ME5iX1dWclE?oc=5",
+            "publisher": "EU Perspectives"
+          }
+        ]
       }
     ]
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-26T17:04:18.346Z",
+    "at": "2026-10-27T05:05:10.399Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "chinese-carrier-group-sails-near-southern-philippines",
-        "title": "Chinese carrier group sails near southern Philippines",
+        "id": "liaoning-carrier-group-passes-southern-philippines",
+        "title": "Liaoning carrier group passes southern Philippines",
         "when": "2026-10-25",
-        "place": "Off Mindanao",
-        "lat": 8,
+        "place": "Philippine Sea, off southern Philippines",
+        "lat": 7.5,
         "lon": 127,
-        "what": "A Chinese carrier strike group led by the Liaoning passed near the southern Philippines while a US carrier group operated in the western Pacific, and a new Philippine Coast Guard vessel shadowed it.",
-        "via": "naval pressure near Philippine waters",
+        "what": "China's carrier Liaoning and its escort group sail near the southern Philippines while a US carrier group exercises in the same western Pacific waters.",
+        "via": "naval presence near Philippines",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "New Philippine Coast Guard Vessel Shadows Chinese Carrier Strike Group off Mindanao",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1U5ZDJqS0FSV0w2SEYyVU5sTmNIOERvYXhIUnRkMWZRVWdZdnlDdnJCSE1NZnFNYnpfd25leDBBMlYtX3NKNDV6c0tMVFF1SzRCS0Ntdlk5Zlo0UzlqU2FwZkxlaE1rclFGZ3BQT1JrV0hxVGhLblNocDJpaU1iWXViNm5RUVFlS0dHVXlVZWh4bzcwbVU4QW5ESDFwLWI5dWZJTkotcmZPbTUtV0tYM2RORDFfb2s?oc=5",
-            "publisher": "USNI News"
+            "title": "China’s Aircraft Carrier Liaoning Is Circling the Philippines With 288 Missile Cells of Escort While the USS Theodore Roosevelt Runs Keen Sword in the Philippine Sea Through October 29",
+            "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORTRZODkzSEc4UWtTbHBjZjhaX3A4dVZKUEpSQlpuNnoxM3NoRGZaU2lVa3NsWVpsUzlwNnNCdkRHMEJCWXdPa2RGbDg0SE5TMlZRTkZsOXV6VGVIb3NEQ3JXak93eGJoWC01bEtGX3BKZGhvbHV0R0xiaDN3WGZ0MDB2dXl6T3VaTVAxUmFHVG1JWkZIMm5menIwWVY1MFBXbmtJbHlyNXlaTkxJSjd2Q0pDZlFqNzBaWkpmdnZibG1YaUJCQV9sQkFudm1EQWlqd25QZEhvNmVJWDhlck9rN2E5N09MZTZWZFExTTBYdXhGV3BPVVRjeURraXhsTk5PX0pSU251dGVPazZVTDRIbFNZaWRRZlU1MUI5TElDbEYya0s3RkJYc3haR05MVmE4VzNLVTFQblpWbzlVQXYzNll3?oc=5",
+            "publisher": "19FortyFive"
           },
           {
             "title": "China’s Aircraft Carrier Strike Group Moves Near U.S. Naval Exercise In The Pacific",
@@ -3031,39 +2935,39 @@
           },
           {
             "title": "China’s Liaoning and US aircraft carrier may sail in Philippine Sea at same time",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazNNTHgxaW8xU2VpMTBBWE5YLUJ4cTI2ZkRkSGRicldFR3BkNXNHN3p4cVNWbUZuWTVjbUx1eG9GOEhSM19sTS1mTk83QVFrUFpMbU9yY0dPWHV3TmRZYkJJR0RjNFh3aXBnYW5UZXVMUnpnMzVRTVNHWEVJV21qV3RBU0pFTGM0aF9SaEFsal94SGdVRkNfQ0hNbkUtRENVTENFMWdnV09yam9PSGlXVk5TaS1fdk5pX21vR1drOWVFbEQxbXhselF2dlhoTFdOaE9TT0VSNA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOazNNTHgxaW8xU2VpMTBBWE5YLUJ4cTI2ZkRkSGRicldFR3BkNXNHN3p4cVNWbUZuWTVjbUx1eG9GOEhSM19sTS1mTk83QVFrUFpMbU9yY0dPWHV3TmRZYkJJR0RjNFh3aXBnYW5UZXVMUnpnMzVRTVNHWEVJV21qV3RBU0pFTGM0aF9SaEFsal94SGdVRkNfQ0hNbkUtRENVTENFMWdnV09yam9PSGlXVk5TaS1fdk5pX21vR1drOWVFbEQxbXhselF2dlhoTFdOaE9TT0VSNNIB1wFBVV95cUxPR2tHXzJmZjdaajVsZlJ0ZWQyQ1BvRVlDWU16TlZqeDU0N3pKOWQ3dnBTRWI2RS1BR3NwaEdxdFlVQUZtU29rRlpKNnpoVHNJQWxWTWJ3d0NfajVzcTBEUGVySkVTeHZyVmkzRVctaEttdF9GSkFjdEVmaUQxc0ZhLVhEVFphanhDaXpIUWZvSnRnUzZWcVBUa05RMURKbVMtWklPWlJnbU15NklVSGQ2dlhndnFTQW9hbi1KRXdEUThaX1RsRmN4VWtsT0U4bWdLYUstSDdjRQ?oc=5",
             "publisher": "South China Morning Post"
           }
         ]
       },
       {
-        "id": "china-builds-3-km-runway-on-paracel-reef",
-        "title": "China builds 3-km runway on Paracel reef",
+        "id": "philippine-coast-guard-vessel-shadows-chinese-carrier",
+        "title": "Philippine coast guard vessel shadows Chinese carrier",
         "when": "2026-10-26",
-        "place": "Paracel Islands",
-        "lat": 16.5,
-        "lon": 112.3,
-        "what": "China is building a 3-kilometre runway on a disputed reef in the Paracels, extending its military footprint in the South China Sea.",
-        "via": "expanding Chinese military reach",
+        "place": "Off Mindanao",
+        "lat": 8,
+        "lon": 126.5,
+        "what": "A new Philippine Coast Guard vessel shadows the Chinese carrier strike group off Mindanao, putting Philippine and Chinese forces in close contact.",
+        "via": "close-contact shadowing at sea",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "China Builds 3-Kilometer Runway on Disputed Paracel Reef",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlVMLWs5Y2lDZkVSYkxYN3VZU3hWSVBZNlVRWFVMSzZKby1vUi01dzRQb2xSN1ZPWmdHNEkyWGQ1Wk9rRnlhOUNLYWhjM3ZlTi1QTU85NVU5VW8zZG54T1JnUU5oWTN1U1FjT0lCVVVveGZMeUtQcTZoUmdwXzZvMjQtVUY?oc=5",
-            "publisher": "조선일보"
+            "title": "New Philippine Coast Guard Vessel Shadows Chinese Carrier Strike Group off Mindanao",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX1U5ZDJqS0FSV0w2SEYyVU5sTmNIOERvYXhIUnRkMWZRVWdZdnlDdnJCSE1NZnFNYnpfd25leDBBMlYtX3NKNDV6c0tMVFF1SzRCS0Ntdlk5Zlo0UzlqU2FwZkxlaE1rclFGZ3BQT1JrV0hxVGhLblNocDJpaU1iWXViNm5RUVFlS0dHVXlVZWh4bzcwbVU4QW5ESDFwLWI5dWZJTkotcmZPbTUtV0tYM2RORDFfb2s?oc=5",
+            "publisher": "USNI News"
           }
         ]
       },
       {
-        "id": "diplomatic-row-over-chinese-envoy-s-remarks-escalates",
-        "title": "Diplomatic row over Chinese envoy's remarks escalates",
+        "id": "diplomatic-word-war-between-manila-and-beijing-escalates",
+        "title": "Diplomatic word war between Manila and Beijing escalates",
         "when": "2026-10-25",
-        "place": "Manila",
+        "place": "Manila, Philippines",
         "lat": 14.6,
         "lon": 121,
-        "what": "A war of words between Manila and Beijing grew as Gibo Teodoro and others answered China's posts, while polling showed Filipinos split on Marcos' handling of the sea dispute.",
-        "via": "rising diplomatic hostility",
+        "what": "A Philippine official dares China to 'do what you want' as a diplomatic exchange of words between the two governments sharpens.",
+        "via": "hardening official rhetoric",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3071,35 +2975,30 @@
             "title": "Gibo dares China: “Do what you want” as diplomatic word war escalates",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFNkWlRnSmFuQlVGcVJlMTdRRnJLWHc1eEE5SHNLXzcwUGRNcTFZLXhyT1cyeURjbzFmTWVWLWFxcEZ1QW1mNjJycWJTQXBXNy1mRlBkRzBONHhsZE52VGpxTXBvYUdJS3BKNFZNdUsyQVZmSFd6ZmpXZVdERnhJbFU0R05hX3RyQmJJOWlzZTgwb3RuaTg5Ukx5aWh2ckNaUk5EU0plcmxVSk9L?oc=5",
             "publisher": "Guru Press Cordillera"
-          },
-          {
-            "title": "Filipinos split on Marcos’ sea handling amid row over Chinese envoy’s remarks",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVTd5TEU5RldQTHA1WXBhOTRlTks2NkpqMno5bU13eDJ3RFBVN2cwRzEyUkxvdzFZVXF0dVAtd2JWOVQtRzBKMlA2LWlPYzNsdy1UTmYwOW01YmJra2hIWHRqZDZVVUlJWFFScng3VTMxcUdlSWVrRWRORnQ4ZVVPOGFLeDc3Yk1rY3djZlNaLWVweXBGVldFSVVSb0RYZTM3TXl5WTQ0N1dzSzNHbGhQSllUUFdZTGZSUHlwdFhkSEdvV1JPc2loblJBei1aRzFRcGfSAdIBQVVfeXFMUDE2QnF5aWdxTTlqNkZGOGhZRTJkYmNYWE0wbjk5TV84aVNXZ3hLZ3VEWW1QaWlZbzFFT280VW1Qb0ktbHl4ZkxDN1BtYnc0aEllWFg4SUFhR1NNZzZ4MjBVX2JZNXkzb0J0VmxzV0RyQm55Q0FyUFJxN2pRTEV5UEJFbWVqODZkUmdEbmwtNnJsNjItTm1xLWdyY1o1VW1sa19VYVlRRFZCTjQtMUxKRVZJWDRSTXZZRV9Kd2FjYVBIQmV3akF4Y09uR3Rsck8tc1hR?oc=5",
-            "publisher": "South China Morning Post"
-          },
-          {
-            "title": "MANILA – China’s Nine-Dash Line claim and its expansion plan in the Pacific Ocean are the reasons behind its social media posts against the Philippines, Defense (DND) Secretary Gilberto Teodoro Jr. said on Thursday.",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTFBObDV1TjUxODl2M3pCcFNpdnU1TlZrd3lDX1BHMk5kYzZLMzRlVjBOUTBVSzdhcUFDZm0zSXFOMlRkWE1zTlVCbXp6X1lvUzZ5bHRCdTNYd2NXU2JzM2E2SkQzSmVfVUJVOFlLTmN4VVgyUnJFcEhJNEZPUHQyZTFkRWhPU2xRY1NGLV9FdkQ0SEZtVEJyVHBBTm1kbVR1b2JCMmlheUg2eXFLbHR6RUZTZ2F4NW5sOXFJb2hFQ1ZRV3p3QlB6N3o0TWl5Q3FaaklBWjd3UFpXRTQ3eDdj?oc=5",
-            "publisher": "Facebook"
           }
         ]
       },
       {
-        "id": "marcos-says-new-us-bases-will-be-scattered",
-        "title": "Marcos says new US bases will be scattered",
-        "when": "2026-10-25",
+        "id": "hegseth-to-visit-philippines-for-asean-defense-meeting",
+        "title": "Hegseth to visit Philippines for ASEAN defense meeting",
+        "when": "2026-10-26",
         "place": "Philippines",
-        "lat": 15.15,
-        "lon": 120.6,
-        "what": "President Marcos said new military bases with the United States would be spread around the Philippines, deepening the allied military posture that Beijing opposes.",
-        "via": "expanded US-Philippine military presence",
+        "lat": 14.6,
+        "lon": 121,
+        "what": "US Defense Secretary Hegseth is set to visit the Philippines to meet allies at ASEAN defense ministers' events, signalling US backing for Manila.",
+        "via": "US backing for Manila",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Marcos says new military bases with US to be ‘scattered’ around PH",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTNJRWc4M3RUb1ppMWh1cFl3akgtVXlhVEN6emtERlFhQkNYZHpEWmRTZnNNOGlZVW9HaXBwanhDaXlwb1RTUnJkZzA3MVc4TWJHcDdZR01QenU0WUZXYlZfWTAwNnBhaUpvZkJoRVdPMlJMNW4tTnRWZnhzNmJYNTZhWUdzYmdYNFVxbTlsUFNMYVRrYTRFQ1lkTTdnSXRSQUZxSXI3c3VkZw?oc=5",
-            "publisher": "Rappler"
+            "title": "Hegseth to visit Philippines for ASEAN defense ministers' meeting — South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0pXck1KdzJEQnBsWU1CZm0zdDEyTHFKS0ZIRlZsbmRuUXNNcW9yT3lBSjVCSEIyNDdod21EMFBHQktUVmtRX0pZYWFad1EwV0VWaEt2SGNZalRFZ01VMFc2M2p5R1Y4ODRxSDlMOHprYjU2N3VWSzAtODIwWW9XVWlfaFdzMTE1ZXhfMlV2QlBBcjlzSU01WXZ6U3BwUjhiZU5oaFEwQThRbGRNQUFWVDYzLXNNbkdDWjBDRUhlRDY?oc=5",
+            "publisher": "UA.NEWS"
+          },
+          {
+            "title": "Pentagon chief Hegseth to visit Philippines to meet US allies at Asean events",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRXJVa0pocC1DaUFwOWFLamo2VjR4bExFUW8yajh1UWVhQjVFWi1GZjF6TWt1S0NOeXJvTWxxSGptd040el84WWpHSW1xeFRETGJrbFZTS2l2eVNJdXZkY0hHaHR3ZDNhRWZXUnpYa0M5R1g1ZGVDQ1hXWl80MEJoRTNaVkZRSHNKdDRUeG5HdGJFXzVYM2VYVlFzN2dZb3oweTBhMHBIbGJMMzdBZ3d4TDgwV3BSWkw1Q1hpbHM3S0t5b1ZT0gHEAUFVX3lxTE9FclVrSmhwLUNpQXA5YUtqajZWNHhsTEVRbzJqOHVRZWFCNUVaLUZmMXpNa3VLQ055cm9NbHFIam13TjR6XzhZakdJbXF4VERMYmtsVlNLaXZ5U0l1dmRjSEdodHdkM2FFZldSelhrQzlHWDVkZUNDWFdaXzQwQmhFM1pWRlFIc0p0NFR4bkd0YkVfNVgzZVhWUXM3Z1lvejB5MGEwcEhsYkwzN0Fnd3hMODBXcFJaTDVDWGlsczdLS3lvVlM?oc=5",
+            "publisher": "South China Morning Post"
           }
         ]
       }
