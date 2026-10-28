@@ -2772,6 +2772,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T19:41:44.979Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 94 min ago"
+    },
+    {
       "at": "2026-10-28T19:07:29.798Z",
       "screened": 0,
       "accepted": [],
@@ -4263,113 +4272,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 4 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-27T06:04:59.755Z",
-      "screened": 123,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Comey faces third set of federal charges",
-          "reason": "It is a domestic court case with no clear cross-border effect.",
-          "headlines": 5,
-          "publishers": 3
-        },
-        {
-          "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-          "reason": "It is an accusation about a single incident, and the headline names no concrete cross-border channel or state response.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Moroccan police intercept migrant swimming to Ceuta",
-          "reason": "It is a single minor border incident with no policy change.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Routine Russia-Ukraine strikes and corridor announcement",
-          "reason": "These are routine battlefield events that decide nothing new.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "UK sanctions Sudanese commanders; RSF drones cut power",
-          "reason": "The sanctions on named individuals are symbolic and the drone strikes are local in effect, with no clear channel beyond Sudan.",
-          "headlines": 2,
-          "publishers": 1
-        },
-        {
-          "title": "Trump suggests renaming the Atlantic the 'American Ocean'",
-          "reason": "It is an offhand remark that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Merz heads to Asia",
-          "reason": "It is a routine visit with no decision reported.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Drilling platform sinks off Gabon",
-          "reason": "It is an accident with no reported effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Ethiopia massacre, Syria university ban, Orbán UN bid, analysis and explainers",
-          "reason": "These are domestic events, reports, analysis or explainers without a clear cross-border channel.",
-          "headlines": 6,
-          "publishers": 5
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran war: stalled US-Iran talks, ship ablaze off Iraq, heating oil costs",
-          "reason": "These are further developments in the US-Israel war on Iran and its energy-price effects, which the map already covers.",
-          "headlines": 4,
-          "publishers": 4,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Court blocks DoJ bid over California mail-in ballots",
-          "reason": "It is part of the US midterm election story already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'; Brazilian stocks plunge",
-          "reason": "Both headlines are reactions to the Brazilian election, which the run-off event already covers.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "International delegates barred from entering West Bank",
-          "reason": "The entry ban belongs to the Israeli West Bank lockdown already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "French student unions call for continued mobilisation",
-          "reason": "It is a further development in France's autumn unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Ukraine disputes Musk's Starlink claim",
-          "reason": "It is the same Starlink dispute already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

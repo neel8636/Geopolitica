@@ -492,9 +492,9 @@
     "headlines": []
   },
   "ukraine-starlink-restrictions-2026": {
-    "at": "2026-10-27T18:17:46.711Z",
+    "at": "2026-10-28T19:41:44.979Z",
     "by": "pipeline",
-    "hash": "ozkoje",
+    "hash": "1c1tytv",
     "tags": [],
     "headlines": []
   },
@@ -541,14 +541,14 @@
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-28T13:07:07.025Z",
+    "at": "2026-10-28T19:41:44.979Z",
     "by": "pipeline",
-    "hash": "bfx06d",
+    "hash": "13su2s5",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
         "effect": "delay",
-        "likelihood": 0.25,
+        "likelihood": 0.3,
         "delayDays": [
           1,
           2
@@ -557,11 +557,12 @@
           0,
           3
         ],
-        "why": "Renewed rain on 27 Oct closed roads in Istanbul and pushed city congestion to about 80%, following the 15 Oct floods, so trucks collecting or delivering containers at Ambarlı may be delayed.",
-        "action": "Ask your forwarder or haulier to confirm Ambarlı gate and trucking schedules, and add 2 days of buffer to Istanbul-origin shipments that must meet a vessel cut-off in the next two weeks.",
+        "why": "Roads were closed and ferries cancelled in Istanbul on 27 Oct 2026 amid a new flood warning, after the 15 Oct floods, so truck access to Ambarlı port terminals may be slowed.",
+        "action": "Ask your forwarder to confirm truck pickup and gate-in slots at Ambarlı for the next two weeks, and add 2 days of buffer to Istanbul-origin casting and component shipments.",
         "sources": [
           0,
-          1
+          1,
+          2
         ]
       }
     ],
@@ -573,10 +574,16 @@
         "published": "2026-10-27T19:00:00.000Z"
       },
       {
-        "title": "Istanbul congestion hits 80% as rain slows morning commute",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTl0RXRLdmNHWUxtZ3BwRmpaVVVGa3diQy1BRUpPcDU1RTVQbHJ6MFk4T2VEXzRneGN3MUNGd1UxWm50SEFPZ3IxdDZGNnRNbzlmMGlvbzBibUpIUXltTGFHaDlMdnhPQ2NOalVLWVItUnlWSmpObXdOYWZyTjduRFdrSGcyYzk0cGE0d05YTHhhRGM?oc=5",
-        "publisher": "Türkiye Today",
-        "published": "2026-10-27T07:09:21.000Z"
+        "title": "Istanbul braces for new round of flooding",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXprYzgxVFkya1hhSjJsUEV5bU9MVWEza1pVQXJ0UC14eUgyeDBnZlNTbmswNk9UNjBtSDNaVGpqNGEwVF9pYWhfMDJieksyQk45SGpfNG05TGhJaEpUUzB4X3o1ME1jRGNVUXpzX2ZIbG9uTHdwZ19FQXhnLTlJZFNPc0xmQktXRFE?oc=5",
+        "publisher": "Hürriyet Daily News",
+        "published": "2026-10-26T06:06:16.000Z"
+      },
+      {
+        "title": "New flood warning from Meteorology for Istanbul! Pay attention to Tuesday",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHBiSWhmbHY1T09sM2pfb2Fkb094aTQ4X1pDbWNmc1hMSm1XNUEtdEtVRkxtWVBaNFQ1a0RpWmhmYnk1aVQ3N1dEMms3S1A1aEYzaWxzaVhwR0k2WWdsVFM1REl4b1hzbzRHSnNIX0YzNHpxR2pWYjJVRldveUtZclNDLW1LMTQ?oc=5",
+        "publisher": "Haberler.com",
+        "published": "2026-10-26T04:03:10.000Z"
       }
     ]
   },
