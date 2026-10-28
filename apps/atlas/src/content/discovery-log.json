@@ -2532,6 +2532,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T01:06:20.714Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 5 new uncovered headlines"
+    },
+    {
       "at": "2026-10-28T00:06:19.859Z",
       "screened": 132,
       "accepted": [],
@@ -4017,100 +4026,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 6 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-26T10:03:56.712Z",
-      "screened": 86,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Russia to open humanitarian corridor to Ukrainian town",
-          "reason": "It is a local humanitarian measure with no clear cross-border channel or policy shift.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget previews and reactions",
-          "reason": "These are previews and commentary on domestic tax and spending with no clear channel into another country.",
-          "headlines": 9,
-          "publishers": 2
-        },
-        {
-          "title": "Jordan arrests suspects in church attack",
-          "reason": "It is a crime and security case with no stated effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK poised to miss aid spending target",
-          "reason": "It is a forecast about domestic budget policy with no decision or date and no clear ripple abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Turkey-Libya maritime deal and Greece",
-          "reason": "The headline reads as explainer or analysis, with no dated decision reported.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Kim Jong-un crosses new bridge into China",
-          "reason": "The headline reports a visit but no decision or trade or policy change.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Dakar Rally, SoftBank, Audi and Olympic event items",
-          "reason": "These are sport or company news with no state or policy angle that moves goods, money or people across borders.",
-          "headlines": 4,
-          "publishers": 3
-        },
-        {
-          "title": "Assorted political items (China plenum, UN race, Gabon, Haiti hostages, California voter rolls)",
-          "reason": "These are routine, local or procedural items with no clear cross-border ripple.",
-          "headlines": 5,
-          "publishers": 3
-        }
-      ],
-      "existing": [
-        {
-          "title": "Ukraine disputes Musk's Starlink claim",
-          "reason": "This is the continuing Starlink restrictions dispute already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "UK heating oil costs more than double",
-          "reason": "The price spike is a knock-on effect of the Gulf energy shock already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Italian youth protests in Rome and Milan",
-          "reason": "These are further clashes in the Italian unrest already mapped.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "Deadly strike on a Russian factory",
-          "reason": "This is part of the Russia-Ukraine war that the summit diplomacy event sits in.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-summit-diplomacy"
-        },
-        {
-          "title": "Social video marks turning point in Brazil's election",
-          "reason": "It covers the Brazil run-off already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
