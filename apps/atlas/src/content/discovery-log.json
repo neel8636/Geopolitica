@@ -141,10 +141,6 @@
       "at": "2026-10-26T00:03:19.315Z",
       "verdict": "reject"
     },
-    "dfe2a38c3123": {
-      "at": "2026-10-24T22:01:56.455Z",
-      "verdict": "accept"
-    },
     "31cf0bf073cd": {
       "at": "2026-10-25T02:02:15.770Z",
       "verdict": "existing"
@@ -156,10 +152,6 @@
     "226d32c9d996": {
       "at": "2026-10-26T13:04:15.829Z",
       "verdict": "reject"
-    },
-    "845e130d11b8": {
-      "at": "2026-10-24T22:01:56.455Z",
-      "verdict": "accept"
     },
     "8672db372927": {
       "at": "2026-10-25T14:16:07.161Z",
@@ -200,22 +192,6 @@
     "b74c30856b74": {
       "at": "2026-10-25T07:02:23.740Z",
       "verdict": "reject"
-    },
-    "67de9f3756c8": {
-      "at": "2026-10-24T22:01:56.455Z",
-      "verdict": "no story"
-    },
-    "87d1339859c3": {
-      "at": "2026-10-24T22:01:56.455Z",
-      "verdict": "no story"
-    },
-    "5c65300146f1": {
-      "at": "2026-10-24T22:01:56.455Z",
-      "verdict": "no story"
-    },
-    "af33ac8ca7f3": {
-      "at": "2026-10-24T22:01:56.455Z",
-      "verdict": "no story"
     },
     "1b257d72b178": {
       "at": "2026-10-25T17:43:18.721Z",
@@ -2884,6 +2860,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T22:07:38.896Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 60 min ago"
+    },
+    {
       "at": "2026-10-28T21:07:45.242Z",
       "screened": 120,
       "accepted": [
@@ -4449,15 +4434,6 @@
       ],
       "retired": [],
       "skipped": ""
-    },
-    {
-      "at": "2026-10-27T08:05:14.287Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 120 min ago"
     }
   ]
 }

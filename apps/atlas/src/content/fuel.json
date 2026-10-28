@@ -271,44 +271,25 @@
     ]
   },
   "france-debt-stress": {
-    "at": "2026-10-28T09:06:50.199Z",
+    "at": "2026-10-28T22:07:38.896Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "400-000-march-in-french-protests",
-        "title": "400,000 march in French protests",
-        "when": "2026-10-26",
-        "place": "France",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "Around 400,000 people marched in new protests across France, adding to political uncertainty that is rattling bond markets.",
-        "via": "political uncertainty premium",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "France Protests Return: 400,000 March As Debt Crisis And Political Uncertainty Rattle Markets",
-            "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ0dVSEdrWmZlbHhsRHNOdW5fU2NBRHR3NERLNHJNTXhHb1RqOGhxU0tmVktOY3ZvX2RXYm1ZZm84WGFLVGtBcF9aYV9nNDBZVDJxUmFsazJ6WGdnUVV0eU5PU016SWdiSmNNMlRqMlEzdHltVHAtYlduclM0anFFZ2FFM0VBSWpzenExRXB2OG5VbEw3cUV1OXd0aU1oUjlxQTNyaEx3dEUyUFZMdVRyb1g4b3RIOHVBd1B2NjNqWXVnd0FxY3hSUnNVZVpGU2FONzJERE1NYjhjWkNKWTdRYTBLbVV4bjdnc1p1MmRCRkh2WFMxenJZUzBZaG9XdG1zaGFJ0gGIAkFVX3lxTFAxa21mVXowdXhHWnJSSEFKZTNWRmM3TW1qdXpmX29qY3V5TFFOT2JTbnNrcmpaZEhwYVVPajNLNG44cnVRVG9tNEMyNXQ1VUd6eF9hdzZ4WUplWTcybmF6bTg3S0NYMUVlWjhQaG5QRi1la0I5S1d5V01kZms1UFJ5OGhlRGhRc1hyOUVvVXdzZmNlR1FqNDdrRkd0U2RTdFBidEdmbFplM2pKOHY4MVc3SExMT2pNUzNjeXlTSDB4bnU2VGFZNGpPSko0MjJsYm1sdE1icUpiVEdTQUlLVVkxQXgwMllkYzJubDdLeU9QNUl3anBMUHFYT29yN0RYRHh3MXRvNVZOTw?oc=5",
-            "publisher": "The Times of India"
-          }
-        ]
-      },
-      {
-        "id": "finance-minister-rules-out-extra-spending",
-        "title": "Finance minister rules out extra spending",
-        "when": "2026-10-27",
+        "id": "finance-minister-vows-no-extra-spending",
+        "title": "Finance minister vows no extra spending",
+        "when": "2026-10-28",
         "place": "Paris",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "The finance minister said France must cure itself without more spending, as the government tries to appease protesters without widening the deficit.",
-        "via": "limits on deficit relief",
+        "lat": 48.87,
+        "lon": 2.33,
+        "what": "Finance minister Lescure says France is prepared to use any tool to secure its budget and must cure itself without more spending.",
+        "via": "deficit-control pledge",
         "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "France seeks to appease protesters without widening deficit",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2RoMXBhZlVTbVAxM1Y5VlJ0YVZzekFyR25FTEFINVlhV2dEazVtRmp1TjRhMEFleHB3Ylhla3B0STBZR200cFl0MVVpbm9tQkFMNTBLQnlrOGY2Z3FjelJDWnF3dGJibllOSlJzbkhHQlRRVWVCVC1WaEJfNkU2Q00xYklNeFZTMkNpdUhoZzA?oc=5",
-            "publisher": "Traders Union"
+            "title": "France’s Lescure Says Prepared to Use Any Tool to Ensure Budget",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUdQdHRkVW40eGJfNlRxeEJCLXF5bkJoX1JVanV1c1ZGdnJ6OVNqMGVPVEFYODlnU0Y5Y3FMUVFNT3pTVThSZy1aZ1gtNUpOazU0NldxSlF0c2JxcEVXZWo3Q0djNXJNa3pfNGpPXzRRVlcwWFcyRl9TcHhnN3VHUkJBOGVGYUk2QW9YOUlWSFVjeW9XbjZDYWhXTm5ENXZUM0RmM2QwU2RuZXk1c0lydzlRa24?oc=5",
+            "publisher": "Bloomberg.com"
           },
           {
             "title": "France must ‘cure ourselves’ without more spending, says finance minister",
@@ -318,17 +299,41 @@
         ]
       },
       {
-        "id": "us-treasury-yields-near-5",
-        "title": "US Treasury yields near 5%",
+        "id": "government-tries-to-calm-protesters-without-widening-deficit",
+        "title": "Government tries to calm protesters without widening deficit",
         "when": "2026-10-27",
+        "place": "Paris",
+        "lat": 48.87,
+        "lon": 2.33,
+        "what": "France seeks to appease protesters while keeping the deficit from growing, limiting how much it can concede on spending.",
+        "via": "protest pressure on budget",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "France seeks to appease protesters without widening deficit",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2RoMXBhZlVTbVAxM1Y5VlJ0YVZzekFyR25FTEFINVlhV2dEazVtRmp1TjRhMEFleHB3Ylhla3B0STBZR200cFl0MVVpbm9tQkFMNTBLQnlrOGY2Z3FjelJDWnF3dGJibllOSlJzbkhHQlRRVWVCVC1WaEJfNkU2Q00xYklNeFZTMkNpdUhoZzA?oc=5",
+            "publisher": "Traders Union"
+          }
+        ]
+      },
+      {
+        "id": "us-treasury-yields-hover-near-5",
+        "title": "US Treasury yields hover near 5%",
+        "when": "2026-10-28",
         "place": "Washington",
         "lat": 38.9,
         "lon": -77.04,
-        "what": "US Treasury yields rose close to 5%, keeping investors on edge about French debt risks even as bond market tensions eased.",
-        "via": "higher global yield benchmark",
+        "what": "Treasury yields stay just below 5%, and investors remain on edge over France's debt risks as global borrowing costs stay high.",
+        "via": "higher global yields",
         "aspect": "markets",
         "flow": "into",
         "sources": [
+          {
+            "title": "U.S. Treasury yields hover just below 5% as France enjoys a temporary Moody’s reprieve",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUpmekxmSlM5eXZJRlpmWlpxaTVhX3NlYW5RUlhtMVNBLVJxZ0h1MmZPb1U5dzJsXzNRSzJqc3ZFNXg5VXRWYWRNQzkxRU90QUhMYnpkWld2OFo0UHRnQ2V6VmRpbGstbS1Dc21mV0pseEdtMU54X09XSmlBVUJPRTBaUGZMeUtCcGxrQmd1aUVCTURTYmZkb2Etek05RmlGVGJmMmZPTUZSRTZjSkhV?oc=5",
+            "publisher": "Capmad"
+          },
           {
             "title": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
             "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWI2aGNTNm1iOThvTFN2QlFpTVdNVnhJanR5VjRCMTNpRVdab3ROb2lUbHdFZ1h0SDdFVF8td0QwZFloREpnQ3hzT0QwQ0dOeEN2dHNfaTRxMkRwcjEyNU12SHZ6REsybTFWcWxyN1hia3o5N0lYdURsZnRGSE5VX2NFR2tacU0tektoeVpNdWNwcjMzS2JLNnJSYjZONnY3UWVPYkdfR0d4OWxuZVFiekVIemxCeTdZdkZYNHJQYmdjLW0ycXBwTGdLVQ?oc=5",
@@ -1101,25 +1106,25 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-28T10:06:52.439Z",
+    "at": "2026-10-28T22:07:38.896Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "online-campaign-against-rising-living-costs",
-        "title": "Online campaign against rising living costs",
-        "when": "2026-10-26",
+        "id": "rising-prices-and-fading-hopes-across-italy",
+        "title": "Rising prices and fading hopes across Italy",
+        "when": "ongoing",
         "place": "Italy",
         "lat": 42.5,
         "lon": 12.5,
-        "what": "A Moroccan journalist is suspected of being behind a social media movement protesting Italy's rising cost of living, which helped mobilise people for the unrest.",
-        "via": "online mobilisation over prices",
+        "what": "The New York Times traces the protests to rising prices and sinking hopes, especially among young Italians.",
+        "via": "cost-of-living anger",
         "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "Moroccan journalist suspected of being behind social media movement against Italy’s rising cost of living",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR29wOHZTV21fY2pLdVF3YjVfcS1TbEZ4cWRyQW9NTU0tUXlLYU5nLWF6OE0yOWpFMGZlSkdrcFIyTmlaSjZUeS1EX3EyRmRiSWlnT1FCZURDTkNLZ2tXQnZIVUppLXNCXzk4R1ROeHJEU2x1eEZMUnMzS2FvRlpkRnNiQkhibzlYdUpRd0xzOUwxS0pzT0hWcElEbw?oc=5",
-            "publisher": "Yabiladi.com"
+            "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0xOZFotanU1bXQ5Q3ZWVElDT2pKd3FZZ0I2X3B4SHFQUmZjRWVuaGE0M2lEbk1vRFdBcldjekw2SHdMZEIxcnR0M21iemEtOGthZUwtSGhIS2xvM1FEREo4SVJQMkM5c3FtWWlBU3cyTGlGTml3c25sbXVQYWVITmd3QnJ4VEFoTEtzMVRkMHhHSF9mc3V3?oc=5",
+            "publisher": "The New York Times"
           }
         ]
       },
@@ -1130,8 +1135,8 @@
         "place": "Milan",
         "lat": 45.46,
         "lon": 9.19,
-        "what": "Thousands of young people marched in Milan, Rome and other cities over education, corruption, anti-war causes and rising costs, widening the protest base.",
-        "via": "broad youth anger",
+        "what": "Thousands of young people marched in several Italian cities including Milan and Rome, over education, corruption, anti-war causes and rising costs.",
+        "via": "youth street mobilisation",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -1149,8 +1154,8 @@
         "place": "Milan",
         "lat": 45.46,
         "lon": 9.19,
-        "what": "Italian police discovered chat groups linked to the Milan riots, pointing to coordination among participants before and during the unrest.",
-        "via": "organised coordination of rioters",
+        "what": "Italian police discovered chat groups linked to the Milan riots, where participants reportedly discussed beating police and torching government buildings.",
+        "via": "organised violent planning",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -1158,6 +1163,55 @@
             "title": "Italian police discover chat groups linked to Milan riots",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSVpCYmkyeF84eGFRQ2NfdDJaSHpTVGxwb3pFV2Q3U1o2TEFnMVdRLVEwd1cxSXFDZXhDbU5vUzlGc0U0TVRkY1dsZklKcXE2RVV1ZXdfV0lhajZsSFpEd2xPYjJzNnNBaldxT01nUUlQQ2htcXZOYlVUQktxM0ZPNFg5R2lXempfZ3hwUUwtaGJ4VUZRRE54a0kzdk1jcE1kSjdDa2tkbGZCXy1hVEpMNW14eWUydDRibUpKWklR?oc=5",
             "publisher": "Euronews.com"
+          },
+          {
+            "title": "Rioters Discussed Beating Cops, Torching Government Buildings In Secret Chats Featuring Islamic Academic",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGkyX3c0a1J5OVB5cnU2M1VYTEQ4anduREFRRFA4azNhempXbHJjRzlMLXVybmZrYm1ENnNxRjJ2TWw1TF9WLWxLSmtldllrVE92dk1MRnFKNkZLOXZsd192c2RPQzU3TDFhbWtfSjU2RElqeXczckRqU1JHeEgyeG1HODlYbjN3RWlRZzFfblE?oc=5",
+            "publisher": "The Daily Caller"
+          }
+        ]
+      },
+      {
+        "id": "judge-frees-milan-protest-suspect-meloni-objects",
+        "title": "Judge frees Milan protest suspect, Meloni objects",
+        "when": "2026-10-28",
+        "place": "Milan",
+        "lat": 45.46,
+        "lon": 9.19,
+        "what": "A Milan judge released Youssef Siher, an alleged protest organizer arrested after the riot, and Meloni called the release shameful.",
+        "via": "political clash over policing",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Italian PM slams ‘shameful’ release of alleged protest organizer",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZvbTZOVjlTQUNhV1VYVWdGY2VkekpPLVhJTEhpYld6MzB1Z0hzVG1aX0s2R2JGVUVOYm9ka2dNMXFzQkVuMW5DckVSbVZXa0FUMU5mUkpLaXg3djhGa3lidXlxSWxUa0NQenV5clZVbXJKemhIcHRJUzBhNjdHTjg1TmhWcnYydmJNOE1sN0RaT3NWMkZ0V2dEeGVZQVU3R25z?oc=5",
+            "publisher": "Arab News"
+          },
+          {
+            "title": "Italian judge frees protest suspect, prompting Meloni fury",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak1XQ3I5Y25ZUUdWTlFEbnJYcTFNRFgxTmYzRXJzVFhkYzNpdHk1NUVyMzlVTzlLOGxhX0Z1QlFMNW45MEFQNlRfS3lEenZtUllHMDQtMnRWZy1oY3NHQXVxYmh6UzA0ZUluSXR2bE51RFFzeF9mUXZPR0JpY2ttdWkyRktiNktZb3ZSb3E1d0dLSkVOSkxKSGc0VDNWX25yNm41WFVyaDl3N1hwYmJKeGk5dGY?oc=5",
+            "publisher": "Reuters"
+          },
+          {
+            "title": "Italian Judge Releases Youssef Siher After Milan Riot Arrest",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nUEJjTkVDVG5VaS16R0NHWElWaTRVdlZVVWFBb0pWWUF0SmVUUXp6ZXFZR3dteEFKYUFsRjRDbUZzMXRuakdiZnNxNkJHcE9NaVBxNDhyWXRjMTU5UmlKR2VCckFlZVdnMy1iNGRlZ2Z6R28?oc=5",
+            "publisher": "SuaraGarut.ID"
+          },
+          {
+            "title": "Italian Judge Frees Milan Protest Suspect as Meloni Objects",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MU01POFNUU201M1lnMkJqSEs0NmlSc1dNR21OWXRUTHBLQ2ttSHhpdHJZQllGV2d5OVU1M2tuaDFpd0R3OTJwQzBHcHRaR1ZfZmpORmtKNENRa0ItTklJa2UwVm1oUFlWdmRfajQ1cnpTX212S1JwT0ZTNm1OQQ?oc=5",
+            "publisher": "Cirebon Times"
+          },
+          {
+            "title": "Italian Judge Frees Youssef Siher in Milan Protest Case",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0UHRSZmI4MEo1OFRsdUEyM2tBMENUaS00Yks5U1BNRW4yaF9sTUhpZkt0ME1KdlZNZXpSMDRmaVNhMjFtbUNOV25CRXd3aURYZFAyUGRvUkdHbDd0QXB3LXRSa2NSSFlFSjJ2M1B2a2RFUQ?oc=5",
+            "publisher": "Demokratis.co.id"
+          },
+          {
+            "title": "Youssef Siher remains silent before a judge in Milan ᐉ News from Fakti.bg - World",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTRubnpWdGU2SVBOVEZRUlVUYUI0blo2N2J0QUt0MFRnRzV5OUJoZWFpbFJDMW54NU9jbmhSbnZ4VDBGQ2lnbHNPaEstRFk5bTIxYmNDdzZleDZPTGIzM19tVzY4VjNNYlhXMEpFTEdhR3NCNmlIQXFTVWNFTUVYQjVNR3pCMFhMMkdpWUhBdldUaUJG?oc=5",
+            "publisher": "Fakti.bg"
           }
         ]
       }
@@ -3124,73 +3178,54 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-28T10:06:52.439Z",
+    "at": "2026-10-28T22:07:38.896Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "cia-seeks-regime-insiders-willing-to-defect",
-        "title": "CIA seeks regime insiders willing to defect",
-        "when": "2026-10-26",
-        "place": "Havana, Cuba",
-        "lat": 23.13,
-        "lon": -82.38,
-        "what": "The Miami Herald reports the CIA is looking for insiders within the Cuban government who want to break away from communism, the effort Rubio's appeal publicly advertises.",
-        "via": "CIA outreach to insiders",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "CIA is looking for regime insiders in Cuba who want to break away from communism",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNpTVhtenNVME5HUFJnd2xtcmVNWThQOUw5R2VGTVZ1clBndmd0Ti00N2JkNm1VVUdRQU00VklpaGZCWV9KY3ZSdmhtbHBDN3BJZ2NIYXR5andMNWdnRlB6Zm1OSldOZU1HSm5hWHpHVVZfTlNiX3hjODN6ZFlXRW9KZlU4MWZqdnRZck9iOWrSAZABQVVfeXFMUDMwcU9qc3JQcE5GaDJ0Rkc0cEVUNF9ET19qSTNXdUZtYjRBa0R1NTdQbnFuTDRqOU9reEVpal9TTkNLVXdUNDlRdnRyN3BEU1BSNkFpbm5LUldWVFZTUFQ5Rm05RFE0cHpDUUNpSnp0V1J5TmwxTlJVUGRhc01RTDJYVGpsX2x2Z01MeVd4cEJH?oc=5",
-            "publisher": "Miami Herald"
-          },
-          {
-            "title": "Rubio uses social media to urge Cuban turncoats to work with CIA",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXk5aWZsby1LVFAyZlNXUFZ2Y190WjVsVjUyUmZMMmZEMXdPUTBXdHpNbDBnMWFXaGk2Ym5DYVhGLTJpSTBKd29kMm1IeUh3cTk5TTJOY0RSWFByWE9kdHMzOGowX1ZNUVowZEVHWV91VHJFc2o1Zk43bWg4X2tJUFZqcw?oc=5",
-            "publisher": "MS NOW"
-          }
-        ]
-      },
-      {
-        "id": "trump-hints-at-cuba-as-next-target",
-        "title": "Trump hints at Cuba as next target",
-        "when": "2026-10-26",
-        "place": "Havana, Cuba",
-        "lat": 23.13,
-        "lon": -82.38,
-        "what": "Trump threatened a Cuba 'stopover' after Iran, and one outlet read this as a clue that Cuba could be his next military target.",
-        "via": "threat of US military action",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Donald Trump Just Dropped a Big Clue That His Next Military Target Might End Up Being Cuba",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejlET3BwNGZ2STJIcWFRaktuclJLUHl2Z19sWm9namlHZkdLZldBNklBc0VuMWpNZWZtVTZPNmszQS1vVER6V1lpSEllOXVhRXFTU2hTWEEtWXpJb0tHVGl6WEZlX0ZDQ2xVRzduRE9XZHc5TXZuY3ZuUzJZbjZCV3VXVENBVkNIQkJfc0ZGNXJaLXcxb21vZGZKS1lweHdlVE5zbFM2UUpuVzdqX1dmdDFOQ3QtZnJHODBPaE1CaVU5ZUFNRHc?oc=5",
-            "publisher": "National Security Journal"
-          },
-          {
-            "title": "Trump Threatens Cuba ‘Stopover’ After Iran as Rubio Urges Collaborators To Work With CIA",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTENQN0J1bE1mcHViQXZES1FBMHlOWmtOV09CbWlHVE42OEt5WHVvOUdFRmZxd0JBMDlRVTdwNU1kSnZCbnFpUzY1T1l4NXdOUllQUmVNcFpQTGlHYjF2YkNsRUJTTVVuak9YamllbG5SU01DMXpoU3hhaXFMa2owMDREdWFvaElncGxfNC13SC14QnpndGtqcUdqTm43aVA1U0JkZ3dEQnNjeWYyN2ExdGxia3o?oc=5",
-            "publisher": "Orinoco Tribune"
-          }
-        ]
-      },
-      {
-        "id": "us-ramps-up-pressure-before-unga-vote",
-        "title": "US ramps up pressure before UNGA vote",
-        "when": "2026-10-26",
-        "place": "New York, United States",
-        "lat": 40.75,
-        "lon": -73.97,
-        "what": "Washington escalated its pressure campaign on Cuba ahead of an upcoming UN General Assembly vote, setting the diplomatic backdrop for Rubio's appeal.",
-        "via": "diplomatic pressure before vote",
+        "id": "rubio-says-cuba-needs-very-drastic-change",
+        "title": "Rubio says Cuba needs 'very drastic' change",
+        "when": "2026-10-27",
+        "place": "Washington, DC",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "Rubio said Cuba needs a 'very drastic change', set it apart from Venezuela, and dodged questions about his appeal for Cubans to work with the CIA.",
+        "via": "harder US stance on Havana",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "US escalates pressure on Cuba ahead of UNGA vote",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUJVTFBHMmlqcWpZY2FfcWdmMW1DZU9IUUdfQ0FjbGQtMzd6dWdwemhUQlIyaWJrVkZabzJmem9VOUhhVkhwT2h0cVVscmVWT3c1YWU1UHpEQmRybTBTS0hwMGRldnlWRi1TTjlpcTRWTGtGMnM3ZzMyRDl6eHVvT2lWUjM0SnROTTg0?oc=5",
-            "publisher": "SABC News"
+            "title": "Marco Rubio Says Cuba Needs a ‘Very Drastic’ Change and Dodges Questions About His CIA Appeal",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBleFFhalhWOHhSRmJQYjhkNWIxNUVHM1VUMnQzcmRQMURXdUkyMTVaN1c2QlBqOTRoNnNDWFdnQjBnSEtzaHRxMWtVOElqdHcyQXY3UV9fNk5xODFNMFNpODFiVElPVEFYR092Z1BzWEQ0Y0FobFlHVw?oc=5",
+            "publisher": "Cubanos por el Mundo"
+          },
+          {
+            "title": "Marco Rubio Calls for Drastic Shift in Cuba, Highlights Differences with Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAta0pTQUdKN3BzaDJ2Tm8wdjZ4TWVKLWVyRnRjYmV5SmJKNTljYWg1MzdkRVRHMW9lS2NZWXRld20wazVPZVlCeGhqaTVVX1lvQUY4Y0Exbl8?oc=5",
+            "publisher": "CubaHeadlines"
+          },
+          {
+            "title": "Rubio states that Cuba needs a \"very drastic change\" and the difference from Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0FNcl9NNjZXN3E3cmNMVklBTWZseEttWU11QjVmVVVvU3hfa3Eya2pGa0JFOUk2YkhIUlZ3Mm9wM0Nlc2VRR25UR1g5SDByenRaSFYwWmdJZmNMT05TQmdfeXVHdERRQ2FVZllzb0tHbF9ab1JBUVl1ZVhNd1A5cUh0bEstajMyY0t1VE1hMERtbW90TS1CV3BIaTdPSm1Cck1FQUNHZFlucmp2NXRxbzR3UU9vZUtxaXJ3?oc=5",
+            "publisher": "CiberCuba"
+          }
+        ]
+      },
+      {
+        "id": "un-backing-for-ending-cuba-embargo-hits-low",
+        "title": "UN backing for ending Cuba embargo hits low",
+        "when": "2026-10-28",
+        "place": "New York",
+        "lat": 40.75,
+        "lon": -73.97,
+        "what": "Support for the UN call to end the US embargo on Cuba fell to its lowest level in 20 years.",
+        "via": "weaker global opposition to embargo",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+            "publisher": "UN News"
           }
         ]
       }
