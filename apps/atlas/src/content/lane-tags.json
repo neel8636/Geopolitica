@@ -235,23 +235,23 @@
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "4ys9pr",
+    "hash": "1g4bw73",
     "tags": [],
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "sur7pe",
+    "hash": "18wqf5q",
     "tags": [],
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "15rwrp6",
+    "hash": "w0i2kj",
     "tags": [],
     "headlines": []
   },
@@ -340,44 +340,18 @@
     "headlines": []
   },
   "italy-election-2027": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "1mwp26m",
+    "hash": "10pclvw",
     "tags": [],
     "headlines": []
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "1lisu8q",
-    "tags": [
-      {
-        "point": "VALENCIA",
-        "effect": "delay",
-        "likelihood": 0.3,
-        "delayDays": [
-          1,
-          2
-        ],
-        "costPct": [
-          0,
-          3
-        ],
-        "why": "Spanish unions are mobilising a general strike for 11 November 2026 over housing and wages (headline 19), and a general strike can reduce stevedoring, customs and trucking staffing at Valencia for a day or two, though the exact dates are still unconfirmed.",
-        "action": "Ask your forwarder to move gate-in, pickup and customs clearance for Valencia cargo away from 10-12 November, and hold 2 days of buffer stock for deliveries due that week.",
-        "sources": [
-          0
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "General strike for affordable housing: Spain’s trade unions mobilize for November 11",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1JfWTVKaHlUMnkyRThfa1JJbm1LZG15b09hZ0pNZnBycE9VQkhfd1VJYlRsLTh3Wm0xMkpWaDRlTU9ZUVhmeTR0VzdVT3ltNWZGbDZZSk95RFlLbjBtTzBXcDNxSWtTclRQcXozaEhXX0pDam1zeTZLWmxxb1NTMFJTdVJmS3lha01EczJYM3pGWG12cGxVV09ZaTFCSGF6dmJiZkhycUU0UGYzdjFocTdqR0dmTzQ?oc=5",
-        "publisher": "Spanien Press",
-        "published": "2026-10-27T06:23:24.000Z"
-      }
-    ]
+    "hash": "1rpnnc4",
+    "tags": [],
+    "headlines": []
   },
   "eu-budget-2028-2034": {
     "at": "2026-10-28T18:07:31.962Z",
@@ -387,16 +361,16 @@
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-28T14:15:29.756Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "1iit1ni",
+    "hash": "1i24f9",
     "tags": [],
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T21:07:45.242Z",
     "by": "pipeline",
-    "hash": "epbwms",
+    "hash": "ikpl9r",
     "tags": [],
     "headlines": []
   },
@@ -605,6 +579,13 @@
     "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "hash": "12qtnki",
+    "tags": [],
+    "headlines": []
+  },
+  "fed-holds-rates-inflation-2026": {
+    "at": "2026-10-28T21:07:45.242Z",
+    "by": "pipeline",
+    "hash": "1afnnzq",
     "tags": [],
     "headlines": []
   }

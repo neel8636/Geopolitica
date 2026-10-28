@@ -707,6 +707,91 @@
         "headlines": 5,
         "publishers": 3
       }
+    },
+    {
+      "id": "fed-holds-rates-inflation-2026",
+      "title": "Fed holds rates despite inflation; Bessent open to another hike",
+      "type": "economy",
+      "date": "2026-10-28",
+      "status": "developing",
+      "region": "United States",
+      "lat": 38.89,
+      "lon": -77.04,
+      "countries": [
+        "US"
+      ],
+      "summary": "The US Federal Reserve left interest rates unchanged despite concerns over inflation, and Treasury Secretary Bessent said it would not necessarily be a mistake if the Fed hiked again. The Fed's stance moves the dollar and global capital flows, so a hawkish tilt weighs on other economies, including Japan, Germany and Canada.",
+      "severity": 3,
+      "keywords": [
+        "fed",
+        "federal reserve",
+        "interest rates",
+        "rate hike",
+        "bessent",
+        "inflation",
+        "fomc",
+        "powell",
+        "treasury secretary",
+        "rates unchanged"
+      ],
+      "links": [
+        {
+          "to": "boj-october-decision-2026",
+          "kind": "affects",
+          "why": "A hawkish Fed hold keeps US yields high and the dollar firm, which pressures the yen ahead of the Bank of Japan's 30 October decision.",
+          "via": "dollar strength and yen pressure"
+        },
+        {
+          "to": "ecb-inflation-and-rates",
+          "kind": "shares_driver",
+          "why": "The Fed and the ECB both face stubborn inflation and are weighing further rate rises, with the ECB meeting a day after the Fed hold.",
+          "via": "parallel inflation and rate dilemmas",
+          "driver": "gulf-energy-prices"
+        },
+        {
+          "to": "gulf-war-energy-shock",
+          "kind": "responds_to",
+          "why": "Energy-driven price pressure from the Gulf war is part of the inflation that keeps the Fed from easing and open to hiking.",
+          "via": "oil-driven inflation",
+          "driver": "gulf-energy-prices"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+          "url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+          "publisher": "CNBC World",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Fed holds rates steady despite concerns over inflation",
+          "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+          "publisher": "CNBC World",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Fed leaves interest rates unchanged despite inflation in the US",
+          "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-10-28"
+        }
+      ],
+      "news": {
+        "q": "Fed holds rates OR Bessent Fed hike OR \"Federal Reserve\" inflation",
+        "edition": "US"
+      },
+      "auto": {
+        "addedAt": "2026-10-28T21:07:45.242Z",
+        "reason": "The Fed, the world's most important central bank, made a dated decision to hold with a hawkish tilt, and its policy stance moves the dollar and capital flows for other economies.",
+        "channel": "US interest rates, dollar and global capital flows",
+        "reaches": [
+          "JP",
+          "DE",
+          "CA"
+        ],
+        "headlines": 3,
+        "publishers": 2
+      }
     }
   ]
 }
