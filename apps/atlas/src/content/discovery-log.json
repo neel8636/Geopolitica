@@ -121,10 +121,6 @@
       "at": "2026-10-24T14:01:26.501Z",
       "verdict": "existing"
     },
-    "45be3b75813e": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "reject"
-    },
     "6caec2d7043b": {
       "at": "2026-10-24T08:01:12.124Z",
       "verdict": "reject"
@@ -169,41 +165,9 @@
       "at": "2026-10-24T08:01:12.124Z",
       "verdict": "reject"
     },
-    "633dfff3cef5": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "reject"
-    },
-    "c295f1ad2e32": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
-    },
     "681a8cea85fd": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "reject"
-    },
-    "f9aee32d0608": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
-    },
-    "a7d4534cd235": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
-    },
-    "9686b15cacf4": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
-    },
-    "90a29d3e035a": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
-    },
-    "6ce9d833dbe2": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
-    },
-    "b0a9bad81a50": {
-      "at": "2026-10-24T04:00:59.454Z",
-      "verdict": "no story"
     },
     "9d3731869bf3": {
       "at": "2026-10-24T08:01:12.124Z",
@@ -2568,6 +2532,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T04:06:39.497Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 4 new uncovered headlines"
+    },
+    {
       "at": "2026-10-28T03:16:31.592Z",
       "screened": 0,
       "accepted": [],
@@ -4046,15 +4019,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 120 min ago"
-    },
-    {
-      "at": "2026-10-26T14:04:09.045Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 60 min ago"
     }
   ]
 }
