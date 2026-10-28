@@ -47,6 +47,7 @@ export const NEWS: Record<string, NewsSearch> = {
   "ethiopia-eritrea-war-fears": { q: '(Ethiopia OR Eritrea) (Tigray OR Assab OR war OR troops OR border)', edition: "KE" },
   "israel-election-2026": { q: 'Israel election (Netanyahu OR Knesset OR poll OR coalition)', edition: "IL" },
   "opec-plus-november-output-hold": { q: '(OPEC OR "OPEC+") (output OR quotas OR production OR Brent)', edition: "US" },
+  "black-october-ai-cyber-wave-2026": { q: '("Black October" OR PHP2Shell OR "CVE-2026-109618" OR "CVE-2026-109619" OR (LiteLLM malicious) OR eMudhra)', edition: "US" },
   "russia-record-budget-deficit-2026": { q: 'Russia (budget OR deficit OR "oil revenue" OR ruble OR "oil and gas revenues")', edition: "GB" },
 };
 

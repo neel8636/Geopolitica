@@ -339,4 +339,27 @@ export const EUROPE: WorldEvent[] = [
       { title: "Istanbul flood toll rises to eight as rescuers find more bodies", url: "https://www.euronews.com/2026/10/19/istanbul-flood-death-toll-rises-to-eight-as-rescuers-find-more-bodies-governor-says", publisher: "Euronews", date: "2026-10-19" },
     ],
   },
+  {
+    id: "black-october-ai-cyber-wave-2026",
+    title: "Black October: AI-found flaws force a global patch rush",
+    type: "security",
+    date: "2026-10-23",
+    status: "developing",
+    region: "Worldwide (Europe, Japan, UK, US)",
+    lat: 50.11, lon: 8.68,
+    countries: ["US", "GB", "DE", "FR", "NL", "BE", "FI", "CZ", "JP", "IN"],
+    summary:
+      "Between 19 and 22 October 2026 a cluster of critical disclosures hit core internet software: two PHP interpreter flaws (\"PHP2Shell\", CVE-2026-109618 and -109619) found with AI help and patched on 21 October, a CVSS 10 GitLab flaw, a Node.js bug, a booby-trapped LiteLLM release and broken keys at Indian certificate authority eMudhra, which quit the TLS business. Exploit attempts reached millions within hours; governments in the UK, Germany, France, Belgium, Finland, the Netherlands and the Czech Republic took sites offline and Japanese banks and airlines paused online services. No confirmed breach had been reported by 23 October, but the time from disclosure to exploit has collapsed to days.",
+    severity: 4,
+    keywords: ["black october", "php2shell", "php", "cve-2026-109618", "cve-2026-109619", "litellm", "emudhra", "gitlab", "node.js", "wiz", "cisa", "ncsc", "cyberattack", "vulnerability"],
+    links: [
+      { to: "eu-supply-chain-rules-2027", kind: "competes_with", why: "Emergency patching and certificate migration land on the same small IT and compliance teams that must build EUDR and CBAM reporting at mid-sized importers in the same months.", via: "the same stretched IT and compliance teams", driver: "compliance-capacity" },
+    ],
+    dossierSlug: "black-october-ai-cyber-wave-2026",
+    sources: [
+      { title: "Black October (information security)", url: "https://en.wikipedia.org/wiki/Black_October_(information_security)", publisher: "Wikipedia", date: "2026-10-26" },
+      { title: "PHP2Shell puts dozens of UK government services out of service", url: "https://theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840", publisher: "The Register", date: "2026-10-22" },
+      { title: "Millions of PHP2Shell attempts so far, but officials see no break-in", url: "https://thenextweb.com/news/php2shell-millions-exploit-attempts-no-confirmed-breaches", publisher: "The Next Web", date: "2026-10-23" },
+    ],
+  },
 ];
