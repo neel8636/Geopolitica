@@ -628,5 +628,35 @@
       "EUDR starts 30 December 2026 for large and medium operators, so urgent security work and new compliance tasks compete for the same limited staff time."
     ],
     "watch": "EUDR application for large and medium operators on 30 December 2026."
+  },
+  "uk-budget-defense-ukraine-2026~ukraine-summit-diplomacy": {
+    "hook": "Britain's new Budget lands just as Putin floats a Ukraine summit without Zelensky",
+    "line": "Extra UK money for Ukraine strengthens Kyiv's position as Putin seeks a summit with Trump and Xi and some French politicians question aid.",
+    "steps": [
+      "The UK Budget brings forward its defense spending target and pledges billions of pounds to Ukraine.",
+      "That adds to the military and financial aid Kyiv can count on, even as Le Pen pledges to cut French aid.",
+      "Kyiv faces Putin's proposed summit with Trump and Xi from a stronger position, while Putin still refuses to meet Zelensky."
+    ],
+    "watch": "Whether Putin's proposed summit with Trump and Xi is actually scheduled."
+  },
+  "uk-budget-defense-ukraine-2026~ukraine-starlink-restrictions-2026": {
+    "hook": "Uncertain US support for Ukraine is pushing Europe, and the UK Budget, to spend more",
+    "line": "Doubts over US backing, shown by the Starlink dispute, push Europe to fill gaps, and higher UK defense and Ukraine spending is part of that response.",
+    "steps": [
+      "Ukraine said Starlink stayed restricted after Trump said limits were lifted; on 24 October it said the link was restored and 'now stable'.",
+      "Satellite links underpin Ukrainian military communications, so US control over access gives Washington leverage and raises how much European partners must fill.",
+      "The UK Budget answers with an earlier defense spending target and billions pledged to Ukraine."
+    ],
+    "watch": "Whether Starlink stays stable after Ukraine's 24 October report of restored service."
+  },
+  "gulf-war-energy-shock~uk-budget-defense-ukraine-2026": {
+    "hook": "A war in the Gulf helps explain the £100 energy payment in Britain's Budget",
+    "line": "The £100 energy payment in the UK Budget responds to energy prices pushed up by the Gulf war that followed strikes on Iran.",
+    "steps": [
+      "Strikes on Iran from 28 February 2026 kept oil and freight costs high for eight months; French diesel hit a record in September.",
+      "Higher energy prices put pressure on household bills across Europe, including in the UK.",
+      "The UK Budget responds with a £100 energy payment and bill cuts."
+    ],
+    "watch": "Whether oil and freight costs stay elevated as the Iran war continues."
   }
 }

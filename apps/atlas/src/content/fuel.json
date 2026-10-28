@@ -121,87 +121,44 @@
     ]
   },
   "alberta-independence-vote": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "trump-s-50-tariffs-on-canada-take-effect",
-        "title": "Trump's 50% tariffs on Canada take effect",
-        "when": "2026-10-27",
-        "place": "Ottawa",
-        "lat": 45.42,
-        "lon": -75.7,
-        "what": "US tariffs of 50% on Canadian goods took effect, with Prime Minister Carney vowing to retaliate, sharpening Alberta's grievances with Ottawa.",
-        "via": "trade grievance with Ottawa",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
-            "publisher": "ABC News - Breaking News, Latest News and Videos"
-          }
-        ]
-      },
-      {
-        "id": "highest-support-riding-shows-rural-frustration",
-        "title": "Highest-support riding shows rural frustration",
-        "when": "2026-10-27",
-        "place": "Rural Alberta",
-        "lat": 52,
-        "lon": -113.5,
-        "what": "The Alberta riding with the strongest independence support points to deeper rural frustrations that fed the separatist vote.",
-        "via": "rural discontent",
+        "id": "banff-and-canmore-back-staying-in-canada",
+        "title": "Banff and Canmore back staying in Canada",
+        "when": "2026-10-28",
+        "place": "Banff and Canmore",
+        "lat": 51.15,
+        "lon": -115.47,
+        "what": "Nearly nine in ten voters in Banff and Canmore chose for Alberta to remain in Canada, adding a strong pro-Canada block to the provincial result.",
+        "via": "lopsided local remain vote",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Alberta riding with highest independence support reveals deeper rural frustrations",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjh1cEE3eGJ5M050SDJueHpWZ2JiNDROZWNOMDk3bl8wSFMwYTVXeVlwZDY5NGMtSjNXUW9pdFEzRVhSMmFGeUNnRXBmZklsNWNzeWthWnRZS3VFc0Zac2pFa09PQ2hoR21FaEExNy1TQkZGTTNLeUVvMGNrSC1wRUYxVDlDN2tNNkZ2LVd3NjN6RFV0NlQxX01ETmxsYzFnalY3V2ZDMTRmMmp0SE9IcjlzNUNZMTAtYUxjd001dnVRaWFz?oc=5",
-            "publisher": "Western Standard"
+            "title": "Nearly 9 in 10 voters in Banff, Canmore chose for Alberta to remain in Canada",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmQyZ0tNS21VSngybXcyazlfbkNxdVJKWGFHMkp3dEUwcnZJT2VYUngtVVVvOHlVY0dVTEVpSDM4bjM4MHM3U25YUE9ZMXY1RjQxR3FEUHIyVXpnUTlPZGhfblkwc3ZkajU5emM4aFRXTlVMdTFLVlg3aFAtUGtMV0lZT2FhdjFmNEhZcm9oSV9WdEJJM013cmxsUFhucVUxWk5LTXMzZnhPbXJfWWJZNFpQb3JZaVN3MWtj?oc=5",
+            "publisher": "Rocky Mountain Outlook"
           }
         ]
       },
       {
-        "id": "ucp-associations-push-leadership-reviews-of-smith",
-        "title": "UCP associations push leadership reviews of Smith",
-        "when": "2026-10-27",
-        "place": "Edmonton",
-        "lat": 53.55,
-        "lon": -113.49,
-        "what": "More UCP constituency associations called for or passed leadership review motions, showing party divisions over the referendum and separatism.",
-        "via": "party division over separatism",
+        "id": "indigenous-communities-vote-strongly-to-remain",
+        "title": "Indigenous communities vote strongly to remain",
+        "when": "2026-10-28",
+        "place": "Alberta Indigenous communities",
+        "lat": 54,
+        "lon": -114,
+        "what": "Indigenous communities across Alberta voted disproportionately to remain in Canada, lifting the overall stay vote.",
+        "via": "Indigenous remain votes",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Alberta's Smith sees another UCP constituency association call for leadership review",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMHVsVTRwWlp3X2swWG1saC0xTjBWTnVOejlMN0VwZXZLN0tHLWN2SDVLenFod3VJdHluUDBHUUR0bEVNV3h1UGdXQklDUzVQTDJ0bWRQRVVUZ1NNVG5xaGM0eWQ0bTlsZW1xYjQ4aENzWmpWVGQ2WkJqVkZXODZ3RzB6ZGllMFlmRU9aQXppWDRLUXp5UUsxLXJhOTljTmhRVHAtU0NUbzVxZVdvVzBOZjFTMmtKSVhQWFlyYlotOHdGZw?oc=5",
-            "publisher": "National Newswatch"
-          },
-          {
-            "title": "UCP MLA calls for party unity after his constituency association narrowly passes leadership review motion",
-            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYVMzMHFLZDkwc0E1eHAyRllwbXRJOUlITzJXSFotX3lXa0wxODNNdHZmYXhfb08xZHdIZF81UXRCbWxMRl9KTlhmSEZNZEEwN1F5V0k2Wi1aOFpFVU4xZEpQeVdVMWp1TERCcm1NNlpNRFU0SW9ZNGZ1bHlRcDdjMDY0Z05hWGxqU3ptaWx5aE5fZVhCeTBxWHR2X0d5UmxOZElmSEtmWUpNTnFCQzhyQnUwVEZObXJiTUdKRmpNZjZUSWZsTEs1SFFXYW5rN3Via1lSaHc5eVRROXgyX3p1ZGdmZTRXSHc?oc=5",
-            "publisher": "Western Standard"
-          }
-        ]
-      },
-      {
-        "id": "cochrane-separatists-vow-to-fight-on",
-        "title": "Cochrane separatists vow to fight on",
-        "when": "2026-10-27",
-        "place": "Cochrane",
-        "lat": 51.19,
-        "lon": -114.47,
-        "what": "Separatists in the central Alberta town of Cochrane said they will keep campaigning despite the vote to stay in Canada.",
-        "via": "continued separatist campaigning",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Separatists in central Alberta town vow to fight on",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1g1eno5MUVyWFRIRGh6S0hiYzBnaVJubVFVa1o4OVZCSGFEM19GY3BBek0tcnpubXhEX1N4eWYxRjdmU20xc1lPT1k4UkNGWlJmdWdHRXhHXy1nWENteTNuYXVlUUV1V3VvZWhiOXdERlFkWjdia0ExNk1DWF9TSzZFWUdhRmxuWE1DWXMtTFJPTk9oQUJRRkx0cnprQ04tUThaaGFMWnI?oc=5",
-            "publisher": "Cochrane Eagle"
+            "title": "Indigenous communities in Alberta voted disproportionately to remain in Canada",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNkRNdk5LX1l3Tjk5VUUzMlpucVRjNHhUWXg2X2ZwRzZJcWdFTThvNmgxMTlSLXh3Ui04TzFFRjBwVnVROVdrUTZrRExmSnVuMkZtMTlyLVBHdXViOV9uR3BPNmFVaWxKY1YtLTFPazB6N1o0?oc=5",
+            "publisher": "The Orchard | Jeremy Appel"
           }
         ]
       }
@@ -853,18 +810,18 @@
     ]
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "goyal-says-most-trade-talks-concluded",
-        "title": "Goyal says most trade talks concluded",
-        "when": "2026-10-26",
+        "id": "goyal-says-india-us-talks-in-final-stage",
+        "title": "Goyal says India-US talks in final stage",
+        "when": "2026-10-27",
         "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "Commerce Minister Piyush Goyal says most discussions with the US are concluded and the agreement is being fine-tuned, with talks in the final stage.",
-        "via": "negotiators' final-stage progress",
+        "what": "Commerce Minister Piyush Goyal says the trade agreement is nearing completion, while the White House reports progress in the talks.",
+        "via": "final-stage negotiating momentum",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -877,77 +834,18 @@
             "title": "India, US Near Trade Deal as Piyush Goyal Says Talks in Final Stage",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3NuMzMxS1FNS1ZqeEdaQm5STHpsajU2VFZZNmZBc3haS3IySGN3UWJSUVRMUVZNQjNsRU5qWng3cmY4MTJvYm1OX05iUGtqMGJrQUx2eF91ancxQTV5R3c4T29nYzJ0MUJWUjVKS3E5ZkNKMU9UUVlyTjFwemowR0s2OTczOF92aDV5Skl6QnNqbE85enc?oc=5",
             "publisher": "Goemkarponn"
-          },
-          {
-            "title": "India, US Near Trade Deal: Most Discussions Concluded - Goyal",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTE11SnFRcW11T05BQXp3UXA2UDV1RjB5YmtoMzNTSWV3UHFIaGtjTjFZbEhJNXVPaUV2NjRsMEtkaDllR0hyUGVRUjRzQldyTktPRENEcS1IMHVGaS12VmNTN0ZqTm9IcjVIVTBWRUN1R2JaaEM2RVJKSDVWeFdWQTh1SzViSzNoa3JWYUdNX2VpamJtVExISzB30gGfAUFVX3lxTFBxTmk5S3RZQUxsUUVYcVV5RFN0VjN3NGFJeWhZaEZQU25xS1N5OFQzWWFWUUdCVHQzZkU0dU54Wk5GT1ZHMUE3MWQxc1lkVE9oTkhHZU84WGtja2NfREp5cWtLUUQ2WVlaZHYtUFlLbWg2LXhKXzAxTlNLdnBnWDF5eFNnX3NOYklyOXM0S2NxOEdBVGtGZ0M3RXBuZGEzcw?oc=5",
-            "publisher": "Rediff"
-          },
-          {
-            "title": "India-US Trade Deal Nears Finalisation as Talks Enter Fine-Tuning Stage: Piyush Goyal",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcWtSS2NTMk1ZN0RSZmc3Qk5uZWxLZV9mejRGejlJemdGSTRHTklBckhFclpyNHowV0dYNkU5UkxyOXctc0RVQi1Hb255QzZfQjVJUHp0b3F1YW0wWnMwbVJBMnl3VThRazVwcG9VM0NhTVBYNFRvcVJDZlZNelNreTlKWTVIMVhrOUJ2a2ZVRnR2SzJwUzBuNHpjWTBXU0lmcWNkSWZHdloxWlQ0OVpsV2w4ajlDQ0V5V2RQb3NB?oc=5",
-            "publisher": "Oherald"
-          },
-          {
-            "title": "India-US trade deal nearing completion, says Piyush Goyal",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjUtbUZUWEVVVkQzLWxoY1gyeVhCbmkyYk1NMDlKZERocnY1YVktM1YyWDFJU0t3OHlxUHBkOGx1ZEd5RGEtUDB4RGszXzJTNUQ1cms0X1NVb1FVQ1N2SWlhZmtVNkxUU0hLcnVwdF8xbkxaclJ1YXdnQnFCYkZ1ZW80NmNCd3VUR2pNNlgxRmJBY1B3NlhLV3FaS3rSAaIBQVVfeXFMT25fcUctZmRiYjh2czVRQnE2NkhCeUlNQTFmQXl4dWdxa2k3SkNTRUNNN2pSREpMTTRpVnRnUzJsUW9zNWxBeGtGR3VCRW5JYnRlU1FKZm1xODZCNGVJRzY4Nm1qZ0U5MUdZUTBtY0tINjN5U0VScTRYLWozSGh1dVNrOXdjTzlwN0tsWDhrZTlZSEtLWWZ0LUotMFJ4dWZrWUFR?oc=5",
-            "publisher": "News9live"
-          },
-          {
-            "title": "Agreement Being Fine-Tuned: Piyush Goyal Signals Progress In India-US Trade Deal Talks After Tariff Changes",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEZzY1NSbjZnTERrVTBXdnNGQmdiU09YWm1ENlBRTENBbE5kVVkxV2JfWWdOWFJpNHJRTWxFel9lLWxrM0pJVi1rcUQyTi1OLVBnSmpCbWxWNFJhbXJ2REtuQlRibUlUVFBMdWRQc1VJLWVRRHRLM2w2SkVBaXZDWVZqXzVUZTd0ZGZPa21mTldHNjg1enQ0M3dSWjdsUFEzN0h1MTE1N1EzcEUzMXdsdjFpUmVoSnplcjhCbHVLZFZ5YmUxSVN5RUg1Z294azhSZTVnVWNaOWlmbmV0cWdWVWNFMkVJV2VscWVFR205S3RWUdIB9wFBVV95cUxQUEljTnhVM2hzSGVId1Z2SUJkSjNjZzRSLW94OTF5NW50c1hNS1hGaDQyRXUyZy04QkFYWTFxaDlaTGUwQkE4V2g2Y2ItdVBiSG40N0tGRmtTMVpCLXVzNG9TaEdpcmdzWHRjMW9hdnhYR3RUMkNCU2VRQTU3XzBkLTFPVXRJb29IZHhDX0o1ZWw1Q3ZWbTJ3UmpVVGUxTjlKcThvZVFGbFFVaUliQmxKLS1PZnlnRmhJMFJCRHN3Y2ZnYnh0SUluYWhFQ19nUndzY01PbzA4RnYxSmYybERtaHh0VWlXR0FfRGU5aDJrSFM3SGo4N3R3?oc=5",
-            "publisher": "Free Press Journal"
-          },
-          {
-            "title": "India, US fine-tuning trade pact after concluding most discussions: Goyal",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVDRXazV2RlNvWk5ycjlsbXdOQjJ4TkFrTHVwbnNmbW5UTlliSDB3U1dCNVBOYjJHY0FQOVhvMzQwMnNaUXlKOFZjeEhCNWM2NUxqekY5M2hibTMzcDdMUlpFQ3FfWlZ3akJJX1JWcUMxRkxRV3ZRNHFiZGJYSVUtdndMLU5mV1VlTFJPS2FyajdzYk5mamJPRUtrUTVsVnZCbU9SMTVLT1VNaEIta1BUTHE0U1o1eGpsQnY1Q3NKdGd6ME5LM20yM1dfYmhHZ2FtT2fSAdcBQVVfeXFMUGZ4cmo4dl9fR1lSOU1ZTnRMWTVXM2RSN2QtdDdLYXpud2xLT1FBUUlaTEVES0pRemtNX0NHdENzZXVoS2EtWXIzdm1PM3RQbnFJWVVjQmRWdEFXTkl6dExwVzNSRFZIdE1MTHdVdkFCNE9rMzRVQUtOV2FKN2hFc0F2S3RLWEZBWHlmRVlpSmU1cnVjUGVGVHFXdmFLcVM4cmttMjI0YVJjT1RqN1FaQkhSTWE5LVdxRV9yV1BlanJDZ3lTRFg5VGlHX2JMV2hSd1A0YnJMQms?oc=5",
-            "publisher": "Business Standard"
-          },
-          {
-            "title": "India and US fine-tune trade pact after concluding most talks, says Piyush Goyal",
-            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSFhtaDN4djFuZkRzYTJMdXg3bVVUMThvYUtmQXpDTjNoQXdwT2dhTmg1UEtaLTk4UFh2cUg4Q2N2YW55SFZyRV9IQmIxcXZ3MmRva1lmOW9Qb0lHaVVSdTY5cE53NXE4VS02b2dramhnbXJaWGZ2NWFPQ1p5d3JTdDIwRWFMbzdjWlBrTFVRcWFxOGpKOUJfNFZjSHdjTGRiSjJsZTRRVDd2cDVCd09rMFNvMDY0WlVvWENlMkJpN3hoUUhiNmhUMm1PNEM3bVAzZUZfMnEwQ3drWjBkUDRJcTZQNmFOdjdWMFBFWVA0eHgzN2tlNGJJd0xhZ2ZTd9IB9wFBVV95cUxPcmhkLUFsNWZlYkw2dUJWN09yS1ZwcHI4enpPa1M5a0NFMlRhaEc3bVp4N1FNMGd2alVhazA1dU5HRkEwOTUzWjdQOWxxQXZwMnFURHRKMmp4cUt0QkVYMVlCeEs4bEwzTXpFREhYZVNNUkd2YmhNOGh2RC1JNlYxTEh5RHBEWVM3ajU5RWpydjZwNGdsdGhacTAwY0JfZ3E0UHo3dERjUkJPdE9UTDZGWUdzWldVaFZPNlJBOU9VQURmRmlmUkFUMUp1X2M1dWNseklHTzlKSXZteWlldXd1c0xiYWFyVjZQZ0pWc0NNR3dleDl2a3kw?oc=5",
-            "publisher": "The Economic Times"
-          },
-          {
-            "title": "India-US Trade Deal: Piyush Goyal says most discussions concluded, agreement being fine-tuned",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSlpIOWJXZkJxYm9MaEF3VzNsdUVMX1U2cVFrbGVzS2tIUUVPMVNGbFp2VHA1STJLamZSSm0xSTk2NzIwZmZuODI2X0gtRU1QcnNOTVIwa0JlSmQxYlNwTEdYSnA0MFIzTm5ERTczMXRoOVMybnFsd2pVMW1WcndRM2ZTRHlGVmRqeHd5WHpoa3EzYWtmaUc5U1VlSzNGd3BtbV8wUkR0Z0g2T0twM3hNd0tweVdPY05neGtmUHZmeVctY28xOVZobXY2VXR3YzRl0gHWAUFVX3lxTE9QRXo2RmM2X3lSaTQ2SGRVVGRNUTBUeUtRV3owWFJYSm5DWFJpdzd0cmZpUXNwMFhzdTZKREZsMzcxa19XZ0V0UGl2ZUw1NmtuX1hnanR1dENHZGZPd2I0LWNlVUlMdnJRTWZKNF9aaElUZXpPZ0d4MG04UmVIUElicFFTNVBNcFdoVFpIYWRXZG5mZWJGUWlnTVZfX3ZjRnh6aEJ4OVBBbEtRRFZaajNDcFRaU0lCQXZPUlExRk80bkZ3OElCcTk2OHZiQjlSZm14Y1hFV1E?oc=5",
-            "publisher": "CNBC TV18"
-          },
-          {
-            "title": "India, US fine-tuning trade deal after concluding most discussions, says minister Piyush Goyal",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTW5zSVpUMWJGWF91bnRFa2JDNUVvSm9jbnAzV2NEa3dITzJhck41NS1aTzRoQ3Y2RjdsZHVzUEZwdHY1Z2JjR1JZQ0ppOFVrRG9sZm55SGhsM2xBSnFmZ3dPZk5hNHQwMDBhTE4zdFVydHJWakVCRk9tYVV3SlgzZTdaWnY2RzEtcUJpX3Znd0hUWmNFdWZ6Q3p0YnFsZVBoQmI0bWxMbTVhWEhwdHp3VmJPY1dzWlNtV2llY0VFZFJqZjJSOHdyRWNZZ2t5VEx6Q0xUVnQyd1RDdDQzM25FcVln0gHnAUFVX3lxTE5JS2MyWmZ0Ul81U2ZTRnhUZ2VQemFHVWJKYVltU2JnTGQxVkN2UGl3bUViQkJ1MWJKS2dNRDUySW51QlhscVVQUkY0Vm1yNmZqVDBvS2pSSjBkaXlzUmlfdkduY1NZbGRzVklLX3lmME5DZFlBVU5wdTV0X0RxOWh2QVRLUG9mTlF5d0ItbmNVb203VTdLMVdPQ0RCRFBaT3Z6WnMxWkNUSm1aaW5LQ2k3OFphMDB3ak9BeE4wSGNhOFItY2x2NEp2b3QyQ2ZjcDRKVThuQUoxUkVzLVpUdFNUTUZLTU5zWQ?oc=5",
-            "publisher": "Livemint"
           }
         ]
       },
       {
-        "id": "puri-denies-us-pressure-on-russian-oil",
-        "title": "Puri denies US pressure on Russian oil",
+        "id": "tariff-dispute-reported-to-stall-deal",
+        "title": "Tariff dispute reported to stall deal",
         "when": "2026-10-27",
         "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "Petroleum Minister Hardeep Puri says the US is not pressing India to cut Russian oil imports, easing one sticking point linked to the trade talks.",
-        "via": "eased Russian oil dispute",
-        "aspect": "energy",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "No US Pressure On India To Cut Russian Oil Imports: Hardeep Puri",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1BfUUdWTGhJYjJxVW9wbDBvTHNjOS1yZWk0NFE2ekUzbElwWjRfZnVuRzhqZGNxTk5aT2NlNEdUdEF1V1dNc2FRZ1ZySEJTYzNEcFotbzBveUdjazFRSEFfSHZ4b3AxQ29sSDBUU3JzNENTb3NCT1hiLXlqTjZOTUloS3pfMXVJVVp2aUEzRXN4UjlkQjZCdE9BU3ZOZnR3ZG1YamYyTdIBrAFBVV95cUxQbkZsX1FLZDk5OU95d3BuT3gxNTRGMjlNcjFPWmxyMWVuVDNMdVo2T1dHOUowWUJPWGZvUGRlQzRQdkh1ejVPTHhDRklRcmQ0bFVtVEF5RXQ4VURpNXgyMEx5Y21qcldrc3FYakhPdGxKTkR3amZabDRwZkhvb05tdFVxNzg1WEtVY0p2Q2k4Q3ZjVHVENC1tNXRrb01CSGZhYm41V2QwQks4QlRj?oc=5",
-            "publisher": "Free Press Journal"
-          }
-        ]
-      },
-      {
-        "id": "report-says-deal-stalled-over-tariffs",
-        "title": "Report says deal stalled over tariffs",
-        "when": "2026-10-27",
-        "place": "New Delhi",
-        "lat": 28.61,
-        "lon": 77.21,
-        "what": "Khmer Times reports the India-US trade deal is stalled over tariffs, pointing to unresolved differences despite upbeat official statements.",
-        "via": "unresolved tariff differences",
+        "what": "One report says the India-US trade deal is stalled over tariffs, pointing to unresolved sticking points before signing.",
+        "via": "unresolved tariff disagreements",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -955,6 +853,44 @@
             "title": "India-US trade deal stalled over tariffs",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0FVTkZaSUxMOWY3dHFndWZjUDVtelN0VUFxc0dMY1FfOU1xMDlUanlSaUJHS21pcVZQdHJ4WDJuUi1Jc3ZTOWRnWXpCRDQ0LXE1dzJIM00zSzBiczBvSUppdDVQMnRCa2s4NGsydUVGSkhFR3UtQzlpT19UTmFxMmNtUXF5RDA?oc=5",
             "publisher": "Khmer Times"
+          }
+        ]
+      },
+      {
+        "id": "india-turns-openly-critical-of-trump",
+        "title": "India turns openly critical of Trump",
+        "when": "2026-10-28",
+        "place": "New Delhi",
+        "lat": 28.61,
+        "lon": 77.21,
+        "what": "Indian officials are reported to be openly criticising Trump as ties fray ahead of the US midterms, complicating the political backdrop to the deal.",
+        "via": "strained political relations",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "India Turns Openly Critical of Trump as Ties Fray Before US Midterms",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQU14X0oxMlBUSjhuak83eHRiaVJxbkpJazRDTlE4bVhfWTU1WW4xT1E5NW5Cbm5QYk8wcWJSREllWUNWaV9McWwzR0VpSnNXLU9kMV9GMW1mWFFhZzV1Z2JjenBZTXJ2MzNRTl9yOGE3Z3N6TEJXaVdrQl9ja1FvZ1BxZ05VTGxUeWUtb19OWHZ0S2lWOHdlR3BBVWdNWl9BeDg3WWFnTXFidw?oc=5",
+            "publisher": "Around Prague"
+          }
+        ]
+      },
+      {
+        "id": "congress-threatens-probe-of-russian-diesel-tankers",
+        "title": "Congress threatens probe of Russian diesel tankers",
+        "when": "2026-10-28",
+        "place": "Washington",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "Russian diesel tankers are heading to the US, and Congress threatens a probe, adding scrutiny to Russian energy trade.",
+        "via": "Russian energy scrutiny",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Russian Diesel Tankers Head to US as Congress Threatens Probe",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVc3S0pFeDFJdkNoWkMxTVRrRVF5TWlsb01xZDRTR1RJZUpjSW9Cbm9Jc2cxUDhwZ2NfdTRhbWk1bHVHWFZxNTNkWV96QzgzQ2gyc19ndW8tUnpueEJlYVFhNHdZNHVWdnlBcVc0Y0xzLXBNYklMaXJYM1JNMk9aQjhiYw?oc=5",
+            "publisher": "India Weekly"
           }
         ]
       }
@@ -1273,116 +1209,43 @@
     ]
   },
   "israel-election-2026": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
-    "items": [
-      {
-        "id": "netanyahu-rejects-coalition-with-arab-parties",
-        "title": "Netanyahu rejects coalition with Arab parties",
-        "when": "2026-10-28",
-        "place": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.21,
-        "what": "Netanyahu called any coalition with Arab parties 'shameful', which narrows the routes either bloc has to a 61-seat majority.",
-        "via": "closed coalition route",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          }
-        ]
-      },
-      {
-        "id": "eisenkot-pledges-zionist-government-with-national-service",
-        "title": "Eisenkot pledges Zionist government with national service",
-        "when": "2026-10-28",
-        "place": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.21,
-        "what": "Eisenkot said he will work to form a Zionist government with national service for all, and called on Netanyahu to step down.",
-        "via": "rival coalition platform",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Eisenkot: I will do my utmost to form a Zionist government, with national service for all; Netanyahu should step down",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMmhVODYxZ3dvZmxDRjdZVnlDRE42QS1Qa1NaYVdjeUtfZ01vY0ZHWTM3WHk5U3l0U1o1M09WUDhPRUdTWENobURqUU56c0JjbDZaYktNZXRubks5bl9TTF9lX3hEZTlZVWVqeW1CbkQ0cDEtS3drbHFVNlFxSTBOaVdfT0N1NXVxUDNfVW1qaDNsb0llbGJ4TkQ2cnJwa191eTN2VE1LSndjWEpsYkpCVm5hQWZvSTBWaXZVTEU3SzcydnlOM2I2elpaMmNiUHJ5bVladHZKYmtnNW1XOWfSAeMBQVVfeXFMUGdPV0xnSlBlTENSU0U0SEk2OXc1TXF6cW4xMnFDd1B3SHV3SFBYUlBZZVdua2pJQWJZLXdjTmFsQjVZZHFURDV4OHo4bFk0aTNFaFk3UFFheUszRVhEVFhWdXZQX2dtNGR5VDZ4c0JIUHFnRkluOGJXOTdrYXI4U2I5VGVKRHBqeVZmVWtxenVtZ2NNUzNDdUVyMmxKbTRXOENqRUNMR0IyR1RJYTRyR3VETG9FOUU3MGpNakdfS2NmOEg2VmNMNmJEeno1SUJlcTVxNHV3WUlXS2g2VDVVZk9oaDg?oc=5",
-            "publisher": "The Times of Israel"
-          }
-        ]
-      },
-      {
-        "id": "arab-parties-projected-at-18-to-19-seats",
-        "title": "Arab parties projected at 18 to 19 seats",
-        "when": "2026-10-27",
-        "place": "Nazareth",
-        "lat": 32.7,
-        "lon": 35.3,
-        "what": "Projections show the Arab parties rising to roughly 18 or 19 seats, which keeps both Jewish-led blocs short of a majority.",
-        "via": "Arab party seat surge",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Israel Election 2026 • Exit poll shakeup: Netanyahu leads Eisenkot, Arab parties rise to 19 seats",
-            "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQU1hkWHFObHBWZ2R3bVltSF9rX2hycjJaeDN3dzhta2NLXzNWd1M5U2hUVXBLWWI1TVI1NHozNzhFa29mUU9CdEZvNmlVTGtqSHFIQTc1UU05bUVZRURPMDNVai1OT205bzdDRkE3Q3NET181eW8wWTJ4TFZUYldwVzNnRHhPRDBIaHlnNGdjNEpQZTVHWGFaeHRueHVfSHMxVzNLVTJ6N05MNEdocjlUdnVDU0lYeHJmQ1d0SkFJWGpZVWk2ZWREdlVzSnU2OHVPZ0xRQjI5c2NYTGRySHFURnQyR1RkbkltUnprU09HaEF5b3dmNmRQMUFGOEJYem1PN3Z6cmpzSW51bGVwR29kMXhnV2NzMGtm?oc=5",
-            "publisher": "Haaretz"
-          },
-          {
-            "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcG84LV9LQldoUVQ1X0gwVTNfNGFCT19wUUNURjdjWGIzR0NvUkRxeEpRTjA0NF9qTUktTXZHZnlUVDZ2S1NMblpVRk5EdUg1cEM0T1lXWGh6dnVEQVJ6OEhuOFp5MDAxUjk2S2RNamlmMjRRWF9HU0V2bzZGNzdlaWZxMUI4ZDFUZ1FyM3R1akVJWUFnN0lFd3RRUEROUVByY2hvZ01wMEhtTFRoR0UzOFFKNNIBuAFBVV95cUxNMHA4MTRpbmdyOHA4enlfNm9JWEZfUlRuUmFId2haWjRweTBBU29YV3hFRW9PLWpWNXVERjd3bmltU25yOFlpUXFDTU9JcXVILWtuZHpkR2wyUkNxaFFpWTNCWkR6dWowcXVyNUhqdmRfRUdXMzQ3bXhjV05GUlBtSXUtSjk0QTVFRzhZODVzLUdTdjlRalJZSkVSSHRadWRNY1ltQ3BlRVBybEtLX1cwRS1oclhGa19G?oc=5",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Arab parties projected to win 18 seats in Israel parliamentary election",
-            "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
-            "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-            "publisher": "The Guardian World"
-          }
-        ]
-      }
-    ]
+    "items": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "brent-rebounds-above-115",
-        "title": "Brent rebounds above $115",
+        "id": "houthi-attacks-rattle-saudi-arabia-brent-nears-115",
+        "title": "Houthi attacks rattle Saudi Arabia, Brent nears $115",
         "when": "2026-10-28",
-        "place": "London (Brent benchmark)",
-        "lat": 51.51,
-        "lon": -0.13,
-        "what": "Brent crude climbed back above $115 a barrel, keeping prices far above prewar levels as OPEC+ prepares its 1 November meeting.",
-        "via": "high oil price pressure",
-        "aspect": "markets",
+        "place": "Saudi Arabia",
+        "lat": 24.71,
+        "lon": 46.68,
+        "what": "Houthi attacks on Saudi Arabia and fears of fresh US strikes on Iran pushed Brent close to $115, adding risk to Gulf supply.",
+        "via": "Gulf supply risk, higher prices",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Oil Prices Today: Brent Crude Back Above $115; What's Driving The Rebound?",
-            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaUtnNnZObXN0OXpsbVVFYUJITXhSTjZTbV9aUnVFSmNDekthQ0lmeUtIb3h2SDVBSEc0MVg2NmRnMGhfMzJIMEFtLV9IWUJjdFZNTFdoa2dKVGdrUUZNSTllckFPalJ3X0t3UHBfWThZOEFqUUhONkZrc0pTSVd3SF9Ib3NxVmVRSEV5V3JsWHJGdVY4REsxaXdwUGpLejltUERpQkgxblItSE4xYXN0azZNcXJfZmxLTGpuTG90OGtUb0s2M0tWbWhfN2hpU25RejZaX05VbUNtcmdkb21GNUhkT2tPRUNDSDg1NVliem1leU0xR2xsRHdBVTQwZVZEUmfSAYoCQVVfeXFMT0FkT2g4bnpMRWExSHpDdkwwbm0xWnFSTDRDWkxBc29hUklETEpqUUpMd2YxcG5NYV85anZUd0ljcW42NzFEa3VOdHl1ZzdSR3VkR3NIWkN1M0tYaWEyVFE4OUxkVXFWTTUzZEtyMzhSZXRzOHFaY2pYaEtyM213ZzlNQnVPcmU5eGxNMVZZTlQyT2NDR1QwMUE4b1pNVjVkRWhtbDJOY1pYQ011NENFc19HREpFanhtZFRISl9KSWs0SGFEMm5pX3g2R3IySVFLU1ctWEwyR0daMXlyQmhzWTJ4Q1UzemxUMmN6Z0Zta0lyQ1JIRFNzM0ZtbUlOOU5lSHJCaG44TldZS1E?oc=5",
-            "publisher": "NDTV Profit"
+            "title": "US-Israel-Iran War Latest Live Updates: Brent Nears $115 as Houthi Attacks Rattle Saudi Arabia, Fears of Fresh US Strikes on Iran Push Oil Prices Higher",
+            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNakxlVUtZdGt6N1B1aXJCaUNlbE92dlI5UC13blZrNWJqczllS29yWlZFQmZqUWREaEh0amZITEJXbXppUWZVdWZEY2gwVVdrVGEwSDBHNHhTb2cxV0lzdTQxSWNGRnRISXllMTF5YkZlZVE5ZUo2NEVsQ1k1TXVrWDZsUExBMVhjby1hSWVZeGlKYVVfMDAyLTZjRG9yZlNGbVU5ZWZEamxYZElVQm43Vmg2d3NpNndHc1pDazViRDE3bk12Nm5Nd0JRU1ZuVml6cEZxNmxDaWhQRDFLYUJwWHBRMXRETV84NUZhSHpVS2JUVDB5MGVOcVY5M191dmxEU2doMm5ZWmpURmVJa1ZSYUgtb3Y2bzI1TWlfNFJWd9IBpAJBVV95cUxOZEkwN0sxdGNDYmhZS21wb2RzTFAtQjE4eE9SQXlJYUd0cnVYcXlpMVkzWmw0U2xUSzlTYk0ybGZBZFpKZU9yckNYV21ZWjdUQ0stN2V1Q2QyNmpTSGJPbTJaOXpYdENLU283b1l3NlZOMXIxYmZGTzdUZHpYM2ZCMHVyMUpjcXdIVmpuakowQk1NOWZySTNwRU80eWhzaVdMclFfVjM3QnZGLTZQX2ZjSHJiUm5YdkVuZy02OVpSZlRwZXYyVFdhOFRFYVRDblpaZU8wWHB0S0NXdC1VQU5ac09YYnBZVGNVWXJ4cjFFNTJpb2VtQTRpOWhrVXFzTUptSnBkWG5rZDJ5YXByRURyb1VMQmtURWNsZ09sY3YzeVBqX1Vn?oc=5",
+            "publisher": "The Sunday Guardian"
           }
         ]
       },
       {
-        "id": "iran-talks-advance-brent-slips-1-8",
-        "title": "Iran talks advance, Brent slips 1.8%",
+        "id": "brent-slips-1-8-as-iran-talks-advance",
+        "title": "Brent slips 1.8% as Iran talks advance",
         "when": "2026-10-27",
-        "place": "Iran",
-        "lat": 35.69,
-        "lon": 51.39,
-        "what": "Progress in talks with Iran pushed Brent down 1.8%, as traders weighed a possible easing of the Gulf supply disruption.",
-        "via": "easing supply fears",
-        "aspect": "politics",
+        "place": "Gulf",
+        "lat": 27,
+        "lon": 51,
+        "what": "Brent fell 1.8% as talks with Iran advanced, showing how diplomacy and Gulf export prospects are moving the oil price ahead of the meeting.",
+        "via": "price swings on diplomacy",
+        "aspect": "markets",
         "flow": "into",
         "sources": [
           {
@@ -1393,15 +1256,15 @@
         ]
       },
       {
-        "id": "qatar-urges-iran-to-reopen-hormuz",
-        "title": "Qatar urges Iran to reopen Hormuz",
+        "id": "qatar-presses-iran-to-reopen-hormuz",
+        "title": "Qatar presses Iran to reopen Hormuz",
         "when": "2026-10-27",
         "place": "Doha, Qatar",
         "lat": 25.29,
         "lon": 51.53,
-        "what": "Qatar called on Iran to show goodwill by ending threats to the region and reopening the Strait of Hormuz.",
-        "via": "Hormuz still restricted",
-        "aspect": "security",
+        "what": "Qatar urged Iran to show goodwill by ending threats to the region and reopening the Strait of Hormuz.",
+        "via": "Hormuz export access",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
@@ -1412,21 +1275,21 @@
         ]
       },
       {
-        "id": "gulf-exports-recover-ahead-of-opec-meeting",
-        "title": "Gulf exports recover ahead of OPEC+ meeting",
-        "when": "2026-10-27",
-        "place": "Gulf",
-        "lat": 26.5,
-        "lon": 52,
-        "what": "Reports on the likely hold of December targets describe Gulf oil exports as recovering, which shapes how far OPEC+ needs to adjust output.",
-        "via": "partial export recovery",
-        "aspect": "trade",
+        "id": "uae-oil-head-cites-opec-exit-for-faster-investment",
+        "title": "UAE oil head cites OPEC exit for faster investment",
+        "when": "2026-10-28",
+        "place": "Abu Dhabi, UAE",
+        "lat": 24.45,
+        "lon": 54.38,
+        "what": "The UAE oil head said leaving OPEC gives the country the ability to speed up investment in its oil sector.",
+        "via": "shifting producer capacity plans",
+        "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "OPEC+ Members Likely to Hold December Oil Production Targets as Gulf Exports Recover",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTAyUWtMUnFpNXJrS195ckxBNWYydEZnZnRPbmJIZURBR2RvN1hPQjFIN19PN1FUTGdsZE1zYmlJbjY0YXhNajBPY01XNUJlMGdXV28xNDZqZV9HYmNmQmdwb1FHX0xyQ21sQ3p4ZXo2V2V6d2JldHZjLUNWNXpSTlRYazJvQ2hxZEE?oc=5",
-            "publisher": "Yahoo Finance UK"
+            "title": "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXQ1dGNTQVlqczc4M0dfV2VGM1pPQ3BiSUlaWnF3eGZZNkhXWHBDc1k5NlNMT1JRMmpoYzktT1hFbU9HOHg4aUswdU5QNnJremlSc2dzSkthZjhtMjJ4MlZRblZkZktkNjR6V0FKM2I1amQ2Tks0TkFZREJFSVZSZUJjOUdkZjBiNjlia2VsRzJoRFZvQ2xuZEdTUQ?oc=5",
+            "publisher": "EnergyNow.com"
           }
         ]
       }
@@ -1588,25 +1451,54 @@
     ]
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "japan-core-inflation-hits-three-year-high",
-        "title": "Japan core inflation hits three-year high",
+        "id": "economists-expect-boj-hold-with-hawkish-tone",
+        "title": "Economists expect BoJ hold with hawkish tone",
+        "when": "2026-10-27",
+        "place": "Tokyo",
+        "lat": 35.68,
+        "lon": 139.69,
+        "what": "A CNBC survey and other previews expect the Bank of Japan to keep rates unchanged this week while sounding hawkish, shifting attention to guidance.",
+        "via": "hold expectations, guidance focus",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+            "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+            "publisher": "CNBC World"
+          },
+          {
+            "title": "Bank of Japan unlikely to take rates higher this week",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2pxR0xnQUZUa3pZUzNYR0t3dGZiblVrUkZycDZHUzNVRmpUUnhoeFRUeTdUOEE2aXZ4SUhrMF9YSUdKQ0dlUU95ZDNwc24ta2doQk5SU3NnZDNIM0JXM2MxV3NDb2d1M2RRWVVQVk8xZHNZV3VaSFJpT2lNbU1iOVVDNA?oc=5",
+            "publisher": "The Japan Times"
+          },
+          {
+            "title": "BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWRwVV9FWTdqX3owblhFcVRKVUdwU1ZLTUhYSnNMWEJXTnJvRVFHalRmdGwyZVp1dDQ4d0MycFBDQ3BVeFlKT0Y0bEJ6cGRVLS1tSWduZy1kQm5FckxVUkxSUWVpeE9EVUJfLTI3bGtLZWRlMU12S0lybkcybnphbno5ME5kNUNYRDJteldxOHB4Wno4d3czcUdHX0hmV3ludTlzWUliZDlnYTc1SlY0?oc=5",
+            "publisher": "WSJ"
+          }
+        ]
+      },
+      {
+        "id": "japan-inflation-accelerates-services-prices-split",
+        "title": "Japan inflation accelerates, services prices split",
         "when": "2026-10-27",
         "place": "Japan",
         "lat": 36.2,
         "lon": 138.25,
-        "what": "Japan's core inflation rose to its highest level in three years, adding to the case for the Bank of Japan to keep a hawkish stance.",
-        "via": "firmer underlying inflation",
+        "what": "Inflation has picked up, but a split in services inflation complicates the Bank of Japan's reading of underlying price pressure before the decision.",
+        "via": "mixed underlying inflation signals",
         "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "Japan's core inflation rose to its highest level in three years.",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ0t5cUVsZlRUaDFIdnlWNEU0aGl4RGpPVkNFdU43Y3JxdXlOYlR2cmRrN3R5SWlOOWlvU3VMTmQtVi12TUo1cWgxb0YzQXhDUW43bzdQSEJOR2wzazJDc0psdFFfVlFBdzRIY2t4dl8tbDB6VWJrNGhMWk95Wk9NQ09tWHFYOFU?oc=5",
-            "publisher": "Vietnam.vn"
+            "title": "Japan’s services inflation split complicates the BOJ outlook before Friday’s decision",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jbzNoOVdkWGlsZS1tcU1vdU85UTBIV3RqZTRVSUJJOEo4ekFZSkNzWVFncFFQYWhIZmVIbll2OENqOEpCY09Nc0ZhdEdoa2tsUnprdnQtLTU?oc=5",
+            "publisher": "Cryptonews.net"
           },
           {
             "title": "Japan Inflation Accelerates: ETFs to Watch Amid Rate Uncertainty",
@@ -1616,112 +1508,64 @@
         ]
       },
       {
-        "id": "services-inflation-split-clouds-boj-outlook",
-        "title": "Services inflation split clouds BoJ outlook",
-        "when": "2026-10-27",
-        "place": "Tokyo",
-        "lat": 35.68,
-        "lon": 139.69,
-        "what": "A split in Japan's services inflation complicates the BoJ's outlook ahead of the decision, making the pace of further hikes harder to read.",
-        "via": "mixed inflation signals",
-        "aspect": "living",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Japan’s services inflation split complicates the BOJ outlook before Friday’s decision",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jbzNoOVdkWGlsZS1tcU1vdU85UTBIV3RqZTRVSUJJOEo4ekFZSkNzWVFncFFQYWhIZmVIbll2OENqOEpCY09Nc0ZhdEdoa2tsUnprdnQtLTU?oc=5",
-            "publisher": "Cryptonews.net"
-          }
-        ]
-      },
-      {
-        "id": "jgb-yields-climb-before-boj-decision",
-        "title": "JGB yields climb before BoJ decision",
-        "when": "2026-10-27",
-        "place": "Tokyo",
-        "lat": 35.68,
-        "lon": 139.69,
-        "what": "Japanese government bond yields rose as investors waited for the BoJ and Fed decisions, pricing in a hawkish tone.",
-        "via": "higher bond yields",
-        "aspect": "markets",
-        "flow": "both",
-        "sources": [
-          {
-            "title": "Global Market: JGB yields climb as investors await BOJ, Fed policy decisions",
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQWdxZjJhd3lZWElnRGdybF90RUZNcGFsOGNJdjJTYl9Fc3lTNmZTS3V0eWMtZ3pkUktaX040endCVXBuZzJCUmZvajk3TG9Gbl9wa2JCOHFQZGFGZVk3dGhOX19EbGF4SnRsWm9ndGNBaDhTQmV0cUpucmRza2JGVGZiZU1IR05mVTExSEtVbVpQQWVURmZ3TVV1bVNrVGh4MjQ5ckNUOURYck84aVlEczlWMWRlQW9JMDB0cUlEcXdoVnA0cnFod1BDMUZsaGMwTktkbTd1U0w0WmFVZFhnVHJFWXB2Z9IB6wFBVV95cUxQMkViMUdOVlptY3ZQb3E4VlBQRDlvRVJ5bFV1dVF2VUJWWktWblktME84WmhBU1paS3dxRnExemxuLUNMRlkyVS14UDQ1ZTRmbDdoSVZlVW9Pc3o1LURUbUZQeTlYQ3JrV3pWZnJRZjdZc0JVb0JDeHE0RUpqMUJBWFB3d1VHZmk5cHh6Z0ZYaEllTld1Z0V3d241akpKenVDNUhWak1jYlk2aFBIaDBSZzBRRWNGbjJndXhYbkhILXF2MEw3X21QZTFZWUs0amUzYi1DZFlkOWtYZzFkaEZOdHI4WnVJV1BMdjZr?oc=5",
-            "publisher": "The Economic Times"
-          }
-        ]
-      },
-      {
-        "id": "yen-stays-weak-tokyo-intervention-risk-looms",
-        "title": "Yen stays weak, Tokyo intervention risk looms",
-        "when": "2026-10-27",
-        "place": "Tokyo",
-        "lat": 35.68,
-        "lon": 139.69,
-        "what": "The yen slipped against the dollar as MUFG flagged BoJ caution as a downside risk, while XTB pointed to possible Tokyo intervention.",
-        "via": "currency weakness pressure",
-        "aspect": "markets",
-        "flow": "both",
-        "sources": [
-          {
-            "title": "Chart of the Day: USDJPY Caught in a Trap. Tokyo Intervention and a Hawkish BoJ Loom",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEh6SWhSelh6WmRDQWdIclVTcktPTmtuNk1QWldyWWxkdnhDRE1GVnVqajVyai1FVVR6VHhPRnZvZ2xKTWcyVGVMbUcza0Y1dWJ4MnBhZUo5QTVZdVpLS0Z2STVuZFUwTDBpSlA3RWQ1WTZWZlIyTFhZeFRoWjBkVUVUMHpmSEdxek1qdGphMXAtTVNDaFZ1eFBLSDlHZnVjaGZrc2pOclA5SGZrc1lHUWMzMmViZkZ4dlhQeXdR?oc=5",
-            "publisher": "XTB.com"
-          },
-          {
-            "title": "Japanese Yen: BoJ caution risks further losses against US Dollar – MUFG",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzhtdzQyQi16dzRXRFZMS1gtdkEyTTY2Q0U5ZzItMzdHeW5iYTZPZWtidE91d0tlemU3bkFxbDBydnljOFVTQnMyZ3Z4NTBQR2k0U0xDdDgwSWhxaFNNaUlabmE4X1ktaU9PN21RRjBJZ0NFRkZJWGktYUUzcVJtSDdPWERzRG42UTBURGV4WWYwTW0yMVdlTDZGN19MbFJ2dzNIVDlFZU1NbU44M1pqOQ?oc=5",
-            "publisher": "FXStreet"
-          },
-          {
-            "title": "Japanese Yen retreats as traders await Fed and BoJ monetary policy decisions",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0RYVjZDaWdzRDN3T1hWdGpuTHdZbXdwNlFqUHlTb3Y4cnRWZGMtREVjc2lsWXhsUlJ2eGV3T3hnWEg4M0tMSUlwSVc1N0hhYlFGT3luaTh1ZlJERGQwNkpQY3g5OUdEdjZKcWNWeG1kdXV1QzRDSWhIVDlTRTRnSDU3VC1jYS13NzV3b3hQQzB1cUN2d21UNzY0U0RVZEQ0SDhIMzY4aHNKNHQ0ajVyMWx0YVBzbk9kYnIw?oc=5",
-            "publisher": "FXStreet"
-          }
-        ]
-      },
-      {
-        "id": "dollar-firms-on-hawkish-fed-expectations",
-        "title": "Dollar firms on hawkish Fed expectations",
+        "id": "hawkish-fed-expectations-lift-the-dollar",
+        "title": "Hawkish Fed expectations lift the dollar",
         "when": "2026-10-27",
         "place": "Washington DC",
         "lat": 38.9,
         "lon": -77.04,
-        "what": "The dollar hit a 1.5-week high on expectations of hawkish FOMC commentary, with the Dollar Index back near 102.",
-        "via": "stronger dollar, wider rate gap",
+        "what": "The dollar hit a 1.5-week high on expectations of hawkish FOMC commentary, leaving USD/JPY in a seven-week resistance standoff ahead of the Fed and BoJ.",
+        "via": "dollar strength against yen",
         "aspect": "markets",
         "flow": "into",
         "sources": [
           {
             "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVc1cnBBVFAzWHhCN1UyYng3bkY0UEttRFZuZkxZdUFtUWlqYzVMU0FwcUlDMDUyNFNkZUJRRkJNeDhkdEtsZlZjT1FsR3dmeHAwVTRFclp0Qks0bjlqdXRvMC1SYnhsRVhjeVh0eUFsdi1GTnUtZ29iSTFrOWY1MDdjT0hPU1dfV2Z1dzdYUDRPSkZ6VlN3Ty1GTnFXYm0zRktEVC1ja0YzT0pFbnlpRGplMHdrazBfNWRtQmtnS19oMEY0WEZSNw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0xNazVsREY0SW9tZTNJeXE5RHoxQ1hEVVdsOFFpVm93NWFHeklPb3pJMURjYXUxdlZCbmlpdVNtdHBXZFN5OURyX1U0V1M1S05MWVJLOUhCN21PVld3WEZOTGdVeng4YUF3NElPeUZaczlKNVZ6MWM2ODAzUXF5TV9qS2dCLUtveVVvNTR3NHpud3ZaUnRNUlczc2dabmpXSFdxQ21BUEZLekY3MnhyQzhJMDVHX1NERXpIU1I2V2VUOGE2cm9MWA?oc=5",
             "publisher": "TradingView"
           },
           {
-            "title": "Dollar Index Climbs Back to 102 Ahead of Fed, BoJ and ECB Decision Week as Markets Position Early",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3Y3VVTXZ4T08zS2lTZHJCMkg0UTZReHltVWFsR0JzdDZ2SjFTWG4tOV85VmVXamlLeHhrU2lDVlM5ZVdxU29sRzBObHFRR2Yzci1TQVZxd3F5WENqQ256VWtsQzRIZjNwS1prdUZkdTU5UnRGREE?oc=5",
-            "publisher": "BigGo Finance"
+            "title": "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUGR5UnJqMFRWbmFNT3MwU0pPb2VsZU9XMTdBWVJFQVFlRk0ybmR1YllMTzVpdXR3UVlOc0dsR1JEekZXRTc0OFdOQXJLZDVpMXkxMHJxN200Z1hTblpQUUdxdUE1MVRjYTE3NGl2VDVjWnRlcXhKQ1BBUVhzY0JNbkphRDV6WjRpVS0yQ29LMjFRMU5OU2lUYnFXdDNPQ1hNZFd0WVRLLUVvV2pSeTd3dTlNREt0Zkk2YTVoZDZOdUVpY0thdk9oMm1MWEhzZ291YmlOejdCQ1LSAdgBQVVfeXFMT1BkeVJyajBUVm5hTU9zMFNKT29lbGVPVzE3QVlSRUFRZUZNMm5kdWJZTE81aXV0d1FZTnNHbEdSRHpGV0U3NDhXTkFyS2Q1aTF5MTBycTdtNGdYU25aUFFHcXVBNTFUY2ExNzRpdlQ1Y1p0ZXF4SkNQQVFYc2NCTW5KYUQ1elo0aVUtMkNvSzIxUTFOTlNpVGJxV3QzT0NYTWRXdFlUSy1Fb1dqUnk3d3U5TURLdGZJNmE1aGQ2TnVFaWNLYXZPaDJtTFhIc2dvdWJpTno3QkNS?oc=5",
+            "publisher": "FOREX.com"
           }
         ]
       },
       {
-        "id": "cnbc-survey-expects-boj-hold-hawkish-tone",
-        "title": "CNBC survey expects BoJ hold, hawkish tone",
-        "when": "2026-10-27",
+        "id": "yen-intervention-jitters-build",
+        "title": "Yen intervention jitters build",
+        "when": "2026-10-28",
         "place": "Tokyo",
         "lat": 35.68,
         "lon": 139.69,
-        "what": "A CNBC survey found the Bank of Japan is expected to hold rates this week but to keep a hawkish message.",
-        "via": "hold expectations, hawkish guidance",
-        "aspect": "politics",
+        "what": "Intervention jitters, together with the BoJ outlook, are lifting the yen against the euro as traders weigh the risk of official action.",
+        "via": "intervention risk on yen",
+        "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-            "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-            "publisher": "CNBC World"
+            "title": "EUR/JPY Drops as Intervention Jitters and BoJ Lift Yen",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVdubzVELVgta2NhT1VaN1pvNHV3NW95XzhvZ3hyUndwZ3FpVUtjdXdsSmhCbm9NUV9ieVFwUXc5WEhIQnVyc0t2MHFpdW9zQlc5ZTBpclFHM1BTRkZ0SjE3by12UV8tYVBuSExiWkJmSGZhaVBBaVFUQkt5bHlwel84QTNuYllfYlF5c1c2b2VqVmZuS2dsWlpBcw?oc=5",
+            "publisher": "TradingPedia"
+          }
+        ]
+      },
+      {
+        "id": "fiscal-backdrop-weighs-on-yen-outlook",
+        "title": "Fiscal backdrop weighs on yen outlook",
+        "when": "2026-10-28",
+        "place": "Tokyo",
+        "lat": 35.68,
+        "lon": 139.69,
+        "what": "Rabobank discusses the yen's safe haven status and Japan's fiscal backdrop as factors in the currency's outlook ahead of the BoJ decision.",
+        "via": "fiscal worries on yen",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Japanese Yen: Safe haven debate and fiscal backdrop – Rabobank",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVGNMRnBFaWMtNjlid0JhdWg1b2RUNGQ3bG12RG1VSGM5N01LSnZJNVRfSGJTWHdHdnp1RDBySTVCaVRIN1NaaUZvdVRvbmg5OEtEaXkxS0R6d3FMWE10SEJYcnBKMmx6a2RXMjVOTTVfRGp4Y29WZTZidGlMVTRZY2pXOHhTQkl1NjRKaWY3THZOaE1hVHAyNnpad2hBbjNGUXNxUg?oc=5",
+            "publisher": "FXStreet"
           }
         ]
       }
@@ -2180,18 +2024,18 @@
     ]
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "chevron-to-self-fund-7-billion-venezuela-plan",
-        "title": "Chevron to self-fund $7 billion Venezuela plan",
-        "when": "2026-10-27",
+        "id": "chevron-to-self-fund-7-billion-venezuela-investment",
+        "title": "Chevron to self-fund $7 billion Venezuela investment",
+        "when": "2026-10-28",
         "place": "Venezuela",
-        "lat": 10.48,
-        "lon": -66.9,
-        "what": "Chevron's CEO said the company will pay for a $7 billion Venezuela investment using revenue from its existing operations in the country.",
-        "via": "company-funded capital",
+        "lat": 10.4806,
+        "lon": -66.9036,
+        "what": "Chevron's CEO says the company will pay for its $7 billion Venezuela investment from revenue at its existing operations, not from new outside funding.",
+        "via": "self-funded oil capital spending",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2205,12 +2049,12 @@
       {
         "id": "caracas-asks-oil-firms-to-supply-own-power",
         "title": "Caracas asks oil firms to supply own power",
-        "when": "2026-10-27",
+        "when": "2026-10-28",
         "place": "Venezuela",
-        "lat": 10.48,
-        "lon": -66.9,
-        "what": "Venezuela wants oil companies to provide their own electricity for projects, shaping how new investment is built and costed.",
-        "via": "project power requirements",
+        "lat": 10.4806,
+        "lon": -66.9036,
+        "what": "Venezuela wants oil companies to provide their own electricity for their projects, a condition that shapes how new investment gets built.",
+        "via": "power burden on investors",
         "aspect": "energy",
         "flow": "into",
         "sources": [
@@ -2222,69 +2066,59 @@
         ]
       },
       {
-        "id": "machado-returns-and-seeks-talks-with-rodri-guez",
-        "title": "Machado returns and seeks talks with Rodríguez",
-        "when": "2026-10-26",
-        "place": "Caracas",
-        "lat": 10.48,
-        "lon": -66.9,
-        "what": "Opposition leader María Corina Machado came back from exile and asked for talks with acting president Delcy Rodríguez, with her return exposing a fault line in the oil sector.",
-        "via": "political stability risk",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
-            "url": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
-            "publisher": "Euronews"
-          },
-          {
-            "title": "Machado’s Return Exposes Fault Line in Venezuela’s Oil Sector",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWRYeUItWnZlVEcyS2NsaWE0cTNLeXJTZ3dzcTdDQjk1c3Nsd0hyVHFtTnJhcHV2NXdiV3VSVmlpREUtYXFncXBBei1MWThtNnZXUnRGM1BqakZpZktqQnhGdWcyeVlWTGFCd1B1QXE1eGxlcVRVX1VRX1Qya0Jic0ZOTFRFUkIxNHgzX0JBNzhid1NYX2ZHSkxGS1FCVW10YTBXeXZGa3VWN0NDTFFuX0p3?oc=5",
-            "publisher": "Bloomberg.com"
-          }
-        ]
-      },
-      {
-        "id": "sulzer-and-pdvsa-sign-five-year-agreement",
-        "title": "Sulzer and PDVSA sign five-year agreement",
-        "when": "2026-10-27",
-        "place": "Caracas",
-        "lat": 10.48,
-        "lon": -66.9,
-        "what": "Sulzer and state oil company PDVSA signed a long-term agreement covering oil and gas infrastructure.",
-        "via": "long-term service contracts",
+        "id": "venezuelan-oil-exports-pass-1-million-bpd",
+        "title": "Venezuelan oil exports pass 1 million bpd",
+        "when": "2026-10-28",
+        "place": "Venezuela",
+        "lat": 10.4806,
+        "lon": -66.9036,
+        "what": "Shipping data show Venezuelan oil exports rose above 1 million barrels a day for the first time in six months, supporting the case for investors.",
+        "via": "recovering export volumes",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Sulzer, PDVSA Sign Long-Term Oil and Gas Agreement - News and Statistics",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWwxN3k3LWxDZHNWVU40UFNCY0k1TXcyYkFQUFh2cmZ3SU5xdVZkU21iYVRkRmFwTWd6Sm9tRzRkREhTUVEzbUlnQldTWTNZRUtiWU42a0tMeG1mYjBtLW9rYW12eTB3dHJ1Z25wWE1EQ2g2UDg5WFp5NU9LNWR0RnV1QU5hVVhpUGF0SGoyMy03RWxCS1N6T2FNQV80MVo3aTZPNDJBTjZQTmo3MmxJemVKY0Vqb3M?oc=5",
-            "publisher": "IndexBox"
-          },
-          {
-            "title": "Sulzer and PDVSA sign five-year agreement for oil infrastructure",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByNFhfT2lHU0hDSmZLMTFubEUwNG1HcUpGZGlBcnpfc0xLV19YdEVvdzR3RlNoNlZBQk9rTDREVU1Nd285Ym5LcFVLSkxJVmdPWHFGRExWakNyaS1xU0t3LTEzbi03YllWd3JjQUtkaHFsZ3YyZ0U4VWdEQWU?oc=5",
-            "publisher": "Inspenet"
+            "title": "Venezuela’s Oil Exports Surpassed 1 Million Bpd for the First in 6 months, Shipping Data Shows",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0hoOUNPLV9BSU5MdjZYMnk3bTNMbjhKQXBjNjRjenh3b0F4eWU4a1RBaWtBM1BUUzdVX2FBLXNlRkRsTVJxejg5VjJGMFpmVEdVQkE4czF5ckpSOU1qYWJqZk14UmxoWlhzNXJXU0xTa2htZjFzcFhlNC10M0lHU21DWk9tTjdlYW5LUEpnT0pWSjhobUdpQWVtdHllblExclctR2hNQllzbUpTX3dCQWs3Tm1kZnZfRXA1V1hSR0g?oc=5",
+            "publisher": "EnergyNow.com"
           }
         ]
       },
       {
-        "id": "us-appeals-court-upholds-pdvsa-2020-bonds",
-        "title": "US appeals court upholds PDVSA 2020 bonds",
-        "when": "2026-10-27",
-        "place": "United States",
-        "lat": 39.8,
-        "lon": -98.6,
-        "what": "A US court of appeals affirmed the validity of PDVSA's 2020 bonds, a ruling that bears on creditor claims tied to Venezuela's oil sector.",
-        "via": "creditor claim certainty",
-        "aspect": "markets",
+        "id": "rubio-says-majors-eye-more-venezuelan-fields",
+        "title": "Rubio says majors eye more Venezuelan fields",
+        "when": "2026-10-28",
+        "place": "Washington",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "what": "US Secretary of State Rubio says Chevron, Exxon and Reliance are considering additional Venezuelan oil fields, which points to further deals beyond those already signed.",
+        "via": "US-backed company interest",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlZoSHBxdTFzWThkc01PYkF1eXpJWEUwLXljM215RllRU2V1RVdvSlVYXzhLUGFhQWtyWkJxUlVOdU1JY3hFNmFfTHptUVRYLVJpY3JYMkM1LWpnbnJpeTRTdlYtREdHelYyUzRaNklrb2dGcDRvYmdNQ1FVV2NwQldadGZoMG82cUhCQ01qSW91RklVRDVzZ09XQkRSWnQ4QnBBSC1nbDNjYmZlQXFoVngzeUQ?oc=5",
-            "publisher": "Reuters"
+            "title": "Rubio Says Chevron, Exxon And Reliance Eye Additional Venezuelan Oil Fields",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXg3MmE3NFpsT0tYOFN6U0Rmb3MtVTVBQnVkQ0pWM2ZtQUxFdlkzZ3FmOXJfcXFBdWZLS3FZLU9IMWJqVFdzZTc0cFZGWUxBN3RRZDFtT3U2Y29RUm9XSE01V2Zad1J3ZEctNERyOURwdXRzckE3NVIzWHEwM2IzMWhjaU4yX0N2SVNyeS1ucmNkU3dxM1k4dHhJSUEweHVRaVNRZ0dnWHdnT0pVdTFzQnl0a0xNSDY3NFFvZVlHTTVtekRQaFlSYUt1WQ?oc=5",
+            "publisher": "TradingView"
+          }
+        ]
+      },
+      {
+        "id": "us-says-china-gets-no-venezuela-oil-revenue",
+        "title": "US says China gets no Venezuela oil revenue",
+        "when": "2026-10-28",
+        "place": "Washington",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "what": "US Energy Secretary Wright says China will have no claim to Venezuelan oil revenue, keeping the investment framework limited to US-approved partners.",
+        "via": "exclusion of rival creditors",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "China Won’t Have Claim to Venezuela Oil Revenue, Wright Says",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0txdjFOSDFvRWh3S1UzcGRWVm1jVmVORE1DTTZxZENpUlU5ZENSWWVySHZPLWp3NjJzNVJVZzFmZTkyd3NrV2Z3QlhCSzhJUlR4UG5IS3h2Y0V0NjVFcVhHVVZUa2dLVUt6aF9VS2FyTWpyR1pVMU45SEFEQWZRbUMtSWhzeDhNRTQydUd2TlctYVU?oc=5",
+            "publisher": "EnergyNow.com"
           }
         ]
       }
@@ -3064,54 +2898,30 @@
     ]
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T15:07:15.247Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "student-assemblies-organise-the-anti-vuc-ic-movement",
-        "title": "Student assemblies organise the anti-Vučić movement",
-        "when": "ongoing",
-        "place": "Serbia",
-        "lat": 44.8,
-        "lon": 20.46,
-        "what": "Student assemblies served as the grassroots structure of a protest movement that set out to turn street pressure into votes against Vučić's long rule.",
-        "via": "grassroots organising and voter mobilisation",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "How student assemblies brought down the Serbian government",
-            "url": "https://www.france24.com/en/europe/20261027-how-student-assemblies-brought-down-the-serbian-government",
-            "publisher": "France 24"
-          },
-          {
-            "title": "How a movement of students brought down Serbia's Vučić",
-            "url": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC Europe"
-          },
-          {
-            "title": "Serbia after Vučić: Who is behind the student revolution, and can it govern?",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMHlla3VuekxrU0VTYVI2X2lWVTdsWW9fbVpzUEhnR0ZSYVFmZGQ3RWphVWZCRmRoblViLWM0Rmtwb3A5RENUMk1rSDlTTHA4d0llY3dmZGZSOVIyVWZXSXlEbE1YX2I5c0lGSk5TczBTRWppYXpDMmVERTlHSWVjXzZuYzVOVEN5cFN2blJSXzh0cko2ZEtSS3huWUszNEVpU2Y0X3FlR3FTVGY5c0dDWjJQQXRUZw?oc=5",
-            "publisher": "www.lvivherald.com"
-          }
-        ]
-      },
-      {
-        "id": "student-list-pledges-commitment-to-eu-integration",
-        "title": "Student list pledges commitment to EU integration",
-        "when": "2026-10-27",
+        "id": "final-student-led-rally-held-in-belgrade",
+        "title": "Final student-led rally held in Belgrade",
+        "when": "2026-10-22",
         "place": "Belgrade",
-        "lat": 44.8,
+        "lat": 44.82,
         "lon": 20.46,
-        "what": "A Student List figure, Srdanovic, said the movement is committed to European integration, setting out the platform voters were asked to back against Vučić.",
-        "via": "pro-EU electoral platform",
+        "what": "Thousands of students gathered in Belgrade for the last student-led rally before the election, as the protest movement tried to turn street pressure into votes against 12 years of Vučić rule.",
+        "via": "street pressure turned into votes",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "'Committed To European Integration': Student List's Srdanovic On Serbia's Post-Vucic Future",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGVJZk4yMTY5MktwVlc1N1M1cElzTDlmcjUycFltTTk5N1BTeEJOOVhWNGJUNHJpNkVDVEVMOHBxaWgtOC1KUnNzNnZxSGZTUm4yWEJhNmtXNmJuMXZQSnd2SDhWcDkwTDdoOVFTMXpLUnZDYnQwd2JLb095b19UQU1lNFVYb0lVZWh6dzdjbFg0bWdqNW1hQnBaVEo2enQ3RlJCSUFmeUxKZkE00gGvAUFVX3lxTFBlaG9DT0RSMEtJVXU5cGVVaTBXUUhoRTNNTEVRNzRabk5nVkd2S3Bpa1M4amdaUGVfX0dfVGYyZWFZY3NrY2pCb2xQVGlLTXFQT1kwbGd0TUk0NUkweUVCMW5Cb3lZUnktM2wwWGE5cVEyaXM2M0EtcDZwaG9IaEgxXzMxNzJHVkFFNlZtOGdPeG5zV3F0VkNzRjZKYWszSlRfX25HTThlTE12ckdTNkk?oc=5",
-            "publisher": "Radio Free Europe/Radio Liberty"
+            "title": "Thousands gather at final student-led rally ahead of Serbia election",
+            "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          },
+          {
+            "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+            "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+            "publisher": "BBC World"
           }
         ]
       }
@@ -3971,6 +3781,69 @@
             "title": "PHP flags a third PHP2Shell flaw and skips the emergency fix",
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCRVRtcHk2N3JEbEFmb0hPVHBadlRSLTJxYmtvejZabDJtcDhGZGFzNVNOTnk1ZzFBRzRFUy1seFFvVE12bHZtWEYtVGh6WFVuNTQwb0Q2SkEtTHRpdnVXdmN6cHdPNnpKMmlmSkR6TUNfdnAxeDR0Qw?oc=5",
             "publisher": "The Next Web"
+          }
+        ]
+      }
+    ]
+  },
+  "uk-budget-defense-ukraine-2026": {
+    "at": "2026-10-28T15:07:15.247Z",
+    "by": "pipeline",
+    "items": [
+      {
+        "id": "100-energy-payment-for-millions",
+        "title": "£100 energy payment for millions",
+        "when": "2026-10-28",
+        "place": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "what": "Healey announced a £100 energy payment for millions of households as part of the Budget, adding a cost-of-living commitment alongside defense and Ukraine spending.",
+        "via": "added household spending commitment",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Budget 2026 live: Healey announces £100 energy payment for millions and rise in bank tax",
+            "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+            "publisher": "The Guardian World"
+          }
+        ]
+      },
+      {
+        "id": "bank-tax-rise-announced",
+        "title": "Bank tax rise announced",
+        "when": "2026-10-28",
+        "place": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "what": "The Chancellor announced a rise in the bank tax, a revenue-raising measure within the Budget.",
+        "via": "extra revenue from banks",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Budget 2026 live: Healey announces £100 energy payment for millions and rise in bank tax",
+            "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+            "publisher": "The Guardian World"
+          }
+        ]
+      },
+      {
+        "id": "obr-cuts-2027-growth-forecast",
+        "title": "OBR cuts 2027 growth forecast",
+        "when": "2026-10-28",
+        "place": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "what": "The Office for Budget Responsibility cut its UK growth forecast for 2027, even after counting the Chancellor's Budget measures.",
+        "via": "weaker growth outlook",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "OBR slashes UK growth forecast for 2027 despite Healey’s budget measures",
+            "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+            "publisher": "The Guardian World"
           }
         ]
       }

@@ -617,6 +617,96 @@
         "headlines": 3,
         "publishers": 3
       }
+    },
+    {
+      "id": "uk-budget-defense-ukraine-2026",
+      "title": "UK Budget speeds up defense target, pledges billions to Ukraine",
+      "type": "economy",
+      "date": "2026-10-28",
+      "status": "developing",
+      "region": "United Kingdom",
+      "lat": 51.5034,
+      "lon": -0.1276,
+      "countries": [
+        "GB",
+        "UA"
+      ],
+      "summary": "The UK's first Budget from the new Chancellor brings forward its defense spending target and pledges billions to Ukraine. It also adds a £100 energy payment and a higher bank tax, while the OBR cuts its 2027 growth forecast, which matters for Europe's capacity to keep funding Ukraine's war effort.",
+      "severity": 3,
+      "keywords": [
+        "uk budget",
+        "healey",
+        "chancellor",
+        "obr",
+        "defense spending",
+        "ukraine aid",
+        "bank tax",
+        "energy payment",
+        "growth forecast",
+        "gilts"
+      ],
+      "links": [
+        {
+          "to": "ukraine-summit-diplomacy",
+          "kind": "affects",
+          "why": "Extra UK money for Ukraine strengthens Kyiv's position as Putin seeks a summit and French politicians question aid.",
+          "via": "UK military and financial aid to Ukraine"
+        },
+        {
+          "to": "ukraine-starlink-restrictions-2026",
+          "kind": "responds_to",
+          "why": "Europe is being pushed to fill gaps left by uncertain US support, and higher UK defense and Ukraine spending is part of that response.",
+          "via": "European defense spending replacing US backing",
+          "driver": "us-attention-backing"
+        },
+        {
+          "to": "gulf-war-energy-shock",
+          "kind": "responds_to",
+          "why": "The £100 energy payment and bill cuts respond to energy prices pushed up by the Gulf war.",
+          "via": "household energy bill support",
+          "driver": "gulf-energy-prices"
+        }
+      ],
+      "sources": [
+        {
+          "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+          "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+          "publisher": "CNBC World",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "UK brings forward defense spending target, pledging billions to Ukraine",
+          "url": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
+          "publisher": "CNBC World",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "OBR slashes UK growth forecast for 2027 despite Healey’s budget measures",
+          "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+          "publisher": "The Guardian World",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Budget 2026 live: Healey announces £100 energy payment for millions and rise in bank tax",
+          "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+          "publisher": "The Guardian World",
+          "date": "2026-10-28"
+        }
+      ],
+      "news": {
+        "q": "\"Budget\" OR \"Healey\" OR \"OBR\" defence Ukraine",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-10-28T15:07:15.247Z",
+        "reason": "A UK government budget with a dated decision to speed up its defense target and fund Ukraine, while the OBR cuts the 2027 growth forecast, reaches a foreign state through arms and aid money.",
+        "channel": "military aid and defense spending to Ukraine, plus UK growth and gilt outlook",
+        "reaches": [
+          "UA"
+        ],
+        "headlines": 5,
+        "publishers": 3
+      }
     }
   ]
 }

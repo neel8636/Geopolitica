@@ -1,0 +1,707 @@
+{
+  "slug": "uk-budget-defense-ukraine-2026",
+  "title": "UK Budget speeds up defense target, pledges billions to Ukraine",
+  "deck": "Chancellor John Healey's first Budget brings forward Britain's defense spending target, pledges billions to Ukraine and hands households £100 for energy, but the fiscal watchdog has cut its 2027 growth forecast anyway.",
+  "updated": "2026-10-28",
+  "status": "developing",
+  "region": "United Kingdom",
+  "tags": [
+    "UK Budget",
+    "defense spending",
+    "Ukraine aid",
+    "energy bills",
+    "bank tax",
+    "growth forecast",
+    "Europe security"
+  ],
+  "readingMinutes": {
+    "card": 1,
+    "brief": 5,
+    "deep": 15
+  },
+  "fuel": [
+    {
+      "aspect": "budget",
+      "title": "OBR cuts UK 2027 growth forecast",
+      "how": "A weaker growth outlook, even after the Budget measures, leaves the Treasury less room to pay for defense, Ukraine and household support at the same time.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "markets",
+      "title": "Bank tax rise announced",
+      "how": "The Chancellor raises money from the banking sector, which helps fund the new commitments but puts a cost on a large part of the UK financial system.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "living",
+      "title": "£100 energy payment for millions",
+      "how": "A one-off household payment responds to energy costs pushed up by the Gulf war and adds a spending commitment alongside defense and Ukraine.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "security",
+      "title": "Defense target brought forward, Ukraine pledged billions",
+      "how": "Earlier defense spending and billions for Kyiv add to the military and financial support Ukraine can count on as US backing looks less certain.",
+      "sourceIndex": 1
+    }
+  ],
+  "card": {
+    "headline": "Britain spends more on defense and Ukraine and shields households, while its own growth outlook gets worse",
+    "keyNumber": {
+      "value": "£100",
+      "label": "energy payment for millions of households, announced alongside an earlier defense target and billions for Ukraine",
+      "sourceIndex": 3
+    },
+    "impactMeter": 3,
+    "forYou": [
+      {
+        "role": "Households",
+        "line": "A £100 energy payment is coming for millions of households. The official outlook for living standards was also downgraded."
+      },
+      {
+        "role": "Finance",
+        "line": "Banks face a higher tax. The OBR cut its 2027 growth forecast even after counting the Budget measures, so watch gilts and bank earnings."
+      },
+      {
+        "role": "Defense and industry",
+        "line": "The defense spending target moves earlier. The size of the extra money is not in our sources, so check the Budget documents."
+      },
+      {
+        "role": "Ukraine watchers",
+        "line": "Billions more from London strengthens Kyiv as Putin pushes for a summit with Trump and Xi and French politicians question aid."
+      },
+      {
+        "role": "Business founders and tech",
+        "line": "Tax relief for business founders and a 'new deal for datacentres' were announced. Details were not in our sources."
+      }
+    ],
+    "ripple": [
+      {
+        "label": "First-order",
+        "effects": [
+          {
+            "text": "£100 energy payment for millions of households, plus cuts to household energy costs",
+            "sector": "Household energy"
+          },
+          {
+            "text": "Bank tax raised as a revenue measure",
+            "sector": "Banking"
+          },
+          {
+            "text": "Defense spending target brought forward; billions pledged to Ukraine",
+            "sector": "Defense"
+          },
+          {
+            "text": "OBR cuts its 2027 growth forecast despite the Budget measures and downgrades the living-standards outlook",
+            "sector": "Public finance"
+          },
+          {
+            "text": "Funding for AI, a 'new deal for datacentres', tax relief for founders and money to tackle rough sleeping",
+            "sector": "Tech, social policy"
+          }
+        ]
+      },
+      {
+        "label": "Second-order",
+        "effects": [
+          {
+            "text": "Less growth means less tax revenue. Paying for defense, Ukraine and household help may need more tax or borrowing later (our estimate).",
+            "sector": "Public finance"
+          },
+          {
+            "text": "Banks may absorb the tax or pass part of it to customers. Which is not yet clear.",
+            "sector": "Banking"
+          },
+          {
+            "text": "Investors will look closely at whether the numbers add up under a weaker growth forecast, which can move gilt yields.",
+            "sector": "Markets"
+          },
+          {
+            "text": "Defense suppliers get a clearer, earlier demand signal, though the amounts are not yet known to us.",
+            "sector": "Defense industry"
+          }
+        ]
+      },
+      {
+        "label": "Third-order",
+        "effects": [
+          {
+            "text": "Kyiv has firmer funding to cite as Putin seeks a summit with Trump and Xi while refusing to meet Zelensky.",
+            "sector": "Diplomacy"
+          },
+          {
+            "text": "UK money partly fills the gap if US support looks uncertain, as in the Starlink dispute. Europe's ability to keep doing this depends on weak growth in its biggest economies.",
+            "sector": "Europe security"
+          },
+          {
+            "text": "The £100 payment is a patch. If Gulf-driven energy prices stay high, pressure for more support will return.",
+            "sector": "Energy"
+          },
+          {
+            "text": "Defense and Ukraine spending compete with domestic priorities in UK politics, and Le Pen's pledge shows aid can become an election issue elsewhere.",
+            "sector": "Politics"
+          }
+        ]
+      }
+    ]
+  },
+  "brief": {
+    "whatHappened": [
+      "On 28 October 2026 John Healey presented his first Budget as Chancellor. He called it a Budget for the 'working people of Britain, for British businesses big and small.'",
+      "The Budget brings forward the UK's defense spending target and pledges billions of pounds to Ukraine. Healey also reiterated Britain's support for Kyiv. Our sources say 'billions' but give no exact sums or dates for the target, so we do not guess them.",
+      "For households, Healey announced a £100 energy payment for millions of people, and the Budget cuts household energy costs. To raise money, the bank tax goes up. He also announced tax relief for business founders, funding to tackle rough sleeping, a 'new deal for datacentres' and money for artificial intelligence.",
+      "The independent Office for Budget Responsibility (OBR) cut its UK growth forecast for 2027, even after counting the Budget measures. It also downgraded the outlook for living standards, linking part of that to the impact of the Middle East conflict on the economy."
+    ],
+    "whyItMatters": [
+      "Public money: the OBR's cut to 2027 growth matters because it tightens the sums. Defense, Ukraine and household support all cost money, and a slower economy brings in less tax. This is also Europe's wider problem: whether big economies can keep funding Ukraine's war effort while their own growth weakens.",
+      "Markets and rates: the bank tax rise is the Budget's visible revenue measure from the financial sector. How banks respond (lower profits, higher charges, less lending) is not yet known. Investors will also judge whether a weaker growth forecast leaves the plan credible. That is our reading, not a sourced forecast.",
+      "Living costs: the £100 energy payment responds to energy prices pushed up since US-Israeli strikes on Iran began on 28 February 2026. A payment of this size helps but does not remove the pressure. The OBR's downgrade to the living-standards outlook suggests it does not expect the squeeze to end soon.",
+      "Security: Ukraine said Starlink stayed restricted even after Trump said limits were lifted, then said on 24 October that the link was restored and 'now stable'. That episode shows how much Kyiv depends on US decisions, and why European money matters more. At the same time Putin has proposed a summit with Trump and Xi while refusing to meet Zelensky, and Le Pen has pledged to cut French aid. A UK pledge of billions steadies Kyiv's position."
+    ],
+    "winners": [
+      {
+        "who": "Ukraine and its government",
+        "why": "More British military and financial aid adds to what Kyiv can plan around, at a time of uncertain US support and French political doubts."
+      },
+      {
+        "who": "Households receiving the £100 payment",
+        "why": "Millions of households get direct help with energy costs, though the payment is one-off and small against high prices."
+      },
+      {
+        "who": "UK defense industry (likely)",
+        "why": "An earlier spending target is a stronger demand signal for suppliers. We do not have the amounts, so this is an estimate."
+      },
+      {
+        "who": "Business founders and datacentre or AI investors",
+        "why": "Tax relief for founders and a 'new deal for datacentres' were announced, although details were not in our sources."
+      }
+    ],
+    "losers": [
+      {
+        "who": "UK banks",
+        "why": "The bank tax rises, taking money from profits or pushing the cost onto customers and borrowers."
+      },
+      {
+        "who": "The Chancellor's fiscal room",
+        "why": "The OBR cut the 2027 growth forecast even after the Budget measures, so there is less cushion for the next shock."
+      },
+      {
+        "who": "UK living standards",
+        "why": "The OBR downgraded the outlook for living standards, partly because of the Middle East conflict's economic impact."
+      },
+      {
+        "who": "Moscow's strategy of wearing down European support (hedged)",
+        "why": "New British money works against any bet that Western aid will fade, though Putin's summit push shows he is looking for other routes."
+      }
+    ],
+    "whatsNext": [
+      "Parliament will debate and vote on the Budget measures. The bank tax and the energy payment will need legal and administrative detail before they take effect.",
+      "Markets and analysts will go through the OBR's numbers and the government's borrowing plans in the coming days.",
+      "Putin's proposed summit with Trump and Xi, and Washington's stance on Starlink and intelligence sharing, will set the setting in which the UK money is used.",
+      "Gulf energy prices will decide whether the £100 payment is enough or whether more support is demanded."
+    ],
+    "predict": {
+      "question": "Before you read the scenarios: what is the most likely path for the Budget over the next six months?",
+      "options": [
+        "The plan holds, but fiscal pressure builds as growth disappoints",
+        "Markets push back and the government has to rework the numbers",
+        "Growth recovers as energy prices ease, and the squeeze fades",
+        "Ukraine or defense pledges are scaled back under political pressure"
+      ],
+      "answerIndex": 0,
+      "explanation": "Our base case, at about 50%, is that the plan holds, with the Ukraine pledge and defense target intact, but a weaker growth forecast keeps pressure on the Treasury. This is author judgement, not a sourced forecast."
+    },
+    "recap": [
+      {
+        "question": "Who delivered this Budget?",
+        "options": [
+          "John Healey, in his first Budget as Chancellor",
+          "A caretaker Treasury official",
+          "The Governor of the Bank of England"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did the OBR do after the Budget measures were counted?",
+        "options": [
+          "Raised its 2027 growth forecast",
+          "Cut its 2027 growth forecast",
+          "Left its forecast unchanged"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the size of the household energy payment?",
+        "options": [
+          "£100",
+          "£400",
+          "£1,000"
+        ],
+        "answerIndex": 0
+      }
+    ]
+  },
+  "deep": {
+    "timeline": [
+      {
+        "date": "2022-02-24",
+        "title": "Russia launches its full-scale invasion of Ukraine",
+        "detail": "The start of the war that now drives European defense spending and aid decisions."
+      },
+      {
+        "date": "2026-02-28",
+        "title": "Strikes on Iran begin",
+        "detail": "US-Israeli strikes keep oil and freight costs elevated for eight months; renewed fighting in Yemen and attacks on Saudi energy infrastructure intensify the spike."
+      },
+      {
+        "date": "2026-09-20",
+        "title": "French diesel hits a record EUR 2.41 a litre",
+        "detail": "A sign of how widely the Gulf energy shock reached European household costs, including in the UK."
+      },
+      {
+        "date": "2026-10-24",
+        "title": "Ukraine says Starlink link restored and 'now stable'",
+        "detail": "This follows days in which Ukraine said access stayed restricted after Trump said limits were lifted. It showed Kyiv's dependence on US-controlled satellite access."
+      },
+      {
+        "date": "2026-10-28",
+        "title": "Healey delivers his first Budget as Chancellor",
+        "detail": "He frames it as a Budget for 'working people of Britain, for British businesses big and small.'",
+        "sourceIndex": 4,
+        "turning": true
+      },
+      {
+        "date": "2026-10-28",
+        "title": "Defense spending target brought forward; billions pledged to Ukraine",
+        "detail": "Healey reiterates UK support for Ukraine. Exact sums and the new date are not in our sources.",
+        "sourceIndex": 1,
+        "turning": true
+      },
+      {
+        "date": "2026-10-28",
+        "title": "£100 energy payment and higher bank tax announced",
+        "detail": "Also announced: tax relief for business founders, funding to tackle rough sleeping and a 'new deal for datacentres'.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-28",
+        "title": "OBR cuts UK growth forecast for 2027",
+        "detail": "The cut comes even after counting the Budget measures. The OBR also downgrades the living-standards outlook, citing the Middle East conflict's impact.",
+        "sourceIndex": 2,
+        "turning": true
+      }
+    ],
+    "causes": [
+      {
+        "name": "Structural roots",
+        "when": "Years in the making",
+        "causes": [
+          {
+            "name": "Tight public finances and slow growth",
+            "detail": "The UK has had little fiscal room for several years (general knowledge, not drawn from the listed sources). Any new commitment has to be paid for by taxes, borrowing or cuts elsewhere."
+          },
+          {
+            "name": "Europe's security gap",
+            "detail": "Since Russia's 2022 invasion, European states have been under pressure to spend more on defense and to carry more of Ukraine's financing."
+          }
+        ]
+      },
+      {
+        "name": "Trigger",
+        "when": "28 October 2026, London",
+        "causes": [
+          {
+            "name": "A first Budget for a new Chancellor",
+            "detail": "Healey had to set the government's priorities and show how it would pay for them."
+          },
+          {
+            "name": "Need to answer on defense and Ukraine",
+            "detail": "Allies expect clear, funded commitments, and Kyiv needs planning certainty."
+          }
+        ]
+      },
+      {
+        "name": "Accelerants",
+        "when": "2026",
+        "causes": [
+          {
+            "name": "Gulf war energy shock",
+            "detail": "Strikes on Iran since 28 February 2026 kept oil and freight costs high, raising household bills and, by the OBR's account, weakening living standards."
+          },
+          {
+            "name": "Uncertain US support",
+            "detail": "Starlink restrictions and questions over US intelligence sharing (Rubio denied any pause) push Europe to fill gaps."
+          },
+          {
+            "name": "Diplomatic pressure on Ukraine",
+            "detail": "Putin proposed a summit with Trump and Xi while refusing to meet Zelensky, and Le Pen pledged to cut French aid."
+          }
+        ]
+      }
+    ],
+    "stakeholders": [
+      {
+        "name": "John Healey",
+        "role": "Chancellor of the Exchequer",
+        "wants": "A Budget that funds defense and Ukraine, protects households from energy costs and is seen as credible",
+        "leverage": "Control of tax and spending decisions, and the Budget's announcements",
+        "likelyMove": "Defend the package as support for working people while stressing security commitments"
+      },
+      {
+        "name": "Office for Budget Responsibility",
+        "role": "Independent fiscal watchdog",
+        "wants": "Accurate forecasts of growth and the public finances",
+        "leverage": "Its numbers frame the market and political reaction",
+        "likelyMove": "Keep its cautious 2027 growth view unless the economy surprises"
+      },
+      {
+        "name": "UK banks",
+        "role": "Payers of the higher bank tax",
+        "wants": "Limit the hit to profits and lending",
+        "leverage": "Lobbying, and the ability to change pricing and lending behaviour",
+        "likelyMove": "Lobby over design; possibly pass part of the cost to customers (estimate)"
+      },
+      {
+        "name": "UK households",
+        "role": "Recipients of the £100 payment and bill cuts",
+        "wants": "Lower energy bills and a stable cost of living",
+        "leverage": "Votes and public opinion",
+        "likelyMove": "Welcome the payment but keep pressing for lasting relief if prices stay high"
+      },
+      {
+        "name": "Volodymyr Zelensky and Kyiv",
+        "role": "Recipient of UK aid",
+        "wants": "Predictable European funding and military support while US backing is uncertain",
+        "leverage": "Moral and strategic case; Zelensky said lives are worth more than the price of aid",
+        "likelyMove": "Cite UK money in talks and press other Europeans to match it"
+      },
+      {
+        "name": "Vladimir Putin",
+        "role": "Russian president",
+        "wants": "A summit with Trump and Xi on a Ukraine deal, and weaker European resolve",
+        "leverage": "Military pressure and diplomacy; refuses to meet Zelensky",
+        "likelyMove": "Keep pushing the summit idea and look for splits in European support"
+      },
+      {
+        "name": "The US administration",
+        "role": "Main outside backer of Ukraine, controlling Starlink access",
+        "wants": "A deal on Ukraine and a larger European burden",
+        "leverage": "Access to Starlink and intelligence, and diplomacy with Moscow",
+        "likelyMove": "Keep ambiguity over restrictions, with Rubio publicly denying any pause in intelligence sharing"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "UK defense industry",
+        "direction": "up",
+        "size": 2,
+        "why": "An earlier spending target is a clearer demand signal. The amounts are not in our sources."
+      },
+      {
+        "sector": "UK banks",
+        "direction": "down",
+        "size": 2,
+        "why": "The bank tax rise cuts profits or forces higher charges."
+      },
+      {
+        "sector": "Public finances and gilts",
+        "direction": "mixed",
+        "size": 3,
+        "why": "Extra revenue helps, but the OBR's growth cut and new commitments raise questions about the numbers. The market reaction is not in our sources."
+      },
+      {
+        "sector": "Household energy",
+        "direction": "mixed",
+        "size": 2,
+        "why": "The £100 payment and bill cuts help consumers, but energy prices still depend on the Gulf war."
+      },
+      {
+        "sector": "Technology, AI and datacentres",
+        "direction": "up",
+        "size": 1,
+        "why": "The Budget directs funding to AI and announces a 'new deal for datacentres'."
+      },
+      {
+        "sector": "Consumer spending and retail",
+        "direction": "mixed",
+        "size": 1,
+        "why": "The payment supports spending in the short run, while the OBR's weaker living-standards outlook limits it."
+      },
+      {
+        "sector": "Ukraine's military and public finances",
+        "direction": "up",
+        "size": 3,
+        "why": "Billions in pledged UK support adds to what Kyiv can rely on, at a time of doubt over US and French backing."
+      }
+    ],
+    "dailyLife": [
+      {
+        "item": "Energy bills",
+        "effect": "A £100 payment goes to millions of households, and the Budget cuts household energy costs. Eligibility and timing were not in our sources.",
+        "sourceIndex": 3
+      },
+      {
+        "item": "Living standards",
+        "effect": "The OBR downgraded the outlook, so real incomes are expected to be weaker than previously thought, partly because of the Middle East conflict.",
+        "sourceIndex": 2
+      },
+      {
+        "item": "Banking",
+        "effect": "The bank tax rise may affect savings rates, loan pricing or fees, but how banks respond is not yet known.",
+        "sourceIndex": 3
+      },
+      {
+        "item": "Starting a business",
+        "effect": "Tax relief for business founders was announced, with details still to come.",
+        "sourceIndex": 3
+      },
+      {
+        "item": "Homelessness services",
+        "effect": "Funding to tackle rough sleeping was announced.",
+        "sourceIndex": 3
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Plan holds, pressure builds",
+        "probability": 50,
+        "looksLike": "The Ukraine pledge and defense target stay in place. Growth disappoints, and the government faces calls for more tax rises or tight spending limits later.",
+        "signposts": [
+          "Calm gilt market after the OBR numbers",
+          "Little change to the OBR forecast at its next update",
+          "Continued demand for more energy support"
+        ],
+        "effectOnWorld": "The UK stays a reliable funder for Kyiv, but with less room to do more. Europe's overall capacity stays strained."
+      },
+      {
+        "name": "Market or political pushback",
+        "probability": 20,
+        "looksLike": "Investors or MPs question whether the numbers add up, forcing changes to taxes, borrowing plans or spending pledges.",
+        "signposts": [
+          "Rising gilt yields after the Budget",
+          "Backbench resistance to the bank tax or to spending priorities",
+          "Public disagreement with the OBR"
+        ],
+        "effectOnWorld": "Raises doubt over how long European states can fund Ukraine from stretched budgets."
+      },
+      {
+        "name": "Growth rebound as energy eases",
+        "probability": 20,
+        "looksLike": "Gulf tensions ease, oil and freight costs fall, and the economy beats the OBR's cautious view.",
+        "signposts": [
+          "Lower oil and gas prices",
+          "Rising consumer confidence",
+          "Better-than-forecast tax receipts"
+        ],
+        "effectOnWorld": "Gives Europe more room to sustain defense and Ukraine spending."
+      },
+      {
+        "name": "Aid rethink under pressure",
+        "probability": 10,
+        "looksLike": "Domestic pressure, or a Ukraine deal that changes the war, leads to a slower or smaller aid path than pledged.",
+        "signposts": [
+          "A ceasefire or summit outcome",
+          "Political criticism of aid costs",
+          "Shifts in US policy"
+        ],
+        "effectOnWorld": "A signal to other European backers that the support is conditional."
+      }
+    ],
+    "predictions": [
+      {
+        "text": "The UK will keep both its brought-forward defense target and its Ukraine pledge in place for the next six months (about 85% likely).",
+        "horizon": "By April 2027",
+        "resolves": "2027-04-28"
+      },
+      {
+        "text": "At least one other European government will announce new or higher defense or Ukraine funding (about 70% likely).",
+        "horizon": "By January 2027",
+        "resolves": "2027-01-28"
+      },
+      {
+        "text": "The higher bank tax will be legislated with its broad design intact (about 75% likely).",
+        "horizon": "By mid-2027",
+        "resolves": "2027-07-31"
+      },
+      {
+        "text": "Government will face renewed calls for more energy support if Gulf-driven prices stay high (about 60% likely).",
+        "horizon": "By end of winter 2026-27",
+        "resolves": "2027-03-31"
+      },
+      {
+        "text": "The OBR will not revise its 2027 growth forecast back up at its next forecast (about 55% likely).",
+        "horizon": "By spring 2027",
+        "resolves": "2027-04-30"
+      }
+    ],
+    "countermeasures": [
+      {
+        "audience": "businesses",
+        "actions": [
+          "Read the Budget documents for the defense, AI, datacentre and founder-relief details, which our sources do not give.",
+          "Defense suppliers should check how the earlier target changes the timing of contracts.",
+          "Plan for weaker 2027 growth, as the OBR now assumes.",
+          "Banks and lenders should model the bank tax and any pricing response."
+        ]
+      },
+      {
+        "audience": "investors",
+        "actions": [
+          "Watch gilt yields and the OBR's numbers for signs that the plan's credibility is slipping.",
+          "Review UK bank exposure for the effect of the higher tax.",
+          "Treat the defense target as a demand signal only once the amounts are published."
+        ]
+      },
+      {
+        "audience": "households",
+        "actions": [
+          "Look for how and when the £100 payment will be delivered, and avoid anyone offering to 'claim' it for a fee.",
+          "Expect energy prices to stay sensitive to the Gulf war.",
+          "Keep a buffer, given the OBR's downgraded living-standards outlook."
+        ]
+      },
+      {
+        "audience": "policymakers",
+        "actions": [
+          "Publish the cost and funding path for the defense target and the Ukraine pledge.",
+          "Coordinate with European partners so UK money fills gaps without duplicating.",
+          "Plan for a more targeted energy support scheme if prices stay high."
+        ]
+      }
+    ],
+    "analogues": [
+      {
+        "event": "UK mini-budget and gilt turmoil",
+        "year": "2022",
+        "whatFollowed": "Unfunded tax cuts triggered sharp gilt market stress and a reversal. It shows how fast investors punish fiscal plans they doubt."
+      },
+      {
+        "event": "UK energy bill support during the 2022 price spike",
+        "year": "2022",
+        "whatFollowed": "Government support, including a £400 payment to households, was layered on price caps. Costs ran to tens of billions, and similar support was needed again while prices stayed high."
+      },
+      {
+        "event": "Germany's defense turnaround (Zeitenwende)",
+        "year": "2022",
+        "whatFollowed": "A €100bn special fund and a higher defense target followed Russia's invasion. Spending rose, but financing debates continued for years."
+      }
+    ],
+    "watch": [
+      {
+        "title": "Gilt market reaction and the OBR's detailed documents",
+        "why": "Show whether investors accept the plan under a weaker 2027 growth forecast."
+      },
+      {
+        "title": "Exact size and timing of the defense target and Ukraine pledge",
+        "why": "Our sources say 'billions' without figures, so the detail decides how significant the move is."
+      },
+      {
+        "title": "Bank responses to the higher tax",
+        "why": "Determines whether the cost lands on profits, customers or lending."
+      },
+      {
+        "title": "Putin's proposed summit with Trump and Xi",
+        "why": "Any outcome could change how Ukraine uses European money."
+      },
+      {
+        "title": "Starlink access and US intelligence sharing",
+        "why": "If US restrictions return, the call on European funding rises."
+      },
+      {
+        "title": "Gulf energy prices",
+        "why": "They drive household costs, growth and the case for more support."
+      },
+      {
+        "title": "French politics and Le Pen's pledge to cut aid",
+        "why": "Shows how fragile European funding for Ukraine could be."
+      }
+    ]
+  },
+  "evidence": {
+    "sources": [
+      {
+        "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+        "url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+        "publisher": "CNBC World",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "UK brings forward defense spending target, pledging billions to Ukraine",
+        "url": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
+        "publisher": "CNBC World",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "OBR slashes UK growth forecast for 2027 despite Healey's budget measures",
+        "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+        "publisher": "The Guardian World",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Budget 2026 live: Healey announces £100 energy payment for millions and rise in bank tax",
+        "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+        "publisher": "The Guardian World",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Chancellor begins to deliver his first Budget",
+        "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC Business",
+        "date": "2026-10-28"
+      }
+    ],
+    "confidence": [
+      {
+        "claim": "The Budget brings forward the defense target and pledges billions to Ukraine",
+        "level": "high",
+        "note": "Reported in the CNBC headline and summary; exact sums and dates are not in our material."
+      },
+      {
+        "claim": "£100 energy payment and higher bank tax",
+        "level": "high",
+        "note": "Reported in The Guardian's live Budget coverage and the CNBC headline."
+      },
+      {
+        "claim": "OBR cut its 2027 growth forecast and downgraded living standards",
+        "level": "high",
+        "note": "The Guardian headline and summary. The size of the cut is not in our material."
+      },
+      {
+        "claim": "Second- and third-order effects, such as bank pass-through, gilt reaction and effects on Europe's Ukraine funding",
+        "level": "low",
+        "note": "Author estimates; no source in our material measures these."
+      },
+      {
+        "claim": "Scenario probabilities and prediction odds",
+        "level": "low",
+        "note": "Author judgement, to be graded as events resolve."
+      },
+      {
+        "claim": "Gulf war, Starlink and Putin summit context",
+        "level": "medium",
+        "note": "Taken from the connected events as summarised in the briefing, not from the listed Budget sources."
+      },
+      {
+        "claim": "Analogues (2022 mini-budget, 2022 energy support, Zeitenwende)",
+        "level": "medium",
+        "note": "From general knowledge; details are summarised rather than quantified."
+      }
+    ],
+    "method": "Drafted from the five listed sources and the wire headlines and summaries matched to the event, plus the connected events' summaries. Detailed Budget figures, such as the size of the defense target and Ukraine pledge, the OBR growth numbers and the bank tax amount, were not in the material and were left out rather than estimated. Second- and third-order effects, scenario probabilities and predictions are the author's judgement, and the timeline's pre-Budget entries and the analogues draw on the connection summaries and general knowledge.",
+    "changeLog": [
+      {
+        "date": "2026-10-28",
+        "change": "First publication."
+      }
+    ]
+  },
+  "generated": {
+    "by": "Geopolitica draft script",
+    "at": "2026-10-28T15:14:06.024Z",
+    "model": "claude-sonnet-5-5",
+    "sources": 4,
+    "headlines": 5,
+    "reviewed": false,
+    "size": "deep"
+  }
+}
