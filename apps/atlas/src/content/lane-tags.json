@@ -1,113 +1,74 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-10-28T12:07:03.388Z",
+    "at": "2026-10-28T19:07:29.798Z",
     "by": "pipeline",
-    "hash": "1qfoq8z",
+    "hash": "1hvyirg",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.85,
+        "likelihood": 0.4,
         "delayDays": [
-          1,
-          5
+          2,
+          7
         ],
         "costPct": [
           10,
           40
         ],
-        "why": "Hormuz attacks continue as of 28 Oct 2026, with an oil spill reported in the strait the same day, and the US is warning Gulf states to prepare for a new round of Iran strikes, so war-risk premiums and transit delays persist.",
-        "action": "Ask your forwarder for current war-risk surcharges and Gulf routing options, and hold at least 10 days of buffer stock for cargo transiting Hormuz.",
+        "why": "On 28 Oct 2026 reports say the US told Gulf states to prepare for Iran strikes after the 3 Nov midterms, and Israel is readying new strikes. Gulf oil flows are currently above pre-war levels, but renewed fighting would put tanker and container traffic through Hormuz at risk and r",
+        "action": "Ask your forwarder now for war-risk surcharge terms on Gulf-bound and Gulf-origin bookings, and hold 10-14 days of buffer stock for cargo that must transit Hormuz in November.",
         "sources": [
+          0,
           2,
-          3,
-          7,
-          4
+          4,
+          6,
+          8
         ]
       },
       {
         "point": "JEBELALI",
         "effect": "surcharge",
-        "likelihood": 0.6,
+        "likelihood": 0.3,
         "delayDays": [
           2,
-          7
+          5
         ],
         "costPct": [
-          8,
-          25
+          5,
+          15
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where attacks and a new US strike round are expected, so carriers are likely to keep war-risk surcharges and congestion in place through November 2026.",
-        "action": "Ask your carrier whether Jebel Ali bookings carry war-risk surcharges, and line up an Omani or Red Sea-side port such as Salalah or Jeddah with a truck or rail transfer as a fallback.",
-        "sources": [
-          2,
-          3,
-          7
-        ]
-      },
-      {
-        "point": "RED_SEA",
-        "effect": "security",
-        "likelihood": 0.55,
-        "delayDays": [
-          7,
-          14
-        ],
-        "costPct": [
-          10,
-          35
-        ],
-        "why": "Houthi strikes on a Saudi refinery and pipeline were reported on 28 Oct 2026 amid renewed fighting in Yemen, which threatens Red Sea shipping and keeps insurers' premiums high.",
-        "action": "Check with your forwarder whether Asia–Europe bookings are routed via the Cape, and avoid Red Sea transit for time-critical or high-value cargo.",
+        "why": "With the US telling Gulf states to prepare for Iran strikes after the midterms (28 Oct 2026), Jebel Ali faces a risk of congestion, carrier surcharges and schedule disruption if fighting resumes.",
+        "action": "Ask your carrier which Jebel Ali bookings carry emergency surcharges, and pre-agree an alternative discharge or transshipment option for November sailings.",
         "sources": [
           0,
-          1,
-          6,
-          7
-        ]
-      },
-      {
-        "point": "BAB_EL_MANDEB",
-        "effect": "security",
-        "likelihood": 0.5,
-        "delayDays": [
-          10,
-          14
-        ],
-        "costPct": [
-          10,
-          35
-        ],
-        "why": "Houthi attacks escalated on 28 Oct 2026 and the US is threatening to renew the Iran war, so ships passing the strait off Yemen face a credible attack risk and may divert round Africa.",
-        "action": "Confirm with your carrier which services avoid Bab el-Mandeb and add 10-14 days of lead time for Asia–Europe cargo on Cape routings.",
-        "sources": [
-          0,
-          1,
-          3
+          5,
+          6
         ]
       },
       {
         "point": "IR_AIRSPACE",
         "effect": "closure",
-        "likelihood": 0.75,
+        "likelihood": 0.5,
         "delayDays": [
           0,
           1
         ],
         "costPct": [
-          3,
-          10
+          2,
+          6
         ],
-        "why": "Iranian airspace is in a war zone and the US is warning of fresh strikes on Iran, so overflight restrictions and detours for air cargo are likely to continue.",
-        "action": "Ask your air forwarder to confirm that Europe–Asia flights are routed around Iranian airspace, and expect longer routings and fuel surcharges on affected lanes.",
+        "why": "Washington and Israel are reported to be preparing new strikes on Iran after the 3 Nov midterms, and Iran rejects the latest mediation (28 Oct 2026), so Iranian airspace is likely to be closed or avoided by air cargo flights.",
+        "action": "Ask your air forwarder to price and plan Europe-Asia and Gulf routings that avoid Iranian airspace, and add 1 day of buffer to time-critical air shipments.",
         "sources": [
+          0,
+          2,
           3,
-          5,
-          0
+          6
         ]
       },
       {
-        "point": "IQ_SY_AIRSPACE",
+        "point": "LEVANT_AIRSPACE",
         "effect": "closure",
         "likelihood": 0.4,
         "delayDays": [
@@ -116,89 +77,111 @@
         ],
         "costPct": [
           2,
-          8
+          5
         ],
-        "why": "Iraqi militia strikes on Saudi targets were reported on 28 Oct 2026, and a renewed US-Iran round of strikes could prompt airspace restrictions over Iraq and Syria.",
-        "action": "Ask your air forwarder for alternative routings that avoid Iraqi and Syrian airspace on Gulf–Europe flights, and allow an extra day on those lanes.",
+        "why": "Israel is readying new Iran strikes (28 Oct 2026), which would likely bring airspace restrictions over Israel, Jordan and Lebanon for cargo flights.",
+        "action": "Ask your air forwarder for backup routings that avoid the Levant, and confirm whether your Israel-bound cargo can be rebooked at short notice.",
         "sources": [
+          2,
           6,
-          3
+          8
         ]
       },
       {
-        "point": "DXB",
-        "effect": "delay",
-        "likelihood": 0.3,
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.4,
         "delayDays": [
-          1,
-          4
+          10,
+          14
         ],
         "costPct": [
-          3,
-          12
+          15,
+          40
         ],
-        "why": "The US is warning Gulf states to prepare for new Iran strikes, so Dubai flights could be disrupted or capacity cut if fighting resumes within the next 30 days.",
-        "action": "Split time-critical air cargo between Dubai and an alternative hub such as Doha or Istanbul, and agree rerouting terms with your forwarder.",
+        "why": "Fighting in Yemen is renewing, with Houthi ballistic missiles hitting Aden airport twice on 28 Oct 2026, and oil prices are rising on Houthi strikes. A new US-Iran round could expand Houthi attacks on shipping near the strait.",
+        "action": "Ask your forwarder whether Asia-Europe bookings are routed via the Cape of Good Hope, and add 12 days to transit planning for any cargo scheduled through Bab el-Mandeb.",
         "sources": [
-          3,
+          1,
+          7,
+          8
+        ]
+      },
+      {
+        "point": "RED_SEA",
+        "effect": "security",
+        "likelihood": 0.35,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          15,
+          40
+        ],
+        "why": "Houthi attacks escalated in late Oct 2026, including the Aden airport strikes and reported targeting of Saudi forces, and a resumed US-Iran war would raise the risk to Red Sea shipping and push carriers onto the Cape route.",
+        "action": "Get written confirmation from your carrier on Red Sea versus Cape routing and the surcharges for Suez-bound cargo through November, and keep 10-14 days of extra safety stock.",
+        "sources": [
+          1,
+          7,
           8
         ]
       }
     ],
     "headlines": [
       {
+        "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
+        "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-28T17:48:31.000Z"
+      },
+      {
+        "title": "Middle East latest: Yemen says Houthis attacked Aden airport twice with ballistic missiles",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUttdjlFX1NnTi01X2NGcy0ycl9wa1R5R0JTcnZXUFNtS0xEMWNPbk5wZjZsblhieXBhc25nN2NGaW15MlJDdWdLUVdabGFNaFM5S1ZSRkp1em45RnFvekxWUUNZTERwa21zMW5jZ1hZenNJek4xZXctMmhnMW1TcGoyTmV2Vkh1b1RRb1dKTE5oR0R1ek1BeG53?oc=5",
+        "publisher": "The National",
+        "published": "2026-10-28T17:02:16.000Z"
+      },
+      {
+        "title": "Trump backs Netanyahu as Israel readies for new Iran strikes",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXVmaU5vVEhtVmVUOFRRaV9kVnl5ZEsxaENYMkRuT1lYTmN3ZHpQX0s1Nk1vNW9DLXlZdzE1RUVsRm1ORExzN0M0OFdVb2hoMTlucXpRTHVGcE5fTXZhTlMtN2FGeVhUY2pLd2pzbk9DV0VPU0Fid0RjYy1femRKa29waEo2ZTU3T25tVE5KcGdmUFlmTTVIV1ByT0FveXN0WFc0ZE11VmVTaTlnSkE?oc=5",
+        "publisher": "The Telegraph",
+        "published": "2026-10-28T16:46:00.000Z"
+      },
+      {
+        "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+        "publisher": "Reuters",
+        "published": "2026-10-28T16:02:29.000Z"
+      },
+      {
+        "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+        "publisher": "WSJ",
+        "published": "2026-10-28T14:59:10.000Z"
+      },
+      {
+        "title": "Oil prices rise as U.S. warns Persian Gulf countries to prepare for Iran strikes after midterms",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWhmS21YcEtBeHNHN1ZmbkxlZHJVOUw3VDJFdDRuS2dJUWdfRk5wUXBEUnA1cEc5S3RneWdlNURneUlRY1VreEY1cFR5dEh1VTVLdktzdjlOSlpqU0dxMTUwOVFKTHU2TGpfenZBWFkwQzlmNXp4MUhfM0xoMm9MeU5wc0RjNXg2a0tnRGxicGtnWEVQWlRYREpGY3Q0OWRmaGxDLWJTTjdlTkhDdnEyMWFZeHFEQmEyQTFGel9PY3c?oc=5",
+        "publisher": "Seeking Alpha",
+        "published": "2026-10-28T14:30:07.000Z"
+      },
+      {
+        "title": "Trump Preparing for a ‘Short, Intense’ War Against Iran After Election Day",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGJscUN2T0N0M29UTHI4c1hFdnA5dC0xVktGZlRTdEo1cm5UcndPVmlFbzJvRGFEejFxWm04M0RIdlNBY29paFVoMG1XR29XelVGWW5tWkFLT29sVGNoXy1zMDlNTTRNRU1laG8yY2s3aVl3TGl2ek1yVXZ5M3dRWkh5SWdhS2owNHRSMnlnYW82NWs4Z2x1QmFGU2dZNHZlamMtN0MxUm1qdExZTzBHNGZkX2ZsTElxMkhZetIBwgFBVV95cUxQSmZhNTd6cGRYNjJIWWdaSmpodlR1U29aSmUzRmZ3VUx6VDdaTGZkS0VkLTFVd2tKSHJHR0ltM1piZEJHMnN5ZVVhREZzQS1NMHdnQl94UDEtaUQ2dzRJQ1RENzVPVld0cTRCU1oybldRQ19jUWtGSEUxdEh0cGJER05DOE9aRHY1Z2p2TVBiTFhsLUlEM3gwY2YzLTQ4bkhhaVpxb3hLemt1LUxXUzNJbGNHUFVGSUVWbmJyWW1fc0taQQ?oc=5",
+        "publisher": "National Review",
+        "published": "2026-10-28T14:19:40.000Z"
+      },
+      {
+        "title": "UAE secretly helping Iran-backed Houthis target Saudi forces: Report",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeXkzUE50TmhCQV9SRUF6RmVDLXZwZkljVHhBWWpZQS1VMDVfZzg3ZXl2VnUxVjZLMXRqY0tuR2d3ZlJzbzJkUjFWRmN2SVF3bWg3VHhxMlQ4RmhDb1JmOGo4TEZRLTdadHNCOFdLTk85Yk9RM3FYR29peDVpLWZ4ejZQRFRNOEFYLXc5X0ZrZVVnZFlkUWttQzEzcjl1M2ZPNmR1WGFncFpvYm9EcGtvV2s4LXVTQkRqck1UdnlQWHZod0FwS3YxLWxPdUVHNnJFN2VPMnI0SjFmTFhxMzJtM1F6MkppZGlwWGtz0gHwAUFVX3lxTE1xY1A5anFmX1J5NmN2bnM2b21iLXpDWS04cWI3UjZic0xQNlA1V2JZNmg0NDFUYzRMYjF3Y0xMQ19RVkxyQmtlZG5xbm9OLXg2N044STltOVNTVVQ4aTk0XzNNRjVESllxb0pZaTh3RnhUZnd3OUFIN1hMSENMZnlXdmhsMzA3X1I3bVB0WmxPb2ppS1hWdWU5NWZjbm03Z0xEUXh4THpIdDZsMEpWcWxETUQ2WGJaU1Vacjk3NFFMaFJCc185eVRiX01IcmlZVXZLUFR6THhaejdHY0Vqd0kyeXdHUUZtLWNfeTN0aTh1OA?oc=5",
+        "publisher": "The Times of India",
+        "published": "2026-10-28T12:55:00.000Z"
+      },
+      {
         "title": "Oil prices up due to Houthi strikes and US threat to renew Iran war",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON0ZQWGd3MURSX1JkR05Kd0NkZ0FlbFpCdjFZSzhqVE1GVkJlU0p4bVg0UlJsOGhFWmRwZHFjY2NMNXRHeTNSZzhXanZTLVFrVVVBMml6X3JjNXNZaDBFMGs3TndLdXRWNFdLM0lRNjk0eTg0NkswalJrenBwaVVIUUdfRUptb0s1Z0U0YW9VeG9TMjBPbkNjQXNrTGhlU05JOUQ5U2dHRTFhY3IydTNjMnB2dWQ1Wk5ZMWdPMmcyNWEyUTZMOHc?oc=5",
         "publisher": "The National",
-        "published": "2026-10-28T11:49:00.000Z"
-      },
-      {
-        "title": "Oil prices rise as Houthi attacks on Saudi refinery raise supply worries",
-        "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-        "publisher": "CNBC World",
-        "published": "2026-10-28T11:12:51.000Z"
-      },
-      {
-        "title": "Hormuz oil spill forces closure of UAE beaches",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "published": "2026-10-28T10:02:32.000Z"
-      },
-      {
-        "title": "US warns Gulf states to prepare for new round of Iran strikes: WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1d0djVqLTl3MDdCcVFSeWtGMWs4bklvTGYyaXFQTUtiMFhyZ3FJMzZBOTBGREJqN3BSZ1pSMENmT1dSNmNDbGsxNVBLMV96eGpURzFVNmd5aHpzZTVBOG1tY3dwSmdOX2FMRFRRX0N6SWp3YmtWbVJmOVQ4cWxrWXJMbTIwZjN6T2hEb1FnWmpZQjVBWmViVE5FRWxYTnNHWHpXb0FJNGIyNlNf?oc=5",
-        "publisher": "Quantum Commodity Intelligence",
-        "published": "2026-10-28T09:44:18.000Z"
-      },
-      {
-        "title": "Iranian Lawmaker: Oil Market Contradicts US Claims on Hormuz",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWhCT0QtTWJVWlNyZkR0anNmNVpfUzA2aXBjQWVGdk8xd3JyeE9EcjVSVWVSamZZMkUwRFBhSnlRWFJlSHlkWFExei1Fd284LUswWWwwYzFOU2FPR1Y2aXhYYWFwdGUtVi1wdFRIZjZfcGEtdWJONURjWUpHQjhGTGdBU19JZw?oc=5",
-        "publisher": "WANA News Agency",
-        "published": "2026-10-28T08:39:17.000Z"
-      },
-      {
-        "title": "Oil jumps 2% with eyes on potential new Iran strikes",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSk5mRGYyTkkxdFJ1Tl81WmZFc0Juak5ySXJhampSUnJNQmY2NXJkZGhuMlJ5THBCVFlPdGR1V28xUS1KTXJFanhtWk1lNkx5VF91SDcxNjltelRET3JxZG5kTHJKNGRndUtkbGJjMHVnWDh3d2hhdXpGajJZMTZjMDNzdzdWc2twblhUbnB4QTBzdnExalhORGlzTW0?oc=5",
-        "publisher": "Breakingthenews.net",
-        "published": "2026-10-28T07:28:00.000Z"
-      },
-      {
-        "title": "WP: Russian Satellites Guided Houthi And Iraqi Militia Strikes On Saudi Arabia's Pipeline, Air Base, And CIA Station",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORnRVelhDVFNxanVHcmRvdUFxaUJMOVI5VFUtR1E2RFMwbE1zOFdCSDNqMmVjcXg1WUI5VGNnbDg0QnA4THNIWVF5RWtjTzlLR0JVbDR0VzdsenFZQ2NFWHRWd0xudkd4LTAtUFB0b2JyYVhnVnZMUWtYN2NyQ1ZvaWlTVHVlbV8wR0tkajdTb0tfN1FfTVZ0cWFzaFJCbDk3U3ZpdmFrdThBMFFRMlBSektkMDdfWXl1VXVQdXFudWlLajdYNmJxRktURXF6Y3YtbDlVb18tNFlFR0hkU3JFSVpXUm5CUGIzX05CUw?oc=5",
-        "publisher": "Kurdistan24",
-        "published": "2026-10-28T07:22:11.000Z"
-      },
-      {
-        "title": "Brent crude price: how Hormuz attacks, Houthi strikes on Saudi Arabia and Tehran talks moved oil in October",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiZWRHQXJTVHRWNnR6Q1NYeUpTalJlNlE2cWJkNGtQRUE2WkQ2SDZxelZQbWREdW01VzdpenlCaGJfUnZhWkhNY19FSEMzTE9iWU5kZE9vSFFoNDF2WlRaQjFrR2lSOWNjS0ctMUxFVk16TEdz?oc=5",
-        "publisher": "Oil & Gas Middle East",
-        "published": "2026-10-28T06:42:52.000Z"
-      },
-      {
-        "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-        "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-        "publisher": "The Guardian World",
-        "published": "2026-10-28T05:00:55.000Z"
+        "published": "2026-10-28T11:49:47.000Z"
       }
     ]
   },
@@ -453,9 +436,9 @@
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-28T12:07:03.388Z",
+    "at": "2026-10-28T19:07:29.798Z",
     "by": "pipeline",
-    "hash": "1tm8ewu",
+    "hash": "1x6xgu2",
     "tags": [],
     "headlines": []
   },
@@ -467,75 +450,16 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-28T13:07:07.025Z",
+    "at": "2026-10-28T19:07:29.798Z",
     "by": "pipeline",
-    "hash": "sxf3g2",
-    "tags": [
-      {
-        "point": "SOUTH_CHINA_SEA",
-        "effect": "security",
-        "likelihood": 0.3,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          2,
-          8
-        ],
-        "why": "Between 1 and 9 October there were at least six Philippine-Chinese encounters at Scarborough, Second Thomas and the Spratlys, and on 28 October Chinese ships were seen near a Scarborough fuel distribution, so vessels in the eastern South China Sea may face shadowing, blocked lane",
-        "action": "Ask your forwarder whether any vessel on your booking calls at Philippine ports or passes near Scarborough or the Spratlys, and request a war-risk surcharge estimate with an alternative routing before booking.",
-        "sources": [
-          1,
-          0,
-          2
-        ]
-      },
-      {
-        "point": "LUZON_STRAIT",
-        "effect": "security",
-        "likelihood": 0.2,
-        "delayDays": [
-          0,
-          2
-        ],
-        "costPct": [
-          0,
-          5
-        ],
-        "why": "A new flashpoint off Batanes in the Luzon Strait emerged in early October, with Taiwanese coast guard boats responding to a China Coast Guard cutter escorting a survey ship near the EEZ, which raises the chance of patrol activity and brief routing changes for ships using the stra",
-        "action": "Ask your carrier whether its Taiwan-Philippines or transpacific services transit the Luzon Strait and what their contingency routing is if Batanes patrols intensify.",
-        "sources": [
-          0,
-          2
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "54 barko ng China, nasaripatpatan idiay WPS iti uneg laeng ti maka domingo –AFP",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDJPZ01KWmpuanF5Y3ZQbks3ZkMtTHkycG1ZME1KVDVzTHRhbTNZa0ZpN3gteDFLUkM0MWdmZ1RVVzF0N1JmQW9Rc3lDV2xUQy1hS0xHZEticVlpYzBJTFF3Ynp5bm1zTkFBUDFYWGl3VjhlRU9HMFZXalpJand4ZXFiR1kzaVA5aU1WV1k0bmlRVGJyQm1xalluT094ZFR0SER0U2pQbG90VFk?oc=5",
-        "publisher": "Bombo Radyo Vigan",
-        "published": "2026-10-28T11:11:49.000Z"
-      },
-      {
-        "title": "Chinese ships seen near PH fuel distribution to fishermen at Scarborough Shoal — PCG",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lWRFRrQ0VYc3RHdHBHem5hQnVIS3NvTTBLOE5tQVdkUHR0ckNqQ1pLTFMtV2FyaWcza0RHbnNXSXBHSXdQQ1VVYXlORzgzTk4tQ3h4RmlKV3NmaEhfSzVVVDl4UDhYTWNTYVJNMFd0MTNqaXBrZExaQzZkNkdma2tYX2hPWEhPQi14LWdBNWFyb09Ia0xYTEl2WHh0RExCWFNJajhTMDRXZ2UtZnd5S2hWdWtjV3IyaHdHVllMbjJIbklNcWE5Qll30gHQAUFVX3lxTE9aY1pvRlVTazlrNUZhLVVWWDNURHhQUFI0bVNJQm9qSENaOHY5UXdTUmJYQi1qMjRxY2dqTkdTa09tX1I0LVFYU09vZHFab3VpX0xiTllUcDZIdnowRE5fNktZV2FZZVRoem1lNGpXVFZOU3ZrbTR3QlNFcldjTkd1T1p5bmFRN1pzYlNWUlhaMFVSWW5HQ1R1R29RSkZVM0JQU2dnb24wa1UybGU0QUVxODE5MzlFajdRNS0zOFM0ZE5GVG45bzlFLWVTc0ExQlQ?oc=5",
-        "publisher": "Philstar.com",
-        "published": "2026-10-28T06:56:00.000Z"
-      },
-      {
-        "title": "China downgrades envoy to Southeast Asian meeting after sea row",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0tyNDVTaDY5ZHRJSHl3QXNTZGN0S3RNWi0xRmFFdTZZYzdYWFRvczBZNWVoamJPVUdSTnhHYlZPeG1kVjM5Z1ZESVJ5QS1Xck5BSUNkZlNhN2JRUmg4VHBQUEN4TGdFR0N3WEd0Zk41QkFBV3EyOXhVYVVyamFob1plV1NTWmZkQkhkQmJTZERkMUF2NTJCZ2pUdEk2STNRazJsbjlJX284VWM?oc=5",
-        "publisher": "The Malaysian Reserve",
-        "published": "2026-10-28T03:20:09.000Z"
-      }
-    ]
+    "hash": "ldlhc4",
+    "tags": [],
+    "headlines": []
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-28T12:07:03.388Z",
+    "at": "2026-10-28T19:07:29.798Z",
     "by": "pipeline",
-    "hash": "50rhvm",
+    "hash": "1ik7yrv",
     "tags": [],
     "headlines": []
   },
@@ -582,9 +506,9 @@
     "headlines": []
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-28T11:06:59.881Z",
+    "at": "2026-10-28T19:07:29.798Z",
     "by": "pipeline",
-    "hash": "1ak4jut",
+    "hash": "hhgx7f",
     "tags": [],
     "headlines": []
   },
@@ -610,9 +534,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-28T13:07:07.025Z",
+    "at": "2026-10-28T19:07:29.798Z",
     "by": "pipeline",
-    "hash": "n4jm52",
+    "hash": "2usgiz",
     "tags": [],
     "headlines": []
   },
