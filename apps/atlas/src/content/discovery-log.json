@@ -5,21 +5,9 @@
       "at": "2026-10-25T02:02:15.770Z",
       "verdict": "reject"
     },
-    "c04ebe641849": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "reject"
-    },
-    "c7a012896dca": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "existing"
-    },
     "895da49a496a": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "existing"
-    },
-    "b56a73f2f281": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "reject"
     },
     "6f37d453b00a": {
       "at": "2026-10-25T02:02:15.770Z",
@@ -72,10 +60,6 @@
     "7384e5e9f05b": {
       "at": "2026-10-25T07:02:23.740Z",
       "verdict": "reject"
-    },
-    "8e12c9667319": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "existing"
     },
     "0bf52164d348": {
       "at": "2026-10-25T02:02:15.770Z",
@@ -137,10 +121,6 @@
       "at": "2026-10-25T14:16:07.161Z",
       "verdict": "existing"
     },
-    "4b68b1951c59": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "reject"
-    },
     "a701a05843d7": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "reject"
@@ -157,14 +137,6 @@
       "at": "2026-10-26T10:03:56.712Z",
       "verdict": "existing"
     },
-    "2ac482d3408a": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "reject"
-    },
-    "4b4477544bb1": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "reject"
-    },
     "45b93fa6540e": {
       "at": "2026-10-26T00:03:19.315Z",
       "verdict": "reject"
@@ -172,10 +144,6 @@
     "dfe2a38c3123": {
       "at": "2026-10-24T22:01:56.455Z",
       "verdict": "accept"
-    },
-    "8da85331c8c1": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "reject"
     },
     "31cf0bf073cd": {
       "at": "2026-10-25T02:02:15.770Z",
@@ -201,53 +169,9 @@
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "reject"
     },
-    "6ca04f9a98c4": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "70352af80b94": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "8b8ed8195602": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "1d979cf96708": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
     "99b7eefd019a": {
       "at": "2026-10-25T07:02:23.740Z",
       "verdict": "reject"
-    },
-    "c674c841368a": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "a9fff894393a": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "66712e78ebee": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "8bff3ffd7f94": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "2c1bd48efee2": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "4e1eb41b8a4a": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
-    },
-    "4a0662007168": {
-      "at": "2026-10-24T17:01:41.628Z",
-      "verdict": "no story"
     },
     "33d886ed4bab": {
       "at": "2026-10-25T07:02:23.740Z",
@@ -2708,6 +2632,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T17:07:40.271Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-28T16:07:41.639Z",
       "screened": 0,
       "accepted": [],
@@ -4167,120 +4100,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 4 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-27T03:04:55.845Z",
-      "screened": 123,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Romania blames Russian sabotage network for fire near weapons factory",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK sanctions Sudanese military leaders over El Fasher rapes",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Comey faces third set of federal charges",
-          "reason": "This is a domestic court case with no cross-border effect.",
-          "headlines": 5,
-          "publishers": 3
-        },
-        {
-          "title": "Moroccan police intercept migrant swimming to Ceuta",
-          "reason": "This is a single border incident with no policy change or scale.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Trump suggests renaming the Atlantic 'American Ocean'",
-          "reason": "This is an offhand remark that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "China and Russia redraw Arctic trade",
-          "reason": "This is an analysis piece, not a dated development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Sudan RSF drone strikes cause power cuts",
-          "reason": "The effect is confined within Sudan, with no clear cross-border channel beyond the existing war coverage.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Explosion at Syrian weapons depot",
-          "reason": "The cause and any state or cross-border angle are unclear.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Fact-check of viral Europe protest videos",
-          "reason": "This is a fact-check, not a development.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran war talks and escalation",
-          "reason": "This is the ongoing US-Israel war on Iran and the Gulf energy shock.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Heating oil costs double ahead of winter",
-          "reason": "The price rise is a downstream effect of the Gulf energy shock.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "International delegates barred from West Bank",
-          "reason": "This is part of the Israeli West Bank lockdown.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'",
-          "reason": "This is a reaction to the Brazil run-off already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "French student unions call for continued mobilisation",
-          "reason": "This is part of France's autumn unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Ukraine disputes Musk's Starlink claim",
-          "reason": "This is the same Starlink restriction dispute.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Court blocks DoJ bid over California mail-in ballots",
-          "reason": "This is a domestic court ruling on how ballots are counted in the US midterms, with no direct cross-border channel.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
