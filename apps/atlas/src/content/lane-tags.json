@@ -506,11 +506,70 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-28T07:06:45.086Z",
+    "at": "2026-10-28T13:07:07.025Z",
     "by": "pipeline",
-    "hash": "sgt7mg",
-    "tags": [],
-    "headlines": []
+    "hash": "sxf3g2",
+    "tags": [
+      {
+        "point": "SOUTH_CHINA_SEA",
+        "effect": "security",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          2,
+          8
+        ],
+        "why": "Between 1 and 9 October there were at least six Philippine-Chinese encounters at Scarborough, Second Thomas and the Spratlys, and on 28 October Chinese ships were seen near a Scarborough fuel distribution, so vessels in the eastern South China Sea may face shadowing, blocked lane",
+        "action": "Ask your forwarder whether any vessel on your booking calls at Philippine ports or passes near Scarborough or the Spratlys, and request a war-risk surcharge estimate with an alternative routing before booking.",
+        "sources": [
+          1,
+          0,
+          2
+        ]
+      },
+      {
+        "point": "LUZON_STRAIT",
+        "effect": "security",
+        "likelihood": 0.2,
+        "delayDays": [
+          0,
+          2
+        ],
+        "costPct": [
+          0,
+          5
+        ],
+        "why": "A new flashpoint off Batanes in the Luzon Strait emerged in early October, with Taiwanese coast guard boats responding to a China Coast Guard cutter escorting a survey ship near the EEZ, which raises the chance of patrol activity and brief routing changes for ships using the stra",
+        "action": "Ask your carrier whether its Taiwan-Philippines or transpacific services transit the Luzon Strait and what their contingency routing is if Batanes patrols intensify.",
+        "sources": [
+          0,
+          2
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "54 barko ng China, nasaripatpatan idiay WPS iti uneg laeng ti maka domingo –AFP",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDJPZ01KWmpuanF5Y3ZQbks3ZkMtTHkycG1ZME1KVDVzTHRhbTNZa0ZpN3gteDFLUkM0MWdmZ1RVVzF0N1JmQW9Rc3lDV2xUQy1hS0xHZEticVlpYzBJTFF3Ynp5bm1zTkFBUDFYWGl3VjhlRU9HMFZXalpJand4ZXFiR1kzaVA5aU1WV1k0bmlRVGJyQm1xalluT094ZFR0SER0U2pQbG90VFk?oc=5",
+        "publisher": "Bombo Radyo Vigan",
+        "published": "2026-10-28T11:11:49.000Z"
+      },
+      {
+        "title": "Chinese ships seen near PH fuel distribution to fishermen at Scarborough Shoal — PCG",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lWRFRrQ0VYc3RHdHBHem5hQnVIS3NvTTBLOE5tQVdkUHR0ckNqQ1pLTFMtV2FyaWcza0RHbnNXSXBHSXdQQ1VVYXlORzgzTk4tQ3h4RmlKV3NmaEhfSzVVVDl4UDhYTWNTYVJNMFd0MTNqaXBrZExaQzZkNkdma2tYX2hPWEhPQi14LWdBNWFyb09Ia0xYTEl2WHh0RExCWFNJajhTMDRXZ2UtZnd5S2hWdWtjV3IyaHdHVllMbjJIbklNcWE5Qll30gHQAUFVX3lxTE9aY1pvRlVTazlrNUZhLVVWWDNURHhQUFI0bVNJQm9qSENaOHY5UXdTUmJYQi1qMjRxY2dqTkdTa09tX1I0LVFYU09vZHFab3VpX0xiTllUcDZIdnowRE5fNktZV2FZZVRoem1lNGpXVFZOU3ZrbTR3QlNFcldjTkd1T1p5bmFRN1pzYlNWUlhaMFVSWW5HQ1R1R29RSkZVM0JQU2dnb24wa1UybGU0QUVxODE5MzlFajdRNS0zOFM0ZE5GVG45bzlFLWVTc0ExQlQ?oc=5",
+        "publisher": "Philstar.com",
+        "published": "2026-10-28T06:56:00.000Z"
+      },
+      {
+        "title": "China downgrades envoy to Southeast Asian meeting after sea row",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0tyNDVTaDY5ZHRJSHl3QXNTZGN0S3RNWi0xRmFFdTZZYzdYWFRvczBZNWVoamJPVUdSTnhHYlZPeG1kVjM5Z1ZESVJ5QS1Xck5BSUNkZlNhN2JRUmg4VHBQUEN4TGdFR0N3WEd0Zk41QkFBV3EyOXhVYVVyamFob1plV1NTWmZkQkhkQmJTZERkMUF2NTJCZ2pUdEk2STNRazJsbjlJX284VWM?oc=5",
+        "publisher": "The Malaysian Reserve",
+        "published": "2026-10-28T03:20:09.000Z"
+      }
+    ]
   },
   "russia-record-budget-deficit-2026": {
     "at": "2026-10-28T12:07:03.388Z",
@@ -583,30 +642,63 @@
     "headlines": []
   },
   "portugal-housing-protests": {
-    "at": "2026-10-28T07:06:45.086Z",
+    "at": "2026-10-28T13:07:07.025Z",
     "by": "pipeline",
-    "hash": "9uid94",
+    "hash": "ebphr8",
     "tags": [],
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-28T06:06:35.889Z",
+    "at": "2026-10-28T13:07:07.025Z",
     "by": "pipeline",
-    "hash": "193tpge",
+    "hash": "n4jm52",
     "tags": [],
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T13:07:07.025Z",
     "by": "pipeline",
-    "hash": "l7cgfk",
-    "tags": [],
-    "headlines": []
+    "hash": "bfx06d",
+    "tags": [
+      {
+        "point": "ISTANBUL_PORT",
+        "effect": "delay",
+        "likelihood": 0.25,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "Renewed rain on 27 Oct closed roads in Istanbul and pushed city congestion to about 80%, following the 15 Oct floods, so trucks collecting or delivering containers at Ambarlı may be delayed.",
+        "action": "Ask your forwarder or haulier to confirm Ambarlı gate and trucking schedules, and add 2 days of buffer to Istanbul-origin shipments that must meet a vessel cut-off in the next two weeks.",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Istanbul floods: roads closed, ferries cancelled due to rain",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEYyNU5vS2xuRXpxQklsQmpFREw1bW5MOHZGWGRlenI2ckxSbllsWWgtTG1MeWIzZjBEYmNQSk5vQW53Y0lWUU5aWl9WdWdWQ3N5SF9JMEM0NWNWTjBfczBjZlZoR0JYZ2VJaEtwVkpLbzNxWGtzRHlKTW5yMDFDY0o5VnZtSFhtRVJmU1lRZUV0YnBVdGplc05lV0xYTDRpaWhlWUUyZWRXc0EyU2c?oc=5",
+        "publisher": "Hispanatolia",
+        "published": "2026-10-27T19:00:00.000Z"
+      },
+      {
+        "title": "Istanbul congestion hits 80% as rain slows morning commute",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTl0RXRLdmNHWUxtZ3BwRmpaVVVGa3diQy1BRUpPcDU1RTVQbHJ6MFk4T2VEXzRneGN3MUNGd1UxWm50SEFPZ3IxdDZGNnRNbzlmMGlvbzBibUpIUXltTGFHaDlMdnhPQ2NOalVLWVItUnlWSmpObXdOYWZyTjduRFdrSGcyYzk0cGE0d05YTHhhRGM?oc=5",
+        "publisher": "Türkiye Today",
+        "published": "2026-10-27T07:09:21.000Z"
+      }
+    ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-28T06:06:35.889Z",
+    "at": "2026-10-28T13:07:07.025Z",
     "by": "pipeline",
-    "hash": "8mtuk0",
+    "hash": "tu3f84",
     "tags": [],
     "headlines": []
   },

@@ -1,8 +1,8 @@
 {
   "slug": "france-debt-stress",
   "title": "French bond stress and the Moody's review",
-  "deck": "France now pays about 140 basis points over Germany to borrow, the widest gap since the euro-debt crisis, and a Moody's decision on 23 October lands as unrest, a record 2027 funding need and an unwilling ECB leave Paris with few ways out.",
-  "updated": "2026-10-19",
+  "deck": "France's borrowing costs hit a euro-crisis-era high as street unrest and a tight budget collided, Moody's held the rating on the review, and the relief looks fragile with the ECB and Bank of Japan meeting this week.",
+  "updated": "2026-10-28",
   "status": "developing",
   "region": "France, eurozone",
   "tags": [
@@ -10,42 +10,58 @@
     "bond markets",
     "credit ratings",
     "ECB",
-    "eurozone",
-    "political risk"
+    "France budget",
+    "Japan flows"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 18
   },
+  "fuel": [
+    {
+      "aspect": "politics",
+      "title": "400,000 march in new French protests",
+      "how": "Each large march adds to political uncertainty, and investors price that in as extra interest on French debt.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "budget",
+      "title": "Finance minister rules out extra spending",
+      "how": "With no money to buy peace, the government must pass a tight budget against street opposition, which keeps deficit doubts alive.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "markets",
+      "title": "US Treasury yields near 5%",
+      "how": "A higher global yield benchmark raises what every large borrower pays and keeps investors alert to French debt risk.",
+      "sourceIndex": 4
+    }
+  ],
   "card": {
-    "headline": "Investors are charging France a crisis-era premium, and the ECB says it will not step in yet",
+    "headline": "France got a rating reprieve, but its debt problem and its politics are unchanged",
     "keyNumber": {
-      "value": "~140",
-      "label": "basis points: what France pays over Germany to borrow for 10 years, the widest since the euro-debt crisis",
+      "value": "EUR 340bn",
+      "label": "record amount France must raise in 2027; debt is about 119% of GDP",
       "sourceIndex": 0
     },
     "impactMeter": 4,
     "forYou": [
       {
         "role": "Investors",
-        "line": "Moody's reviews France's Aa3 negative rating on 23 October. Treat French debt as political risk, not core-Europe safety, until a budget passes."
+        "line": "Moody's kept Aa3 and French bond risk fell sharply on 26 October. Several outlets say the relief may not last; the ECB meets 29 October and the BoJ on 30 October."
       },
       {
-        "role": "Finance teams",
-        "line": "Expect French and Italian borrowing costs to move together. Review refinancing dates and floating-rate exposure."
-      },
-      {
-        "role": "Businesses selling into France",
-        "line": "A weaker state means tighter public spending and possible payment delays. Check public-sector counterparties."
+        "role": "Businesses",
+        "line": "Funding costs for French borrowers follow the sovereign. Plan for rates to stay high while protests and the budget fight continue."
       },
       {
         "role": "Households",
-        "line": "Higher government yields tend to feed into mortgage and loan pricing over time. Fixed-rate offers may get costlier."
+        "line": "French and euro-area loan rates track government bond yields. A calmer week does not mean cheaper credit is coming."
       },
       {
         "role": "Everyone",
-        "line": "The bigger story is political: the bond market is now a vote on whether France can govern its way through an election year."
+        "line": "The deeper risk is political. A failed budget or a downgrade would put money at the centre of the April 2027 presidential election."
       }
     ],
     "ripple": [
@@ -53,20 +69,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "French 10-year yields rise as riots hit the news; the premium over German Bunds sits near 140 basis points",
-            "sector": "Bond markets"
+            "text": "About 400,000 people marched again on 26 October, keeping a political-risk premium on French debt",
+            "sector": "Politics and protest"
           },
           {
-            "text": "Moody's reviews the Aa3 negative rating on 23 October; a cut would make France cheaper to doubt and costlier to fund",
-            "sector": "Credit ratings"
+            "text": "Finance minister says France must 'cure ourselves' without extra spending, which limits any deficit relief for protesters",
+            "sector": "Public money"
           },
           {
-            "text": "The ECB signals that intervention is not warranted, so no backstop is in sight",
-            "sector": "Central banking"
+            "text": "Moody's kept Aa3 and French bond risk fell on 26 October; the CAC 40 closed 0.8% higher that day",
+            "sector": "Markets and rates"
           },
           {
-            "text": "A record EUR 340bn must be raised in 2027 from the same nervous buyers",
-            "sector": "Public finance"
+            "text": "US Treasury yields near 5% keep investors wary of French debt even as tensions ease",
+            "sector": "Markets and rates"
           }
         ]
       },
@@ -74,20 +90,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Interest costs crowd out other spending, making budget savings harder to find just as the streets reject cuts",
+            "text": "Borrowing costs stay elevated against a record EUR 340bn funding need in 2027 and an interest bill of about EUR 91bn",
             "sector": "Public finance"
           },
           {
-            "text": "French banks and insurers holding government bonds take mark-to-market losses and pay more to fund themselves",
-            "sector": "Banking"
-          },
-          {
-            "text": "Italian and Spanish spreads widened in step with France's in early October, a sign of contagion",
-            "sector": "Eurozone debt"
-          },
-          {
-            "text": "Japanese investors, big foreign holders of French bonds, may move money home as Japanese yields rise",
+            "text": "Japanese investors, holders of roughly $145bn of French debt by one estimate, are reconsidering exposure as Japanese yields rise",
             "sector": "Capital flows"
+          },
+          {
+            "text": "The ECB must weigh 3.8% inflation against pressure to calm bond markets; it says intervention is not warranted",
+            "sector": "Central banking"
+          },
+          {
+            "text": "French banks and borrowers face higher funding costs because they are tied to the sovereign",
+            "sector": "Banking"
           }
         ]
       },
@@ -95,20 +111,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "The ECB, facing 3.8% inflation, may have to choose between raising rates and using its never-used bond-buying tool",
-            "sector": "Monetary policy"
+            "text": "A budget defeat or later downgrade would make money the central issue of the April 2027 election",
+            "sector": "Politics"
           },
           {
-            "text": "A downgrade or budget defeat hands the April 2027 campaign to whoever promises order and a fiscal fix, with Ukraine aid and the EU budget at stake",
+            "text": "Italian spreads moved with French ones in early October, leaving Rome less room to calm its own price anger",
+            "sector": "Italy, Southern Europe"
+          },
+          {
+            "text": "A National Rally win would raise questions on Ukraine funding and the EU budget contribution",
             "sector": "Geopolitics"
-          },
-          {
-            "text": "A north-south fight over who pays for eurozone stability could reopen",
-            "sector": "EU politics"
-          },
-          {
-            "text": "Higher public borrowing costs spill into mortgages, corporate credit and investment across the euro area",
-            "sector": "Real economy"
           }
         ]
       }
@@ -116,89 +128,93 @@
   },
   "brief": {
     "whatHappened": [
-      "France now pays about 140 basis points over Germany to borrow for ten years. That is the widest gap since the euro-debt crisis a decade ago. A basis point is one hundredth of a percentage point, so 140 means 1.4 points of extra interest.",
-      "The backdrop is heavy. Public debt is about 119% of GDP. France must raise a record EUR 340bn in 2027. Bond yields rose again on 19 October as nationwide protests and riots made headlines.",
-      "Moody's reviews its Aa3 rating, which carries a negative outlook, on 23 October. The ECB has said intervention is not warranted, and the Bank of France governor says the problem must be solved at home."
+      "France pays about 140 basis points over Germany to borrow ten-year money, the widest gap since the euro-debt crisis, at the time of the 19 October reports. Debt is about 119% of GDP, and France must raise a record EUR 340bn in 2027. The trigger was a weekend of mass protest and rioting.",
+      "Moody's reviewed France's Aa3 negative rating on 23 October. Headlines on 26 October say it kept Aa3 and did not downgrade. Bloomberg reported French bond risk had its biggest fall since 2020, the CAC 40 closed 0.8% higher, and Italian and Spanish premiums also narrowed. Barron's called it a surprise reprieve that 'won't last long'. Our material does not say whether the negative outlook was kept.",
+      "The calm was short. About 400,000 people marched again on 26 October. On 27 October the finance minister said France must 'cure ourselves' without more spending. US Treasury yields near 5% kept investors on edge about French debt."
     ],
     "whyItMatters": [
-      "Bond markets set the price of everything a government does. If France must pay more to borrow, there is less money for schools, defence and tax cuts, and the budget needed to calm voters gets harder to build.",
-      "The ECB has a bond-buying tool built for exactly this kind of stress, but it has never used it. Euro-area inflation rose to 3.8% in September and policymakers are weighing another rate rise. Buying French bonds while raising rates would be awkward, so the ECB is reluctant.",
-      "The stress is linked to politics. Investors demand a risk premium after each weekend of violence. With a presidential election in April 2027 and the National Rally candidate leading at 35-36%, a downgrade or budget defeat would hand the campaign to those promising order and a fiscal fix."
+      "Politics and protest: markets treat unrest as proof that France is hard to govern. Each large march, including the 26 October turnout of about 400,000, adds a political-uncertainty premium to French borrowing costs. That premium makes the EUR 54bn budget harder to pass, which is the very thing investors want.",
+      "Public money: the government cannot spend its way out. The finance minister has ruled out extra spending, so protesters get little relief while the budget still needs votes. France faces an interest bill of about EUR 91bn in 2027, and every extra basis point on a record EUR 340bn issuance adds to it.",
+      "Markets and rates: France does not borrow in a vacuum. US Treasury yields near 5% raise the global price of money. Japanese yields are rising, which could pull home some of the Japanese money in French bonds; Equiti puts that exposure near $145bn. The ECB is fighting 3.8% inflation and says intervention is not warranted, so rate rises and bond-buying pull in opposite directions."
     ],
     "winners": [
       {
+        "who": "France's near-term funding position",
+        "why": "The Moody's hold removed the immediate downgrade threat and helped bonds rally on 26 October."
+      },
+      {
+        "who": "Buyers of French debt at higher yields",
+        "why": "An Australian pension fund reportedly bought French bonds at about 5% yields, calling market fear excessive."
+      },
+      {
         "who": "German Bunds and other safe havens",
-        "why": "Money leaving French debt tends to flow to the safest euro-area bonds and to Swiss and other havens."
+        "why": "They draw flows whenever French stress rises, though the pull eased after the reprieve."
       },
       {
-        "who": "Opposition parties, especially the National Rally",
-        "why": "Market stress and a failing budget strengthen arguments for order and a fiscal reset, and the party does not have to govern now."
-      },
-      {
-        "who": "Short-term and inflation-linked savers",
-        "why": "Higher yields mean better returns on new government paper, though not if inflation outruns them."
+        "who": "Candidates promising order and a fiscal fix",
+        "why": "A debt scare helps whoever looks credible on money and security, which favours the National Rally in April 2027 polling."
       }
     ],
     "losers": [
       {
-        "who": "The French Treasury and taxpayers",
-        "why": "Every extra basis point on a record EUR 340bn funding need adds to the interest bill for years."
+        "who": "French taxpayers and the 2027 budget",
+        "why": "Every extra basis point on a record EUR 340bn funding need adds to the interest bill."
       },
       {
-        "who": "French banks and insurers",
-        "why": "They hold large amounts of French government debt. Falling prices dent balance sheets and raise their own funding costs."
+        "who": "The French government",
+        "why": "It cannot spend to calm protesters and cannot easily pass cuts, so it is squeezed from both sides."
+      },
+      {
+        "who": "French banks and companies",
+        "why": "Their funding costs are linked to the sovereign, and the CAC 40 has swung with the French bond news."
       },
       {
         "who": "Italy and Spain",
-        "why": "Their spreads widened in step with France's in early October, so French stress raises their borrowing costs even without any fault of their own."
-      },
-      {
-        "who": "The government and centrist bloc",
-        "why": "They face a budget fight in a divided parliament with markets and streets pulling in opposite directions."
+        "why": "Their spreads widened in step with France's in early October, and Italy's spending room shrinks as a result."
       }
     ],
     "whatsNext": [
-      "23 October: Moody's reviews France's Aa3 negative rating. A cut to A1 or a change of outlook would move the spread.",
-      "29 October: the ECB meets. Any hint on the bond-buying tool, or on rate rises, moves French yields.",
-      "30 October: the Bank of Japan concludes its meeting with rates at 1.25%. Guidance toward 1.5% could pull Japanese money home and lift French funding costs.",
-      "Late 2026: budget votes in a fragmented parliament. A defeat would hit confidence.",
-      "18 April and 2 May 2027: the presidential election rounds."
+      "29 October: ECB policy meeting. Inflation is 3.8% and minutes show another rate rise is under discussion; the central bank says French bond buying is not warranted.",
+      "30 October: Bank of Japan decision with rates at 1.25% and USD/JPY near 158. Guidance on further hikes could pull Japanese money out of French bonds.",
+      "November and December: budget votes in a parliament where passing the EUR 54bn package is uncertain.",
+      "18 April and 2 May 2027: presidential election rounds, with the National Rally candidate at 35-36% in October polls."
     ],
     "predict": {
-      "question": "Before you read on: what will Moody's do on 23 October?",
+      "question": "Before you read the scenarios: with Moody's holding the rating, what is the most likely path for French borrowing costs over the next three months?",
       "options": [
-        "Cut France to A1",
-        "Keep Aa3 and keep the negative outlook",
-        "Keep Aa3 but move the outlook to stable"
+        "They keep falling toward pre-crisis levels",
+        "They stay elevated and choppy as politics and the budget drive swings",
+        "They spike sharply on a downgrade or failed budget",
+        "The ECB steps in and caps them"
       ],
       "answerIndex": 1,
-      "explanation": "Our estimate is that holding the rating and the negative outlook is the single most likely outcome, at roughly 50%. A downgrade to A1 is about 35%. A move to a stable outlook is unlikely given the unrest and the funding need. These are author judgements, not sourced forecasts."
+      "explanation": "Our base case, about 45%, is a reprieve that holds only loosely: the spread stays well above pre-crisis levels and swings with protests, the budget and global yields. A return to stress is the next most likely path at about 30%. ECB intervention is unlikely because it says conditions are not met."
     },
     "recap": [
       {
-        "question": "About how much more than Germany does France pay to borrow for ten years?",
+        "question": "What did Moody's do with France's Aa3 rating, according to 26 October headlines?",
         "options": [
-          "About 14 basis points",
-          "About 140 basis points",
-          "About 1,400 basis points"
+          "Cut it",
+          "Kept it",
+          "Raised it"
         ],
         "answerIndex": 1
       },
       {
-        "question": "What is France's current Moody's rating?",
+        "question": "What is the record amount France must raise in 2027?",
         "options": [
-          "Aaa",
-          "Aa3 with a negative outlook",
-          "A1 stable"
+          "EUR 54bn",
+          "EUR 91bn",
+          "EUR 340bn"
         ],
-        "answerIndex": 1
+        "answerIndex": 2
       },
       {
-        "question": "What is the ECB's stance on stepping in?",
+        "question": "Why does the Bank of Japan matter for French bonds?",
         "options": [
-          "It says intervention is not warranted",
-          "It has already begun buying French bonds",
-          "It has scheduled emergency purchases"
+          "Japanese investors hold large amounts of French debt and may bring money home as Japanese yields rise",
+          "Japan sets the ECB's interest rate",
+          "Japan is France's biggest trade partner"
         ],
         "answerIndex": 0
       }
@@ -209,47 +225,62 @@
       {
         "date": "2026-10-08",
         "title": "ECB signals reluctance to intervene",
-        "detail": "Reporting says the central bank sees no case yet for backstopping French bonds as risks mount.",
+        "detail": "ROIC reports the ECB is reluctant to step in as French bond risks mount.",
         "sourceIndex": 1
       },
       {
         "date": "2026-10-17",
-        "title": "550,000 march across France",
-        "detail": "About 2,400 arrested in one day. Investors read each weekend of violence as a rise in political risk.",
+        "title": "550,000 march in France; about 2,400 arrested",
+        "detail": "Looting and arson in a dozen cities. Investors begin demanding extra interest after each weekend of violence.",
         "turning": true
       },
       {
+        "date": "2026-10-18",
+        "title": "Rioting continues in Milan",
+        "detail": "More than 200 arrests over 17-18 October, with clashes in Turin and Bologna. Italian spreads had moved with French ones earlier in the month."
+      },
+      {
         "date": "2026-10-19",
-        "title": "French yields rise as riots hit markets",
-        "detail": "The premium over Germany stays near 140 basis points, the widest since the euro-debt crisis.",
+        "title": "French yields rise; spread about 140 bp",
+        "detail": "The gap to Germany is the widest since the euro-debt crisis. Debt is about 119% of GDP.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-23",
-        "title": "Moody's reviews the Aa3 negative rating",
-        "detail": "The scheduled decision. A downgrade would be the clearest official sign that the stress is more than market noise."
+        "title": "Moody's reviews France's Aa3 negative rating",
+        "detail": "A scheduled review. A downgrade was widely feared."
       },
       {
-        "date": "2026-10-29",
-        "title": "ECB policy meeting",
-        "detail": "Inflation at 3.8% and French stress pull in opposite directions."
-      },
-      {
-        "date": "2026-10-30",
-        "title": "Bank of Japan concludes its meeting",
-        "detail": "Rate at 1.25%, a 31-year high. Markets expect a hold but watch for guidance toward 1.5% as early as December."
-      },
-      {
-        "date": "2027-04-18",
-        "title": "Presidential election, round 1",
-        "detail": "The National Rally candidate leads at 35-36% in October polls.",
+        "date": "2026-10-26",
+        "title": "Moody's keeps Aa3; French bonds rally",
+        "detail": "Bloomberg reports French bond risk falling the most since 2020 as the downgrade is avoided. The CAC 40 closes 0.8% higher. Italian and Spanish premiums also narrow.",
+        "sourceIndex": 5,
         "turning": true
       },
       {
-        "date": "2027-05-02",
-        "title": "Presidential run-off",
-        "detail": "The decision that sets French policy on the budget, Ukraine and the EU."
+        "date": "2026-10-26",
+        "title": "About 400,000 march in new protests",
+        "detail": "Fresh turnout adds to political uncertainty even as the rating news calms bonds.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Japanese investors reconsider French exposure",
+        "detail": "Equiti puts Japanese holdings of French bonds near $145bn and flags fresh selling risk.",
+        "sourceIndex": 7
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Finance minister: France must 'cure ourselves'",
+        "detail": "No extra spending to appease protesters, in order to avoid widening the deficit.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Treasury yields near 5%",
+        "detail": "Bond market tensions ease, but investors stay on edge about French debt risks.",
+        "sourceIndex": 4
       }
     ],
     "causes": [
@@ -258,16 +289,16 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "High debt",
-            "detail": "Public debt is about 119% of GDP, one of the highest among large euro-area economies."
+            "name": "High debt and large deficits",
+            "detail": "Debt at about 119% of GDP and a record EUR 340bn to raise in 2027 leave France exposed to any shift in investor mood."
           },
           {
-            "name": "Record funding need",
-            "detail": "France must raise a record EUR 340bn in 2027, so it depends heavily on investor appetite."
+            "name": "Rising interest bill",
+            "detail": "The cost of servicing debt is about EUR 91bn in 2027, so higher yields feed straight into the deficit."
           },
           {
             "name": "Fragmented politics",
-            "detail": "A divided parliament makes it hard to pass the savings that would calm creditors."
+            "detail": "A budget that needs EUR 54bn of savings has to pass a parliament where no bloc has a clear majority."
           }
         ]
       },
@@ -276,224 +307,220 @@
         "when": "October 2026",
         "causes": [
           {
-            "name": "Nationwide unrest",
-            "detail": "School blockades turned into cost-of-living protests. About 550,000 marched on 17 October."
+            "name": "Mass protest and rioting",
+            "detail": "About 550,000 marched on 17 October and roughly 2,400 were arrested that day. Markets read this as a governance problem."
           },
           {
-            "name": "Visible limits to buying peace",
-            "detail": "Investors see a state that cannot afford concessions without widening its deficit."
+            "name": "Rating review on the calendar",
+            "detail": "Moody's review of Aa3 negative on 23 October concentrated investor fear on a single date."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "October 2026",
+        "when": "October 2026 onward",
         "causes": [
           {
-            "name": "Inflation and ECB bind",
-            "detail": "Euro-area inflation of 3.8% limits the ECB's room to support bonds."
+            "name": "Higher global yields",
+            "detail": "US Treasury yields near 5% lift the benchmark for all long-term borrowers."
           },
           {
-            "name": "Rating review",
-            "detail": "Moody's decision on 23 October gives a hard date for fear to crystallise."
+            "name": "Japanese yield rise",
+            "detail": "With the BoJ policy rate at 1.25%, the highest since 1995, Japanese investors can earn more at home."
           },
           {
-            "name": "Foreign holders",
-            "detail": "Rising Japanese yields may draw back Japanese investors, among the largest foreign holders of French bonds."
+            "name": "Inflation at 3.8%",
+            "detail": "Euro-area inflation limits the ECB's room to ease or to buy bonds."
           },
           {
-            "name": "Election risk",
-            "detail": "A leading candidate who pledges to cut Ukraine funding and cap the EU contribution adds uncertainty."
+            "name": "Spending ruled out",
+            "detail": "The finance minister's stance removes a quick way to soften protest anger."
           }
         ]
       }
     ],
     "stakeholders": [
       {
-        "name": "French government and Treasury",
+        "name": "French government and finance ministry",
         "role": "Borrower and budget author",
-        "wants": "Calm markets, a passable budget and no downgrade",
-        "leverage": "Budget design, issuance timing and maturity mix",
-        "likelyMove": "Stress fiscal credibility, dilute savings measures if needed, and keep issuing steadily"
+        "wants": "A 2027 budget that markets accept, without a deficit blowout or a censure",
+        "leverage": "Budget text, spending choices and the timing of votes",
+        "likelyMove": "Hold the line on spending, make limited concessions and argue that France must fix itself"
       },
       {
-        "name": "Moody's",
-        "role": "Credit rating agency",
-        "wants": "To judge debt sustainability on evidence, not headlines",
-        "leverage": "A rating action changes investor mandates and borrowing costs",
-        "likelyMove": "Hold or cut on 23 October; a hold with the negative outlook intact keeps pressure on"
+        "name": "Moody's and other rating agencies",
+        "role": "Credit judges",
+        "wants": "Evidence of a credible fiscal path",
+        "leverage": "A downgrade lifts funding costs and can force some funds to sell",
+        "likelyMove": "Moody's held Aa3 on this review; fresh reviews will track the budget and the politics"
       },
       {
         "name": "European Central Bank",
-        "role": "Eurozone monetary authority",
-        "wants": "Bring inflation down from 3.8% without causing disorder in bond markets",
-        "leverage": "Rate decisions and a never-used bond-buying tool",
-        "likelyMove": "Say intervention is not warranted; demand a credible national fiscal path first"
+        "role": "Rate setter and holder of the never-used bond-buying tool",
+        "wants": "Inflation back to target without a disorderly French sell-off",
+        "leverage": "Interest rates; the option to buy bonds",
+        "likelyMove": "Say intervention is not warranted. The Bank of France governor says the problem must be solved at home."
       },
       {
-        "name": "Bank of France governor",
-        "role": "ECB council member",
-        "wants": "Domestic solutions to a domestic problem",
-        "leverage": "Credibility and a vote at the ECB",
-        "likelyMove": "Keep urging fiscal repair and rule out outside rescue"
+        "name": "Japanese institutional investors and the Bank of Japan",
+        "role": "Large foreign holders of French bonds and their home-market regulator",
+        "wants": "Higher returns at home as Japanese yields rise",
+        "leverage": "Selling or not rolling over French holdings",
+        "likelyMove": "Gradual rebalancing; a hawkish BoJ on 30 October would speed it"
       },
       {
-        "name": "Bond investors, including Japanese holders",
-        "role": "Buyers of French debt",
-        "wants": "Compensation for political and fiscal risk",
-        "leverage": "Auction demand and the spread",
-        "likelyMove": "Demand wider premiums until a budget passes; Japanese investors may favour home markets as yields rise"
+        "name": "National Rally and Marine Le Pen",
+        "role": "Poll leaders",
+        "wants": "A win in April 2027 on order and a fiscal fix",
+        "leverage": "35-36% polling and a pledge to cap the EU contribution at EUR 5bn and end Ukraine funding within six months",
+        "likelyMove": "Blame the government for the debt and the unrest"
       },
       {
-        "name": "National Rally and other opposition",
-        "role": "Election contenders",
-        "wants": "Win in 2027 on order and a fiscal fix",
-        "leverage": "Poll leads of 35-36% in October",
-        "likelyMove": "Blame the government for stress; promise order and curbs on EU and Ukraine spending"
+        "name": "Protest organisers and unions",
+        "role": "Street opposition",
+        "wants": "Relief on living costs and public services",
+        "leverage": "Marches such as the 400,000 on 26 October",
+        "likelyMove": "Keep up the pressure through the budget votes"
       },
       {
-        "name": "Italy and Spain",
-        "role": "Fellow high-debt euro members",
-        "wants": "Insulation from French contagion",
-        "leverage": "Limited; their spreads move with France's",
-        "likelyMove": "Stress their own deficit progress; push for ECB clarity"
+        "name": "Italian government",
+        "role": "Neighbouring borrower under the same pressure",
+        "wants": "Stable spreads and room to ease price anger",
+        "leverage": "Its own bond market, which moves with France's",
+        "likelyMove": "Stress that its finances differ from France's and try to calm its own unrest"
       }
     ],
     "sectors": [
       {
         "sector": "French government bonds",
-        "direction": "down",
+        "direction": "mixed",
         "size": 3,
-        "why": "Prices fall as yields rise; the spread is at a post-crisis high."
+        "why": "Rallied after the Moody's reprieve, but yields remain high and the funding need is a record EUR 340bn."
       },
       {
-        "sector": "French banks and insurers",
-        "direction": "down",
+        "sector": "French banks and corporate borrowers",
+        "direction": "mixed",
         "size": 2,
-        "why": "Large holdings of sovereign debt and links between sovereign and bank funding costs."
+        "why": "Funding costs follow the sovereign. The CAC 40 closed 0.8% higher on 26 October, but single-stock news such as Kering's reported 16.6% drop shows the market is uneven."
       },
       {
         "sector": "German government bonds",
         "direction": "up",
         "size": 1,
-        "why": "Safe-haven demand when investors leave French debt."
+        "why": "Safe-haven demand rises when French stress rises, and fades when it eases."
       },
       {
-        "sector": "Italian and Spanish debt",
-        "direction": "down",
-        "size": 2,
-        "why": "Spreads widened in step with France's in early October."
-      },
-      {
-        "sector": "Euro",
-        "direction": "mixed",
-        "size": 1,
-        "why": "Political risk weakens it, while ECB rate-rise talk supports it."
-      },
-      {
-        "sector": "Mortgages and consumer credit",
-        "direction": "down",
-        "size": 2,
-        "why": "Government yields feed into lending rates over time; the effect varies by product and lender."
-      },
-      {
-        "sector": "Defence and Ukraine-related budgets",
+        "sector": "Italian and Spanish bonds",
         "direction": "mixed",
         "size": 2,
-        "why": "A French fiscal squeeze or a change of government could cut Ukraine support and shift costs to others."
+        "why": "Their premiums widened with France's in early October and narrowed again after the Moody's decision."
+      },
+      {
+        "sector": "Euro currency",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Commentators say the euro struggled to find traction even after the reprieve, as French debt risk caps it."
+      },
+      {
+        "sector": "Japanese institutional portfolios",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Rising home yields give them a reason to repatriate; Equiti puts French exposure near $145bn."
       }
     ],
     "dailyLife": [
       {
-        "item": "Mortgages and loans",
-        "effect": "Government yields are a reference point for bank funding. Higher yields tend to push up fixed-rate offers with a lag, though the size varies."
+        "item": "Mortgages and business loans",
+        "effect": "French and euro-area loan rates follow government bond yields. A higher premium on French debt tends to feed into what banks charge."
       },
       {
         "item": "Savings and pensions",
-        "effect": "Bond prices fall as yields rise, which can dent funds holding French debt. New savers may earn more."
+        "effect": "Higher yields mean better returns on new bond purchases, as an Australian pension fund's reported buying at about 5% shows, but price swings hurt existing holders.",
+        "sourceIndex": 4
       },
       {
-        "item": "Public services",
-        "effect": "A larger interest bill leaves less room for schools, hospitals and wage rises, which feeds the grievances behind the protests."
+        "item": "Public services and taxes",
+        "effect": "With a EUR 91bn interest bill in 2027, more money goes to lenders and less to schools or transport, or taxes have to rise."
       },
       {
-        "item": "Prices",
-        "effect": "With euro-area inflation at 3.8%, tighter credit and a wobbling euro could add to or ease price pressures depending on the ECB's response."
+        "item": "Cost of living",
+        "effect": "Euro-area inflation of 3.8% in September keeps prices pressing on household budgets, which is the root of the protest anger."
       },
       {
-        "item": "Taxes",
-        "effect": "Expect debates over tax rises or spending cuts as the budget goes through parliament."
+        "item": "Travel and daily routines",
+        "effect": "Large marches such as the one on 26 October can disrupt transport and shops in city centres.",
+        "sourceIndex": 2
       }
     ],
     "scenarios": [
       {
-        "name": "Elevated plateau",
+        "name": "Loose reprieve",
         "probability": 45,
-        "looksLike": "Moody's holds or makes a modest move; the spread stays roughly between 120 and 160 basis points; the budget passes late and diluted.",
+        "looksLike": "The spread stays well above pre-crisis levels and swings with protests, the budget and global yields. A diluted budget passes late.",
         "signposts": [
-          "Auctions covered normally",
-          "Moody's keeps Aa3 and the outlook",
-          "Streets calmer after 23 October"
+          "Protest turnout stays around 400,000 or below",
+          "The ECB holds its line that intervention is not warranted",
+          "Treasury yields stay near 5% but stop climbing"
         ],
-        "effectOnWorld": "France stays a weak, inward-looking partner; EU budget and Ukraine decisions slip until after the election."
+        "effectOnWorld": "France stays a cautious, inward-looking partner; EU budget and Ukraine decisions slip toward the election."
       },
       {
-        "name": "Political-risk escalation",
+        "name": "Stress returns",
         "probability": 30,
-        "looksLike": "A downgrade or budget defeat lifts the spread toward 160-200 basis points; the campaign turns on order and austerity.",
+        "looksLike": "The spread widens again as the budget stalls, another agency warns, the ECB turns hawkish or Japanese selling accelerates.",
         "signposts": [
-          "Moody's cuts to A1",
-          "Budget vote lost",
-          "Another weekend of serious violence"
+          "Budget defeated or censure motion tabled",
+          "BoJ guides toward 1.5% as early as December",
+          "New violence at a large march"
         ],
-        "effectOnWorld": "Italian and Spanish spreads widen; the ECB faces pressure to consider its bond-buying tool."
+        "effectOnWorld": "Italian and Spanish spreads follow, and political pressure for ECB bond buying returns."
       },
       {
-        "name": "Relief",
+        "name": "Calm and consolidation",
         "probability": 15,
-        "looksLike": "The rating holds, protests fade, a credible budget path emerges and the spread drops under 120 basis points.",
+        "looksLike": "A budget deal passes, protests fade and the spread narrows steadily.",
         "signposts": [
-          "Budget deal with the opposition",
-          "Strong demand at auctions",
-          "Calm weekends"
+          "A cross-party budget deal",
+          "Falling turnout at marches",
+          "Foreign buyers returning at auctions"
         ],
-        "effectOnWorld": "Eurozone stress eases and the ECB can focus on inflation."
+        "effectOnWorld": "Euro-area stress eases and attention shifts to inflation and the ECB."
       },
       {
-        "name": "Disorderly crisis",
+        "name": "Disorderly sell-off",
         "probability": 10,
-        "looksLike": "Spread spikes toward or above 200 basis points; failed or weak auctions; emergency budget; ECB debates using its tool.",
+        "looksLike": "A downgrade or budget collapse triggers fast selling, weak auctions and a debate on using the ECB's bond-buying tool.",
         "signposts": [
-          "Weak auctions",
-          "Italian and Spanish spreads jump in step",
-          "Bank funding stress"
+          "A failed bond auction",
+          "Italian and Spanish spreads widening sharply with France",
+          "Large Japanese sales"
         ],
-        "effectOnWorld": "A eurozone-wide stress test and a north-south fight over ECB support; Ukraine funding frozen."
+        "effectOnWorld": "A eurozone-wide stress test, a north-south fight over ECB support and a hit to Ukraine funding plans."
       }
     ],
     "predictions": [
       {
-        "text": "About 35% likely: Moody's downgrades France from Aa3 to A1 on 23 October.",
-        "horizon": "By 24 October 2026",
-        "resolves": "2026-10-24"
+        "text": "Probability 0.55: French ten-year yields stay above their pre-October levels and the spread to Germany does not return to its pre-protest low.",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
       },
       {
-        "text": "About 95% likely: the ECB does not activate its bond-buying tool for France.",
-        "horizon": "By 31 December 2026",
-        "resolves": "2027-01-04"
+        "text": "Probability 0.35: At least one major rating agency downgrades France or moves its outlook to negative.",
+        "horizon": "By 30 June 2027",
+        "resolves": "2027-06-30"
       },
       {
-        "text": "About 25% likely: the 10-year spread over Germany closes above 160 basis points on at least one day.",
-        "horizon": "By 31 December 2026",
-        "resolves": "2026-12-31"
-      },
-      {
-        "text": "About 40% likely: at least one major rating agency cuts France's rating or moves its outlook lower.",
+        "text": "Probability 0.9: The ECB does not use its bond-buying tool for France.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "About 85% likely: the spread is still above 100 basis points on election day.",
+        "text": "Probability 0.6: The government passes a 2027 budget with savings below the EUR 54bn target, or by decree.",
+        "horizon": "By 31 March 2027",
+        "resolves": "2027-03-31"
+      },
+      {
+        "text": "Probability 0.7: The National Rally candidate leads first-round polls in the weeks before 18 April 2027.",
         "horizon": "April 2027",
         "resolves": "2027-04-18"
       }
@@ -502,89 +529,84 @@
       {
         "audience": "businesses",
         "actions": [
-          "Review refinancing dates and covenants; consider locking in fixed rates before further widening.",
-          "Check exposure to French public-sector customers and delayed payments.",
-          "Add contract protections for sovereign or banking stress in France, Italy and Spain.",
-          "Stress-test cash flows against a 100-basis-point rise in funding costs."
+          "Lock in funding for 2027 early if you rely on French bank credit or bond markets.",
+          "Add interest-rate and rating triggers to loan covenants and contracts.",
+          "Plan for transport and site disruption on announced protest days."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat French debt as political risk until a budget passes, not as core-Europe safety.",
-          "Watch the Moody's decision on 23 October and the ECB meeting on 29 October for the next move.",
-          "Track Italian and Spanish spreads as a contagion signal.",
-          "Do not assume an ECB backstop; officials say conditions for intervention are not met."
+          "Treat the Moody's hold as a pause, not a resolution; the budget, the ECB and the BoJ are the next tests.",
+          "Watch the French-German spread and Japanese flows rather than relying on rating headlines.",
+          "Do not assume an ECB backstop; the central bank says conditions are not met."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "If a mortgage rate is about to be fixed, compare offers now.",
-          "Spread savings across banks and instruments rather than relying on a single product.",
-          "Expect debate over taxes and public spending as the budget moves."
+          "Fix mortgage or loan rates if you are close to a decision; yields remain high.",
+          "Keep emergency savings in liquid form while inflation sits near 3.8%.",
+          "Check how a possible rate rise would affect variable-rate debt."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Publish a credible multi-year fiscal path before the budget vote.",
-          "Separate order from grievances: fund visible fixes such as schools while preventing violence.",
-          "Coordinate with Italy and Spain to limit contagion.",
-          "Be clear with markets about what would trigger ECB tools."
+          "Publish a credible multi-year path for the 2027 budget to take political risk out of bond pricing.",
+          "Explain who bears the cost of the savings, to answer the protest narrative.",
+          "Coordinate with the ECB and euro-area partners so contagion to Italy and Spain stays contained."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Euro sovereign-debt crisis",
+        "event": "Euro-area sovereign debt crisis",
         "year": "2010-2012",
-        "whatFollowed": "Spreads in Greece, Ireland, Portugal, Spain and Italy blew out; the ECB's 2012 pledge to do whatever it takes, and its bond-buying programme, ended the panic."
-      },
-      {
-        "event": "S&P strips France of its top rating",
-        "year": "2012",
-        "whatFollowed": "Markets absorbed the downgrade with limited long-term damage, but it fed a political debate on fiscal credibility."
+        "whatFollowed": "Spreads on Italy, Spain and others spiralled until the ECB pledged to do 'whatever it takes' in 2012. France's problem is smaller but the ECB's reluctance to act first is similar."
       },
       {
         "event": "UK gilt crisis",
         "year": "2022",
-        "whatFollowed": "An unfunded budget triggered a bond sell-off; the Bank of England stepped in briefly, and the government changed course and then its leader."
+        "whatFollowed": "A budget that markets distrusted triggered a fast bond sell-off, forced central-bank intervention and cost a prime minister her job. It shows how quickly a budget fight can turn into a market event."
       },
       {
-        "event": "Italy's budget standoff with Brussels",
+        "event": "Italy's budget standoff with the EU",
         "year": "2018",
-        "whatFollowed": "Italian spreads widened sharply; a compromise with the EU calmed markets but the political cost lingered."
+        "whatFollowed": "Spreads spiked during a fight over spending plans and eased after a compromise. Political deals can calm bond markets, but the damage to confidence lingered."
       }
     ],
     "watch": [
       {
-        "date": "2026-10-23",
-        "title": "Moody's review of France's Aa3 negative rating",
-        "why": "A cut to A1 would be the clearest signal yet and could push the spread higher."
-      },
-      {
         "date": "2026-10-29",
         "title": "ECB policy meeting",
-        "why": "Inflation at 3.8% versus French stress: any hint on rates or the bond-buying tool moves spreads."
+        "why": "Inflation is 3.8% and a rate rise is under discussion; any comment on bond-buying moves French spreads."
       },
       {
         "date": "2026-10-30",
-        "title": "Bank of Japan decision and Quarterly Outlook Report",
-        "why": "Guidance toward 1.5% could draw Japanese investors back from French bonds."
+        "title": "Bank of Japan decision and Outlook Report",
+        "why": "Guidance toward 1.5% could accelerate Japanese selling of French bonds."
+      },
+      {
+        "title": "French budget votes",
+        "why": "A defeat, decree or censure motion would reshape both bond markets and the election."
+      },
+      {
+        "title": "Next protest dates",
+        "why": "Turnout near 400,000 or violence would add to the political-risk premium."
+      },
+      {
+        "title": "Other rating agency reviews",
+        "why": "A cut by another agency would revive the downgrade fear that Moody's calmed."
+      },
+      {
+        "title": "US Treasury yields near 5%",
+        "why": "A move above that level lifts the global benchmark for French borrowing costs."
       },
       {
         "date": "2027-04-18",
-        "title": "Presidential election, round 1",
-        "why": "A first-round result will show whether the debt and unrest crisis rewards the National Rally."
-      },
-      {
-        "title": "Budget votes in parliament",
-        "why": "A defeat or decree would reshape the campaign and market confidence."
-      },
-      {
-        "title": "Italian and Spanish spreads",
-        "why": "If they widen in step with France's, the stress is spreading."
+        "title": "Presidential election, first round",
+        "why": "Sets the direction on budget policy, the EU contribution and Ukraine funding."
       }
     ]
   },
@@ -601,38 +623,76 @@
         "url": "https://www.roic.ai/news/ecb-reluctant-to-intervene-as-french-bond-risks-mount-10-08-2026",
         "publisher": "ROIC",
         "date": "2026-10-08"
+      },
+      {
+        "title": "400,000 march in French protests",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQ0dVSEdrWmZlbHhsRHNOdW5fU2NBRHR3NERLNHJNTXhHb1RqOGhxU0tmVktOY3ZvX2RXYm1ZZm84WGFLVGtBcF9aYV9nNDBZVDJxUmFsazJ6WGdnUVV0eU5PU016SWdiSmNNMlRqMlEzdHltVHAtYlduclM0anFFZ2FFM0VBSWpzenExRXB2OG5VbEw3cUV1OXd0aU1oUjlxQTNyaEx3dEUyUFZMdVRyb1g4b3RIOHVBd1B2NjNqWXVnd0FxY3hSUnNVZVpGU2FONzJERE1NYjhjWkNKWTdRYTBLbVV4bjdnc1p1MmRCRkh2WFMxenJZUzBZaG9XdG1zaGFJ0gGIAkFVX3lxTFAxa21mVXowdXhHWnJSSEFKZTNWRmM3TW1qdXpmX29qY3V5TFFOT2JTbnNrcmpaZEhwYVVPajNLNG44cnVRVG9tNEMyNXQ1VUd6eF9hdzZ4WUplWTcybmF6bTg3S0NYMUVlWjhQaG5QRi1la0I5S1d5V01kZms1UFJ5OGhlRGhRc1hyOUVvVXdzZmNlR1FqNDdrRkd0U2RTdFBidEdmbFplM2pKOHY4MVc3SExMT2pNUzNjeXlTSDB4bnU2VGFZNGpPSko0MjJsYm1sdE1icUpiVEdTQUlLVVkxQXgwMllkYzJubDdLeU9QNUl3anBMUHFYT29yN0RYRHh3MXRvNVZOTw?oc=5",
+        "publisher": "The Times of India",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "France must 'cure ourselves' without more spending, says finance minister",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY25rdFlEcVdFdHY5bEoyM2NkLTlXNWtUUXVjTWtINmdaQ1prcnhOUVBlNmNBRndPTVdzM2h1dDNpLXIzbVRIbWQ0eEdpUkt5RGZDU0lKaVJ2dXNUZkJPYVNnNl9QYlNXMFBrLW9ybTlnWjBvdWszN0QwNnBjaEpuMHBWOWs?oc=5",
+        "publisher": "Financial Times",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWI2aGNTNm1iOThvTFN2QlFpTVdNVnhJanR5VjRCMTNpRVdab3ROb2lUbHdFZ1h0SDdFVF8td0QwZFloREpnQ3hzT0QwQ0dOeEN2dHNfaTRxMkRwcjEyNU12SHZ6REsybTFWcWxyN1hia3o5N0lYdURsZnRGSE5VX2NFR2tacU0tektoeVpNdWNwcjMzS2JLNnJSYjZONnY3UWVPYkdfR0d4OWxuZVFiekVIemxCeTdZdkZYNHJQYmdjLW0ycXBwTGdLVQ?oc=5",
+        "publisher": "investingLive",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "French Bond Risk Falls Most Since 2020 as Downgrade Avoided",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjFzazJCX2IyLUdSQmtrQy1jMkZqRDd3T2dOOUs3RF9uTWxfODBnVjFJUmZZajRwZTlzSUc1OEZUSV8tamZ3cngzOWNBS0FsdnFkN1VhLUZQcFhhektJRlkwczhVWGZrRnFmS2IyZHd2Smdoa2JZZk9kMlVQT0wwU21YMWlwbHhHUDFGWWttSmR5bFBFdmJ3RzBKd1R1ekFma0ljdUEzRUpYZ1oxcUVWQg?oc=5",
+        "publisher": "Bloomberg",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "French bonds rally after Moody's rating reprieve",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0tHRndOUXpFUzZURmdJMWlMMk5sZ0Y0MlpXRjc2cldBMmhBZTFhbDFNUFprUUJiRExfUVFIZ1pTQ1d1YUFsaVBhRUVYZlZ6RDB3RGdOaFJIUHJYVndmZDYxVXNTMXZfeWZhRTNkeEhQVVpnZElIVVlSbHI4cF96b0JzQmc?oc=5",
+        "publisher": "Financial Times",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "French bonds face fresh selling risk as Japanese investors reconsider $145 billion exposure",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1dSdHBKSWZtS3JjT1I3cWNZZURTZGhEdThvZE94SHVXQmZjUlBlNlZFSnBOTGdBZWJSSFZxMExYbWJ5am9ud3kyc2dFVkczNlI2RVVMR0NiWkk0MWVmSTVyOGZreEt3U0Q1SDNiYjFCY19wVTVWV1pzRXkyck45SFZGU1YxSFFRMUthV1h3TnVNcFhlaVdDWEwzUWlFVDllWUc0WQ?oc=5",
+        "publisher": "Equiti Global",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "France Gets Surprise Ratings Reprieve From Moody's—It Won't Last Long",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLbnZPU1pLeHZWNmtPdXY1dDg2UENQRjVXSnNFRlhrdGJxXzB4SzhyLU1UTmIzZlFNOU1xdGliZmFUVG5SS0x2MFBzc3hoZ0E3NVJtQzdtdFVVa2xYeWlaOXMweUtLczlieXpvczA3UlFwV28tNHc?oc=5",
+        "publisher": "Barron's",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "ECB rate outlook: Eurozone inflation, French debt and rising bond yields",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZXlmMHdCZF9ZeXFHSW42Zk1uODBUV3dBdHg1NWVyV3lqQTYxN0lJTnAwWWwtTjNQLW1IeWxhNm9tLWhjb3A1TnB5ZUJUZ3RQRVpROHdCNjNIYTFKWGZhRTNkeEhQVVpnZElIVVlSbHI4cF96b0JzQmc?oc=5",
+        "publisher": "Equiti Global",
+        "date": "2026-10-26"
       }
     ],
     "confidence": [
       {
-        "claim": "The French-German 10-year spread is about 140 basis points, the widest since the euro-debt crisis",
+        "claim": "Moody's kept France's Aa3 rating at the late-October review",
         "level": "medium",
-        "note": "Taken from the event summary and cited coverage; exact levels differ by source and day, so only the approximate figure is used."
+        "note": "Several outlets' headlines on 26 October agree; we have not seen the Moody's statement itself, so the outlook status (negative or stable) is not confirmed."
       },
       {
-        "claim": "Debt is 119% of GDP and a record EUR 340bn must be raised in 2027",
+        "claim": "Spread of about 140 bp and debt at 119% of GDP, EUR 340bn to raise in 2027",
         "level": "medium",
-        "note": "From the event summary; not independently verified against official issuance plans."
+        "note": "Figures come from the event summary and a 19 October market report; the spread has moved since the Moody's decision and we have no later figure."
       },
       {
-        "claim": "Moody's reviews the Aa3 negative rating on 23 October",
-        "level": "medium",
-        "note": "From the event summary; the schedule was not checked against Moody's own calendar."
+        "claim": "Size of Japanese holdings of French bonds (about $145bn)",
+        "level": "low",
+        "note": "Taken from one headline by Equiti; the underlying definition and date are not in our material."
       },
       {
-        "claim": "The ECB says intervention is not warranted",
+        "claim": "Protest turnout of about 400,000 on 26 October",
         "level": "medium",
-        "note": "Supported by the 8 October ROIC report and the event summary; the stance could change quickly if stress worsens."
-      },
-      {
-        "claim": "Italian and Spanish spreads widened in step with France's in early October",
-        "level": "medium",
-        "note": "From the linked Milan-riots event; not independently checked here."
-      },
-      {
-        "claim": "Japanese investors are among the largest foreign holders of French bonds",
-        "level": "medium",
-        "note": "From the linked Bank of Japan event; the size of any repatriation is unknown."
+        "note": "Single-source headline summary; organisers' and police counts may differ."
       },
       {
         "claim": "Scenario probabilities and predictions",
@@ -640,20 +700,21 @@
         "note": "Author judgement, not a sourced forecast; to be graded as events resolve."
       }
     ],
-    "method": "Drafted from the two listed sources, the event summary and the already-judged connections to the related events on unrest, the ECB, the 2027 election, Italy's riots and the Bank of Japan. No other sources were opened. Figures such as the 140 basis point spread, 119% debt ratio, EUR 340bn funding need and Moody's date come from the event summary and were not independently verified. Scenario probabilities, prediction probabilities and the Moody's outcome estimate are the author's judgement. No chart is included because no dated series of real spread values was available.",
+    "method": "Drafted from the listed sources and wire headlines up to 28 October 2026. Several 26-27 October claims rest on headline text and short summaries rather than full articles, so details such as the exact spread level after the Moody's decision, the rating outlook and the Japanese holdings figure were not verified and are hedged. Scenario probabilities and prediction probabilities are the author's estimates.",
     "changeLog": [
       {
-        "date": "2026-10-19",
-        "change": "First publication."
+        "date": "2026-10-28",
+        "change": "First publication, updated for the Moody's decision reported on 26 October."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-19T19:56:37.160Z",
+    "at": "2026-10-28T13:10:20.070Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 2,
-    "reviewed": false
+    "headlines": 24,
+    "reviewed": false,
+    "size": "deep"
   }
 }
