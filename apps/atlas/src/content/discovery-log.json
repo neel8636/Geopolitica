@@ -73,10 +73,6 @@
       "at": "2026-10-25T07:02:23.740Z",
       "verdict": "reject"
     },
-    "62d900103eb4": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "existing"
-    },
     "8e12c9667319": {
       "at": "2026-10-24T17:01:41.628Z",
       "verdict": "existing"
@@ -117,14 +113,6 @@
       "at": "2026-10-25T02:02:15.770Z",
       "verdict": "reject"
     },
-    "df49688f73b1": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "reject"
-    },
-    "8cbecf6f9800": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "existing"
-    },
     "b0c34648a870": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "existing"
@@ -145,14 +133,6 @@
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "existing"
     },
-    "c7772e63a0f2": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "reject"
-    },
-    "61856c724f52": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "reject"
-    },
     "cc84288b4a7b": {
       "at": "2026-10-25T02:02:15.770Z",
       "verdict": "reject"
@@ -168,54 +148,6 @@
     "a701a05843d7": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "reject"
-    },
-    "7168046d8047": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "9067d6cde8a2": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "acfaff28821e": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "0f3ca028bc6a": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "042bcf87ceb7": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "8e3964626413": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "b93ca06af5f2": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "82d3056728e4": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "3ed949f724b6": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "d533fe068d04": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "03a1bf2981a1": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
-    },
-    "3a0cf685b557": {
-      "at": "2026-10-24T11:01:25.093Z",
-      "verdict": "no story"
     },
     "149101b2631d": {
       "at": "2026-10-26T13:04:15.829Z",
@@ -2628,6 +2560,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T11:06:59.881Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-28T10:06:52.439Z",
       "screened": 0,
       "accepted": [],
@@ -4077,133 +4018,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 4 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-26T20:04:33.577Z",
-      "screened": 111,
-      "accepted": [
-        {
-          "id": "algeria-niger-troop-deployment-2026",
-          "title": "Algeria sends troops to Niger, first foreign deployment since 1973",
-          "reason": "A state military deploys across a border for the first time in over 50 years, which changes Sahel security and the decisions of neighbouring governments.",
-          "channel": "troop deployment, regional security, migration and trade routes in the Sahel",
-          "reaches": [
-            "NE",
-            "ML",
-            "LY"
-          ],
-          "headlines": 3,
-          "publishers": 3
-        }
-      ],
-      "rejected": [
-        {
-          "title": "UN finds Russian attacks on Ukraine energy and civilians are war crimes",
-          "reason": "The finding is a report that decides nothing by itself and has no clear channel across borders.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Russian and Ukrainian strikes continue",
-          "reason": "These are routine strike reports with no new cross-border effect.",
-          "headlines": 2,
-          "publishers": 1
-        },
-        {
-          "title": "Jordan arrests three over church attack",
-          "reason": "This is a criminal case with no stated effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Middle East security landscape analysis",
-          "reason": "This is analysis, not a dated development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Anthropic IPO filing",
-          "reason": "This is company and market news with no state or policy angle.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "UN secretary-general race candidates",
-          "reason": "These are reports of candidacies and backing, with no decision or date.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Merz heads to Asia",
-          "reason": "This is a routine visit that decides nothing yet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Christians killed in Ethiopia massacre",
-          "reason": "It is a domestic atrocity report with no stated state action or cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US Marine charged over killing in Japan",
-          "reason": "This is a criminal case with no policy effect shown.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UK Budget previews",
-          "reason": "These are domestic fiscal previews and commentary with no clear cross-border channel.",
-          "headlines": 8,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran security talks, Trump's deal-or-finish-it ultimatum and Guterres's escalation warning",
-          "reason": "These are further developments in the US-Israel war on Iran and the Gulf energy shock already on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UK heating oil costs more than double",
-          "reason": "This is a downstream price effect of the Gulf energy shock.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "French student unions call for continued mobilisation after meeting PM",
-          "reason": "This is part of France's autumn of unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Young protesters clash with police in Rome",
-          "reason": "This is part of the wave of Italian street unrest already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "Israelis abroad fly in for vote",
-          "reason": "This is part of the Israeli election already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "Ukraine disputes Musk's Starlink claim",
-          "reason": "This is part of the existing Starlink dispute over Ukraine.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
