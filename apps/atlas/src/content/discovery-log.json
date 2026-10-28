@@ -2580,6 +2580,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T07:06:45.086Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 60 min ago"
+    },
+    {
       "at": "2026-10-28T06:06:35.889Z",
       "screened": 129,
       "accepted": [],
@@ -4032,118 +4041,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 25 min ago"
-    },
-    {
-      "at": "2026-10-26T17:04:18.346Z",
-      "screened": 103,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Algeria sends troops to Niger",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Over 60 Christians killed in Ethiopia",
-          "reason": "This is a domestic massacre report from a church official with no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Jordan arrests over church attack",
-          "reason": "This is a criminal and security case with no clear cross-border effect.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Saddam Haftar eyes Libyan throne",
-          "reason": "This is analysis of ambitions, not a dated development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Middle East security landscape shifting",
-          "reason": "This is an analysis piece, not a development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Pakistan-Iran border trade",
-          "reason": "The headline is a question with no confirmed decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Russian strikes hit Odesa and Zaporizhzhia",
-          "reason": "These are routine strikes with four injured and no new cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Merz heads to Asia",
-          "reason": "This is a routine visit preview that decides nothing yet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "China plenum explainer",
-          "reason": "This is an explainer on party discipline, not a decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UN secretary-general race candidates",
-          "reason": "Reports of candidacies and backing decide nothing yet.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Corporate and market deals",
-          "reason": "These are company and market news with no state or policy angle.",
-          "headlines": 6,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran hardliners and Guterres on US-Iran escalation",
-          "reason": "Both headlines concern the Iran-US war and the negotiation track already covered by the Gulf war event.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Heating oil costs more than double",
-          "reason": "This is a downstream price effect of the Gulf energy shock.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Israelis abroad fly in to vote",
-          "reason": "This is part of the Israeli election event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "Ukraine disputes Musk on Starlink terms",
-          "reason": "This continues the Starlink restrictions dispute already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Young protesters clash with police in Rome",
-          "reason": "This fits the Italian unrest event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
