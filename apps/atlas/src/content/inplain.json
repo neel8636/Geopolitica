@@ -312,26 +312,26 @@
     }
   },
   "eu-supply-chain-rules-2027": {
-    "sum": "5e43770e6218",
+    "sum": "a5d00cf3bd28",
     "quick": {
-      "happened": "The EU's deforestation rule starts on 30 December 2026, and its carbon border charge (CBAM) opens certificate sales on 1 February 2027.",
-      "matters": "Importers of coffee, rubber, wood, steel and aluminium face new paperwork and costs, and farmers abroad who cannot prove their sources may lose buyers.",
-      "next": "Brazil's run-off on 25 October shapes its response, then the deforestation rule begins on 30 December 2026."
+      "happened": "From 30 December 2026, the EU requires large and medium importers to prove goods like coffee and rubber did not come from cleared forest.",
+      "matters": "Importers of coffee, rubber, wood, steel and aluminium face new costs, and suppliers abroad who cannot prove their sources may lose buyers.",
+      "next": "The deforestation rule starts on 30 December 2026, and carbon border certificate sales open on 1 February 2027."
     },
     "connect": {
-      "title": "How the EU import rules connect to Brazil's run-off and China's steel exports, in plain words",
+      "title": "How the EU import rules connect to Brazil's vote and China's steel exports, in plain words",
       "paras": [
-        "Brazil sells Europe soy, beef and coffee. China sells Europe steel and aluminium. Both must now show EU buyers more: where goods came from, or how much carbon they carry.",
-        "From 30 December 2026, large and medium importers must prove goods did not come from cleared forest. From 1 February 2027, CBAM (a carbon charge on imports) certificates go on sale. The first CBAM declaration is due 30 September 2027.",
-        "This event decides who carries the cost. Brazil votes on 25 October, and its next president sets whether it helps farmers comply or pushes back. China's economy grew 4.5% on exports, and its steel faces CBAM costs from 2027."
+        "Brazil sells Europe a lot of soy, beef and coffee. China sells Europe a lot of steel and aluminium. European importers buy both, and now must prove more about what they bring in.",
+        "China's economy grew 4.5% in the third quarter, helped by an export surge. From 1 February 2027, EU carbon border (CBAM) certificates go on sale, and China is among the biggest suppliers of steel and aluminium they cover.",
+        "This event sets the dates for both rules. From 30 December 2026, large and medium importers must prove goods did not come from cleared forest. Brazil voted on 25 October, and its president now decides whether to help farmers comply or push for delays."
       ]
     },
     "report": {
       "title": "What the report says, in plain words",
       "paras": [
-        "The EU Deforestation Regulation (EUDR) starts on 30 December 2026 for large and medium importers. Small firms follow on 30 June 2027. CBAM, the EU's carbon charge on imports, opens certificate sales on 1 February 2027.",
-        "Winners: audit and traceability firms, low-carbon EU steel and aluminium makers, and suppliers with clean, documented supply chains. Losers: small importers, smallholder coffee and rubber farmers, and high-carbon steel exporters such as Türkiye, China and India.",
-        "Brazil's run-off is on 25 October. EUDR starts on 30 December 2026 and CBAM sales on 1 February 2027. France votes on 18 April and 2 May 2027, and the first CBAM declaration is due 30 September 2027."
+        "The EU is making importers prove where goods came from and what carbon they carry. The deforestation rule (EUDR) applies to large and medium firms from 30 December 2026. Most small firms follow on 30 June 2027.",
+        "Winners: compliance and audit firms, low-carbon EU steel makers, and suppliers with clean, documented supply chains. Losers: small importers, smallholder coffee, rubber and cocoa farmers, and high-carbon steel and aluminium exporters, such as those in Türkiye, China and India.",
+        "Carbon border charge (CBAM) certificate sales open on 1 February 2027. The first declaration is due 30 September 2027. French election rounds on 18 April and 2 May 2027 may test enforcement, as Marine Le Pen has vowed to stop the Green Deal."
       ]
     }
   },
@@ -956,6 +956,30 @@
         "A church funeral attack in Karak, southern Jordan, killed eight or nine people last week. The Guardian and France 24 say nine; Al Jazeera says eight. On 26 October, Jordan's air force struck groups in Syria it links to the attack.",
         "Hardline militant groups may gain propaganda if the civilian deaths are confirmed (an estimate). Jordan's security services may gain public confidence in the short term. Karak families, Syrian civilians near the targets and Jordan's Christians stand to lose most.",
         "Watch whether Jordan announces more strikes and whether Syria's government responds. Also watch whether Jordan shows evidence linking the suspects to Syria-based groups, and whether any group claims the attack. No dates are set."
+      ]
+    }
+  },
+  "black-october-ai-cyber-wave-2026": {
+    "sum": "d0422c4dd8f4",
+    "quick": {
+      "happened": "From 19 to 22 October 2026, critical flaws in PHP, GitLab and other core software set off a worldwide patching rush.",
+      "matters": "Attackers now exploit new flaws in about 1.6 days, not 30, so small firms with few IT staff are most exposed.",
+      "next": "In the coming weeks, watch for the first confirmed breaches or ransomware claims tied to these flaws. No date is set."
+    },
+    "connect": {
+      "title": "How Black October connects to the EU's EUDR and CBAM deadlines, in plain words",
+      "paras": [
+        "Mid-sized importers of coffee, wood, rubber, steel and aluminium have small IT and compliance teams. The same few people fix security problems and build the reporting systems for new EU import rules.",
+        "Those rules are close. The EU deforestation law (EUDR) applies to large and medium firms from 30 December 2026. The carbon border tax (CBAM) opens certificate sales on 1 February 2027.",
+        "The October patch rush used up that same staff time. Teams hurried fixes, and eMudhra's broken keys forced a certificate move. How much time is left for EUDR work before 30 December is the open question."
+      ]
+    },
+    "report": {
+      "title": "What the report says, in plain words",
+      "paras": [
+        "Between 19 and 22 October 2026, critical flaws hit software much of the internet uses, including PHP, GitLab and Node.js. Tenable's CFO says a flaw is now exploited in 1.6 days on average, down from 30 a year ago.",
+        "Winners are security vendors, whose shares rose on 23 October (Cloudflare and CrowdStrike 7.1%), and hosting providers that patched for customers. Losers are small and mid-sized firms, eMudhra, and owners of old equipment that cannot be updated.",
+        "Watch for the first confirmed breaches and ransomware claims linked to PHP2Shell or LiteLLM. More AI-found flaws are likely. Insurers and big customers will start asking suppliers for proof of fast patching."
       ]
     }
   }
