@@ -1093,17 +1093,17 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-27T21:06:01.574Z",
+    "at": "2026-10-28T10:06:52.439Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "online-movement-against-rising-living-costs",
-        "title": "Online movement against rising living costs",
+        "id": "online-campaign-against-rising-living-costs",
+        "title": "Online campaign against rising living costs",
         "when": "2026-10-26",
-        "place": "Milan",
-        "lat": 45.46,
-        "lon": 9.19,
-        "what": "A Moroccan journalist is suspected of being behind a social media movement against Italy's rising cost of living, which police link to an online network behind the Milan riots.",
+        "place": "Italy",
+        "lat": 42.5,
+        "lon": 12.5,
+        "what": "A Moroccan journalist is suspected of being behind a social media movement protesting Italy's rising cost of living, which helped mobilise people for the unrest.",
         "via": "online mobilisation over prices",
         "aspect": "living",
         "flow": "into",
@@ -1112,16 +1112,25 @@
             "title": "Moroccan journalist suspected of being behind social media movement against Italy’s rising cost of living",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR29wOHZTV21fY2pLdVF3YjVfcS1TbEZ4cWRyQW9NTU0tUXlLYU5nLWF6OE0yOWpFMGZlSkdrcFIyTmlaSjZUeS1EX3EyRmRiSWlnT1FCZURDTkNLZ2tXQnZIVUppLXNCXzk4R1ROeHJEU2x1eEZMUnMzS2FvRlpkRnNiQkhibzlYdUpRd0xzOUwxS0pzT0hWcElEbw?oc=5",
             "publisher": "Yabiladi.com"
-          },
+          }
+        ]
+      },
+      {
+        "id": "youth-marches-over-costs-education-and-corruption",
+        "title": "Youth marches over costs, education and corruption",
+        "when": "2026-10-26",
+        "place": "Milan",
+        "lat": 45.46,
+        "lon": 9.19,
+        "what": "Thousands of young people marched in Milan, Rome and other cities over education, corruption, anti-war causes and rising costs, widening the protest base.",
+        "via": "broad youth anger",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
           {
-            "title": "Italy Arrests Alleged Mastermind of Online Network Behind Milan Riots",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHlRZVFhSUdaYnVmUGlpWVFDVUMxamRrd3FoSGh4TjczbXhpWEFHWXNIeEJVUWY3bmk2TldXN0djU2JsLTgxeXhjVGRmYm9zeE1TQ3RaNXZJMDFDYXU1MTRJQWJuTHZ5dGNndURxY3gxTE9LUWVjSzVYXzJ1NEFScHZuZmV3VU9zQV9TNHNjd2cxcjlMVXljWQ?oc=5",
-            "publisher": "newsfire.gr"
-          },
-          {
-            "title": "Italy detains alleged mastermind of online network behind Milan riots",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTI0Slp6WG5WSUhtQnlIaW5ueUN5b2MzSnpMeXlMc3pYSFdVZ19VcGd3dV9PWWxpZUthcFJsaWdsSEdPR2txX0lsX0szNnBHVjVSQ1F6ZVN0QzE1STVCdE9DNkpUV3dnMl9zcVczLXhpbWR2Q05WemNCTWN3NlY4YkRHdjZhWUVaTGpXYnJlemo2R2V3S1hGak1NSzVUM01jck5tNjBTcw?oc=5",
-            "publisher": "Brussels Signal"
+            "title": "Washington Post. . Thousands of young people marched through the streets of several Italian cities, including Milan and Rome. The protests encompassed a broad range of issues from education and corruption to anti-war movements and rising costs. Read m",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3pXck44QUZ0ejdTWGNrbjBPdExydlFna2tNOGZfcF9vOHplMVd0dkxmODVLOW1tSGhTQl9tNUFOQjhKdW01eWVEZGJEM0NRckw3a3JWemxlV2pjams3d2d0UGlmek5hQXhaX3N5MlhGRy0zbHktTGZ5VkRuUE9EME91MVVZaWVNSl9NTDFBUXhMZm1oYllveUtCU3FiOVU4WTRYSGNuMDhZR0hDSEZvZTloZU13MXlDQTFmZEtFUQ?oc=5",
+            "publisher": "Facebook"
           }
         ]
       },
@@ -1132,8 +1141,8 @@
         "place": "Milan",
         "lat": 45.46,
         "lon": 9.19,
-        "what": "Italian police discovered chat groups linked to the Milan riots, pointing to coordination of the unrest through private messaging channels.",
-        "via": "coordinated street mobilisation",
+        "what": "Italian police discovered chat groups linked to the Milan riots, pointing to coordination among participants before and during the unrest.",
+        "via": "organised coordination of rioters",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -1141,40 +1150,6 @@
             "title": "Italian police discover chat groups linked to Milan riots",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSVpCYmkyeF84eGFRQ2NfdDJaSHpTVGxwb3pFV2Q3U1o2TEFnMVdRLVEwd1cxSXFDZXhDbU5vUzlGc0U0TVRkY1dsZklKcXE2RVV1ZXdfV0lhajZsSFpEd2xPYjJzNnNBaldxT01nUUlQQ2htcXZOYlVUQktxM0ZPNFg5R2lXempfZ3hwUUwtaGJ4VUZRRE54a0kzdk1jcE1kSjdDa2tkbGZCXy1hVEpMNW14eWUydDRibUpKWklR?oc=5",
             "publisher": "Euronews.com"
-          }
-        ]
-      },
-      {
-        "id": "youth-marches-spread-to-rome-and-other-cities",
-        "title": "Youth marches spread to Rome and other cities",
-        "when": "2026-10-25",
-        "place": "Rome",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "Thousands of young people marched in Milan, Rome and other cities over education, corruption, anti-war causes and rising costs, and demonstrators reached the Colosseum.",
-        "via": "wider youth protest momentum",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Washington Post. . Thousands of young people marched through the streets of several Italian cities, including Milan and Rome. The protests encompassed a broad range of issues from education and corruption to anti-war movements and rising costs. Read m",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3pXck44QUZ0ejdTWGNrbjBPdExydlFna2tNOGZfcF9vOHplMVd0dkxmODVLOW1tSGhTQl9tNUFOQjhKdW01eWVEZGJEM0NRckw3a3JWemxlV2pjams3d2d0UGlmek5hQXhaX3N5MlhGRy0zbHktTGZ5VkRuUE9EME91MVVZaWVNSl9NTDFBUXhMZm1oYllveUtCU3FiOVU4WTRYSGNuMDhZR0hDSEZvZTloZU13MXlDQTFmZEtFUQ?oc=5",
-            "publisher": "Facebook"
-          },
-          {
-            "title": "Rome demonstrators storm Colosseum as Europe's youth protests spread",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzlvWHVucWQ1ZGROVnhNc1FISy1hZkhzYjhLVVFTblQzVVRtTXZWNmZxMHlLX2RpYzQ5SDlCenk4OUliZTlHNDFNa3VlWk5FWnpoUXd5d3hJa19DRXNsUXhQTVF6RVBHZzFQRmtSd3o0NFRVenlBNkc1cnppVW5DaTBYbzMwNkdRTThwUFRpaEVTdw?oc=5",
-            "publisher": "ABC News & Headlines – Australian Broadcasting Corporation"
-          },
-          {
-            "title": "Italy's High-Price Protests Reach Colosseum",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1RaNGV2V3VzNmJYWnFmZUIwcWRZbVVDRjBKdi1qdjJpdHA5UlA4dEE1NUpNOWJjRGRKbGVidHo2SktWWThTT1NnN29Gbkh6VzhxdFJsbk9ZVHhmWGRsSWlLNG5kdHNKZDBtMWc5UUVxMlVCczFjZGEtUXRleVJYTWJ0TWU?oc=5",
-            "publisher": "조선일보"
-          },
-          {
-            "title": "Thousands protest on streets across Europe",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdVhxWnZJZzFVcTRSSUgxSnlZY3kwRzlWUXllRVVkNE9TNGpKZUFsLU9PTmd0bzgyVEprV1l4WExCTU5vaVNjYkE2UVlxZHFIQ0VXc3ZsLTZ0V2Z3U2d1dnZMUUdqTV9mZVR0cVZkWGVxOXpXYWZFZW1Dalhnbnp1a1FBdFF5Z2N1XzRYZkUtTDUxdw?oc=5",
-            "publisher": "Ahmedabad Mirror"
           }
         ]
       }
@@ -3354,18 +3329,42 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-27T21:06:01.574Z",
+    "at": "2026-10-28T10:06:52.439Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "trump-hints-cuba-could-follow-iran",
-        "title": "Trump hints Cuba could follow Iran",
+        "id": "cia-seeks-regime-insiders-willing-to-defect",
+        "title": "CIA seeks regime insiders willing to defect",
         "when": "2026-10-26",
-        "place": "Washington",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "Trump threatened a Cuba 'stopover' after Iran, and one outlet read this as a sign that Cuba could be his next military target.",
-        "via": "threat of US force",
+        "place": "Havana, Cuba",
+        "lat": 23.13,
+        "lon": -82.38,
+        "what": "The Miami Herald reports the CIA is looking for insiders within the Cuban government who want to break away from communism, the effort Rubio's appeal publicly advertises.",
+        "via": "CIA outreach to insiders",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "CIA is looking for regime insiders in Cuba who want to break away from communism",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNpTVhtenNVME5HUFJnd2xtcmVNWThQOUw5R2VGTVZ1clBndmd0Ti00N2JkNm1VVUdRQU00VklpaGZCWV9KY3ZSdmhtbHBDN3BJZ2NIYXR5andMNWdnRlB6Zm1OSldOZU1HSm5hWHpHVVZfTlNiX3hjODN6ZFlXRW9KZlU4MWZqdnRZck9iOWrSAZABQVVfeXFMUDMwcU9qc3JQcE5GaDJ0Rkc0cEVUNF9ET19qSTNXdUZtYjRBa0R1NTdQbnFuTDRqOU9reEVpal9TTkNLVXdUNDlRdnRyN3BEU1BSNkFpbm5LUldWVFZTUFQ5Rm05RFE0cHpDUUNpSnp0V1J5TmwxTlJVUGRhc01RTDJYVGpsX2x2Z01MeVd4cEJH?oc=5",
+            "publisher": "Miami Herald"
+          },
+          {
+            "title": "Rubio uses social media to urge Cuban turncoats to work with CIA",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeXk5aWZsby1LVFAyZlNXUFZ2Y190WjVsVjUyUmZMMmZEMXdPUTBXdHpNbDBnMWFXaGk2Ym5DYVhGLTJpSTBKd29kMm1IeUh3cTk5TTJOY0RSWFByWE9kdHMzOGowX1ZNUVowZEVHWV91VHJFc2o1Zk43bWg4X2tJUFZqcw?oc=5",
+            "publisher": "MS NOW"
+          }
+        ]
+      },
+      {
+        "id": "trump-hints-at-cuba-as-next-target",
+        "title": "Trump hints at Cuba as next target",
+        "when": "2026-10-26",
+        "place": "Havana, Cuba",
+        "lat": 23.13,
+        "lon": -82.38,
+        "what": "Trump threatened a Cuba 'stopover' after Iran, and one outlet read this as a clue that Cuba could be his next military target.",
+        "via": "threat of US military action",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -3382,69 +3381,21 @@
         ]
       },
       {
-        "id": "cia-seeks-insiders-inside-cuban-regime",
-        "title": "CIA seeks insiders inside Cuban regime",
+        "id": "us-ramps-up-pressure-before-unga-vote",
+        "title": "US ramps up pressure before UNGA vote",
         "when": "2026-10-26",
-        "place": "Havana",
-        "lat": 23.13,
-        "lon": -82.38,
-        "what": "The Miami Herald reports the CIA is looking for regime insiders in Cuba who want to break away from communism, the effort Rubio's appeal publicly backs.",
-        "via": "CIA recruitment push",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "CIA is looking for regime insiders in Cuba who want to break away from communism",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNpTVhtenNVME5HUFJnd2xtcmVNWThQOUw5R2VGTVZ1clBndmd0Ti00N2JkNm1VVUdRQU00VklpaGZCWV9KY3ZSdmhtbHBDN3BJZ2NIYXR5andMNWdnRlB6Zm1OSldOZU1HSm5hWHpHVVZfTlNiX3hjODN6ZFlXRW9KZlU4MWZqdnRZck9iOWrSAZABQVVfeXFMUDMwcU9qc3JQcE5GaDJ0Rkc0cEVUNF9ET19qSTNXdUZtYjRBa0R1NTdQbnFuTDRqOU9reEVpal9TTkNLVXdUNDlRdnRyN3BEU1BSNkFpbm5LUldWVFZTUFQ5Rm05RFE0cHpDUUNpSnp0V1J5TmwxTlJVUGRhc01RTDJYVGpsX2x2Z01MeVd4cEJH?oc=5",
-            "publisher": "Miami Herald"
-          }
-        ]
-      },
-      {
-        "id": "southcom-commander-says-now-is-the-time",
-        "title": "SOUTHCOM commander says 'now is the time'",
-        "when": "2026-10-26",
-        "place": "Miami",
-        "lat": 25.78,
-        "lon": -80.19,
-        "what": "The top US military commander for South America told Cubans that now is the time to act, echoing the message Rubio later posted.",
-        "via": "military backing for appeal",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "‘Now is the time’ for Cubans to ‘act’ says top US military commander in South America",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1S2FLSEkzZHFRYzllT1dZdDNEU2V0ME1PQ2s1YVM2WURDS3kwSVZWejZNUkFjR3JpYm5zWjdEQjJHTGJnNXFLdEROV0pYWVpHYVV2TzBhX3c0VkQybndzMmZZM0U1M2VjMTV1YURfXzEtSE0?oc=5",
-            "publisher": "Task & Purpose"
-          },
-          {
-            "title": "Mike Hammer Engages in Strategic Talks with SOUTHCOM Commander",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RLWQ4V3QxRnk1M2ZQUE1mYXRwbjkteGk3T2FoQk1ZT0hCZ2ktY2ZSamtXZlRTNm5UMjhqeERWQlZLb2o0ZDR4dUw4NnNwSVhYYzJZdE9Hazc?oc=5",
-            "publisher": "CubaHeadlines"
-          }
-        ]
-      },
-      {
-        "id": "rubio-demands-very-drastic-change-in-cuba",
-        "title": "Rubio demands 'very drastic change' in Cuba",
-        "when": "2026-10-27",
-        "place": "Washington",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "Rubio said Cuba needs a very drastic change and spelled out how its situation differs from Venezuela's, setting the US policy line behind the appeal.",
-        "via": "hardened US policy stance",
+        "place": "New York, United States",
+        "lat": 40.75,
+        "lon": -73.97,
+        "what": "Washington escalated its pressure campaign on Cuba ahead of an upcoming UN General Assembly vote, setting the diplomatic backdrop for Rubio's appeal.",
+        "via": "diplomatic pressure before vote",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Marco Rubio Calls for Drastic Shift in Cuba, Highlights Differences with Venezuela",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAta0pTQUdKN3BzaDJ2Tm8wdjZ4TWVKLWVyRnRjYmV5SmJKNTljYWg1MzdkRVRHMW9lS2NZWXRld20wazVPZVlCeGhqaTVVX1lvQUY4Y0Exbl8?oc=5",
-            "publisher": "CubaHeadlines"
-          },
-          {
-            "title": "Rubio states that Cuba needs a \"very drastic change\" and the difference from Venezuela",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0FNcl9NNjZXN3E3cmNMVklBTWZseEttWU11QjVmVVVvU3hfa3Eya2pGa0JFOUk2YkhIUlZ3Mm9wM0Nlc2VRR25UR1g5SDByenRaSFYwWmdJZmNMT05TQmdfeXVHdERRQ2FVZllzb0tHbF9ab1JBUVl1ZVhNd1A5cUh0bEstajMyY0t1VE1hMERtbW90TS1CV3BIaTdPSm1Cck1FQUNHZFlucmp2NXRxbzR3UU9vZUtxaXJ3?oc=5",
-            "publisher": "CiberCuba"
+            "title": "US escalates pressure on Cuba ahead of UNGA vote",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbUJVTFBHMmlqcWpZY2FfcWdmMW1DZU9IUUdfQ0FjbGQtMzd6dWdwemhUQlIyaWJrVkZabzJmem9VOUhhVkhwT2h0cVVscmVWT3c1YWU1UHpEQmRybTBTS0hwMGRldnlWRi1TTjlpcTRWTGtGMnM3ZzMyRDl6eHVvT2lWUjM0SnROTTg0?oc=5",
+            "publisher": "SABC News"
           }
         ]
       }
