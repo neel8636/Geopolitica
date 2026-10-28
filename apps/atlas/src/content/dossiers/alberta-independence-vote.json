@@ -1,47 +1,73 @@
 {
   "slug": "alberta-independence-vote",
   "title": "Alberta votes to stay in Canada",
-  "deck": "Albertans rejected a first step toward independence by roughly three to one, handing Prime Minister Carney a win as an oil boom and a US trade war keep the grievances behind the movement alive.",
-  "updated": "2026-10-20",
+  "deck": "Albertans rejected a path to independence by about 77% on unofficial results, but oil money, US tariffs and a divided governing party mean the grievances behind the vote are still live.",
+  "updated": "2026-10-28",
   "status": "developing",
   "region": "Alberta, Canada",
   "tags": [
     "referendum",
     "separatism",
-    "Canada",
-    "oil",
+    "oil prices",
     "US tariffs",
-    "national unity"
+    "Canadian federalism",
+    "Alberta politics"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 20
   },
-  "card": {
-    "headline": "Alberta said no to leaving, but the anger at Ottawa behind the vote has not gone away",
-    "keyNumber": {
-      "value": "~77%",
-      "label": "voted to stay in Canada on unofficial results; 76% with more than 1.5 million votes counted",
+  "fuel": [
+    {
+      "aspect": "energy",
+      "title": "Gulf-war oil spike strengthens Alberta's case",
+      "how": "Higher oil prices lifted the revenue of Alberta's oil economy, which separatists cited as proof the province could stand alone.",
+      "sourceIndex": 1
+    },
+    {
+      "aspect": "trade",
+      "title": "Trump's 50% tariffs on Canada take effect",
+      "how": "US tariffs and import bans sharpened Albertan anger at how Ottawa handles trade and energy market access, even as Carney vowed to retaliate.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "politics",
+      "title": "UCP associations push Smith leadership reviews",
+      "how": "The referendum split the governing party, with constituency boards calling for reviews of Premier Smith while candidates are made to sign a pro-Canada declaration.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "politics",
+      "title": "Strongest separatist riding shows rural anger",
+      "how": "Support was not evenly spread. The riding with the highest independence vote points to rural frustrations that outlast the result.",
       "sourceIndex": 7
+    }
+  ],
+  "card": {
+    "headline": "Alberta chose Canada, but the grievances that powered the independence push remain",
+    "keyNumber": {
+      "value": "about 77%",
+      "label": "voted to stay in Canada on 19 October (unofficial results)",
+      "sourceIndex": 1
     },
     "impactMeter": 3,
     "forYou": [
       {
-        "role": "Energy and investors",
-        "line": "The risk of a break-up of Canada's main oil province has dropped sharply for now. Pipeline and market-access politics have not changed."
+        "role": "Energy and oil",
+        "line": "High oil prices from the Iran war helped Alberta's finances, but a landslide for Canada lowers near-term political risk for the sector."
       },
       {
-        "role": "Trade and supply chain",
-        "line": "The vote does not touch the US-Canada tariff war. Section 338 duties and the dairy and alcohol bans stay in force."
+        "role": "Exporters to the US",
+        "line": "US tariffs of 50% on Canadian goods are reported as in force, and Ottawa has retaliated. Plan for both."
       },
       {
-        "role": "Policy watchers",
-        "line": "Separatist leaders say they will fight on, but the size of the defeat makes that harder, according to the BBC."
+        "role": "Investors",
+        "line": "The separation tail risk has shrunk for now. Watch party instability in Alberta and a possible leadership review for Premier Smith."
       },
       {
         "role": "Everyone",
-        "line": "This was a vote on starting a process, not on leaving. A decisive result there does not mean the grievances are settled."
+        "line": "A 'stay' vote is not the end of the story. Separatists in towns like Cochrane say they will keep campaigning."
       }
     ],
     "ripple": [
@@ -49,16 +75,16 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "About 76-77% of counted votes backed staying in Canada on unofficial results; roughly a quarter voted the other way",
+            "text": "About 77% of voters reject the independence path on unofficial results; Carney says Albertans 'chose Canada'",
             "sector": "Politics"
           },
           {
-            "text": "Carney calls it a great result for Canada and says Albertans chose Canada",
-            "sector": "Federal government"
+            "text": "Oil revenue windfall from the Gulf-driven price spike did not translate into a vote to leave",
+            "sector": "Energy"
           },
           {
-            "text": "Separatist leaders vow to continue and warn that the provincial governing party could split over the issue",
-            "sector": "Alberta politics"
+            "text": "US tariffs and bans on Canadian goods keep Alberta's grievances with Ottawa on trade and market access alive",
+            "sector": "Trade"
           }
         ]
       },
@@ -66,16 +92,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Separatists lose leverage over Ottawa. The movement had hoped to use the vote to gain bargaining power with Carney's government.",
-            "sector": "Federal-provincial relations"
+            "text": "UCP constituency associations call for or pass leadership review motions against Premier Smith",
+            "sector": "Politics"
           },
           {
-            "text": "Alberta's complaints about oil-sector management and market access remain, so pressure on Ottawa likely shifts from threats to negotiation",
-            "sector": "Energy policy"
+            "text": "UCP board candidates must sign a declaration to abide by the vote to stay in Canada",
+            "sector": "Politics"
           },
           {
-            "text": "Political-risk worries about Canada's top oil-producing province probably ease for investors (our estimate)",
-            "sector": "Finance"
+            "text": "Ottawa signals openness to immigration talks with Alberta, a possible Quebec-style deal",
+            "sector": "Federal relations"
+          },
+          {
+            "text": "Canada signs a trade deal with the UAE as Carney looks for new markets",
+            "sector": "Trade"
           }
         ]
       },
@@ -83,16 +113,20 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "A show of unity strengthens Carney's hand in dealing with Washington, though the tariff war is unchanged",
+            "text": "Separatists in places like Cochrane vow to fight on, keeping the question alive for a later vote",
+            "sector": "Politics"
+          },
+          {
+            "text": "Alberta's push for fiscal fairness and more provincial powers shifts from secession to bargaining with Ottawa",
+            "sector": "Federal relations"
+          },
+          {
+            "text": "Edmonton city council seeks more independence from the province, a sign that autonomy fights are moving down a level",
+            "sector": "Local government"
+          },
+          {
+            "text": "A decisive result may stiffen Canada's hand in tariff talks with Washington",
             "sector": "Trade"
-          },
-          {
-            "text": "The result is a reference point for other secession movements, though the contexts differ and the effect is likely small (our estimate)",
-            "sector": "Geopolitics"
-          },
-          {
-            "text": "If oil prices fall as the Gulf spike fades, the economic argument could swing back toward grievance",
-            "sector": "Energy, politics"
           }
         ]
       }
@@ -100,63 +134,69 @@
   },
   "brief": {
     "whatHappened": [
-      "On 19 October 2026, voters in Alberta decided whether to begin a path toward independence from Canada. Sources describe the question differently. Some call it a plan to start the legal process, others a first step toward a binding referendum. Either way, it was not a vote to leave on the spot.",
-      "Results reported on 20 October showed a decisive no. France 24 reported 76% in favour of remaining in Canada with more than 1.5 million votes counted. Other outlets reported about 77% on unofficial results. The Guardian called it a victory for Canadian unity that also deepens divisions.",
-      "Prime Minister Mark Carney said Albertans chose Canada. Separatist leaders vowed to keep fighting and warned that the province's governing party could split over the issue."
+      "On 19 October 2026, Albertans voted on a path to independence and rejected it. About 77% voted to stay in Canada on unofficial results.",
+      "Prime Minister Mark Carney welcomed the outcome. His message was that 'Albertans chose Canada'.",
+      "In the week after, the fight moved inside Alberta's governing United Conservative Party. More constituency associations called for leadership reviews of Premier Danielle Smith. The party also told board candidates to sign a declaration to abide by the vote. Smith defended holding the referendum, and opposition leader Naheed Nenshi called it a waste of money.",
+      "Separatists did not concede the argument. Campaigners in the central Alberta town of Cochrane said they will keep going. Federal minister Belanger said Ottawa is open to immigration talks with the province."
     ],
     "whyItMatters": [
-      "Alberta has the world's fourth-largest proven oil reserves, according to Euronews. Separatist momentum has been driven by anger over how Ottawa manages the sector. About 300,000 people petitioned officials for a referendum, Al Jazeera reports.",
-      "The vote came at a tense moment. Oil prices have been lifted by the Gulf war that began on 28 February 2026, and that strengthens the economic case separatists make. US tariffs on Canadian goods have sharpened grievances about how Ottawa handles trade and market access.",
-      "A break-up of Canada would have been a major shock for energy markets and for North America. A clear defeat lowers that risk for now. It does not remove the grievances that drove the petition."
+      "Energy: the US-Israel war on Iran, which began with strikes on 28 February 2026, has kept oil prices high for about eight months. Alberta's oil economy benefits. Separatists argued that this showed the province could stand alone. The vote shows that argument did not win, at least this time.",
+      "Trade: US tariffs of 50% on Canadian goods are reported as taking effect, and earlier measures include import bans on Canadian dairy and alcohol. Carney has answered with counter-tariffs. Albertans blame Ottawa in part for how trade and energy market access have been handled. That grievance fed the independence campaign. A federal government that is seen as weak on the US keeps it going.",
+      "Politics: the referendum has split the governing party. Some UCP associations want Smith reviewed. The highest-support riding for independence points to rural frustration that a big 'stay' margin can hide. Indigenous communities reportedly voted disproportionately to remain in Canada, which shows the coalition for leaving was narrower than the grievance behind it.",
+      "Confidence is limited on the final tally. The 77% figure is unofficial, and this report was drafted from headlines and two full articles."
     ],
     "winners": [
       {
         "who": "Mark Carney and the federal government",
-        "why": "A large margin for unity, reached during a fight with Washington, gives him a political win and a stronger hand."
+        "why": "A clear mandate for unity at a time when the US is leaning on Canada with tariffs."
       },
       {
-        "who": "Canadian-unity campaigners",
-        "why": "The margin is large enough to make a quick second attempt hard for separatists, according to the BBC."
+        "who": "Canadian federalism",
+        "why": "A lopsided 'stay' result lowers the near-term odds of a legally binding separation process."
       },
       {
-        "who": "Oil investors and operators in Alberta",
-        "why": "Less near-term political risk on top of a price spike from the Gulf war. This is our estimate, not a sourced finding."
+        "who": "Alberta's oil sector",
+        "why": "Political risk eases while high prices boost revenue."
+      },
+      {
+        "who": "Indigenous communities in Alberta",
+        "why": "They voted disproportionately to remain, which strengthens their hand in any future constitutional debate."
       }
     ],
     "losers": [
       {
-        "who": "Alberta's separatist movement",
-        "why": "It lost heavily, and the margin could make pushing on difficult. Its leaders say they will continue."
+        "who": "Alberta separatist organisers",
+        "why": "A loss of this size undermines the claim that independence has majority support, though they vow to continue."
       },
       {
-        "who": "Alberta's governing party",
-        "why": "Separatist leaders warn it could split over the issue. How real that risk is remains unclear."
+        "who": "Premier Danielle Smith",
+        "why": "Constituency boards are calling for leadership reviews, and she is under pressure from both sides of her party."
       },
       {
-        "who": "Canadian dairy and alcohol exporters",
-        "why": "The vote does nothing for them. US bans on Canadian dairy and alcohol took effect on 29 September."
+        "who": "Alberta exporters hit by US tariffs",
+        "why": "The vote did not change the trade war. Counter-tariffs on US farm equipment and other goods can also raise their costs."
       }
     ],
     "whatsNext": [
-      "Official counts and any recounts or challenges will confirm the final margin. Early figures are unofficial.",
-      "Separatist leaders must decide whether to regroup, try to reshape the governing party, or take another route.",
-      "Ottawa and Alberta will face pressure to show that the grievances about energy and trade have been heard.",
-      "The US-Canada tariff fight and the Gulf-driven oil price will shape how much anger is left over the coming months."
+      "Leadership review motions inside the UCP will test whether Smith can keep control of the party.",
+      "Alberta and Ottawa will talk about immigration powers and fiscal fairness, which is where the autonomy argument goes next.",
+      "The US-Canada trade fight continues, with some reports of limited easing in two sectors.",
+      "Separatists may try to rebuild for another vote in the future."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what do you think happens to Alberta's separatist movement over the next year?",
+      "question": "Before you read the scenarios: what is the most likely state of Alberta's separatist movement a year from now?",
       "options": [
-        "It fades to the margins",
-        "It stays alive and shapes provincial politics but forces no new vote",
-        "It forces a new binding referendum within a year",
-        "It splits the governing party into two camps"
+        "Collapsed and irrelevant",
+        "Quiet but organised, with grievances channelled into Ottawa talks",
+        "Revived and demanding a second referendum",
+        "Merged into a mainstream provincial party"
       ],
       "answerIndex": 1,
-      "explanation": "Our base case is that the movement is weakened but not gone. A margin of about three to one makes a quick second vote unlikely, but the grievances remain and leaders have vowed to fight on. Fading to the margins is the next most likely path."
+      "explanation": "Our base case is a quiet but organised movement, with the political energy shifting to bargaining with Ottawa over immigration, fiscal fairness and market access. After the 1995 Quebec referendum, the issue faded for a time but did not disappear."
     },
     "recap": [
       {
-        "question": "Roughly what share voted to stay in Canada on unofficial results?",
+        "question": "Roughly what share of voters chose to stay in Canada on unofficial results?",
         "options": [
           "About 55%",
           "About 77%",
@@ -165,22 +205,22 @@
         "answerIndex": 1
       },
       {
-        "question": "What was the vote actually about?",
+        "question": "Which party is facing leadership review calls after the vote?",
         "options": [
-          "Whether to leave Canada immediately",
-          "Whether to start a path toward independence",
-          "Whether to change the provincial premier"
+          "The United Conservative Party",
+          "The federal Liberals",
+          "The Alberta NDP"
         ],
-        "answerIndex": 1
+        "answerIndex": 0
       },
       {
-        "question": "What did separatist leaders say after the result?",
+        "question": "What did Ottawa say it is open to after the vote?",
         "options": [
-          "They accepted it and disbanded",
-          "They vowed to keep fighting",
-          "They called for a recount in every riding"
+          "Immigration talks with Alberta",
+          "A second referendum",
+          "Dropping all tariffs on the US"
         ],
-        "answerIndex": 1
+        "answerIndex": 0
       }
     ]
   },
@@ -188,8 +228,9 @@
     "timeline": [
       {
         "date": "2026-02-28",
-        "title": "US-Israeli strikes on Iran begin",
-        "detail": "The start of the Gulf war that has kept oil and freight costs elevated for eight months and boosted Alberta's oil revenue."
+        "title": "Strikes on Iran begin",
+        "detail": "The US-Israel war on Iran starts the oil and freight price spike that continues for months.",
+        "sourceIndex": 1
       },
       {
         "date": "2026-08-22",
@@ -198,77 +239,92 @@
       },
       {
         "date": "2026-09-08",
-        "title": "Canada counter-tariffs; US moves to outright bans",
-        "detail": "Carney retaliates dollar for dollar on US steel, dairy, appliances and farm equipment. Trump signs proclamations turning the duties on Canadian alcohol and dairy into import bans effective 29 September."
+        "title": "Counter-tariffs and import bans",
+        "detail": "Carney announces dollar-for-dollar counter-tariffs on US steel, dairy, appliances and farm equipment. Trump signs proclamations turning duties on Canadian alcohol and dairy into bans, effective 29 September.",
+        "turning": true
       },
       {
         "date": "2026-09-29",
-        "title": "US bans on Canadian dairy and alcohol take effect",
-        "detail": "Canadian products are also ordered off US government procurement schedules."
+        "title": "US import bans on Canadian alcohol and dairy take effect",
+        "detail": "Canadian products are also removed from US federal procurement schedules."
       },
       {
         "date": "2026-10-19",
-        "title": "Albertans vote on a path toward independence",
-        "detail": "Polls close with the separatist side hoping to gain leverage over Carney's government. Carney had campaigned to keep the country united.",
+        "title": "Albertans vote on a path to independence",
+        "detail": "About 77% vote to stay in Canada on unofficial results.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-20",
-        "title": "Unofficial results show a decisive no",
-        "detail": "France 24 reports 76% for staying with more than 1.5 million votes counted. Carney hails the outcome and separatists vow to continue.",
-        "sourceIndex": 7,
+        "title": "Carney hails the result",
+        "detail": "He says Albertans 'chose Canada'.",
+        "sourceIndex": 1
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Tariff headlines and party turmoil",
+        "detail": "Reports say 50% US tariffs on Canada take effect and Carney vows to retaliate. More UCP associations call for leadership reviews of Smith, and the party tells board candidates to sign a declaration abiding by the vote.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Separatists vow to fight on; Ottawa open to immigration talks",
+        "detail": "Campaigners in Cochrane say they will continue. Minister Belanger says Ottawa is open to talks on immigration after the referendum.",
+        "sourceIndex": 5
+      },
+      {
+        "date": "2026-10-28",
+        "title": "Smith reportedly fends off a leadership challenge; Canada signs UAE trade deal",
+        "detail": "Headlines say Smith moves to squelch separatist discord in the party. Carney signs a trade agreement with the UAE as he seeks new partners.",
         "turning": true
       }
     ],
     "causes": [
       {
         "name": "Structural roots",
-        "when": "Years in the making",
+        "when": "Decades",
         "causes": [
           {
-            "name": "Anger over oil-sector management",
-            "detail": "Euronews says separatist momentum has been driven by anger over Ottawa's management of the sector in a province with the world's fourth-largest proven reserves."
+            "name": "Fiscal fairness grievance",
+            "detail": "Many Albertans feel the province pays more into the federation than it gets back, a long-standing theme in commentary such as the Western Standard's 'Alberta's next fight for fiscal fairness'."
           },
           {
-            "name": "Regional identity",
-            "detail": "A province that sees itself as the economic engine of the federation but not as listened to in Ottawa. This is a broad characterisation, not a sourced finding."
+            "name": "Energy market access",
+            "detail": "Disputes over pipelines and federal energy policy have fed a belief that Ottawa blocks Alberta's main industry."
           },
           {
-            "name": "Petition momentum",
-            "detail": "About 300,000 people petitioned officials for a referendum last year, according to Al Jazeera."
+            "name": "Rural discontent",
+            "detail": "The riding with the strongest independence support points to deeper rural frustrations, according to reporting after the vote.",
+            "sourceIndex": 7
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "2025 to October 2026",
+        "when": "2026",
         "causes": [
           {
-            "name": "A formal route to a vote",
-            "detail": "A ballot on a plan to begin the process toward independence gave the movement a legal and political stage."
+            "name": "Referendum on a path to independence",
+            "detail": "Albertans were asked about a path to independence. Smith defended holding the vote and Nenshi called it a waste of money."
           },
           {
-            "name": "Separatist strategy",
-            "detail": "DW reports the movement hoped to gain leverage over Carney's government even if it lost."
+            "name": "US trade war",
+            "detail": "Tariffs and bans on Canadian goods sharpened the argument that Ottawa was failing Alberta on trade."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "2026",
+        "when": "Spring to autumn 2026",
         "causes": [
           {
-            "name": "Gulf-driven oil spike",
-            "detail": "High prices since February strengthen the economic case separatists make."
+            "name": "Oil price spike",
+            "detail": "The Iran war and attacks on Gulf energy infrastructure pushed up prices, boosting Alberta's revenue and the separatists' confidence."
           },
           {
-            "name": "US tariffs and bans",
-            "detail": "Section 338 duties stack on Section 232 steel, aluminium, auto and lumber tariffs and sharpen grievances about Ottawa's handling of trade and market access."
-          },
-          {
-            "name": "Fear of a split Canada",
-            "detail": "Carney's unity campaign and warnings of threats to Canadian unity probably mobilised voters on the other side. This is our inference."
+            "name": "Party division",
+            "detail": "UCP constituency boards split over how to treat nationalists in caucus, adding to the sense of drift."
           }
         ]
       }
@@ -277,241 +333,260 @@
       {
         "name": "Mark Carney",
         "role": "Prime Minister of Canada",
-        "wants": "A united country as he fights the US trade war",
-        "leverage": "A fresh mandate on unity and federal control of trade policy",
-        "likelyMove": "Claim the win, avoid triumphalism, and offer Alberta visible attention on energy and trade"
+        "wants": "A united country and a unified front against US tariffs",
+        "leverage": "The mandate from a strong 'stay' vote; federal powers on trade, immigration and equalization",
+        "likelyMove": "Open talks on immigration and other files while defending unity and retaliating against US tariffs"
       },
       {
-        "name": "Alberta separatist leaders",
-        "role": "Movement organisers",
-        "wants": "Independence, or at least leverage over Ottawa",
-        "leverage": "The petition base of about 300,000 and a possible split in the governing party",
-        "likelyMove": "Vow to continue, test the governing party, and look for a new route"
+        "name": "Danielle Smith",
+        "role": "Premier of Alberta, UCP leader",
+        "wants": "To keep her party together and keep control of the Alberta agenda",
+        "leverage": "Control of the legislature and party machinery; ability to demand a pro-Canada pledge from candidates",
+        "likelyMove": "Defend the referendum, discipline rebels and press Ottawa for more provincial powers"
       },
       {
-        "name": "Alberta's governing party",
-        "role": "Provincial government",
-        "wants": "To keep the coalition together without owning separatism",
-        "leverage": "Control of provincial policy and the oil-revenue agenda",
-        "likelyMove": "Pivot to demands for market access and lower federal interference rather than secession"
+        "name": "UCP constituency associations",
+        "role": "Party grassroots",
+        "wants": "A say in leadership and a clear position on separatism",
+        "leverage": "Leadership review motions",
+        "likelyMove": "More calls for reviews, particularly in rural ridings"
       },
       {
-        "name": "Alberta voters",
-        "role": "Electorate",
-        "wants": "A better deal inside Canada, for most of them",
-        "leverage": "The ballot, which they used decisively",
-        "likelyMove": "Hold the federal and provincial governments to account on energy and cost of living"
+        "name": "Naheed Nenshi",
+        "role": "Alberta NDP leader, opposition",
+        "wants": "To portray the referendum as a distraction and a waste of public money",
+        "leverage": "Criticism in the legislature",
+        "likelyMove": "Keep attacking Smith over nationalists in her caucus"
       },
       {
-        "name": "Washington (Trump administration)",
-        "role": "Trade counterpart",
-        "wants": "Concessions from Canada on trade",
-        "leverage": "Section 338 and 232 tariffs and import bans",
-        "likelyMove": "Keep pressure on and read the result as a stronger Carney, not as an opening"
+        "name": "Separatist organisers",
+        "role": "Independence campaigners",
+        "wants": "A path to a future referendum",
+        "leverage": "Local organisation in places like Cochrane and grievance over trade and fiscal issues",
+        "likelyMove": "Continue grassroots campaigning and exploit any federal missteps"
       },
       {
-        "name": "Oil producers and investors",
-        "role": "Industry",
-        "wants": "Stability and market access",
-        "leverage": "Capital spending decisions",
-        "likelyMove": "Price in less political risk but stay focused on pipeline and tariff outlook"
+        "name": "Indigenous communities in Alberta",
+        "role": "Voters and treaty partners",
+        "wants": "Protection of treaty rights within Canada",
+        "leverage": "Reportedly voted disproportionately to remain, and hold treaty and constitutional standing",
+        "likelyMove": "Press Ottawa and Edmonton for consultation in any autonomy talks",
+        "sourceIndex": 8
       }
     ],
     "sectors": [
       {
-        "sector": "Alberta oil and gas",
+        "sector": "Oil and gas",
         "direction": "up",
-        "size": 2,
-        "why": "Elevated prices from the Gulf war plus a lower near-term political-risk premium. Our estimate."
+        "size": 3,
+        "why": "High oil prices from the Gulf war boost revenue and a lopsided 'stay' vote lowers political risk."
       },
       {
-        "sector": "Pipelines and market access",
+        "sector": "Alberta provincial finances",
+        "direction": "up",
+        "size": 2,
+        "why": "Resource revenue benefits from high prices, though the exact scale is not in our sources."
+      },
+      {
+        "sector": "Agriculture and food exports",
+        "direction": "down",
+        "size": 2,
+        "why": "US bans on Canadian dairy and alcohol and Canadian counter-tariffs on US farm equipment hit exporters and raise input costs."
+      },
+      {
+        "sector": "Aluminium and metals",
         "direction": "mixed",
-        "size": 2,
-        "why": "The grievance that fed separatism is untouched, so pressure for action continues."
-      },
-      {
-        "sector": "Canadian dairy and alcohol exporters",
-        "direction": "down",
-        "size": 2,
-        "why": "US import bans have been in effect since 29 September."
-      },
-      {
-        "sector": "Steel, appliance and farm-equipment users",
-        "direction": "down",
         "size": 1,
-        "why": "Canada's counter-tariffs on US steel, dairy, appliances and farm equipment raise input costs."
+        "why": "A headline notes US tariffs on Canada boomerang as aluminium prices soar; effects on Alberta specifically are unclear."
       },
       {
-        "sector": "Alberta investment and property",
+        "sector": "Trade diversification",
         "direction": "up",
         "size": 1,
-        "why": "Break-up risk falls, which should help confidence. Our estimate and probably modest."
+        "why": "Canada signs a trade deal with the UAE as Carney seeks new partners; energy exporters may benefit if it opens Gulf demand."
+      },
+      {
+        "sector": "Immigration and labour",
+        "direction": "mixed",
+        "size": 1,
+        "why": "Ottawa's openness to talks could give Alberta a Quebec-style role in selecting immigrants, but the terms are not settled."
+      },
+      {
+        "sector": "Political risk and investor sentiment",
+        "direction": "up",
+        "size": 2,
+        "why": "A decisive result reduces secession risk, though UCP instability adds a different kind of uncertainty."
       }
     ],
     "dailyLife": [
       {
-        "item": "Citizenship, passports and currency",
-        "effect": "No change. The vote was about starting a process, not leaving, and Alberta remains in Canada."
+        "item": "Fuel and freight",
+        "effect": "Oil and freight costs have stayed elevated for about eight months because of the Iran war.",
+        "sourceIndex": 1
       },
       {
-        "item": "Fuel and heating costs",
-        "effect": "Still shaped by the Gulf war and the oil price, not by the referendum."
+        "item": "Groceries and drinks",
+        "effect": "US bans on Canadian dairy and alcohol and Canada's counter-tariffs can raise prices and narrow choice, though the size of the effect is not in our sources."
       },
       {
-        "item": "Imported US goods",
-        "effect": "Counter-tariffs on US steel, dairy, appliances and farm equipment may raise prices of these goods in Canada."
+        "item": "Politics at the doorstep",
+        "effect": "Expect continued campaigning and leadership fights in the UCP, particularly in rural ridings.",
+        "sourceIndex": 3
       },
       {
-        "item": "Alberta politics",
-        "effect": "Expect continued argument inside the governing party over how hard to push Ottawa."
+        "item": "Immigration services",
+        "effect": "Alberta may gain more say over immigration if talks with Ottawa lead to a deal. Nothing is decided.",
+        "sourceIndex": 6
       }
     ],
     "scenarios": [
       {
-        "name": "Weakened movement, negotiated grievances",
-        "probability": 55,
-        "looksLike": "Separatists regroup but stay marginal. Alberta and Ottawa trade offers on energy and market access.",
+        "name": "Autonomy bargaining",
+        "probability": 50,
+        "looksLike": "Separatism stays a minority position. Alberta and Ottawa negotiate on immigration, fiscal arrangements and energy access, and Smith survives her reviews.",
         "signposts": [
-          "Separatist leaders retool toward provincial elections or lobbying",
-          "Federal-provincial talks on energy"
+          "Formal Ottawa-Alberta talks start on immigration",
+          "Smith wins or sidesteps leadership reviews"
         ],
-        "effectOnWorld": "Canada looks stable to investors and partners. Washington sees a steadier Carney."
+        "effectOnWorld": "Lower Canadian political risk and a steadier energy-investment climate."
       },
       {
-        "name": "Grievance politics inside the governing party",
+        "name": "Party turmoil",
         "probability": 25,
-        "looksLike": "The governing party fractures or is pulled toward the separatist camp. No new vote is held, but provincial politics becomes sharper.",
+        "looksLike": "UCP divisions deepen, Smith faces a formal leadership contest or resigns, and nationalists in the party grow louder.",
         "signposts": [
-          "Public caucus splits or defections",
-          "Separatist leaders organise inside party structures"
+          "More associations pass review motions",
+          "Caucus defections or public rebellions"
         ],
-        "effectOnWorld": "More uncertainty for Alberta policy and investment, with a bigger federal-provincial rift."
+        "effectOnWorld": "Alberta policy drift; the separatist cause gets a new platform inside conservative politics."
       },
       {
-        "name": "Shock revives separatism",
-        "probability": 12,
-        "looksLike": "A fall in oil prices after the Gulf spike, together with deeper US tariffs, rebuilds anger and support.",
+        "name": "Separatist revival",
+        "probability": 15,
+        "looksLike": "A federal misstep, US pressure or a price shock leads separatists to demand a second vote within a few years.",
         "signposts": [
-          "Oil prices drop sharply",
-          "New US trade measures hit Alberta exporters"
+          "Separatist polling climbs above its referendum level",
+          "A new party or coalition forms"
         ],
-        "effectOnWorld": "The Canadian unity question returns to markets and to Washington's calculations."
+        "effectOnWorld": "Renewed uncertainty for investors and for national unity."
       },
       {
-        "name": "Rapid second push",
-        "probability": 8,
-        "looksLike": "Separatists launch a fresh petition or legal route within a year despite the margin.",
+        "name": "Trade-war shock",
+        "probability": 10,
+        "looksLike": "US tariffs escalate and hit Alberta exporters hard, and blame lands on Ottawa.",
         "signposts": [
-          "New petition filed",
-          "Poll movement toward the yes side"
+          "New US duties on energy or agriculture",
+          "Retaliation spirals"
         ],
-        "effectOnWorld": "Renewed uncertainty, though a repeat defeat is more likely than not."
+        "effectOnWorld": "Higher prices on both sides of the border and a harder federal-provincial relationship."
       }
     ],
     "predictions": [
       {
-        "text": "Official results will confirm a unity win with the stay-in-Canada share between 74% and 79%. Probability about 0.85.",
-        "horizon": "Within one month",
-        "resolves": "2026-11-20"
+        "text": "Smith will still be UCP leader and premier on 1 April 2027 (probability about 75%).",
+        "horizon": "By April 2027",
+        "resolves": "2027-04-01"
       },
       {
-        "text": "No binding referendum on Alberta independence will be held. Probability about 0.95.",
-        "horizon": "By 20 October 2027",
-        "resolves": "2027-10-20"
-      },
-      {
-        "text": "Separatist leaders will formally launch a new petition or legal step toward another vote. Probability about 0.2.",
-        "horizon": "By 20 October 2027",
-        "resolves": "2027-10-20"
-      },
-      {
-        "text": "The US bans on Canadian dairy and alcohol will still be in force. Probability about 0.65.",
-        "horizon": "By end of 2026",
-        "resolves": "2026-12-31"
-      },
-      {
-        "text": "A public split inside Alberta's governing party tied to separatism will occur. Probability about 0.2.",
-        "horizon": "By mid-2027",
+        "text": "Ottawa and Alberta will announce a formal agreement or negotiating framework on immigration powers (probability about 40%).",
+        "horizon": "By June 2027",
         "resolves": "2027-06-30"
+      },
+      {
+        "text": "No second Alberta independence referendum will be formally scheduled (probability about 90%).",
+        "horizon": "By end-2027",
+        "resolves": "2027-12-31"
+      },
+      {
+        "text": "Polls will not show majority support for independence in Alberta (probability about 90%).",
+        "horizon": "Through mid-2027",
+        "resolves": "2027-06-30"
+      },
+      {
+        "text": "US-Canada tariffs will remain in force in at least some major sectors (probability about 70%).",
+        "horizon": "By end of January 2027",
+        "resolves": "2027-01-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Treat Alberta separation risk as low in the near term, but keep scenario plans for a later push.",
-          "Plan for continued US tariffs and bans on cross-border supply chains.",
-          "Review contracts for tariff pass-through and force-majeure language."
+          "Plan for US tariffs and bans on Canadian goods staying in place for months.",
+          "Look at new markets such as the UAE for exports.",
+          "Keep contingency plans for provincial political turbulence, but treat separation risk as lower for now."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Do not assume the vote resolves Alberta's market-access issues.",
-          "Watch oil prices as the Gulf premium fades, since falling prices could revive grievance politics.",
-          "Track the governing party's internal politics for signs of a split."
+          "Treat the 77% result as lowering near-term separation risk, not removing it.",
+          "Watch UCP leadership reviews and any change in premier.",
+          "Track US-Canada tariff moves, which matter more than the vote for Alberta exporters."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Expect no change to citizenship or services.",
-          "Expect continued price pressure from fuel and tariffed goods.",
-          "Follow official results for the final margin."
+          "Expect higher prices on some food and drink items as tariffs persist.",
+          "Follow any immigration-powers deal if you are applying through Alberta programmes."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Treat the win as a mandate to listen, not a closure of the grievances.",
-          "Offer concrete progress on energy market access and trade to reduce the audience for separatism.",
-          "Be clear with Washington that unity has not changed Canada's stance on tariffs."
+          "Open talks on immigration and fiscal fairness to channel grievances.",
+          "Involve Indigenous communities in any autonomy talks.",
+          "Address rural frustration directly, since the strongest independence riding points to it."
         ]
       }
     ],
     "analogues": [
       {
         "event": "Quebec independence referendum",
-        "year": "1980",
-        "whatFollowed": "Quebec voted No by roughly 60%, but sovereignty returned to the agenda and a second referendum was held in 1995."
+        "year": "1995",
+        "whatFollowed": "The 'No' side won with about 50.6%. Ottawa passed the Clarity Act in 2000, and sovereignty remained a live issue for years."
       },
       {
         "event": "Quebec independence referendum",
-        "year": "1995",
-        "whatFollowed": "No won by about 50.6% to 49.4%. The razor-thin result kept the question alive and led Parliament to pass the Clarity Act in 2000."
+        "year": "1980",
+        "whatFollowed": "About 60% voted No. Constitutional talks followed, and the 1982 patriation left Quebec dissatisfied."
       },
       {
         "event": "Scottish independence referendum",
         "year": "2014",
-        "whatFollowed": "No won with about 55%, but pro-independence parties surged at the next UK general election and the issue stayed live."
-      },
-      {
-        "event": "Catalonia independence referendum",
-        "year": "2017",
-        "whatFollowed": "An unauthorised vote led to a prolonged political and legal crisis. It is a contrast case, since Alberta's vote was a sanctioned ballot."
+        "whatFollowed": "About 55% voted No. Pro-independence support stayed strong, and a second vote has remained a political demand since."
       }
     ],
     "watch": [
       {
-        "title": "Official results and any challenges",
-        "why": "Unofficial figures put the stay share at 76-77%. Final counts will fix the margin."
+        "title": "UCP leadership review votes",
+        "why": "They show whether Smith can contain the party split that the referendum opened.",
+        "date": "2026-11-30"
       },
       {
-        "title": "Separatist leaders' next step",
-        "why": "They have vowed to fight on. A new petition, a party strategy or a retreat would show their real strength."
+        "title": "Ottawa-Alberta immigration talks",
+        "why": "This is the first test of whether autonomy bargaining replaces separatism."
       },
       {
-        "title": "Alberta governing party cohesion",
-        "why": "Leaders warn the party could split. Defections or open rows would be the first sign."
+        "title": "US tariff and counter-tariff moves",
+        "why": "Trade conditions feed Alberta's grievances with Ottawa."
       },
       {
-        "title": "US-Canada trade talks",
-        "why": "Talks collapsed on 22 August. Any resumption or a new round of tariffs changes Alberta's grievance picture."
+        "title": "Final official referendum results",
+        "why": "The 77% figure is unofficial and may change slightly."
       },
       {
-        "title": "Oil price",
-        "why": "The Gulf spike strengthens the economic case for separatism. A fall could change the politics."
+        "title": "Separatist polling and organisation",
+        "why": "Campaigners in Cochrane and elsewhere say they will keep going."
+      },
+      {
+        "title": "Oil prices",
+        "why": "A sustained price spike or collapse would change Alberta's finances and its political mood."
+      },
+      {
+        "title": "Indigenous-community positions on autonomy",
+        "why": "Treaty rights are central to any constitutional change."
       }
     ]
   },
@@ -530,123 +605,100 @@
         "date": "2026-10-20"
       },
       {
-        "title": "Alberta rejects independence referendum plan, but separatists vow to keep fighting",
-        "url": "https://www.euronews.com/2026/10/20/alberta-rejects-independence-referendum-plan-but-separatists-vow-to-keep-fighting",
-        "publisher": "Euronews",
-        "date": "2026-10-20"
+        "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+        "publisher": "ABC News",
+        "date": "2026-10-27"
       },
       {
-        "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-        "publisher": "BBC World",
-        "date": "2026-10-20"
+        "title": "Danielle Smith faces another leadership review call from UCP constituency board",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVWRRVVE0cjZtcE9FRERrR0g4Zlg4WHJfZ09yVXlidUxfVmJPR2REcnJEVlMzTXVGVVBkRjFlWEc5VEdjUDVRUEN2aHNDdmoxMFpnb1NzdWNfZXhVcEZiZEZ2c3FJQmRSZEFxVW0wQU81dHhWaG42NVNnZHI1cDh2VnJvYTAyTW9fLVRjUzdlN1JKOUpXSzZF?oc=5",
+        "publisher": "Global News",
+        "date": "2026-10-27"
       },
       {
-        "title": "Huge setback for Alberta's separatist movement after decisive defeat",
-        "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
-        "publisher": "BBC World",
-        "date": "2026-10-20"
+        "title": "UCP board candidates must sign declaration to abide by Alberta's vote to stay in Canada",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWI1LTZEeDNyclJaTDF4anYxWWQ0ZHV2azdUaFJwTVM1SU8wY2ZUOVIyVk1mVEJBWWRmN0ttejZmNHlGVHJVTS1yVWxxMVZMbm1jNVFZX1pHeEpNVTFaNkhVR2VWSFRhYjZ3bUNuVW5MaklRNTdEVHhMb0lxa0QtdTVZeEJsTDQ?oc=5",
+        "publisher": "CBC",
+        "date": "2026-10-27"
       },
       {
-        "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-        "publisher": "The Guardian World",
-        "date": "2026-10-20"
+        "title": "Separatists in central Alberta town vow to fight on",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmdwZXM0aWdhc1E0TDlKSWgtaWY5UFphczd0bGFYSVlNYnZ4aV9ucnNwUFgyY21aZFpGcmRlRFBCX3R1dlB6anByWkNsTGJmdUFvSlJyNzJKTjlxZ3JUM1MzLU5KS05PbmRjOGpKY2F0MF9KaC15UGo4T3MzVUpnN1o4djhNTHZwTU9QbHFNd0JSWXFvTzJNYndwZExCMzA1M3llUThTaw?oc=5",
+        "publisher": "Western Wheel",
+        "date": "2026-10-27"
       },
       {
-        "title": "Alberta rejects separation referendum: What's next for Canadian province?",
-        "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "date": "2026-10-20"
+        "title": "Ottawa open to immigration talks after Alberta referendum, Belanger says",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXhOeVZpa2JsTmMxd0lPbS1idFJtWnZXbldGM1F2SjlvaXY3b0k1TmRHc1BLdTNvMXEwNGJCRGJSc2lxOEJ3ejBhTFEzM1hSU2E5ZFBGNFB4UkRfTFZGdTFweVlCcmd4dFlqVERRZVBhWmZoUmZpb25PbmdnRWRFcllTb2ZZQ3lVUjNIOXphcTNtd0tqYXlma1NvQ3JCTGlhd2k2YWQtUzFMejhJLWY1dGUxb3NYWU84RU5nei1B?oc=5",
+        "publisher": "SaskToday.ca",
+        "date": "2026-10-27"
       },
       {
-        "title": "Alberta rejects move toward independence from Canada",
-        "url": "https://www.france24.com/en/video/20261020-alberta-rejects-move-toward-independence-from-canada",
-        "publisher": "France 24",
-        "date": "2026-10-20"
+        "title": "Highest-support riding shows rural frustration (Alberta independence vote)",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjh1cEE3eGJ5M050SDJueHpWZ2JiNDROZWNOMDk3bl8wSFMwYTVXeVlwZDY5NGMtSjNXUW9pdFEzRVhSMmFGeUNnRXBmZklsNWNzeWthWnRZS3VFc0Zac2pFa09PQ2hoR21FaEExNy1TQkZGTTNLeUVvMGNrSC1wRUYxVDlDN2tNNkZ2LVd3NjN6RFV0NlQxX01ETmxsYzFnalY3V2ZDMTRmMmp0SE9IcjlzNUNZMTAtYUxjd001dnVRaWFz?oc=5",
+        "publisher": "Western Standard",
+        "date": "2026-10-27"
       },
       {
-        "title": "Canada: Alberta rejects separation bid, CBC projects",
-        "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-world-4025-rdf",
-        "publisher": "Deutsche Welle",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Canada: Alberta votes on holding independence referendum",
-        "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf",
-        "publisher": "Deutsche Welle",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-        "url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-        "publisher": "NPR World",
-        "date": "2026-10-20"
-      },
-      {
-        "title": "Alberta voters decide whether to take a step toward separating from Canada",
-        "url": "https://www.npr.org/2026/10/19/nx-s1-6005810/alberta-voters-decide-whether-to-take-a-step-toward-separating-from-canada",
-        "publisher": "NPR World",
-        "date": "2026-10-19"
-      },
-      {
-        "title": "Alberta voters weigh future in Canada",
-        "url": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
-        "publisher": "NPR World",
-        "date": "2026-10-19"
+        "title": "Indigenous communities in Alberta voted disproportionately to remain in Canada",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pNkRNdk5LX1l3Tjk5VUUzMlpucVRjNHhUWXg2X2ZwRzZJcWdFTThvNmgxMTlSLXh3Ui04TzFFRjBwVnVROVdrUTZrRExmSnVuMkZtMTlyLVBHdXViOV9uR3BPNmFVaWxKY1YtLTFPazB6N1o0?oc=5",
+        "publisher": "The Orchard (Jeremy Appel)",
+        "date": "2026-10-28"
       }
     ],
     "confidence": [
       {
-        "claim": "Vote share of about 76-77% to stay in Canada",
+        "claim": "About 77% voted to stay in Canada",
         "level": "medium",
-        "note": "Results are unofficial and partial. France 24 reported 76% with more than 1.5 million votes counted; the event summary says about 77%. The final figure may differ."
+        "note": "Unofficial results as described in the event summary and Euronews coverage; final tally may differ slightly."
       },
       {
-        "claim": "Exact wording and legal effect of the ballot question",
-        "level": "low",
-        "note": "Outlets describe it as a path to independence, a plan to start the legal process, and a plan for a binding referendum. We describe it as a step toward independence, not a vote to leave."
-      },
-      {
-        "claim": "Carney's reaction and separatists' vow to continue",
+        "claim": "Carney hailed the result",
         "level": "high",
-        "note": "Reported consistently by Euronews, BBC and others."
+        "note": "Euronews headline and article, 20 October."
       },
       {
-        "claim": "Gulf war and US-Canada tariff details",
+        "claim": "UCP leadership review calls and pro-Canada declaration",
         "level": "medium",
-        "note": "Taken from the linked dossiers on those events, which are not among the URLs listed here. We did not independently verify them."
+        "note": "Based on several headlines from Global News and CBC; article details were not read in full."
       },
       {
-        "claim": "Market, investor and political-risk effects",
+        "claim": "US tariffs on Canada: dates and scope",
         "level": "low",
-        "note": "Our estimates, not sourced findings."
+        "note": "Event connections date 50% Section 338 tariffs to 22 August and bans to 29 September, while an ABC headline of 27 October says 50% tariffs 'take effect'. The sequence is not fully reconciled."
+      },
+      {
+        "claim": "Oil price effect on separatist arguments",
+        "level": "medium",
+        "note": "From the event connection notes; no direct source on voter motives was available."
       },
       {
         "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, to be graded as events resolve."
+        "note": "Author judgement, not sourced forecasts; to be scored as events resolve."
       },
       {
-        "claim": "Historical analogues (Quebec, Scotland, Catalonia)",
-        "level": "medium",
-        "note": "Drawn from general knowledge. We cite no URL for them."
+        "claim": "Historical analogues (Quebec 1980 and 1995, Scotland 2014)",
+        "level": "high",
+        "note": "General knowledge; the approximate vote shares are well established."
       }
     ],
-    "method": "Drafted from the 13 listed sources and wire headlines and summaries on 20 October 2026, plus the linked dossiers on the Gulf energy shock and the US-Canada trade war. We worked mainly from headlines and short summaries, not full articles. Vote share is taken from unofficial, partial results. The effects on markets and politics, the scenario probabilities and the predictions are estimates, flagged as such in the text. Historical analogues come from general knowledge.",
+    "method": "Drafted from two Euronews articles on the vote, the event summary and connection notes, and 25 matched wire headlines dated 19 to 28 October 2026. Most post-vote details come from headlines only, not full articles. The official final tally, the precise referendum wording and the sequence of US tariff measures were not available and were not estimated beyond what is stated. Scenario probabilities and predictions are the author's judgement. No chart is included because no numeric series was available.",
     "changeLog": [
       {
-        "date": "2026-10-20",
+        "date": "2026-10-28",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-20T18:54:58.044Z",
+    "at": "2026-10-28T14:11:20.497Z",
     "model": "claude-sonnet-5-5",
     "sources": 2,
-    "headlines": 13,
-    "reviewed": false
+    "headlines": 25,
+    "reviewed": false,
+    "size": "deep"
   }
 }

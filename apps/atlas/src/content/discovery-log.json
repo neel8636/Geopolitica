@@ -105,10 +105,6 @@
       "at": "2026-10-26T00:03:19.315Z",
       "verdict": "existing"
     },
-    "ddaecd5b03b5": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "existing"
-    },
     "7f7e2339ee67": {
       "at": "2026-10-25T02:02:15.770Z",
       "verdict": "reject"
@@ -153,14 +149,6 @@
       "at": "2026-10-26T13:04:15.829Z",
       "verdict": "reject"
     },
-    "5671b0b2810e": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "existing"
-    },
-    "a0ba16828aae": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "existing"
-    },
     "12fe026a937b": {
       "at": "2026-10-26T10:03:56.712Z",
       "verdict": "existing"
@@ -188,90 +176,6 @@
     "8da85331c8c1": {
       "at": "2026-10-24T17:01:41.628Z",
       "verdict": "reject"
-    },
-    "65992025d20c": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "reject"
-    },
-    "886ecb239413": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "reject"
-    },
-    "3c23423a4b71": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "reject"
-    },
-    "c7780036938e": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "reject"
-    },
-    "cccf0887b1b3": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "58e4701fe15e": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "713d9c7d16c4": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "6471dd20d19a": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "36eed00f01b3": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "535da46aa6b2": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "a98c340973ab": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "7a36b2b8c59f": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "d2c74736db7b": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "8c3c0d77cfdc": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "681a087ea6d3": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "12d28c168b5c": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "5b15fa73b2d6": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "9a142e0116cc": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "be918a3826be": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "8f785e5cdee8": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
-    },
-    "618d8ff6099f": {
-      "at": "2026-10-24T14:01:26.501Z",
-      "verdict": "no story"
     },
     "31cf0bf073cd": {
       "at": "2026-10-25T02:02:15.770Z",
@@ -2676,6 +2580,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T14:07:18.784Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-28T13:07:07.025Z",
       "screened": 0,
       "accepted": [],
@@ -4118,120 +4031,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-26T23:04:50.597Z",
-      "screened": 116,
-      "accepted": [
-        {
-          "id": "jordan-syria-strikes-church-attack-2026",
-          "title": "Jordan strikes militants in Syria after deadly church attack",
-          "reason": "A state military is striking inside a neighbouring country, with civilian deaths reported, which changes Syria's and the region's security calculations.",
-          "channel": "cross-border military strikes, regional security, possible displacement",
-          "reaches": [
-            "SY"
-          ],
-          "headlines": 3,
-          "publishers": 3
-        }
-      ],
-      "rejected": [
-        {
-          "title": "Comey charged a third time",
-          "reason": "This is a domestic US court case with no clear effect abroad.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Court rules Comey's daughter was illegally fired",
-          "reason": "This is a domestic employment ruling with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Trump offers $1m reward for voter fraud tips",
-          "reason": "This is a domestic US electoral measure with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Explosion at Syrian weapons depot",
-          "reason": "The headline gives no cause, state action or effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Syria bans women from university courses",
-          "reason": "The framing is commentary and the policy has no clear cross-border ripple.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Palestinian children crawl under Israeli gates to reach school",
-          "reason": "This is a human-interest feature, not a new development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget previews and measures",
-          "reason": "These are domestic fiscal measures and previews with no clear cross-border channel.",
-          "headlines": 6,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Trump calls Brazil election 'rigged' without evidence",
-          "reason": "This is a US reaction to the Brazilian presidential run-off already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "International delegates, including British politicians, barred from West Bank",
-          "reason": "The entry ban is part of Israel's West Bank lockdown already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "Tehran security talks and Trump's Iran deal-or-escalate choice",
-          "reason": "These are further developments in the US-Israel war on Iran already on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UK heating oil costs more than double ahead of winter",
-          "reason": "The price rise is a downstream effect of the Gulf energy shock.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Israelis abroad fly in to vote",
-          "reason": "This is part of the Israeli election already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "French student unions call for continued mobilisation",
-          "reason": "This is part of France's autumn of unrest already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Ukraine disputes Musk's Starlink claim",
-          "reason": "This is the same Starlink restrictions dispute already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
