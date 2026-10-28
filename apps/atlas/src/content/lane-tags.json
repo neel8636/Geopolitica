@@ -228,11 +228,37 @@
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "qnz2e1",
-    "tags": [],
-    "headlines": []
+    "hash": "119018i",
+    "tags": [
+      {
+        "point": "YANTIAN",
+        "effect": "delay",
+        "likelihood": 0.25,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "Shenzhen hosts the APEC leaders' meeting on 18-19 Nov 2026 with Trump attending, and host cities for summits of this size often impose temporary road and security controls that can slow truck gate-in and pickup at the port, though none have been announced yet.",
+        "action": "Ask your forwarder and Shenzhen trucker whether any truck or traffic restrictions are planned for 16-20 Nov, and move container pickups and gate-ins to before 15 Nov or after 20 Nov.",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Shenzhen Port crosses 30 million TEU mark three weeks earlier than last year, led by trade with APEC economies",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81dFUzaExzQ3djLWIwQnQ3RWtXUG1nNnl0aUdIakdIZVZPZi02b2k1REEtMkJKaWJoVEctUUlRVWNLSEJhbFlHSmZielRfQzFaZ3VDRks1Y19MX3FLZTlDUWRB?oc=5",
+        "publisher": "Global Times",
+        "published": "2026-10-27T04:28:00.000Z"
+      }
+    ]
   },
   "sudan-darfur-kordofan-famine-alert": {
     "at": "2026-10-28T21:07:45.242Z",
@@ -256,79 +282,42 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "9awlk3",
+    "hash": "i7ky63",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "capacity",
-        "likelihood": 0.9,
+        "likelihood": 0.85,
         "delayDays": [
           2,
-          7
+          10
         ],
         "costPct": [
-          15,
+          10,
           40
         ],
-        "why": "Gulf exports through Hormuz have run at only 60-80% of normal since the war began, and on 2026-10-27 Qatar was still urging Iran to reopen the strait, so transits stay restricted and uncertain.",
-        "action": "Ask your forwarder for current war-risk surcharges and sailing guarantees on Hormuz-routed bookings, and hold at least 10 days of buffer stock for Gulf-sourced or Gulf-bound cargo.",
+        "why": "As of the 4 October OPEC+ meeting, Gulf exports through Hormuz are still running at only 60-80% of pre-war levels amid the Iran war, so transit capacity is constrained, with a further OPEC+ meeting on 1 November.",
+        "action": "Ask your forwarder for current war-risk surcharges and Hormuz transit schedules, add 10 days of buffer stock for Gulf-origin or Gulf-bound cargo, and get quotes for alternative routings such as overland from Red Sea or O",
         "sources": [
-          1,
-          0
-        ]
-      },
-      {
-        "point": "JEBELALI",
-        "effect": "delay",
-        "likelihood": 0.7,
-        "delayDays": [
-          3,
-          8
-        ],
-        "costPct": [
-          10,
-          30
-        ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic is running at 60-80% of normal, and a Hormuz oil spill closed UAE beaches in the latest reports (late October 2026), so vessel arrivals and schedules are unreliable.",
-        "action": "Ask your forwarder about routing Dubai-bound cargo through an Omani or Red Sea port with overland trucking, and add 7 days to delivery estimates.",
-        "sources": [
-          1,
-          0
-        ]
-      },
-      {
-        "point": "RED_SEA",
-        "effect": "security",
-        "likelihood": 0.3,
-        "delayDays": [
-          7,
-          14
-        ],
-        "costPct": [
-          10,
-          25
-        ],
-        "why": "Reports on 2026-10-28 describe Houthi attacks on Saudi Arabia and strikes on a Saudi pipeline, which raises the risk to shipping on the Red Sea, the alternative outlet while Hormuz is constrained.",
-        "action": "Ask your forwarder whether Red Sea transits carry war-risk cover, and agree a Cape of Good Hope fallback with its extra transit time before booking.",
-        "sources": [
-          0
+          0,
+          1
         ]
       }
     ],
     "headlines": [
       {
-        "title": "US-Israel-Iran War Latest Live Updates: Brent Nears $115 as Houthi Attacks Rattle Saudi Arabia, Fears of Fresh US Strikes on Iran Push Oil Prices Higher",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNakxlVUtZdGt6N1B1aXJCaUNlbE92dlI5UC13blZrNWJqczllS29yWlZFQmZqUWREaEh0amZITEJXbXppUWZVdWZEY2gwVVdrVGEwSDBHNHhTb2cxV0lzdTQxSWNGRnRISXllMTF5YkZlZVE5ZUo2NEVsQ1k1TXVrWDZsUExBMVhjby1hSWVZeGlKYVVfMDAyLTZjRG9yZlNGbVU5ZWZEamxYZElVQm43Vmg2d3NpNndHc1pDazViRDE3bk12Nm5Nd0JRU1ZuVml6cEZxNmxDaWhQRDFLYUJwWHBRMXRETV84NUZhSHpVS2JUVDB5MGVOcVY5M191dmxEU2doMm5ZWmpURmVJa1ZSYUgtb3Y2bzI1TWlfNFJWd9IBpAJBVV95cUxOZEkwN0sxdGNDYmhZS21wb2RzTFAtQjE4eE9SQXlJYUd0cnVYcXlpMVkzWmw0U2xUSzlTYk0ybGZBZFpKZU9yckNYV21ZWjdUQ0stN2V1Q2QyNmpTSGJPbTJaOXpYdENLU283b1l3NlZOMXIxYmZGTzdUZHpYM2ZCMHVyMUpjcXdIVmpuakowQk1NOWZySTNwRU80eWhzaVdMclFfVjM3QnZGLTZQX2ZjSHJiUm5YdkVuZy02OVpSZlRwZXYyVFdhOFRFYVRDblpaZU8wWHB0S0NXdC1VQU5ac09YYnBZVGNVWXJ4cjFFNTJpb2VtQTRpOWhrVXFzTUptSnBkWG5rZDJ5YXByRURyb1VMQmtURWNsZ09sY3YzeVBqX1Vn?oc=5",
-        "publisher": "The Sunday Guardian",
-        "published": "2026-10-28T12:22:52.000Z"
+        "title": "OPEC Holds Nov Oil Output Target Steady Amid Iran War",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXpscFozN0ZkLURGVzNYR3AyV1dkSlRoR0s1THBWUG5TYmM0aEtHaUlXT0kxN2ItTWFzak10TFhrNHVPbXd1bl8xRUt5bXZmSWQyUVVZbXRhTWJqQW5rQ1oycjRMVTdxNGlrOTd3VldfVVc1VHVWRVY3TGtRaEZFbTRsal8xZGJHSVJmYWU3dWlLXzdwVlZEdA?oc=5",
+        "publisher": "THISDAYLIVE",
+        "published": "2026-10-28T13:21:00.000Z"
       },
       {
-        "title": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
-        "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
-        "publisher": "Euronews",
-        "published": "2026-10-27T17:04:21.000Z"
+        "title": "OPEC+ expected to hold December oil targets steady as supply disruptions persist",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzZ2bjFUcXo3VHlHejloR1hPWGI4czF6V3RoMUNheTBEM1FqVXRZUkFHeVE2WEUwbklDckY1dDMwZ1Uxems5VVJPY1hxZ0FuOHB0b3NHa1dFSWR1bXl5NTVYOERudXZuX19BSmxIU19ycFFmRkJmXzZ0TkNmNW5KdkV5RmVybDh5UTRfcTItNy1sRVJGanRUTXZNT25ScDFSMlZmMVNxOC1NTGJ3RkhFNXpR?oc=5",
+        "publisher": "Oil & Gas 360",
+        "published": "2026-10-27T21:49:52.000Z"
       }
     ]
   },
@@ -375,37 +364,81 @@
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "omx7au",
+    "hash": "7ie7g2",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "1fs7jpo",
+    "hash": "11tudgv",
     "tags": [],
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "1ls6vdm",
-    "tags": [],
-    "headlines": []
+    "hash": "h1gobt",
+    "tags": [
+      {
+        "point": "LAREDO",
+        "effect": "delay",
+        "likelihood": 0.35,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          3,
+          8
+        ],
+        "why": "A Latin Times headline of 26 Oct 2026 says Mexican truckers walked off the job, which could slow or block cross-border truck pickups and approaches at Nuevo Laredo; the USMCA review itself changes nothing at the crossing.",
+        "action": "Ask your Mexican carrier whether its drivers are affected, hold 3 days of buffer stock for Laredo-routed loads, and line up a backup carrier or a rail booking via the Laredo rail bridge.",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "point": "PHARR",
+        "effect": "delay",
+        "likelihood": 0.25,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          3,
+          7
+        ],
+        "why": "The Mexican truckers' walkout reported on 26 Oct 2026 could disrupt drayage and highway access to Reynosa and slow cross-border freight at Pharr.",
+        "action": "Ask your forwarder for the current status of driver availability on the Reynosa side and pre-file customs entries so trucks can cross as soon as they are available.",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Mexico's truckers walked off the job today. Here's what breaks first.",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vM0xHTUxGbDZIYk5mbkczRDF0Rm10Y2VqYlRCMWNmMEFaTDFzSG5YSTNiZVlqelpsbjRfOGN4b004NWxhTEpLYmtxcnc4Z3J2S1I1dUZpLW1PczRSalZ5VUdVUjZtSGxBWXZUVmNJYzgydE5NUUVab21vNEk0dkU?oc=5",
+        "publisher": "Latin Times",
+        "published": "2026-10-26T12:51:51.000Z"
+      }
+    ]
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "7g9gtr",
+    "hash": "ndxvhc",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "pcu3op",
+    "hash": "1g0w6pl",
     "tags": [],
     "headlines": []
   },
@@ -417,9 +450,9 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-28T23:07:52.038Z",
     "by": "pipeline",
-    "hash": "qwxym1",
+    "hash": "1lwlfg3",
     "tags": [],
     "headlines": []
   },

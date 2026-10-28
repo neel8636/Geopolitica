@@ -2860,6 +2860,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-28T23:07:52.038Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-28T22:07:38.896Z",
       "screened": 0,
       "accepted": [],
@@ -4334,106 +4343,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-27T09:05:13.977Z",
-      "screened": 119,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "UK Budget previews: fuel duty freeze, food tariff cuts",
-          "reason": "These are previews and human-interest pieces about domestic UK fiscal measures, with no named cross-border channel or country reached.",
-          "headlines": 9,
-          "publishers": 1
-        },
-        {
-          "title": "India evacuates ahead of Cyclone Arnab",
-          "reason": "This is a weather disaster response with no stated cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Merz courts Asian investors on Asia trip",
-          "reason": "This is a routine visit and a pitch to investors that decides nothing.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Chinese brands drop Mbappé over Mao joke",
-          "reason": "This is a celebrity and company sponsorship story with no policy angle.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Comey charged for the third time",
-          "reason": "This is a domestic court case with no effect abroad.",
-          "headlines": 4,
-          "publishers": 3
-        },
-        {
-          "title": "UK sanctions Sudanese military leaders",
-          "reason": "These are narrow sanctions on individuals with little cross-border effect on money, goods or people.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "South Korea GDP beats forecasts",
-          "reason": "This is a data release with no state decision or clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Cruise ship hits two container ships in storm",
-          "reason": "This is an accident with no stated effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Moroccan police stop migrant swimming to Ceuta",
-          "reason": "This is a single border incident with no policy change.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Court blocks DoJ bid over California mail-in ballots",
-          "reason": "This is a legal fight over the conduct of the US midterms already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "International delegates barred from entering West Bank",
-          "reason": "This follows from Israel's West Bank lockdown, which is already an event on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'; Brazilian stocks plunge",
-          "reason": "Both headlines are part of the Brazil run-off story already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "French student unions call for continued mobilisation",
-          "reason": "This is part of France's autumn of unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Trump weighs Iran deal or escalation; Guterres warns in Egypt",
-          "reason": "Both headlines concern the US-Iran war and escalation risk already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
