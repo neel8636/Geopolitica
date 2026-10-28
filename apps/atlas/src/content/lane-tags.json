@@ -1,13 +1,13 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "1o9ym5",
+    "hash": "hhue38",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.9,
+        "likelihood": 0.85,
         "delayDays": [
           2,
           7
@@ -16,40 +16,155 @@
           15,
           40
         ],
-        "why": "On 27 Oct 2026 another ship was reported struck in the Strait while Qatar and Iran discussed Hormuz in Moscow, so attacks on shipping continue eight months into the war.",
-        "action": "Ask your forwarder for current war-risk surcharges and vessel screening for Gulf-bound cargo, and add 7 days of buffer stock for anything routed through Hormuz.",
+        "why": "Eight months into the war (since 28 Feb 2026), Iran is on 28 Oct 2026 threatening legal action against a Korean shipping company over Hormuz 'violations', which suggests Iran is policing transit, while Brent sits above $115 and talks have not ended the fighting.",
+        "action": "Ask your forwarder for current war-risk surcharges and transit conditions for Hormuz, and add 7 days of buffer stock on Gulf-bound and Gulf-origin cargo.",
         "sources": [
+          3,
           1,
-          0
+          4
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "surcharge",
+        "likelihood": 0.6,
+        "delayDays": [
+          2,
+          6
+        ],
+        "costPct": [
+          10,
+          30
+        ],
+        "why": "Jebel Ali lies inside the Strait of Hormuz, so the Iran dispute over Hormuz transit (28 Oct 2026) and the wider Gulf war raise the chance of waiting times, war-risk premiums and surcharges on cargo calling there.",
+        "action": "Ask your carrier whether Jebel Ali calls are guaranteed, and price in an alternative such as Gulf-outside ports with road or rail transfer.",
+        "sources": [
+          3,
+          0,
+          4
+        ]
+      },
+      {
+        "point": "RED_SEA",
+        "effect": "security",
+        "likelihood": 0.55,
+        "delayDays": [
+          7,
+          12
+        ],
+        "costPct": [
+          15,
+          30
+        ],
+        "why": "Houthi attacks on a Saudi refinery reported on 28 Oct 2026, with fighting in Yemen renewed, raise the threat to Red Sea shipping, which could lead carriers to divert around Africa or add war-risk premiums.",
+        "action": "Ask your forwarder which Asia-Europe services still use the Red Sea, and book Cape-routed sailings with 10 extra days of lead time for time-critical orders.",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.5,
+        "delayDays": [
+          7,
+          12
+        ],
+        "costPct": [
+          15,
+          30
+        ],
+        "why": "Renewed Houthi strikes on Saudi energy sites (28 Oct 2026) show the group is active and escalating near the strait, so ships passing Bab el-Mandeb face attack risk and higher insurance costs.",
+        "action": "Confirm with your carrier whether Bab el-Mandeb transits are suspended and obtain written war-risk surcharge quotes before booking.",
+        "sources": [
+          0,
+          2
+        ]
+      },
+      {
+        "point": "IR_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.8,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          5,
+          15
+        ],
+        "why": "With US-Israel strikes on Iran continuing since 28 Feb 2026 and the war unresolved on 28 Oct 2026, air freight must avoid Iranian airspace, which lengthens routings and flight times between Europe and Asia.",
+        "action": "Ask your air forwarder for routings that avoid Iranian airspace, and allow an extra day and a fuel surcharge on Europe-Asia air freight.",
+        "sources": [
+          6,
+          7,
+          5
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Will players in the Gulf establish a new security framework?",
-        "url": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "published": "2026-10-27T21:14:12.000Z"
+        "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+        "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-28T05:52:51.000Z"
       },
       {
-        "title": "Qatar, Iran discuss war and Hormuz in Moscow meeting as another ship struck in Strait",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1hWM01wUEtkUnYwQkRqQnkwNVQzWHZ6dkRCQ2hDcGlKVEs5UkV5NWVWXzUtY1d1WXd1ZDNMSDkyeHA0RVBkbEYzdG1xaXhNaUVwQVVqajlCZzZueFdRN1FUQ3JKTXVXS2dFbHVxc3hISnY3RnJLTWhKdVZFbzhRR0VyQ2lFMHA4d2dHXzFJa2tFTDZBNlNZbGRVQ2x1M2FGbGJlcUpCVnJJVUtnYW1iMzZDY1JOZ9IBuwFBVV95cUxNd2hTZUhBNlJ6MlNmWWhFelRCU3U0bDM0aWpPanM2aTZGLW9XV1loZ0hwN3pXcFREeEkwQzJwTzlBd3JJT1V4M2FQSnJNYWVRak8yTWlISUQzeVU4M2cycGFvNW1BQkNLSTNGTnhtLXd6dEw4Mm12cENWOThkVngxWjJvS0tpOFVfWGNVSFgyVC1EaDBaOGlTMEZnTWxqempqXzlIeUxDRUhheXJjUUVxU3pWZ2tKME1VYjJJ?oc=5",
-        "publisher": "The Times of Israel",
-        "published": "2026-10-27T19:24:26.000Z"
+        "title": "Brent Crude Rises Above $115 as Israel Election Results Shape U.S. War With Iran: 7 outlets compared",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX0kxV05McjVMWlZfWGppdlJPVll5QmhWT1NWYWhEZjlKSGJpZWVFSno0ck5JdFFSOGR5a2dMZzhScW41dFQ1TmM1b2dyS3pTUGZtM1ViVHlKUUYzN1czaXRNVGdZRy1OOW1rY0xrMmJVc3JfSmlidGJYdm9yT1ZGZ3hVZjNWSkg5S3NjV2VyQUNIb29SOFBHOGJOeERCRy1QSm4wMnBxdzlQV1M1TXAxaGxtZUFCSVZ5OHpnLVdGb0ZqM2RZbzhJcXNqVQ?oc=5",
+        "publisher": "NewsCord",
+        "published": "2026-10-28T05:20:57.000Z"
+      },
+      {
+        "title": "Russia-Iran Intel Link Exposed? Spy Satellites Tracked Near Saudi Targets Before Houthi Strikes",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQmU5WFp4ME5pNUJZMGRKRjBXUTZFSjhES0otWURwTGpuaWhUWEFUenEwSGlNZXN6RHB1N3pOTzFQZFUtSDlweng1dGRyRUNLa1Fkc1RNSlNOMGItSXZRNUFtdUNTVDBiUk5XTGZ5OTgzd2NPaHdpZWl1VU0zMHpzUEhlQ0poWE1pYVpnSFJNOU5lZW5UYjlFOTJMUFk4SWNoZi1ZSHZoTFN4Qi1yUk1wbmI3Q25hNWFFVmtHaDJiRUdtVmtoRnFsdWRrWmlZNW00VVdkamE0eTdiWnlCSmtIWEZFcVFCckJFWGlTUjRqUWJ5OHo3QkgzSXhrU0h5RWhITWxrSXBB0gGLAkFVX3lxTE9JVVQ1ZjJnemU2X2FyNE9ZdFliTUN5b0NBa2FieXVYSDJTcWNpR3ZUUjByVGN2a2w0ZVdYYU02SjRRUHpDUnpSV1QxdVYwWU1qVEk0ZUlscVFDTHJBNW5WbnNNWjEtU3JjdEdsbmw4R25qaGRQdFg1dVBRdTF1VEhhVVhXUE9UVUVTNEduOFFVQlRIbWJLcFZHYTRkMVdGMUpiQ0FjZnN2QktMSXNuSFdkMDN5RGdtQ0wzbWVPMkhfMVNHZDdrZGh5bGthWG10dWROREppWDMxR25makJ3R29GRm1hcmVCS3drN3BVcjA4R1cwTm5RbDZFYzBRSG9jTWdGVnlPdXBQUkp6Yw?oc=5",
+        "publisher": "The Times of India",
+        "published": "2026-10-28T04:28:35.000Z"
+      },
+      {
+        "title": "Iran warns Korean shipping company of legal action over Strait of Hormuz violations",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXptNXZwdmdURTk5RlkzNUQtbWxxOVMtdnNXVXQ5bXlUalRKZlMwRDcyUFJUczhZN2FhWnpaLWo5YXg4Q1pIODUyUVdpVGU0RGNTNnBFdWM2VW1zandzeU1VbWRNSVRyaXE1UXZKSE11VUxDdzFrUG5iOUhYYnhUT1Y4U3NhV3YxZmRVTjFPVVhxakw1bjBEMkM1Zlk5amp1Q1JZM1lJODN3a0trTE9KV29IWlMxdHE0akdqT2RtNTlDQlJJYi1yVGZvSWxWQQ?oc=5",
+        "publisher": "Korea JoongAng Daily",
+        "published": "2026-10-28T04:07:15.000Z"
+      },
+      {
+        "title": "The Oil Market Should Brace for a Forever Stalemate in Iran",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdU9jeHlheXNiSXlPb0M2cXNKcFFxN21DUmQzMUswRm1yQUYyRE1ZSnN1Y0ZCRFAwTnBnX21oanc3TnNCb1RnU2lBZ2NqUFNHajNXRUF3RXBmT3c5NHNHR1BxN1BtUDlFRm5aSW9sNEtjZjVPY1c3SnJFRWZtWi1EREM4S3hyZlNROUk0ZXFMOXNvZkcydE5rRVg0Y3gwaUVhWHhnRzhkN0pQNFV6dVdoMXBSYw?oc=5",
+        "publisher": "Bloomberg",
+        "published": "2026-10-28T04:00:00.000Z"
+      },
+      {
+        "title": "Iran hasn't tried to repair nuclear sites hit in US strikes: IAEA chief",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck14VkZKS09nV1hCTXQxejRfN2xyd3JyVlpENkhhZnBYWTdMd0NmQnM4WW9pbUxHUjNQZ2R0RVA3ZzYyZmJvYkhFX0J1WWZocXVqWWlyYlJJazI5bGc1M2QtWldEVFYwenNMME1fVllmTFlvN0dsV0c2VDBoMmJxcnNWMkJ5Wm9BWnI1VWU5QkhsTGhWbk5zYVdMdkwwU1VsbnM5UDE1UDdod3MySkJJcUJkZnNmYjRGTXFVa2dYaTUyU0FKdmtaNWxPTmY0TlR20gHWAUFVX3lxTFBQTU1xYXJOc1R2NnlIaFJLSE9MXzl5SncxWXV5UEtsNmlxZGQtWHJXaU9CTU5OajF3UTdUZHNMbE53MTR6bmM5MkoxYkdNWXVXUWxSWnk3VVpBSHpXNjFpRWhwTG5NSWlndnY3bW5MU1hFQlBVdFc3eVczVGlGUlNzQkhkQjBveDFkOXFZRTBpeFhQTzlBYmo4YVBjVlNHOGtqaXNad3NJcnhwTDZKbWhhQnVQVjNpd0NkS3hic3lXU2tUcmw0SVdBbTY3bVU1VkNiUWo3R0E?oc=5",
+        "publisher": "Business Standard",
+        "published": "2026-10-28T03:26:35.000Z"
+      },
+      {
+        "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+        "url": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-28T03:02:44.000Z"
+      },
+      {
+        "title": "Iran's supreme leader calls for meeting Tehran's conditions to end war",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55Q0JCWHFqeVRTbXFUMTRkN0lQck5maHhHRWpDb1BPdnVTMWRqTWMwcFotZWtYT09rWlZXY3luUXJnLWFXQXdxMi1PNjVPWlJlZzVqXzZxRTc?oc=5",
+        "publisher": "chinadailyhk",
+        "published": "2026-10-28T02:13:40.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "1dljozt",
+    "hash": "1wvebin",
     "tags": [],
     "headlines": []
   },
   "france-unrest-2026": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "p5dkzs",
+    "hash": "14n473m",
     "tags": [],
     "headlines": []
   },
@@ -68,16 +183,16 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "u6jngd",
+    "hash": "1lzl7bj",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "86gsva",
+    "hash": "f1bmhu",
     "tags": [],
     "headlines": []
   },
@@ -330,9 +445,9 @@
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-27T21:06:01.574Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "1b9ol5e",
+    "hash": "l4cq69",
     "tags": [],
     "headlines": []
   },
@@ -428,9 +543,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "1gpl6o5",
+    "hash": "193tpge",
     "tags": [],
     "headlines": []
   },
@@ -442,9 +557,9 @@
     "headlines": []
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-28T00:06:19.859Z",
+    "at": "2026-10-28T06:06:35.889Z",
     "by": "pipeline",
-    "hash": "qyzboa",
+    "hash": "8mtuk0",
     "tags": [],
     "headlines": []
   },
