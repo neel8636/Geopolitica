@@ -169,9 +169,9 @@
     "headlines": []
   },
   "france-debt-stress": {
-    "at": "2026-10-27T20:06:00.433Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "19ezq2n",
+    "hash": "8lureo",
     "tags": [],
     "headlines": []
   },
@@ -204,34 +204,34 @@
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "18eusrp",
+    "hash": "1f21xm0",
     "tags": [],
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "75h6ba",
+    "hash": "xunjnm",
     "tags": [],
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "8h46v7",
+    "hash": "1da5i06",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "1aj5958",
+    "hash": "p9ult8",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "capacity",
+        "effect": "security",
         "likelihood": 0.9,
         "delayDays": [
           3,
@@ -241,12 +241,13 @@
           15,
           40
         ],
-        "why": "As of late October 2026, Gulf exports through Hormuz are still running at only 60-80% of normal, and Qatar on 27 October was urging Iran to reopen the strait, so transits remain restricted and costly.",
-        "action": "Ask your forwarder for current Hormuz transit status and war-risk surcharges before booking, and hold 10 extra days of buffer stock on Gulf-origin or Gulf-bound cargo.",
+        "why": "As of 2026-10-28 Gulf exports through Hormuz are running at only 60-80% of normal during the US-Iran war, and Qatar is urging Iran to reopen the strait, so transits are restricted and war-risk costs are high.",
+        "action": "Ask your forwarder for current Hormuz war-risk surcharges and transit status, and hold 10 extra days of buffer stock for cargo that passes the strait.",
         "sources": [
           0,
-          1,
-          2
+          2,
+          3,
+          4
         ]
       },
       {
@@ -255,38 +256,87 @@
         "likelihood": 0.7,
         "delayDays": [
           3,
-          8
+          7
+        ],
+        "costPct": [
+          10,
+          25
+        ],
+        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where traffic has been at 60-80% of normal since the war began, so vessel schedules and cargo into and out of Dubai are slowed and surcharged.",
+        "action": "Ask your forwarder about routing Gulf cargo via Omani or Red Sea-side ports with onward trucking, and pre-book space at least two weeks ahead.",
+        "sources": [
+          0,
+          4
+        ]
+      },
+      {
+        "point": "RED_SEA",
+        "effect": "security",
+        "likelihood": 0.35,
+        "delayDays": [
+          7,
+          14
         ],
         "costPct": [
           10,
           30
         ],
-        "why": "Jebel Ali lies inside the Gulf, so cargo must pass Hormuz, where traffic has been at 60-80% of normal through October 2026 and the strait is not yet fully reopened.",
-        "action": "Ask your forwarder to quote an alternative routing via Omani or Red Sea ports with onward trucking, and pre-book Jebel Ali berth windows with a 7-day buffer.",
+        "why": "Houthi attacks on Saudi Arabia's Ras Tanura refinery were reported on 2026-10-28, which signals escalation that could extend to Red Sea shipping over the next 30 days.",
+        "action": "Confirm with your carrier whether Red Sea transits are still scheduled, and get a quote for the Cape of Good Hope routing as a fallback.",
         "sources": [
-          0,
+          1,
+          3
+        ]
+      },
+      {
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.35,
+        "delayDays": [
+          7,
+          14
+        ],
+        "costPct": [
+          10,
+          30
+        ],
+        "why": "Houthi strikes on Saudi oil infrastructure reported on 2026-10-28 raise the chance of renewed attacks or threats to ships passing Bab el-Mandeb.",
+        "action": "Ask your forwarder for current war-risk premiums on Bab el-Mandeb transits, and set a trigger to move Asia-Europe bookings to the Cape route.",
+        "sources": [
           1
         ]
       }
     ],
     "headlines": [
       {
+        "title": "Iranian Lawmaker: Oil Market Contradicts US Claims on Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWhCT0QtTWJVWlNyZkR0anNmNVpfUzA2aXBjQWVGdk8xd3JyeE9EcjVSVWVSamZZMkUwRFBhSnlRWFJlSHlkWFExei1Fd284LUswWWwwYzFOU2FPR1Y2aXhYYWFwdGUtVi1wdFRIZjZfcGEtdWJONURjWUpHQjhGTGdBU19JZw?oc=5",
+        "publisher": "WANA News Agency",
+        "published": "2026-10-28T08:39:17.000Z"
+      },
+      {
+        "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+        "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-28T05:52:51.000Z"
+      },
+      {
+        "title": "Iran Threatens Legal Action Against Sinokor Merchant Marine Over Hormuz Crude Dominance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLVI2czBhM0twanR2Z1A5WlFDUUFIbDA1M0xHMmlHbXFvVWJCYzUwZ0Z6TGNUamtMeGdFcHFvZzNfdVd4SG91MTltb05hemdjWG4zNWxaTnZGalV0SFFrd3NoZGxFN1drelN4Y2NjcVpaT1BUaXpFTXRIUUlEWDBpZnR1aU9OODlE?oc=5",
+        "publisher": "조선일보",
+        "published": "2026-10-28T05:44:44.000Z"
+      },
+      {
+        "title": "Brent Crude Rises Above $115 as Israel Election Results Shape U.S. War With Iran: 7 outlets compared",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX0kxV05McjVMWlZfWGppdlJPVll5QmhWT1NWYWhEZjlKSGJpZWVFSno0ck5JdFFSOGR5a2dMZzhScW41dFQ1TmM1b2dyS3pTUGZtM1ViVHlKUUYzN1czaXRNVGdZRy1OOW1rY0xrMmJVc3JfSmlidGJYdm9yT1ZGZ3hVZjNWSkg5S3NjV2VyQUNIb29SOFBHOGJOeERCRy1QSm4wMnBxdzlQV1M1TXAxaGxtZUFCSVZ5OHpnLVdGb0ZqM2RZbzhJcXNqVQ?oc=5",
+        "publisher": "NewsCord",
+        "published": "2026-10-28T05:20:57.000Z"
+      },
+      {
         "title": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
         "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
         "publisher": "Euronews",
         "published": "2026-10-27T17:04:21.000Z"
-      },
-      {
-        "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU1BTkRDTWgwMEJBYkYwNzZ2c2NyZHEtaldfdlZzNjdUbS0zZEFmWW9zYzZma1pFc1FtclZTUnZSYnhRd1FwZTRIYXgtcUpEQzBwM1MxY1pyek9ZOXBSbzF1dmYzNGdRMmphWlNqc2RqLTBSTWgyV0dZWTFhOGJJaE13aw?oc=5",
-        "publisher": "EnergyNow.com",
-        "published": "2026-10-27T12:31:04.000Z"
-      },
-      {
-        "title": "OPEC+ Members Likely to Hold December Oil Production Targets as Gulf Exports Recover",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTAyUWtMUnFpNXJrS195ckxBNWYydEZnZnRPbmJIZURBR2RvN1hPQjFIN19PN1FUTGdsZE1zYmlJbjY0YXhNajBPY01XNUJlMGdXV28xNDZqZV9HYmNmQmdwb1FHX0xyQ21sQ3p4ZXo2V2V6d2JldHZjLUNWNXpSTlRYazJvQ2hxZEE?oc=5",
-        "publisher": "Yahoo Finance UK",
-        "published": "2026-10-27T10:40:56.000Z"
       }
     ]
   },
@@ -298,16 +348,16 @@
     "headlines": []
   },
   "italy-election-2027": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "6d0al",
+    "hash": "1n89adj",
     "tags": [],
     "headlines": []
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-28T03:06:24.951Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "79ds7f",
+    "hash": "6v5htr",
     "tags": [
       {
         "point": "VALENCIA",
@@ -321,39 +371,14 @@
           0,
           3
         ],
-        "why": "Spanish unions are mobilising for a housing general strike on 11 Nov 2026, with a snap election on 29 Nov. Pickets or reduced port and trucking staffing could slow gate and terminal operations for a day or two, though the exact dates and scope are unconfirmed.",
-        "action": "Ask your forwarder to move container pickups and deliveries at Valencia away from 10-12 Nov, and hold 2 days of buffer stock for cargo due that week.",
+        "why": "Spanish trade unions are mobilising a general strike for affordable housing on 2026-11-11 (exact dates still unconfirmed), and a strike of that kind could reduce port and trucking activity for about a day, though no port-specific action is reported.",
+        "action": "Ask your forwarder to confirm Valencia gate and terminal operating hours for 10-12 November, and move container pick-ups and deliveries away from 11 November.",
         "sources": [
-          1
-        ]
-      },
-      {
-        "point": "LA_JONQUERA",
-        "effect": "delay",
-        "likelihood": 0.2,
-        "delayDays": [
-          1,
-          2
-        ],
-        "costPct": [
-          0,
-          4
-        ],
-        "why": "A general strike is planned for 11 Nov 2026, and disturbances were reported in Barcelona and Bilbao in late October. Road pickets or protests could slow trucks on the Catalonia–France corridor at La Jonquera.",
-        "action": "Ask your haulier for a contingency routing via Irun, and avoid scheduling time-critical Spain–France departures on 10-12 Nov.",
-        "sources": [
-          1,
           0
         ]
       }
     ],
     "headlines": [
-      {
-        "title": "Llorca sees in the disturbances of Barcelona and Bilbao another argument to relieve the Government of Spain",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV2tfbHJnRlhkZ1hLX0lOZUhDWDJPOTRJSExfSkVZNHVQMFkyaU9FZWxCVWQ0alF6NEhPZTFSNFpoVENuZWF0TGd1dnhBTFJJaWdsN3RMRmFNRWNWY29LLVhqeTd0SkJQVFVNRThncU9HWHpJRWdaYlhDQ1JaZHA2Y1J2TEV0VUpvaFZyOEYtVG8zZGpsaGRkbkc0OHc0VnNUZ01vQ2NIUnNILTZVUTRwTm1pTTRaSUhsZWljeGRKdkxQSmxlYkVNbGViQVd6cFBiVG5uRmpHU3F0WDQ0TjlTWm9aQTgtRC1KSmpV0gHrAUFVX3lxTE5Xa19scmdGWGRnWEtfSU5lSENYMk85NElITF9KRVk0dVAwWTJpT0VlbEJVZDRqUXo0SE9lMVI0WmhUQ25lYXRMZ3V2eEFMUklpZ2w3dExGYU1FY1Zjb0stWGp5N3RKQlBUVU1FOGdxT0dYeklFZ1piWENDUlpkcDZjUnZMRXRVSm9oVnI4Ri1UbzNkamxoZGRuRzQ4dzRWc1RnTW9DY0hSc0gtNlVRNHBObWlNNFpJSGxlaWN4ZEp2TFBKbGViRU1sZWJBV3pwUGJUbm5GakdTcXRYNDROOVNab1pBOC1ELUpKalU?oc=5",
-        "publisher": "Demócrata",
-        "published": "2026-10-27T11:45:22.000Z"
-      },
       {
         "title": "General strike for affordable housing: Spain’s trade unions mobilize for November 11",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1JfWTVKaHlUMnkyRThfa1JJbm1LZG15b09hZ0pNZnBycE9VQkhfd1VJYlRsLTh3Wm0xMkpWaDRlTU9ZUVhmeTR0VzdVT3ltNWZGbDZZSk95RFlLbjBtTzBXcDNxSWtTclRQcXozaEhXX0pDam1zeTZLWmxxb1NTMFJTdVJmS3lha01EczJYM3pGWG12cGxVV09ZaTFCSGF6dmJiZkhycUU0UGYzdjFocTdqR0dmTzQ?oc=5",
@@ -377,9 +402,9 @@
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-27T21:06:01.574Z",
+    "at": "2026-10-28T09:06:50.199Z",
     "by": "pipeline",
-    "hash": "1fvwerk",
+    "hash": "1g36dhj",
     "tags": [],
     "headlines": []
   },
