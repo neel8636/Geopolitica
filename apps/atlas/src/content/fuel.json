@@ -888,19 +888,19 @@
     ]
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "goyal-says-india-us-talks-in-final-stage",
-        "title": "Goyal says India-US talks in final stage",
+        "id": "goyal-says-trade-talks-in-final-stage",
+        "title": "Goyal says trade talks in final stage",
         "when": "2026-10-27",
         "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "Commerce Minister Piyush Goyal says the trade agreement is nearing completion, while the White House reports progress in the talks.",
-        "via": "final-stage negotiating momentum",
-        "aspect": "politics",
+        "what": "Commerce Minister Piyush Goyal said most discussions with the US are concluded and the agreement is nearing completion, and the White House also reported progress.",
+        "via": "negotiators closing remaining gaps",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
@@ -912,18 +912,23 @@
             "title": "India, US Near Trade Deal as Piyush Goyal Says Talks in Final Stage",
             "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX3NuMzMxS1FNS1ZqeEdaQm5STHpsajU2VFZZNmZBc3haS3IySGN3UWJSUVRMUVZNQjNsRU5qWng3cmY4MTJvYm1OX05iUGtqMGJrQUx2eF91ancxQTV5R3c4T29nYzJ0MUJWUjVKS3E5ZkNKMU9UUVlyTjFwemowR0s2OTczOF92aDV5Skl6QnNqbE85enc?oc=5",
             "publisher": "Goemkarponn"
+          },
+          {
+            "title": "India, US Near Trade Deal: Most Discussions Concluded - Goyal",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTE11SnFRcW11T05BQXp3UXA2UDV1RjB5YmtoMzNTSWV3UHFIaGtjTjFZbEhJNXVPaUV2NjRsMEtkaDllR0hyUGVRUjRzQldyTktPRENEcS1IMHVGaS12VmNTN0ZqTm9IcjVIVTBWRUN1R2JaaEM2RVJKSDVWeFdWQTh1SzViSzNoa3JWYUdNX2VpamJtVExISzB30gGfAUFVX3lxTFBxTmk5S3RZQUxsUUVYcVV5RFN0VjN3NGFJeWhZaEZQU25xS1N5OFQzWWFWUUdCVHQzZkU0dU54Wk5GT1ZHMUE3MWQxc1lkVE9oTkhHZU84WGtja2NfREp5cWtLUUQ2WVlaZHYtUFlLbWg2LXhKXzAxTlNLdnBnWDF5eFNnX3NOYklyOXM0S2NxOEdBVGtGZ0M3RXBuZGEzcw?oc=5",
+            "publisher": "Rediff MoneyWiz"
           }
         ]
       },
       {
-        "id": "tariff-dispute-reported-to-stall-deal",
-        "title": "Tariff dispute reported to stall deal",
+        "id": "report-says-deal-stalled-over-tariffs",
+        "title": "Report says deal stalled over tariffs",
         "when": "2026-10-27",
         "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "One report says the India-US trade deal is stalled over tariffs, pointing to unresolved sticking points before signing.",
-        "via": "unresolved tariff disagreements",
+        "what": "A report described the India-US trade deal as stalled over tariffs, a counterweight to the upbeat signals from Goyal and the White House.",
+        "via": "unresolved tariff disagreement",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -935,14 +940,33 @@
         ]
       },
       {
+        "id": "puri-denies-us-pressure-on-russian-oil",
+        "title": "Puri denies US pressure on Russian oil",
+        "when": "2026-10-27",
+        "place": "New Delhi",
+        "lat": 28.61,
+        "lon": 77.21,
+        "what": "Petroleum Minister Hardeep Puri said the US is not pressing India to cut Russian oil imports, which bears on the link between sanctions waivers and the trade talks.",
+        "via": "Russian oil stance in talks",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "No US Pressure On India To Cut Russian Oil Imports: Hardeep Puri",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1BfUUdWTGhJYjJxVW9wbDBvTHNjOS1yZWk0NFE2ekUzbElwWjRfZnVuRzhqZGNxTk5aT2NlNEdUdEF1V1dNc2FRZ1ZySEJTYzNEcFotbzBveUdjazFRSEFfSHZ4b3AxQ29sSDBUU3JzNENTb3NCT1hiLXlqTjZOTUloS3pfMXVJVVp2aUEzRXN4UjlkQjZCdE9BU3ZOZnR3ZG1YamYyTdIBrAFBVV95cUxQbkZsX1FLZDk5OU95d3BuT3gxNTRGMjlNcjFPWmxyMWVuVDNMdVo2T1dHOUowWUJPWGZvUGRlQzRQdkh1ejVPTHhDRklRcmQ0bFVtVEF5RXQ4VURpNXgyMEx5Y21qcldrc3FYakhPdGxKTkR3amZabDRwZkhvb05tdFVxNzg1WEtVY0p2Q2k4Q3ZjVHVENC1tNXRrb01CSGZhYm41V2QwQks4QlRj?oc=5",
+            "publisher": "Free Press Journal"
+          }
+        ]
+      },
+      {
         "id": "india-turns-openly-critical-of-trump",
         "title": "India turns openly critical of Trump",
         "when": "2026-10-28",
         "place": "New Delhi",
         "lat": 28.61,
         "lon": 77.21,
-        "what": "Indian officials are reported to be openly criticising Trump as ties fray ahead of the US midterms, complicating the political backdrop to the deal.",
-        "via": "strained political relations",
+        "what": "India has grown openly critical of Trump as ties fray ahead of the US midterms, adding political friction to the final stretch of negotiations.",
+        "via": "political strain between governments",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -950,25 +974,6 @@
             "title": "India Turns Openly Critical of Trump as Ties Fray Before US Midterms",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQU14X0oxMlBUSjhuak83eHRiaVJxbkpJazRDTlE4bVhfWTU1WW4xT1E5NW5Cbm5QYk8wcWJSREllWUNWaV9McWwzR0VpSnNXLU9kMV9GMW1mWFFhZzV1Z2JjenBZTXJ2MzNRTl9yOGE3Z3N6TEJXaVdrQl9ja1FvZ1BxZ05VTGxUeWUtb19OWHZ0S2lWOHdlR3BBVWdNWl9BeDg3WWFnTXFidw?oc=5",
             "publisher": "Around Prague"
-          }
-        ]
-      },
-      {
-        "id": "congress-threatens-probe-of-russian-diesel-tankers",
-        "title": "Congress threatens probe of Russian diesel tankers",
-        "when": "2026-10-28",
-        "place": "Washington",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "Russian diesel tankers are heading to the US, and Congress threatens a probe, adding scrutiny to Russian energy trade.",
-        "via": "Russian energy scrutiny",
-        "aspect": "energy",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Russian Diesel Tankers Head to US as Congress Threatens Probe",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVc3S0pFeDFJdkNoWkMxTVRrRVF5TWlsb01xZDRTR1RJZUpjSW9Cbm9Jc2cxUDhwZ2NfdTRhbWk1bHVHWFZxNTNkWV96QzgzQ2gyc19ndW8tUnpueEJlYVFhNHdZNHVWdnlBcVc0Y0xzLXBNYklMaXJYM1JNMk9aQjhiYw?oc=5",
-            "publisher": "India Weekly"
           }
         ]
       }
@@ -1561,113 +1566,113 @@
     ]
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "economists-expect-boj-hold-with-hawkish-tone",
-        "title": "Economists expect BoJ hold with hawkish tone",
-        "when": "2026-10-27",
+        "id": "strong-japanese-bond-auction-steadies-yields",
+        "title": "Strong Japanese bond auction steadies yields",
+        "when": "2026-10-29",
         "place": "Tokyo",
         "lat": 35.68,
         "lon": 139.69,
-        "what": "A CNBC survey and other previews expect the Bank of Japan to keep rates unchanged this week while sounding hawkish, shifting attention to guidance.",
-        "via": "hold expectations, guidance focus",
+        "what": "Japanese government bonds held steady before the BOJ decision, helped by a strong auction that showed solid demand.",
+        "via": "calm bond market",
         "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
-            "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
-            "publisher": "CNBC World"
-          },
-          {
-            "title": "Bank of Japan unlikely to take rates higher this week",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2pxR0xnQUZUa3pZUzNYR0t3dGZiblVrUkZycDZHUzNVRmpUUnhoeFRUeTdUOEE2aXZ4SUhrMF9YSUdKQ0dlUU95ZDNwc24ta2doQk5SU3NnZDNIM0JXM2MxV3NDb2d1M2RRWVVQVk8xZHNZV3VaSFJpT2lNbU1iOVVDNA?oc=5",
-            "publisher": "The Japan Times"
-          },
-          {
-            "title": "BOJ Rate Hold Seen as Done Deal, Putting Focus on Guidance",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWRwVV9FWTdqX3owblhFcVRKVUdwU1ZLTUhYSnNMWEJXTnJvRVFHalRmdGwyZVp1dDQ4d0MycFBDQ3BVeFlKT0Y0bEJ6cGRVLS1tSWduZy1kQm5FckxVUkxSUWVpeE9EVUJfLTI3bGtLZWRlMU12S0lybkcybnphbno5ME5kNUNYRDJteldxOHB4Wno4d3czcUdHX0hmV3ludTlzWUliZDlnYTc1SlY0?oc=5",
-            "publisher": "WSJ"
+            "title": "Japan bonds steady ahead of BOJ decision; strong auction lends support",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYU5icjJDV2NBSUUxTk41aWVqRHpxRjBVX0cxdUxBdzRwc1VaMzJXR3FkRXk1eVRxZzlOaFZ3bXlla2NweWlaeWgyOGpFYVVVYUFRdlhTaFl0R1J4MUlndnBTaGdCMDM5ak8zVzhqMkJhZ0NnY00yejRjNjBhWEc4R1JTeVpjaHpCY3pIVUd3ekpRUXMzUVExS1pPODY3Mk5TeHI2a0k4UEhrTDY0d2tPUkQwcFpPdnp6eUp1cUxR?oc=5",
+            "publisher": "Reuters"
           }
         ]
       },
       {
-        "id": "japan-inflation-accelerates-services-prices-split",
-        "title": "Japan inflation accelerates, services prices split",
-        "when": "2026-10-27",
+        "id": "tanker-rates-soar-food-price-hikes-loom",
+        "title": "Tanker rates soar, food price hikes loom",
+        "when": "2026-10-28",
         "place": "Japan",
         "lat": 36.2,
         "lon": 138.25,
-        "what": "Inflation has picked up, but a split in services inflation complicates the Bank of Japan's reading of underlying price pressure before the decision.",
-        "via": "mixed underlying inflation signals",
+        "what": "Japan is bracing for a new wave of food price increases as tanker rates climb sharply.",
+        "via": "imported cost pressure",
         "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "Japan’s services inflation split complicates the BOJ outlook before Friday’s decision",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jbzNoOVdkWGlsZS1tcU1vdU85UTBIV3RqZTRVSUJJOEo4ekFZSkNzWVFncFFQYWhIZmVIbll2OENqOEpCY09Nc0ZhdEdoa2tsUnprdnQtLTU?oc=5",
-            "publisher": "Cryptonews.net"
-          },
-          {
-            "title": "Japan Inflation Accelerates: ETFs to Watch Amid Rate Uncertainty",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORHJOSnhNVkl1UUx6aGFyVUIwcmVIeFFkZ3J4ZG5sWVV4cWc3MXlxd1VDTVZNNDJuZHpQRGZaVUk2bmstYWxiN0lZQlZIY1dSRUZYQjNBZkV0Vl9ONWd1cGp5Qkd6bzBhZnM2dGZuYmhwY25maGR3ZDVzYmlUYnRTMFhlRDdpVUFBakxXbFVXRzNHNEpmUElsb3BxMkFMWlFZQVBtWlVRMG4wS0ljQUgweHl2cE0zNW9FOUI0?oc=5",
-            "publisher": "TradingView"
+            "title": "Japan girds for new wave of food price hikes as tanker rates soar",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0ZoczA2Wm0wbkpkTmIxa3R4cTRBdVVIYUZzUFFsUXZMYmw3SUp4d1AwSmVRVzNlbUxDR2hXek9kSTBFdnJQTlM0MHNmcnN6bHRtbklCOFhDN05RTnNGc0Y2Y0t6NVJibXAyanZ4MGhEOS1BUWZOWWR0ZnlRMnJnbGpUTGJRQjNZVjdkVFRlSEp1X2szQXVKQ3Z6QXhoQmF1bzRMNXVPU2JRUlU?oc=5",
+            "publisher": "Nikkei Asia"
           }
         ]
       },
       {
-        "id": "hawkish-fed-expectations-lift-the-dollar",
-        "title": "Hawkish Fed expectations lift the dollar",
-        "when": "2026-10-27",
-        "place": "Washington DC",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "The dollar hit a 1.5-week high on expectations of hawkish FOMC commentary, leaving USD/JPY in a seven-week resistance standoff ahead of the Fed and BoJ.",
-        "via": "dollar strength against yen",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Dollar Posts 1.5-week High on Expectations for Hawkish FOMC Commentary",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0xNazVsREY0SW9tZTNJeXE5RHoxQ1hEVVdsOFFpVm93NWFHeklPb3pJMURjYXUxdlZCbmlpdVNtdHBXZFN5OURyX1U0V1M1S05MWVJLOUhCN21PVld3WEZOTGdVeng4YUF3NElPeUZaczlKNVZ6MWM2ODAzUXF5TV9qS2dCLUtveVVvNTR3NHpud3ZaUnRNUlczc2dabmpXSFdxQ21BUEZLekY3MnhyQzhJMDVHX1NERXpIU1I2V2VUOGE2cm9MWA?oc=5",
-            "publisher": "TradingView"
-          },
-          {
-            "title": "Japanese Yen Forecast: USD/JPY Seven-Week Resistance Standoff Faces Fed, BoJ",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUGR5UnJqMFRWbmFNT3MwU0pPb2VsZU9XMTdBWVJFQVFlRk0ybmR1YllMTzVpdXR3UVlOc0dsR1JEekZXRTc0OFdOQXJLZDVpMXkxMHJxN200Z1hTblpQUUdxdUE1MVRjYTE3NGl2VDVjWnRlcXhKQ1BBUVhzY0JNbkphRDV6WjRpVS0yQ29LMjFRMU5OU2lUYnFXdDNPQ1hNZFd0WVRLLUVvV2pSeTd3dTlNREt0Zkk2YTVoZDZOdUVpY0thdk9oMm1MWEhzZ291YmlOejdCQ1LSAdgBQVVfeXFMT1BkeVJyajBUVm5hTU9zMFNKT29lbGVPVzE3QVlSRUFRZUZNMm5kdWJZTE81aXV0d1FZTnNHbEdSRHpGV0U3NDhXTkFyS2Q1aTF5MTBycTdtNGdYU25aUFFHcXVBNTFUY2ExNzRpdlQ1Y1p0ZXF4SkNQQVFYc2NCTW5KYUQ1elo0aVUtMkNvSzIxUTFOTlNpVGJxV3QzT0NYTWRXdFlUSy1Fb1dqUnk3d3U5TURLdGZJNmE1aGQ2TnVFaWNLYXZPaDJtTFhIc2dvdWJpTno3QkNS?oc=5",
-            "publisher": "FOREX.com"
-          }
-        ]
-      },
-      {
-        "id": "yen-intervention-jitters-build",
-        "title": "Yen intervention jitters build",
+        "id": "yen-weakens-toward-158-on-intervention-jitters",
+        "title": "Yen weakens toward 158 on intervention jitters",
         "when": "2026-10-28",
         "place": "Tokyo",
         "lat": 35.68,
         "lon": 139.69,
-        "what": "Intervention jitters, together with the BoJ outlook, are lifting the yen against the euro as traders weigh the risk of official action.",
-        "via": "intervention risk on yen",
+        "what": "The yen slid toward 158 per dollar, with traders eyeing 160 as a possible intervention level and Citi doubting it can pass that.",
+        "via": "weak yen pressure",
         "aspect": "markets",
-        "flow": "into",
+        "flow": "both",
         "sources": [
+          {
+            "title": "Yen weakens toward 158 per dollar ahead of Fed and Bank of Japan decisions",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQXBQNmpvcGtLUzRQWnRnVHN0b1NfNmEzM2tJcGx2b0pTTjZidDVzdmJWaU5mZ2R0eE1sWEI4djJZekFWWHVXcEhiTGphUGoxSGZuNW9EWGdnTDFTdmtXQXFaa3A3dTdkZUcxVDZiaE1iU0ZiUVA3T0lYVnE2NUFBNWlJX180clotdjhpODhKWTZNZzNBU3o0V1IzWjdHYXotaVdGNW9FYnlSUVlrb3JFRXdrTi1lTm9venpBYWlmV2l1ekNHSVJHZkFGUEQ?oc=5",
+            "publisher": "Economies.com"
+          },
           {
             "title": "EUR/JPY Drops as Intervention Jitters and BoJ Lift Yen",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVdubzVELVgta2NhT1VaN1pvNHV3NW95XzhvZ3hyUndwZ3FpVUtjdXdsSmhCbm9NUV9ieVFwUXc5WEhIQnVyc0t2MHFpdW9zQlc5ZTBpclFHM1BTRkZ0SjE3by12UV8tYVBuSExiWkJmSGZhaVBBaVFUQkt5bHlwel84QTNuYllfYlF5c1c2b2VqVmZuS2dsWlpBcw?oc=5",
             "publisher": "TradingPedia"
+          },
+          {
+            "title": "USD/JPY Price Forecast — USD/JPY (157.86) Rises as the Yen Lags Ahead of the Fed and BoJ — 158.50 Target, 160 Intervention Cap",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGtDZEV1UG00UzNFU2dWZFFXd3ZDM3pwTjlKTEpzMzJGVzY2X25XRGhaMUJ0STlNV29NNWdrbTUwa3YxY1R5X1BtNENKYW9pcm11bUx1dVF6TmVyYWpYVTBCYW9qUXF3U3UtVDNvcGJ0MU9ZOTVPZktjTmsyTzNrLXBfT2tfTWgwR1M5aGh5VTNiOTF2S21RQ2FnYmg5T3M1UncwX2IxNXVUU3NrQ0pPTVJOV21oVnhyS2gzUHd0dXFNLWhh?oc=5",
+            "publisher": "TradingNEWS"
+          },
+          {
+            "title": "Even a dovish BOJ may struggle to push Dollar-Yen beyond 160: Citi",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJnR1BHc0dvUTFJVUs3N0w5Z2FjTmkyVmtOb1RkTzBLZVUyRlB5M2pfN3ZJeXN4ZUozZDdxR1MtWW5OODNRX3NWaUw3Q0JjazVTN0V4V2RTM2YtSWRaWk1GWk1ydVdYWF9QbjNQVW5fNVFJZ3h6dWtNS0pRZjB5dG02cTlLcnBsbTZDemhkUUxQbXhZR3ZZSXZOZmJIWFVCT3AtS0QzMVFnZl9y?oc=5",
+            "publisher": "CNBC"
           }
         ]
       },
       {
-        "id": "fiscal-backdrop-weighs-on-yen-outlook",
-        "title": "Fiscal backdrop weighs on yen outlook",
+        "id": "fed-holds-rates-before-boj-meeting",
+        "title": "Fed holds rates before BOJ meeting",
+        "when": "2026-10-29",
+        "place": "Washington",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "The US Federal Reserve held rates, lifting Asian stocks such as the Nikkei ahead of the BOJ meeting.",
+        "via": "US rate path",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Asian Markets Today: Kospi Jumps 1.5%, Nikkei Rises Ahead Of BOJ Meeting After Fed Holds Rates",
+            "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdUg3R0hsaU11dnc3OGxsbjJJYmZfbk5QUWlaanJpQ1BrQXFYWDcyZXp4SWFhNGpMamxlT3VuZXctUlRSd0xBZXNwUkdjdk82MXVvWXpJRXltMTYyV0JGTlY1Ry1DVVQ2cGR5dEJFbVdLZXVZZVlqNnFqMVI0ZGJQbmVuRDlQeEJSOTNpN1lhTkRsdGZLQmJFek5QMDlUTEVQNkNkTkY1bEJKNDdzWGJjVTBvejRjcjRsWUptQVNOY1lRM3JxWFIwQTgxV3h0OEl2R1IwV0VPZ0ZQdVpZbWF0TjRjRjZzeENraW9vV1d2Tmp3RVpNUVdiNkt1S2hnU2dE0gGIAkFVX3lxTE10ZjBtbzNWSXJjZzJPYlNrOE9oQmV5NnNjeGVFa2NGNkNyWlFxaDUzZ0RKU1psczRtU2d2a1lwUnREdXZEQ0s0MjEyNnV5LXFxcTd5RGRSck9YRTROYnBFc3FtQ2F6YTB4YmRSZ3NYMkdESVBHbWVvcDNkRXlpaktiTEdnTGk4dG1nSkVyMGFFQ093M1gwLTUydmhIdU8ydjRSN24wOHB1OThTQ3BOUnBDRG1OV0NDUW5kSzR5VDBvRmozQ2RYQUpqSDVsMFFORFdYOFhGX0NiWFJkdGhHblpMem45d1hpYkRmeDFDakJkRTRtOHBUbDkzOHRxNlVFZXJ5NUFXZDlERA?oc=5",
+            "publisher": "NDTV Profit"
+          },
+          {
+            "title": "Tokyo FX: Yen Little Changed in Upper 157 Range as BOJ Meeting, US Rate Hike Expectations Pull in Opposite Directions",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pUjhFRzUtc190TGYxSjNuV0otNVVfQV9LckZvdGxleWpNMFlWUU1wMnpTM1lKRzRtZllXQjVQbFV5QWV2ZGxfdGlVM1owcE5BcERWVmh2bmVuZ0pidFh6a3Y0SkZBaWY5NXdUTWV2XzdIVU5WNWc?oc=5",
+            "publisher": "BigGo Finance"
+          }
+        ]
+      },
+      {
+        "id": "fiscal-backdrop-clouds-yen-outlook",
+        "title": "Fiscal backdrop clouds yen outlook",
         "when": "2026-10-28",
         "place": "Tokyo",
         "lat": 35.68,
         "lon": 139.69,
-        "what": "Rabobank discusses the yen's safe haven status and Japan's fiscal backdrop as factors in the currency's outlook ahead of the BoJ decision.",
+        "what": "Rabobank points to Japan's fiscal backdrop and the debate over the yen's safe haven status as factors shaping the currency.",
         "via": "fiscal worries on yen",
         "aspect": "budget",
         "flow": "into",
@@ -2313,97 +2318,98 @@
     ]
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "ethiopia-receives-russian-su-35-fighter-jets",
-        "title": "Ethiopia receives Russian Su-35 fighter jets",
+        "id": "ethiopia-receives-12-russian-su-35-jets",
+        "title": "Ethiopia receives 12 Russian Su-35 jets",
         "when": "2026-10-28",
-        "place": "Ethiopia",
+        "place": "Addis Ababa",
         "lat": 9.03,
         "lon": 38.74,
-        "what": "Ethiopia says it took delivery of 12 Russian Su-35 jets ahead of schedule, with S-400 air defence systems to follow, as tensions with Eritrea rise.",
-        "via": "military buildup, rising war risk",
+        "what": "Ethiopia says it has received 12 Russian Su-35 fighter jets, with S-400 air defence systems to follow, amid rising tensions with Eritrea.",
+        "via": "stronger Ethiopian air power",
         "aspect": "security",
         "flow": "into",
         "sources": [
+          {
+            "title": "Ethiopia receives Russian fighter jets, S-400 systems to follow",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHJrYUlCb2REZ2NMZXBvVzBwTmtmWThrY0dtb29XaGxQeGU4YkN6XzVJTlQ1UnVtSzljU1BXdlhXOURWbEdLMklXQmMtM1FacTRvNzMzbnVfRWpvSXRrZnptWlZHdlhfTklrUzBDaFl4NGJWLWhqUDFwS0UtcVpFTkZoRVhFRFBfR0lDV1AyQnU0aU83WGtXUHVJejgtRnZjYzRjanFDdGhxVUYtcV95eg?oc=5",
+            "publisher": "Somalia Today"
+          },
+          {
+            "title": "Why Ethiopia Is Now Flying Russian Fighter Jets",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGI3Q1JBdnk3YjlpOTlRT2dZTFJQcXlxUTctN2FWQzN2dW1LcWdNS012MUVtS0tlY0k0bU82S0NWVGZFU2dWeDQ4UmRMZ0Jra1NlZkozOEY0VDFPNXRwbzJOOFp1cG8xVDRhSlhJVkJuaXdmMXA0cTdKcnVuMHhNVlFCVnhNMnd5SHVqZkVsWTc0VXJPeXZFUA?oc=5",
+            "publisher": "The National Interest"
+          },
+          {
+            "title": "Ethiopia receives 12 Russian Su-35 fighter jets, plans to acquire S-400 air defenses",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlZHazFweFVQUHE4OXVYaUdRRGFsRVgxVFBZekNzaDM4RUU5Wk5iSmU2UkkwaVczY1p2Q3N4WXJzc09fVmtIb3JqRzJRaERMMF9wVTZUeHZFT2ZsaVpaYVA4U2Z0SVlfazVyU2ZlQnhUaVpOcDZjTE5sUnMwYVgzNW0yYmlXTzVKY0JuMldTQjhKY0phQTFoMnN1MGc2UFVRUlJWak5LYzdOdkJPREtOX05TaDlhaUZtRG9N?oc=5",
+            "publisher": "Anadolu Ajansı"
+          },
+          {
+            "title": "Ethiopia acquires 12 advanced fighter jets and S-400 air defence systems from Russia",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ1U1LXU4cGJqNHZZTFp2enFQaklWY3FaRThud3RQYlVGZ3pCUjcxYU1zUEpZajQxeUlYUjdNeEswc1l2Z3dfU19uTFlmOXdhSnZNbGctcXBmcjlPMTItT09LcUV6VURQWm9iT0d3MUJvNVkxMEw0d2dvUTByZzFteDB3TXJUNDhoRE9fRm4teVVoMnJ5T0UybXFqRXZkeDdfaUZZcm5uX3h0dmJ1N2l6ZUpYUURxUXFlTk1GN0JqZ2JLbW54V2RJanBMVy1TcEg5?oc=5",
+            "publisher": "The Eastleigh Voice"
+          },
+          {
+            "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkJoSDBtejRNazdrenF0cS1BU05CT1hodFExUW1FTHp4LVR4RG96QlVxRURvSlAwVVlPTkVUMTJHTDdBU1A0STVlLXc0NHRleWZfOWpEYmx2aFFuWV9aeldFWEVDSnRma1JjQ3pzMVptcC1WSEJZVVRWUmNXMEp6cUhNS1BKaW1aUS1iQmlBYTdHb3N2S1h2emRKaDlMdnppSjFFNTJTUkk?oc=5",
+            "publisher": "Al Jazeera"
+          },
           {
             "title": "Ethiopia says it received Russian Su-35 jets, S-400 air defence systems to follow",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFFKVlhvVHNVYnBybVFJNEZPNEZ4Y2hRTjJac0NVMkxLb2tBbTVYOGVkblBNOWRHck4xSnV2WGpGV3lzTm5fckZNaldFSVltUERCQ3lIUFo3aDc5MVZkVzdRSklkcXFQbGR5OGlOTjBjaWNISnlFaVlyb3MzbFY5VGJiS2FBbENTdTVCYzlaX0JoTjRoYksyczJwQWdHX1NtcGliQ1pZejZoMEh4bjJsZ2JHdm8?oc=5",
             "publisher": "Reuters"
           },
           {
-            "title": "Ethiopia takes delivery of 12 Su-35 Russian fighter jets ahead of schedule as regional tensions rise",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1RIcTJMWm9tYnNVZHVxZ2dFQm1kVERNX1E3SXZ0eEVsdU5MZDJKOWRCNG8xamJQQ241M0dRLWV2OGtKcFM5Ylp4Vkg4WDM0RlptYkt4dGNUZVlheGIxaGNSSHZNWmZHMmZkaWpJOXFRZlJBSkEwTVQzRVJPVW56bFNzZi1CeE1WZXNxek55a21fLW5qOGF1Si14RWhWX2VGVWlxTEh0eFFVelh2WnI0Qkt4Rkttc3J0TG9CZk01MUJ0TE4waV9yYmlnUmdSVjQ?oc=5",
-            "publisher": "Business Insider Africa"
-          },
-          {
             "title": "Ethiopia Says It Acquired 12 Russian Fighter Jets Amid Rising Tensions With Eritrea",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNEZuMHRYTDZYMm9wZzJ1SUU1Um5XNGViMFpScUp2UFNWZlZxM0p0U21EdkJERU9nS3NFOXJBejNiTFlJVHp3T2VxNDNfa1VyLUk5NVJmS3hZNGo3TzdtZFZ3V0VUNG0zY3l1d0NFTHR6ekt5cHJIR0RTOHBHdVNwNEdYaWZMV05jRXlaQ2t4UEZaZFNLWEFSNGswamRVQzhoZFBOYlRnZTBrajFsbEJhUFBsTnBhTDRQM3FrUkRLU2VIUmtTYVBR?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSGdTekp1M0JaSDdmd3lwUDdkWGdqeU8xTXZ5UV9JQmw3ZW5MYjI3c0NaY1gzRHBEdkt1bXZpOGgxS0tMV1daUkxSWEI0MTh4Q0VXMDM1S1dFb2Fyel9pTnFhbjBPTjh1aFBld19reGF3Y3JmR0VNTGFvZWYxeTlRNThTMmtYbXNudUNWV1BqU3Jid3JOWS1YYnFRd3Y2Z2ZuanBwZkNrMXVtRGNyeGZsRkpLT2tBUVNOMFF1YlpyX1I2dw?oc=5",
             "publisher": "Garowe Online"
           },
           {
-            "title": "Ethiopia Buys 12 Russian Su-35 Fighter Jets, Orders S-400 Air Defence Batteries Amid Eritrea Tensions",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc2dVc3ZnWVpWOWpXNmlHbU05Tk9JbV82bUliUThrbnpjeDZyQWtRY1dTMHpqeDJoUGNzNWlqRnV1bF9zNEFmYU9TMWVIRWhXYzE3bWZFVlg0enM5YWRCSGZEM0hzZlhReTFTanl4X0h6bHNRYVFEQURQQy14SVFMbDl3b0ZmUmF1cGpCUGpMWWpGS1Y3cmZuaHlnX1hnc3M4WjVFR2tMSWprSjZfR3IzbDFHM2d3Z0Zjb0pHamZ5RjlBMjNM?oc=5",
-            "publisher": "ChimpReports"
+            "title": "Ethiopia receives 12 Russian Su-35 jets to boost defence",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXV4ZjlzZXc0Rk41X0VreGsxYUJhWktFT2tSRkNaVU84OWtmRGtBalo1SE9DdHBEX0NGeHNobm1CRnhOX2JGMklIN0xiNWI0T0V3UHJHM2tRQ3VLNGw3NWwyMWpIWWI2UFNPdFh1TDM4Y2x0U2pKMkZXYWpQTDZ3V2h2UjNzZkpCaTc2ekpYdllVdS1fT2lJOVFoTVRUZ2oxaVpJNWhCR0pQMjZq?oc=5",
+            "publisher": "TimesLIVE"
           }
         ]
       },
       {
-        "id": "influencers-push-for-invasion-of-eritrea",
-        "title": "Influencers push for invasion of Eritrea",
+        "id": "influencers-urge-ethiopia-to-invade-eritrea",
+        "title": "Influencers urge Ethiopia to invade Eritrea",
         "when": "2026-10-28",
         "place": "Ethiopia",
         "lat": 9.03,
         "lon": 38.74,
-        "what": "Ethiopian online influencers are pushing a 'now or never' campaign for an invasion of Eritrea.",
-        "via": "nationalist pressure on government",
+        "what": "Influencers are urging Ethiopia to begin an invasion of Eritrea, adding public pressure for escalation.",
+        "via": "nationalist pressure for war",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "'Now or Never': Ethiopia influencers push for Eritrea invasion",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1U4NzBvZHFNd2FVUF9pZFZOWUh0RV9ZUm9mSkhpYi0tNHJNR0ZZZXRsTkw5X3dTXzVjcnhjMl9sVG9uQlAwc2RKNEtyODA1djFKa3dqbjU3cUZnMTZCVmhZd0FfQzZMYVJmTGFfR210b19GdXp0UVpKdzh2SHFmNW5jdS0wLTloWXE1UE1CNEs3X3V6Uzc00gGXAUFVX3lxTE1XVTg3MG9kcU13YVVQX2lkVk5ZSHRFX1lSb2ZKSGliLS00ck1HRllldGxOTDlfd1NfNWNyeGMyX2xUb25CUDBzZEo0S3I4MDV2MUprd2puNTdxRmcxNkJWaFl3QV9DNkxhUmZMYV9HbXRvX0Z1enRRWkp3OHZIcWY1bmN1LTAtOWhZcTVQTUI0SzdfdXpTNzQ?oc=5",
-            "publisher": "Modern Ghana"
+            "title": "Influencers urge Ethiopia to begin Eritrea invasion",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XekhGMjFheDZ2NnJJQUduOE40bVpjUVJCZUd2N2lkNEJUd25PWW1xcDlLSnVaLUNMeWdyRUpRZG1OUy1wS0tNWUQ5LTRjTERjdy1CZGVrTVZla1AtU05RQ213M3B1YWZVUFlRWnBWOXlpejcwN1hHUw?oc=5",
+            "publisher": "Taipei Times"
           }
         ]
       },
       {
-        "id": "senior-tigray-commander-captured-near-eritrean-border",
-        "title": "Senior Tigray commander captured near Eritrean border",
-        "when": "2026-10-27",
-        "place": "Tigray, near Eritrean border",
-        "lat": 14.28,
-        "lon": 39.46,
-        "what": "Major General Yohannes, a senior Tigray military commander, was reported captured near the Eritrean border.",
-        "via": "battlefield gains near border",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Senior Tigray Military Commander Major General Yohannes Captured Near Eritrean Border",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0pRREk2Y0Y3bmlsUDdDaGtBNTZzOWZrN25lcDlFMkRUajViVWtTa3hwN18wX3htS0VRYlg3MlhUMV9UYjMzWmJqdURsVDlqeXZLU3dxNkdMeFhIVHg5QlQ0NXBjdklWU0NKN1JUS1dGUGwweUk1REFCWEJhdC0tVTh6REVVR2hya2dsMVRDdmd2Tnk2WFhHWVBuXzdseUJTRUFiQ2lJODR2WmU3bFpwY19ydzFMdw?oc=5",
-            "publisher": "Borkena"
-          }
-        ]
-      },
-      {
-        "id": "drone-strikes-kill-civilians-in-medebay-terer",
-        "title": "Drone strikes kill civilians in Medebay Terer",
+        "id": "drone-strikes-kill-civilians-fleeing-in-tigray",
+        "title": "Drone strikes kill civilians fleeing in Tigray",
         "when": "2026-10-28",
-        "place": "Medebay Terer, Tigray",
-        "lat": 14,
-        "lon": 38.6,
-        "what": "Drone strikes in Tigray's Medebay Terer killed a couple fleeing a clinic and a father with his four children.",
-        "via": "escalating strikes in Tigray",
-        "aspect": "security",
+        "place": "Tigray",
+        "lat": 13.5,
+        "lon": 39.5,
+        "what": "Drone strikes in Tigray killed a couple fleeing a clinic and a father with his four children, adding to the civilian toll of the fighting.",
+        "via": "civilian toll and aid need",
+        "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Ethiopia: Drone Strikes Kill Couple Fleeing Clinic, Father With Four Children, in Tigray's Medebay Terer",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55bGFBc2lFR0FNSE81S04zNTRRbjhWbF9KN0pPcExZTGpCRk1TTU4xWExBMTQxa3BNRUlvQzJGWVlYSGM2TlFUazJhWG16NmNHVlk4UVQ3dUJGQUk?oc=5",
-            "publisher": "allAfrica.com"
+            "title": "Drone strikes kill couple fleeing clinic, father with four children, in Tigray",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUxQdWJJX1U2V2wxYy05dVUtdTdFU2pNaHVUMUNqRWs3TVVwZlpRdUxsTGtQOTdMR3NlN0JDT1RYYldpbU15VGk0Q25scTl2MWtmSmtFb2VHeUtBNEZmV0V1RDdyRnVFVWNXQTAwUkg5SkdEMmlsTmxqbXhRWHg4ZUxBNW56UUNucnJscW1EbVhmRXo5TmRNMzRfWXVaa3U1V1N1dl9QWGpyUlJTOHZ6T2dhdm02SGloV1VlUEIwN1hCX3pLaVE?oc=5",
+            "publisher": "The Eastleigh Voice"
           }
         ]
       }
@@ -2596,121 +2602,9 @@
     ]
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
-    "items": [
-      {
-        "id": "kim-orders-army-commanders-to-finish-war-preparations",
-        "title": "Kim orders army commanders to finish war preparations",
-        "when": "2026-10-27",
-        "place": "North Korea",
-        "lat": 39.02,
-        "lon": 125.75,
-        "what": "Kim Jong Un told army company commanders at a photo session that their top mission is completing war preparations and being fully ready for war.",
-        "via": "order for combat readiness",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "\"Fully ready\": Kim Jong Un orders army commanders to prepare for war",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzlVYjFTLUV3bHc2UEJtRzctN3d4TmpnSUpubXdhelJtU184cUFSTTNsbHZkVTNRb2dVUkFOeDFfWk5kYzBQTzNqdG5zQS00bVlhY0Q4RVlELWxkNGlLTGx4V296WFJnenBTQzIzTFJXMzN6ZnBNYjByY3JLWmtrQ21PYnBRaW1OckUzX2dlWldROW5FWnZxQkpiamxqVDFIWXhiYk9rMGRkaHR3SE9mSlRwa3AwZw?oc=5",
-            "publisher": "Tuko News"
-          },
-          {
-            "title": "Kim Jong Un Urges North Korean Army to Prepare for War Amid Rising Tensions",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUzNpWm1ERG1xZDZNYXhlS3BDR2V2cXhvYndPQkRDcWlYNzdmaFlReWhnNm1ObmhoNVV3elRyTFZHT2QxVUY0TE9vSnQ4NXdSVkZMMV9pYmk3R1R0VF85ZWhmOFhmbFRzY2NQbm1iNmNPVkFvTG5TNXNzRFloSGY3eDJhdWVUS3pLdWZYeEptcEhoT09qWk1NUVNFU2VZYzFjUi0w?oc=5",
-            "publisher": "https://newsalert.com.pk/"
-          },
-          {
-            "title": "Kim Jong Un orders North Korean troops to step up drills and prepare for war",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVBsMmp6N0xqdTg1X0pSdkJ1LUotY1ZYSkIxVy1ORXNJQXMzb1A2RGpMZGo0WXJmX2liZHRnZjBTekttRndNMnIyT0FnV2ZVOHRvUmUtOHNVMlB4N2cwVDg2SFdZTXhYeU5rUV83UmhTZG8tZ0RKTXhENUE0V0JQTmVzMW11RnpDRm90WTd2ME1NR1E?oc=5",
-            "publisher": "RBC-Ukraine"
-          },
-          {
-            "title": "‘Getting fully ready for war’: North Korea’s Kim calls for combat readiness by army",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaElZbWVJOTdPckJEQTBRZG9ZaXF6UHk3dHNrbWNBUzJSdmlaRzlBbUtubEx0TTVROWw3S0hPdVJZY09rdWtNcmZTS0tNQmU3aUNXdHlxYWdPOXBOY1gtb1AzM1pQNTBUcmlueHBRcmg2WDBZX2F1NWdiWk5IdjI4UzlORU00MGM0YWN6UFQzd1o5RFdlRC11V19sbThDU0ZZM0xDckZHYVhod01ZVjVnNVNUc2pMVml4MmhtWnZwN0NsVFVsM1E?oc=5",
-            "publisher": "Anadolu Ajansı"
-          },
-          {
-            "title": "North's Kim calls for combat readiness at photo session with army company leaders",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRExNbWJkZ3psTUJVeGliMlVOOUJMQXZUOXlkZjEzWF9GVUJPSEszbzhGUlF4bjFTdTAtZGJHLTZnak93ZVN0aXNrbDc5VmREbmFPOFZhaldYSGcxVlNfRXg2X1FLNkFId0dpZ0lKZFU1WkUzbHBMTWRTN1pfN2VRZDlXVE1KQl9SSXVYczNqRTNGZGQ5dDBsRWk1YkxHdWpMc0hSb3dEM2FQREVpRTB6LURDU0hKR2dQZHV4aGY2UENkeEZjMDJ5WXFB?oc=5",
-            "publisher": "Korea JoongAng Daily"
-          },
-          {
-            "title": "N. Korea's Kim Jong Un Takes Commemorative Photo with Company Commanders: \"Top Mission Is Completing War Preparations\"",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzZV9fa3otY0NtQWhjd2J0WlFERERXRzN6dkcyVUFZUkNEWkpZZzlwblVrU3ltWXBJLVJmQnlzMzB2ek9EUW93aW1rY1Z3Y05VeVFvQlphMTBqWkUzN2VfYkdGa2Z6QnNIZHpqaTBB?oc=5",
-            "publisher": "news.sbs.co.kr"
-          }
-        ]
-      },
-      {
-        "id": "forces-and-mines-build-up-along-the-southern-border",
-        "title": "Forces and mines build up along the southern border",
-        "when": "2026-10-28",
-        "place": "Inter-Korean border",
-        "lat": 38.3,
-        "lon": 127,
-        "what": "North Korea is massing forces above the line with South Korea, with howitzers and mines, while staging a record number of missile tests.",
-        "via": "frontline military buildup",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "North Korea Builds Up Forces Above the Line With South Korea While Staging Record Number of Missile Tests",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSlAwMlR2aHcxRi1FRHRqcUNKbkRjRWFFbFVMRTltYkowbTBVbllkVk8wMDVhcUJwUkZ2Mk9qNTY4S0VoT0dEbkJjVXdvYmdKUjNNc0lXbEVVaXFNTVNxTHhHTXpxcW0wWVJCeFZqSXZyay1LNXY0cllsVWY2bXE1dUVxa29ma01xZk9iMXN0blpVVjdya1lDajY4ek55YnRNQUZzUXJpU0szWUFMU3pfU2tWMWdwdE00MXhNaW5QdjdfbGltdUZ3MWwyaU1hTFRN?oc=5",
-            "publisher": "The New York Sun"
-          },
-          {
-            "title": "Is Kim Jong Un Preparing A South Korea Invasion? North Korea’s Howitzers, Mines Raise War Fears",
-            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbkE2RUJPX2hmNWdzOWJtMVhWdlJHaVNJbHlSdDBRaGh1aUVWVERuZ0NuMUh0cTdVMndoZGhONEtxQ2JtN3FTNWpueWJNMkc4YUxUUExJRWRONWNvR0RTUU5McG1Dc0JDcWxzaXpTMlpkVWtSNV9hMlB4UV9vTzNyQzJLZUpoa1pGd2RqMkx6MGFoUkl2MVlGTE1pOFlHdm5VU3IxVU0yZ3o2SVotV0FuSDZpUEs5Uy13eDIzUzRSaWJSdE54MTg1TExaYUo0YzlSZlJYcDZwQ0FDckVpbDdkdmdxbl9pRVdoX0FDU0Y1OFhYbGlELVRDODI0UnpseG_SAYQCQVVfeXFMTzNzc01ZOXJDOXpIblJ6aUdsdk5rTUlIbUJFSG9YdVkzN3ZpWU5fYUg0R296SUhCLVhUZVk3UTFHeElERXpwdmJQaTluNzZLVmNIOVpPZzFQTElKZENIcG0yWGdsOHBQd29uX2VQakN4UDdwWXpFX3VOT3JqU0h6cWUyaGVINE5yZldpNlgzNlBEejItSE1Cd21McVRoZWtfaGp0OG1RV0Qxd1RrMy0zZWwxQnpISmhOT09iOFM4eXd1dnRtQzZ1a05EMk91YlR3TzVlaUtwMXNEX0N6UHdVcGJSenRvLXJkaS1Bb09DdzRid2NrYmdjZXJXYkZseTNHS3U4VWo?oc=5",
-            "publisher": "The Times of India"
-          }
-        ]
-      },
-      {
-        "id": "kim-visits-chinese-border-city-of-dandong",
-        "title": "Kim visits Chinese border city of Dandong",
-        "when": "2026-10-28",
-        "place": "Dandong, China",
-        "lat": 40.12,
-        "lon": 124.38,
-        "what": "Kim Jong Un inspected a bus factory in Dandong, and analysts read the China trip as Russia backing security and China backing the economy.",
-        "via": "Chinese economic backing",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "North Korean leader Kim Jong Un inspects bus factory in Dandong — South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMk83b2dJbGozcl9JNWhNeVZRTkxOM2Z3OURRb1c2SzFDN2lsc2JnQTU2Nm5EcVBKam5DLVJrak56aWRoUERBVDl1d0pHVlRfcmpNLW51NWI5aG11LXNJejJCdTNRV1JocEIyMjY5c3RHSTJEUUZYVjNIY2hvWC12Qzh6OWRta2FlbGgweHZKTjU1dXRQSndhREV6eF9XX1BkYTNMdEhURmRvZ3VaYnRoeDlCajBUQWs?oc=5",
-            "publisher": "UA.NEWS"
-          },
-          {
-            "title": "What Kim Jong Un’s ‘three noes’ China visit reveals: Russia for security, China for economy",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ1NvNThhLXBDLUUybTlhTzFVQVVEM2VvVkRFZDZBYmYwRkZXQXhacDZDcTVGTk1UdnYxT1NYVVZzZ0d1eVQycEVNRWhaNHFGSXI1bklxaUE0dG9VVEVtMnF6LXppbW1jZ3liLWdNV2hNVS1HQ0dqQVFjRDlvNUZZSWRxNjM4Wkx4Z08xOU9Qbjc3Rzh3azY1S1pTdVRBU1dVS0ZOUnJVQjc3Q0xjeC1UaVZQMFlZdl9EYlE?oc=5",
-            "publisher": "联合早报"
-          }
-        ]
-      },
-      {
-        "id": "kim-yo-jong-threatens-japan-with-missiles",
-        "title": "Kim Yo Jong threatens Japan with missiles",
-        "when": "2026-10-28",
-        "place": "Pyongyang",
-        "lat": 39.02,
-        "lon": 125.75,
-        "what": "Kim Yo Jong threatened Japan with missiles on behalf of Kim Jong Un.",
-        "via": "escalating missile rhetoric",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Kim Yo Jong threatens Japan with missiles on Kim Jong Un’s behalf",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVVBcWt6enBVdUxKR0U5X2Z5bmNBSzJJRzZtRDhCZXVNOFd2eGk5NFhmaHYzSjlValloS055YldlUGpvZXZKUDJseUpLSUNIY3BkdlBTVnRadHpUb3JvQ2lGSEFRMlZoeVczX25DMVdkT0JmQ3BHLUZ1M09YSVZraVFvR3pWNkcycFllWkhzVElFWHNVNUJCTmM2dw?oc=5",
-            "publisher": "TodayPress.tv"
-          }
-        ]
-      }
-    ]
+    "items": []
   },
   "brazil-runoff-2026": {
     "at": "2026-10-29T05:08:08.599Z",
@@ -2889,126 +2783,97 @@
     ]
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "54-chinese-ships-tracked-in-west-philippine-sea",
-        "title": "54 Chinese ships tracked in West Philippine Sea",
+        "id": "us-pledges-more-military-funding-for-manila",
+        "title": "US pledges more military funding for Manila",
         "when": "2026-10-28",
-        "place": "West Philippine Sea",
-        "lat": 11.5,
-        "lon": 116,
-        "what": "AFP reports 54 Chinese vessels were monitored in the West Philippine Sea within about a week, a heavy Chinese presence in contested waters.",
-        "via": "heavier Chinese ship presence",
+        "place": "Manila, Philippines",
+        "lat": 14.6,
+        "lon": 120.98,
+        "what": "US Defense Secretary Hegseth announced increased military funding for the Philippines and a stronger defense framework, though the details were not given.",
+        "via": "US backing for Manila",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Hegseth announces increased military funding for the Philippines — South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUluS2tiRXAwM010UWp6VHdKa0oxRTdTWHVxZEJsR05jX05DY0p2RC1MV0tJQS1IdVBDMENHWmQ3WENxNDRLZDJKSTVwR1huaWUtQU9vbW1MVTg0VWlOcXk4U1hmY2lJSWZIZW1wby0ya0x2aU1iLVNmdmVXekJxSmE2bWxBSVF0RmJWQVJLWU5XWWdqeUg2TFRjYllkWXF5T2lXUHRhajRUbjlNMVMyU0ZOUU9iRkViV3BaSDNHUjQ?oc=5",
+            "publisher": "UA.NEWS"
+          },
+          {
+            "title": "Hegseth pledges stronger military framework with Philippines, but lacks details",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbG5fajlKc0Juc2IyQ2JiWmlwaU5BWmNjakFHeW9ZVmtvSW8tdFBteEhXcHpOdy1HNkwxREVhTTJYTXdGelFoMV9MNEdTOUFydk56MHpTT1AzX1E5Ynl1cVJCa2xGQ01xSm5LY3p4QmFQN2VHVHFMTzZ3ck9Td2t1cnMzLTd2dWlBLUdsSWs2cTJjQUFfNTRYVmU3czZxN0dONHFyekZkcjBkM2RNQlVFNTJnandBdkxaMHdGektOSV9jZ9IBwgFBVV95cUxPbG5fajlKc0Juc2IyQ2JiWmlwaU5BWmNjakFHeW9ZVmtvSW8tdFBteEhXcHpOdy1HNkwxREVhTTJYTXdGelFoMV9MNEdTOUFydk56MHpTT1AzX1E5Ynl1cVJCa2xGQ01xSm5LY3p4QmFQN2VHVHFMTzZ3ck9Td2t1cnMzLTd2dWlBLUdsSWs2cTJjQUFfNTRYVmU3czZxN0dONHFyekZkcjBkM2RNQlVFNTJnandBdkxaMHdGektOSV9jZw?oc=5",
+            "publisher": "South China Morning Post"
+          }
+        ]
+      },
+      {
+        "id": "us-marine-drones-operate-from-palawan-airfield",
+        "title": "US Marine drones operate from Palawan airfield",
+        "when": "2026-10-28",
+        "place": "Palawan, Philippines",
+        "lat": 9.74,
+        "lon": 118.73,
+        "what": "A US Marine drone detachment is operating from an airfield in Palawan, adding surveillance capacity close to the contested Spratly waters.",
+        "via": "expanded US presence near Spratlys",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "54 barko ng China, nasaripatpatan idiay WPS iti uneg laeng ti maka domingo –AFP",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDJPZ01KWmpuanF5Y3ZQbks3ZkMtTHkycG1ZME1KVDVzTHRhbTNZa0ZpN3gteDFLUkM0MWdmZ1RVVzF0N1JmQW9Rc3lDV2xUQy1hS0xHZEticVlpYzBJTFF3Ynp5bm1zTkFBUDFYWGl3VjhlRU9HMFZXalpJand4ZXFiR1kzaVA5aU1WV1k0bmlRVGJyQm1xalluT094ZFR0SER0U2pQbG90VFk?oc=5",
-            "publisher": "Bombo Radyo Vigan"
+            "title": "U.S. Marine Drone Detachment in the Philippines Operating from Palawan Airfield",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3ptYWROZGNxNjg3aWtvQXMwdnZtZE5VRWxobUEyQmgwVG9fT3hLOGVzS0d4TUpxajN3MHEzdDU4bl90SnlFdVotTHVxXzNXdUlDQ0dDenZtUW5XcXR0LUpDbGdoeklqanFod2RyTldtSFRZbEhKUXN1dGQ4NFdwbTFjVjZaOWotekpDdERQbEFKeThDYkNBWi1BQWMtZUlFSURTYzhXaFRYUWpDZW9UcQ?oc=5",
+            "publisher": "USNI News"
           }
         ]
       },
       {
-        "id": "chinese-ships-near-scarborough-fishermen-fuel-distribution",
-        "title": "Chinese ships near Scarborough fishermen fuel distribution",
-        "when": "2026-10-28",
-        "place": "Scarborough Shoal",
-        "lat": 15.15,
-        "lon": 117.76,
-        "what": "The Philippine Coast Guard says Chinese ships were seen near a fuel distribution to Filipino fishermen at Scarborough Shoal.",
-        "via": "pressure on fishing grounds",
-        "aspect": "food",
+        "id": "taiwan-flags-53-chinese-vessels-nearby",
+        "title": "Taiwan flags 53 Chinese vessels nearby",
+        "when": "2026-10-29",
+        "place": "Taiwan",
+        "lat": 23.7,
+        "lon": 121,
+        "what": "Taiwan called the presence of 53 Chinese vessels sweeping a wide area of waters an obvious threat.",
+        "via": "wider Chinese naval presence",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Chinese ships seen near PH fuel distribution to fishermen at Scarborough Shoal — PCG",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR3lWRFRrQ0VYc3RHdHBHem5hQnVIS3NvTTBLOE5tQVdkUHR0ckNqQ1pLTFMtV2FyaWcza0RHbnNXSXBHSXdQQ1VVYXlORzgzTk4tQ3h4RmlKV3NmaEhfSzVVVDl4UDhYTWNTYVJNMFd0MTNqaXBrZExaQzZkNkdma2tYX2hPWEhPQi14LWdBNWFyb09Ia0xYTEl2WHh0RExCWFNJajhTMDRXZ2UtZnd5S2hWdWtjV3IyaHdHVllMbjJIbklNcWE5Qll30gHQAUFVX3lxTE9aY1pvRlVTazlrNUZhLVVWWDNURHhQUFI0bVNJQm9qSENaOHY5UXdTUmJYQi1qMjRxY2dqTkdTa09tX1I0LVFYU09vZHFab3VpX0xiTllUcDZIdnowRE5fNktZV2FZZVRoem1lNGpXVFZOU3ZrbTR3QlNFcldjTkd1T1p5bmFRN1pzYlNWUlhaMFVSWW5HQ1R1R29RSkZVM0JQU2dnb24wa1UybGU0QUVxODE5MzlFajdRNS0zOFM0ZE5GVG45bzlFLWVTc0ExQlQ?oc=5",
-            "publisher": "Philstar.com"
+            "title": "Taiwan flags ‘obvious’ threat from 53 Chinese vessels in wide sweep of waters",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVW1tQkYwRWlDeWRtbmtIRS1lOE5UaG92WDR3SFEyV1I4VWV0dG1FWnZKLXJIaGh3VmNKUnJWVjFVaTJzblN3eWVHSk91MUJfN0d2SWMxNkRnbG1NYzUwNEhSSmplYUxVN0pLSlMtYzFwRzgtY08zY0tGbXJkTGUwLVFBNEtJeURNZnVvLXJ0Wk1SNS1pbXVYUERwQzJnd01sLTZhdXRFa3R1eGJEanczeUdRa2xnWWViOHR6QUVsOWN6OVVUc3hleTlDdzhrSnJh?oc=5",
+            "publisher": "Free Malaysia Today"
           }
         ]
       },
       {
-        "id": "china-downgrades-envoy-to-asean-defence-meeting",
-        "title": "China downgrades envoy to ASEAN defence meeting",
+        "id": "manila-sets-its-line-before-asean-meetings",
+        "title": "Manila sets its line before ASEAN meetings",
         "when": "2026-10-28",
-        "place": "Cebu",
-        "lat": 10.32,
-        "lon": 123.89,
-        "what": "After the sea row, China sent a lower-level envoy to the ASEAN defence meeting in Cebu, and no Chinese minister attended the ADMM-Plus.",
-        "via": "diplomatic freeze with Beijing",
+        "place": "Manila, Philippines",
+        "lat": 14.6,
+        "lon": 120.98,
+        "what": "Defense chief Teodoro will raise the South China Sea at ASEAN meetings, while lawmakers urge readiness for any eventuality and warn China may pose as a good-faith negotiator.",
+        "via": "hardening Philippine diplomatic stance",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "India reviews defence ties with Quad partners at ADMM-Plus; China skips ministerial presence",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkNzZkdsNENEZElKUzhUUHkzenlOZzVpaEtpU1JQU1JiNWd3Slc5emNwZWhfVkFhYUd4VV9td0k5LWtvOHVHVUFRRFlhbWhEYm96TmNvYlFhbXVXN0dtTnRWSmxZT0xkQWZ5UUJUOVNOR0dYTWFNTjdUSVhQekZaOFVYdG5aSUhhS0pIQ1lVWXNqcGhkRHlEeHFMeExSaEVldUR6Y2NKVDNORDl0OW1xRkZlNkszZkdfZF92Nk9MdFBkZTRJNG4wZnRhMlp5UUQwNGZudUxQbzJCd9IB5wFBVV95cUxQamFGMnB5U0pSSmk2bHA1M21mX1FtajBmRF9tYzdpMFN3ZVRZQ0NWRG9UUUduSVZMamN3OUxyR3hRTUVodU1KWEM5QzZmeUZIRHFBQU5sUFdLTlRjYlJUUmV6d2FkSndBZjhrU2dQV1A0eWN3dU1VLW1iR2RqUFpvSU96TkJBalVtcHhFNVY5TkNxX2xxVmtiMzY2MVgwZTRHdnRGSDZRVGNneFZqSkp0LTRKRS1sV1NITWJfZGRKXzFBUGpEYWM3TFNOV1VhSWptUzB4Smh5VUZQeTZoVTBBS1FiVDRKRDA?oc=5",
-            "publisher": "The New Indian Express"
+            "title": "Teodoro to raise South China Sea and Thailand-Cambodia disputes in ASEAN meetings",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPampiY1JwUzAzMlFTMHdRM3lLNXZOVm5QdlJsY1RaTmxKUEMzUzdTX2pHdjZiUmh0aWE5RTlpOTI0UDgyZzBFM1V3RmVrd1VNT1VYMEtaMkhSanZoTzdqenpiTzZsUUZGSmZMRU1aWGpQc08zRnpNNHVLMnRWemluN1gwcWxRbURZalU3UlotU1d6bGZZUFlTcVlZQldmcW9TOVhld0lWNG9Bekk5Z2F3MmtfS3Ricm9wbzNWeE9aTE1XbW5hWW1wMVRINEdZUQ?oc=5",
+            "publisher": "ABS-CBN"
           },
           {
-            "title": "China downgrades envoy to Southeast Asian meeting after sea row",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS0tyNDVTaDY5ZHRJSHl3QXNTZGN0S3RNWi0xRmFFdTZZYzdYWFRvczBZNWVoamJPVUdSTnhHYlZPeG1kVjM5Z1ZESVJ5QS1Xck5BSUNkZlNhN2JRUmg4VHBQUEN4TGdFR0N3WEd0Zk41QkFBV3EyOXhVYVVyamFob1plV1NTWmZkQkhkQmJTZERkMUF2NTJCZ2pUdEk2STNRazJsbjlJX284VWM?oc=5",
-            "publisher": "The Malaysian Reserve"
+            "title": "Ridon: Philippines must be ready for 'any eventuality' at ASEAN Summit",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjlHaFRDZUhEcGxUclVKUTB0Q2hORWIxWjA4WTR5TTNncW9SaVI0LWZDdmRhVHJzVjN5TXptSnNoLThZTDBrSEdEV2hzRTZTZVgxUTN1RmxBZk9YSENpRjRIbVkxQXlHcGRrOGYxbjZhQW1ZSFZfMlR6aFpoVkk5aTQwRW5DYlBXYnQzcVAxNVZPSDZvT2xUemptaUM?oc=5",
+            "publisher": "Manila Bulletin"
           },
           {
-            "title": "China downgrades envoy to Asean meeting after sea row",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTWlXVzEtdzlLVDNoM01GRXRvUXFFeG5QQzBneXUyU0tnNGtQMXRVd2NTLXhaY2ZWM0lSSk04c3dSeTRsQkxvSkJEWGhqRHVjTlhUSEozU28yeGVVQlBvc0RHcEROd0JQZFVfMlVGWDdUN2oxT1BHR2RwTkFpVldRMDZ3ZmZEbHhBYVhYWWhyakpzQkt3VXlsQjA2c2Jobm0wWUlZZmI3bERaa082TlZ0Y1lIYVg5NDA?oc=5",
-            "publisher": "The Star"
-          },
-          {
-            "title": "China downgrades envoy to South-east Asian meeting after sea row",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3FRRUtVRWo4Zm9BdV9TZWxPbGJ0SmY0NldmSzk2UVBBMzM4VW50dUEzcEwxSjlFZ0E4OWJyS0MyTEZKdVN1aEkybTFLdkc5YVhuVFJGbmxwMnJTa1d2ZjlYV2ZLMkhJNmlmM19vTGhERDZMUUJzZUgwNFlmcnZ0WlA0c21WSktfeWVTRC11cGhEYnZ2QThhN0FDQlRmcVUycmtSVGxiMGh0bEV2ckg2dkl5eUl6ZVlkMVV3?oc=5",
-            "publisher": "The Straits Times"
-          }
-        ]
-      },
-      {
-        "id": "hegseth-pledges-us-commitment-to-southeast-asia",
-        "title": "Hegseth pledges US commitment to Southeast Asia",
-        "when": "2026-10-28",
-        "place": "Cebu",
-        "lat": 10.32,
-        "lon": 123.89,
-        "what": "US Defense Secretary Hegseth reaffirmed US commitment to Southeast Asia and pledged stronger defence ties with ASEAN amid China tensions.",
-        "via": "US backing for Manila",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Hegseth reaffirms US commitment to Southeast Asia as Iran war and China tensions test regional ties",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd2VLV1JVSWkzdDNvTVpkUzNpLU5kTHpVU1pfWkU2SG9sQjM4blgybDdEZ0RtdFJOMzNLZkQ1NjJYRXIwa3hHYnF2TXlpczdUaWVpZ3ZSUUN3ZS1wQnRybEVsaUt4TDFmY2hWX2JUZkxUbmZJRlZhcDE2MmhLYk9WWEFsQWJnX0NfVFNmaFFrQmtXd3FnejRSX1dBUm55U2x3d3YwcEVia1loWlZYR2oxN010a1l5cUJtTVJ5UGRkazVTb053TTRwdnBDajhYUW4xUGZ2NE9OWjBSYlBiTkHSAeMBQVVfeXFMUEJTa203OUlDQ2ZaOUg5Zmh1RjVsOFlJTGRXbFFjVXo1bDVCTi1FUExqYnkxTXkwYmUzRGJWYWc5RFFyNkxxUVlEMDdiYklUbzFXZTdMckVjZmNkTTc5amZSQjdPdU5BVzZVSGp4NDNacXpjczJnMll6cnh3Y3BVM3NzbjY4R1BHN0lfalRTSDBFUFMzbEdXN255aS1zMC1PQm15NDRFUU9mMW9BRVZ2ZlNVeEZoTzR5d1ZuT1A5SXktTkhhZldyZGlVYTdRYl9xMXBRTDJhQk5uOGpnZlppb0h6R3c?oc=5",
-            "publisher": "Firstpost"
-          },
-          {
-            "title": "Hegseth Pledges Stronger U.S.-ASEAN Defense Ties as China Tensions Persist",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS05PRzRDMEVYejhqQVo4dWFqYWNvLVJEdHNsb2xHMkZhWTg1U0Y5aXliVkZ5Mkc5MEFQc3pTOFFEaEJvOENCd1A1ODM2cGpZS0RKWndJZmxpOVZhUXhpYXk4SjFQdjZYYldMM2k0ZkYzSi1pMTRpU0t4Q3VXa2R0OXh5TGZLUDVBU2F6bjZB?oc=5",
-            "publisher": "The China-Global South Project"
-          },
-          {
-            "title": "Hegseth reassures South-east Asia of US commitment, pledges stronger defence ties",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1lrQ1djSVpKbDZMRUJIZHFDdlJZV2lCb21jeW1Hb1VnZ25nVV9hMDJaaE4xZS1obnpRZTNsX3VJV2dDVkI1MERVSUZLRTJodEhmYzF2cHJvc21UeTYwWGVxVDdCMHZ6YlYzOHoyNVJ5S0pJODI4Z1ZPLWRPQ19mNDZwRHFYdURwdUVmV2xlaGVWYUh2UVY4Vl8tVkJ3a241dHpIcUxRSTl4RVRYXzhOUGJRNFpteXFaVHY1Q2lqWQ?oc=5",
-            "publisher": "The Straits Times"
-          }
-        ]
-      },
-      {
-        "id": "philippines-and-japan-reject-force-to-change-status-quo",
-        "title": "Philippines and Japan reject force to change status quo",
-        "when": "2026-10-28",
-        "place": "Manila",
-        "lat": 14.6,
-        "lon": 120.98,
-        "what": "Philippine and Japanese defence chiefs said they oppose any use of force to change the status quo in the Indo-Pacific.",
-        "via": "allied stance against Beijing",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "PH, Japan defense chiefs nix use of force to change status quo in Indo-Pacific By Priam Nepomuceno MANILA – Ranking defense officials of the Philippines and Japan on Wednesday expressed their opposition to any attempts that would change the status qu",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMlZSLWkyc0JOeWNBQ2RUZkwyTFcySHVnWkpVYWNiOUtPblhnd21FeEpsSWZQejVtd29aTThOS3ktZlFYa0hBNVAwSWRTbFE4MnJFS09lR1p3QnBtMThJQmFSU2pQaXdyVWx3MkJvMURqVVEwY2dubldjSkhFUUZscTlKZUNMSXpoZDNPMWVnSURXU0FNcjZrNEpFWTNxek1ZR3hfMzJ1ZTlnakxxMWQzNVByT0FEWlVnQ1B5azdEVFM5MDdUUW5pSEwtZXNJYmY5TjVVSg?oc=5",
-            "publisher": "Facebook"
+            "title": "Doble kara: Ace Barbers warns China may pose as ‘good faith negotiator’ at ASEAN Summit",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVRDLUl2UmJkcndXWVJibmN1MUZua2ZndU9iRTdldXcwbjNMd3ZWMUVqVlo4X0QwMzRnUmtzMEpFaGFDNEI3d1JhWTJYT3NEWXAtOXVaVHRHbzM2LS14RGxmMThvd19tdEViZzJMRWJyQ3BZbFg0TjEyZFJBRFpkdGg0emlzUXN5YTdINGZ2emhaQTVqSlpSZF95UnJpcVZyMXFBQTFhcXUwOUQtTkE?oc=5",
+            "publisher": "Politiko.com.ph"
           }
         ]
       }
@@ -3083,83 +2948,102 @@
     ]
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-28T18:07:31.962Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "congo-outbreak-passes-10-000-cases",
-        "title": "Congo outbreak passes 10,000 cases",
+        "id": "congo-cases-pass-10-000-mostly-untraced",
+        "title": "Congo cases pass 10,000, mostly untraced",
         "when": "2026-10-28",
         "place": "DR Congo",
-        "lat": -2.9,
-        "lon": 23.7,
-        "what": "The outbreak in DR Congo has passed 10,000 cases, a record-scale source chain from which the Kenyan and Nigerian infections are drawn.",
-        "via": "larger source outbreak",
+        "lat": -2.5,
+        "lon": 23.5,
+        "what": "Congo's Ebola outbreak has passed 10,000 cases with no vaccine, and about 80% of cases are outside known transmission networks, so the response is falling behind.",
+        "via": "untraceable transmission chains",
         "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Africa Ebola outbreak passes 10,000 cases, mostly in DR Congo",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFxVGYwT3ptZ01lcmR1ckFEUGJDLWktcW1lUWJXa1BVT0NBTnZYZHlyR0J3LW5WcmY0SllnVF95eVJzTDVPeDl5aEZXYnNNZy1KblZ2OEd6X0U0UWJ0MWdUdUh4Q3Nyb2FGMVkzQnB3dkVDWlhhc2RfeGpkTldYWkxtSHpQbjR5VDdtR0hQQ1haUjlBVFVRa1V2U3R0dERFbnk0M9IBpAFBVV95cUxOUVFxVGYwT3ptZ01lcmR1ckFEUGJDLWktcW1lUWJXa1BVT0NBTnZYZHlyR0J3LW5WcmY0SllnVF95eVJzTDVPeDl5aEZXYnNNZy1KblZ2OEd6X0U0UWJ0MWdUdUh4Q3Nyb2FGMVkzQnB3dkVDWlhhc2RfeGpkTldYWkxtSHpQbjR5VDdtR0hQQ1haUjlBVFVRa1V2U3R0dERFbnk0Mw?oc=5",
-            "publisher": "Africanews"
+            "title": "Ebola outbreak outpaces Congo’s response: No vaccine, 10,000+ cases—80% outside known networks",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RPRGpnU1MxdkE2bnRNYkVrbURQa0ZVWHhBUlJodDJ0dXhZV3Y4WHdEdEt1eEJqZTd5aE1obmhfZy1PaEpodUE3R013MzZQbHhOY25QeExwdzlFVzRPSGREdGlBOGN2Wk5YRW1oRzdkZ1NFV2dNMTRwQkowZW5BNDZjUk1JUTdQR0hfX3I1LWh0cllCajRWal9Oa29lNUxwRExJTGNTSEZCaHNER0g1QUthZkRqTTRJX2NacThOYmY2d9IBxwFBVV95cUxNdnA5Z2lkQ0NiUGR2eklkM1R3OUtBSDdpVkpKRHdGQS1vWnVSVENfamxJeU1HT0RMbVhBR3A4Vms5TDZXTkd2V1A2SElhRzVDTTFZdE5wbTNJVlNJTk0zNnlVellHa1R5UTRzeWU3ZXNpaVljcnNPN3VGZ1VubWh4dDhqbW04T0ptemczRUtkMzRndHY5M25ta21kaGNlWEY4eHBOaHZmNXNoMllfcUJrTE5hSFpReGJNRF9XMnN5YWh3bjVMYWpB?oc=5",
+            "publisher": "ThePrint"
           },
           {
-            "title": "Congo’s Ebola Outbreak Tops 10,000 Cases as Vaccine and Conflict Hinder Containment",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2ZBVFVqNlR5WEpfWmR1R3RoWTZ2am9mSW0wMmlsTC1ublhLMXR3a0gxX1lYNjNfVjh6TWYxcTVyLXVtenk5WWYzX3NPek81YTF5c2Q0aHNDcy12aVNFLWlXclE3X3BHOHQxUW40bThxaGJ5SU1LN05lcmdQbmhXTmhBQQ?oc=5",
-            "publisher": "IndraStra Global"
+            "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow spread in African countries",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkpnUFYzeWlBbXlQMldRMVFid3JJeGRISkFiU3dnZHdCeDF5aGZGSmVVZ3dKOFNaNlJJVVBNd3kyVGRHemlLVmw4ZnV0ampjSThpMkhFdjJQMTRDdGRiNWl2dUg1WGtVWms2TGhWVnBwU0d4R3Y1c1JEZnFrV2RKYjJIRXBXLWEy?oc=5",
+            "publisher": "New York Amsterdam News"
           },
           {
-            "title": "'Every life saved is worth celebrating': Congo suffers over 10,000 cases of Ebola outbreak",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKMVpJMXRsbUtlRnpfN1N2cXdZR25wUUVFUlFtd2ZvX3NRVFhsME5jT0VXcUlFQnBVMHQyMTRTM0dWdFNrSEFqOEY2V2h5Q3lQcjhFMjJtN2tiWjFFQkpZVkk2TmVPTlY3OTUzZ25OQkJzNzdXdHMzOTVZN3Q?oc=5",
-            "publisher": "Fortune"
+            "title": "Congo Ebola cases pass 10,000 as WHO urges sustained response",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFhDMlUzVkViX1ZtcWNpRHBPRV9RRU1uNE1LcnhkTEZUbHA1V2dXb1kyYmNtMVVnREUtUkpTYXcyTTZwZGxCVjBqaFRYS0tlcWZXMW0xNjVVNmVGSW9CaVhOOFlSVHg5NGlJNjlaVHk3a1NVWEFLVWRJTmlPUVRuX3dSWkZQT1VpMW9uUUk5T25tU3dHNnMwcXdoQjJNMVVRY3ZXeEhMQkd5UQ?oc=5",
+            "publisher": "Gulf Business"
           },
           {
             "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
             "publisher": "UN News"
-          },
-          {
-            "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-            "url": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-            "publisher": "NPR World"
           }
         ]
       },
       {
-        "id": "conflict-and-vaccine-gaps-hinder-containment",
-        "title": "Conflict and vaccine gaps hinder containment",
-        "when": "2026-10-28",
+        "id": "stigma-hampers-ebola-response-in-congo-village",
+        "title": "Stigma hampers Ebola response in Congo village",
+        "when": "2026-10-29",
         "place": "DR Congo",
-        "lat": -2.9,
-        "lon": 23.7,
-        "what": "Ongoing conflict and difficulties with the vaccine are slowing efforts to contain the Ebola outbreak inside DR Congo.",
-        "via": "weaker containment at source",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Congo’s Ebola Outbreak Tops 10,000 Cases as Vaccine and Conflict Hinder Containment",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT2ZBVFVqNlR5WEpfWmR1R3RoWTZ2am9mSW0wMmlsTC1ublhLMXR3a0gxX1lYNjNfVjh6TWYxcTVyLXVtenk5WWYzX3NPek81YTF5c2Q0aHNDcy12aVNFLWlXclE3X3BHOHQxUW40bThxaGJ5SU1LN05lcmdQbmhXTmhBQQ?oc=5",
-            "publisher": "IndraStra Global"
-          }
-        ]
-      },
-      {
-        "id": "community-skepticism-slows-ebola-response-in-congo",
-        "title": "Community skepticism slows Ebola response in Congo",
-        "when": "2026-10-28",
-        "place": "DR Congo",
-        "lat": -2.9,
-        "lon": 23.7,
-        "what": "Christian leaders are working to convert Ebola skeptics in Congolese communities, pointing to local distrust that complicates the response.",
-        "via": "community distrust",
+        "lat": -2.5,
+        "lon": 23.5,
+        "what": "A village chief in Congo is working to overcome prejudice around Ebola while the disease kills his relatives, showing how stigma can complicate containment.",
+        "via": "community distrust and hidden cases",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Converting Ebola Skeptics: Christian Leaders Mobilize Communities in Congo",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2FWWXRKcEhmd2ZhZ1o0djlZWEJ4ZDNJelg5d0ZwVTBLZUdndS1Wa1RmeWkwQTU5M3lWd1ItZ0Vsc1dxa01WRHVXUTkyZ2pxWDVGcXExYkFXVTZIUFlWWGlKc011M1JseThwbjZBMzJ0RmNsV2RLMHlJcGxwQmFQOFQ2eGVtaU01SU5wcUhnM3U?oc=5",
-            "publisher": "The New York Times"
+            "title": "A village chief in Congo works to overcome Ebola prejudice even as the disease kills his relatives",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMWxOQ3hPcWlCLWEtT09HNERzVTlBRjdvRWI1U3VTNmgybnBtTGVmUmFTUG5rT3FnbFk0T3UyTzNYam1tU2F3eEtfdnZnNWRiQUZvSi1OMUxLMU41UXJ0X3pHNU1JbnNLbmVrd3hRVllSVV9BSnlUbEJfRzBnNkppT19qc2hnQlFxMEhLQjBTNk1vMGZHN29Rc3VmMWpmZnV6emNsZTYxVEFhMWtQdzcwZ1RNcXllaUl3cDJKcjNZYjZ6eHVQbllzYWNYc19mY25uNmVFd2F3NHdMaWRVbHNhVHlINUpxNzJmbWZ4SlpaQXh6cHVLWWJYdmNXNC1kVWZWcmhsdWZsVzdiSnFmWU91ZlJBMEZKMW1zeFE?oc=5",
+            "publisher": "Toronto Star"
+          }
+        ]
+      },
+      {
+        "id": "airlines-press-us-cdc-on-ebola-declarations",
+        "title": "Airlines press US CDC on Ebola declarations",
+        "when": "2026-10-29",
+        "place": "Washington, United States",
+        "lat": 38.9,
+        "lon": -77,
+        "what": "Airline groups urge the US CDC to reconsider its Ebola declaration requirements, after the US issued a new travel rule, putting air travel screening under pressure.",
+        "via": "pressure on travel screening rules",
+        "aspect": "trade",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Airline groups urge US CDC to reconsider Ebola declaration requirements",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLWVsdWwxRmxIZmd0U25aaWV1Sk1Ybld1bDdNWThmMS0zSC1DcjB4MmJwNndpc2Mxa3o2a2RJaG5MVEFiWl9EXzh2QTY5NG50RHNSUUtPYS1nNXZWTWtwSmZSQU9TeEdYbUlHUm5NbXVZMi1NVl9DOWRzTUprdGtKdW1GYlRZa0R5UzMyaUNkdjhOaGNCVHBZejc5a21vemFMeWUwekVTTzdBbkRoblpCQV8wa2RkU0ZGT1lKMQ?oc=5",
+            "publisher": "The Straits Times"
+          },
+          {
+            "title": "Ebola outbreak in DR Congo approaches 5,000 deaths as US issues new travel rule",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzlOWExsVm5LekpOVjZKbUxaQVlCTVk3RWFOYkpDSFhDT2RmdmdveEJLUVVaaUdwVjV6ZkhwYkh1YjVNS0VfSXRwRThKT2R2MlNwd1lza3NlMUlkR3gzVFN2aVFHbU9pR2lLNE9PTUNOMkxkZjNVWUt3YzY2VlJKNDBZVUFnNVRpdUJpMDlQU0tVRWNhRDNVUjA5ZjFFMjNNTlN6ajIyWl8?oc=5",
+            "publisher": "CIDRAP"
+          }
+        ]
+      },
+      {
+        "id": "nakuru-funds-ebola-preparedness-in-budget",
+        "title": "Nakuru funds Ebola preparedness in budget",
+        "when": "2026-10-28",
+        "place": "Nakuru, Kenya",
+        "lat": -0.3,
+        "lon": 36.07,
+        "what": "Nakuru county prioritises Ebola preparedness in its supplementary budget, shaping how well Kenya can contain further cases.",
+        "via": "local containment funding",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Nakuru prioritises Ebola preparedness in supplementary budget",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzZHWng2RHA1cWVWN0M1S1l2MUlMMUIwRDlxc28yQzdOWnVDNkRTWW44aEJha2JtNWNIU284NUxPYTNOTHhZOWJJbmJXSGkxUlRBa3FpMGN2QVdXQUFLdVhMaExCQWxpclh2Q012bTdId211V0IwRzF0MTV5TEVmOUJDWFJtSXBOWVh3Q2EtakszSGZl?oc=5",
+            "publisher": "Kenya News Agency"
           }
         ]
       }
@@ -3322,30 +3206,25 @@
     ]
   },
   "ukraine-starlink-restrictions-2026": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "musk-confirms-spacex-limited-ukraine-s-starlink",
-        "title": "Musk confirms SpaceX limited Ukraine's Starlink",
-        "when": "2026-10-25",
-        "place": "United States",
-        "lat": 39.8,
-        "lon": -98.6,
-        "what": "Musk said SpaceX restricted Starlink speed for Ukraine over drone strikes and alleged Kyiv violated the terms of service, confirming the limits were a company decision.",
-        "via": "company-imposed access limits",
+        "id": "musk-confirms-starlink-limits-over-drone-strikes",
+        "title": "Musk confirms Starlink limits over drone strikes",
+        "when": "2026-10-27",
+        "place": "Ukraine",
+        "lat": 49,
+        "lon": 32,
+        "what": "Musk confirmed SpaceX limited Ukraine's Starlink access over drone strikes and said Kyiv violated the service terms, even as Ukraine said Starshield was back to normal.",
+        "via": "US-controlled access to satellite links",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-            "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC Europe"
-          },
-          {
-            "title": "Musk says he restricted Starlink speed",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaDNmU3JyeGhNX1JFM0ZDWEtYRG41eC1LX2M3S0NaZlIxR0Z3cV9xajJmak5jUXYySC1XQ2MxYi1IaXoyRGxMZGZDSW5qbUNXMkhtSXJUeUFKUW9WeHVST1NtMzhRNmt1dVh5RlRUMXNldXJKTzJVanUzMHlhMndScVQxUVgxZDIzRmRSa2NFdjZKT29VdFFBRkNDelJSSGZTZFVVcjFPNGkyX1Q4aUxtckc2VFRNOUU2RTJJSDRqdmhqNmxHc3I1N0ViR0xoZFl3QlE?oc=5",
-            "publisher": "Bedford Gazette"
+            "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHdURXotVnd3cjJlZm9uMjY0ZV9NT2Vidzd5Smd0THJjU2hHWS1uek1zZi1zVENONW92eGJBMW1GaGtLM1lSVlhwZnE0VUd2R2JkQm9Bc1EwcTBYbUtndnhWaG5QVDVRdl9SUTZJYnhwXzlpeVhSc2dZZU9KZXdxMHBBc1pUNHdDb0toUTZaVnc3ZEoteHJaMkFPaHNEemF3eHRRUkdvQlE?oc=5",
+            "publisher": "Arizona Digital Free Press"
           },
           {
             "title": "Musk Confirms SpaceX Limited Ukraine’s Starlink Over Drone Strikes",
@@ -3353,54 +3232,24 @@
             "publisher": "The Defense Post"
           },
           {
-            "title": "Musk accuses Ukraine of violating Starlink’s terms of service following dispute over coverage",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjZRSGhncDVQRzJYQ0ZlU25ISGdmT2VTaUZtdGNlVnhNaGZfM3ZMTkQxbkR3eUtCSU1sU2owQjd3X0tTZk5uTGRPbFFHRGpGREJWLXJpSUF5a3l4Yl9Ub2U4VEJCcGR2NHR3dFR6VVlPUHlzQzlHNVl0TnlFc082d0JjMlVjTFljQ01FZTRnYkVCS09tUmI5bU1YWXZqYTVuNnFacnNYV1FTTVUyUVExM0JCTmY3aWNPVF9uQVQ4LTZoR1RG?oc=5",
-            "publisher": "Egypt Independent"
-          },
-          {
-            "title": "Musk accuses Ukraine of violating Starlink terms amid dispute over service restrictions",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkcyaVItSW91XzhmYUxwbTFvWFJWeHFKZHdWYW5yVXYxTEFIU2xzZlRnWVVVRlF2TFJyY0I0dGZmTjFRaWRsaEdtUTF5OFI4MjJoZm0zMUtJS3lBUF9NY1V2QW01XzJtZmtGZnc2SVV3ODd5anJxYkl1cGt2YUxHWV9zLU81Zkk5Ym93Z1VOeVpHTlJjZ1c1cFVONW9LN1JhN2ZBT2JGbmJ5QzjSAVZBVV95cUxOREtZcV9YS1cwSlZyUmUxRXY1ZlBXbzA2ZllVSEFRdDlPVC10aHMzMFBVYnJHYllESEF2eV9idjBpZnVsczBfNC1Ecjd1VlZWLWpraUJBZw?oc=5",
-            "publisher": "Dunya News"
-          },
-          {
-            "title": "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcHdURXotVnd3cjJlZm9uMjY0ZV9NT2Vidzd5Smd0THJjU2hHWS1uek1zZi1zVENONW92eGJBMW1GaGtLM1lSVlhwZnE0VUd2R2JkQm9Bc1EwcTBYbUtndnhWaG5QVDVRdl9SUTZJYnhwXzlpeVhSc2dZZU9KZXdxMHBBc1pUNHdDb0toUTZaVnc3ZEoteHJaMkFPaHNEemF3eHRRUkdvQlE?oc=5",
-            "publisher": "Arizona Digital Free Press"
+            "title": "Musk vs Ukraine: the Starlink terms row explained",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZaVdhLUNFeXVvUm5RV3ZUUHBkNEUtcnVSNWF5TEI3ZnBFb2EtcnlZOHZqTm9ReWZwOEhYWEVieHdkX1lSclo0T0lZSktrY2ZwRmpyblJ1Yy1BbmFwekNoVEdWSnZVMTdKa05nalF5dVZ2amhFQ2RjZXdsOWfSAYIBQVVfeXFMUFhqcWI4VjR5YnlfUHJ3dzktQnR2di05bzJtMHN6SlEzeFFoVWZRUnA5UVhReDF0M3BNckN2Q0M3X1RHNUpvQW5uczNjbGo5ZjRfa0x0aUFpT0pYSnAzZjRtWlFBWTFyZVNhcExqaVVBNkpvRHliR0N3bFkwbWJ1LVdHUQ?oc=5",
+            "publisher": "TFIGlobal"
           }
         ]
       },
       {
-        "id": "kyiv-disputes-musk-s-drone-misuse-claim",
-        "title": "Kyiv disputes Musk's drone misuse claim",
-        "when": "2026-10-26",
+        "id": "zelensky-rejects-musk-s-claim-on-starshield-use",
+        "title": "Zelensky rejects Musk's claim on Starshield use",
+        "when": "2026-10-28",
         "place": "Kyiv",
         "lat": 50.45,
         "lon": 30.52,
-        "what": "Ukrainian officials called Musk's claim 'physically impossible' and said Ukraine uses Starshield to defend itself, while saying military connectivity was restored.",
-        "via": "public dispute over blame",
+        "what": "Zelensky pushed back against Musk, saying Ukraine uses Starshield to defend itself, which sharpens the dispute over who sets the terms of access.",
+        "via": "public dispute over access terms",
         "aspect": "politics",
-        "flow": "both",
+        "flow": "into",
         "sources": [
-          {
-            "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6aGxoV1RKMGQzMHNueUhkR1FHdU5wQktJZ3Nuam94cUQyYTB5OVhKOGpPN3JhWjdmVmZPU3BjakVyTmdGUnNPNHpvVF91cUNscEo4d1JxTWEwTEZvZk9rN0kwWVIxVzBfSTM1OW9jVTF6RUtlWDBERVVpWQ?oc=5",
-            "publisher": "The Record from Recorded Future News"
-          },
-          {
-            "title": "Ukraine-Russia war latest: Kyiv questions Elon Musk’s ‘physically impossible’ Starlink claims",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzlxWGM0Mk82eExha0U5a2pZREZDdlUtMEFIUEVIUXlZRDdTX3VhZ2I0MzdQVG9PMDlzdzRmRGd0em5lc2FBeG9lUE9wbVVMTkVxbjBCWWwxdFEwV0pQZDVJbnE0UUdhX1RFcGpORGJOS0g4S2pqYVNRdHN6dXJ3Vjk5YVRFTXdwNXdpaWVRaXk2R0YtM1VQcVg3TlBlcVJ3ZEZpb010NWRkTk5mSUhGYk8zS1JscVFFZWJ5NVY3bjAzdVBE?oc=5",
-            "publisher": "inkl"
-          },
-          {
-            "title": "‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmpwbF9pa2NzZ3NHbUxpRmIyX1RVMzY4ZkVVMHdkWmhnUTRjVm9BN0Rzam45TmtLdmNtUXpXenZlU1g3RU9CNGhYZVhQaV9TOWVJYkV3MzRzNDNDdlQzTkgybjRTYVl6MC1qbE9NbFA1VUxIblROU2xRc3hXWTgwX19Ja1dURGlCdGtubm5VVmMwaUNwQ05KcHJkX3BVY1dNbDFlOElEcw?oc=5",
-            "publisher": "inkl"
-          },
-          {
-            "title": "Zelensky Adviser Slams Musk Over Claims Ukraine Violated Starlink Terms",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXJPREtvM0psUVpBUEh1VzRmLVFYd0RRX1RodVJuUm5uT045RVN0ZDZHLTRMMXA1SVZKMnk3RG9LNDlvS1ZUa0l4MzVNWkhiazRKcVJHM2U4MzByWUg3cFFNa3NTdnJXWDFkWGJZaEk2Mi1iR2J3VlBFTGZ5R1RSbXYyNnlDSm9EMjdIalJmNmJGQzdmNFNnUDMtMEhTYmVlRHlCeHlxU0I?oc=5",
-            "publisher": "Newsweek"
-          },
           {
             "title": "Zelensky pushes back against Musk, says Ukraine uses Starshield to defend itself",
             "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc09MY3pFSTUyaUhQQW0xbFhqUTl4VXV1WHBfZ0ZXWDNWSGlpaXlnb09TZmlxQ3FZYWNBR0lLNnRnSzdHNWVfWEtjdDZFR0Iyc004c2s1S09hVWJpRWE0YlB6OC1ORHp4ZG1fZGk4OXl4QVR1RXowQnIxZ200d2VrSGpGZzVEcDdGcXFOU3dDUlE3enNZTVFQbVVINHlsMnpldE9yeHc4SVRybjNS?oc=5",
@@ -3409,45 +3258,65 @@
         ]
       },
       {
-        "id": "congress-demands-to-know-who-restricted-starlink",
-        "title": "Congress demands to know who restricted Starlink",
-        "when": "2026-10-26",
-        "place": "Washington",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "US lawmakers demanded to learn whether Trump or Musk was responsible for the restriction, and some Republicans criticised Musk's decision.",
-        "via": "US political pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "\"Either Trump is lying, or Musk\": U.S. Congress demands to find out who restricted Starlink for Ukraine",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzV6UVlBR25xV1huMEI3aVJGOE5ZWUJ4UjdvSHRhc3JKMTNlLTM3NVlXYTJjVFUzcFNpbm5tRmxCaEk0MjdYUmpxN29pVi1nd29NQWZNYnBuTkpJMTY5LS1xbm5HSzZCZGxNcFI5T1hJUUNZb1BvcjBhSmNaUW1UWlJ0U19wWTl6anhXWVNjMlA1NmlvSUNJOHdVMWVFeVN4eS13VnpTS3NwbHQ2UE11cF9wQTNvam92ZXFUYdIBuwFBVV95cUxOc1p6NzNFdzhndUxESjByTnRSM0hfcHlQdWlUbEI4ODNuek96Z25sR2tlNncyVGVEbUU4TFFDVi1vT2VIek1Bd1gxbmVBU1NYS0syZWtDbW9CLXB2dlVrNWRvQUpLMFJnbmQxRXVJQk52eWZHSHpDMmFaVndHQnU5dU5PdTdTamptSUJsTk1oMTRWS2dncEk5WEtLOHVBUnhFMXBIWDFsY2ZGZ042U0lna0RoQmFlY0xacnFZ?oc=5",
-            "publisher": "Українські Національні Новини (УНН)"
-          },
-          {
-            "title": "Trump ally Elon Musk faces criticism from Republicans over decision to restrict Ukraine's Starlink",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02NUxoZWI2M0ZlUnlLREtBcjliNWdRU3JzSDhsMXFWVHNrNlVKVWJKdnowY1U1bkplV0habnc5dW5tYUVzNnYwSWpwX0Jwdlp6YWt1eGhjczNPY1FueHhCTWFEazZ3V2xkTlUzcmRCWXF6TndHMGpkZE5R?oc=5",
-            "publisher": "Cryptopolitan"
-          }
-        ]
-      },
-      {
-        "id": "air-force-explains-air-defense-reliance-on-starlink",
-        "title": "Air Force explains air defense reliance on Starlink",
-        "when": "2026-10-26",
-        "place": "Ukraine",
-        "lat": 49,
-        "lon": 32,
-        "what": "Ukraine's Air Force explained why its air defense needs Starlink, showing how a restriction on satellite links affects military operations.",
-        "via": "military dependence on satellite links",
+        "id": "putin-claims-coordination-with-musk-plans-rival-network",
+        "title": "Putin claims coordination with Musk, plans rival network",
+        "when": "2026-10-28",
+        "place": "Moscow",
+        "lat": 55.75,
+        "lon": 37.62,
+        "what": "Putin called Musk a 'real genius', said Russia coordinates with him on satellites, and said Russia is planning its own Starlink-style network.",
+        "via": "Russian pressure and rival network",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Ukraine's Air Force explains why air defense needs Starlink",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGtpV2tNcTNMWW5NSFVsNXRLNC1hU2pjcXhPcWlzTnZmR29BUTYyYmM1c25GUzZTUHZwMlhSUkZ5Mi1Ka3BzOGplRFM0bFFBZEVmdjZLVlBwZU52cFpaZVNHaU44VFdKXzQ3N2YtRE83dlByZWxNUWlOcWFVYV80cHQ4dTllenJzdWN0NW5QbHphOTJFQkdjeWlkQ2xRWXVSVWc1SmFtR1d5UTdaRVc2OXdxWXVJUmJZUGFoUTRzb0h4d9IBvgFBVV95cUxNbHh3NWJ6dDVkZDBXMDVoQmJVc2ctWnBjeVRTTXItd2F2UHdueTk2aUV1NkthWmJRYjZhMC1tSWVGMGo1VU0yVEJYZXIyMmZfVnJOUzlYWEozWkhaY2doNXhSY2RaZHZBdmxUWHBJWkhOOURCUDcxSjZaTmxsNlRHMTFsanVsS1o4VF9RMFNmVFRVTlFuY3I3X0JuVElqQjRielNEUlRLLWNxVEd0d28taHFSZmVmOUlwQzNJa2RB?oc=5",
-            "publisher": "The New Voice of Ukraine"
+            "title": "As Starlink curbs rattle Ukraine, Putin calls Elon Musk a ‘real genius’ as Russia plans rival network",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM0ViNWdfQnZueWZNWXVndmhKbWc5bDFhaU5nRmxOWWdiSU5yenF1OTJzZWVaZnRGLURkVzlmUnJwLXlURnJfYTg5NUNFOEFsTkVyVjRUb1Rlb3hsTGxodXpRLWFqNmk1VmJHU1J5YWRvTVJhMDNtTmVkNkgwTklDVFNzd3hMR1M4d29HcWMwVENQNl9vNFM1SlZLMmRSeUQ1d2xtaFM3SVJreklzU2Z2Uk1yNE1uYlZRQlRuU2djOGplVFNtZU8tTFVTaFh2STg2bFFsY2Q4TWl4VGRmSlp2a2dfbDFDN29tX21KOGxhbHpoaDlEOEE?oc=5",
+            "publisher": "Livemint"
+          },
+          {
+            "title": "Putin Calls Musk a ‘Genius,’ Claims Close Cooperation as Ukraine Faces Starlink Disruptions",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vaEpEMEZmVUlPWVRXY2FzMHVYdmZoSldGNWR6UExSVGFJbjJPV1FQVzFnNGZaVzJXN0k1TTBHQWRic1hveGE1aFRLQQ?oc=5",
+            "publisher": "Kyiv Post"
+          },
+          {
+            "title": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+            "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+            "publisher": "The Guardian World"
+          },
+          {
+            "title": "Putin Says Russia Coordinates With ‘Genius’ Musk on Satellites",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXhMdUU0OG15YW40dkFCcXlSMWdBZjFza1JEV0FDc3N0SEpPdVlOQVk3bnQwZXcyUmpsUVoxY2N1VnZfb3dnZkI5R3gzV2Ffd1ppLUVDN1N4amxtd013akpvMWh0UWtOd2VOWU1XNmo2RTViN2RpSlhYZ3pNX0I1NExkaV8tMmhsQ3ZUMmdwRy15LTNkdElWZTVsT3VBd1BOaWRtUkdGclhMTWtDSDlySQ?oc=5",
+            "publisher": "Bloomberg.com"
+          }
+        ]
+      },
+      {
+        "id": "pentagon-watchdog-declines-starlink-probe",
+        "title": "Pentagon watchdog declines Starlink probe",
+        "when": "2026-10-29",
+        "place": "Arlington, Virginia",
+        "lat": 38.88,
+        "lon": -77.06,
+        "what": "The Pentagon inspector general rejected a bipartisan request to investigate restrictions on Starlink in Ukraine, leaving US control over access without review.",
+        "via": "no US oversight of access",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "The Pentagon refused to investigate restrictions on Starlink’s operation in Ukraine – AP",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjlrWkJldFg5T1pzM2hGc1NHSnExWDlEUWNzeU9HUXczS2RYOFJyN2ZsVXltclVMUHUyQU4yMHVFZEc4Qm9zYXl0clZVV1g0bTBMMDlXZWJuZEUwendVNHNhNVBRajVxaWNmZjNaTXZyWS1vTm41c2ZPMXMzWW85akd6cnZ1Mm1HSHNPOEdaLXotaHc2Y3Zlbms4cXFMLXJxX2E4M0t0Vk5Benlh0gGrAUFVX3lxTE54UDdmRlhxM2Q5WTRtV1lrbGNfQUVKUElGSEhfSU44eFBFZkgxa2d2Vm1fMmM5ZHdpbUV3MUlMMkJmd1RxdHpWeTdxSklxUVhaNjJCaHppUTBvWHlNN21xTnhyRTRYUE1XQVM4V2Fya2ltYks5UlYxb2hwNnpLWmlyY0dMUjk0R3BEQWxEUTRIczdJWWFYU20tbnpuUE5aWkQ2cllJQnYtbl8wUQ?oc=5",
+            "publisher": "Українські Національні Новини (УНН)"
+          },
+          {
+            "title": "Pentagon watchdog rejects bipartisan plea to investigate Starlink disruption, AP reports",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1pEcFZDeDFKZ3FHYW52NXhiOEZjbVFfSThKZzBaM2JRVG15YmJBTW03UUlqMl9hNl9NUVRsTV9tZkdCSWxPRHVZcEswRmNTcGlHWW4xUWpieW9CZmFJYjRFZ2szWTBEMUFISVBhQlkxYmdrbHFpUEx4SzNRckRRb29IMFZuQ2sxVmJUa1lxRDdBZlhLQ0FUZVcwVzU1eUlXVFBvTGt5NWNOajgzVjR2THZXc0NQcUE?oc=5",
+            "publisher": "The Kyiv Independent"
+          },
+          {
+            "title": "Pentagon watchdog refuses to probe Musk’s Starlink slowdown: report",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNkpmbl90RVliM1BuMXhBOFNJREdUYV9aRlBUUWY4Q0MzRHNCTWhfV20ybGx5NzdkcDlMM3d0MXRhVDhZLWlDSkd5WGM3M3pqWjhfVEJKRVhHenFNdnMteG9VcHM0YTI3OGFWOUtQeU5hREN0UDNjWS1zX2lDODg0UVZyRQ?oc=5",
+            "publisher": "Raw Story"
           }
         ]
       }
@@ -3752,44 +3621,121 @@
     ]
   },
   "black-october-ai-cyber-wave-2026": {
-    "at": "2026-10-28T18:07:31.962Z",
+    "at": "2026-10-29T06:08:05.090Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "hackers-exploit-critical-php-flaws-on-websites",
-        "title": "Hackers exploit critical PHP flaws on websites",
+        "id": "cisa-confirms-php2shell-exploitation-orders-patching",
+        "title": "CISA confirms PHP2Shell exploitation, orders patching",
         "when": "2026-10-27",
-        "place": "Worldwide",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "Attackers are now actively exploiting the critical PHP flaws against live websites, which turns the disclosures into an urgent patching race.",
-        "via": "live exploitation pressure",
-        "aspect": "security",
+        "place": "Washington, US",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "CISA confirmed active exploitation of the critical PHP flaws and ordered federal agencies to patch urgently, pushing public bodies into emergency updates.",
+        "via": "federal patch deadline",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Hackers Are Now Exploiting Critical PHP Flaws to Attack Websites",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjdmajJrQjhkdWtJMEN1TzVCWFNyeFFKbDA3cVJEd1Bqd2JxRzBoN3NXcU5PZk5pd0ZvaDRTTjJ3SWVweGFnTElWblJUZ3paU2Q0VkhmNTRhNDQ5bFp6Vk43ekVaQ19kU2psZUUzZ3Q4czZoQ1cxSTZmMHE0eTF1dkppRVlVU0RNRFZVY2hFd1FoQks0OEp1UnVKTEdWZUd6Y2fSAacBQVVfeXFMTzZyUFZqSXV5cW52dElfZk1ibW5qLXhpaWJpTy01OUpGN0NUZDEwZzNPVFdrQnFwSUx6QW5SSjh1aUpteEQxemo0ZDZTazJMQmhWYXN6dklmTEt1Q282dHpaajIzdGtRVHEySkUzZzRELWZHRnZRVUFlSkpOUmxPdkNETEV5WWtTUko5czQzaWdLR3V0bnpGSEQwa1k1aDdhRzdBWF9VT1U?oc=5",
-            "publisher": "ProPakistani"
+            "title": "CISA Warns of PHP2Shell Vulnerabilities Actively Exploited in Attacks",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1lLeVB3eGEyRm0zUjNjLVZrNDYwUTNxeFZkQ1p5bmdfMFNqYXNGMUFPUFg5SmtpT21RQTRianZmVlJ3czFScmhEWE9GTm9Bcnk0RzJjSzl3UXhCc0JBNXB3VC1KVVZoMHRpRnFZRlU4SkdtZURFdnozTzV3UmMwN9IBhgFBVV95cUxOTUVraHF2eE5xT1o2SGtmSkplYkxZaVhfWXZGYzI2N1Via3JIMG15aFpxNC1lTWs2MVRqZjd6XzF3ZmdiVDBHb09TTGtaZW16VGJJWHloUFI4OWdGN3l3R19FSVNfWU1IS0VwVUZteTNfM0JSZmRyek82M1BObFF6Ui02M2xZQQ?oc=5",
+            "publisher": "CyberSecurityNews"
+          },
+          {
+            "title": "U.S. government orders urgent patching after confirming exploitation of critical PHP flaws",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZkFZMWQ5dTNJVldSdTRCbWY4Y1lSeVpnckVIRVVpb05CV3VLZkdzNTl3M2NDNGNUa2VsSEJGNEdnQUZoNERqQTJSMnprSDJ1SXJUV0loSm50SVliMmNpdWRNY2hBY0pkVl9RTDJHSXhIVTN1R011UzdqUkVhd0tydXF5MVh6X3N6cEg1RUhpZnl6d0dkQW02bVNWSG91R2lRcDZCTnd4R19YVGh2aEowd2ZVeHlYV3RhNXZhWGJBdkNkSFBzNzNOSXBDUUxCY28?oc=5",
+            "publisher": "디지털투데이"
+          },
+          {
+            "title": "CISA Confirms PHP2Shell Exploitation, Orders Federal Agencies to Patch",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLS1mb25HcVVOeTM4OTU3eERQVjJ1SWFCMWdZTnAxM0xoT3dXVmJ1MzdhU3pTY3pMZmRCOS1uU1VSb1BlQTFnb1R4Z0hGZ1hrMFpEeVhuQXRya25QaUNuZ2tHSXhVcFlaLWFFQS1VTTVFcjBYLVcwYzlhSExxVnZVaw?oc=5",
+            "publisher": "Hackread"
           }
         ]
       },
       {
-        "id": "emudhra-key-leak-ties-into-php2shell",
-        "title": "eMudhra key leak ties into PHP2Shell",
+        "id": "emudhra-key-leak-exposes-indian-certificate-system",
+        "title": "eMudhra key leak exposes Indian certificate system",
         "when": "2026-10-28",
         "place": "Bengaluru, India",
         "lat": 12.97,
         "lon": 77.59,
-        "what": "A key leak at Indian certificate authority eMudhra is being linked to PHP2Shell, raising doubts about the security of India's digital infrastructure.",
-        "via": "weakened certificate trust",
+        "what": "Broken keys at Indian certificate authority eMudhra raised questions about how vulnerable India's digital infrastructure is, and fixes had to be shipped alongside the PHP patches.",
+        "via": "broken certificate trust",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
+            "title": "Ubuntu rolls out php2shell, eMudhra certificate fixes",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTFJVU0wSEYySGNFTkR3SU9ndDJhYng3LVY3VDRIeXN5T2dEMFlRNm1QMUJrUnhNSXlJZTVMbW1KcU9MZDBOdEdxeE1wN240S1BfcHV3bWlDVF9VbUpzLXRLQVpnd2FDSjd4MWNoTnJyTXVHVWxQQTR2MTB6NkxvVdIBhgFBVV95cUxPYjJqZ3BtWmhLc2dnOEhOdDd3NkRzdF9oN2hRRXVNamVBSG9IaW5SMFZMb2RuZnZOXzBtelpLMnJzUXVfVVpiTnZzSXhnblpRLVVzb0lCLUlQSVBnQ3NDQzJVV2ZCcFBiUEllRXVGZ0ZwOTRidExFS2tTQ2poMHlUellkVlJtZw?oc=5",
+            "publisher": "OMG! Ubuntu"
+          },
+          {
             "title": "Watch: eMudhra key leak to PHP2Shell: How vulnerable is India’s digital infrastructure? | Business Matters",
             "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTU5IZzhpLVJ5M2NKdTBkRTY1Rlc5NFByQ2NUNGxSTlAyVFpHakFodmxVNFo1UFJNbGZJMjNfMlZPa0RBcnJab0hmSll6VEs2Yk5tUWNKMU9SQ2FEMVJlbjBfaEtEQU1xWUNzVjR1eDNsQXhMNlgzc2VkTU9XMzlqd0EtM2xPc0JFY2tQWjZBLTJCT09GVjQ0MFNFRnplV0dVM2JucjQ0R21mZWlGNG1vNXRQdjBwODNCNXB5aGRvTUtNVGxuakZ0S2lGM1o2LUNIQUxDLTBqeHdxbzR6Y1N3Y3VPeF9aYUFuMmFKS0NENNIB9gFBVV95cUxQemhxenRiT2QzbU4yT2gxYmlkRVRZYmVXU1Y2d1Fmb3NIWVgzcXVZQzA5NFVPTjljMllvcUc2Y1FWZmpOajJza0tzYVozcFZuVkVjZWZtN09HYmllMjN1S3d1NEpJU0ZYVmVuYU5SZWo5OGVyVHJCRE5UWU9TeTlQZFFPT2V1d01pblFQQU9PZk5EcXFidWZsdmpWNC1mdFpCVmcxVURCY0dTY2xXSkZSZkh3bGhuZzN2MVZnZGZ2SktHbWYzV2VkYXNheW1DYkYxZHdYQlhVVjNOdEQ3UU5LM3hKZ3hpRndyNUw0N05Gcnp0Vm02Nmc?oc=5",
             "publisher": "The Hindu"
+          }
+        ]
+      },
+      {
+        "id": "litellm-breach-hits-2-500-firms-in-40-minutes",
+        "title": "LiteLLM breach hits 2,500 firms in 40 minutes",
+        "when": "2026-10-28",
+        "place": "Worldwide",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "A booby-trapped LiteLLM release exposed about 2,500 firms in a 40-minute attack, adding a software supply chain threat to the patch workload.",
+        "via": "poisoned software supply chain",
+        "aspect": "trade",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "LiteLLM Breach Exposes 2,500 Firms in 40-Minute Attack",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTczbnUzQW9YU194alZTMkVkZXItMF92OWxDRHNyM2w3bGVIZFpyb2x2MnpSX0owZ0Q0ZFIxTlRXeGQ4MWhheGowOTBfeExJVFdKZkNJTTY0bHNjWFFsWkowdWFibEUyTUdUeGtrVVF4a0h5Y1djOExxNzlJY19IWnBhYVJ0Z1ZPRGJoZEx6YW5hcUZfZ1lpYXFTc2NrcFdWZ0E4ZDNKYw?oc=5",
+            "publisher": "TechJuice"
+          }
+        ]
+      },
+      {
+        "id": "critical-edk2-flaw-endangers-millions-of-servers",
+        "title": "Critical EDK2 flaw endangers millions of servers",
+        "when": "2026-10-28",
+        "place": "Worldwide",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "A critical flaw in the EDK2 firmware code, disclosed after the PHP bugs, puts millions of servers at risk of hacking and widens the patching burden.",
+        "via": "extra critical flaw to fix",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "After PHP, critical EDK2 flaw puts millions of servers at risk of hacking",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNekZWU2g3S0RpelBIWFJTNjJ3Ulc0N2F0ZENaLThZVVM0SHFtMU1QLVc0amxTMXpWdlA0NGtHN3hrV1h2OE15Nl9fVkZuZmM2bFpPTnloMW51TTJnekpiNTFTNFBMY3FsYlBxYmFzYXdjZGtjVFNtZXZuRkp3VEo0ZU1uTlRBdEhIaEhDdDJ1dlM4UUJyNS1MUlA4TTBPc1lmd0xxSHRybkFBR2YwX3hGX0VUSXplSEIwV25HVnMwY1NIbTc4cE1yTGxuQmZXemNWX3pqa01vM3BGc1nSAdsBQVVfeXFMTXpGVlNoN0tEaXpQSFhSUzYyd1JXNDdhdGRDWi04WVVTNEhxbTFNUC1XNGpsUzF6VnZQNDRrRzd4a1dYdjhNeTZfX1ZGbmZjNmxaT055aDFudU0yZ3pKYjUxUzRQTGNxbGJQcWJhc2F3Y2RrY1RTbWV2bkZKd1RKNGVNbk5UQXRISGhIQ3QydXZTOFFCcjUtTFJQOE0wT3NZZndMcUh0cm5BQUdmMF94Rl9FVEl6ZUhCMFduR1ZzMGNTSG03OHBNckxsbkJmV3pjVl96amtNbzNwRnNZ?oc=5",
+            "publisher": "India Today"
+          }
+        ]
+      },
+      {
+        "id": "ubuntu-and-synology-ship-php2shell-fixes",
+        "title": "Ubuntu and Synology ship PHP2Shell fixes",
+        "when": "2026-10-29",
+        "place": "Worldwide",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "Ubuntu released php2shell and eMudhra certificate fixes and Synology issued critical NAS updates, spreading the patch rush to Linux servers and home and office storage devices.",
+        "via": "vendor patch releases",
+        "aspect": "security",
+        "flow": "both",
+        "sources": [
+          {
+            "title": "Synology PHP2Shell: Critical NAS Security Updates Released",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlhGY1FrZkNELWs2ZHZncTZBZm5tN21jOVFkTTBmc1A4ZWNVSzJOYXdwLVN3cW43aG1sZWpDTTRTWVJHak5EaGhfUy0zODBNNExXU1BqRTIwZjM4RDA5LVNYUE96cHZQaHhQZFVpVEp4UHEzaXUzZE53eUwtWFlOWDk4ekE4dnF4V2gxUGx6U0lVcXZR?oc=5",
+            "publisher": "Digital Reviews Network"
+          },
+          {
+            "title": "Ubuntu rolls out php2shell, eMudhra certificate fixes",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTFJVU0wSEYySGNFTkR3SU9ndDJhYng3LVY3VDRIeXN5T2dEMFlRNm1QMUJrUnhNSXlJZTVMbW1KcU9MZDBOdEdxeE1wN240S1BfcHV3bWlDVF9VbUpzLXRLQVpnd2FDSjd4MWNoTnJyTXVHVWxQQTR2MTB6NkxvVdIBhgFBVV95cUxPYjJqZ3BtWmhLc2dnOEhOdDd3NkRzdF9oN2hRRXVNamVBSG9IaW5SMFZMb2RuZnZOXzBtelpLMnJzUXVfVVpiTnZzSXhnblpRLVVzb0lCLUlQSVBnQ3NDQzJVV2ZCcFBiUEllRXVGZ0ZwOTRidExFS2tTQ2poMHlUellkVlJtZw?oc=5",
+            "publisher": "OMG! Ubuntu"
           }
         ]
       }
