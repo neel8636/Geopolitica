@@ -262,13 +262,13 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "4pwuo4",
+    "hash": "1qsbgbr",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "capacity",
+        "effect": "security",
         "likelihood": 0.9,
         "delayDays": [
           2,
@@ -276,81 +276,46 @@
         ],
         "costPct": [
           10,
-          40
+          35
         ],
-        "why": "Gulf exports through Hormuz are running at 60-80% of normal as of late October 2026, and drone strikes on Saudi Aramco and Dammam on 28 October and a possible new US strike on Iran after the midterms keep transit constrained and war-risk costs high.",
-        "action": "Ask your forwarder for current war-risk surcharges and sailing schedules on Gulf-bound and Gulf-origin cargo, and add 7 days of buffer stock for anything that transits Hormuz.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of late October 2026, and OPEC+ has tied its output increases to the strait reopening, so transit remains restricted and costly.",
+        "action": "Ask your forwarder for current war-risk surcharges and transit options for Hormuz cargo, and add 7 days of buffer stock on Gulf-origin or Gulf-bound lines.",
         "sources": [
           0,
-          1,
-          2,
-          3
+          1
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
-        "likelihood": 0.65,
+        "effect": "delay",
+        "likelihood": 0.55,
         "delayDays": [
           2,
           6
         ],
         "costPct": [
-          8,
-          25
+          5,
+          20
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where traffic is running at 60-80% of normal and strikes hit Saudi Gulf targets on 28 October, so vessel calls face schedule gaps and war-risk surcharges.",
-        "action": "Get a quote from your forwarder for routing Jebel Ali cargo via Omani or Red Sea ports with overland trucking, and confirm the cargo insurance covers war-risk.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic is still restricted at 60-80% of normal flows through late 2026, so container sailings and schedules face delays and added surcharges.",
+        "action": "Ask your carrier for confirmed sailing schedules and surcharges into Jebel Ali, and price an alternative routing through an Omani or Red Sea port for urgent cargo.",
         "sources": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "point": "IR_AIRSPACE",
-        "effect": "closure",
-        "likelihood": 0.4,
-        "delayDays": [
-          1,
-          2
-        ],
-        "costPct": [
-          3,
-          10
-        ],
-        "why": "The US is weighing fresh strikes on Iran after the midterms (reported 29 October 2026), so Iranian airspace could close or be avoided on air-freight routes between Europe and Asia.",
-        "action": "Ask your air forwarder to confirm that Europe–Asia routings avoid Iranian airspace, and keep a fallback routing via the Caucasus or Central Asia ready for time-critical shipments.",
-        "sources": [
-          0,
-          2
+          0
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeUN0OW5fTjQ4Nzh5ZVk3bWUxaU10ZGFPUHpFOVE2eXJSLU95eW1vWktxV3UtMG42U2J5ZlJ1Vk8zbVMzNEk1LVRjZjFGak5hYjZ2cWFpVEl5WlNoYnpxa2dVbk0zU2RCVm9wUHczbmVRcEd6alJpZjVkdFl6SFR5YUNUNGw1Mk9pMWZGZE1CWTlSeXpwY3Y2WG14N0ZjVWI4bHRNRUNJVExHekxNNXFUbGltTHZ4UzhKTGk3M0Y4M0hpazdIcUttRlBabWsya05tM0ZDaXE0ZWJaUTh6MVZYV0hQYlhGbEota0FQbGpMV1RyVXNlXzdpR9IBgAJBVV95cUxPY1VRdkM4QmxGcTIwZUxrdmlHY1BqMENTX2FQWThlOWhaSHlNNTRzMWttNVhOSGNieFNKR2s2azBRbkFmQWJsb1F4a3o4Y1RMWnhZbmtIc0ZPQVZtel95Rm5XZDJCTHdzWWJrQkJXcWdVSm9CdDR0RmlNTjNXUWt0NWN5LUhkZGxtenVTNDduYWtLNlN4eGlFWEdhRC1VYUxDOWtkdkx6emZ4QzNqb0VXYWVKcVpHZTdDZWZ0SzFPTW9qNFhxN1pEMTVIVWpoOG9pRGJLd1UzTXFfLWZrU1ZrdGNNYnZxZi13SGdzTTZxaFVWVHoyRURBU2R0SzItTkdZ?oc=5",
-        "publisher": "NDTV Profit",
-        "published": "2026-10-29T01:33:24.000Z"
+        "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR05wUXRmTE5QLTNpWE9WWFpTZ2ZpeVRkdUtKdHVXM0Nxc0pnclVSQk9WSEdjcEVuMXBKdnZkYXY5anZIaUo0bmhYd3M5Z0pEQnp3TFJEay1YamxTNjJubTBqZHBUNlB6MkpuWDBfWVNBTm43RGRUeXFnNng5ZndJVFAxenhWS0x4RzJwTnZBY3ZULTdDbUE?oc=5",
+        "publisher": "EnergyNow",
+        "published": "2026-10-29T01:56:04.000Z"
       },
       {
-        "title": "Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUZkQ2VjYmdCNXJlVHF6dmlQRjJsaS1nV2R1M0FnbGE0TWNIenJ4RmtSQ1EtZkxnRG1YTS1iMXhwYk5PSHljSWdfZVp0Y3Q3SWJSY3M4WXdRYXBveDNqaC1TX2N1bU1TUk5KdXBHMWVlU0YwQkJucDVNMFdoeU9mVGhWcEZnS0x2S3N1QWtCWGhPa29Wd1h3TXJGUndzbGRQ?oc=5",
-        "publisher": "Yahoo Finance",
-        "published": "2026-10-29T00:40:00.000Z"
-      },
-      {
-        "title": "Brent crude jumps 4% to $113 as drone strikes hit Saudi Aramco field and Dammam airport",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvQXlBM05aZnk3V1lFUi1iZ0NCRWY5MzA3VXpUaWFZNzVrT2RYN21tUVpUcE12cVlUUkxLd2lBMHJpX25SQkYzZHNrNUlkR2c2Um80TXp5bzRhWDNiUGVOc28zRVZTMHp1cmc?oc=5",
-        "publisher": "Energies Media",
-        "published": "2026-10-28T22:15:15.000Z"
-      },
-      {
-        "title": "OPEC Holds Nov Oil Output Target Steady Amid Iran War",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXpscFozN0ZkLURGVzNYR3AyV1dkSlRoR0s1THBWUG5TYmM0aEtHaUlXT0kxN2ItTWFzak10TFhrNHVPbXd1bl8xRUt5bXZmSWQyUVVZbXRhTWJqQW5rQ1oycjRMVTdxNGlrOTd3VldfVVc1VHVWRVY3TGtRaEZFbTRsal8xZGJHSVJmYWU3dWlLXzdwVlZEdA?oc=5",
-        "publisher": "THISDAYLIVE",
-        "published": "2026-10-28T13:21:00.000Z"
+        "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3Y0RGFzY3NRTGE3dUVKMXBoUW1KczREQ0lva202bDNPUWFieldnY1BqRGNzWFZEaEU5c2h2VWhYTmNiZzBCRDBWc1NxNzhRS2NmQy1oZi1ESlBwYkNVUmxmS1drem1SeTZWcm5IZkVhRzVZUVFtVmtCOG5jaDdrR0sySW5DZS1hZ3hCamZMTmtMbm9wTGphSUFVVnQ5dVE?oc=5",
+        "publisher": "EnergyNow.com",
+        "published": "2026-10-28T08:35:55.000Z"
       }
     ]
   },
@@ -434,23 +399,23 @@
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "1oevsq3",
+    "hash": "4qhtv8",
     "tags": [],
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "1dmu6mi",
+    "hash": "1xa89o0",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "irr6ad",
+    "hash": "19gtl3i",
     "tags": [],
     "headlines": []
   },
@@ -462,16 +427,16 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "1s2ezvp",
+    "hash": "10prikj",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "19ouday",
+    "hash": "1knaw53",
     "tags": [],
     "headlines": []
   },
@@ -483,9 +448,9 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-29T06:08:05.090Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "11ujw13",
+    "hash": "1pmhom5",
     "tags": [],
     "headlines": []
   },
@@ -504,9 +469,9 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-29T06:08:05.090Z",
+    "at": "2026-10-29T12:08:38.397Z",
     "by": "pipeline",
-    "hash": "n43g5u",
+    "hash": "1xbqtdi",
     "tags": [],
     "headlines": []
   },
