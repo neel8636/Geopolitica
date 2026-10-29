@@ -3140,6 +3140,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-29T16:26:26.982Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 138 min ago"
+    },
+    {
       "at": "2026-10-29T16:09:02.276Z",
       "screened": 0,
       "accepted": [],
@@ -4621,110 +4630,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 1 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-28T03:06:24.951Z",
-      "screened": 129,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Trump to terminate Biden-era methane rules",
-          "reason": "This is mainly a domestic regulatory announcement with no dated decision and no clear, named cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Race for UN secretary-general: Nusseibeh and Orbán",
-          "reason": "These are reports of candidacies and rights-group objections, with no decision made.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "US-Cuba clash at the UN and the embargo vote",
-          "reason": "The annual UN embargo vote and the envoy's scolding are routine statements that decide nothing.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "US may let more Russian diesel onto market",
-          "reason": "The energy secretary only says it 'may' happen, so there is no decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US strike on alleged drug boat kills five",
-          "reason": "These are repeated strikes with no new policy shift and little spillover beyond the incident.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Egypt closes Mada Masr and fines its editor",
-          "reason": "This is a domestic press-freedom case with no clear cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Oleshky truce brokered by Melania Trump",
-          "reason": "This is a local, explainer-style truce story with limited scale.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK sanctions Sudanese military leaders",
-          "reason": "The sanctions are narrow and symbolic, and the story is already judged as below the bar.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Fed expected to hold rates",
-          "reason": "This is a preview of an expected hold, not a decision, and it was already judged a reject.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget previews",
-          "reason": "These are domestic budget previews and commentary with no cross-border channel.",
-          "headlines": 8,
-          "publishers": 2
-        },
-        {
-          "title": "Anthropic IPO coverage",
-          "reason": "This is company and market news with no state or policy angle.",
-          "headlines": 4,
-          "publishers": 2
-        },
-        {
-          "title": "Merz in Asia",
-          "reason": "This is a routine visit with no decision reported.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Iran war: Trump on timing and $47bn cost, Fairford plot, IAEA and UN warnings",
-          "reason": "All of these are developments in the US-Israel war on Iran already on the map.",
-          "headlines": 5,
-          "publishers": 4,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Machado returns to Venezuela",
-          "reason": "This is the return of Machado from exile, which is already an event on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "machado-returns-venezuela-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'",
-          "reason": "Trump's comment is part of the Brazil run-off story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

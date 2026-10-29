@@ -365,9 +365,9 @@
     "headlines": []
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-28T18:07:31.962Z",
+    "at": "2026-10-29T16:26:26.982Z",
     "by": "pipeline",
-    "hash": "1ld7ge2",
+    "hash": "t86nhp",
     "tags": [],
     "headlines": []
   },
@@ -400,9 +400,9 @@
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T16:26:26.982Z",
     "by": "pipeline",
-    "hash": "1bsrwwb",
+    "hash": "i4gmby",
     "tags": [],
     "headlines": []
   },
@@ -570,9 +570,9 @@
     "headlines": []
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-29T02:07:56.431Z",
+    "at": "2026-10-29T16:26:26.982Z",
     "by": "pipeline",
-    "hash": "jnnk1t",
+    "hash": "raedno",
     "tags": [],
     "headlines": []
   },
@@ -605,9 +605,9 @@
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-28T19:41:44.979Z",
+    "at": "2026-10-29T16:26:26.982Z",
     "by": "pipeline",
-    "hash": "13su2s5",
+    "hash": "1wxbm6a",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
@@ -615,14 +615,14 @@
         "likelihood": 0.3,
         "delayDays": [
           1,
-          2
+          3
         ],
         "costPct": [
           0,
-          3
+          5
         ],
-        "why": "Roads were closed and ferries cancelled in Istanbul on 27 Oct 2026 amid a new flood warning, after the 15 Oct floods, so truck access to Ambarlı port terminals may be slowed.",
-        "action": "Ask your forwarder to confirm truck pickup and gate-in slots at Ambarlı for the next two weeks, and add 2 days of buffer to Istanbul-origin casting and component shipments.",
+        "why": "Fresh heavy rain hit Istanbul on 29 Oct after the 15 Oct floods, with roads closed and a ministry warning covering Istanbul, so truck access to the Ambarlı terminals on the western side may be slowed.",
+        "action": "Ask your forwarder for current gate and trucking status at Ambarlı, and add 3 days of buffer to Turkish casting and component shipments leaving in the next 2 weeks.",
         "sources": [
           0,
           1,
@@ -632,22 +632,22 @@
     ],
     "headlines": [
       {
+        "title": "This time the warning came from the ministry! Frightening warning for 29 provinces including Istanbul",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzRLVUZ3eWJ4ZmZ6dkJCek9nbHhPR3gtcDN2UXB5cTlXeWFxdGJHQktjOWdqSEl2TWMyMVlMclB2LUIwQWVMMnlVMW5xQkdhd1BuWjY0LWJHZk1MQUktNHdxVnUtcl9OZnFWQnpNcDVsWkV2V3dMTV9jY3djRm1lUGtaVQ?oc=5",
+        "publisher": "Haberler.com",
+        "published": "2026-10-29T10:31:42.000Z"
+      },
+      {
+        "title": "Attention, Istanbul residents! It will continue uninterrupted for 14 hours.",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1dmMDRraVR0MnVsOTV0N0ZteExvUTBxY0FHUW1IMGVUbU1SX0xGNm1EclJZUWZuVS1uenpjYTRQMnV4aV9uTlczZURrZjcwYUk2SFZQLWhDYTBEUGFOcDZrNEE0OGlqMkd5b2tqcEJ1OW9Zck1kLTE1blNnS2VTYnlJWHE?oc=5",
+        "publisher": "Haberler.com",
+        "published": "2026-10-29T10:06:42.000Z"
+      },
+      {
         "title": "Istanbul floods: roads closed, ferries cancelled due to rain",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEYyNU5vS2xuRXpxQklsQmpFREw1bW5MOHZGWGRlenI2ckxSbllsWWgtTG1MeWIzZjBEYmNQSk5vQW53Y0lWUU5aWl9WdWdWQ3N5SF9JMEM0NWNWTjBfczBjZlZoR0JYZ2VJaEtwVkpLbzNxWGtzRHlKTW5yMDFDY0o5VnZtSFhtRVJmU1lRZUV0YnBVdGplc05lV0xYTDRpaWhlWUUyZWRXc0EyU2c?oc=5",
         "publisher": "Hispanatolia",
-        "published": "2026-10-27T19:00:00.000Z"
-      },
-      {
-        "title": "Istanbul braces for new round of flooding",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXprYzgxVFkya1hhSjJsUEV5bU9MVWEza1pVQXJ0UC14eUgyeDBnZlNTbmswNk9UNjBtSDNaVGpqNGEwVF9pYWhfMDJieksyQk45SGpfNG05TGhJaEpUUzB4X3o1ME1jRGNVUXpzX2ZIbG9uTHdwZ19FQXhnLTlJZFNPc0xmQktXRFE?oc=5",
-        "publisher": "Hürriyet Daily News",
-        "published": "2026-10-26T06:06:16.000Z"
-      },
-      {
-        "title": "New flood warning from Meteorology for Istanbul! Pay attention to Tuesday",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHBiSWhmbHY1T09sM2pfb2Fkb094aTQ4X1pDbWNmc1hMSm1XNUEtdEtVRkxtWVBaNFQ1a0RpWmhmYnk1aVQ3N1dEMms3S1A1aEYzaWxzaVhwR0k2WWdsVFM1REl4b1hzbzRHSnNIX0YzNHpxR2pWYjJVRldveUtZclNDLW1LMTQ?oc=5",
-        "publisher": "Haberler.com",
-        "published": "2026-10-26T04:03:10.000Z"
+        "published": "2026-10-29T05:43:24.000Z"
       }
     ]
   },
