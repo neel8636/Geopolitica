@@ -258,52 +258,52 @@
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "wrlwqz",
+    "hash": "4kp9za",
     "tags": [],
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "860mlm",
+    "hash": "gasfxm",
     "tags": [],
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "1toee8a",
+    "hash": "1gsi5cl",
     "tags": [],
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "1k4fi3n",
+    "hash": "1ok7j1b",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-29T12:08:38.397Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "1qsbgbr",
+    "hash": "2cntes",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.9,
+        "likelihood": 0.95,
         "delayDays": [
           2,
           7
         ],
         "costPct": [
           10,
-          35
+          40
         ],
-        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of late October 2026, and OPEC+ has tied its output increases to the strait reopening, so transit remains restricted and costly.",
-        "action": "Ask your forwarder for current war-risk surcharges and transit options for Hormuz cargo, and add 7 days of buffer stock on Gulf-origin or Gulf-bound lines.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal, and on 2026-10-29 Iran reported three oil tankers hit naval mines near the strait, one of them on fire, so transits face ongoing mine risk, throttled flows and war-risk premiums.",
+        "action": "Ask your forwarder for current war-risk and surcharge quotes on Hormuz-routed cargo, and hold 7-10 days of buffer stock for Gulf-origin goods.",
         "sources": [
           0,
           1
@@ -321,25 +321,26 @@
           5,
           20
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic is still restricted at 60-80% of normal flows through late 2026, so container sailings and schedules face delays and added surcharges.",
-        "action": "Ask your carrier for confirmed sailing schedules and surcharges into Jebel Ali, and price an alternative routing through an Omani or Red Sea port for urgent cargo.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where exports are at 60-80% of normal and mines struck tankers on 2026-10-29, so vessel calls and schedules there are at risk of delays and added war-risk charges.",
+        "action": "Ask your carrier whether Jebel Ali calls are being cut or omitted and book a fallback route, such as an Omani port with trucking, for time-critical boxes.",
         "sources": [
-          0
+          0,
+          1
         ]
       }
     ],
     "headlines": [
       {
-        "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR05wUXRmTE5QLTNpWE9WWFpTZ2ZpeVRkdUtKdHVXM0Nxc0pnclVSQk9WSEdjcEVuMXBKdnZkYXY5anZIaUo0bmhYd3M5Z0pEQnp3TFJEay1YamxTNjJubTBqZHBUNlB6MkpuWDBfWVNBTm43RGRUeXFnNng5ZndJVFAxenhWS0x4RzJwTnZBY3ZULTdDbUE?oc=5",
-        "publisher": "EnergyNow",
-        "published": "2026-10-29T01:56:04.000Z"
+        "title": "Oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iranian Navy",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5",
+        "publisher": "Anadolu Ajansı",
+        "published": "2026-10-29T16:06:03.000Z"
       },
       {
-        "title": "OPEC is Likely Loser in Gulf’s Post-War Race for Market Share: Bousso",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU3Y0RGFzY3NRTGE3dUVKMXBoUW1KczREQ0lva202bDNPUWFieldnY1BqRGNzWFZEaEU5c2h2VWhYTmNiZzBCRDBWc1NxNzhRS2NmQy1oZi1ESlBwYkNVUmxmS1drem1SeTZWcm5IZkVhRzVZUVFtVmtCOG5jaDdrR0sySW5DZS1hZ3hCamZMTmtMbm9wTGphSUFVVnQ5dVE?oc=5",
-        "publisher": "EnergyNow.com",
-        "published": "2026-10-28T08:35:55.000Z"
+        "title": "OPEC+ expected to hold December oil targets steady as supply disruptions persist",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzZ2bjFUcXo3VHlHejloR1hPWGI4czF6V3RoMUNheTBEM1FqVXRZUkFHeVE2WEUwbklDckY1dDMwZ1Uxems5VVJPY1hxZ0FuOHB0b3NHa1dFSWR1bXl5NTVYOERudXZuX19BSmxIU19ycFFmRkJmXzZ0TkNmNW5KdkV5RmVybDh5UTRfcTItNy1sRVJGanRUTXZNT25ScDFSMlZmMVNxOC1NTGJ3RkhFNXpR?oc=5",
+        "publisher": "Oil & Gas 360",
+        "published": "2026-10-27T21:49:52.000Z"
       }
     ]
   },
@@ -351,16 +352,16 @@
     "headlines": []
   },
   "italy-election-2027": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "1ox8f1z",
+    "hash": "45z428",
     "tags": [],
     "headlines": []
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "zw7jhr",
+    "hash": "17v6y1g",
     "tags": [],
     "headlines": []
   },
@@ -659,9 +660,9 @@
     "headlines": []
   },
   "black-october-ai-cyber-wave-2026": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T18:09:06.342Z",
     "by": "pipeline",
-    "hash": "1e544zn",
+    "hash": "4ga46d",
     "tags": [],
     "headlines": []
   },
