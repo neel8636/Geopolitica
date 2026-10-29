@@ -531,9 +531,9 @@
     "headlines": []
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-29T16:26:26.982Z",
+    "at": "2026-10-29T23:09:20.830Z",
     "by": "pipeline",
-    "hash": "raedno",
+    "hash": "rrqp05",
     "tags": [],
     "headlines": []
   },
@@ -566,37 +566,44 @@
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-29T16:26:26.982Z",
+    "at": "2026-10-29T23:09:20.830Z",
     "by": "pipeline",
-    "hash": "1wxbm6a",
+    "hash": "vy132u",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
         "effect": "delay",
-        "likelihood": 0.3,
+        "likelihood": 0.35,
         "delayDays": [
           1,
           3
         ],
         "costPct": [
           0,
-          5
+          3
         ],
-        "why": "Fresh heavy rain hit Istanbul on 29 Oct after the 15 Oct floods, with roads closed and a ministry warning covering Istanbul, so truck access to the Ambarlı terminals on the western side may be slowed.",
-        "action": "Ask your forwarder for current gate and trucking status at Ambarlı, and add 3 days of buffer to Turkish casting and component shipments leaving in the next 2 weeks.",
+        "why": "Heavy rain on 29 Oct 2026 closed roads in at least two Istanbul districts, with an orange-coded warning and about 14 more hours of rain forecast, so truck access to Ambarlı and container pickups may be delayed.",
+        "action": "Ask your forwarder to confirm Ambarlı gate and trucking status before dispatch, and add 3 days of buffer stock for castings and components due to leave Istanbul in the next two weeks.",
         "sources": [
           0,
           1,
-          2
+          2,
+          3
         ]
       }
     ],
     "headlines": [
       {
-        "title": "This time the warning came from the ministry! Frightening warning for 29 provinces including Istanbul",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzRLVUZ3eWJ4ZmZ6dkJCek9nbHhPR3gtcDN2UXB5cTlXeWFxdGJHQktjOWdqSEl2TWMyMVlMclB2LUIwQWVMMnlVMW5xQkdhd1BuWjY0LWJHZk1MQUktNHdxVnUtcl9OZnFWQnpNcDVsWkV2V3dMTV9jY3djRm1lUGtaVQ?oc=5",
+        "title": "Orange-coded warning with 2, yellow-coded with 3: 75 kilograms of precipitation per square meter expected",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeVdNVnkwbnNlaXRWSkhRNzMycWo0QVNUMVUzbV9wcklNRkhsLTc2a3BPRmZYRC1kSlJpQkM3dzREZ05ZQjFxcmdoeXRCYmtnMXh4cGd1SUJBZ01sakw1N0dTZy1UWVgtNVpJQl9ERE9oQ2FENmsyaDFCd0d3d1JabUZWbndOTU44eUIw?oc=5",
         "publisher": "Haberler.com",
-        "published": "2026-10-29T10:31:42.000Z"
+        "published": "2026-10-29T21:21:53.000Z"
+      },
+      {
+        "title": "Heavy downpour in Istanbul! Roads turned into lakes in 2 districts; father and daughter rescued at the last moment.",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWV9tQzJaNlJvWVJpX1RPbE1LbmpsVm1MTTdwR0Qtek1uWlNnMF9SaERJX0huMjg2dlVjajl6OXJMcGlXa0E1MkUtbUJTclVhakwzY3ZsbTVDZl81Y3JXXy1uWURZbXEtdVFPWDZGbUlxTkE2RHk4TTBiT3owZ19WRUo4Nk1RYUJfdU53?oc=5",
+        "publisher": "Haberler.com",
+        "published": "2026-10-29T17:36:45.000Z"
       },
       {
         "title": "Attention, Istanbul residents! It will continue uninterrupted for 14 hours.",

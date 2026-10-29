@@ -282,70 +282,17 @@
     ]
   },
   "france-debt-stress": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T23:09:20.830Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "lagarde-resigns-as-ecb-president",
-        "title": "Lagarde resigns as ECB president",
+        "id": "lescure-vows-to-use-any-tool-on-budget",
+        "title": "Lescure vows to use any tool on budget",
         "when": "2026-10-28",
-        "place": "Frankfurt, Germany",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "ECB President Lagarde resigned, and investors were already focused on her future, which adds central bank leadership uncertainty while French bonds are under pressure.",
-        "via": "central bank leadership uncertainty",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "ECB President Lagarde resigns at time of mounting challenges for Europe",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5",
-            "publisher": "Reuters"
-          },
-          {
-            "title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjFpZVVRRVhoRTVSdVV3dGdtM0Zwa21FZzdHWlpaZmJGUzZvNkVrU0FLMnZfa1doZWg4Q2oxRE9JZzN0T3k2TkcyOW1nMmZUbHBmYzhfc2E5Rk5IaFR2Q3MwMENJaDc1NEtVaU13MElJemR0bFBtMHMwLUlud2VueWhqYw?oc=5",
-            "publisher": "Rock Hill Herald"
-          }
-        ]
-      },
-      {
-        "id": "ecb-set-to-hold-rates-amid-french-focus",
-        "title": "ECB set to hold rates amid French focus",
-        "when": "2026-10-29",
-        "place": "Frankfurt, Germany",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "The ECB is expected to keep rates unchanged at its meeting while investors scrutinise French bonds, which points to no new rate relief for French borrowing costs.",
-        "via": "no new central bank support",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "ECB to keep rates steady amid focus on French bonds",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEFHZGZaSE1KZ1Q0R0d4NTlwYU9INWVPZ2NoUjFzM1k2NXpKVUpMcktOem9ScEFkMFNacmktRVNvN3VnTDBhb0tQNUE3VTJhTWFnS0tiNkVtUnFlZTYyLVkxWFhEX2NtM3RXTGc4WnEzZVpNLUVXR3lLMjhwd3RvaG1CVmNLV1pkMmRJVFdBeXg?oc=5",
-            "publisher": "RTE.ie"
-          },
-          {
-            "title": "ECB expected to hold rates as French bonds come under scrutiny",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX21NNGZISVZIQmlRVmhiNlRvMTRfSDFqTUJRaGM1Z0xSU01oY2liS1RSc01xdGdEWHlDbjJPVTZXalpOYWJiZXhjUUVIN1J6ZUctOVVrejVNM1FCazgyUG9idkl0NlpSelFoWTlFY2ZPdU9nN3A4X0oyb3dlaEtCeGEzSWhYekJMVXRHa29sbkd1MzFiUFhreUlWQmc0Um9NMkxURXFB?oc=5",
-            "publisher": "IDNFinancials"
-          },
-          {
-            "title": "ECB to hold rates as investors focus on French bonds, Lagarde's future",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTjFpZVVRRVhoRTVSdVV3dGdtM0Zwa21FZzdHWlpaZmJGUzZvNkVrU0FLMnZfa1doZWg4Q2oxRE9JZzN0T3k2TkcyOW1nMmZUbHBmYzhfc2E5Rk5IaFR2Q3MwMENJaDc1NEtVaU13MElJemR0bFBtMHMwLUlud2VueWhqYw?oc=5",
-            "publisher": "Rock Hill Herald"
-          }
-        ]
-      },
-      {
-        "id": "lescure-vows-any-tool-to-secure-budget",
-        "title": "Lescure vows any tool to secure budget",
-        "when": "2026-10-28",
-        "place": "Paris, France",
+        "place": "Paris",
         "lat": 48.86,
         "lon": 2.35,
-        "what": "Finance minister Lescure said France is prepared to use any tool to ensure its budget, as investors question fiscal credibility ahead of the Moody's review.",
+        "what": "French minister Lescure said Paris is prepared to use any tool to ensure the budget is delivered, as investors watch the Moody's verdict on France.",
         "via": "budget credibility signal",
         "aspect": "budget",
         "flow": "into",
@@ -358,21 +305,55 @@
         ]
       },
       {
-        "id": "government-tries-to-appease-protesters-hold-deficit",
-        "title": "Government tries to appease protesters, hold deficit",
-        "when": "2026-10-27",
-        "place": "Paris, France",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "France is seeking to placate protesters without widening the budget deficit, which limits how much room the government has to spend while bond investors watch.",
-        "via": "social pressure on deficit",
+        "id": "lagarde-resigns-as-ecb-president",
+        "title": "Lagarde resigns as ECB president",
+        "when": "2026-10-28",
+        "place": "Frankfurt",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "Christine Lagarde stepped down, saying she cannot remain neutral on world events, leaving investors focused on her future and the ECB's leadership while French bonds are under stress.",
+        "via": "ECB leadership uncertainty",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "France seeks to appease protesters without widening deficit",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2RoMXBhZlVTbVAxM1Y5VlJ0YVZzekFyR25FTEFINVlhV2dEazVtRmp1TjRhMEFleHB3Ylhla3B0STBZR200cFl0MVVpbm9tQkFMNTBLQnlrOGY2Z3FjelJDWnF3dGJibllOSlJzbkhHQlRRVWVCVC1WaEJfNkU2Q00xYklNeFZTMkNpdUhoZzA?oc=5",
-            "publisher": "Traders Union"
+            "title": "ECB's Lagarde steps down, saying she can't remain neutral on world events",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZldaRFJxZExRTzZ2T1lfc1pYUWtpbFJwRHk0YmpCaHdkYXd4ZV9vbGpmellrN1Ztck8wallTMnphd1V6VWFLckM4bTRiX1c5VmZmSUZwdUROem02ZXlUY3NKT1poTEhFWDRQOThHcEQ5YkMzY1gxU1NoTm5mdFhVR2xWakJSYUFVSTRKS0Rva1JIR0FhOHFJck5Ic3AzNzNWQTJuMXFySnNFcDNIYXN0TWtn?oc=5",
+            "publisher": "Reuters"
+          },
+          {
+            "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3JZV3ZmZmpsWnBmUEMydG5FdnlObWEzcllJdERoZ1lxdTZ0V2lXbHExTHZWVHVGb0JiZjJQc0g4ejJOUHd5cG5nMWFUcHlYRHBKUDVwNDljd0tfUmZTZDFhNXNJakR6U0hMWF9Bb3U3TExWQ2N3U0dsVzdRc0xfY3cwZzgtSkdISGtfWkwzc2dtQ2thNmdWREJmd2xRdU83OVVic25R?oc=5",
+            "publisher": "WNWN-FM"
+          },
+          {
+            "title": "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KTVBSYkVWcVpTVThRTTJSTFNuX0IzVzROSkF0TWdPal83N2hoR2EyckQ3QUhiWDBEYWpxM2E3WWc3ZEJkZEE0VUp3cFFrOW9r?oc=5",
+            "publisher": "The Edge Malaysia"
+          }
+        ]
+      },
+      {
+        "id": "ecb-holds-rates-flags-december-hike",
+        "title": "ECB holds rates, flags December hike",
+        "when": "2026-10-29",
+        "place": "Frankfurt",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "The ECB kept rates unchanged, signalled a possible December hike and said the rise in yields would weigh on growth, with no intervention on French bonds.",
+        "via": "tighter ECB policy signal",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "ECB flags December hike but sees yield rise hitting growth",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWVJheVZacGhZZXFXZGZ5RU91NEt6eTlObWpmUnBvMFZKVmlVZ2xFVThBNkVrN1hxaTViSllZa0I0TzVMSW5Ub19vWk5ZcFBJZkdnX0lZNGtLZHpFVDF0N2didHE5MER6NjhpdnNyYmJGSVY4azhKTmE1V3pzY2MyOFZRTWtPUWNUS2FMT18zNGRXRlZpQkRUdFVVNDE1VEVGWUg4?oc=5",
+            "publisher": "Reuters"
+          },
+          {
+            "title": "ECB Keeps Rates Unchanged as Lagarde Resigns; Euro, Bond Yields Fall",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFZwYllIVEtVMUczMGF2WTBhbml1R3c4OTJjM1VaWFdvY2Vtcm5mbzhSeVQ4dG1FLUlhWFdWMVFVeHhReGNsU3BCNDA4QmxYWUEtQjE1NWM2bU5vSi0ydHkzd1B1bWFPUWxBYUgzUVRVWXlpaG9vaEd0NTRzYk9ERWVDdw?oc=5",
+            "publisher": "Global Banking & Finance Review"
           }
         ]
       }
@@ -1156,73 +1137,98 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T23:09:20.830Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "rising-prices-and-fading-hopes-across-italy",
-        "title": "Rising prices and fading hopes across Italy",
-        "when": "ongoing",
-        "place": "Italy",
+        "id": "milan-living-costs-drive-teachers-away",
+        "title": "Milan living costs drive teachers away",
+        "when": "2026-10-29",
+        "place": "Milan",
         "lat": 45.46,
         "lon": 9.19,
-        "what": "The New York Times links the protests in Italian cities to rising prices and a loss of hope, especially among younger people.",
-        "via": "household cost pressure",
+        "what": "Reuters reports that Milan's high cost of living is pricing teachers out of the city, a sign of the squeeze behind the unrest.",
+        "via": "housing and price squeeze",
         "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0xOZFotanU1bXQ5Q3ZWVElDT2pKd3FZZ0I2X3B4SHFQUmZjRWVuaGE0M2lEbk1vRFdBcldjekw2SHdMZEIxcnR0M21iemEtOGthZUwtSGhIS2xvM1FEREo4SVJQMkM5c3FtWWlBU3cyTGlGTml3c25sbXVQYWVITmd3QnJ4VEFoTEtzMVRkMHhHSF9mc3V3?oc=5",
-            "publisher": "The New York Times"
+            "title": "Priced out: Milan's cost of living drives away teachers",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVVyVXJ2cGNpTF9vY2ZFUE5jSXpqd1pDdnp6SDNad3doVnJ4N24tYVluZVoxOGVxZm1iTXY3SThNRWJ5UFdWX1ZCNDhfTjFaUWtwd3Vvc2VVQkZHZjFfLWMycTc1Y2s5eHRySXlPNWhGSGYyQ05vTnVDVS13elhSUkpLRjdnMGNhM2NzblM4UTF2THFCYW9B?oc=5",
+            "publisher": "Reuters"
           }
         ]
       },
       {
-        "id": "rioters-secret-chats-discuss-attacking-police",
-        "title": "Rioters' secret chats discuss attacking police",
-        "when": "2026-10-28",
+        "id": "general-strike-over-living-costs-and-war-spending",
+        "title": "General strike over living costs and war spending",
+        "when": "2026-10-30",
         "place": "Milan",
         "lat": 45.46,
         "lon": 9.19,
-        "what": "Reported secret chats among rioters, featuring an Islamic academic, discussed beating police officers and torching government buildings, pointing to organised planning behind the violence.",
-        "via": "organised violent intent",
-        "aspect": "security",
+        "what": "A general strike across public and private sectors is set for 30 October, with marches in Milan, Turin and other cities against living costs and war spending.",
+        "via": "union mobilisation",
+        "aspect": "jobs",
         "flow": "into",
         "sources": [
           {
-            "title": "Rioters Discussed Beating Cops, Torching Government Buildings In Secret Chats Featuring Islamic Academic",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVQ1RlZ5dUFnZW43dGZxbHY4VzJEa2x4OEJqZlp4VHNlbnpETzFQSUtSNHV0ZG5sQV95XzFreFZqdjZZWlZZczlQUFBCd0tSa2JuYlB6UkRjdS1XNU9PbFlBR2J6YWhjRFg3TjVKMkNZQnA3Nzh5cndGYlE5VlVLaklGaDdXTzBIZW9tTVdvTUpZQQ?oc=5",
-            "publisher": "The Daily Caller"
+            "title": "General Strike on October 30: What Italy Can Expect",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uazNHMzVzaFV5NnZxRHN6N05FZ1l0eGlTMm5jbjFVaWprc1R2NzBZdjQxVzZTQklnMzlmTThzaG5SRUtxMGRGUmtiYVpldm1CRC1xS25RMEtPSGNSVWZOaWlqbnZhS3h0NUNyQ0kzekx0TUN5VG9wSDR3?oc=5",
+            "publisher": "italien.news"
+          },
+          {
+            "title": "Italy to see major strikes against cost of living and war spending",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFl1dWphdGlFYnQ5bUQ3R3F3X09SdXBpM19Ld1lBYkw1NnE3QW1mS3BLZXFCckV0c2dJTW5BNlQxcnA3cUxnVTd1dkxpZ0ZFaWVFN1pMS015Q2NXQnc2UW5PeFZCS1ZhWWlnWnJMRl9mQlVNbXRlMm5vVTBkUFE5RzJBZDFZS2dVUlB0aENfeFhLODNLMjhjVUJNTl96Vkh0bFk5eUl5MkhVOFg4aHA5cHI0TXBqQi1CQkRVaVJ5NW5xejg?oc=5",
+            "publisher": "Euronews.com"
+          },
+          {
+            "title": "Domani corteo per lo sciopero a Milano, Usb: \"Riprendiamoci la tangenziale\"",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEVqeC1FSjhnaDkxNU1KUTkxbi1SOV9SZjB3dHltMHNMRmpVazNGVTRKWWNmT2FHemI4eUk5WkhJR2UtR1ZRY2xvUlphQWtlSmtZcWFxVmRxMGpVTEpLZXVnWHVqd3NIV2xmZFM0RzN6aDFyb0h3aU81MHpDa3BHMGNmWGctRkhMbnlkOFBQMFBaUENOWFo5U1Z4d2Q5eGtGS1BPdVRHWTM3dnFMUENTM0JSTUl1TlBIM0EtNWc3UkZ1TmttMWdqRDJlLUo?oc=5",
+            "publisher": "Agenzia Nova"
+          },
+          {
+            "title": "Strike on 30 October: both the public and private sectors are affected. Public transport services will run as normal",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN05IMmt1QmJZOGdwN1ZXMjFhZEo3cU1wbEsyZDBiaHg3dHRoZk04VTZ6MndaTHZLRmlLb1B4cXhUbXp3TzNWVjFFV1ZsYXlXWHFhZjhRa19nUFpVSGhVLWh2ZGZsejlUT3M0MUZORHJsT2oyVEdHNUlKOThDVnpKRUlHeHVjc1dNWW81a2dpUkFRZ2V1UFVUUGVSRTJ1cThLaFdGekQ4d1BVZTV4X1hOUC1oSWlOUjllMHhDUGpSNnk4ZjBJNmo1LUNlTTh4Szd1dVE?oc=5",
+            "publisher": "Il Sole 24 ORE"
+          },
+          {
+            "title": "Italy takes to the streets: from Turin to Naples, all tomorrow’s marches",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGdNeHJaa0N3T2FoTV9QZDgzRy1XSHRwYmpOeEJzNXBib0hRd2hxb3JNM3FyWllfX29MSEo2V1Y5MFVaY2NYSXNRRDlxekdjOVdaN0xubmRDTGlfampaTlRwUlYyeWxETTJOYVJCNU1UbWh0aHVnZjVCWHNNamhlSmRkWV93Smx2SlVZUW9CNGFJT05MckZpSEx3U1d4ZEdQTDZKTkFpbUQwQWlOb2tFS3ZUQ2JuSm1hV09vakROajRNTk9jcEdKV1Axbw?oc=5",
+            "publisher": "la Repubblica"
           }
         ]
       },
       {
-        "id": "judge-frees-alleged-milan-riot-organiser",
-        "title": "Judge frees alleged Milan riot organiser",
+        "id": "milan-court-frees-alleged-riot-organizer",
+        "title": "Milan court frees alleged riot organizer",
         "when": "2026-10-28",
         "place": "Milan",
         "lat": 45.46,
         "lon": 9.19,
-        "what": "A Milan judge released Youssef Siher, an alleged organiser arrested after the riots, and Prime Minister Meloni called the decision shameful.",
-        "via": "political anger over leniency",
+        "what": "A Milan judge released Youssef Siher, the suspected organizer of the riots, and Meloni called the decision shameful, sharpening the political row.",
+        "via": "political anger",
         "aspect": "politics",
         "flow": "both",
         "sources": [
           {
+            "title": "Youssef, the 'mastermind' of Italy protests? Meloni fumes as Milan court frees the riots suspect",
+            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeGc4Sk1QLVY4OUhtQ0R0VUswY0Y0VjlHWTJCcVhkZ3JQcDhXOGVSQ21zRy1TRXQ4WVhDS3FDT25lSURkSkxpOU0zeWJ4amEtaFpub1BkaU9PTWx4MnAxXzRIVnAtSlFzaXdwWVlEN040QXQ1MHhOT1l5SndxRTF4YXNyRHlhQTJ2VjlpWG1ZX2pPWUpBVXpJbU4yamlWMFJRalJPUWYxWVdIQkdocVR0SGhqNm5ESDVkTUstRjdKT1k5Mk9SVW5kZ2lSSGxncE1CdV8tZ0FuSlAyZHB0cVFpZDFIWjZ0Z3BwMzZkQnkybXJDWFpPa1I0Y3VkSTNyVDJ4eFFxY2dHN1NqRFk5WDlnMNIBigJBVV95cUxNek55QmJnY0hTQ2VicGxFWjZYdU41RFp6bVJRQlNhREVwWWUyeXdfZGVtUjBDLVpYMFdJTTVhSVlQT0loWVFWbHpsTjNGWDR5TUVqcVdISDNELXpsc21EbkJfWWhIZTNBUXdhUUdnWGJPSU1ZVEtSVEpsZ0VSM1lSX1czdGtRNzV4clVDN2xsdG5TYjRlUk9DdVhtZkRkajJjb1AzN2hvVkRFM2VoWWg0cFZjYzN5MElHRUZNcl9ZbUJ5MjhQWkNKX2hTQmRQWTNtT2Ewb2xINWg0VGhqeEZ1UE9JZ0dhQmd0UkNZZGVDZ2hDdWZ6X3JBaFltak9CYXJYT3hQd1pDN1ZyZw?oc=5",
+            "publisher": "The Economic Times"
+          },
+          {
             "title": "Meloni Condemns ‘Shameful’ Release of Alleged Organizer of Milan Riots",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2VzMzV2Xy1TdE9YV0Nxd2FkTm1xRXducHZaSXBRVVoxdzhydUhiN2dnWHNWV0Z3WWRpdVA4bHh3VFZJbDRITlFIREhMSW9DOEwxTkdSM1hic1FaZThHV0p2b0k3UVNNNHZkenFrX0lWQmprcDBjWjQzSUwxUnNuMW9VSVo1cThTU09ZZGR3ODI1TUFTa2wzZ0diOE1zcERZVWtkajNNUVpZTEwtQTE5anptSQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2VzMzV2Xy1TdE9YV0Nxd2FkTm1xRXducHZaSXBRVVoxdzhydUhiN2dnWHNWV0Z3WWRpdVA4bHh3VFZJbDRITlFIREhMSW9DOEwxTkdSM1hic1FaZThHV0p2b0k3UVNNNHZkenFrX0lWQmprcDBjWjQzSUwxUnNuMW9VSVo1cThTU09ZZGR3ODI1TUFTa2wzZ0diOE1zcERZVWtkajNNUVpZTEwtQTE5anptSdIBuAFBVV95cUxQb3Q3bXRtUXlpN0IzWmV3VENOb2twZ2NmRW51UThoOWFpbWhWZkxObGR1TllwWUFGaUdaM1ZrcWFBdkw1eVVDcE9IU180em1xWUVra2t4d1dWNFdLd0JBTkd1RzVJZ2RtTXVhdmhRSWNxQ2xzZVZwRHYxaG9uY0JjOWlwVl9BWHN0Nm40UmRSbWtpT2JvX28tWkZYVHIxTHEtaXR2WTh4SHNxSFRtR09LNDlrb2c0cUlH?oc=5",
             "publisher": "Breitbart News"
           },
           {
-            "title": "Italian PM slams 'shameful' release of alleged protest organiser",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWlBIZVRZSWRwb00teE1QRVlabXBpcFUwYmdLajBUdUJjTjlJLVhiRHhfNGdwUF9yMlNlMVpvMjkxbnVCS0MycVNCZkgzRFFlNjRPX1oyLVlPZUViWXFKcEFWRnh1TWxXRV9FdVlqclMtXzZSUXRPOVBPQmVxamdpSkFTeHpGcm1wYkkwNzZ2TTNTWTYxbWh1R0N2RXdoNnZQbVlGczdn?oc=5",
-            "publisher": "Bangkok Post"
+            "title": "Italian judge frees protest suspect, sparking Meloni outrage",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXBLSUk0Rk12WmJUNVZzSllMQkF6Skl5enRDMkJHNmUwYmhqWmJ4b214U0lYRno4MGlKNFpjbms1VGYzWHpzVDFmb2Jya0l6bF9lckhfd1dNcXU1elRkNjctY0xhWlJiVDZ2UTVYekpIcG9jbHUzYnFtOHN2UWRJYTRGMFJHNXB0ME4zbkcteGplQmpvWjRaT3NSaTFiZm1IanJaVWFHMjRmVDZy?oc=5",
+            "publisher": "Sowetan"
           },
           {
-            "title": "Italian judge frees protest suspect, prompting Meloni fury",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak1XQ3I5Y25ZUUdWTlFEbnJYcTFNRFgxTmYzRXJzVFhkYzNpdHk1NUVyMzlVTzlLOGxhX0Z1QlFMNW45MEFQNlRfS3lEenZtUllHMDQtMnRWZy1oY3NHQXVxYmh6UzA0ZUluSXR2bE51RFFzeF9mUXZPR0JpY2ttdWkyRktiNktZb3ZSb3E1d0dLSkVOSkxKSGc0VDNWX25yNm41WFVyaDl3N1hwYmJKeGk5dGY?oc=5",
-            "publisher": "Reuters"
+            "title": "Italian PM slams ‘shameful’ release of alleged protest organizer",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDZvbTZOVjlTQUNhV1VYVWdGY2VkekpPLVhJTEhpYld6MzB1Z0hzVG1aX0s2R2JGVUVOYm9ka2dNMXFzQkVuMW5DckVSbVZXa0FUMU5mUkpLaXg3djhGa3lidXlxSWxUa0NQenV5clZVbXJKemhIcHRJUzBhNjdHTjg1TmhWcnYydmJNOE1sN0RaT3NWMkZ0V2dEeGVZQVU3R25z?oc=5",
+            "publisher": "Arab News"
           },
           {
             "title": "Italian Judge Releases Youssef Siher After Milan Riot Arrest",
@@ -3187,54 +3193,68 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-29T11:08:29.745Z",
+    "at": "2026-10-29T23:09:20.830Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "un-support-for-ending-cuba-embargo-falls",
-        "title": "UN support for ending Cuba embargo falls",
-        "when": "2026-10-28",
-        "place": "New York",
-        "lat": 40.75,
-        "lon": -73.97,
-        "what": "Backing in the UN General Assembly for the annual vote to end the US embargo on Cuba dropped to a multi-decade low at the 34th vote.",
-        "via": "weaker international backing for Havana",
-        "aspect": "politics",
+        "id": "trump-and-rubio-to-visit-venezuelan-crude-tanker",
+        "title": "Trump and Rubio to visit Venezuelan crude tanker",
+        "when": "2026-10-27",
+        "place": "Texas",
+        "lat": 29.76,
+        "lon": -95.37,
+        "what": "Trump and Rubio are set to visit a tanker carrying Venezuelan crude in Texas while Cuba suffers a fuel shortage, tying US energy leverage to the pressure on Havana.",
+        "via": "Cuban fuel shortage leverage",
+        "aspect": "energy",
         "flow": "into",
         "sources": [
           {
-            "title": "Support for UN vote to end US embargo on Cuba falls to 30-year low",
-            "url": "https://www.euronews.com/2026/10/28/support-for-un-vote-to-end-us-embargo-on-cuba-falls-to-30-year-low",
-            "publisher": "Euronews"
+            "title": "Trump and Rubio to Visit Venezuelan Oil Tanker in Texas Amid Cuba's Fuel Crisis",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01NDhHSEZmQl8zcWNYdDE5cmRvLW9rM2pLbFc4UW5HSHNCeEJjcnU4VEpkTTcydDBvMEdHUUs3ODhHUnA0YVRpS3FXa0FCRzhkQXc2TFowSng?oc=5",
+            "publisher": "CubaHeadlines"
           },
           {
-            "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
-            "publisher": "UN News"
-          },
-          {
-            "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
-            "publisher": "UN News"
+            "title": "Trump and Rubio will visit an oil tanker with Venezuelan crude in Texas while Cuba suffers from a fuel shortage",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0tDRTdUUWxhQkUtLWtxYkkyUDhkS1o1NXJubGV0SjlHOWRMN3ZzdHdkSlNjeEx6M1hvR0tOYldBMFlSTld6LUNRdWIwaW1PY3JsYnVKck1lQzAyTUZwX3BrUm80RkVNU2FQbk8wTl91aXRhUlpPaVNjSVN0VTh2N1JPWmpCdDBIdzFya3RzZVpLcTg5eGRTWGxETjV3M2xQenJySklpLTRrSXY2aF93QjhZUGFlaTg1OUZnenJ3?oc=5",
+            "publisher": "CiberCuba"
           }
         ]
       },
       {
-        "id": "rubio-says-cuba-needs-very-drastic-change",
-        "title": "Rubio says Cuba needs 'very drastic' change",
+        "id": "trump-revives-cuba-military-intervention-idea",
+        "title": "Trump revives Cuba military intervention idea",
         "when": "2026-10-27",
-        "place": "Washington",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "Rubio said Cuba needs a 'very drastic' change while dodging questions about his CIA appeal, signalling the US position on pressing Havana.",
-        "via": "stated US regime-change stance",
+        "place": "South Florida",
+        "lat": 25.76,
+        "lon": -80.19,
+        "what": "At a South Florida rally, Trump revived the idea of military intervention in Cuba after Iran, raising the threat level behind Rubio's appeal.",
+        "via": "escalating US threat rhetoric",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2JPZFc2TnZ3ZVZiczkxczhEXzYxTDQxVml3UldnWTUtRDZGaFl3NmZzRE5WcEtvWi1qMlFUZzJGWWtjWTZUVEVvejdFV3dtdUJCNG1DSjZmbHpoc1lTR1hrUXBLNmRCSDFnNTQtbWdmb1BhcUlPRjRJNWowZzY3Wmp6VlpqVE9ZNzYxRlNmdjVuMTk1WUdac1VWQmFQUXVjYVloZ042MjlwNDIwTGdGYnBrSXU0MjRSaWItX1FUZTdrTGU3aDVvNXdIS3Q1NkZFWHF2ekJWTQ?oc=5",
+            "publisher": "Scripps News"
+          }
+        ]
+      },
+      {
+        "id": "un-embargo-vote-support-hits-20-year-low",
+        "title": "UN embargo vote support hits 20-year low",
+        "when": "2026-10-28",
+        "place": "New York",
+        "lat": 40.75,
+        "lon": -73.97,
+        "what": "Backing for the UN call to end the US embargo on Cuba fell to its lowest level in 20 years, easing diplomatic constraints on US pressure.",
+        "via": "weaker international backing for Cuba",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Marco Rubio Says Cuba Needs a ‘Very Drastic’ Change and Dodges Questions About His CIA Appeal",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBleFFhalhWOHhSRmJQYjhkNWIxNUVHM1VUMnQzcmRQMURXdUkyMTVaN1c2QlBqOTRoNnNDWFdnQjBnSEtzaHRxMWtVOElqdHcyQXY3UV9fNk5xODFNMFNpODFiVElPVEFYR092Z1BzWEQ0Y0FobFlHVw?oc=5",
-            "publisher": "Cubanos por el Mundo"
+            "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+            "publisher": "UN News"
           }
         ]
       }
