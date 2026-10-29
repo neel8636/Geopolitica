@@ -3244,6 +3244,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-29T22:09:23.720Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 6 new uncovered headlines"
+    },
+    {
       "at": "2026-10-29T21:17:25.589Z",
       "screened": 0,
       "accepted": [],
@@ -4797,130 +4806,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 7 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-28T09:06:50.199Z",
-      "screened": 136,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Fed meets with Warsh signalling possible hikes",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget 2026: energy standing charges, minimum wage, pensioners",
-          "reason": "The measures are mostly domestic household policy, and the headlines name no clear cross-border channel.",
-          "headlines": 10,
-          "publishers": 2
-        },
-        {
-          "title": "Cruise voyages cut short by fuel costs",
-          "reason": "This is a consumer and human-interest story about stranded passengers, with no state actor and no policy decision.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Russian and Ukrainian strikes on Kharkiv, Odesa, Zaporizhzhia and Voronezh",
-          "reason": "These are routine strike reports with no new decision or cross-border effect.",
-          "headlines": 4,
-          "publishers": 2
-        },
-        {
-          "title": "US may let more Russian diesel onto the market",
-          "reason": "The energy secretary only says it 'may' happen, so there is no decision or date yet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Trump to terminate Biden-era methane rules",
-          "reason": "This is a domestic regulatory rollback with no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "King Charles on Caribbean tour and slavery legacy",
-          "reason": "These are ceremonial visits and statements that decide nothing.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Mbappé Mao joke backlash in China",
-          "reason": "This is a celebrity and sponsor controversy with no state policy angle.",
-          "headlines": 4,
-          "publishers": 4
-        },
-        {
-          "title": "Cyclone Arnab hits Andhra Pradesh",
-          "reason": "This is a regional natural disaster with no stated effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UN General Assembly Cuba embargo vote",
-          "reason": "This is a routine annual vote that changes nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK sanctions Sudanese military leaders",
-          "reason": "The sanctions are narrow, targeting individuals, and have little reach beyond symbolism.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US strike on alleged drug vessel in eastern Pacific",
-          "reason": "This is a recurring small-scale strike with no new policy decision or clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UN secretary-general race: Orbán and Nusseibeh",
-          "reason": "These are reports of backing and opposition, not a decision.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "European debt stress lifts corporate borrowing costs",
-          "reason": "This is a Goldman analysis of the European bond stress already tracked on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Commentary on Israel election result",
-          "reason": "This is opinion on the Israeli election already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "US midterm campaign coverage and explainers",
-          "reason": "These are campaign coverage and explainers belonging to the midterms event already on the map.",
-          "headlines": 4,
-          "publishers": 3,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'",
-          "reason": "This belongs to the Brazil run-off event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "UN briefings on Iran inspections, Iran-US escalation and Ethiopians fleeing to Kenya",
-          "reason": "These cover the Iran-US escalation already tracked on the map; the Ethiopian refugee item is a separate thread.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

@@ -344,11 +344,51 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-29T16:09:02.276Z",
+    "at": "2026-10-29T22:09:23.720Z",
     "by": "pipeline",
-    "hash": "1o6wgu7",
-    "tags": [],
-    "headlines": []
+    "hash": "udylxc",
+    "tags": [
+      {
+        "point": "GENOA",
+        "effect": "delay",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "A general strike covering public and private sectors is scheduled for 30 October against the cost of living and war spending, and Italian general strikes have previously brought dockworker stoppages and gate blockades at Genoa, though the headlines do not mention the port.",
+        "action": "Ask your forwarder to confirm terminal gate and truck slot status for 30-31 October, and move pick-ups or deliveries at Genoa away from those days or add 2 days of buffer.",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "General Strike on October 30: What Italy Can Expect",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uazNHMzVzaFV5NnZxRHN6N05FZ1l0eGlTMm5jbjFVaWprc1R2NzBZdjQxVzZTQklnMzlmTThzaG5SRUtxMGRGUmtiYVpldm1CRC1xS25RMEtPSGNSVWZOaWlqbnZhS3h0NUNyQ0kzekx0TUN5VG9wSDR3?oc=5",
+        "publisher": "italien.news",
+        "published": "2026-10-29T18:54:01.000Z"
+      },
+      {
+        "title": "Italy to see major strikes against cost of living and war spending",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFl1dWphdGlFYnQ5bUQ3R3F3X09SdXBpM19Ld1lBYkw1NnE3QW1mS3BLZXFCckV0c2dJTW5BNlQxcnA3cUxnVTd1dkxpZ0ZFaWVFN1pMS015Q2NXQnc2UW5PeFZCS1ZhWWlnWnJMRl9mQlVNbXRlMm5vVTBkUFE5RzJBZDFZS2dVUlB0aENfeFhLODNLMjhjVUJNTl96Vkh0bFk5eUl5MkhVOFg4aHA5cHI0TXBqQi1CQkRVaVJ5NW5xejg?oc=5",
+        "publisher": "Euronews.com",
+        "published": "2026-10-29T16:47:34.000Z"
+      },
+      {
+        "title": "Strike on 30 October: both the public and private sectors are affected. Public transport services will run as normal",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN05IMmt1QmJZOGdwN1ZXMjFhZEo3cU1wbEsyZDBiaHg3dHRoZk04VTZ6MndaTHZLRmlLb1B4cXhUbXp3TzNWVjFFV1ZsYXlXWHFhZjhRa19nUFpVSGhVLWh2ZGZsejlUT3M0MUZORHJsT2oyVEdHNUlKOThDVnpKRUlHeHVjc1dNWW81a2dpUkFRZ2V1UFVUUGVSRTJ1cThLaFdGekQ4d1BVZTV4X1hOUC1oSWlOUjllMHhDUGpSNnk4ZjBJNmo1LUNlTTh4Szd1dVE?oc=5",
+        "publisher": "Il Sole 24 ORE",
+        "published": "2026-10-29T11:40:57.000Z"
+      }
+    ]
   },
   "italy-election-2027": {
     "at": "2026-10-29T18:09:06.342Z",
