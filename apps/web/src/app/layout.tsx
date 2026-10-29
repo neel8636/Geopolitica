@@ -6,6 +6,7 @@ import "@fontsource/ibm-plex-sans/500.css";
 import "@fontsource/ibm-plex-sans/600.css";
 import Link from "next/link";
 import ThemeToggle, { THEME_SCRIPT } from "@/components/ThemeToggle";
+import MobileNav from "@/components/MobileNav";
 import JourneyChip from "@/components/journey/JourneyChip";
 import AuthProvider from "@/components/auth/AuthProvider";
 import AccountMenu from "@/components/auth/AccountMenu";
@@ -27,39 +28,41 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       </head>
       <body className="min-h-full flex flex-col">
         <AuthProvider>
-        <header className="border-b border-line">
-          <nav className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-5 gap-y-2 px-4 py-3 sm:px-6">
-            <Link href="/" className="inline-flex items-center gap-2 font-serif text-xl font-medium no-underline">
+        <header className="relative border-b border-line">
+          <nav className="mx-auto flex max-w-6xl items-center justify-between gap-x-5 px-4 py-2 sm:flex-wrap sm:gap-y-2 sm:px-6 sm:py-3">
+            <Link href="/" className="inline-flex min-w-0 items-center gap-2 font-serif text-lg font-medium no-underline sm:text-xl">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/brand/globe-96.png" alt="" width={30} height={30} className="rounded-md" />
-              <span>Geopolitica <span className="hidden text-sm font-normal text-ink-2 xl:inline">· enterprise edition</span></span>
+              <img src="/brand/globe-96.png" alt="" width={28} height={28} className="rounded-md" />
+              <span className="truncate">Geopolitica <span className="hidden text-sm font-normal text-ink-2 xl:inline">· enterprise edition</span></span>
             </Link>
-            {/* one scrolling row on a phone, so the header never eats the map */}
-            <div className="order-3 flex w-full items-center gap-4 overflow-x-auto whitespace-nowrap text-[15px] sm:order-2 sm:ml-auto sm:w-auto sm:gap-4">
+            {/* desktop and tablet: the links in a row */}
+            <div className="hidden items-center gap-4 whitespace-nowrap text-[15px] sm:ml-auto sm:flex">
               <JourneyChip />
-              <Link href="/events" className="no-underline hover:underline">
-                Events
-              </Link>
-              <Link href="/dossiers" className="no-underline hover:underline">
-                Dossiers
-              </Link>
-              <Link href="/changes" className="no-underline hover:underline">
-                Change radar
-              </Link>
-              <Link href="/lanes" className="no-underline hover:underline">
-                Lanes
-              </Link>
-              <Link
-                href="/enterprise"
-                className="rounded-sm bg-teal px-3 py-1.5 text-paper no-underline hover:opacity-90"
-              >
-                For your company
-              </Link>
+              <Link href="/events" className="no-underline hover:underline">Events</Link>
+              <Link href="/dossiers" className="no-underline hover:underline">Dossiers</Link>
+              <Link href="/changes" className="no-underline hover:underline">Change radar</Link>
+              <Link href="/lanes" className="no-underline hover:underline">Lanes</Link>
+              <Link href="/enterprise" className="rounded-sm bg-teal px-3 py-1.5 text-paper no-underline hover:opacity-90">For your company</Link>
               <ThemeToggle />
             </div>
-            <div className="order-2 whitespace-nowrap sm:order-3">
+            <div className="hidden whitespace-nowrap sm:block">
               <AccountMenu />
             </div>
+            {/* phone: one short row, everything else behind the menu button */}
+            <MobileNav>
+              <div className="flex flex-col text-[16px]">
+                <span className="border-b border-line py-3 empty:hidden"><JourneyChip /></span>
+                <Link href="/events" className="border-b border-line py-3 no-underline">Events</Link>
+                <Link href="/dossiers" className="border-b border-line py-3 no-underline">Dossiers</Link>
+                <Link href="/changes" className="border-b border-line py-3 no-underline">Change radar</Link>
+                <Link href="/lanes" className="border-b border-line py-3 no-underline">Lanes</Link>
+                <Link href="/enterprise" className="mt-3 rounded-md bg-teal px-3 py-2.5 text-center text-paper no-underline">For your company</Link>
+              </div>
+              <div className="mt-3 flex items-center justify-between gap-3">
+                <AccountMenu />
+                <ThemeToggle />
+              </div>
+            </MobileNav>
           </nav>
         </header>
         <main className="flex-1">{children}</main>

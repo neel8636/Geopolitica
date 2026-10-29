@@ -36,6 +36,7 @@ export const SHARED = [
   "components/auth/ConsentBanner.tsx",
   "components/auth/SignInGate.tsx",
   "components/ThemeToggle.tsx",
+  "components/MobileNav.tsx",
   "lib/firebase.ts",
   "app/join/page.tsx",
 ];

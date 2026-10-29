@@ -248,6 +248,7 @@ export default function MapFirst(props: MapFirstProps) {
   const [sheetDrag, setSheetDrag] = useState<number | null>(null);
   const [mobile, setMobile] = useState(false);
   const [keyOpen, setKeyOpen] = useState(false);
+  const [layersOpen, setLayersOpen] = useState(false); // phone: the three layer switches sit behind one button
   const [cards, setCards] = useState<Record<string, CardLite> | null>(null);
   const [q, setQ] = useState("");
   const [tip, setTip] = useState<{ x: number; y: number; html: ReactNode } | null>(null);
@@ -679,11 +680,13 @@ export default function MapFirst(props: MapFirstProps) {
 
   const [vx, vy, vw, vh] = vb;
   const dots = G.pts.map((p) => {
-    const e = p.e, r = rad(e) * k, dim = near && !near.has(p.id), isSel = sel === p.id;
+    // a phone shows the whole map on a small screen: smaller dots and tighter rings keep Europe readable
+    const ds = mobile ? 0.8 : 1;
+    const e = p.e, r = rad(e) * k * ds, dim = near && !near.has(p.id), isSel = sel === p.id;
     const c = fam(p.id), n = (fuel[p.id] ?? []).length;
     const ring: ReactNode[] = [];
     if (layers.fuel && n && !isSel) {
-      const R = r + 3.6 * k, gap = n > 1 ? 0.18 : 0;
+      const R = r + 3.6 * k * ds, gap = n > 1 ? 0.18 : 0;
       let a0 = -Math.PI / 2;
       for (const f of FAMS)
         if (c[f]) {
@@ -701,8 +704,8 @@ export default function MapFirst(props: MapFirstProps) {
       <g key={p.id}>
         <g data-ev={p.id} style={{ cursor: "pointer" }} opacity={dim ? 0.22 : 1}>
           {layers.pulse && todaySet.has(p.id) ? <circle className="mf-halo" cx={p.x} cy={p.y} r={r * 1.5} fill="none" stroke="var(--gold)" strokeWidth={1.3} vectorEffect="non-scaling-stroke" /> : null}
-          {isNew && !seenNew[p.id] ? <circle className="mf-ping" cx={p.x} cy={p.y} r={r + 7 * k} fill="none" stroke="var(--new)" strokeWidth={2} vectorEffect="non-scaling-stroke" /> : null}
-          {isNew ? <circle cx={p.x} cy={p.y} r={r + 7 * k} fill="none" stroke="var(--new)" strokeWidth={2} vectorEffect="non-scaling-stroke" /> : null}
+          {isNew && !seenNew[p.id] ? <circle className="mf-ping" cx={p.x} cy={p.y} r={r + 7 * k * ds} fill="none" stroke="var(--new)" strokeWidth={mobile ? 1.6 : 2} vectorEffect="non-scaling-stroke" /> : null}
+          {isNew ? <circle cx={p.x} cy={p.y} r={r + 7 * k * ds} fill="none" stroke="var(--new)" strokeWidth={mobile ? 1.6 : 2} vectorEffect="non-scaling-stroke" /> : null}
           {ring}
           <circle
             cx={p.x} cy={p.y} r={r}
@@ -729,8 +732,11 @@ export default function MapFirst(props: MapFirstProps) {
   });
 
   // the NEW pills sit above every dot, so a crowded region cannot hide one
+  // on a phone at world view the pills pile on top of each other: the coral ring marks a new
+  // event there, and the pills come back once the reader zooms in or picks "new"
+  const pillsOn = !mobile || vw < W / 2.6 || newOnly || Boolean(near);
   const pills = G.pts
-    .filter((p) => newSet.has(p.id) && p.id !== sel && !(near && !near.has(p.id))) // the open event says NEW in the panel
+    .filter((p) => pillsOn && newSet.has(p.id) && p.id !== sel && !(near && !near.has(p.id))) // the open event says NEW in the panel
     .map((p) => {
       const r = rad(p.e) * k;
       return (
@@ -745,7 +751,7 @@ export default function MapFirst(props: MapFirstProps) {
   const labels: ReactNode[] = [];
   const placed: { x0: number; x1: number; y0: number; y1: number }[] = [];
   for (const p of G.pts)
-    if (newSet.has(p.id) && !(near && !near.has(p.id))) {
+    if (pillsOn && newSet.has(p.id) && !(near && !near.has(p.id))) {
       const r = rad(p.e) * k, x0 = p.x + r + 4 * k, y0 = p.y - r - 14 * k;
       placed.push({ x0, x1: x0 + 29 * k, y0, y1: y0 + 13 * k });
     }
@@ -1099,8 +1105,8 @@ export default function MapFirst(props: MapFirstProps) {
       data-spotlight="key"
       onPointerEnter={() => learn.L.learned && setKeyOpen(true)}
       onPointerLeave={() => { setKeyOpen(false); setLit(null); }}
-      className={`absolute z-[16] rounded-xl border border-line bg-paper shadow-[var(--shadow)] ${mobile ? "left-2.5 right-2.5 px-2 py-1.5" : `bottom-5 left-[62px] ${slim ? "px-2.5 py-1.5" : "w-[318px] px-3 py-2.5"}`}`}
-      style={mobile ? { bottom: sheetPx + 8, display: sheetPx > (height ?? 800) * 0.7 ? "none" : undefined, transition: sheetDrag === null ? "bottom .2s" : undefined } : undefined}
+      className={`absolute z-[16] border border-line shadow-[var(--shadow)] ${mobile ? "left-1/2 -translate-x-1/2 rounded-full bg-paper/90 px-1 py-0.5 backdrop-blur" : `bottom-5 left-[62px] rounded-xl bg-paper ${slim ? "px-2.5 py-1.5" : "w-[318px] px-3 py-2.5"}`}`}
+      style={mobile ? { bottom: sheetPx + 8, display: sheetPx > (height ?? 800) * 0.6 ? "none" : undefined, transition: sheetDrag === null ? "bottom .2s" : undefined } : undefined}
       aria-label="Key"
     >
       {!mobile && !slim ? (
@@ -1109,7 +1115,7 @@ export default function MapFirst(props: MapFirstProps) {
           <button type="button" onClick={learn.reset} className="text-[11px] font-normal normal-case tracking-normal text-ink-3 hover:text-ink">{learn.L.learned ? "learn again" : "reset"}</button>
         </div>
       ) : null}
-      <div className={mobile || slim ? "flex justify-between gap-1" : ""}>
+      <div className={mobile ? "flex gap-0.5" : slim ? "flex justify-between gap-1" : ""}>
         {FAMS.map((f) => (
           <button
             key={f}
@@ -1117,14 +1123,14 @@ export default function MapFirst(props: MapFirstProps) {
             aria-pressed={brush === f}
             onClick={() => { setBrush((b) => (b === f ? null : f)); learn.expose(f, "key"); }}
             onPointerEnter={() => !brush && setLit(f)}
-            className={`flex items-center gap-2 rounded-lg border px-1.5 py-1 text-left transition-colors ${mobile || slim ? "" : "w-full"} ${lit === f || brush === f ? "border-ink-3 bg-paper-2" : "border-transparent hover:bg-paper-2"}`}
+            className={`flex items-center border text-left transition-colors ${mobile ? "gap-1.5 rounded-full py-1 pl-1 pr-2.5" : `gap-2 rounded-lg px-1.5 py-1 ${slim ? "" : "w-full"}`} ${lit === f || brush === f ? "border-ink-3 bg-paper-2" : "border-transparent hover:bg-paper-2"}`}
           >
-            <FamIcon f={f} size={24} />
+            <FamIcon f={f} size={mobile ? 20 : 24} />
             <span className="min-w-0">
-              <b className="text-[13.5px] font-semibold">{FNAME[f]}</b>
+              <b className={`${mobile ? "text-[13px]" : "text-[13.5px]"} font-semibold`}>{FNAME[f]}</b>
               {!mobile && !slim ? <span className="block text-xs leading-snug text-ink-2">{FWHAT[f]}</span> : null}
             </span>
-            {!slim ? (
+            {!slim && !mobile ? (
               <span className="ml-auto flex shrink-0 gap-[3px] pl-1" title={learn.knows(f) ? "Learned" : `Seen ${learn.L.seen[f]} of 3`}>
                 {[0, 1, 2].map((i) => <i key={i} className="inline-block h-1.5 w-1.5 rounded-full" style={{ background: learn.L.seen[f] > i || learn.L.learned ? "var(--ink-2)" : "var(--line)" }} />)}
               </span>
@@ -1142,7 +1148,7 @@ export default function MapFirst(props: MapFirstProps) {
           <span className="flex items-center gap-1.5"><svg width="22" height="8" aria-hidden><path d="M0 4h22" stroke="var(--ink-3)" strokeWidth="1.5" strokeDasharray="3 3" /></svg>same driver</span>
         </div>
       ) : null}
-      {learn.quiz ? (
+      {learn.quiz && !mobile ? (
         <div className="mt-2 border-t border-line pt-2">
           <p className="mb-1.5 text-[13px] font-semibold">Quick check: which colour is {FNAME[learn.quiz.ans]}?</p>
           <div className="flex gap-2">
@@ -1188,7 +1194,7 @@ export default function MapFirst(props: MapFirstProps) {
       </svg>
 
       {/* search and layers */}
-      <div className="absolute left-4 right-4 top-3 z-[17] flex flex-wrap items-center gap-2 md:right-[420px]">
+      <div className={`absolute top-3 z-[17] flex items-center gap-2 md:right-[420px] ${mobile ? "left-2.5 right-2.5" : "left-4 right-4 flex-wrap"}`}>
         <div className="relative min-w-0 flex-1 md:max-w-[380px]">
           <svg className="absolute left-3 top-[11px] text-ink-3" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" aria-hidden><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
           <input
@@ -1209,16 +1215,40 @@ export default function MapFirst(props: MapFirstProps) {
             </div>
           ) : null}
         </div>
+        {mobile ? (
+          <div className="relative">
+            <button type="button" aria-expanded={layersOpen} aria-label="Map layers" onClick={() => setLayersOpen((o) => !o)} className={chip(layersOpen)}>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinejoin="round" aria-hidden><path d="M12 3 2.5 8 12 13l9.5-5z" /><path d="m2.5 12.5 9.5 5 9.5-5" /></svg>
+            </button>
+            {layersOpen ? (
+              <div className="absolute right-0 top-10 z-30 flex w-44 flex-col gap-1.5 rounded-xl border border-line bg-paper p-2 shadow-[var(--shadow)]" role="group" aria-label="Map layers">
+                <button type="button" aria-pressed={layers.lines} onClick={() => setLayers((l) => ({ ...l, lines: !l.lines }))} className={chip(layers.lines)}>
+                  <svg width="16" height="8" aria-hidden><path d="M0 4h16" stroke="currentColor" strokeWidth="2" /></svg>Ripples
+                </button>
+                <button type="button" aria-pressed={layers.fuel} onClick={() => setLayers((l) => ({ ...l, fuel: !l.fuel }))} className={chip(layers.fuel)}>
+                  <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: "conic-gradient(var(--money) 0 33%, var(--goods) 0 66%, var(--people) 0)" }} />Fuel
+                </button>
+                <button type="button" aria-pressed={layers.pulse} onClick={() => setLayers((l) => ({ ...l, pulse: !l.pulse }))} className={chip(layers.pulse)}>
+                  <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ border: "2px solid var(--gold)" }} />Pulse
+                </button>
+              </div>
+            ) : null}
+          </div>
+        ) : null}
         <div className="flex gap-1.5" role="group" aria-label="Map layers">
+          {mobile ? null : (
+            <>
           <button type="button" aria-pressed={layers.lines} onClick={() => setLayers((l) => ({ ...l, lines: !l.lines }))} className={chip(layers.lines)}>
-            <svg width="16" height="8" aria-hidden><path d="M0 4h16" stroke="currentColor" strokeWidth="2" /></svg>{mobile ? null : "Ripples"}
+            <svg width="16" height="8" aria-hidden><path d="M0 4h16" stroke="currentColor" strokeWidth="2" /></svg>Ripples
           </button>
           <button type="button" aria-pressed={layers.fuel} onClick={() => setLayers((l) => ({ ...l, fuel: !l.fuel }))} className={chip(layers.fuel)}>
-            <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: "conic-gradient(var(--money) 0 33%, var(--goods) 0 66%, var(--people) 0)" }} />{mobile ? null : "Fuel"}
+            <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ background: "conic-gradient(var(--money) 0 33%, var(--goods) 0 66%, var(--people) 0)" }} />Fuel
           </button>
           <button type="button" aria-pressed={layers.pulse} onClick={() => setLayers((l) => ({ ...l, pulse: !l.pulse }))} className={chip(layers.pulse)}>
-            <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ border: "2px solid var(--gold)" }} />{mobile ? null : "Pulse"}
+            <i className="inline-block h-2.5 w-2.5 rounded-full" style={{ border: "2px solid var(--gold)" }} />Pulse
           </button>
+            </>
+          )}
           {newSet.size ? (
             <button
               type="button"
@@ -1235,7 +1265,7 @@ export default function MapFirst(props: MapFirstProps) {
       </div>
 
       {/* zoom */}
-      <div className={`absolute z-[15] flex flex-col gap-1.5 ${mobile ? "right-2.5 top-14" : "bottom-5 left-4"}`}>
+      <div className={`absolute z-[15] flex flex-col gap-1.5 ${mobile ? "right-2.5 top-[58px]" : "bottom-5 left-4"}`}>
         {/* on a phone, pinch and double-tap zoom; only "whole world" needs a button */}
         {(mobile ? [["⟲", "Whole world", () => { select(null); world(); }]] : [["+", "Zoom in", () => zoomBy(1.6)], ["−", "Zoom out", () => zoomBy(1 / 1.6)], ["⟲", "Whole world", () => { select(null); world(); }]]).map(([t, l, fn]) => (
           <button key={l as string} type="button" aria-label={l as string} onClick={fn as () => void} className="h-9 w-9 rounded-lg border border-line bg-paper text-lg shadow-[var(--shadow)]">{t as string}</button>

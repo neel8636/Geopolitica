@@ -6,6 +6,7 @@ import "@fontsource/ibm-plex-sans/500.css";
 import "@fontsource/ibm-plex-sans/600.css";
 import Link from "next/link";
 import ThemeToggle, { THEME_SCRIPT } from "@/components/ThemeToggle";
+import MobileNav from "@/components/MobileNav";
 import AuthProvider from "@/components/auth/AuthProvider";
 import AccountMenu from "@/components/auth/AccountMenu";
 import ConsentBanner from "@/components/auth/ConsentBanner";
@@ -43,24 +44,39 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <AskProvider>
         <FollowProvider>
         <RippleProvider>
-        <header className="border-b border-line">
-          <nav className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-5 gap-y-2 px-4 py-3 sm:px-6">
-            <Link href="/" className="inline-flex items-center gap-2 font-serif text-xl font-medium no-underline">
+        <header className="relative border-b border-line">
+          <nav className="mx-auto flex max-w-6xl items-center justify-between gap-x-5 px-4 py-2 sm:flex-wrap sm:gap-y-2 sm:px-6 sm:py-3">
+            <Link href="/" className="inline-flex min-w-0 items-center gap-2 font-serif text-lg font-medium no-underline sm:text-xl">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/brand/globe-96.png`} alt="" width={30} height={30} className="rounded-md" />
-              <span>Geopolitica <span className="text-ink-2">Atlas</span></span>
+              <img src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/brand/globe-96.png`} alt="" width={28} height={28} className="rounded-md" />
+              <span className="truncate">Geopolitica <span className="text-ink-2">Atlas</span></span>
             </Link>
-            <div className="order-3 flex w-full items-center gap-4 overflow-x-auto whitespace-nowrap text-[15px] sm:order-2 sm:ml-auto sm:w-auto sm:gap-5">
+            {/* desktop and tablet: the links in a row */}
+            <div className="hidden items-center gap-5 whitespace-nowrap text-[15px] sm:ml-auto sm:flex">
               <Link href="/" className="no-underline hover:underline">Map</Link>
               <Link href="/events" className="no-underline hover:underline">Events</Link>
               <Link href="/drivers" data-spotlight="drivers" className="no-underline hover:underline">Drivers</Link>
               <TrackerLink />
               <Link href="/guide" className="no-underline hover:underline">How to use</Link>
-              <span className="ml-auto sm:ml-0"><ThemeToggle /></span>
+              <ThemeToggle />
             </div>
-            <div className="order-2 whitespace-nowrap sm:order-3">
+            <div className="hidden whitespace-nowrap sm:block">
               <AccountMenu />
             </div>
+            {/* phone: one short row, everything else behind the menu button */}
+            <MobileNav>
+              <div className="flex flex-col text-[16px]">
+                <Link href="/" className="border-b border-line py-3 no-underline">Map</Link>
+                <Link href="/events" className="border-b border-line py-3 no-underline">Events</Link>
+                <Link href="/drivers" className="border-b border-line py-3 no-underline">Drivers</Link>
+                <span className="border-b border-line py-3"><TrackerLink /></span>
+                <Link href="/guide" className="border-b border-line py-3 no-underline">How to use</Link>
+              </div>
+              <div className="mt-3 flex items-center justify-between gap-3">
+                <AccountMenu />
+                <ThemeToggle />
+              </div>
+            </MobileNav>
           </nav>
         </header>
         <main className="flex-1">{children}</main>
