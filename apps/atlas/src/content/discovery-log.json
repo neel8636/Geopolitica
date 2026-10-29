@@ -1,53 +1,13 @@
 {
   "screenedAt": "2026-10-29T01:07:57.113Z",
   "judged": {
-    "b2917dd007e7": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
     "895da49a496a": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "existing"
     },
-    "6f37d453b00a": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "6d1c11498368": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "6c7824dee722": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "a8a581da4ae0": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
     "516f4db7f1a8": {
       "at": "2026-10-25T07:02:23.740Z",
       "verdict": "existing"
-    },
-    "30380f954590": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "6819bcf1aa6a": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "f9c375ea1e90": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "b6d5e3b98501": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "e613862d2873": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
     },
     "cccc77875e33": {
       "at": "2026-10-28T12:07:03.388Z",
@@ -61,21 +21,9 @@
       "at": "2026-10-25T07:02:23.740Z",
       "verdict": "reject"
     },
-    "0bf52164d348": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "255affda73ae": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
     "e450d03e81ee": {
       "at": "2026-10-25T11:06:55.905Z",
       "verdict": "existing"
-    },
-    "80c603c2aff7": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
     },
     "dfdd9f293412": {
       "at": "2026-10-25T11:06:55.905Z",
@@ -88,10 +36,6 @@
     "a732864d1bbe": {
       "at": "2026-10-26T00:03:19.315Z",
       "verdict": "existing"
-    },
-    "7f7e2339ee67": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
     },
     "b0c34648a870": {
       "at": "2026-10-25T17:43:18.721Z",
@@ -112,10 +56,6 @@
     "9b3717d4e5cc": {
       "at": "2026-10-25T17:43:18.721Z",
       "verdict": "existing"
-    },
-    "cc84288b4a7b": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
     },
     "e5ea854cf613": {
       "at": "2026-10-25T14:16:07.161Z",
@@ -140,10 +80,6 @@
     "45b93fa6540e": {
       "at": "2026-10-26T00:03:19.315Z",
       "verdict": "reject"
-    },
-    "31cf0bf073cd": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "existing"
     },
     "e5663ae65fd5": {
       "at": "2026-10-25T14:16:07.161Z",
@@ -172,18 +108,6 @@
     "cbf5e0442f19": {
       "at": "2026-10-26T20:04:33.577Z",
       "verdict": "existing"
-    },
-    "9819b59e3011": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "63634ed8ad25": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
-    "50ea892d32f2": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
     },
     "9b30060e71a6": {
       "at": "2026-10-26T00:03:19.315Z",
@@ -217,10 +141,6 @@
       "at": "2026-10-25T11:06:55.905Z",
       "verdict": "existing"
     },
-    "e908fe6f876c": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "reject"
-    },
     "8ee271454714": {
       "at": "2026-10-25T14:16:07.161Z",
       "verdict": "accept"
@@ -228,14 +148,6 @@
     "f06838f075fd": {
       "at": "2026-10-26T03:03:28.997Z",
       "verdict": "reject"
-    },
-    "391f8599ec0f": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "no story"
-    },
-    "65d78514c70d": {
-      "at": "2026-10-25T02:02:15.770Z",
-      "verdict": "no story"
     },
     "115edf62c0a5": {
       "at": "2026-10-25T07:02:23.740Z",
@@ -2964,6 +2876,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-29T02:07:56.431Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 0 new uncovered headlines"
+    },
+    {
       "at": "2026-10-29T01:07:57.113Z",
       "screened": 126,
       "accepted": [],
@@ -4445,101 +4366,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 36 min ago"
-    },
-    {
-      "at": "2026-10-27T12:05:30.282Z",
-      "screened": 119,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "South Africa suspends asylum applications after unrest",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Mbappé loses Chinese sponsors over Mao remark",
-          "reason": "Celebrity and sponsorship story with no state or policy angle.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UK Budget previews and tariff cuts on some food",
-          "reason": "A domestic budget story and previews, with only a minor tariff angle.",
-          "headlines": 5,
-          "publishers": 1
-        },
-        {
-          "title": "Iraqi court sentences six French nationals to life",
-          "reason": "A court case with no clear effect on state decisions or flows abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "HSBC results and UK bank tax talk",
-          "reason": "Company news with no policy decision.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Azerbaijan hijab ban protests",
-          "reason": "Rare protests that are local in scale and have no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Flooding in Guayaquil, Ecuador",
-          "reason": "Local weather event with no effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "UK charges two over alleged Iran-linked plot after RAF Fairford incident",
-          "reason": "The incident at a UK base used for Iran strikes is a spillover of the US-Israel war on Iran, already on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "North Korean howitzers spotted near the South Korean border",
-          "reason": "This is further North Korean military escalation, part of the existing missile-test story.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "north-korea-missile-tests-2026"
-        },
-        {
-          "title": "China industrial profits post strongest growth in three months",
-          "reason": "A data point on the export-led Chinese growth already covered by the map event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "china-q3-growth"
-        },
-        {
-          "title": "International delegates barred from entering the West Bank",
-          "reason": "This is part of the West Bank lockdown already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "west-bank-lockdown-hebron-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'",
-          "reason": "A comment on the Brazilian run-off already covered by the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "Trump weighs deal or escalation with Iran; Guterres warns",
-          "reason": "These are developments in the US-Iran war and the Gulf energy shock.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
