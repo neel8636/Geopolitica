@@ -116,56 +116,37 @@
     ]
   },
   "alberta-independence-vote": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "third-party-groups-spend-over-2m-on-ads",
-        "title": "Third-party groups spend over $2M on ads",
+        "id": "first-nations-voters-lean-heavily-against-referendum-questio",
+        "title": "First Nations voters lean heavily against referendum questions",
         "when": "2026-10-28",
-        "place": "Alberta",
-        "lat": 53.53,
+        "place": "Alberta First Nations communities",
+        "lat": 53.55,
         "lon": -113.49,
-        "what": "Elections Alberta reported more than $2 million spent by third parties on referendum advertising, shaping the campaign messaging ahead of the vote.",
-        "via": "campaign ad spending",
+        "what": "First Nations voters leaned heavily 'no' on the referendum's immigration questions, adding a sizeable bloc of opposition to the ballot proposals.",
+        "via": "First Nations 'no' votes",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Elections Alberta: Over $2M spent on third-party referendum adveritising",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXpjMFJHeWpWYnFYaTRSZGp3elRjaXJZQ1RyMHRmZF9tRGVJRlRYQWozUlNBZ254V3NoVjBEWUtqUjNnNW5ncUFjUzRlSzdXZDk4eERob0plYXdjRDZSODdrQVg1NmE2RHdNVk12R0dxT04wRU1rT1JwR29FM09tM04zcmxWbG1pdUxiZks0Zm9wTGpUdkFXUUVzSERqNmZySmYyYi04Ujg0eW8?oc=5",
-            "publisher": "FortSaskOnline.com"
+            "title": "First Nations voters lean heavily 'no' on Alberta referendum immigration questions",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ005Y3NRRUYzZ3daeTZQZ1BGcWljcXhTSXMxd2FlV2xSQllFa0Nsekl6LTBGcU4yZkJJWEJ5VEJsRGR4Ny1LMlM1NkZlWU1zdElBLUlxVzZrVzJ6REszZjUtMkFWa0hUa2tIdUlEdEY5MFFVTWtfTTRDZUEyQXlqRE5IVFFqWV9kdm5GT3djdUwxVVNhZXc0azB6Y3pmUzJo?oc=5",
+            "publisher": "CBC"
           }
         ]
       },
       {
-        "id": "banff-and-canmore-vote-almost-9-in-10-to-remain",
-        "title": "Banff and Canmore vote almost 9 in 10 to remain",
-        "when": "2026-10-28",
-        "place": "Banff and Canmore",
-        "lat": 51.18,
-        "lon": -115.57,
-        "what": "Nearly nine in ten voters in Banff and Canmore chose for Alberta to remain in Canada, adding to the lopsided provincial result.",
-        "via": "strong local remain vote",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Nearly 9 in 10 voters in Banff, Canmore chose for Alberta to remain in Canada",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUmQyZ0tNS21VSngybXcyazlfbkNxdVJKWGFHMkp3dEUwcnZJT2VYUngtVVVvOHlVY0dVTEVpSDM4bjM4MHM3U25YUE9ZMXY1RjQxR3FEUHIyVXpnUTlPZGhfblkwc3ZkajU5emM4aFRXTlVMdTFLVlg3aFAtUGtMV0lZT2FhdjFmNEhZcm9oSV9WdEJJM013cmxsUFhucVUxWk5LTXMzZnhPbXJfWWJZNFpQb3JZaVN3MWtj?oc=5",
-            "publisher": "Rocky Mountain Outlook"
-          }
-        ]
-      },
-      {
-        "id": "canada-us-trade-talks-stall-amid-tariff-dispute",
-        "title": "Canada-US trade talks stall amid tariff dispute",
+        "id": "carney-holds-off-on-a-u-s-trade-deal",
+        "title": "Carney holds off on a U.S. trade deal",
         "when": "2026-10-28",
         "place": "Ottawa",
         "lat": 45.42,
         "lon": -75.7,
-        "what": "Carney said Canada is not in a position to agree to a US trade deal and is not near one before the midterms, as the trade war continues.",
-        "via": "tariff-driven grievances with Ottawa",
+        "what": "Carney said Canada is not in a position to sign a U.S. trade deal, leaving the tariff standoff that sharpens Alberta's grievances with Ottawa unresolved.",
+        "via": "ongoing tariff pressure",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -175,14 +156,14 @@
             "publisher": "CBC"
           },
           {
-            "title": "Canada not near trade deal with U.S. before midterms, Carney says",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTlnLThLY1dodVVLdjgtaFRfWlRBWE9lVlg0SWMwY2ZWcVdaajR1YVFuMmRoZTk5YmpsNXppQVF5MlAtdkdJR3V0ZzNUMkRHLXpzVkhaZmJvTEVzY1FVOTVMbDAwamM3bGpqaWUxcnpOTGNIZWdycTdkS1BVYXdpWUhPaEdSVkZIUk1HY29R?oc=5",
-            "publisher": "Global News"
+            "title": "Carney says Canada not ready to sign U.S. trade deal as midterms near",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZmlBTTdwRE4tVFhlSVdsRVBSN0pHcGR1STNzTWFQYTRmUjdkLXlOZTcyckNlOVk0N3gtYVR4NnJvZVZoVEF2bmplTTNOUDlJT1B2NTVnS25IeTJIb2hDS0xUcW9YUHZHbERWSVZSMkFBMGxEd0twSjRPLUJ2bDNDU0F6aVd0RWcxSTU3MUJqOTF5Mlp5ODVWNDcwMzFzZ1E?oc=5",
+            "publisher": "The Hub | More Signal. Less Noise."
           },
           {
-            "title": "Trump predicts quick end to Canada trade war as Carney hints at U.S. movement",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2hBVXNCcWZfSERRblBwbjcwQWptZDVJc2o1V29jV3dFMC14VlRnRXo0ZUF0dmFMMjdZbERLM2RaeVVIcjI1Ni13TU9WM1Y3VDB2TmdNalRPS09MLUZxQ2xoY3M1ZUVPMTF1cDBHemtpNmhCQUJ1ZlJya1B6cVkwbUNDLUtGUERCbDdUSW9ZTVNsS1BNdEZOcDF0Wlp3OHllam91bzRWNU5PQQ?oc=5",
-            "publisher": "The Hub | More Signal. Less Noise."
+            "title": "Canada not yet ready to finalise US trade deal, says Carney",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbVQ4QXdmNHNCdUY5VGNkTlNSVTQ0THdoX2s4M0ZLRTFWUlUzai1pcDFWLS1OY1d0THFPNXhGQ0ZZaUwzWVN3Q215QzR6YlF2OFBUQWJQUVFIWWN2dzE0MkxXLWR1dWZZdXp3bkM0Z3pMaUctVE9zUVFpTlhBTjZqRmZyNEN0cE9ua01jYXQxSXhINUdUY0xwUUxqWERPNVI1VmZNZmZHNUgtaXkwMnF4N2FVd9IBwAFBVV95cUxPWVJkWU55NDNhOGxCcjJuRGNjYll1cktRdW42X3dYRmhGemhwLW9oVXlWenZQYkd6ZlVlT01iNnp6MFJEUlJoQWltMTI1U2s2MUJ4aHpyZUw5aHA5XzdOV2c1RUtQemhPdmlhNTBqR2RubEFRV2hKRVRYaTN3UHJtekFMQVlLeHBOdThhVThPNWw1cHZjNGtoblRSUFI4TThZVmtZQzlMUjc3RlQ0a0NCY29FQmFHUnN0aHBTYnUxbDE?oc=5",
+            "publisher": "National Herald"
           }
         ]
       }
@@ -810,19 +791,67 @@
     ]
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "kremlin-no-final-deal-on-putin-trump-xi-meeting",
-        "title": "Kremlin: no final deal on Putin-Trump-Xi meeting",
-        "when": "2026-10-28",
-        "place": "Moscow, Russia",
-        "lat": 55.75,
-        "lon": 37.62,
-        "what": "The Kremlin says no final agreement exists on a Putin-Trump-Xi meeting, while reports say a nuclear negotiation summit is being considered and China stays tight-lipped.",
-        "via": "possible three-way summit",
+        "id": "kim-jong-un-s-china-visit-and-us-talks",
+        "title": "Kim Jong Un's China visit and US talks",
+        "when": "2026-10-29",
+        "place": "Beijing",
+        "lat": 39.9,
+        "lon": 116.41,
+        "what": "South Korea's spy agency says Kim Jong Un may have discussed possible talks with the US during his China visit, raising the odds of a Trump-Kim meeting around APEC.",
+        "via": "possible Trump-Kim meeting",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "(2nd LD) N.K. leader may have discussed potential talks with U.S. during China visit: spy agency",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPMm9IUmdkaHEyUXF5dTJjU3JLamEzMjBCTXdZejNiZHRRbExTdk5wQl9lRG9FdDJCamdCcXhQSE9NWjNCNDNWN3ItalRiSnVRcktTc3YtMFNiUQ?oc=5",
+            "publisher": "Yonhap News Agency"
+          },
+          {
+            "title": "NK leader may have discussed potential talks with US during China visit: spy agency",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0JGMmRlVDRncUtSSDR4WWpnWVQzb1ZDSTMtS0xlZW81ckh2V1hNVWNJX3dxSWNGTlRrSUZLdXZNbW42X3dheUVKbmJ6TFdKd190T1Q1M2t4S0w0dWNOSWZ0eGNVOUVOMVN6d3hYMUo1QUk3eFJ5RlFVWGUwQnN1b0JXOXNlclRsVXF6REhYYzE3RWJUbkczamhaWFdOYmRyS3d1ZjhvNEYzOEt4a0VhZm9DNWpkMEw2VWhjTW04M3EyUDdOQlVEVENUUE1MQ3NuNU9KOWN3c2gyMzEwel82MFExcW7SAeQBQVVfeXFMUDdCRjJkZVQ0Z3FLUkg0eFlqZ1lUM29WQ0kzLUtMZWVvNXJIdldYTVVjSV93cUljRk5Ua0lGS3V2TW1uNl93YXlFSm5iekxXSndfdE9UNTNreEtMNHVjTklmdHhjVTlFTjFTend4WDFKNUFJN3hSeUZRVVhlMEJzdW9CVzlzZXJUbFVxekRIWGMxN0ViVG5HM2poWlhXTmJkckt3dWY4bzRGMzhLeGtFYWZvQzVqZDBMNlVoY01tODNxMlA3TkJVRFRDVFBNTENzbjVPSjljd3NoMjMxMHpfNjBRMXFu?oc=5",
+            "publisher": "The Korea Times"
+          },
+          {
+            "title": "Could Trump meet Kim Jong Un at APEC? Seoul’s spy agency sees diplomatic uncertainty",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHd4V0w5MktRS1Z2dWNxaE5tRWRtdWNCMDZYVDBycDc5dnE2NjJvUVY5a2c3OUVTaGk2SDF4LXNMVHU1U2pQeWl6R2NtUWo3dGRCUHNUM0ZfRy02MVBqemljUnkyMEtoeTFnVm5SZjFhNnl5ZEtqY2J5c2lwWFYzbkpPR19OS3ZjM0dWdkFPYlJ0dXZ5cncyLThNYVBmdjZuVkRwQVBJQ0lGSHBkRk9zRFMyN0FjVjAxZWVoM1UwRTlGaXFkWU5iM2stSkpBdXFFSzRN?oc=5",
+            "publisher": "Business Upturn"
+          }
+        ]
+      },
+      {
+        "id": "north-korea-fires-10-ballistic-missiles",
+        "title": "North Korea fires 10 ballistic missiles",
+        "when": "2026-10-29",
+        "place": "Korean Peninsula waters",
+        "lat": 39,
+        "lon": 127.5,
+        "what": "North Korea launched 10 ballistic missiles into the sea, raising regional tension before the summit and complicating any Trump-Kim meeting on the trip.",
+        "via": "regional security tension",
         "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "North Korea fires 10 ballistic missiles into sea amid rising tensions",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEw5Q1A1aFJtM2lyRk5hYUctMDg1SmlFWDl0eTlTeDItVWVwN3IyaU45enUtaTB6Wkc1d3FUT2lnZEtFNU5Wa0VsUkxjNXR5MWZNME9KTnFNRmlfejVlcmlsX1JOQWN6UWJ6ZXRlODZWZ3V4X0ZYUFJUNWx6MmtBZ25uYnJIZnBHb3JidnFRZXBtdkhiRkhhZHI4WGlLdjVhR3lfbXd3?oc=5",
+            "publisher": "Daily Beirut"
+          }
+        ]
+      },
+      {
+        "id": "proposed-putin-trump-xi-meeting-no-deal-yet",
+        "title": "Proposed Putin-Trump-Xi meeting, no deal yet",
+        "when": "2026-10-28",
+        "place": "Moscow",
+        "lat": 55.76,
+        "lon": 37.62,
+        "what": "The Kremlin says there is no final agreement on a Putin-Trump-Xi meeting, while Ukraine wants its Abu Dhabi talks with Russia held before any such summit.",
+        "via": "possible three-way summit",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
@@ -831,38 +860,9 @@
             "publisher": "Caspian Post"
           },
           {
-            "title": "As rumors of Xi-Trump-Putin trilateral talks grow louder, China becomes more tight-lipped",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHdLLVBIMnBSYzhLMVBlZ1lkNkpTWEgyZTVPMjZDdFVFeS1XNHdtOXpHRVBtQWNxOW83amhFZFNoLTU2bDhzZnV4MVMwYnFOMURWdjA4eVV5U3FZYkJKWU9PTF8wOWRaSFVyV2NhRkhWWDRVdzQtcDNPRnRidnhuZE1mUG9FbUNkd0tTbVhrNXBpUHhlLV91ZFM2Qm9jOWVuR2NEZ3dqR1FENEVHNGE1SmROelhUMEJXS0plZmNwRUVOMlBpd2c?oc=5",
-            "publisher": "Modern Diplomacy"
-          },
-          {
-            "title": "Trump, Xi, and Putin Consider Nuclear Negotiation Summit: What Could This Mean?",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSTg1Z3RfVWVrRmxUdWt5OU1vck1Kbl8wY3Q4UG01Szk4S1RMS1RCRUVmb1VUZENvNzdUelJjLW4zaGhxVW55RkV4dWg1X084WDQ3TXhNY3E?oc=5",
-            "publisher": "CubaHeadlines"
-          }
-        ]
-      },
-      {
-        "id": "ukraine-wants-abu-dhabi-talks-before-summit",
-        "title": "Ukraine wants Abu Dhabi talks before summit",
-        "when": "2026-10-28",
-        "place": "Kyiv, Ukraine",
-        "lat": 50.45,
-        "lon": 30.52,
-        "what": "Zelensky wants talks with the US and Russia in Abu Dhabi before any Trump-Putin-Xi meeting, fearing Ukraine could be sidelined in a three-power deal.",
-        "via": "Kyiv's demand on sequencing",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
             "title": "Ukraine wants its Abu Dhabi talks with Russia before a proposed Trump-Putin-Xi summit",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
             "publisher": "Euromaidan Press"
-          },
-          {
-            "title": "Zelenskyy wants Abu Dhabi talks with U.S. and Russia before possible Trump-Putin-Xi meeting",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLUczN0pLc1M1UGwyUW9WdFBVTjRpQ0JQbl8xeG9KRTBjNU9HT1VHQUtfaUxvMzV4MzI3eW8yWVpZbzVJTTd0d1NudGh0SzBmb3RhMW5GTXhaMzdzdVpDNUJKSzV0UFlGU3hMdmFWSDJxb3RWVmFNM3FkWEY5UUVpLVo2dHlic09YemstU2pTMWFER200THM4TnJCVDZqbi1fanc5bEpqLU96Rk4yUTlpUWpUZ1RCSnlCbTdseUNCM0lfMEXSAb8BQVVfeXFMUE1jOW9kSU1LdkZqa054bVp2Zk5Vb0dDMlpIcmt3V1ZVbjFNa3Zlai1fY0ZaVlVQOGt0TEFXM1R2ZDhEbUxDQy10VEk1MWJBcXhBV2xoaVJrZmhXdlUyWlZpOVczNDJBUHRxek14X3ZKeFFGTUczRWo2OWROX3JyRHJsNUhqc1dHN1FtNnlJNWxPdk15UVpPanU4Ym1CbHN3ajFCdDM1RlhlQmp0d0NldE9QYWFaSjJOcnZURTdxWHc?oc=5",
-            "publisher": "The New Voice of Ukraine"
           },
           {
             "title": "Zelensky fears that a summit between the US, Russia and China could redraw the world map without taking Ukraine into account",
@@ -872,74 +872,21 @@
         ]
       },
       {
-        "id": "trump-kim-meeting-looks-uncertain",
-        "title": "Trump-Kim meeting looks uncertain",
-        "when": "2026-10-28",
-        "place": "Pyongyang, North Korea",
-        "lat": 39.04,
-        "lon": 125.76,
-        "what": "Analysts say a Trump-Kim summit may be slipping away, and Kim's border trip to China departs from past pre-summit patterns.",
-        "via": "uncertain Kim meeting",
-        "aspect": "security",
+        "id": "shenzhen-port-passes-30-million-teu",
+        "title": "Shenzhen Port passes 30 million TEU",
+        "when": "2026-10-29",
+        "place": "Shenzhen",
+        "lat": 22.54,
+        "lon": 114.06,
+        "what": "Shenzhen Port reached 30 million TEU ahead of schedule, with APEC-related trade cited as a boost, adding to the host city's trade profile.",
+        "via": "host city trade momentum",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Why a Trump-Kim summit may be slipping away",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcnNoOGJyZ0hwN1lZVklUXy02WHN3Mm5yNzljSHdhWDkyVDlTbkpoTFFXOURfVlpVNmlmQ052bnU0V1JpQmZURlZSRHBlS0gzYVctMHM0d1phV01XR2VNV1lzWTN6WnpUOG45empNYmVsejZ2alFpem1mUlFwUDF2dUN5TFFDb3o0Skk2RTRUUlI2Nms?oc=5",
-            "publisher": "Korea JoongAng Daily"
-          },
-          {
-            "title": "Why Kim Jong-un’s border trip to China differs from past pre-summit playbooks",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckl0cFNXUHhFcl92TzJoYlJ5QWNqV0dhajFCNWtfWFN5ZTdZLXNDWmhJQzRpQnd2ek54dWIzTWkzMWdqY1lWZ2ZEeU9vbVdYMjgzUDA1bFlGcDVxVXlHQno3dVdEYXNScmdIUnFET3prQUI5X1lfcTFDanRmdEVndHdHai1TeERLVTIxMFlPTUVWUGFkVXc0a21yaWhpeEFEQ01MUHRkX3dsYUpZTnFYVmp6Y0x3QXdnNFo4THZlcUZHTUhx0gHEAUFVX3lxTE5ySXRwU1dQeEVyX3ZPMmhiUnlBY2pXR2FqMUI1a19YU3llN1ktc0NaaElDNGlCd3Z6Tnh1YjNNaTMxZ2pjWVZnZkR5T29tV1gyODNQMDVsWUZwNXFVeUdCejd1V0Rhc1JyZ0hScURPemtBQjlfWV9xMUNqdGZ0RWd0d0dqLVN4REtVMjEwWU9NRVZQYWRVdzRrbXJpaGl4QURDTUxQdGRfd2xhSllOcVhWanpjTHdBd2c0WjhMdmVxRkdNSHE?oc=5",
-            "publisher": "South China Morning Post"
-          }
-        ]
-      },
-      {
-        "id": "takaichi-s-apec-trip-set-xi-meeting-undecided",
-        "title": "Takaichi's APEC trip set, Xi meeting undecided",
-        "when": "2026-10-27",
-        "place": "Tokyo, Japan",
-        "lat": 35.68,
-        "lon": 139.69,
-        "what": "Japan's foreign minister says Prime Minister Takaichi's attendance at the Shenzhen APEC summit is being coordinated, but a bilateral meeting with Xi is still undecided.",
-        "via": "Japan-China talks uncertainty",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Japan's Takaichi eyes APEC summit in China, bilateral talks with Xi still undecided",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB6OTJVaVFwYTdzams3amJxZGstWWpZUl9mSmp4Rk9kNjF6ZTdEejhWb3I4R3lGMVM3OGdEVFpvVU5OSkdoQ1U0UWpfdzBNcXBRZlJDRnkzTQ?oc=5",
-            "publisher": "헤럴드경제"
-          },
-          {
-            "title": "Japan's FM: \"Takaichi's APEC attendance is being coordinated... Meeting with Xi Jinping undecided\"",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9od3FqRTU5Zy1rS2VHMVVjSTlVdzRZT1FEU3RsQ05ENkk1UTFUYl85MWV1TmhNNXp3U3pyMTE3V0tReGh4amVtWWNNVFAxOUIxV3I3dktseUloeUpCSi1aR25fUXU?oc=5",
-            "publisher": "아시아경제"
-          }
-        ]
-      },
-      {
-        "id": "filipino-activists-plan-protests-for-trump-visit",
-        "title": "Filipino activists plan protests for Trump visit",
-        "when": "2026-10-27",
-        "place": "Manila, Philippines",
-        "lat": 14.6,
-        "lon": 120.98,
-        "what": "Filipino activists plan large protests to greet Trump next month, as Hegseth travels to Manila to shore up US ties with Asia-Pacific partners.",
-        "via": "regional protest and alliance pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Filipino activists to welcome US President Trump next month with massive protests",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbF96cjd1QkxLME5QQzduRUxNM1RQb3hNbUFyNFdpOWVwcElJMXFuVDF6Tjg4X1Awb3ZkWnJDZmlWSUhvckFwZzNQc3FJN0JacVJKRVg3bHE2S0RmUVVsZmY4dWtmZjZ2dWZVODM4YXVjeFBpMy1VSTJ2TDNJQ2hGYmZYZXRFQ1hzQmJHcERhVzFtNFVBdzdGT0Q1WXZkeENEdWdhNnlnRlFpYUptVnA0eDZ3eHd1czJvdFJtbFZR0gHGAUFVX3lxTE5sTE15RFpaUzhfeFdxZXZKRWwxNTd2ZnlIZW56d2w1TTdTdTlweFNQRTJETXFraVB3MXNqU2F1RG1fdmIyNW0wS2Qxd2JhMnE5TVQ1R3V4RkE3WURUTVdWMG9KVlhhWGYta3I1RmxfbTBpcTJoQmFmREhnNUhHODVJbEEtVUlyVTVFS2ZtTncxaGI0bFFZMjR6ZE5KMUtPaHJiZlU1dzNfeDM0TU5mWFlCV0hFRkJ6enBNdXp0M3JocDB3NDJmQQ?oc=5",
-            "publisher": "Khaleej Times"
-          },
-          {
-            "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU1NKNjdWbWpMNzRvNTB5bUl6YTkyU09PX2szM0JVNTFzSEhVa082NHRkMzZRZ0dTVFZCRFU4OHVHVHZLWG95Y0hsUFl6cTBCV2hvYlVzRFFPUGlJUlgtazhPRUJVNnhmOXk0d3lrc1RRS3FTWV85RnRfc0VpSGFWVjU4ekdWWU52MmJHLWwybmI3V0hXa1cweDBNYkR6T25IcWQzMHFpNlAzUlN1Zl9vS2N30gG3AUFVX3lxTE1VVzdpOVBwelVXeDJvNkp0eWI4RGZyTE9FUzY1ODFvOEhBOXpGVFlaVmd4SFE0YktxOWFTSExqMFZsNVdZWlozWXptcmZxNDJxdnZGSDh5SGgwLVVwdmMzckc3czFXb21HS0s1SFJJOTB2UkZVYUUwQ2xieEgyUmgyZGFEMnFZWTRQRE5QendRYlZRUktNVmtMUldXeEtvMHlsU3d0ODNONVg3d3BYMFJHbmIxd1FMOA?oc=5",
-            "publisher": "Al Jazeera"
+            "title": "Shenzhen Port Hits 30 Million TEU Ahead of Schedule, Boosted by APEC Trade - News and Statistics",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVN6a1FvRmxFZmVuMi0wQ1dWSFJ1bDBiY24wRi02QWE2SllrTjFQQ1lJV2NMZjl1bE1rVm1DcldjbGE0TXczd3RlNjJDLTg2YWJFYlVBX0J3UGR3US05ajR2aGdzeDN5RnNHV0o4cmNIdGhpUzFBbS1zdlYwbzhVeUxxWnRBemtIVVk0QVRZcEwxNmVUblFpZGVQV0EtTmZpcHFyZHNQdXBRWS05NjR4bzF5QTRzaFgtN2k3Vg?oc=5",
+            "publisher": "IndexBox"
           }
         ]
       }
@@ -1038,43 +985,38 @@
     ]
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "oil-and-gas-revenue-falls-17-2",
-        "title": "Oil and gas revenue falls 17.2%",
-        "when": "2026-10-27",
+        "id": "windfall-tax-proposed-on-extractive-companies",
+        "title": "Windfall tax proposed on extractive companies",
+        "when": "2026-10-29",
         "place": "Moscow",
         "lat": 55.75,
         "lon": 37.62,
-        "what": "Russia's oil and gas budget revenues fell 17.2% in the first nine months of 2026, cutting the main income stream of the federal budget.",
-        "via": "lost energy export income",
-        "aspect": "energy",
+        "what": "Russia has proposed a windfall tax on extractive companies, a new revenue measure as the budget gap widens and oil income falls.",
+        "via": "new revenue measures",
+        "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "Russia’s oil and gas budget revenues fall 17.2% in first nine months of 2026",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYW8tT0hOZkZYRkNZMEE4RlRGbVpRckFxazRUeW5XZ3NoOVk2RFdLZnN4MElZMmMwa2NBaGx4S3BjdmVBYm0zbUlnVjBYdlc0N3ZkcHdMQ1JoRFFncDAwTVk3bXp2bmtFT3NDOVpGYktOeUNuUk5UbG9hU1VBMDZKV1c3cDgtTzAxeF9BNDZpRWpUS3JLTHJ3b1lKSHRoZ0ZBLTBaV3owZ3VBc3VJUlpNR1NB?oc=5",
-            "publisher": "Fana News -"
-          },
-          {
-            "title": "Russia's oil and gas budget revenues fall 17.2% in first nine months of 2026 - The Jordan News Agency",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWMybTJMeTVIbm5OdUNWQWphTjljeHNZdy1va0IxMXFJSmpFZDhtWHVuNGdzeGZPUjBaOUxWaU90QldLWW85SlFBNVFnbERyV3RqSlM0T0lrMTJnZW95bGdBdVVFaWlvN1hiRzdsMVEyeDFvYVRUVVNLbjRzSFRSbG1KdkRrdXFCVFc2eHpEbjBteGZPOFJUWDZwY25KOW9GN2lURQ?oc=5",
-            "publisher": "وكالة الانباء الاردنية"
+            "title": "Russia proposes windfall tax on extractive companies — The Independent",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnV5LXhRWGhOUFkyU2otdmZPb3B1QlY3MGZBajV1YWRCOTZuYXA5REpOdExYZVV2RVVFUkVFbEhUX3pvOEZjd2NjbnBEVTU1dC11VkQyZGswdk9QTEdwc3BhRXFQb3E1NmcwTE1uTThENm9mV0JCQ0JKU3VTZlZuWXN0NmdELUJRYWpMX3ZEMy1IVDZTZ2hOeThzbGtHTnZMeEhJ?oc=5",
+            "publisher": "UA.NEWS"
           }
         ]
       },
       {
-        "id": "investment-drops-4-6-amid-tax-plan-alarm",
-        "title": "Investment drops 4.6% amid tax plan alarm",
+        "id": "russian-investment-falls-4-6-amid-tax-worries",
+        "title": "Russian investment falls 4.6% amid tax worries",
         "when": "2026-10-28",
-        "place": "Moscow",
+        "place": "Russia",
         "lat": 55.75,
         "lon": 37.62,
-        "what": "Russian investment fell 4.6% as the Kremlin's new tax plans alarmed businesses, weakening the economic base the budget relies on.",
-        "via": "weaker tax base",
-        "aspect": "budget",
+        "what": "Investment in Russia fell 4.6% as the Kremlin's new tax plans sparked alarm among businesses.",
+        "via": "weaker business investment",
+        "aspect": "markets",
         "flow": "into",
         "sources": [
           {
@@ -1085,40 +1027,50 @@
         ]
       },
       {
-        "id": "us-and-russia-discuss-oil-majors-returning",
-        "title": "US and Russia discuss oil majors returning",
-        "when": "2026-10-28",
-        "place": "Moscow",
+        "id": "gold-reserves-drop-to-lowest-since-2019",
+        "title": "Gold reserves drop to lowest since 2019",
+        "when": "2026-10-29",
+        "place": "Russia",
         "lat": 55.75,
         "lon": 37.62,
-        "what": "The FT reports that the US and Russia discussed bringing American oil giants back to Russia in talks with Putin, a possible source of future energy income.",
-        "via": "possible future oil revenue",
-        "aspect": "energy",
-        "flow": "into",
+        "what": "Russia's gold reserves have fallen to their lowest level since 2019 as war costs drain state finances and the budget deficit grows.",
+        "via": "war costs draining reserves",
+        "aspect": "markets",
+        "flow": "both",
         "sources": [
           {
-            "title": "US and Russia Discuss Bringing American Oil Giants Back to Russia in Talks With Putin, FT Reports",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlLZzRPVEZ4b0dISENTeTI0WlBqb05mbHh3dkFEXzRyTmt6MTE2aDF5LWNNMmdYWkxJNVI0dTRJbVIwaFplX2RhRWlDSkk0ajdQRzlBbm1vWkQ2dHZTQ0xNNXo2U01ld1llX2M4UmdZLTlhRlJlM2EydlUyY1huY2JYcWllSjR0Nng2MXExLVpWak8xaFdlQ01PSVUwS1BtYlY2NGxIckRoVk1qRmdlbkhvWUZOTFlFM09hZDF0VFotUE9WUU9zTGhRWGdFb0U?oc=5",
+            "title": "Russia’s Gold Reserves Hit Lowest Level Since 2019 as War Costs Drain State Finances",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1dYOUNOTHlnSkptQXNJdWlGTFo5QzVjb3h1dGJFOXlJY1Y4MnZWQWhoMFBpbUhfcS1tQ1FrY2JNT2EzVHZqMDBhNTlYM2JINWlNLUR4ZWl5OWpSeTBQblVvX1Q5VFZXLU9mNEJLeHRCeU44UGJleFdLb09lbmRmd0N2ZHRJZWlWNGpSUDEwOFZmYXotTzdoeWV4ZGtIRE5uX0hQZU5vc3cwLUpzMEVsVENtVlZtbHZjWEMwYWdn?oc=5",
             "publisher": "UNITED24 Media"
+          },
+          {
+            "title": "Russia's gold reserves have fallen to a seven-year low due to a budget deficit — SZR",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkxKczBRdG5lV2RfX3FZRldUMGFFOVY2WHZ1aUZDN0t6OTMxcGlYZWNtQnpyeXhiX084ZlZKMmFuUTZCOE1WZ3BGT3YyUDBzdUhDVUVzRFRYUDVvQVhZUE1MR0xBSDFnU3Q5VkVjV1JmeU9OQUU1RTlpMUMxd2NzblVBYTNramlzSE9pTjVqcVRvYldkUUhiRTRFMDFrT2tsN0Z6V3k2cVVDSUpJLWg1OA?oc=5",
+            "publisher": "UA.NEWS"
+          },
+          {
+            "title": "Gold Goes to War — Russia’s Reserves Fall to a Seven-Year Low",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmJ2NC1QMDNlMHNHR0o5TGhYZ05sZ2JPbWxPQW5ab0Vwd3hjZFdRR0pic0F5dHBIZXpmSlRMX2Jody1CUTNPamNMeHB2WjVOamhOa0I0OG4wVUxwRU1YbmdPcVdRem5RLUpzRUhhM3pPNkhNTGZ2Wi1uUllLWGQtSkJpakJ2X2dK0gGHAUFVX3lxTE8yWUNjTnpycDZ4Szl6QW41RnF1VnlvVXMta2pGZ0JKZ1JqZnkyem9BU1otY1NxMXNYc1h1dTFXMmMwVzJBcl9kVUJRa3ZCTWNwMWRocV9ZRWd5U0tlM25LeGszd0VjMEdleWplXzVTUjJHZklpQ0tjU2M0UXVwX2gwckNLYXlpWQ?oc=5",
+            "publisher": "Українські Національні Новини (УНН)"
           }
         ]
       },
       {
-        "id": "airfare-levy-planned-for-aircraft-program",
-        "title": "Airfare levy planned for aircraft program",
+        "id": "uk-says-russia-s-war-is-costing-more",
+        "title": "UK says Russia's war is costing more",
         "when": "2026-10-28",
-        "place": "Moscow",
+        "place": "Russia",
         "lat": 55.75,
         "lon": 37.62,
-        "what": "Russia plans a levy on airfares to fund its delayed domestic aircraft program, a sign of pressure to find money outside the federal budget.",
-        "via": "search for extra funding",
-        "aspect": "living",
+        "what": "A UK statement to the Forum for Security Co-operation says Russia's war against Ukraine is costing more while achieving less.",
+        "via": "rising war costs",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Russia Plans Airfare Levy to Fund Delayed Domestic Aircraft Program",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckkxSUlpYm1VanBaWWVFbm02WWlucFFQRVlOanJ1TFFHQ2g4NTRVY0liTGlNVnEtRnhRY2d1MDQydlNfQWhBc056Z01hNXFONExFY3JyZUV2RmdocjFrWjlSd2NxbWViZnd2NlNCRUtvd0FacE5vbTZDcTNudzc4c2U1bUFQQ19aZWZLOV9nM19fczZMVEVETlJHSTR5V1NHV05CVU1UUzJRVnpZZWxWNlFCWWtubGs?oc=5",
-            "publisher": "The Moscow Times"
+            "title": "Russia's war against Ukraine is costing more and achieving less: UK statement to the FSC",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDhtZHlWRTJUSHVsdlVlVmZ6dGVIRmREdXRGLVNiSnRHRk1yZl8tY3hoTXh1WkVFZjRDSkdZSFBDS0xkM3ctVmNucWlqR1c0dmsteF9HbUkzQjc1MUNteElOYWUwUFVySGtpOWJ5cFlTekIxeS1iMGxDVG1lMjh0UU1PalRnb1d0dXJfcE1yZHo0UkNuNGZoR3ppZGZTY0FGR2Q2NFo2SWItOTg1WmtXeEpwZTlpRDVVbzZkTlA4VXdRcm8?oc=5",
+            "publisher": "GOV.UK"
           }
         ]
       }
@@ -1300,7 +1252,7 @@
     ]
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
@@ -1310,182 +1262,226 @@
         "place": "Brussels, European Union",
         "lat": 50.85,
         "lon": 4.35,
-        "what": "Soluble coffee has been added to the products covered by the EU Deforestation Regulation, widening the paperwork burden for coffee importers ahead of the deadline.",
+        "what": "Soluble coffee has been added to the products covered by the EU Deforestation Regulation, widening the coffee trade that needs due diligence before the final countdown ends.",
         "via": "wider product scope",
         "aspect": "food",
         "flow": "into",
         "sources": [
           {
             "title": "EUDR Enters Final Countdown as Coffee Industry Faces New Challenge: Soluble Coffee Added to Scope",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQVhiRVYtQ2h0YUlUT2lsdGFIYmxXWkN0RE5TZ0Zidm1ybWF2TThoNjNXLWdOZVY3MndVSkFGMGZKQl90YW5yUGo2RWt4QjhMdjhwZWVuWG1sMnlMNGJJdW9SZVViQ1ZzZnRWT0EyQU9jenJRU1ZveEJleWZSNS1UTnZMYzJkQWw5bHpxSkVmTy1uSE1Tbzh5M3ZTXy1MVDVGVTR6WUIwczlaTFlBSGxjWWhvWG9CaTlsUWM4NUgyYXBMcHNiVEVyeTduRnA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1FTQlZRR1RZaXhCYkZTUWQxZkhoUERSLWlvMlFyQTQwNmN1RlBKZ3poR1BMTVJqVmRuemIzaEI0YThjQXNkdnhZTFRWZXBVakRwWXJCRnUtLU9oU2NVN3RRcjhCOHljOGwzUVNjdk9Hdlk5cG91MzdqQk1ob09BNy03OGVxdklsdE5Fb2t5YXRZb0RJVUJKaElTWjRpLXE1R1RwUloycXFZR1ZFbEV2WUhIT0NIUVhBYlBnekYtQVV3OGhsMHBRNzMzVGYyOFQy?oc=5",
             "publisher": "StoneX"
           }
         ]
       },
       {
-        "id": "india-warns-eu-over-carbon-border-tax",
-        "title": "India warns EU over carbon border tax",
-        "when": "2026-10-28",
-        "place": "New Delhi, India",
-        "lat": 28.61,
-        "lon": 77.21,
-        "what": "Indian trade minister Piyush Goyal urged Europe not to 'invite disaster' with its carbon tax, voicing a government position against CBAM before it starts.",
-        "via": "trade partner pushback",
+        "id": "eu-and-sri-lanka-deepen-eudr-dialogue",
+        "title": "EU and Sri Lanka deepen EUDR dialogue",
+        "when": "2026-10-29",
+        "place": "Colombo, Sri Lanka",
+        "lat": 6.93,
+        "lon": 79.85,
+        "what": "The EU and Sri Lanka are strengthening talks on how the Deforestation Regulation will apply to Sri Lankan exporters ahead of the application date.",
+        "via": "producer-country engagement",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "EU carbon tax: Piyush Goyal asks Europe not to 'invite disaster' or 'shoot themselves in the foot'",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYkNvOHNPM3dyd0FRMHdsZi03STRRTmlCYjBnZ0NaV3FBNXBxMGoxUlVUdVlzaWdfblZDRGlhN09tQkFvMVBodEpKdzVPYkNkd1pwUFA5djZ5UGFSMWFCSGxQTEFkeHlzdUNfeXcyVS1ad2wtWWlmRTdjbzJDNWNnOG9CQVNFUHh1Tk9IRlA4QVJXeXNrN2RsX0U1c2VZb1dOZncwbHU2bGpLeFlYQkI1Vkh0RzdGbnNkLUNMZnhoRHJrVG5hN0pnZS1XR3N0eXBSYjROR0s2UXVXbGJYTG5UbjRaQ3NKRWJaSHNPQV91ajI4UU5rTTUtLTNKbmlZQ2FxQXY0bFFfVnfSAY4CQVVfeXFMUFlzcEszR1VNVERkNmpkcV80c1JwNWpsM0FFQ3hiWlJJaUpycnZJTk1TbzJVOTdpaVU2U0wxSjRsNTJpNUlfWlRRZVp5eWNlaU1yU3R4MXFPVkIwaVBBY3c5ZEo5UXhiem9xcWY3VllWdTJpcFRaN2VjcTJaNHN4OGx0YkRhTGZRTzFHbHJBMlpmbFNSQ2hOTXVJRUtlODlqMnlpbVpHRUhYdGlVMmRaS21weGlyVHRyZlVQSWs1WWl0VmhRbm1PTzZWRjNVRU9HTURKS1dNSVBLZm1XMWQwaHJRWlMzQkV6NDQ4SWNYMXJPTmd1V1JUdkN4WHJ1cE5yalZQOU9tSTVJTUZmazJ3?oc=5",
-            "publisher": "The Economic Times"
+            "title": "European Union, Sri Lanka strengthen dialogue on EU Deforestation Regulation",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmVsdnduNzFxQWxWdjJQMzhmcl9odnVvMXkwSmFLbU5OZXl2UHNReXVqRG5mZ2JKRlZkWnhvMFVMcHFqdUxfZjduQXdFYm9qN1ZoSVpFVlFZZFhNcmh5dzlPTmlTRFJNaDF2aEMwUGczbV80d0JpQllTWktYcXM5VTdlSFFQeng0dXJyQ0lyRWxXdlphNjJONGotYXEzb25ZQkpJcW5HUXZiaGE5cDc2WTBUb2dJS1g3WjVzTWYtQzVpUkF4?oc=5",
+            "publisher": "Magzter"
           }
         ]
       },
       {
-        "id": "irish-farmers-exempted-from-deforestation-paperwork",
-        "title": "Irish farmers exempted from deforestation paperwork",
-        "when": "2026-10-27",
-        "place": "Dublin, Ireland",
-        "lat": 53.35,
-        "lon": -6.26,
-        "what": "Ireland's Department of Agriculture said Irish farmers will be spared deforestation paperwork under the new EU rules, shaping how EUDR will be applied.",
-        "via": "national implementation details",
-        "aspect": "food",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Irish farmers spared deforestation paperwork under new EU rules by Department of Agriculture",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRE1qM3ExVEhMYndzWm5BVy1WVktSeENMZi1abmtrSmlOY0RJR2hPeE56RGVreElFTXRJZ2dfNXk3b0hYOHhqSUJKelBtMWRvYWJjQ0ZDNGRPZGJ0UWpHZ2h3RWtDbVE?oc=5",
-            "publisher": "Irish Examiner"
-          }
-        ]
-      },
-      {
-        "id": "metals-group-flags-carbon-cost-to-exporters",
-        "title": "Metals group flags carbon cost to exporters",
-        "when": "2026-10-28",
-        "place": "Brussels, European Union",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "EUROMETAL says carbon costs undermine the competitiveness of European producers in export markets, adding industry pressure around how CBAM is designed.",
-        "via": "industry competitiveness pressure",
+        "id": "indonesia-urged-to-speed-emission-verification",
+        "title": "Indonesia urged to speed emission verification",
+        "when": "2026-10-29",
+        "place": "Jakarta, Indonesia",
+        "lat": -6.2,
+        "lon": 106.85,
+        "what": "Indonesia is being urged to accelerate verification of industrial emissions so its exporters can meet the data demands of the EU carbon border mechanism.",
+        "via": "emissions data readiness",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "EUROMETAL: Carbon Costs Undermine the Competitiveness of European Producers in Export Markets",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaEpRUWk5c3JWNTgwOGZIQ1Nyd0tBYlBFNzFvQkFOSWFzUDk5Tl9OZGVaRWwzaEtfVG5BYm90NjhwM2JoT3Y3cmx0eklaSmwxYnB2dlJTTjM5akNOeDdGaVBmbnB1V3R0eWRjLWc5eU5SS0FabGdwelhJaDhKMjV2MlpiellGVjR6cURlNmJWN3NJRTgwb1BpbGNmRDdfRllkMUJ5WDVVbGZjU2VUUUNQYXluMk9naVFkLTdycWpyUGd6Z1UzcHlRZl9kQmxIUU9pSEhBT3lnRlRBbFF40gHuAUFVX3lxTE5OaWdRRUtFNnQwVjk3SDh6bFh1WVk2bmNkUk1qWjlZSEQ1OS11TExkZ1JuTHBNX2I5a0ZOX2VWSHRxQ2dEUnhLNXFKY0JvZ2Q4aW1KOHJMQTA2bWd0dDhnQW9JeFJ6T3FYNkZVMEtRSFowUkFDSktTQl9oOFN5cWN6UE50d2xycWFvU0dBTFp4MHRrdzFiQ2JDZG5kTHEydk9DZkd4UXlDcm5NVHIzMGpfaDBPaF9EMDlTQVJWWUNGVENiZUJsY1VhZ0FBXzBBZ3AxaEZGWk5nQWNaN3hqZVc4OFdwaEZTYXB2d2ctUnc?oc=5",
-            "publisher": "Металлургпром"
+            "title": "Indonesia urged to accelerate industrial emission verification",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2lDMC04Q3FJYnFJaVdJSm5WYnJHU0VWMGN0aWlKODFnWko3VXJVNEVNQ3Z5c3d0OThmaEFpYzBJMEZrZ3pNeURXRzhoc212WXRQUFhHYTdBU2x3Ulo0ZEJKa2c3SE90LS1vMTkzTENkejNoYW5JRzNhWmRzMXFPaHMyS0llWDlKNk5PYS1jVmdaZ1d1b0xjdm5XUnFaVWdwREHSAacBQVVfeXFMTUFlWEZHbDRxdzZQaE9IdkNZSDlCTkJ6bThMdFRvWWdjMWlXWHUtM3lEVXlMUmg4OHc4RTVQQkl3ZHRmMGxvUk44VUttVEp5a0xETFNMeWFiYWdsWDF2Zk5iVVBINnhCeVBuSjlwSlNtMWhscU5sZEt6NWJqRHBHSElteVVWYUtIMXlNemZZVVRCVFcybU8wR1ZTTVhabFpWOFVkNHVTdDA?oc=5",
+            "publisher": "ANTARA News"
           }
         ]
       }
     ]
   },
   "israel-election-2026": {
-    "at": "2026-10-29T04:08:10.581Z",
-    "by": "pipeline",
-    "items": []
-  },
-  "opec-plus-november-output-hold": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "brent-trades-near-114-a-barrel",
-        "title": "Brent trades near $114 a barrel",
-        "when": "2026-10-29",
-        "place": "London",
-        "lat": 51.51,
-        "lon": -0.13,
-        "what": "Brent crude is near $114, far above the pre-war level, which shapes how OPEC+ weighs any change to output targets.",
-        "via": "war-driven price premium",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeUN0OW5fTjQ4Nzh5ZVk3bWUxaU10ZGFPUHpFOVE2eXJSLU95eW1vWktxV3UtMG42U2J5ZlJ1Vk8zbVMzNEk1LVRjZjFGak5hYjZ2cWFpVEl5WlNoYnpxa2dVbk0zU2RCVm9wUHczbmVRcEd6alJpZjVkdFl6SFR5YUNUNGw1Mk9pMWZGZE1CWTlSeXpwY3Y2WG14N0ZjVWI4bHRNRUNJVExHekxNNXFUbGltTHZ4UzhKTGk3M0Y4M0hpazdIcUttRlBabWsya05tM0ZDaXE0ZWJaUTh6MVZYV0hQYlhGbEota0FQbGpMV1RyVXNlXzdpR9IBgAJBVV95cUxPY1VRdkM4QmxGcTIwZUxrdmlHY1BqMENTX2FQWThlOWhaSHlNNTRzMWttNVhOSGNieFNKR2s2azBRbkFmQWJsb1F4a3o4Y1RMWnhZbmtIc0ZPQVZtel95Rm5XZDJCTHdzWWJrQkJXcWdVSm9CdDR0RmlNTjNXUWt0NWN5LUhkZGxtenVTNDduYWtLNlN4eGlFWEdhRC1VYUxDOWtkdkx6emZ4QzNqb0VXYWVKcVpHZTdDZWZ0SzFPTW9qNFhxN1pEMTVIVWpoOG9pRGJLd1UzTXFfLWZrU1ZrdGNNYnZxZi13SGdzTTZxaFVWVHoyRURBU2R0SzItTkdZ?oc=5",
-            "publisher": "NDTV Profit"
-          }
-        ]
-      },
-      {
-        "id": "us-weighs-fresh-iran-strikes-after-midterms",
-        "title": "US weighs fresh Iran strikes after midterms",
-        "when": "2026-10-29",
-        "place": "Washington",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "The US is considering new strikes on Iran once the midterm elections are over, keeping the risk to Gulf supply high.",
-        "via": "renewed war risk",
+        "id": "iranian-cyber-and-recruitment-plans-against-vote",
+        "title": "Iranian cyber and recruitment plans against vote",
+        "when": "ongoing",
+        "place": "Israel",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "A report says Iran planned cyber operations and recruitment efforts aimed at the Israeli election, adding a foreign security threat to the campaign.",
+        "via": "foreign interference fears",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms",
-            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeUN0OW5fTjQ4Nzh5ZVk3bWUxaU10ZGFPUHpFOVE2eXJSLU95eW1vWktxV3UtMG42U2J5ZlJ1Vk8zbVMzNEk1LVRjZjFGak5hYjZ2cWFpVEl5WlNoYnpxa2dVbk0zU2RCVm9wUHczbmVRcEd6alJpZjVkdFl6SFR5YUNUNGw1Mk9pMWZGZE1CWTlSeXpwY3Y2WG14N0ZjVWI4bHRNRUNJVExHekxNNXFUbGltTHZ4UzhKTGk3M0Y4M0hpazdIcUttRlBabWsya05tM0ZDaXE0ZWJaUTh6MVZYV0hQYlhGbEota0FQbGpMV1RyVXNlXzdpR9IBgAJBVV95cUxPY1VRdkM4QmxGcTIwZUxrdmlHY1BqMENTX2FQWThlOWhaSHlNNTRzMWttNVhOSGNieFNKR2s2azBRbkFmQWJsb1F4a3o4Y1RMWnhZbmtIc0ZPQVZtel95Rm5XZDJCTHdzWWJrQkJXcWdVSm9CdDR0RmlNTjNXUWt0NWN5LUhkZGxtenVTNDduYWtLNlN4eGlFWEdhRC1VYUxDOWtkdkx6emZ4QzNqb0VXYWVKcVpHZTdDZWZ0SzFPTW9qNFhxN1pEMTVIVWpoOG9pRGJLd1UzTXFfLWZrU1ZrdGNNYnZxZi13SGdzTTZxaFVWVHoyRURBU2R0SzItTkdZ?oc=5",
-            "publisher": "NDTV Profit"
+            "title": "Iran targeted Israeli election, US midterms with cyber, recruitment plans – report",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTEczYnNyQl9QTXoyTnlldkRnQkpCamZ0TnhHaExsTzVVaW1RN2tQaGxqV1dhVUg2dmhCWlNZcHQ1c0tXNXJEbnl5N2poeFB4UmV3WjdFdXBuZDQ2N0ZmRUFNUDhjU2JTc2c?oc=5",
+            "publisher": "The Jerusalem Post"
           }
         ]
       },
       {
-        "id": "iran-talks-advance-as-qatar-urges-hormuz-reopening",
-        "title": "Iran talks advance as Qatar urges Hormuz reopening",
-        "when": "2026-10-27",
-        "place": "Doha",
-        "lat": 25.29,
-        "lon": 51.53,
-        "what": "Brent fell 1.8% as Iran talks advanced, while Qatar urged Iran to end threats and reopen the Strait of Hormuz.",
-        "via": "hopes of restored Gulf exports",
+        "id": "netanyahu-escalates-attacks-on-arab-parties",
+        "title": "Netanyahu escalates attacks on Arab parties",
+        "when": "ongoing",
+        "place": "Israel",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "Netanyahu, at risk of losing power, stepped up attacks on Israel's Arab parties, polarising the campaign and sharpening the fight over Arab turnout and bloc arithmetic.",
+        "via": "polarised bloc mobilisation",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Brent down 1.8% as Iran talks advance",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RZlZPd3BkR3ZJc2t3SEJBOFVpX282Q3JvdTBoLVRpSmhZSEU3ZGhiUHk4dG9SbHVaMmFyaC1JOGdnZHBZNkpzVXZ2X3RNYjBkLU1sRXp6T2dXT0xjUmtfN0ZTLTk3Sjg1NWhiT0NtNUNhZmJ5ZC1yeWVXWEHSAYQBQVVfeXFMTVJTbTMwNkpzRjIyUmRQXzM3VThObmVLSUV2aTlPX1M2eTlfTlhzR2F5bzJLSWtIcDkyZjQwOTNRNl9TeFZTM1NjMXluVkhoLUlnenNJRFNXMGMyM3lHN2I5eGJ5ejNGTVJJRW1DTXZnWS1PSnlockVudk1uOXB4dEpiU21y?oc=5",
-            "publisher": "The Express Tribune"
-          },
-          {
-            "title": "Qatar urges Iran to 'show goodwill' by ending threats to the region and reopening the Strait of Hormuz",
-            "url": "https://www.euronews.com/2026/10/27/qatar-urges-iran-to-show-goodwill-by-ending-threats-to-the-region-and-reopening-the-strait",
-            "publisher": "Euronews"
+            "title": "Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTdkdmZXbFBHWno1WERBemlBX0tpX0lLaDlVUExXWGh6ZjlWSzBZYWYwc3RZTG1vb0ptREw5Nk8tcDFLVGJ0UmU0MzBEVW9hRnFHRWZiOU5SakNDQjEwYUp0aVFZcjc2clhraFNSZ09iLW5Md3V6MkpaSXZBcnoxdUJOVVZBLTJoQThnc0RvZkVEdFZ6WEJlakNwQXlFak5peWhfQ2h6dFdoV2traHgtZU1FN253Z0l0LU9V?oc=5",
+            "publisher": "Reuters"
           }
         ]
       },
       {
-        "id": "opec-cuts-2026-oil-demand-growth-forecast-again",
-        "title": "OPEC cuts 2026 oil demand growth forecast again",
-        "when": "2026-10-27",
-        "place": "Vienna",
-        "lat": 48.21,
-        "lon": 16.37,
-        "what": "OPEC lowered its forecast for global oil demand growth in 2026 for another month, weakening the case for raising targets.",
-        "via": "weaker demand outlook",
+        "id": "israeli-strikes-on-gaza-rafah-opening-demand",
+        "title": "Israeli strikes on Gaza, Rafah opening demand",
+        "when": "2026-10-29",
+        "place": "Gaza",
+        "lat": 31.5,
+        "lon": 34.47,
+        "what": "Israeli strikes hit Gaza while the Health Ministry urged the opening of Rafah, keeping the handling of the war at the centre of the campaign.",
+        "via": "Gaza war as ballot issue",
+        "aspect": "displacement",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+            "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          }
+        ]
+      },
+      {
+        "id": "gdp-report-due-before-election-day",
+        "title": "GDP report due before Election Day",
+        "when": "2026-10-29",
+        "place": "Israel",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "A GDP report was due to give an insight into the economy just before Election Day, offering voters and parties fresh data on economic performance.",
+        "via": "economic data before voting",
         "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "OPEC Again Lowers 2026 Global Oil Demand Growth Forecast",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTk55UElsVlJ5MjAyZTNEV0ptdmRlOXIzaDlwVHNMRU1jemIyZnpoR3NZNjhMbW5IMk12amVGVXMxbmgxbnMtUE5oT2ljbURVR2cxRzVJODNlNEZqaUFtaGl0NktnUWZNcEl3MXlZeEk4V3pFTjNQTmtTRkNhNDBpZlR6QnpwUmFmcVo4d1pyWQ?oc=5",
-            "publisher": "EnergyNow"
+            "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+            "url": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+            "publisher": "NPR World"
+          }
+        ]
+      }
+    ]
+  },
+  "opec-plus-november-output-hold": {
+    "at": "2026-10-29T16:09:02.276Z",
+    "by": "pipeline",
+    "items": [
+      {
+        "id": "mines-hit-three-tankers-in-hormuz",
+        "title": "Mines hit three tankers in Hormuz",
+        "when": "2026-10-29",
+        "place": "Strait of Hormuz",
+        "lat": 26.57,
+        "lon": 56.25,
+        "what": "Iran said three oil tankers struck mines in the Strait of Hormuz, adding to the risk that keeps Gulf exports below normal.",
+        "via": "disrupted Gulf export flows",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Iran says 3 oil tankers struck mines in the Strait of Hormuz",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUGszUXgxV3pDVmNZYWF4M2c5eldOM2RONVhoNWVwMzBoTTJVNl9PcTZ1RlY3XzVyMXl5ODBpM1ZOT2doZnFmcTBhc1hJQ3MxOEtyVEc0WUxac1F2Z3ZJdElKMzh4ck5FeEJfeTFpNGJtWWttMm5HRGYtUXNQUTFDYUlqV0VlUlpjT1NzUGlFanhCYkpBRHU4RnRBbnduVHo0?oc=5",
+            "publisher": "Washington Times"
           }
         ]
       },
       {
-        "id": "uae-oil-head-cites-opec-exit-for-faster-investment",
-        "title": "UAE oil head cites OPEC exit for faster investment",
-        "when": "2026-10-28",
+        "id": "brent-trades-above-110",
+        "title": "Brent trades above $110",
+        "when": "2026-10-29",
+        "place": "London",
+        "lat": 51.51,
+        "lon": -0.13,
+        "what": "Brent crude is trading above $110, and OPEC+ is expected to hold output steady despite the price.",
+        "via": "high prices, no quota change",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "OPEC+ Expected to Hold December Oil Output Steady Despite Brent Trading Above $110",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXpnWV83emllUHN2YkJDZWpiZVNOdUVWWWc1VlVoaTNvRno0WG9fdEJTYVBDcm9xNVhkbFZLNEZyazMteEh2dU1UWndleEFZaEgzTG5qc0JZZUpBU2JrYS1BUDU1US1tN3lBMjFWR3kwdHJvVmoxNFUyQ2wtRmJhT0RMTnVza2pkOXRTXzMyMk50UjVYMldEUDZKeWt4bVpVVlAwWjN4WGR1dVVL?oc=5",
+            "publisher": "Coinpaper"
+          }
+        ]
+      },
+      {
+        "id": "uae-leaves-opec-and-nears-record-output",
+        "title": "UAE leaves OPEC and nears record output",
+        "when": "2026-10-29",
         "place": "Abu Dhabi",
         "lat": 24.45,
         "lon": 54.38,
-        "what": "The UAE oil head said leaving OPEC lets the country speed up investment, a sign of looser cohesion in the producer group.",
-        "via": "weaker group cohesion",
+        "what": "After leaving OPEC, the UAE says it can speed up investment, and its crude output is reported near a record.",
+        "via": "loss of a core producer",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
             "title": "UAE Oil Head Says OPEC Exit Gives Ability to Speed Up Investment",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXQ1dGNTQVlqczc4M0dfV2VGM1pPQ3BiSUlaWnF3eGZZNkhXWHBDc1k5NlNMT1JRMmpoYzktT1hFbU9HOHg4aUswdU5QNnJremlSc2dzSkthZjhtMjJ4MlZRblZkZktkNjR6V0FKM2I1amQ2Tks0TkFZREJFSVZSZUJjOUdkZjBiNjlia2VsRzJoRFZvQ2xuZEdTUQ?oc=5",
+            "publisher": "EnergyNow.com"
+          },
+          {
+            "title": "UAE Crude Output Nears Record Following OPEC Exit, Sources Say",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblh2X29kb1NJdzMxTE9ULXNPWGJSQU9WRnVZRGp2TjFmenVZRVByaUQyOUludU9ad0FhQ2FOMTNRUHFrTWNzYXJpa2ZZOUtDRHhRbGVBZVUwbVB6a3R6R0hPYTRjQ0JnT3o3T0dLR0RVTVVKYWEySV9aNGVyTXdvX0NDblRFNy1JaTlpLWgzTkdtQWtqbUFJ?oc=5",
+            "publisher": "EnergyNow.com"
+          },
+          {
+            "title": "UAE’s Post‑OPEC Expansion Push to Lift Oil Output Above 5 million Bpd Next year, IEA Says",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVhWV0dBMjNucnZ6RkhPZWhhZnNBZWVpZXN4WGdoUkFGYkEwODRnYUNqRlZ5LUxqcGp3VnBlelBFLXVhMTY4YlNBZVRvY1JPMERKeTEyazZqTkpnLXhxbVRfOHgtWnptakdkcmpaN2FYd2I5WGhxMnhBclp1VzVGTWxjOU1oSVdiU3hnWGQ5RjZEMHdMZy1qaUVRamN6bEVralBYLU9NUGFnVlBhZk4zaDB6TXA3dmtRTXc?oc=5",
+            "publisher": "EnergyNow.com"
+          }
+        ]
+      },
+      {
+        "id": "iraq-targets-8-10-million-bpd-output",
+        "title": "Iraq targets 8-10 million bpd output",
+        "when": "2026-10-28",
+        "place": "Baghdad",
+        "lat": 33.31,
+        "lon": 44.37,
+        "what": "Iraq aims to raise its oil output to 8-10 million barrels per day within six years, well above its current quota.",
+        "via": "pressure for higher quotas",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Iraq Aims to Boost Oil Output to 8-10 Million Bpd in Six Years",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnFnOFBWdk04ekoydGN1Smk1YXNQekY4NkU5aEZwWTloOS1BektJU0c4dm5rWVpKQmJtcjNhVjBPclFTS3dMb2NFVHBJVFhFbVRMX3lqNEg3NGRKdHVXWHNBa0NSSGFBZWt2LXdsaTVEZFlaMWVrd0FUaHl6NFRkOGRJb0ZTV0p0VWQ0M1NOQUNXS2lIcnB5Yw?oc=5",
             "publisher": "EnergyNow.com"
           }
         ]
@@ -2896,68 +2892,49 @@
     ]
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "student-movement-picks-its-candidate-leaders",
-        "title": "Student movement picks its candidate leaders",
+        "id": "eu-s-political-bet-on-vuc-ic",
+        "title": "EU's political bet on Vučić",
         "when": "2026-10-28",
         "place": "Belgrade",
-        "lat": 44.82,
+        "lat": 44.8,
         "lon": 20.46,
-        "what": "The protest movement's Gen Z backers are choosing leaders, with a banker, a basketball star, a cardiologist and a chemist named as potential new faces of the movement.",
-        "via": "credible alternative leadership",
+        "what": "POLITICO reports that the EU had backed Vučić as a partner, a stance now seen as costly after the opposition landslide.",
+        "via": "EU backing for incumbent",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Serbia's Gen Z protesters are choosing a leader. Meet the candidates",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYVU1JT2dMblFpSUNpR2JPRkItSlBtaVpRbTkzQnlGR05WQ1lseXZDdE1LUXV4YUdYVFhhT0VISDFfalBVMlItNTdDc2h0S2N4WVA1UXVEY0xzLXpUUElPdVJDUzhXZTQ?oc=5",
-            "publisher": "Reuters"
-          },
-          {
-            "title": "The banker, the basketball star, the cardiologist and the chemist: meet Serbia's potential new leaders",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZyZkFCWm1xNUhablhhMUdOY3B2R2xBUmhGYWNMd09SUUxuXzVLaFVhLVBvOEl3aXJIUWxEdVlfaE9xMk9MX2lsS1VocjB1TnlRazdzRG50MWhMX1dzbUtoS2dBTjk1NWhEd003MVg3bkk5N1RRT2QtaVFWMk1NYXU1QldsRDVtUGZZSF9jYmo3ek5WYWJFdllmUzZoeDUxUHJqekVJd2UxR1FWNi15U0JfcjBEYjhRYzJxNA?oc=5",
-            "publisher": "Reuters"
+            "title": "Serbian opposition landslide exposes cost of EU’s bet on ousted Vučić",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV0h5TjR0TWVSOHp2Zy1NeFRMNW1RVTJNMFVFZ0I0ZDk3dTlQNVlhT0FNNU5VcDFVbGVkcXR1NnpwQUZ2UEdXYzctcGN0TDc3TW9hRVFGTnNfeHEzTG5Sc1dnamR6TGdGYXh5eTNPQ3hvc3RKT3JVaWprbkVzTDF4SEY5WHl3WnVtWXhPRHh2V2J6WXdqV190cE5EaDA5SFl0WW9QdnJXaGpsOHp0d21ydnZmeVVuUQ?oc=5",
+            "publisher": "POLITICO.eu"
           }
         ]
       },
       {
-        "id": "eu-flags-voter-intimidation-concerns",
-        "title": "EU flags voter intimidation concerns",
-        "when": "2026-10-28",
+        "id": "student-movement-s-shift-to-electoral-politics",
+        "title": "Student movement's shift to electoral politics",
+        "when": "ongoing",
         "place": "Serbia",
         "lat": 44.8,
         "lon": 20.46,
-        "what": "The EU welcomed the election results but urged Serbian authorities to act on voter intimidation, pointing to pressure on voters during the contest.",
-        "via": "pressure on voters",
+        "what": "Coverage describes the students as changing how Serbians think about politics and finding a new method to challenge a strongman at the ballot box.",
+        "via": "street pressure turned into votes",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "EU hails Serbia’s election results but urges action on voter intimidation",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeU16NGJkZnhtM1ZzSlF6TWFjNDR2d2p4eG5vazZVNTNnUWhTcU9TRGhvSFROdk1rbHhIam5yM25UNWh0dFdnSHREYWRkZm9WTzNReXJyWklfN2RGX0tDNVF4QURwZmFsVkc3RW1DbTAyOExmYXBreC1lM2lDNm5jVEZYVzN0ZzlRcGRXVk5zS3dPWExGYmVXMFpYQ1czNWFKWldWNXJXTmZCejA0akh3?oc=5",
-            "publisher": "The Brussels Times"
-          }
-        ]
-      },
-      {
-        "id": "years-of-biased-pro-government-media-coverage",
-        "title": "Years of biased pro-government media coverage",
-        "when": "ongoing",
-        "place": "Belgrade",
-        "lat": 44.82,
-        "lon": 20.46,
-        "what": "Serbia's broadcaster RTV apologized for years of biased reporting, showing the slanted media environment the student movement had to campaign against.",
-        "via": "uneven media playing field",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
+            "title": "Serbia’s Students Changed How Serbians Think About Politics",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kT1hXNm9pay0tWm5VdDRYY2VjTXYtckVwWFJDN01jaXhodERFN0hJNk5IV1pxUzRjVHBWQUpKR2Qtc1JhNmVzR1UtZUctVGFaWTFPYVlKWkFPdmNHTENiQmJyYUl2Qm9EVjg1a1NrV2ljMmE5Vnc?oc=5",
+            "publisher": "Jacobin"
+          },
           {
-            "title": "Serbia’s RTV Apologizes for Years of Biased Reporting After Vučić Defeat",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcm85WHdPb3FLZ2xNQmI1QnU5WXJqT0hHbkd2cDg1RmlEbWtCYXF5RlcybkI5NDFQQ3c3R21zb1B5cU9BS0Zlc1NOVFIwZS1vWE81cEtQSDRuZi1jckhKVGhKdjFwQzdNaWJMOWc3UFF4aVJJSVRuREhUTW1ydXFsX2Etc1JXaWtEb2FKZE56dEtOeV9aY3hNaGlzMjJDV005NjlHMjNIZU0zQ0VKX2Nv?oc=5",
-            "publisher": "Hungarian Conservative"
+            "title": "Serbia’s students found a new way to topple a strongman",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWtLU0tDbXlyWjgySi1OdExxem9PSFNEUEhnTURWdko5cU5WcGRqYmNzRlNMX0FQMG5MMUxUSVp3cGIwVEdXb2NZamlIaU1SRjEtMFdySjhQRnAtbWFiVEY4Rm5ZY0JSdTItbC00bjU4VTJjTElQRUo0OG42NnVmQlNBQ3pJNndsMnVpcGNPaGJoYW9zdDBTTkw0dHp5NDA?oc=5",
+            "publisher": "The Economist"
           }
         ]
       }
@@ -3768,156 +3745,87 @@
     ]
   },
   "uk-budget-defense-ukraine-2026": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T16:09:02.276Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "100-energy-payment-for-20m-households",
-        "title": "£100 energy payment for 20m households",
-        "when": "2026-10-28",
-        "place": "United Kingdom",
-        "lat": 51.5034,
-        "lon": -0.1276,
-        "what": "The Budget gives about 20 million households a £100 payment toward energy bills, adding to the package's cost alongside defence and Ukraine spending.",
-        "via": "added household support spending",
-        "aspect": "living",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
-            "publisher": "The Guardian World"
-          },
-          {
-            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-            "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC Business"
-          },
-          {
-            "title": "Budget 2026: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards – as it happened",
-            "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-            "publisher": "The Guardian World"
-          },
-          {
-            "title": "UK announces energy payments for 20 million households and £10bn for Ukraine",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnFmZWE5ZERFSndZTy1Sb05VQVZXaWhzTXBnQ09tTVFBS19HY0RnWWdXWHRXQnJXczEtUVVBQUFaMW9QUWI0RDk5Y3M0Vld2bWtGamZEN0hyNDBzYmxwSE1aMUZsRFZ6RzdDU3RBbUw3ZFdyX0xSbUJJVVJTVVJ6Qy1vdkhSeVgxTXEtMlY4aF90dTlabFZsNTN0RklOdG1jbDM4TDRiV29WclowMXFCOQ?oc=5",
-            "publisher": "Operativ Məlumat Mərkəzi"
-          }
-        ]
-      },
-      {
-        "id": "higher-bank-profits-tax-raised-to-6",
-        "title": "Higher bank profits tax raised to 6%",
+        "id": "departments-told-to-find-1-cuts",
+        "title": "Departments told to find 1% cuts",
         "when": "2026-10-28",
         "place": "London",
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "what": "The Chancellor raises the tax on bank profits to 6%, along with higher taxes on landlords, to help pay for the handouts and spending plans.",
-        "via": "new tax revenue",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
-            "publisher": "The Guardian World"
-          },
-          {
-            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-            "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-            "publisher": "BBC Business"
-          },
-          {
-            "title": "John Healey Unveils £100 Energy Payment and Raises Bank Profits Tax to 6%: 13 outlets compared",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVcyUU95V1BOY3lCU1pXY2pPdnBRV2pNbk0tLWtLRktZOVJYVVdKMkV3c1lUTjhtV2FFMWlKdTZPNEF2YVVUb3hRSDMtVWFMZWZ3QTM1eWpaZ05xS3BRT1dtbGdja3IwVTNITmlmT2xSb3p5ZHJtSmpZOTFud0NaYVF2MlR0ZVk4bTgwSUFILWJqamxkQ2Nwa3NHZjlQUzh4RmN5TzhyNlk0U0NoVUhkVGk3cG52emVhZzlVSWhpemlQR05IbWZ0TGlZT0s2aDExY1psRE92TnEyUzIyeVBxbDA5dnFHbnJNSHc?oc=5",
-            "publisher": "NewsCord"
-          }
-        ]
-      },
-      {
-        "id": "departments-told-to-make-1-cuts",
-        "title": "Departments told to make 1% cuts",
-        "when": "2026-10-28",
-        "place": "Westminster",
-        "lat": 51.4995,
-        "lon": -0.1248,
-        "what": "Healey tells government departments to find 1% cuts to help fund the higher defence spending target.",
-        "via": "departmental savings for defence",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "John Healey ordered government departments to make 1% cuts, and The Times says more cuts are needed, to pay for the 3% of GDP defence commitment.",
+        "via": "departmental savings to fund defence",
         "aspect": "budget",
         "flow": "into",
         "sources": [
-          {
-            "title": "John Healey commits to 3% of GDP on defence but needs cuts to fund it",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXZXQVl3UmxKV3RUcjI1S0FGaWxIY1BIclpVZUpWeVVjd0FyTFNkSEhDeWFaZG5fR3NtcU0yQ05qTlNqRzVTNHlHbWxYWTd4cks4eHlMWGQ5aER5cDVKZ1Y1a3pTVks1cHY2eGtfT2ZKUUFoOVR2RENrOXVkSzBwT3BCZERIbEFSSUFOYnA2SDlhM2ZDZmVUZ25waDJxUDFz?oc=5",
-            "publisher": "The Times"
-          },
           {
             "title": "John Healey tells departments to make 1% cuts to fund defence",
             "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VMWJ6QjVSNUl0bjlMRVhjSE5uMEFjMUVRS2M2T3RhaWZrUWxIS1JITXdXLU0wTHRaa1VLb3NJZm9uTTA4LUFqckF3ajlROHJvZnZENkhodV8tZEI1ZGc?oc=5",
             "publisher": "BBC"
-          }
-        ]
-      },
-      {
-        "id": "3-of-gdp-defence-target-by-2030",
-        "title": "3% of GDP defence target by 2030",
-        "when": "2026-10-28",
-        "place": "United Kingdom",
-        "lat": 51.5034,
-        "lon": -0.1276,
-        "what": "The Chancellor commits to spending 3% of GDP on defence by 2030, with tougher decisions on real increases put off until next year.",
-        "via": "brought-forward defence commitment",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
+          },
           {
             "title": "John Healey commits to 3% of GDP on defence but needs cuts to fund it",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXZXQVl3UmxKV3RUcjI1S0FGaWxIY1BIclpVZUpWeVVjd0FyTFNkSEhDeWFaZG5fR3NtcU0yQ05qTlNqRzVTNHlHbWxYWTd4cks4eHlMWGQ5aER5cDVKZ1Y1a3pTVks1cHY2eGtfT2ZKUUFoOVR2RENrOXVkSzBwT3BCZERIbEFSSUFOYnA2SDlhM2ZDZmVUZ25waDJxUDFz?oc=5",
             "publisher": "The Times"
-          },
-          {
-            "title": "Govt aims to spend 3% of GDP on defence by 2030, Chancellor says – but not everyone's convinced",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnpQZ2JoOXh2X1BzSG9nZWhTU1E4NXF6S3ZLWS1EVE5wMWNNVmptb2Y3NUF1RTZFRzh5a0ZGb0Nwb1BPSUhSWVJWZHBZRlp4Sk5WMzhYZVlYZkVYc0lZLS1jcUcycXRIQTFNa1FPYy1jUTB0bGZjTjVXb0J5WmpSemVMWnA0MFJYMDRzWjkybDBweHRVQ2d3LXNkSGo3VFhqMVIzd0NWNjNSdk5veVRr?oc=5",
-            "publisher": "Forces News"
-          },
-          {
-            "title": "UK targets 3% of GDP for defence spending by 2030, pledges £10 billion for Ukraine",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkFTOTR1ZjVjS2JyX2plZGpjWExmT21fRGJ1SVAxUGpZRnh5dVoza1c2R3EySUI3Z1hEWnFrT0JxbmZuZWotcUJjZC1KdUxyRTNzOFBfUjFJYldlM1EtZzdScFE5c09yeWRXY1ZlUjlPWGtSNTloNklNdWJTcDdDRkFfb3ZGVTZSeUNlLXBPYi15UVlsSm50VUhHek45X2tXeXpZZUl2LTY0ZXZHbW9HZW5HTnNXU1dBY2JzUGJLUURzQjJTNG9N0gHMAUFVX3lxTE5KY184VkxvZ3RqbW81UGxVdDZRbGVISjlENWtVN0VoTUVfNF9NSURsaWN0QWllTnBYVmRtckRrSFZMLV9nc2ltWmh6NVR1TUZ6NC13Q2pqNlFaNHBkMFZ6RE80MEU1VllVbEhWdDFOQkI3Z1ZGbDQ3SGhaNHhVR21OeUdIN1I4MnhqVWxHcV9URkRuOTdGTzZHbkQ2aGVMVFFONnMxTGMzQTRTVDNocWVlQlF6UFlYWWdMcGpuUmg0UktScXdtOHd2VEI2WQ?oc=5",
-            "publisher": "Firstpost"
-          },
-          {
-            "title": "Budget closes defence funding gap but tough decisions on real increases put off until next year",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSDVvSmJpTFdGVDhPRWpMdU1qQk1mVkhTMzdWRVk1Z3BFY3JKR05vY3lxcDNhUFVKTTZaTzVYaXZjU185M3R3NVlZYnRKREdsS042MnF2b00xS25RTjlNS1BmWG9jU0hmRTlTOWdoMkZseVBISGY1MFN3QUw3WGI2ejY1UUdJRFFpMmVUa0I2cWp0M2tzaG44aUdybUp4Y2VvX1JFYUhpVEhjWmtpNUlpUXU0U1RSMl9HQUI4TjZKQ2h4UQ?oc=5",
-            "publisher": "Navy Lookout"
           }
         ]
       },
       {
-        "id": "10bn-ukraine-support-package",
-        "title": "£10bn Ukraine support package",
+        "id": "obr-cuts-uk-2027-growth-forecast",
+        "title": "OBR cuts UK 2027 growth forecast",
         "when": "2026-10-28",
-        "place": "Kyiv",
-        "lat": 50.4501,
-        "lon": 30.5234,
-        "what": "The UK announces a £10 billion support package for Ukraine, which the Budget links to pension reform saving £50 billion by 2050.",
-        "via": "Ukraine aid pledge",
+        "place": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "what": "The Office for Budget Responsibility cut its UK growth forecast for 2027 despite the Budget measures, tightening the room for defence and Ukraine spending.",
+        "via": "weaker growth and tighter fiscal room",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "OBR slashes UK growth forecast for 2027 despite Healey’s budget measures",
+            "url": "https://www.theguardian.com/business/2026/oct/28/obr-slashes-uk-growth-forecast-for-2027-despite-healey-budget-measures",
+            "publisher": "The Guardian World"
+          }
+        ]
+      },
+      {
+        "id": "eu-weighs-defence-loans-for-ukraine-gap",
+        "title": "EU weighs defence loans for Ukraine gap",
+        "when": "2026-10-29",
+        "place": "Brussels",
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "what": "Brussels hopes its defence loans could help fill Ukraine's budget hole, shaping how much other European donors such as the UK are expected to add.",
+        "via": "Ukraine funding gap pressure",
         "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "UK announces £10b support package for Ukraine",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2U1JSLV91WlFITGhFazJqakFPRTJyMTdVbVRvS1FXQkxGeElBQ0Fob1NtRklLeEQtaUlqUmU1Ym9JRmNFS0RVWmVraURfWFY0X09QbGdiNTd0Ymp3dGc0b0xBcWpCNHo5a0ZRRU5yVnE2UVpNQUpjNnhn?oc=5",
-            "publisher": "Bol News"
-          },
+            "title": "Brussels hopes its defence loans may help plug Ukraine’s budget hole",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORm5qX3BCQ09IUlFTd3JLTVdNTmZnQ1RJRUxHdTZ3MTVfMGhWbVhzYV9BaEs4bnhFZUpfRkduRENfTHk4X1oxZktMYk0wUUxfeXdSTVhJbGc0N1NYaHd3NHB3dm9xaWJUS29aV3U0OU9aSVJyWDBoWFctWlhkNk1lSVYxYV8xZ1BzZUpjNUJ0MmFreXhuSTBnYzZueFBwZ3BQRXh6ZmE2NnUwOEk?oc=5",
+            "publisher": "Euronews.com"
+          }
+        ]
+      },
+      {
+        "id": "black-sea-states-warn-of-shipping-risk",
+        "title": "Black Sea states warn of shipping risk",
+        "when": "2026-10-29",
+        "place": "Black Sea",
+        "lat": 43.5,
+        "lon": 34,
+        "what": "NATO's Black Sea nations said spillover from the Ukraine war is endangering commercial ship traffic, adding to allied security pressure.",
+        "via": "allied security pressure",
+        "aspect": "trade",
+        "flow": "into",
+        "sources": [
           {
-            "title": "UK boosts support to Ukraine with £10 billion package",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejRqMXYxb1pkM09jekFtSVBHT3pQajlUbkZ3TjFXVHA2TC1aeWF4R2dDYVVBX21rdWJlREpadEhuQTk5RUVUZXVFTTVUbUI0SWdncXR2dUV0Um5venpWbUQzc0N2VVRGVVRfbU9jNHMyU2xKOW41cnB5MHFnMXZMbHRoUVZ0Z21nNUNjdGVrcEE?oc=5",
-            "publisher": "GOV.UK"
-          },
-          {
-            "title": "UK budget links £10 billion in additional Ukraine support to pension reform saving £50 billion by 2050",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmFEUEFvRVNIdjRTMHRKT2czZGpBM19uVlpWOHdJZ2RKVTdpU0lqXzNkWElNbTFtWUFicHRaMUtGZ0RLcno4b2pMSlpHRGU3UHRhNHBvSUc3TEkxVXJmSmFpVU80dE1LTU9MQlBlSjlLWUlfOHh4MVNCZlpzSS1CX3p3NjNRd0lIcDdpVzh4VmZLekVjS3J6UjlJaFd5N19NOUJFYzEwM3dtbVN6QUhUc2ZvSUViaVl4M2hXT2RRRkxVRDZkUU04UHQxY1l4eG52UUhfYQ?oc=5",
-            "publisher": "Business Upturn"
+            "title": "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbnRubEhJcUxqOTB2eGFaVGhXS2VkQjJrcnc4R0lhZ1hDbVlBVVhPOWY3Smh2TTIxZTFoeW9uMGpfSU1NX0RROXNFUUtDVTloMXVrdl93VW1BcFBvXy0zdlN6TWJsazRNQ015Q1FvdjFoUHl3RVV5Vlg5NWZ4YTZRd1EzeGRjMUMxMjUyb29ZM0VwUm1CS1BQQlB0LXcyV2dCd2xRTnNDWllrd3JsV0FESDJSTE1QcGxwbTBXdzBER2hRMHl1VWlWTTZNR0JDXzh2NXFjZjhldFY?oc=5",
+            "publisher": "Defense News"
           }
         ]
       }
