@@ -386,16 +386,16 @@
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-29T12:08:38.397Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "1xa89o0",
+    "hash": "8mn8kt",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-29T12:08:38.397Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "19gtl3i",
+    "hash": "6ug618",
     "tags": [],
     "headlines": []
   },
@@ -407,123 +407,44 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-29T12:08:38.397Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "10prikj",
+    "hash": "cktz1d",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-29T12:08:38.397Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "1knaw53",
+    "hash": "7z5gg1",
     "tags": [],
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-29T13:08:42.098Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "t6anfz",
+    "hash": "1vpycnc",
     "tags": [],
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-29T12:08:38.397Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "1pmhom5",
+    "hash": "1lzezuo",
     "tags": [],
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-29T14:08:45.165Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "tbb83y",
-    "tags": [
-      {
-        "point": "LUZON_STRAIT",
-        "effect": "security",
-        "likelihood": 0.2,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          1,
-          4
-        ],
-        "why": "Clashes have spread to a new flashpoint off Batanes in the Luzon Strait (1-9 Oct), and on 29 Oct Taiwan reported about 50 Chinese vessels and a carrier group nearby, so naval activity could force route adjustments or higher war-risk charges.",
-        "action": "Ask your forwarder whether carriers have issued any Luzon Strait advisories or war-risk surcharges, and keep a fallback routing via the South China Sea or east of the Philippines for Taiwan-Philippines or North Asia-Phil",
-        "sources": [
-          2,
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "point": "SOUTH_CHINA_SEA",
-        "effect": "security",
-        "likelihood": 0.2,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          1,
-          3
-        ],
-        "why": "At least six Philippine-Chinese encounters occurred at Scarborough, Second Thomas and the Spratlys between 1 and 9 Oct, and tensions flared again at the ASEAN defence meeting on 29 Oct, so local shipping near the disputed features may see harassment, blockades or extra insurance ",
-        "action": "Ask your forwarder to keep vessels on the main shipping lanes, away from Scarborough and the Spratlys, and to flag any war-risk premium changes before booking Philippines-bound cargo.",
-        "sources": [
-          0,
-          1,
-          4
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Philippines-China tensions resurface at the close of ASEAN defence gathering , Asia News",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0RuYXNoYUtBeXJ3OF82OEJMSGlrbzhmUkN3cGVVZzB2R1A2a2FRRzY1TDlWc1lhMHRobHpPTG4za0thYUQ2VlI0QU9IODB5R3gwdlJRbDI4al9tUGowWVlSQmY4azVlWERkQVlhT3FKMWx6WHJmX3F4T21jSnU0ZWpqd0xfZw?oc=5",
-        "publisher": "AsiaOne.com",
-        "published": "2026-10-29T12:09:23.000Z"
-      },
-      {
-        "title": "China cries foul as tensions with Manila flare at ASEAN defence talks",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWi1XUERvVFRIQ2pOQjFIZno2eFNibl9TRmhTSDVsNjhya0s3Nl9uZjNFeTVHVnV5dXNGZUtndTRURmt5VFhLbHZPTkh3SW1GTkxVeEFVcmFfLXlPQjRPdmhjcE8xTzNxLWF4NlQwbDQzWU51bG9NNEF2TC12dnVDS3lwM19GcUxIam5oeHVfdlpoVkFLRUJGSkVab3RieTBvbjF3cXhDYmlqN0ZRUTFTNW5wTHFOYldacUE?oc=5",
-        "publisher": "The Straits Times",
-        "published": "2026-10-29T11:49:00.000Z"
-      },
-      {
-        "title": "Taiwan sounds alarm over Chinese warships across vast stretch of regional waters",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGM3QlU2SWtCN2l5bUFKQm1acGszdVVDd3ozYWVNUEtBMWhHR0N4d3NUMDJ2LXROdWtnUTYtcGJSM1N5U3pyRjVzRmMwZXV1THcxSkFQRGdEcHBsSk9EVlZjOVZTTEVFMnBfS2E4ZEtUeC1MOU54TDgwSk1zM3VZNW9ib2dRTkNER3lDLW5PSGlrQVdramxCUzc1eW1TMlZiclc4?oc=5",
-        "publisher": "Latest news from Azerbaijan",
-        "published": "2026-10-29T09:38:24.000Z"
-      },
-      {
-        "title": "Taiwan says vast Chinese armada of 50 vessels spotted near island",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHgxcnEtMU1OZ3hpMWZVVzdtaXo3OXhRMjVja1VjX2ZfMlFMbExMVEdTV0FEbmN0WmNZRlBxRFpjQVNEYUZVYi1qTGs3ZTNncVNyalprNzk1U1NiS3l4c19Jc011V0VTdkNvQ2haOGpZX0MtbzM5c1BOdzl1cXNRa0gzc3VHaEpJaGx3MGFkU0puazdEV3c?oc=5",
-        "publisher": "The Independent",
-        "published": "2026-10-29T08:52:00.000Z"
-      },
-      {
-        "title": "China’s naval buildup raises alarm: Aircraft carrier east of Philippines, 34 warships tracked",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1p0dGRpbERHNE1JSURaZ01mQUxMc0Jma1FZX2htSGJ1VF9RZ19SWkJsYThFc3VGQ25JeFZqeURKU1FXcHVwaUhwMy1aMm9vV1pnRVhfS1FiaEFubDYyTFNKeDcxV2w4QXMxVGhLTGJyZ2h0SVJ2ZzhnQ3B2cXUtUVBoSUhGRTUyUDRQd2hYNW5FVm91SHZmUmtINkJyaGR1LWFIWDdzRHpWbHNBVlZOQjR5ZWprUQ?oc=5",
-        "publisher": "Politiko.com.ph",
-        "published": "2026-10-29T06:17:24.000Z"
-      },
-      {
-        "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3?oc=5",
-        "publisher": "Reuters",
-        "published": "2026-10-29T02:24:00.000Z"
-      }
-    ]
+    "hash": "16o0qb5",
+    "tags": [],
+    "headlines": []
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-29T14:08:45.165Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
-    "hash": "k3yf7z",
+    "hash": "18qlijp",
     "tags": [],
     "headlines": []
   },

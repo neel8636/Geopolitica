@@ -1778,54 +1778,59 @@
     ]
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-10-29T07:08:07.873Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "student-protests-in-france-over-school-funding",
-        "title": "Student protests in France over school funding",
-        "when": "2026-10-27",
-        "place": "France",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "Events in France were reported as highlighting the importance of education funding and public services, the protests that Belgian high-schoolers echoed.",
-        "via": "French protest example",
-        "aspect": "budget",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Events in France highlight importance of education funding and public services",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjdQdzFoSllPYVF5Z2VHX0I3Y0R4dWpfX1RQMm1qV3JlSGFlTjMwc1VHWVlSVWh1Ynhib0xWcHNncUJJQlVnOWxKckRpQklDSzRsa0tqdC1FenQzbDhGcE53UjNVZmNyWFB1ZXFKaXF1Y3k5RU9mQXZHQkV1RUdLdDRHYw?oc=5",
-            "publisher": "Times News Group"
-          }
-        ]
-      },
-      {
-        "id": "gen-z-led-protest-wave-across-europe",
-        "title": "Gen Z-led protest wave across Europe",
-        "when": "ongoing",
-        "place": "Europe",
-        "lat": 50,
-        "lon": 10,
-        "what": "Young people are leading protests in several European countries, saying nobody heard them, a wave that Belgian student demonstrations are part of.",
-        "via": "youth anger spreading",
+        "id": "student-protest-in-brussels",
+        "title": "Student protest in Brussels",
+        "when": "2026-10-28",
+        "place": "Brussels",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "Students demonstrated again in Brussels, keeping the youth protest movement on the streets in the weeks after the 17 October clashes.",
+        "via": "sustained youth street pressure",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "'Nobody heard us': Why Gen Z are leading protests across Europe, World News",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTF0cU9jYkpiVnVnVHJyb2xPY3M5VlNORXVVYU1PZDZSdnhYdVlYTVpWeU5SNlpLdmUyQXVURE5KNGxkUzNrckk3amZocUgzYTkwbk41aUg3X3hSTWtaVTc0MzEtOTRnM2o1UkFiT2xMVUJRWkZCeVQweDhkOVE1U29ZbEZuUW9XQTQxdlJPTkpveFhO?oc=5",
-            "publisher": "AsiaOne.com"
+            "title": "Students' protest in Brussels",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHVPLUV3V1U3WjVPcWZiVi1BU0FuX2JUdHZyNWpocDJwci1aQmw3bXhWUnpkUEF2LXZIVW9lWXpCOXpqVlh4NlpVUGE0QWhzV2RuUm9mWXAzaE5kUU5oLWdxaFhOV1c2WUJ1VHZIcFVocGtMVXdpOFFjYVpZNlh5Qzc1M2RscHU2eUI0U3JTdTVMUzJLZTdVR1BSd0RTS01SUEhFcEpvY0d2U0tzeXBnb2g4ZmMyMjZob0I3T2hVZGpyaXll?oc=5",
+            "publisher": "The Lufkin Daily News"
+          }
+        ]
+      },
+      {
+        "id": "gen-z-protest-wave-across-europe",
+        "title": "Gen Z protest wave across Europe",
+        "when": "ongoing",
+        "place": "Europe",
+        "lat": 50,
+        "lon": 10,
+        "what": "Young people in several European countries, including Albania, are protesting over economic hardship and political accountability, a wave that Belgian students are part of.",
+        "via": "copycat protest momentum",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Overlapping Crises Deepen Unrest As Protests Sweep across Europe",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFZQV3d2UnQwSkRoQy13N0t4ZHJqQUp5SkF4SElxS3VxSFczcG9ORXZEbXZQektaYzVZT3FMQjNWcEN3RlRRTWRzdnpRcGVJWllCRTVtaW5ZV0I1dXpTODVuc2pGaS1saW9TeEFkelltb3h0Q05KbllJblNMQURid09tY3U4d18wRlJjVEc4STVvYXBhVkJhNWdNU1J2LXFQSjE1clNRWW9FWVJuM0Q4S0RTMUtsY0560gG-AUFVX3lxTFBNMzBSdHpkd2lqTVk0Wm1HSlVrZW9nb0M3QjdxR2pUemFJWDNmdFI4LU5IUHl0czZxd1VPdkFidjRuZXpTaU9MdFYxVlV6aEgzN3BUS0hkY1Bib1hfTTc3amhmcUFENGFMSU1ZV0JWWkdUV3piNTZPUlVsRmN3MjZRU1FhTTM3ODI0QTRSdTVrLUYxekdzUHV0T0tVbTRfYS1vc2x5d1dOODlrSnh3ZmRCTTZHX3lkWHd0eTgteGc?oc=5",
+            "publisher": "تسنیم"
           },
           {
-            "title": "A Wave of Protests Sweeps Across Europe: Why People Are Taking to the Streets",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUW5hZ0ZaMzFOR0ZTWk9hdEtKVjJrX1JCdzBSd1oyb08weDg1dGg1aGk1ZDM3QnhNWjVjNUhla1poMEhSMElOS20yZ055UEx2ZkxTWVg0WGt1ZHY1aXJkYzVjTHNldHBhQU1ScGVKX0sxWlk1cjZmbTlvczc5dkE5M055czRDU0RtNHAyTS1YRk1FMllIUHdTa196aGZUZWxJblZpSmNZLW5KX1haQml5YXZ4TmZ1czg?oc=5",
-            "publisher": "Visit Ukraine"
+            "title": "'Nobody heard us': Gen Z ups ante as protests sweep across Europe | Daily Sabah",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkJWS3dLVk1RdWswUHEtVGNMOTZVbVd1bmVlaWw3RFIwRjZHcTZaUjhYdHYxU1FicnB3cmNwektiRHNWVmcxbWJYNzJnZjR4Rnl3VHVGUXVCZ1d4T3VMVXZoQW83dlVSdmdrYnFGY19jSFV3eFVlMjNmeHZOMDJqeFdhSkNZN1lnS24xTW5aTmZPQmtLdzhaVk1oTGMtYTJGNVYxUGlnS1ZpQdIBqgFBVV95cUxQbkJWS3dLVk1RdWswUHEtVGNMOTZVbVd1bmVlaWw3RFIwRjZHcTZaUjhYdHYxU1FicnB3cmNwektiRHNWVmcxbWJYNzJnZjR4Rnl3VHVGUXVCZ1d4T3VMVXZoQW83dlVSdmdrYnFGY19jSFV3eFVlMjNmeHZOMDJqeFdhSkNZN1lnS24xTW5aTmZPQmtLdzhaVk1oTGMtYTJGNVYxUGlnS1ZpQQ?oc=5",
+            "publisher": "Daily Sabah"
           },
           {
-            "title": "Student Protests and Youth-Led Movements Around the World 2026",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oMUpEdl9kY1N0OXh2VmR4M3pIMkxkU2dCZDIzRlpYc185RHlCWFJYRmE1b2ktTm0tTjRyZmZ0UlVaNzlyVDV4Q3JXUjVLY3hDZnB0Sm11SUlwdm9ydFFmdWJHQzBTQ1VWNUNXaXF3NWZGWDdHTnJkdHhtNFZRQQ?oc=5",
-            "publisher": "Amaliah"
+            "title": "Europe’s Gen Z Protests Gain Momentum as Young People Demand Economic Change and Political Accountability",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjYyR0V6aTZReS02bFlQWDUzUzlCWi13V0RKQkRFRHZreVhJTEtnMnR3emN0UUs5OFRnOWU2dUFaTG1RRktnbEZrUm9nVzhocGtReS1MMXZ6bEw1TFZ6a0F0a1ZVbEtNM1JvLXkzZlVpd2xEMXh6ZjY3Qnc3U2dLSl91cVBUNDc4UUlkQ2xuVUhXUTg5VlNPQ2xGOEdTRGstaUF5MGhYVkRKYlBrNFk1cC1id2pxcTQ2Q3YxWV9rcUd6LXR4azRSaC1UOA?oc=5",
+            "publisher": "Politics Today"
+          },
+          {
+            "title": "Reuters: Generation Z revolt sweeps Europe, Albania among countries where students demand change and Rama's resignation",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREN5MTkzVzRxNXN0MHAxRUp5WDUxT19FbTlHbTBNaVBxUTRYNTMyLWFrR0o4SXVrQmZNdzNsN1lvVGJXWkJGdjhvT0J4YlZQdUNCaGQtbmpFandpOC1PWWs1RVFQT2pPTXFzaEd4UG1faC1KdHdCVmhqZHpGYUpsS0xxRFRkWVRkZXJPTFN6cENtM213VUZLRXp5VFRoVG9LZU0yd2txd3AwdVlBWVNNNnFaUlp2eUI2LWV0ZXhOQWptcE1NQURHd3puQnpFa2FwdDFWQ0hpcVM0S0RKTzZ0dl9qZEJZMUlu?oc=5",
+            "publisher": "Balkanweb.com"
           }
         ]
       }
@@ -2115,43 +2120,38 @@
     ]
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-29T07:08:07.873Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "pri-leader-links-usmca-to-cuban-doctors",
-        "title": "PRI leader links USMCA to Cuban doctors",
+        "id": "us-50-tariffs-on-canada-take-effect",
+        "title": "US 50% tariffs on Canada take effect",
         "when": "2026-10-28",
-        "place": "Mexico City",
-        "lat": 19.4326,
-        "lon": -99.1332,
-        "what": "The PRI leader demanded President Sheinbaum cut agreements with Cuba over its doctors, warning the stance puts the USMCA at risk.",
-        "via": "domestic pressure on Mexico",
-        "aspect": "politics",
+        "place": "Ottawa, Canada",
+        "lat": 45.4215,
+        "lon": -75.6972,
+        "what": "Trump's 50% tariffs on Canadian goods took effect, and Prime Minister Carney vowed to retaliate, souring the trilateral climate before the annual USMCA reviews.",
+        "via": "US-Canada tariff escalation",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "PRI Leader demands Sheinbaum to break agreements with the Cuban dictatorship over doctors: Puts T-MEC at risk",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNTB5TUloR3l5c2xlOUliVFJ6YWYtVGxPaUJ0S2t1TU5MMjNzTUFQTkt2TXg1MlptdThmR0Fka3U0YWFvRkFBYkNaX08wMTlacldScUtXX2FQaDNhNTNsM19jNDc4T1VuSGUxNTVmUHlxOElBWkw1cWtFMVMzYXB6U2p1NkRNTDJwN19IS3I4dXgtVkdjcGdZY3BkT0tnMFc1ZG4wOVd6UXNzNV9BZDROZUtLWVNPTFkwLTM4NHVqS2dUUQ?oc=5",
-            "publisher": "CiberCuba"
-          },
-          {
-            "title": "PRI Leader Urges Sheinbaum to Cut Ties with Cuban Regime Over Doctors: Threatens USMCA",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TVTdUdDNLLWxCbkk1OWFMeE1VZ1BPWExfUnpLaUVNX2NmMGF2MUNycDNkRG51TWtkQVpDb0JDektFM2N2UVZnVjU5MGpmTFd4TVd2dGpJTHE?oc=5",
-            "publisher": "CubaHeadlines"
+            "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5",
+            "publisher": "ABC News - Breaking News, Latest News and Videos"
           }
         ]
       },
       {
-        "id": "mexico-and-us-test-trade-deal-before-midterms",
-        "title": "Mexico and US test trade deal before midterms",
+        "id": "mexico-and-us-weigh-deal-before-midterms",
+        "title": "Mexico and US weigh deal before midterms",
         "when": "2026-10-28",
-        "place": "Mexico City",
+        "place": "Mexico City, Mexico",
         "lat": 19.4326,
         "lon": -99.1332,
-        "what": "Mexico and the United States are assessing whether a bilateral trade deal is viable before the US midterm elections.",
-        "via": "bilateral deal preparation",
-        "aspect": "trade",
+        "what": "Mexico and the US are assessing whether a bilateral trade deal is viable before the US midterm elections, which shapes how the review proceeds.",
+        "via": "bilateral deal pressure",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
@@ -2162,14 +2162,14 @@
         ]
       },
       {
-        "id": "us-and-canada-negotiators-meet-after-tariff-deadline",
-        "title": "US and Canada negotiators meet after tariff deadline",
-        "when": "2026-10-28",
-        "place": "Washington",
+        "id": "trump-dismisses-usmca-as-canada-talks-planned",
+        "title": "Trump dismisses USMCA as Canada talks planned",
+        "when": "2026-10-29",
+        "place": "Washington, United States",
         "lat": 38.9072,
         "lon": -77.0369,
-        "what": "US and Canadian trade negotiators met after Trump set a new tariff deadline, while he said he does not care about the USMCA.",
-        "via": "US tariff leverage",
+        "what": "Trump said he does not care about USMCA while the US and Canada plan trade talks, signalling Washington may favour bilateral bargaining over the trilateral pact.",
+        "via": "US negotiating stance",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2177,23 +2177,18 @@
             "title": "Trump Says He Does Not Care About USMCA as US, Canada Plan Trade Talks",
             "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW9JV3ZqZXctbEZTeGh4NUZoX24wbC1XSWJLaVpqVDRpMEsyc2VsM0xQaUFGeEZnaXFNU21ZWUN5WkNqR1VfX0k4WEMzckpfSXNoYTdCVmQyTWl5MWlZVWQ3WWxuYWdveWwwVU84eElDQ2JQZWdwdno4UUFOV2dYZWthSHZmbU5LUm5rOWFPam85SHVFY3V1bjBKOUY0eURv?oc=5",
             "publisher": "EnergyNow"
-          },
-          {
-            "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
-            "publisher": "EnergyNow.com"
           }
         ]
       },
       {
-        "id": "honda-urges-joint-stance-on-chinese-vehicles",
-        "title": "Honda urges joint stance on Chinese vehicles",
+        "id": "honda-urges-joint-stand-on-chinese-vehicles",
+        "title": "Honda urges joint stand on Chinese vehicles",
         "when": "2026-10-28",
         "place": "North America",
-        "lat": 40,
-        "lon": -100,
-        "what": "Honda urged the US, Canada and Mexico to coordinate against Chinese vehicles as USMCA talks approach.",
-        "via": "industry push on Chinese content",
+        "lat": 39,
+        "lon": -98,
+        "what": "Honda urged the US, Canada and Mexico to coordinate against Chinese vehicles as USMCA talks loom, echoing US demands on Chinese content in autos.",
+        "via": "auto industry lobbying",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -2201,6 +2196,25 @@
             "title": "Honda Urges US, Canada and Mexico to Coordinate Against Chinese Vehicles as USMCA Talks Loom",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1raHBBVENUdTFVUWVJNUhzVFFucVFMY003b0xjeVZhLTMwUENWcjVZYTNORHFwamx6MUhhdlBWZnVmLVd3czVaamJBb1UxeXl4cTdFRGNueFN5V09NT2dCZDZnQ1ZraFhQS3VtLWptSXFvazk0VFE?oc=5",
             "publisher": "BigGo Finance"
+          }
+        ]
+      },
+      {
+        "id": "us-pork-exports-tied-to-review-outcome",
+        "title": "US pork exports tied to review outcome",
+        "when": "2026-10-27",
+        "place": "United States",
+        "lat": 39.8,
+        "lon": -98.6,
+        "what": "Farm-sector reporting says the USMCA review could shape the future of US pork exports, adding agricultural interests to the pressures on the review.",
+        "via": "farm export stakes",
+        "aspect": "food",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "USMCA review could shape future of U.S. pork exports",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTM0TUk0Q3hibXR6NVQ4b1F6VE44MFpMRlBiT1J4aG1vMzZfdHo0MU93OUtmZERRaVllMTEwc2x3ZG5NQUs4UHFydnh6VGstY1NtS1VYdDI3SmxJbTdSWGRwR3FiRkU4QkJqaUVWS19qTFVfc0RjLW9FWGwyZ1I0OFlfVUpWS2NxcFp2LXV4cw?oc=5",
+            "publisher": "Brownfield Ag News"
           }
         ]
       }
@@ -2431,59 +2445,68 @@
     ]
   },
   "istanbul-floods": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "record-rainfall-hits-istanbul",
-        "title": "Record rainfall hits Istanbul",
-        "when": "2026-10-27",
+        "id": "fresh-downpour-floods-two-istanbul-districts",
+        "title": "Fresh downpour floods two Istanbul districts",
+        "when": "2026-10-29",
         "place": "Istanbul",
         "lat": 41.01,
         "lon": 28.98,
-        "what": "Record rainfall caused urban flooding and flash floods across Istanbul, the direct trigger of the deadly flooding and of more than $91 million in insured losses.",
-        "via": "extreme rainfall volume",
-        "aspect": "living",
+        "what": "Heavy rain turned roads into lakes in two districts, rushing water destroyed a garden wall, and a father and daughter were rescued at the last moment.",
+        "via": "renewed flood exposure",
+        "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Istanbul floods cause over $91 mn in insured losses after record rainfall",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1M0aXhCNlJndmE0SHNTUU1CRmJhMkJGWjFHMGZucWVqd2trVjhYald3dThnSG1Ed2hES1YyUnNHRDB4cVdTNUkydG1uRllReU1MM3oxT21MbzRzY2RNVFBTX251VkV4UWlpRWhQZ1VJVUd2WnFaYnMyYzN0eEVqN3l3ZEJPVjE1MnpMd3JHYjdWOHdoTjBuWW84bkZ3b0U?oc=5",
-            "publisher": "Beinsure"
+            "title": "Heavy downpour in Istanbul! Roads turned into lakes in 2 districts; father and daughter rescued at the last moment.",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWV9tQzJaNlJvWVJpX1RPbE1LbmpsVm1MTTdwR0Qtek1uWlNnMF9SaERJX0huMjg2dlVjajl6OXJMcGlXa0E1MkUtbUJTclVhakwzY3ZsbTVDZl81Y3JXXy1uWURZbXEtdVFPWDZGbUlxTkE2RHk4TTBiT3owZ19WRUo4Nk1RYUJfdU53?oc=5",
+            "publisher": "Haberler.com"
           },
           {
-            "title": "Urban flooding and flash floods in Istanbul What Happened in Istanbul",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVhOdndZX2J6bnlzN0xFNEdLbDRLSFdpb0JmSHNUay1FVTlkaGNaYU9jVmJtS0dFdDFscF9idFlRQWU4RWNwY1ZsS1BDZ3NOUWZndHNTTGJlaXVUSUN5em5SZmxFb0RNUXhyNTZaMmh5MUlLLTlpTlRzaWN1ZjBLamUxNlNzR1hLX3pzb191d3o3YUdwVFkwTmtzUzdOazBocy1Cd3dIcjJIM3NNbjFtZXRCbHk5UDdHbnJYZkRFMjdyR3Z1NHVMeXZVaHpmRjZRZGJhZF82eUo?oc=5",
-            "publisher": "Hidropolitik Akademi"
-          },
+            "title": "Flood scenes in Istanbul! The rapidly rushing waters destroyed the garden wall.",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXg1Y2VrdXpHUWpRVl9kZmJBNlFWSmdhdndYWk1RUkV3V29xcUEwZnZ6MmswT0RMcUpGUTZJMFhrM3g4ZS12dEdkcDZyTVpkQ3p6OFJyalpqcGJTNkFKOEsxNGRhZUpsaklaeGZJTWR3NDFZckdTUzZLbnFWanFKUTJ3?oc=5",
+            "publisher": "Haberler.com"
+          }
+        ]
+      },
+      {
+        "id": "ministry-warns-29-provinces-including-istanbul",
+        "title": "Ministry warns 29 provinces including Istanbul",
+        "when": "2026-10-29",
+        "place": "Turkey (29 provinces)",
+        "lat": 39.93,
+        "lon": 32.86,
+        "what": "Turkey's ministry issued a warning covering 29 provinces, Istanbul among them, signalling that more severe rain is expected.",
+        "via": "official severe weather alert",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
           {
-            "title": "Tornado kills four in Antalya as floods hit Istanbul",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVUzZ3dHUmlsdldUNS1iWGxmcktMc2V4ZERaVmJJcWQxcHFtQzV2Z29Md0gyLTBVM21uOWRpRHNvTmR4cDcwTXdVVGdTWF9XNWJsSGVEQUV4VEh0LTVaWVB2MkpPbHJEYjRiSTJuR0NJTGZHOXhFNnl6Qkx0ZkxsZzY3bnE4c2RLYjJqUXQ2Vmh6Mi05T1k0Wg?oc=5",
-            "publisher": "Hürriyet Daily News"
+            "title": "This time the warning came from the ministry! Frightening warning for 29 provinces including Istanbul",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzRLVUZ3eWJ4ZmZ6dkJCek9nbHhPR3gtcDN2UXB5cTlXeWFxdGJHQktjOWdqSEl2TWMyMVlMclB2LUIwQWVMMnlVMW5xQkdhd1BuWjY0LWJHZk1MQUktNHdxVnUtcl9OZnFWQnpNcDVsWkV2V3dMTV9jY3djRm1lUGtaVQ?oc=5",
+            "publisher": "Haberler.com"
           }
         ]
       },
       {
         "id": "roads-closed-and-ferries-cancelled-in-istanbul",
         "title": "Roads closed and ferries cancelled in Istanbul",
-        "when": "2026-10-27",
+        "when": "2026-10-29",
         "place": "Istanbul",
         "lat": 41.01,
         "lon": 28.98,
-        "what": "Rain closed roads and cancelled ferries, while congestion reached 80% during the morning commute, leaving people exposed on flooded routes.",
-        "via": "stranded commuters on flooded routes",
-        "aspect": "living",
+        "what": "Rain forced road closures and ferry cancellations across Istanbul, disrupting movement of people and goods through the city.",
+        "via": "transport disruption",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
             "title": "Istanbul floods: roads closed, ferries cancelled due to rain",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEYyNU5vS2xuRXpxQklsQmpFREw1bW5MOHZGWGRlenI2ckxSbllsWWgtTG1MeWIzZjBEYmNQSk5vQW53Y0lWUU5aWl9WdWdWQ3N5SF9JMEM0NWNWTjBfczBjZlZoR0JYZ2VJaEtwVkpLbzNxWGtzRHlKTW5yMDFDY0o5VnZtSFhtRVJmU1lRZUV0YnBVdGplc05lV0xYTDRpaWhlWUUyZWRXc0EyU2c?oc=5",
             "publisher": "Hispanatolia"
-          },
-          {
-            "title": "Istanbul congestion hits 80% as rain slows morning commute",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTl0RXRLdmNHWUxtZ3BwRmpaVVVGa3diQy1BRUpPcDU1RTVQbHJ6MFk4T2VEXzRneGN3MUNGd1UxWm50SEFPZ3IxdDZGNnRNbzlmMGlvbzBibUpIUXltTGFHaDlMdnhPQ2NOalVLWVItUnlWSmpObXdOYWZyTjduRFdrSGcyYzk0cGE0d05YTHhhRGM?oc=5",
-            "publisher": "Türkiye Today"
           }
         ]
       }
@@ -2606,144 +2629,134 @@
     "items": []
   },
   "italy-election-2027": {
-    "at": "2026-10-29T07:08:07.873Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "cabinet-approves-26-billion-2027-budget",
-        "title": "Cabinet approves €26 billion 2027 budget",
+        "id": "meloni-s-26-billion-2027-budget-approved",
+        "title": "Meloni's €26 billion 2027 budget approved",
         "when": "2026-10-28",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Meloni's government approved a roughly €26 billion budget for 2027, putting Italy's fiscal discipline in the spotlight as the election approaches.",
-        "via": "pre-election fiscal choices",
+        "what": "Italy approved a €26 billion budget with tax cuts to win voters, plus tax hikes on banks and energy firms, testing fiscal discipline before the election.",
+        "via": "tax cuts aimed at voters",
         "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "Italy's 2027 budget worth €26 billion, PM Meloni says",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaF9LMmd0Z1pzN01lVXlfVlBEX0hMcEpkb0ZPXzZzTWdZTE1NdjlKM2lDdW9Senl1Sy1KdFV5S3dYV0tBZ3MtZ3pXTDJCa2dxT3Fpd3hlb1pZWDY1ODJuTjAtNFpaYjJLc0Nra3VFZlFlRGd5TVlmYXdvQUFEM0xUVFI4cUxCTHI4MEZOSmZ3a2V1NHVRWFlqSjVlRQ?oc=5",
-            "publisher": "Reuters"
-          },
-          {
             "title": "Meloni’s €26 Billion Budget Tests Italy’s Fiscal Discipline as Election Approaches",
             "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMEN6TVozME9WYUhucmxKYllXZk9sMzdRc3VwN1l3M2d0RldVWFgzdmFsLXdXSEs0V2RrR3M5aFBlQy1DVnNrQl9EdXBDeWVrUEI2MklrTUllLTlWa19MTHJR?oc=5",
             "publisher": "EU Today"
-          }
-        ]
-      },
-      {
-        "id": "budget-raises-taxes-on-banks-and-energy-firms",
-        "title": "Budget raises taxes on banks and energy firms",
-        "when": "2026-10-28",
-        "place": "Rome",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "The approved budget includes tax hikes on banks and energy companies, a move that Reuters and other outlets report as part of paying for the package.",
-        "via": "levy on banks, energy",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
+          },
+          {
+            "title": "Meloni Woos Voters With Tax Cuts in €26 Billion Budget",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhldHZiSktsVGxiVEhzWnoxTS1BdkotRkVJSnptUGlZSmc1RXBQbjFPYnJJLThLZ3FDbE5NVkFJNXNGTFp0SENIVmhjWWtVSU5WVEZuX0dSUldZMlg2Xzh1cHZpQlVmLWE1Znl1VUowQ0NQcHVvLWlXTE1FbU1kZTgxRjlTaTMwcVNueFJ5eS1rNTNTQXpDaGsxNGlUNXA1U0FFTGZrS1hSZ1gwWk9pOXpB?oc=5",
+            "publisher": "Bloomberg"
+          },
           {
             "title": "Italy approves 2027 budget with tax hikes on banks and energy firms",
             "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXNlOFNXY1FIQWxqOWVQX2xwWkwtNWZubTRteG0zQ3FMQUZKM2QzVkFkX1R4Nkx6TVZCSUpqUmRqeE1Hc3lHR2c5dmlBSF9XQlFtRnhuZWxsV0oyZUZKTjdDY2hYMndWc0xEYlZtLUJ5bEpObmRhSy1LbmY1N29NczctSVVkT1JzZFRxRS1lOWhJSWJvckhmbW9HVi1Pa29aTEFaYWR2WUlHN19jbks4Z1JBbTZTQ1k?oc=5",
             "publisher": "Reuters"
           },
           {
-            "title": "Meloni’s €23.5bn Budget Gamble: Italy Targets Banks as Brussels Faces a New Fiscal Test",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGZLVzI4UHFMV0JYenEzQ01JY0NoNE5NckxBX3JKTVVsME1Cc21IblRlVVJMbzQzY0Y0RGVCTEVBMHQtVGQ0UEVfQzNsMW42RXNJSTJaMUN0Mm5JRmdJNU8yMVdqRWhCM3JBaGhXS3RZWVgzRWc5cGZld0xnWk9DcVlMZ2pGcVlyVjJDaTlycG5UUHctUWxUVGQ0ekhKSDJ1d0pBZTE0MEZlaVpsN3U4QnpRSjBQWG9SRXRCeFJIWGhhMi1zcGgtNnVHbXZiYzNFWDUw?oc=5",
-            "publisher": "Pagenews.gr"
+            "title": "Italy's 2027 budget worth €26 billion, PM Meloni says",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUxYWjJybGJiLUl3bUw3WFVsc2ZqUl9UalBBN3EydGJ1RXdQc190bjlyMlJkdjM0ZU0wQ0RQUWJ6RjdNSi16VFNYNEExUUIzWkROdlpzRFc1SnUzVVZ6Z1BSVU1aVEtVVElOcm50b1dMSE14TlZXT3pubkxoUTlvMl93?oc=5",
+            "publisher": "Yahoo Finance UK"
           }
         ]
       },
       {
-        "id": "33-irpef-rate-extended-to-55-000",
-        "title": "33% IRPEF rate extended to €55,000",
+        "id": "meloni-formalises-alliance-with-sud-chiama-nord",
+        "title": "Meloni formalises alliance with Sud chiama Nord",
         "when": "2026-10-29",
-        "place": "Italy",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "The 2027 budget extends the 33% income tax rate to incomes up to €55,000, with maximum annual savings of €500 per taxpayer.",
-        "via": "voter take-home pay",
-        "aspect": "living",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Italy's 2027 Budget: 33% IRPEF Rate Extended to €55,000, Maximum Annual Savings of €500",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43eFhBM1RKVzYwMXhrTVVGYzlac21xNXgzbk93emxWcnFfd3V5RllDQ0pCR3RGOXJsWE9iVTN3Rm4xbU5rV1BWRW1NVVFJbnQ0SmUxdklHN1h2QWpGMll4c1ZRckFRX2RCTnoyeGFYcTZBZmV0ekE?oc=5",
-            "publisher": "BigGo Finance"
-          }
-        ]
-      },
-      {
-        "id": "italy-puts-new-ukraine-arms-package-on-hold",
-        "title": "Italy puts new Ukraine arms package on hold",
-        "when": "2026-10-28",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Media report that Meloni suspended a new military aid package for Ukraine until the US elections, amid coalition disputes over the aid.",
-        "via": "coalition split on Ukraine",
+        "what": "Meloni formalised an alliance with Cateno De Luca's Sud chiama Nord party, widening her coalition's electoral base.",
+        "via": "wider coalition support",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Italy puts Ukraine weapons package on hold - media",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RzRTdTQWUyQjFuaGtuUmJIbENhSTM4b1pIOV9JMll2WUJVTUpQemFuWTJzTGNmT05WYi0tTjBwclRKTDA3U2NXaWYtb0ZiNVZZbjZiZUJhR1pMT3UyOFhLZXRxNFhkY1MzcXBKYkYyMmk3blJTbDF1QV9BNEVaZlRORVZyejJ1MFZQUGxCaDk4MDMwYmphU1pR?oc=5",
-            "publisher": "Big News Network.com"
-          },
+            "title": "Meloni formalises the alliance with Sud chiama Nord. And Cateno De Luca reveals the date of the vote: 9–10 May",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3lHQVo3SjczZlZuaDRTaDNBUDNtck0taFFMcUYwLWVZQk41cVFCSlNhQ3lhOVV3R2VOTldZQlpsZGZSM0lBeF9aRFF6VTR2a1R4MTJDa1Jicm1qOFFYcEdyZnpHSUVZVXl5UEk3bk9jRUQ2T2pGT3ZEOTRxczhxWFBZbHdBZGMyTFItVUFxOXF3Y3dRV3ZydHFhZm5qVFY1dnF6X1BFVFNHbkVydWJ1YjI5d2JqcDI2SHpTbWVPQQ?oc=5",
+            "publisher": "Il Sole 24 ORE"
+          }
+        ]
+      },
+      {
+        "id": "meloni-delays-new-ukraine-military-aid-package",
+        "title": "Meloni delays new Ukraine military aid package",
+        "when": "2026-10-28",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Media report that Meloni is delaying a new military aid package for Ukraine until after the US elections, shaping her Ukraine stance before Italy votes.",
+        "via": "cautious Ukraine aid stance",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
           {
-            "title": "Meloni suspends new military aid package for Ukraine until U.S. elections – media reports",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGF6RTlUVkt5NnM0eVJSTkNwWkV4WVdfaHZDamt2REJhVHBWQkJKbmJtclRBUVdRZUtjV24zN0UyTWN0TU83d0JtVXNpYko5ejNsSWdRYWZaTUVzZDJnUjZ3ZkRKQVZXVk44TWNBckxSMzROZUYzVHdoU2oycl8wZ3BOOG5ueGdVMlBqN05ZNGNMU0dJa05ycUc0LWd5Ty1OVHhBaHBYWHNWa2dkdGV2SE5oMFhrMGhMSHJKNGZaajdMRDdPSWV5ZFV4TmFjTkRWMElJ0gHTAUFVX3lxTFA0YXpFOVRWS3k2czR5UlJOQ3BaRXhZV19odkNqa3ZEQmFUcFZCQkpuYm1yVEFRV1FlS2NXbjM3RTJNY3RNTzd3Qm1Vc2liSjl6M2xJZ1FhZlpNRXNkMmdSNndmREpBVldWTjhNY0FyTFIzNE5lRjNUd2hTajJyXzBncE44bm54Z1UyUGo3Tlk0Y0xTR0lrTnJxRzQtZ3lPLU5UeEFocFhYc1ZrZ2R0ZXZITmgwWGswaExIcko0ZlpqN0xEN09JZXlkVXhOYWNORFYwSUk?oc=5",
-            "publisher": "Ukrainian news"
-          },
-          {
-            "title": "After Trump, Italy freezes Ukraine aid as Kyiv seeks aster 30 missiles; what is holding Meloni back? | Videos",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRWFpcC1lajk1Q3lndktPZWdiLTBjaDd2bkZlQ1ZEVG10bXZZMEVhem9tZ2RtMDRvci1vQkpWN2xaTmR3ZllZMGR1TGZxV005R3hOdXFRX2tMMzNvXzZsMldjeXFPM0QxS21rSVI4LTA2cmF6dVRSdFlRN2w0ZHB6bDJxWjhXNHh0NUhDSzNpSDlKb3Q1LXZqam9nNzhaLTlDN29UZ2RmYzgwdFZDTnlmN0M1UFY0bUFnczdMS3dicE5zbTZ1dDBiM2tHaURyOXFVU0owcHY3TE1DMFMwRVpUMDIxY3lJVzNETnp2OdIB8gFBVV95cUxQZmg2MnlPWVo2NlNxQ0xQS05TdHliMlVFMTZIcXk2QXJreGhNMHB2X0dRbVBOU2pKNmN6akNTWV9ISEZhQmVleFhjb2lOQXk0eVdfc2w0UEhKMUhkWDBWSVA4NFZuR1d0TUJWc1g4S08wbGJQTjBJY21NazY4LU9iMjJhY2s3N1JFcE5naXNiMGVRR0s5Z0VMeFV3cFkwblpfTTNsekNDc3RVRmZKYzNvWUZXSzhwem5uVVItclJzUlMtWkVRbnNwWDU2Ym5IaXJlVU1YMUVwVk84M0ppNmJwUkdIdmNPVF91cGtNSXdnVnNKQQ?oc=5",
-            "publisher": "Hindustan Times"
-          },
+            "title": "Meloni delays new military aid package for Ukraine until US elections — media",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjBCeE13Q0xJZ3RxYXhyc3NiX0M5cEhWU2xiY0FKbkVmZWdYSFh0ZFcxLTMyeUpaSEZoQnRIRUZvRk5HWUUzN3FyOTRqUkdTZjZWS0pOaWF5azBQVnhDY25hcC0xU2ZkSUtmbU05RUpvYkRnUDhwdkxpc3lDXzhDTEZwaS1vRUFfb0stV09tN3lJQjY2UUlpUURRZ091SXUzNlVqeEhHdlFKcHFs0gGyAUFVX3lxTE50MTRFVGtIQ2Z3THRsSnp1Q1h2WWZ1SW9CelI2WDYxV3FfN2lIWDF3ZkdXQVBwRDhqb0V4Tjk0VGtpc0c5VmNwYzBNU2MwRUpCYW9pYmZfNWpfckhUNVVJV0pCdlBrdzVZb0pTVEk0bklpZncwSzZEWllDUDFVaXBkcDVLSC0zdnYyZEptSVhtNE95WEtoNEVCSjd5c0FmQkNjX3JwaVN4X1Q1RFBfTUJzQ1E?oc=5",
+            "publisher": "Головне в Україні"
+          }
+        ]
+      },
+      {
+        "id": "coalition-disputes-strain-italian-ukraine-aid",
+        "title": "Coalition disputes strain Italian Ukraine aid",
+        "when": "2026-10-28",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Disputes inside Italy's governing coalition are putting pressure on continued Ukraine aid, exposing divisions on Russia ahead of the vote.",
+        "via": "coalition splits on Russia",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
           {
             "title": "Serbian Export Plans and Italian Coalition Disputes Put Pressure on Ukraine Aid.",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVThMakdTSHZQYnAzcG54Vlpwd2xWbXo1NVc0RHdicC1XMWlFTUZHMVFMWldxZ2pZc2owTDF0X2FicEJyWkRyMFFpWFZJR0hHNjA0Yko1MEltVkxnbTZXZkt3ck44TVFhWEVSMnU5LTVxXzBLd3ZoUFNnSE4zTmFCZl9jV296azRCMHAtdlhiTXpwRTYwSXBSelNfMXBjd9IBpgFBVV95cUxPWjdBWU9WQktRRHNxNGZDdFVGMWQ4ZWhvUXNySEVNSm9CWmZPVkktVHpFUzExbHYxb29kNlc2eFliSWdDcWQza0YyRGpRaUxHd3VoMUgzNFBMUEdTbk1IQ2h0YXhLcHhuemhfWEd0MUUxd1hVY09FTHM0ZGxLVlFvMThIZ21DOV83QkwtT1Y3Ty1NcjdxcnFSZjdzalM5SWs5VVI4LTNn?oc=5",
             "publisher": "Ukraine Business News"
           }
         ]
-      },
-      {
-        "id": "meloni-condemns-release-of-alleged-protest-organiser",
-        "title": "Meloni condemns release of alleged protest organiser",
-        "when": "2026-10-28",
-        "place": "Italy",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "The Italian prime minister called the release of an alleged protest organiser 'shameful', bringing protest and law-and-order issues into the political debate.",
-        "via": "law-and-order rhetoric",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Italian PM slams 'shameful' release of alleged protest organiser",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHNyWEJXUGo4YTdiUUl5Q01VRXRLc3AzbFIzQWhlQkRVWi1MN0VkZDVMcG5oZktkblNYYjdfWHJISUNsdjdQUXNmenNJUnFQQXZURzA4YzJaUmxLenRlVzEwSW5iN3Z3YTdKWFRlc3ZRY21qTmk2RFVPamhMS2hjZkl3UnlQYmRsejNRczZLM0hjRW9zOXJaYl9wNXdWLVByVzVRWWYtNVNtU1AyV0E?oc=5",
-            "publisher": "France 24"
-          }
-        ]
       }
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-29T07:08:07.873Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "proposed-24-cap-cut-worries-irish-farmers",
-        "title": "Proposed 24% CAP cut worries Irish farmers",
+        "id": "eu-carries-over-35bn-euros-ukraine-loan-interest",
+        "title": "EU carries over 35bn euros Ukraine loan interest",
+        "when": "2026-10-29",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "The EU bears more than 35 billion euros in loan interest to support Ukraine, and the funding for it is still left open.",
+        "via": "unfunded Ukraine interest bill",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "EU bears more than 35 billion euros from loan interest to support Ukraine, funding still left open",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEtyVW9Lc29wc2t6dG1JNVFlZkxSSXk4X3JKNzlGcndFU05OUnhvd0E5N21yUkZidGdXNzd3bkZEcWY2ZFhPTnN3dk91dm1zNEVFbERrS0F0OXpPcHBxb2JOVHFRekZOZ3BaMXVhaVBDaW02cU9Ba29WZjZCblRLMWxESXJQM2trOTVSQ1RIQ1NqMTRReVZfeVpBZ3VoUk5DOUFuOU8xOTdXVE5QVklsRmlaQURUVVJLN2JCSA?oc=5",
+            "publisher": "Laodong.vn"
+          }
+        ]
+      },
+      {
+        "id": "proposed-24-cap-cut-still-alive-for-irish-farmers",
+        "title": "Proposed 24% CAP cut still alive for Irish farmers",
         "when": "2026-10-28",
         "place": "Ireland",
         "lat": 53.35,
         "lon": -6.26,
-        "what": "Irish farm groups warn that a proposed 24% cut to Common Agricultural Policy funding has not gone away, hardening farm-state resistance to the budget proposal.",
-        "via": "farm-state resistance to cuts",
+        "what": "A proposed 24% cut to Common Agricultural Policy funding for Irish farmers has not gone away, keeping farm money contested in the budget talks.",
+        "via": "farm lobby pressure on CAP",
         "aspect": "food",
         "flow": "into",
         "sources": [
@@ -2755,34 +2768,15 @@
         ]
       },
       {
-        "id": "italian-producers-warned-of-farm-budget-cuts",
-        "title": "Italian producers warned of farm budget cuts",
-        "when": "2026-10-27",
-        "place": "Italy",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "Research body Nomisma says the proposed EU farm budget cuts threaten Italian producers, adding Italian pressure over agricultural spending in the talks.",
-        "via": "Italian farm lobby pressure",
-        "aspect": "food",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Nomisma says proposed EU farm budget cuts threaten Italian producers",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSU40SXdnLTZyZEVJX01URXlUOHoxVUZmbHQtRVphY2NKM1RMejZWTWRBUUZpbGU4YWkxMlFES1NMdk5ZbW9uR0tiMjZNZGlOZ3JIa2JOMFh0OTlBZ0owX01qT1JzREJ6SDZlYi1jMVV1OEFHZXRwUi13cThjU2V1eFpacGZLQW1yeVhRZlJOY1U3U21yT19wdllEbmdHMjJ1cU1IRGRyRmU4cVYwVUZ0bkFyY3ZPNHd5b1Rz0gG7AUFVX3lxTE5JTjRJd2ctNnJkRUlfTVRFeVQ4ejFVRmZsdC1FWmFjY0ozVEx6NlZNZEFRRmlsZThhaTEyUURLU0x2Tlltb25HS2IyNk1kaU5nckhrYk4wWHQ5OUFnSjBfTWpPUnNEQnpINmViLWMxVXU4QUdldHBSLXdxOGNTZXV4WlpwZktBbXJ5WFFmUk5jVTdTbXJPX3B2WURuZ0cyMnVxTUhEZHJGZThxVjBVRnRuQXJjdk80d3lvVHM?oc=5",
-            "publisher": "Vinetur"
-          }
-        ]
-      },
-      {
-        "id": "governments-agree-farm-reform-leave-funding-open",
-        "title": "Governments agree farm reform, leave funding open",
+        "id": "governments-agree-farm-reform-leave-300bn-open",
+        "title": "Governments agree farm reform, leave 300bn open",
         "when": "2026-10-28",
         "place": "Brussels",
         "lat": 50.84,
         "lon": 4.38,
-        "what": "EU governments agreed a framework for agricultural reform but left the question of about 300 billion euros in funding unresolved, a central dispute in the budget talks.",
+        "what": "EU governments agreed an agricultural reform framework but left the question of about 300 billion euros in funding unresolved.",
         "via": "unresolved farm funding gap",
-        "aspect": "budget",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
@@ -2793,52 +2787,14 @@
         ]
       },
       {
-        "id": "eu-considers-global-tax-revenue-for-budget",
-        "title": "EU considers global tax revenue for budget",
-        "when": "2026-10-27",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "The EU is weighing revenue from a global tax as a source of funding for the next long-term budget, which could ease pressure on national contributions.",
-        "via": "new own-resource revenue",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "EU considers global tax revenue for next long-term budget",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHZUREJZWjVsbm9sYXhaTFVtbEJ6dEtXclozVUdid3BsWGtGSXFISzV2eXBBeHp0WVNpMWI4M2ZVS1ZRTnp0U3hvSmEzcXgyNWxySTY5djRfRW1NZzMzaGNnOVVQTi1wc2w3SGtNTmdOOHZ0UGlVNzRKSWZBWGl5TVoyQUQ?oc=5",
-            "publisher": "Mezha.net"
-          }
-        ]
-      },
-      {
-        "id": "budget-bills-may-skip-parliament-plenary-vote",
-        "title": "Budget bills may skip Parliament plenary vote",
-        "when": "2026-10-27",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "Some key legislation tied to the 2028-2034 budget could advance without a European Parliament plenary vote, changing how the package moves through approval.",
-        "via": "faster legislative route",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "MFF 2028-2034 - some key future budget legislation could advance without European Parliament plenary vote",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVpHbkVUSlJuWS01SU4wVFJtUTUybkZsbXVRU1Z6SXB0Q1Nqckt3bTdwWndTRGFrRERpTFVtNDRmUE5UTXE3VF9KVFM3ZzR2Z2QwUXRyOFlPcF9jeUdEZFliYzVMS1pyREVYQ09iczQ1ekkxYTlvajN4d3FEcUpwSWRVSGNNaTVNbllSdlUxc2hsXzRaWjlON1psLWlHYlcwMVh4QWlLQVV4TTVEZVFTY0FkSnY4LVV4OGgxN1lveFhlRC1ncU84cFlPOUgzeDg1T2RTb1k4Z0RCLTN4bkNmQWhRaTJWcHhfRzhZ?oc=5",
-            "publisher": "Agence Europe"
-          }
-        ]
-      },
-      {
         "id": "budget-commissioner-serafin-visits-bulgaria",
-        "title": "Budget commissioner Serafin visits Bulgaria",
+        "title": "Budget Commissioner Serafin visits Bulgaria",
         "when": "2026-10-29",
-        "place": "Bulgaria",
+        "place": "Sofia",
         "lat": 42.7,
-        "lon": 25.49,
-        "what": "EU budget commissioner Piotr Serafin visits Bulgaria on 29 and 30 October to discuss the EU budget, part of outreach to member states.",
-        "via": "commissioner lobbying member states",
+        "lon": 23.32,
+        "what": "Budget Commissioner Piotr Serafin visits Bulgaria on 29 and 30 October to discuss the EU budget, part of the push to win member state support.",
+        "via": "Commission outreach to capitals",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2851,6 +2807,25 @@
             "title": "EU commissioner Piotr Serafin to visit Bulgaria on 29 and 30 October on the EU budget",
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWE1IMG9UZXlqcmZaeVRDYnZ6U3diZXA3X0h0ZkJFMENFUjNPVHVvUkRqZTh2bEg0MjhqaTdSdVdaOERqWnN0V1E2NzZmVlowUU5lbFcwU0h4VGZPZFBaRGtpaVRPbXI3TS1xdzZPcU1pSlNtZE9MdURQTEoxMGtucXg3YWEyYzZSc3ZESXI2NGRDYlBuaWJZQnA3MFoxTFlydzk4c0pLeGNia2QxZGhMWnNIUkV3M25zbGhjb0o4Z2LSAcYBQVVfeXFMUHZhVG5rVkd5RjNDLXh5QlpPX2FRRk93aTFHVzVoTlZVYVplQmltSDFDVkthazQxZkdTaFNFYlIyWDhYRWt5ek9DLXdoMlNHSGhlVGxGY0FaLXhmZHBua3NlVFhpWDNyT2ZxakFxS096VkU3WkRscHd3VWVoblF5NS1YT2FYelh4TXprUnNlMTdHazlILXAzUW1DM3R3R2pObFQ0alpMN0pLbGNsZ1Rpa2RkbEplOHM1SzhEdGhsdHFMZVp4VHdB?oc=5",
             "publisher": "BurgasMedia"
+          }
+        ]
+      },
+      {
+        "id": "budget-laws-may-bypass-parliament-plenary-vote",
+        "title": "Budget laws may bypass Parliament plenary vote",
+        "when": "2026-10-27",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "Some key future budget legislation under the 2028-2034 framework could advance without a European Parliament plenary vote.",
+        "via": "faster legislative route",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "MFF 2028-2034 - some key future budget legislation could advance without European Parliament plenary vote",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVpHbkVUSlJuWS01SU4wVFJtUTUybkZsbXVRU1Z6SXB0Q1Nqckt3bTdwWndTRGFrRERpTFVtNDRmUE5UTXE3VF9KVFM3ZzR2Z2QwUXRyOFlPcF9jeUdEZFliYzVMS1pyREVYQ09iczQ1ekkxYTlvajN4d3FEcUpwSWRVSGNNaTVNbllSdlUxc2hsXzRaWjlON1psLWlHYlcwMVh4QWlLQVV4TTVEZVFTY0FkSnY4LVV4OGgxN1lveFhlRC1ncU84cFlPOUgzeDg1T2RTb1k4Z0RCLTN4bkNmQWhRaTJWcHhfRzhZ?oc=5",
+            "publisher": "Agence Europe"
           }
         ]
       }
@@ -3033,102 +3008,102 @@
     ]
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-29T06:08:05.090Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "congo-cases-pass-10-000-mostly-untraced",
-        "title": "Congo cases pass 10,000, mostly untraced",
+        "id": "ebola-cases-pass-10-000-in-dr-congo",
+        "title": "Ebola cases pass 10,000 in DR Congo",
         "when": "2026-10-28",
         "place": "DR Congo",
-        "lat": -2.5,
-        "lon": 23.5,
-        "what": "Congo's Ebola outbreak has passed 10,000 cases with no vaccine, and about 80% of cases are outside known transmission networks, so the response is falling behind.",
-        "via": "untraceable transmission chains",
+        "lat": -2.9,
+        "lon": 23.7,
+        "what": "The outbreak in DR Congo has passed 10,000 cases while vaccines are still in process, which raises the chance of infected travellers carrying the virus across borders.",
+        "via": "large source outbreak",
         "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Ebola outbreak outpaces Congo’s response: No vaccine, 10,000+ cases—80% outside known networks",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3RPRGpnU1MxdkE2bnRNYkVrbURQa0ZVWHhBUlJodDJ0dXhZV3Y4WHdEdEt1eEJqZTd5aE1obmhfZy1PaEpodUE3R013MzZQbHhOY25QeExwdzlFVzRPSGREdGlBOGN2Wk5YRW1oRzdkZ1NFV2dNMTRwQkowZW5BNDZjUk1JUTdQR0hfX3I1LWh0cllCajRWal9Oa29lNUxwRExJTGNTSEZCaHNER0g1QUthZkRqTTRJX2NacThOYmY2d9IBxwFBVV95cUxNdnA5Z2lkQ0NiUGR2eklkM1R3OUtBSDdpVkpKRHdGQS1vWnVSVENfamxJeU1HT0RMbVhBR3A4Vms5TDZXTkd2V1A2SElhRzVDTTFZdE5wbTNJVlNJTk0zNnlVellHa1R5UTRzeWU3ZXNpaVljcnNPN3VGZ1VubWh4dDhqbW04T0ptemczRUtkMzRndHY5M25ta21kaGNlWEY4eHBOaHZmNXNoMllfcUJrTE5hSFpReGJNRF9XMnN5YWh3bjVMYWpB?oc=5",
-            "publisher": "ThePrint"
-          },
-          {
-            "title": "Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow spread in African countries",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWkpnUFYzeWlBbXlQMldRMVFid3JJeGRISkFiU3dnZHdCeDF5aGZGSmVVZ3dKOFNaNlJJVVBNd3kyVGRHemlLVmw4ZnV0ampjSThpMkhFdjJQMTRDdGRiNWl2dUg1WGtVWms2TGhWVnBwU0d4R3Y1c1JEZnFrV2RKYjJIRXBXLWEy?oc=5",
-            "publisher": "New York Amsterdam News"
-          },
-          {
-            "title": "Congo Ebola cases pass 10,000 as WHO urges sustained response",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMFhDMlUzVkViX1ZtcWNpRHBPRV9RRU1uNE1LcnhkTEZUbHA1V2dXb1kyYmNtMVVnREUtUkpTYXcyTTZwZGxCVjBqaFRYS0tlcWZXMW0xNjVVNmVGSW9CaVhOOFlSVHg5NGlJNjlaVHk3a1NVWEFLVWRJTmlPUVRuX3dSWkZQT1VpMW9uUUk5T25tU3dHNnMwcXdoQjJNMVVRY3ZXeEhMQkd5UQ?oc=5",
-            "publisher": "Gulf Business"
+            "title": "Ebola reaches 10,000 cases in the DR Congo with vaccines still in process",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3FydE8yalVtUHhuZkE3a3BZVFFmVlIyWVUtcmJxMFhWWEdPaGJRQm5nNHp4MkRaY3RReW8xRE1mRnBwanBLOTJKVlBYZi1yTHh4cVFnQUtHMlhTNW9maUlhYk1LczloLTFmSmpzSTZwY0ZyTWJFaTkyNU1abzE3bl9RbC1zem92TDh6RXN2WVN2UnprUXIxbWYzelJmRlJLTVdIWXZBdG81TU9CaEVIV1hISnVKMXRCTENlalFR?oc=5",
+            "publisher": "Diari ARA"
           },
           {
             "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
             "publisher": "UN News"
+          },
+          {
+            "title": "Officials Warn Ebola Could Spread Like COVID as Cases Surpass 10K",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjFpd0c1WEFoanF2RFJjTFd1NGZMM0ZZdEFjUVdmNWYtRWR2bkNLZXdaN0R4RnZpVEliUEFOaUNSd1RJdHY0R1FKYWtsNlktVEVNdjlBNFNYU0hnMG9STlFqdGFtUHlKWUVoZ2g3WTczUmRkLWNGUUJGWjJsRklad01DWW1mWHg4aXNqdnowaE91VVFRSHdNMQ?oc=5",
+            "publisher": "People.com"
           }
         ]
       },
       {
-        "id": "stigma-hampers-ebola-response-in-congo-village",
-        "title": "Stigma hampers Ebola response in Congo village",
+        "id": "african-health-ministers-agree-to-keep-borders-open",
+        "title": "African health ministers agree to keep borders open",
         "when": "2026-10-29",
-        "place": "DR Congo",
-        "lat": -2.5,
-        "lon": 23.5,
-        "what": "A village chief in Congo is working to overcome prejudice around Ebola while the disease kills his relatives, showing how stigma can complicate containment.",
-        "via": "community distrust and hidden cases",
+        "place": "Africa (continental)",
+        "lat": 1,
+        "lon": 17,
+        "what": "African health ministers agreed to keep borders open despite the spread of Ebola and to focus on surveillance instead, leaving cross-border movement possible.",
+        "via": "open borders, travel continues",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "A village chief in Congo works to overcome Ebola prejudice even as the disease kills his relatives",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMWxOQ3hPcWlCLWEtT09HNERzVTlBRjdvRWI1U3VTNmgybnBtTGVmUmFTUG5rT3FnbFk0T3UyTzNYam1tU2F3eEtfdnZnNWRiQUZvSi1OMUxLMU41UXJ0X3pHNU1JbnNLbmVrd3hRVllSVV9BSnlUbEJfRzBnNkppT19qc2hnQlFxMEhLQjBTNk1vMGZHN29Rc3VmMWpmZnV6emNsZTYxVEFhMWtQdzcwZ1RNcXllaUl3cDJKcjNZYjZ6eHVQbllzYWNYc19mY25uNmVFd2F3NHdMaWRVbHNhVHlINUpxNzJmbWZ4SlpaQXh6cHVLWWJYdmNXNC1kVWZWcmhsdWZsVzdiSnFmWU91ZlJBMEZKMW1zeFE?oc=5",
-            "publisher": "Toronto Star"
+            "title": "African health ministers agree to keep borders open despite Ebola spread, focus on surveillance",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHYyVTVEbUQ1ZXZ6LXBoaDNDX0RlcFR4WlBfRHd5OXhJM09uT1pFV19KWDR5UXJYVWZmUjhEZHFON1p5bGhIdjA5bW1aaVFRdkN1V1dTSzRGRm5RQ2NrQmZYNUdtdmE4YTNHTzFxTVRlWnNXWTVxdHBmaVhRQl9yaVZJWmhxdlV3TmthdXBRTzlqSUtVQTZ0MlNvbkpwYTlVeUlDendhSE5GQUhnV3hUMEZ6NGdhUGg0LTN6eEFxd09LazBKX1lqRXE2b0tvZUJyNlJV?oc=5",
+            "publisher": "The Eastleigh Voice"
+          },
+          {
+            "title": "African nations agree to keep borders open despite Ebola outbreak",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdDdqZW1rcEptRWV3aVdzbFBIcjhQTDNobWdJWE5ubHVHdkYzeG1hdDZVYk9DNHN3U2dqNEhmRk5WQVA4aUtnSl9QRnJGUXpiRjI5dFpNRDBSUQ?oc=5",
+            "publisher": "TRT Afrika"
           }
         ]
       },
       {
-        "id": "airlines-press-us-cdc-on-ebola-declarations",
-        "title": "Airlines press US CDC on Ebola declarations",
+        "id": "airline-groups-resist-us-ebola-declaration-rules",
+        "title": "Airline groups resist US Ebola declaration rules",
         "when": "2026-10-29",
-        "place": "Washington, United States",
+        "place": "Washington DC, United States",
         "lat": 38.9,
         "lon": -77,
-        "what": "Airline groups urge the US CDC to reconsider its Ebola declaration requirements, after the US issued a new travel rule, putting air travel screening under pressure.",
-        "via": "pressure on travel screening rules",
+        "what": "Airline groups are pushing the US CDC to reconsider Ebola declaration requirements for travellers, creating friction over how air travel is screened.",
+        "via": "disputed airline screening rules",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Airline groups urge US CDC to reconsider Ebola declaration requirements",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLWVsdWwxRmxIZmd0U25aaWV1Sk1Ybld1bDdNWThmMS0zSC1DcjB4MmJwNndpc2Mxa3o2a2RJaG5MVEFiWl9EXzh2QTY5NG50RHNSUUtPYS1nNXZWTWtwSmZSQU9TeEdYbUlHUm5NbXVZMi1NVl9DOWRzTUprdGtKdW1GYlRZa0R5UzMyaUNkdjhOaGNCVHBZejc5a21vemFMeWUwekVTTzdBbkRoblpCQV8wa2RkU0ZGT1lKMQ?oc=5",
-            "publisher": "The Straits Times"
+            "title": "Airline groups push back on Ebola declaration requirements",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUUpWUVdETmFINUpzSEdiaGFxa1A3Uk5PUHZfdG5rV0YxZG9iSS1idGVaeGd1QW8yUUpJSGtwZXZKT1B5TGZMaGZqT09NdHp4a3g2QjdtZHk5QW1wbU5haTdlWlpaWlc0RU5fUzN4NzBoM2RnUTNWekVnZmNlcU5jQXRNcEVtY0Ri0gGOAUFVX3lxTE5JV2VoTlZhVUZsR3ozYWc4MEdaQUJtZ18zRWlVSkFJR084cXZENHZpWmFvRGN6WWZuRzVmQUpuTy0zSkpXSjdwcTBjeEhIOUcyUk9rUHN1U1RlS2dld0MxYWxENUFPSnFPZ2ZOQU5rTTdpLUhZOVlfRjBaanFHRk9rXzZzYjZ0Sm02Q1VzMVE?oc=5",
+            "publisher": "The Hill"
           },
           {
-            "title": "Ebola outbreak in DR Congo approaches 5,000 deaths as US issues new travel rule",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMzlOWExsVm5LekpOVjZKbUxaQVlCTVk3RWFOYkpDSFhDT2RmdmdveEJLUVVaaUdwVjV6ZkhwYkh1YjVNS0VfSXRwRThKT2R2MlNwd1lza3NlMUlkR3gzVFN2aVFHbU9pR2lLNE9PTUNOMkxkZjNVWUt3YzY2VlJKNDBZVUFnNVRpdUJpMDlQU0tVRWNhRDNVUjA5ZjFFMjNNTlN6ajIyWl8?oc=5",
-            "publisher": "CIDRAP"
+            "title": "Airline groups urge US CDC to reconsider Ebola declaration requirements",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnJoUENmZ3d1RDVaTmV2Ukk3QlBuOXlPM3F0aFlOcEhYM3hMT2dybENEd1ZiNTl4QkNqYWphWWVEWmNWR1N4eW9kdzhBVHlOM3JOZDVYbF9uNzNPaG1ZT000cGVZX3c1U0RYak9odUZneS1RVlBiRWxFOXRuSExVUFR0SVZQUU1kX3FLMnZVRmZtUDlGempVc2lld1BNTXF1SmM3NFdB?oc=5",
+            "publisher": "CNBC Africa"
           }
         ]
       },
       {
-        "id": "nakuru-funds-ebola-preparedness-in-budget",
-        "title": "Nakuru funds Ebola preparedness in budget",
-        "when": "2026-10-28",
-        "place": "Nakuru, Kenya",
-        "lat": -0.3,
-        "lon": 36.07,
-        "what": "Nakuru county prioritises Ebola preparedness in its supplementary budget, shaping how well Kenya can contain further cases.",
-        "via": "local containment funding",
-        "aspect": "budget",
+        "id": "central-african-republic-tightens-border-checks",
+        "title": "Central African Republic tightens border checks",
+        "when": "2026-10-29",
+        "place": "Central African Republic",
+        "lat": 4.4,
+        "lon": 18.6,
+        "what": "The Central African Republic has tightened border checks as Ebola cases rise in neighbouring DR Congo, adding to the patchwork of national travel rules.",
+        "via": "uneven border controls",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Nakuru prioritises Ebola preparedness in supplementary budget",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzZHWng2RHA1cWVWN0M1S1l2MUlMMUIwRDlxc28yQzdOWnVDNkRTWW44aEJha2JtNWNIU284NUxPYTNOTHhZOWJJbmJXSGkxUlRBa3FpMGN2QVdXQUFLdVhMaExCQWxpclh2Q012bTdId211V0IwRzF0MTV5TEVmOUJDWFJtSXBOWVh3Q2EtakszSGZl?oc=5",
-            "publisher": "Kenya News Agency"
+            "title": "CAR Tightens Border Checks As DR Congo Ebola Cases Rise",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2lCeTYxUTZKc2JDWEhJVW4yOW95V2V4dE1JZ0Nvb3FGRWZvc2dDLUFyNjJwMFppVHd1eDNhdV9Za0d3T0VoVUZmd0lvMDYwNk5Pc0lEQVJUR1Vqb0ZfYWtpTEpONUVWUnl3U0ZPSERjYS1xZEFYRy1hTHlzd1JKRllvVU5WYm80RzFCeWNVcXRCSWRGQWNVamRn?oc=5",
+            "publisher": "Channels Television"
           }
         ]
       }
@@ -3428,18 +3403,18 @@
     ]
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-10-29T05:08:08.599Z",
+    "at": "2026-10-29T20:09:13.166Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "uk-and-eu-officials-discuss-free-movement-options",
-        "title": "UK and EU officials discuss free movement options",
+        "id": "uk-officials-draft-eu-free-movement-options",
+        "title": "UK officials draft EU free movement options",
         "when": "2026-10-27",
-        "place": "Brussels",
-        "lat": 50.8503,
-        "lon": 4.3517,
-        "what": "UK officials are reported to be discussing options including a return to free movement with the EU ahead of a Brussels summit.",
-        "via": "official-level groundwork for talks",
+        "place": "London",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "UK officials are discussing options with the EU, including a return to free movement, ahead of the Brussels summit.",
+        "via": "options prepared for EU talks",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3447,49 +3422,20 @@
             "title": "UK officials discussing options including free movement with EU ahead of summit",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVURoajVjOFNYMWtpR3RULXJDbGpWcE5vM3VpRmxaamJQdEFfMnZqZGFpZmlGa280S3FicjNpY1NEYlcxOGpLTVo2MU8yd0RLcWxPTG9NR21nakRaNkVLRUcyUzNrWTg5U0NraFZkS0lGVVg4RVlzQ0Q4dWdaTHp5VlFHd1Z5SmRFT1hpS2Y4UG1hNHR2bjd2QVJITnpZYnVDWVNzRGxSZlFFeHVKcFhBazVB?oc=5",
             "publisher": "The Guardian"
-          },
-          {
-            "title": "Britain ‘in talks with EU’ about return to freedom of movement",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDBTeUx6Y0NiYXVJdUtWM05oMTU1a1MtUnNOaGJWUThUWEFKZDZVeGpORkt6WnlZeERCeE13U21YYW1oSmVmUTRHOG5qd2JfLUtWYzlVTmdqSmJGUXdFV2VacnY0b2puM2FueWU3MWlyODF1Rm8yNk5jV1dBNHBEcXVWWlJrRUJ6Zi0tcmRtb3FVd25WWEpZaHQxLUNBdHEwSXc?oc=5",
-            "publisher": "The Independent"
-          },
-          {
-            "title": "UK and EU officials set to discuss freedom of movement: What to know",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUxScGxuUzdDTThjNHFWRy1LRS15cVFJRGNZRkpsTm9fT0VhU1lZenNzUjVfLTFuNTk0UHJxZ2M1MXE4aGpFcXEtTTJmNV9Ub08yMF9USk9vN0xoM3hTT1NGTlc1ZjBmZnVHSlFUeC1sSU5yV2x0b1EyOWVEQlNCdE9YY2ZSamRCdzlNZUp0cXdjeTh6bmZ3UXlxcE5YWU5mU2tYM1NfT2xkTGlPa2fSAaoBQVVfeXFMT0lpS1hMM1FSY3hKNXpBTkpWZWhZbEdQVWYxTFlQdDhUeVdyZVQyNmxFX2xmZFVBR3NPRkZXdS1XTHdsRS00Q0dlSERjUFJHUE1EN1oxLTlnU0pmb003dGxwa1RkbE1Mcm5uakUxVlR4N0I2R2tpOEhZZ3R6OFJ0NFJhSE82eE84MHJDcEEwdjZPTEV2blMwMlJrYjNPVjFCU2RmcEhIQThkNVE?oc=5",
-            "publisher": "The News International"
           }
         ]
       },
       {
-        "id": "labour-mps-revolt-over-free-movement-talks",
-        "title": "Labour MPs revolt over free movement talks",
-        "when": "2026-10-27",
-        "place": "Westminster, London",
-        "lat": 51.4995,
-        "lon": -0.1248,
-        "what": "Labour MPs warn against reopening Brexit divisions over free movement talks, and Cabinet splits are reported to be deepening.",
-        "via": "party pressure on the PM",
+        "id": "badenoch-attacks-burnham-over-free-movement-at-pmqs",
+        "title": "Badenoch attacks Burnham over free movement at PMQs",
+        "when": "2026-10-28",
+        "place": "London",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "Opposition leader Kemi Badenoch clashed with Burnham at PMQs, accusing him of wanting to return Britain to Brexit 'paralysis' and exploiting Labour splits over free movement.",
+        "via": "opposition pressure on the PM",
         "aspect": "politics",
         "flow": "into",
-        "sources": [
-          {
-            "title": "Labour revolt at Burnham bringing back Brexit wars as MPs warn over free movement talks with EU… and Cabinet splits deepen",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEV6X3BrTFRfWWtYVW52WmVMczlzLWFMMDlMSDZmczVPYi1NV0tiZ0UycTZ6UFRPWm9FNWotUnN1WFV1S1BkZ1RtLURpYjI5NmFsOTFDS0QtSHAtREVXV0lYLUQwYXJQa2Y4V0V6RE43bDlWREN6MktGdUNRa3hHZmhVNldqclRVb1o4Ql9sMkZBWS14WEVpZTljVDFnclpZZG80aDFn0gGrAUFVX3lxTFBtR240UXg4UUlhQUR1b0FPQmpiTkdFWXd2YXY1Ty1LVjNQYmRfaW9KSUY5M2UtUnVkbm5mQk1mNXlxOWtuZEQ3SlB3OFl2WGVDT3R2ME9ucFZ0cGlsXzRVNjJzVTM1cnhyZC1TWUVPdFF3VU5Qdi13SzFHV1dBOF9fckhQbmlBVjR4cjZCdXlZQ3J1ZGpHN2Q2NVFYZDRXVXRURW43QzFadDJEcw?oc=5",
-            "publisher": "Daily Mail"
-          }
-        ]
-      },
-      {
-        "id": "badenoch-and-burnham-clash-at-pmqs",
-        "title": "Badenoch and Burnham clash at PMQs",
-        "when": "2026-10-28",
-        "place": "Westminster, London",
-        "lat": 51.4995,
-        "lon": -0.1248,
-        "what": "Kemi Badenoch accused Burnham of wanting to return Britain to Brexit 'paralysis' and exploited Labour splits over free movement, while Burnham insisted there is no confusion over his position.",
-        "via": "opposition pressure and public scrutiny",
-        "aspect": "politics",
-        "flow": "both",
         "sources": [
           {
             "title": "Burnham and Badenoch clash over Brexit ahead of Brussels summit",
@@ -3498,17 +3444,12 @@
           },
           {
             "title": "UK premier, opposition leader clash over 'freedom of movement' ahead of Brussels summit",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWElINW51cUJYblB1TE9RVm9xaWFTME9UVXlIdHNCME1IdHZMeFYtYnNrX0dRbmtEU2xtRzJTWjNUcU4ySDF2ejdMcVNWdmF3T0dZeGhDa3RrdXZGY1F5R2gwUUxGWmNYMVpVMG50Rm1wQjBfb3Uxei1OelZ2ZURhc2pYNkViRzRleUVfQWF1dmhBcEFNZ3FoYU1EcFVUeEVzVVFWZ2ZMeXZSQTVXcUhZVDNCNEozMEtSMkdWcHFWYUVVQVJmbW9wWg?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWVTRmM2U1Vya3EwV3BfMHgzei0waVhJdUNkNEhqbkI5dXBCUmN4cnJmUU9iaDJsUkJZbmtVUjFlaTMzaDZLUUR3cmIzd1p0XzFGVC1SVmhrXzdLbU4zcjFwR2FTQk1WVDlXaE4ydlRLaEtfTU9pejliWnRnVmlJUTlXc2F0eUlXal92dWc3RmQxci0tX25uS2d0c0VaNWdCdmliRzBFQmdwUDdSVWR0b1lGT2RoT3czYUQ5aWNOU0xfNEFucVE?oc=5",
             "publisher": "Anadolu Ajansı"
           },
           {
-            "title": "Burnham insists 'no confusion at all' over his Brexit position",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdHdYU1lNNENDN1c0WFUtYUxUbnZ4bHhyTmFwU1VaVERIN0tTYWhaY1M2cFQ3SlNKNVcyX3R3QUdBRC1obVhaS1FKY1hBelRSTWJnUFU3c2ZnZ0R3U1E?oc=5",
-            "publisher": "BBC"
-          },
-          {
             "title": "Badenoch accuses Burnham of wanting to take Britain back to Brexit 'paralysis' as she exploits Labour splits over EU free movement",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUGxFSjlmNW1jdDJVRjVfUzREWWJNVlA0dlI4UTlQVm00OTVpWUtQUE9wUXE5WHllZm1ybEFPQndvUkM1UndDTU9pbEs0UHFVMnJOcEI1cklHRmgwSU9sM2ZyUXNFNXYySWtBUFVrMThrZ3VWOVdIbVF0eDgtTElwRk0yNXk4UnpXSnVsSHVJUEszRC1RcE82UU4wUUFFNUlJbHphcTNCMnZXSnJzdVBtYzVTcE9oNllFWnQwaUdiaUE5Zm5VVmlYaU5VWUdvZ1M0ZHFOVW1lVm5uREFDb1o2TkJHYUhqdlU5V3l3QlBmYnN6R2pWZGN2WW8zbzVpT0FUb2k4ZncxQ3RFRGVVelHSAeoBQVVfeXFMUEtiYlJBNWhqNVFfcDRqcTRmU0R2TnBxVktZb3JnRzVpLXJZeXFNNHp5b2xHMXBBUzBHUlN6aTEyTFJNZllaQmxRdmR3WWdadGxlcEVmSFE4VzFCNXNJZG5KblZTWk5ENHFGRTRvTzBBSkNYYjBzSWFaSG9oVXY3QlhsMHZpaUtsZWF1a1FkdDFVRGVXcHR4NnAyMWRuSFhmMkRGc3N5emNuX2FZN1NqRVg1UzJrZ3dwd0MyQUNjemxPWFRWaXI1NnBuZXl3N21sZGRUSTUwZmpfdGVfc2ZVYW9ZaHhEUVNFZlhB?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUxleXlRa2tJYVRNOFVRR0JmeDZoTnVOcFdVUVRaV3ZxWlNlSDBKNU1qVzVPa0lDMjJUcU5jVi1WNHQzYVhwYW1iNUd1M2xtN0MyY2daRlNyWktIM2xUVkJJeU9kNXFkLWREM0pzTHNGU1pVeXF6aG9sTlhVWTF4U005NDhPSzNHT2FOc3VraTJkc0p6cGh0a2hKNjRBbW5EVW9yNF9SQVNfMWhmeVhHdmZfamdFa2dWRzhQLUs4Q21jSGV6MjUtVVczclVPVVhXWG1iQVlUTkRtR2Nfd1R5V1RBTlLSAeoBQVVfeXFMUEtiYlJBNWhqNVFfcDRqcTRmU0R2TnBxVktZb3JnRzVpLXJZeXFNNHp5b2xHMXBBUzBHUlN6aTEyTFJNZllaQmxRdmR3WWdadGxlcEVmSFE4VzFCNXNJZG5KblZTWk5ENHFGRTRvTzBBSkNYYjBzSWFaSG9oVXY3QlhsMHZpaUtsZWF1a1FkdDFVRGVXcHR4NnAyMWRuSFhmMkRGc3N5emNuX2FZN1NqRVg1UzJrZ3dwd0MyQUNjemxPWFRWaXI1NnBuZXl3N21sZGRUSTUwZmpfdGVfc2ZVYW9ZaHhEUVNFZlhB?oc=5",
             "publisher": "Daily Mail"
           },
           {
@@ -3523,10 +3464,10 @@
         "title": "Burnham tells ministers not to back EU options",
         "when": "2026-10-28",
         "place": "London",
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "what": "After the Brussels summit, Burnham told ministers to avoid backing specific EU options, keeping the government position open at the call-for-talks stage.",
-        "via": "restrained government line",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "After the summit, Burnham told ministers to avoid backing specific EU options, and insisted there is 'no confusion at all' over his Brexit position.",
+        "via": "limits on cabinet positions",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3534,6 +3475,11 @@
             "title": "Burnham tells ministers to avoid backing specific EU options after crunch summit",
             "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmxLREp5dGxpbFNPY01KdE81eDRFYVpaOWczUXpqeS1GTmZkMXBDRUVqbk5RWldIdDl6bms2eHdxb1VkSGNfYWsySGRHZUJzaXRSd3IweDFsVVBLMjNGM0pQTGlBdFRPYlkxUW54bnBIMmt1WXVZeWtGZ3ZsNDNmWERvTkRqcldzWlNONUczSGlWV2o5aHB2RkZ1QWxhLWFneHVuMXdIdUxFaEMyOU9RdERWZFo2UmRCcFJFU0lPTWMzOHBDN1MyajhJbmtscUU3VWJ0amVBcVVNQQ?oc=5",
             "publisher": "The Irish News"
+          },
+          {
+            "title": "Burnham insists 'no confusion at all' over his Brexit position",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdHdYU1lNNENDN1c0WFUtYUxUbnZ4bHhyTmFwU1VaVERIN0tTYWhaY1M2cFQ3SlNKNVcyX3R3QUdBRC1obVhaS1FKY1hBelRSTWJnUFU3c2ZnZ0R3U1E?oc=5",
+            "publisher": "BBC"
           }
         ]
       }
