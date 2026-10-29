@@ -479,16 +479,95 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-29T08:08:23.634Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "qox2hu",
-    "tags": [],
-    "headlines": []
+    "hash": "tbb83y",
+    "tags": [
+      {
+        "point": "LUZON_STRAIT",
+        "effect": "security",
+        "likelihood": 0.2,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          1,
+          4
+        ],
+        "why": "Clashes have spread to a new flashpoint off Batanes in the Luzon Strait (1-9 Oct), and on 29 Oct Taiwan reported about 50 Chinese vessels and a carrier group nearby, so naval activity could force route adjustments or higher war-risk charges.",
+        "action": "Ask your forwarder whether carriers have issued any Luzon Strait advisories or war-risk surcharges, and keep a fallback routing via the South China Sea or east of the Philippines for Taiwan-Philippines or North Asia-Phil",
+        "sources": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "point": "SOUTH_CHINA_SEA",
+        "effect": "security",
+        "likelihood": 0.2,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          1,
+          3
+        ],
+        "why": "At least six Philippine-Chinese encounters occurred at Scarborough, Second Thomas and the Spratlys between 1 and 9 Oct, and tensions flared again at the ASEAN defence meeting on 29 Oct, so local shipping near the disputed features may see harassment, blockades or extra insurance ",
+        "action": "Ask your forwarder to keep vessels on the main shipping lanes, away from Scarborough and the Spratlys, and to flag any war-risk premium changes before booking Philippines-bound cargo.",
+        "sources": [
+          0,
+          1,
+          4
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Philippines-China tensions resurface at the close of ASEAN defence gathering , Asia News",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0RuYXNoYUtBeXJ3OF82OEJMSGlrbzhmUkN3cGVVZzB2R1A2a2FRRzY1TDlWc1lhMHRobHpPTG4za0thYUQ2VlI0QU9IODB5R3gwdlJRbDI4al9tUGowWVlSQmY4azVlWERkQVlhT3FKMWx6WHJmX3F4T21jSnU0ZWpqd0xfZw?oc=5",
+        "publisher": "AsiaOne.com",
+        "published": "2026-10-29T12:09:23.000Z"
+      },
+      {
+        "title": "China cries foul as tensions with Manila flare at ASEAN defence talks",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWi1XUERvVFRIQ2pOQjFIZno2eFNibl9TRmhTSDVsNjhya0s3Nl9uZjNFeTVHVnV5dXNGZUtndTRURmt5VFhLbHZPTkh3SW1GTkxVeEFVcmFfLXlPQjRPdmhjcE8xTzNxLWF4NlQwbDQzWU51bG9NNEF2TC12dnVDS3lwM19GcUxIam5oeHVfdlpoVkFLRUJGSkVab3RieTBvbjF3cXhDYmlqN0ZRUTFTNW5wTHFOYldacUE?oc=5",
+        "publisher": "The Straits Times",
+        "published": "2026-10-29T11:49:00.000Z"
+      },
+      {
+        "title": "Taiwan sounds alarm over Chinese warships across vast stretch of regional waters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGM3QlU2SWtCN2l5bUFKQm1acGszdVVDd3ozYWVNUEtBMWhHR0N4d3NUMDJ2LXROdWtnUTYtcGJSM1N5U3pyRjVzRmMwZXV1THcxSkFQRGdEcHBsSk9EVlZjOVZTTEVFMnBfS2E4ZEtUeC1MOU54TDgwSk1zM3VZNW9ib2dRTkNER3lDLW5PSGlrQVdramxCUzc1eW1TMlZiclc4?oc=5",
+        "publisher": "Latest news from Azerbaijan",
+        "published": "2026-10-29T09:38:24.000Z"
+      },
+      {
+        "title": "Taiwan says vast Chinese armada of 50 vessels spotted near island",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHgxcnEtMU1OZ3hpMWZVVzdtaXo3OXhRMjVja1VjX2ZfMlFMbExMVEdTV0FEbmN0WmNZRlBxRFpjQVNEYUZVYi1qTGs3ZTNncVNyalprNzk1U1NiS3l4c19Jc011V0VTdkNvQ2haOGpZX0MtbzM5c1BOdzl1cXNRa0gzc3VHaEpJaGx3MGFkU0puazdEV3c?oc=5",
+        "publisher": "The Independent",
+        "published": "2026-10-29T08:52:00.000Z"
+      },
+      {
+        "title": "China’s naval buildup raises alarm: Aircraft carrier east of Philippines, 34 warships tracked",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1p0dGRpbERHNE1JSURaZ01mQUxMc0Jma1FZX2htSGJ1VF9RZ19SWkJsYThFc3VGQ25JeFZqeURKU1FXcHVwaUhwMy1aMm9vV1pnRVhfS1FiaEFubDYyTFNKeDcxV2w4QXMxVGhLTGJyZ2h0SVJ2ZzhnQ3B2cXUtUVBoSUhGRTUyUDRQd2hYNW5FVm91SHZmUmtINkJyaGR1LWFIWDdzRHpWbHNBVlZOQjR5ZWprUQ?oc=5",
+        "publisher": "Politiko.com.ph",
+        "published": "2026-10-29T06:17:24.000Z"
+      },
+      {
+        "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNelRKZ21DWjJBX09xRTJyZnBicWsyLWJTQk1CcmVoVFJYLXBIcWt6LWpwdDRyeGhzbFpNaUFmV0ZhM0NuWmNVRXpKd2s2QnY3bTdwTUFJSFBoUEVUNjlWbThFLXpxN0dkRklMYy1JQVZhWW5abUNtQlZYc21la2htWWVzUWVBMjhTMHc5OF80V3EzLWVPQmFhZnFyOExtWEVfeFhsMnVOYzdfakc1NHdIMjN3?oc=5",
+        "publisher": "Reuters",
+        "published": "2026-10-29T02:24:00.000Z"
+      }
+    ]
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-29T08:08:23.634Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "2bogrt",
+    "hash": "k3yf7z",
     "tags": [],
     "headlines": []
   },
@@ -507,9 +586,9 @@
     "headlines": []
   },
   "west-bank-lockdown-hebron-2026": {
-    "at": "2026-10-28T23:34:22.010Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "1qynvk6",
+    "hash": "1g6yxrc",
     "tags": [],
     "headlines": []
   },
@@ -521,9 +600,9 @@
     "headlines": []
   },
   "ukraine-starlink-restrictions-2026": {
-    "at": "2026-10-29T04:08:10.581Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "179p5e2",
+    "hash": "1hl9hy8",
     "tags": [],
     "headlines": []
   },
@@ -542,9 +621,9 @@
     "headlines": []
   },
   "algeria-niger-troop-deployment-2026": {
-    "at": "2026-10-28T14:15:29.756Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "wjbmaf",
+    "hash": "1s31o2u",
     "tags": [],
     "headlines": []
   },
@@ -563,9 +642,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-29T08:08:23.634Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "h9p7ve",
+    "hash": "14funou",
     "tags": [],
     "headlines": []
   },
@@ -631,16 +710,16 @@
     "headlines": []
   },
   "uk-budget-defense-ukraine-2026": {
-    "at": "2026-10-29T07:08:07.873Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "1l2qjeu",
+    "hash": "1fr4c9g",
     "tags": [],
     "headlines": []
   },
   "fed-holds-rates-inflation-2026": {
-    "at": "2026-10-29T06:08:05.090Z",
+    "at": "2026-10-29T14:08:45.165Z",
     "by": "pipeline",
-    "hash": "1s7v7k8",
+    "hash": "t12zt9",
     "tags": [],
     "headlines": []
   }
