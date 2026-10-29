@@ -1062,63 +1062,87 @@
     ]
   },
   "china-q3-growth": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "china-s-stainless-steel-exports-rise-in-september",
-        "title": "China's stainless steel exports rise in September",
-        "when": "2026-10-28",
-        "place": "China",
-        "lat": 35,
-        "lon": 105,
-        "what": "Chinese stainless steel exports increased in September, adding to the manufactured-goods shipments that lifted third-quarter output.",
-        "via": "higher industrial export volumes",
+        "id": "geely-profit-rises-on-surging-exports",
+        "title": "Geely profit rises on surging exports",
+        "when": "2026-10-29",
+        "place": "Hangzhou",
+        "lat": 30.27,
+        "lon": 120.15,
+        "what": "Geely reported higher profit as strong vehicle exports helped offset the slump in China's domestic car market.",
+        "via": "export-led carmaker earnings",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "China’s stainless steel exports increase in September",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3pNSlFSb0F6ZDZDdHNXNVgyRi1UZzNnWTlYdm9YT0hjUTRnQy1fVTJ6T1ZMWURIN1BqanJja2J1WGdBdzJmQUhoWTFqU2h2OXVvYVVNdFBkQ1BEc1hnNENybnJfcDNPYXhmMFFydzZPSkUyRWdRamoyaDhzSU9fdVcxQ1loMUpDR2duNw?oc=5",
-            "publisher": "Yieh Corp."
+            "title": "Geely Profit Climbs as Surging Exports Help Offset China Slump",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXV4Ul9NNXVnX0s4clltdHRuaDBOOFZvRmdEOE1uMUJad0EwVkl4WUYtcGpkRVNhT2hkcU50YUJ5d015NkhlQTZKbmtBMDI1RHhBYS1RQ1NXazZ4RkpOckptcGQxNDIyYlg3MHl3dURpYzFXcGh1VXdJSGw3SWdKSWNtMm9YelpOYkdoVlVBWWp0MG8xSHhMTE9mSWk1M1JaSmRWZVdXTGVkNENsWGRVM2M4bw?oc=5",
+            "publisher": "Bloomberg"
           }
         ]
       },
       {
-        "id": "yangtze-river-delta-supports-beijing-s-gdp-target",
-        "title": "Yangtze River Delta supports Beijing's GDP target",
-        "when": "2026-10-28",
-        "place": "Yangtze River Delta",
-        "lat": 31.2,
-        "lon": 121.5,
-        "what": "The Yangtze River Delta region is helping keep China's national growth target on track, according to a report on regional output.",
-        "via": "regional growth contribution",
-        "aspect": "politics",
+        "id": "dalian-ship-exports-expand",
+        "title": "Dalian ship exports expand",
+        "when": "2026-10-29",
+        "place": "Dalian",
+        "lat": 38.91,
+        "lon": 121.61,
+        "what": "Ship exports from Dalian are expanding, adding to China's overseas sales of heavy manufactured goods.",
+        "via": "growing shipbuilding export orders",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "How China’s Yangtze River Delta is helping keep Beijing’s GDP target on track",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGZmaDZONXB5UWtiTW53NnM0ZFZsSW9IdmFBSkhyVmItUVRYTEgtZV80bFcxcVQ3a3NIYVBiSXVfcVBTQWItZjNEYV9rWllXaTRjVjlsR00zOEVXQnRHcDZWUDd1c3RzTDBjd1dMdXp6dzlOOEdCUVlIOEhNbko4eFJ6ZlVqZnNzWUV1Z1E5UmhybVNDYXV5SW40TUlpbG1YTzFPZC1HWlJSQzV4WWhJLTZHSkRZWjRVMndOVmRub2RYZi1jemJr0gHHAUFVX3lxTE9ZUGlZNEpZd3YwMWpPcGthSU9Va21tRnZyc21KVWRBbHVxRURMQTIyNV9rQ0wzR2FNZ0lBM29sQzVSaUpKc25RY3ZCMXlWODFwcmx1ZDdGTjI5M01EVUVPQmNkUU1vUFF5WlZZVWJ6ZTg5THJfSU5Jd2psT3huMzV4cUo0U01xbVN2Uk5SSXFOdEJEdE5BYlp0QXdMaGtWZnU0eU82amJtQ0VxWGZlcjJIb1JmOGdtNFYwXzd0U1lBeW5YMHB3ckU?oc=5",
-            "publisher": "South China Morning Post"
+            "title": "Dalian ship exports expanding",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTZWQ0eXhfREpSVjJMajlJT3Z0Q3ljZmpFMXhOYmFpRXZpOEluOVByYnBuU3gtT3ZTNklrUm5fZ05mZXd5R1VkdTh1cVVWeVpBNUdyV2lXY1Nlcjh5Ylh4RmstdGN1RUZoeWFlNGxlSXJHZ0VzT2stZW9YZy1mUQ?oc=5",
+            "publisher": "China Daily"
           }
         ]
       },
       {
-        "id": "private-sector-wages-waver-against-state-firms",
-        "title": "Private sector wages waver against state firms",
+        "id": "volkswagen-turns-china-operations-toward-exports",
+        "title": "Volkswagen turns China operations toward exports",
         "when": "2026-10-28",
         "place": "China",
-        "lat": 35,
-        "lon": 105,
-        "what": "Wages at China's private firms are wavering as the gap widens with non-private employers, which holds back household income and domestic demand.",
-        "via": "weak household income",
-        "aspect": "jobs",
+        "lat": 39.9,
+        "lon": 116.4,
+        "what": "Volkswagen is shifting its China strategy to focus on exports as its sales in the Chinese market plunge.",
+        "via": "more cars shipped abroad",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "China’s private sector wages waver as gap widens with non-private firms",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlBpdzM1YlEtVmVFNW5zeWQ0dGtZYWlJNFdmLXJNWVRxSld3Y3Zta2pIckp5N0ZCXzJ5ZVEwZTUxdHRNLWdTUzRuY2dzMFRZeHl4dVluS0h1MTA5YnRiRWR1S3ZsaGtrbU5kRW5WbDU4cWIxSEZta3N3aXoxWTgtNHlzajEtSTZ2RGV5N2lzTWJhYVV1bXRQZkZkTHl4dG1mV2d3WEszNjR1QUVaV3RhZzNkYWQ3VTFvdlNsT09GQWk5UVdlQkHSAcYBQVVfeXFMT0dYUUN6SV9hdzcza1NWZ0MzNFQzaHF2cy16b1pFS19adTYxdklFd01MTXROaFUteWRYTklxUFM5M1F2NlVyYzFrUTRBT3VYS0lsanNsNDl6Z3FnVDNERWxiZndFWjFzQTVVcVBwNzJXY21QOHRpcnZCX1ItVnRiV3VKQWNPWnNjeEZLczR3OVpLLWZqRkd2QzJFZ1VwTnFQN1o0WWNUckdOR2JZTS11N3BWUW9yS3F5ZkV2eF80LVo1azJ2eGdn?oc=5",
-            "publisher": "South China Morning Post"
+            "title": "Volkswagen shifts China strategy to focus on exports as sales plunge",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFNiY1F5ZEVCY1BUTWhjX05xZlhrdGJDc2h4M0ZWRmlHNUpVTl84cXEyRzUzVGxBaVhtdVp4Z3BBY2Jic0FaZTF4RlVXLVBkQlVGdk41N19paDFDaUw5VUY5eFc1eFFiZUpMbGM0X2F1VFNCVmlBS2NUNDhQRHU4TnZUSFlZeldtNzNDU0hIZm95bG4tN0VvYUFrd2FOQVVXYnE2b1dR?oc=5",
+            "publisher": "Yahoo Finance"
+          }
+        ]
+      },
+      {
+        "id": "clean-tech-exports-reach-record-global-scale",
+        "title": "Clean tech exports reach record global scale",
+        "when": "2026-10-29",
+        "place": "China",
+        "lat": 39.9,
+        "lon": 116.4,
+        "what": "CREA analysis finds China's exports of green technology are large enough to cut global emissions by a Brazil-sized amount in 2026.",
+        "via": "strong clean tech overseas sales",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "China clean tech exports to cut global emissions by Brazil-sized amount in 2026",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GOVRoaVhMYjlNb2hUdEpzdnY1UFRaakZ2cEJWcENmYmJ0X1M5LVlvdjBmT3l5bzV2aThNem9TN3psNzZ2TGs4bUpRUmE?oc=5",
+            "publisher": "bdnews24.com"
+          },
+          {
+            "title": "China’s Green Exports Enough to Offset Brazil’s Emissions, CREA Says",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEdlT3o3RHJXT3RfWnJYZVdjSkhRbjBpV1BFcjhxd19XMTFSWmFoU1ZTdmYxcnBkQ1NhTGV6UTJfYldXblJpQ1daeUxnelI5X200bUFVVjFkUGY1SllweTdJLUEwV1d1blhyM2JOWE9SanJySUxyRDAtcUs1ZnN6MVJxMjdzckZ3b25uYkI1bmREbjNzVDRDZ21RZHp5eW5PNWVPMnMzYUc1bFo2R2Nkd2VPaw?oc=5",
+            "publisher": "Bloomberg"
           }
         ]
       }
@@ -1941,131 +1965,121 @@
     ]
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "toledo-high-speed-train-collision-kills-68",
-        "title": "Toledo high-speed train collision kills 68",
+        "id": "train-collision-kills-68-near-toledo",
+        "title": "Train collision kills 68 near Toledo",
         "when": "2026-10-28",
         "place": "Toledo",
         "lat": 39.86,
         "lon": -4.02,
-        "what": "Two high-speed trains collided near Toledo, killing at least 68, Spain's second deadly rail crash this year; Sánchez declared three days of mourning and promised a full investigation.",
-        "via": "public anger over rail safety",
+        "what": "A high-speed train collision killed 68 people and injured over 100, Spain's deadliest rail disaster since 2013, and is hurting Sánchez's reelection campaign.",
+        "via": "public anger at government",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "PM Sánchez on 'unacceptable' second train crash of year in Spain",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjTTJhaXJxZmRxR1Aybk9wbDJxNUp2VkpVaUpxLVVtM2xKQUZLMng2VDE2a3NZamc3MTl3am9iSG9jZFdfbDRyZExlaXJNRWxJTXVhMVp0UkM?oc=5",
-            "publisher": "BBC"
+            "title": "Spain rail crash kills 68, impacts Sánchez’s reelection campaign",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS3VjQkJNN04wQm54QXRzTVJYN19Qck1SeXFtQ1VkN2ZuaGtxN21xYWk0MVo2Q2tmeEphRE55enA2bzlPM3ZYR0ZQcEJCNjRkSG1WempvR28xcXplUksxS1JqQk9VU2ZGN3gtbEtDRzMta2RHYlZIZ1BKY3hyTWJEcEt0UVk1R3lyTnVVVUJpQkNCNm8?oc=5",
+            "publisher": "Crypto Briefing"
           },
           {
-            "title": "Spain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash",
-            "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-            "publisher": "The Guardian World"
+            "title": "Spanish train disaster deals new blow to Sánchez’s long-shot election bid",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2tfUi0zd2Ztb09HMlItZGZuVW9tMjRfUDh2TGJOcm4zX2E5Y0JrTmc1TXdZZXJkM0pwWEwyVHJJUzZ2Z2FaNkFBVmhUZlVtTnUzai1HcktEUXA2Z2d2OHQxVVhVUEtlYUhndjQ0anI3MjMwUlBtVHczVFljSUp3TnR1dFl4NktmdFFTX3Jnb190dEFVX1V3bjBhQ2JZaW9kTFphOE9meVc2Y2xwelpJMTFVOGY?oc=5",
+            "publisher": "POLITICO.eu"
           },
           {
-            "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
-            "url": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-            "publisher": "The Guardian World"
-          },
-          {
-            "title": "Spanish PM vows full investigation into train disaster: ‘It is unacceptable for Spain to suffer two such accidents in the same year’",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdGJGTkt3dDRBbjFSaWYxLWVDU1gtS0t5S2h4RFlLZVB0QU5CZzdvRzZWbmRUekZ6dkd5QUoyWklpUkZod1ctdjJJOTdyRVNrLTlXYzFQcmVHR2xaSmZEaHhtdFNaSnczekh5RTNWemdYWEZnY1o1Q01fUmNaazczYU1rdHBpSmVjMjFpLVlYamwyRm5DdFIzR2tpYkpuQkZWNkl0cEcyX0RiSUM1cTZKSklNaDUybmxtZE5rRTZkc294TUlNUmhBNHlMMXZCR0RzdVZxS2FqR2xYN2RkS21nYVdqaU95MU9DeWZhOXAxTEZIeHhzR1hkNElOSUh5MkZYWW1GaE80N0R4QdIBngJBVV95cUxOdGp6cXVLMFFsZVhFUDNKb1NKUUcwOHN2MExLM2tvZWdXX18tbTk5OWNUZFphWnhJYWl0bVVDbkxhZURGT0t3aVpIcmlWWW1uQS1YbWdnQXQ1VVpjYWRFZWd2NzNZZEF0blZycDZzZTl0ZkMzbU9NRGFNamZKTUl4ZGlCZDVqa3JvdENmczVhcDRYN1JVTEZ2d3VOTXhmQ3JLd2FSVW5rc1RQR1F2SU5SYmxnZ0ZkeEpHVjFfa0xXZ3c3cE5WRDdvbE40QWFRYlR5dzRLUFZKc0p6VWthNVpBRU1JQlpfdmR0dDRsTzF1QTdlQnN5ZUJTVFR2TXA4RldKQlN0Zk90b2RiTXZkVExpcExCdkhQNkZ5UWlkRWJB?oc=5",
-            "publisher": "EL PAÍS English"
-          },
-          {
-            "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTVloQ1UxRzNWN2plNHNqclI1RWJzdEhCUjRRd1k1eXY0bzEwekp1YU5BZUE3bGdPcXZ2SmhCalVQNi03azhkclFFbFY0N25EXzVmREtXX3hENG9qd08xRlBZNGxNcHhuU3RHUFNHb1ZhR2R3c254ckxxdTZrQk03VzFFOHZKRTQ0Z3dOS3dXcGpXbmhOMzNTamliVU5hdUlzTEhwSW9CT3JQZHdEbXltbkctX1ZSc2JIRk5ySVN5X0Y5YlNjOHpQSk5HUThBQXF3UWZiUjY0b0hwekVITlA0?oc=5",
-            "publisher": "WHEC.com"
-          },
-          {
-            "title": "How the Spain train tragedy will transform next month’s elections",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjFGUkZnN1ZZd19YTGVkRWFTRWVjOVAtOTgtQ2ljNGR5SndfTnZfc0RyV1llY2pfY3E4akxiUmh5R1pRUTM3MWdpYVVyY1lqVDdVT29vaEV4Nks3Q2xVTWk5X1JGMHB5ckFBQUMzMW5RY0FGTmVaZ0tIaW85Uk5Jejl6b1VEd2twZldDVWItQTBpcV9RT2FpNl9yTUg?oc=5",
-            "publisher": "The Times"
-          },
-          {
-            "title": "Spain: Dozens killed after one high-speed train slams into another",
-            "url": "https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another",
+            "title": "Spain high-speed train crash kills 68, injures over 100",
+            "url": "https://www.france24.com/en/spain-high-speed-train-crash-kills-68-injures-over-100",
             "publisher": "France 24"
+          },
+          {
+            "title": "Spain train crash 2026: At least 68 pipo kpai for Spain worst rail disaster since 2013",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTeG5pdFZ2SFh5UmkyUDBlR080b0R2a1lTSjFrcFJSZWQxd3NxVHZVVXNTY3V2dWtLeUVfMzNHQXgyOXV1enF0d3J0c1d4MUgyWTR4NXF6eUdNVGJEQXfSAWNBVV95cUxPRXVKbGhsTUU0MWVmSFlKME11dV9qZnprYWZWbjZTak01WGVsbUtRbTVra0cxTFZ2UmxOYUJaclg4MEgwYVFKbGNuVExjS0NURDJSVjdKVXQ4amRMQS1XWElLeFU?oc=5",
+            "publisher": "BBC"
           }
         ]
       },
       {
-        "id": "police-unions-removed-from-interior-ministry-protest",
-        "title": "Police unions removed from Interior Ministry protest",
-        "when": "2026-10-28",
+        "id": "sa-nchez-pledges-tough-line-on-safety-failures",
+        "title": "Sánchez pledges tough line on safety failures",
+        "when": "2026-10-29",
         "place": "Madrid",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "Police unions were removed from a protest at Spain's Interior Ministry, adding to labour tension in the run-up to the vote.",
-        "via": "labour unrest",
-        "aspect": "jobs",
+        "what": "Prime Minister Sánchez promised a tough response to any safety failures found after the Toledo train crash, putting rail safety at the centre of the campaign.",
+        "via": "campaign focus on safety",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Police unions removed from Spain's Interior Ministry protest",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3pXeXduNDNOZVZqbk91OWRIQ1phY3Y0UnhrTUpBVlRNZW9EZ0VoNV9FRGVScVFyU2FQNzgyaEJPWGdzSGpwOF84LWh1OFJtSHJHbzZnMGVCck9peHNDVmdkT0FnMTZCZTlJeW9EMENra2RZYVl1aVlYZ0lGZkFPNzc5bUpMUjlWSmVELTd2V3lKUzJnclQ4cktn?oc=5",
-            "publisher": "RUSSPAIN.com"
+            "title": "Sánchez pledges tough line on possible safety failures after Toledo train crash",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX3Y5UjVMSEo0OUVualhlcF9VRzJUWk1UMmJPaGV6YXpUbWVPNW9zZWNudzhvWjBBVHI2b2w5QlM5RTYwOFNBeUsyOEdLVkE3bG5JNXktWGRiUmpfcmNYUzZCNzFqQ3laRUQ1ME1KY3BWNm9DSW02NXVGZDBtR1BpTUJsN2w3QQ?oc=5",
+            "publisher": "AOL.com"
           }
         ]
       },
       {
-        "id": "pp-demands-sa-nchez-guarantee-order-and-security",
-        "title": "PP demands Sánchez guarantee order and security",
-        "when": "2026-10-27",
+        "id": "riot-police-deployed-as-madrid-protests-erupt",
+        "title": "Riot police deployed as Madrid protests erupt",
+        "when": "2026-10-29",
         "place": "Madrid",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "PP's Muñoz demanded that Sánchez guarantee order, security and freedom in Spain, and urged him to resign if he fails.",
-        "via": "opposition law-and-order pressure",
+        "what": "Riot police were deployed in Madrid as protests broke out over the deadly train crash, adding street unrest to the run-up to the vote.",
+        "via": "street protest momentum",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Muñoz (PP) demands Sánchez to guarantee order, security, and freedom in Spain and urges him to resign if he fails to achieve it.",
-            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSDV0M3RmYUdhLWZqbGFJU1BseHJSY1ZnOElWeWJsMktZOHBqSlVqY1lBdFhHY2Z2ZEY1RjdEcTZGVHhPcHBGR19rd18yMm5aMl9VUnR2eHRvcklhdnlSZktmeFc5cU9HVWhTaS1lckczNUZCUzI0WmxoWXBSS1k0aFQxU28xTklodl9yOUNVU01mTGMwamRCMDZ4WUcyMXY5ZG1uTENULXFaMzRWVGZwWDgzdll4amN3M3M4Sk5LczQ3YkM0QnZ6dnREbWJNM3ktSUtqU09DRmpOZ09fUURmVkZzSENpUHd3dDc5SnMtYjbSAfYBQVVfeXFMT2tMUjJxVmd2U3U0N01FMWhPbWY1WEdYazUwQ2pLc3Q0TEhsQmpPelMya3h3bEtpRWdIY3JOYnY5ZEFuNGpqZDVJRXF2OVAwdHFmT0g4clVUZmk2TEhaa2tYT1d2bkt5ZHVrc1FsbG5IU0d0NmpQcFZnSUZhRWs1Y2lNYmNMUnRrWkU3UWxzaEtzSHhfal9zbmxzR1NNc0gxaUFXRTBDZkV3dDFkZmJERHlSeG9nWTdqbkl3ZjdPTEZxNFBuc0tXQ05rdWI2RER0Vk4yWmxCbzhJX1FrN3FPaHUzblA3dzlvQkRXWmN0M0xjSVktNHFn?oc=5",
-            "publisher": "Demócrata"
+            "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+            "publisher": "Al Jazeera"
           }
         ]
       },
       {
-        "id": "sa-nchez-attacks-pp-and-vox-as-a-step-backward",
-        "title": "Sánchez attacks PP and Vox as a step backward",
-        "when": "2026-10-28",
-        "place": "Madrid",
+        "id": "high-speed-train-tickets-suspended-after-crash",
+        "title": "High-speed train tickets suspended after crash",
+        "when": "2026-10-29",
+        "place": "Spain",
         "lat": 40.42,
         "lon": -3.7,
-        "what": "Sánchez warned that a PP and Vox win would not be a change of government but a step backward for Spain.",
-        "via": "government campaign framing",
-        "aspect": "politics",
+        "what": "Spain suspended high-speed train ticket sales after the crash that killed 68, disrupting travel just before the national election.",
+        "via": "rail travel disruption",
+        "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "Sánchez warns against the PP and Vox: “It is not a change of government, but a step backward”",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3J4M0hISzY4RV9JRE9SWTBwZlpHMjB5OS05Zm14akhHOW9VdTVDR3FSbk1HNjdQTF96VmR6WXl4V1FaNzhYSkxiYmJfWVkzYTgxR3RPWTZvMXdONHJqdlNReGdTcWpRWE9GY1Y5bG9nUEs3VzVCUnBGdWllbTBhdTR3ZklrenMzSndOM3NhLXJqMTlZelZLYzVWOXo0NXQ0MURRM0tjYjNhUlpYeVlCTVE3NXd2UXl3ZGpfTXZvYnI?oc=5",
-            "publisher": "Spanien Press"
+            "title": "Spain Suspends High-Speed Train Tickets After Crash Kills 68",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbmVkcndLQWhXcnFzUFJNcW56MklJbUVYSlJqakFXZ1BxeFZiMmpQbEFOZFVybXRubDVRdElwUENYTjVxeEdOeG5CWVlXMTlnUUJBbFhpZXRRWDlwcUlpYWVQUE1OQ1dJdmY5Z1JqOFJJMW13VzBDZWJMdnZ2UWlPdDZZNmU4a1ZmZ2FfWnFhazdOZ29PMXc5bQ?oc=5",
+            "publisher": "Tempo.co English"
           }
         ]
       },
       {
-        "id": "psoe-picks-abdelah-mustafa-for-ceuta-senate",
-        "title": "PSOE picks Abdelah Mustafa for Ceuta Senate",
-        "when": "2026-10-28",
-        "place": "Ceuta",
-        "lat": 35.89,
-        "lon": -5.32,
-        "what": "Sánchez's PSOE chose Moroccan-born Abdelah Mustafa as its candidate for the Senate race in Ceuta.",
-        "via": "party candidate selection",
+        "id": "sa-nchez-s-election-bid-seen-as-long-shot",
+        "title": "Sánchez's election bid seen as long shot",
+        "when": "2026-10-29",
+        "place": "Spain",
+        "lat": 40.42,
+        "lon": -3.7,
+        "what": "Coverage of the polls describes Sánchez's election bid as a long shot, and the train disaster is seen as a new blow to it.",
+        "via": "weaker government polling",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Sánchez’s PSOE Picks Moroccan-Born Abdelah Mustafa for Ceuta Senate Race",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNnpfRTEtdEx2SmVNWTQ3NzB2aXBkdG1ndXBhamZCeWlaSElrakFXd2RnVnBrUEcyV3pRcnhlY3pKWHJCODAzNlVRSDB6THJUNWU2UHBpZ1FUeEdnam9xbWlaSE9KTEhfX2NUNU5Pc2lIaE1EOTMyR0FFTGZyeE9rQ2VRZVFaQ2xVcXRSWUMwV2d4SXhxZGRPQjYwcFlpMzdwTm1KYjBGYXh2d3ZocXNwS2ZobnBod1RT?oc=5",
-            "publisher": "Hungarian Conservative"
+            "title": "Spain election poll tracker: Who will be the next prime minister?",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aTy1leVltUDQ1SlNWWXVtSXR0b3lKLUthM2hTd3dBZ0dxVFR2c0pJam9IX0pfRFdOSjVKcGNhWEI4MTVMbFRiM0JISzVDNEpTRXBZX25nb2lvdTVvUlNKQkEzNlJ0a2VfRTFPbkhtU2Yzb0U?oc=5",
+            "publisher": "The Economist"
+          },
+          {
+            "title": "Spanish train disaster deals new blow to Sánchez’s long-shot election bid",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2tfUi0zd2Ztb09HMlItZGZuVW9tMjRfUDh2TGJOcm4zX2E5Y0JrTmc1TXdZZXJkM0pwWEwyVHJJUzZ2Z2FaNkFBVmhUZlVtTnUzai1HcktEUXA2Z2d2OHQxVVhVUEtlYUhndjQ0anI3MjMwUlBtVHczVFljSUp3TnR1dFl4NktmdFFTX3Jnb190dEFVX1V3bjBhQ2JZaW9kTFphOE9meVc2Y2xwelpJMTFVOGY?oc=5",
+            "publisher": "POLITICO.eu"
           }
         ]
       }
@@ -2198,18 +2212,18 @@
     ]
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-28T15:07:15.247Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "chevron-to-self-fund-7-billion-venezuela-investment",
-        "title": "Chevron to self-fund $7 billion Venezuela investment",
+        "id": "chevron-to-self-fund-7-billion-investment",
+        "title": "Chevron to self-fund $7 billion investment",
         "when": "2026-10-28",
         "place": "Venezuela",
         "lat": 10.4806,
         "lon": -66.9036,
-        "what": "Chevron's CEO says the company will pay for its $7 billion Venezuela investment from revenue at its existing operations, not from new outside funding.",
-        "via": "self-funded oil capital spending",
+        "what": "Chevron's CEO said the company will pay for a $7 billion Venezuela investment with revenue from its existing operations in the country.",
+        "via": "company-funded capital spending",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2221,52 +2235,33 @@
         ]
       },
       {
-        "id": "caracas-asks-oil-firms-to-supply-own-power",
-        "title": "Caracas asks oil firms to supply own power",
+        "id": "eni-restarts-juni-n-5-oil-field",
+        "title": "Eni restarts Junín-5 oil field",
         "when": "2026-10-28",
-        "place": "Venezuela",
-        "lat": 10.4806,
-        "lon": -66.9036,
-        "what": "Venezuela wants oil companies to provide their own electricity for their projects, a condition that shapes how new investment gets built.",
-        "via": "power burden on investors",
+        "place": "Junín block, Orinoco Belt",
+        "lat": 8.9,
+        "lon": -64.5,
+        "what": "Eni restarted production at Venezuela's Junín-5 oil field, adding output from a licensed foreign operator.",
+        "via": "restored field production",
         "aspect": "energy",
         "flow": "into",
         "sources": [
           {
-            "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzV0RVhpWmM5X3FKMUVGNGdHMjZzVENKLUlaWnROTTBSR2pfeWh5a0t2QzNCVllwb3dvSnozLTZIQ0VuU3dKcVV4Y3ExRzI4S1NPQ1dCTzNvWDcxN01EVEM0S3h2ell5SmtVRzFTMmY4Y3NfOUhoeVRPcUZLeHZzUng1aXctYk82Z3d4bjRuamRrZHdVTDNsM3Z2dw?oc=5",
-            "publisher": "EnergyNow.com"
+            "title": "Eni Restarts Production at Venezuela’s Junín-5 Oil Field",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUtlU040VXZxVXFYX2hlOXotNUlJSWdveVo2NTZHNUVDcXEzX21ySnZfZ0lwNFUzNjVyTnlYNGdlUmZObHVyS0I4Zm5pVFA3ZTBCNjJUSkttNG9oLWxEdkJiWVI5ZzFWTUFpb2k0WFlDWEc5T0xUN1NHdGxKSmVJUUtrRkpIRlphMzNOa0xFMA?oc=5",
+            "publisher": "Egypt Oil & Gas"
           }
         ]
       },
       {
-        "id": "venezuelan-oil-exports-pass-1-million-bpd",
-        "title": "Venezuelan oil exports pass 1 million bpd",
+        "id": "rubio-says-more-us-firms-eye-fields",
+        "title": "Rubio says more US firms eye fields",
         "when": "2026-10-28",
-        "place": "Venezuela",
-        "lat": 10.4806,
-        "lon": -66.9036,
-        "what": "Shipping data show Venezuelan oil exports rose above 1 million barrels a day for the first time in six months, supporting the case for investors.",
-        "via": "recovering export volumes",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Venezuela’s Oil Exports Surpassed 1 Million Bpd for the First in 6 months, Shipping Data Shows",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0hoOUNPLV9BSU5MdjZYMnk3bTNMbjhKQXBjNjRjenh3b0F4eWU4a1RBaWtBM1BUUzdVX2FBLXNlRkRsTVJxejg5VjJGMFpmVEdVQkE4czF5ckpSOU1qYWJqZk14UmxoWlhzNXJXU0xTa2htZjFzcFhlNC10M0lHU21DWk9tTjdlYW5LUEpnT0pWSjhobUdpQWVtdHllblExclctR2hNQllzbUpTX3dCQWs3Tm1kZnZfRXA1V1hSR0g?oc=5",
-            "publisher": "EnergyNow.com"
-          }
-        ]
-      },
-      {
-        "id": "rubio-says-majors-eye-more-venezuelan-fields",
-        "title": "Rubio says majors eye more Venezuelan fields",
-        "when": "2026-10-28",
-        "place": "Washington",
+        "place": "Washington, United States",
         "lat": 38.9072,
         "lon": -77.0369,
-        "what": "US Secretary of State Rubio says Chevron, Exxon and Reliance are considering additional Venezuelan oil fields, which points to further deals beyond those already signed.",
-        "via": "US-backed company interest",
+        "what": "Secretary of State Rubio said Chevron, Exxon and Reliance are looking at additional Venezuelan oil fields.",
+        "via": "US government backing for deals",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2278,20 +2273,39 @@
         ]
       },
       {
-        "id": "us-says-china-gets-no-venezuela-oil-revenue",
-        "title": "US says China gets no Venezuela oil revenue",
+        "id": "conocophillips-says-venezuela-s-offer-falls-short",
+        "title": "ConocoPhillips says Venezuela's offer falls short",
         "when": "2026-10-28",
-        "place": "Washington",
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "what": "US Energy Secretary Wright says China will have no claim to Venezuelan oil revenue, keeping the investment framework limited to US-approved partners.",
-        "via": "exclusion of rival creditors",
-        "aspect": "politics",
+        "place": "Venezuela",
+        "lat": 10.4806,
+        "lon": -66.9036,
+        "what": "ConocoPhillips said Venezuela's effort to attract oil companies is not enough, pointing to terms that may limit how much investment arrives.",
+        "via": "investor doubts over terms",
+        "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "China Won’t Have Claim to Venezuela Oil Revenue, Wright Says",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0txdjFOSDFvRWh3S1UzcGRWVm1jVmVORE1DTTZxZENpUlU5ZENSWWVySHZPLWp3NjJzNVJVZzFmZTkyd3NrV2Z3QlhCSzhJUlR4UG5IS3h2Y0V0NjVFcVhHVVZUa2dLVUt6aF9VS2FyTWpyR1pVMU45SEFEQWZRbUMtSWhzeDhNRTQydUd2TlctYVU?oc=5",
+            "title": "ConocoPhillips Says Venezuela’s Bid to Woo Oil Firms Falls Short",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORGxJeHNYV1ZBc1c1TlM3akxpZDZ1NXBfZFktSzg0VE9rUHpYX29abUp6Nlo1SFpKblhiQW5ReHFrVElvMmJkc1g4eHNWeHhGX3UwM1pibkl6QmZoX3RyTHRsbnhZOS1kdm42ZHY1Yl9meXp2UlFHV3k3S0kyOE1OWHM2V1JFVkpqeW51MmZYWGdDenhrck44d3pB?oc=5",
+            "publisher": "EnergyNow.com"
+          }
+        ]
+      },
+      {
+        "id": "spain-s-venezuelan-oil-imports-hit-20-year-high",
+        "title": "Spain's Venezuelan oil imports hit 20-year high",
+        "when": "2026-10-29",
+        "place": "Spain",
+        "lat": 40.4168,
+        "lon": -3.7038,
+        "what": "Spain's imports of Venezuelan oil reached their highest level in 20 years, showing strong European buyer demand for the crude.",
+        "via": "export demand from Europe",
+        "aspect": "trade",
+        "flow": "both",
+        "sources": [
+          {
+            "title": "Spain’s Imports of Venezuelan Oil at Highest in 20 Years",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2V4TUNWbzRaV2R2ZlpYUkpFMUhJZmNZNS1iWWdUR0JEeFltY1dGUXphWTdZUjNsTTJnTkM1QkJma2xuVzU3eGJwZWdLVUp0ejM3UlB4dk4xUEhqMVpIUnlzV2ZUMkNseUFjR2Iwb01BbTB2YzhnNDQyV3ZYbDlZUDgwTDlDakMtMjU3bTZDZw?oc=5",
             "publisher": "EnergyNow.com"
           }
         ]
@@ -2396,19 +2410,53 @@
     ]
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "banks-tighten-credit-standards-in-ecb-survey",
-        "title": "Banks tighten credit standards in ECB survey",
+        "id": "french-bond-turmoil-complicates-ecb-decision",
+        "title": "French bond turmoil complicates ECB decision",
+        "when": "2026-10-28",
+        "place": "Paris, France",
+        "lat": 48.86,
+        "lon": 2.35,
+        "what": "Stress in French government bonds and concern over France's public debt are weighing on the ECB's rate decision, with investors focused on the bond market.",
+        "via": "French sovereign bond stress",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "The public debt situation in France is \"complicating\" the ECB's interest rate decision.",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1p1SkNkQ0NyVVZseFNmU29OMkw3WTd3VnlGZV9iM1hhM1M1TWVNVzc2bHhMX3lKZ0NQdFZzWHdTTGtzdWhKVkRleVp6a2o1REdiaGtUbFJ5RUVqSERPV1VPM0V1Mmt6UFBEYlBJLUxBY3lrOXg5NGRCUlhkdVp5SWRuNmRGd0M5em9maTFvb3lSSzVEX01R?oc=5",
+            "publisher": "Vietnam.vn"
+          },
+          {
+            "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzRXdFYteTB3bjg2dFd3UzdBakZSSjZaR1Z5UDJ6dHB2eEg0VEhyMHpaU0lQRnNPVXUzdTQ2Z3BiVGNLQUJ0czZsNzBxZFVJdDA0ckJCQ3hUSzNRX1Ryd09JZ1pLTnByRjVhOTQ4UjhIdV8yXzNrVGFjSWtEdkxIRWZLbFpUcnZQa042eEIta016UmpodnRTemJMZXh5TF93?oc=5",
+            "publisher": "WTVB"
+          },
+          {
+            "title": "ECB Holds Rates Amid French Bond Turmoil & Lagarde Future Uncertainty",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakdGTTVrQ25RSUs4QnV3ZHJiOUQ5TEtPS2szVHhBSnFrS1FRMVJMS29zeEw5VGhXM09zV0dNdGdsNllyWWpsNE9DWW41amU1UTIyWWFxYUJ5OEpNRTE0Y1Nwb1RFS3A5a29Oelk3VUpudFd4Q21MSzNmMEllS2VkbEJxbEVWdXBhdVFpcnFXakVWYlpBLVlucU5FVHNoeG1ZeGc?oc=5",
+            "publisher": "Global Banking & Finance Review"
+          },
+          {
+            "title": "Will France’s Debt Crisis Stop the ECB From Raising Interest Rates Again?",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnUyZFRYWjZpUUxHd2hfWFNrZjZJM1pCRDRxUDRCdk5sQW9ad0dRMzd2TGlITVZtQzBVRzBVZVFDTXFJekRWZnZKZFhpdmU4cjQxSFVmcDMyeVlOSVpENE4ybTcwNVFCMVJiVzFMa3hYU2VsV1BDQ091ZWwtTGNleHFDcEdJY3dOX2I2R3U0SWVYcHViOUNMTHVpUGR4TW1VRTBhMG1FQldKeHBUMmJF?oc=5",
+            "publisher": "Modern Diplomacy"
+          }
+        ]
+      },
+      {
+        "id": "ecb-survey-shows-tighter-credit-and-weaker-demand",
+        "title": "ECB survey shows tighter credit and weaker demand",
         "when": "2026-10-27",
-        "place": "Eurozone",
+        "place": "Frankfurt, Germany",
         "lat": 50.11,
         "lon": 8.68,
-        "what": "The ECB bank lending survey shows banks tightened credit standards further and saw weaker credit demand, which complicates the case for another rate rise.",
-        "via": "tighter credit conditions",
-        "aspect": "markets",
+        "what": "The ECB lending survey finds banks tightening credit standards, with demand for eurozone housing loans falling as rising rates bite.",
+        "via": "weaker credit demand",
+        "aspect": "living",
         "flow": "into",
         "sources": [
           {
@@ -2422,138 +2470,114 @@
             "publisher": "Investment Executive"
           },
           {
-            "title": "Eurozone bank lending environment showing first hints of tightening",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanY3VWg3d2ZSTjNzNzdSVzVWcEhnWDBPSlFBYlNsMnlOeDNhekQ4U2RUN2h2WlRidk1vbzRJZlBOU0p2aU10WHhkVEYyUjVmTTlYVUJHRnN4bS11ZEtXMkVBTFN2MmM4NGkySXNTSzBfYVZ0X2ZxY253MGl0Q1BYaVd0UDB2Z1RTc2dlUUs2X1JnSTdYcEpIZTc4VGg?oc=5",
-            "publisher": "ing think"
-          },
-          {
-            "title": "ECB rate outlook grows more complicated as bank lending conditions tighten",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkh4RjBNVkJqdGFmNXFicjZlc1pKb2t4bUhKVVZsWDFlNWl3U0NSMG4tMWMydTJ4YXRnUUV5eFZRS1JTeHh2OWJ3VWp1RC1FQkh4X1cxTDJLQkdTYThSSnZMTkNpTnpMV3ZlR2Q4VmtSdVpkRUNwV1dleThwdkpta2xHT2NKd2VOUmE0U2I1cDFiQjV5SmNLX2NwRmN5QUMtclNQZ1NXVEJXMk1lbVZWQlFaLU1Hdw?oc=5",
-            "publisher": "investingLive"
-          },
-          {
-            "title": "ECB: Banks report further tightening of credit standards",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BNUtWOTBXd0gybkV5VEh3RHhNNGZNN0xaQnBWQy1NaGphRjVPTzUwb0h4alBjcWF3V0dTMW1LNzdBUTMzU3k3WmJBUlNpZnZXZHhRTEFjdVNFWHItN0VDakQzRQ?oc=5",
-            "publisher": "Breakingthenews.net"
-          }
-        ]
-      },
-      {
-        "id": "eurozone-housing-loan-demand-falls-sharply",
-        "title": "Eurozone housing loan demand falls sharply",
-        "when": "2026-10-27",
-        "place": "Eurozone",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "The same ECB survey finds mortgage demand dropping as rates rise, a sign that earlier tightening is already hitting households.",
-        "via": "rate hit to households",
-        "aspect": "living",
-        "flow": "into",
-        "sources": [
-          {
             "title": "Eurozone Housing Loan Demand Plummets, ECB Survey Finds; Rising Rates Hit Hard",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BajJzSGp0Nkl3Z3c3cVlYRGZpRlVLcVpoUHRRR1pxT1M0VnplaVhtRjlQMGlQWkZsUm1MVl9abDFRTm1ReVFZUHcxX1N1VkpiUURfWk9vWmlTOWF6R2lVdFpYSmk1bkVlM3lJZ0Jfb1NfRk9LR0E?oc=5",
             "publisher": "BigGo Finance"
-          },
-          {
-            "title": "Euro zone mortgage demand falls as rates rise, ECB survey shows",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZzJzakVNU2RhLUxjLUlpUGZ1LTM5LXRSOHUxMVI1V0JLT2E1WTZnZVRhdkRrTW1yeWt0WXpUaDdyNW5pSFNwclM1eXgtRUZMV29JQS1lZnJiaGVQbkVha0dyazFDZ0M4T0xtT2tJQ0w0Wlh4MnFsb19LZlBzQ3ZuUkxBR0lodnZEckFlNDl4Nm9EYmZvTEtkaDBfU2w?oc=5",
-            "publisher": "Yahoo Finance"
           }
         ]
       },
       {
-        "id": "french-debt-stress-weighs-on-ecb-choice",
-        "title": "French debt stress weighs on ECB choice",
+        "id": "fed-hawkish-pause-weighs-on-euro",
+        "title": "Fed hawkish pause weighs on euro",
         "when": "2026-10-28",
-        "place": "Paris, France",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "Commentary and market notes flag French bond and debt risk as a constraint on whether the ECB can raise interest rates again.",
-        "via": "French bond market risk",
-        "aspect": "budget",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Will France’s Debt Crisis Stop the ECB From Raising Interest Rates Again?",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnUyZFRYWjZpUUxHd2hfWFNrZjZJM1pCRDRxUDRCdk5sQW9ad0dRMzd2TGlITVZtQzBVRzBVZVFDTXFJekRWZnZKZFhpdmU4cjQxSFVmcDMyeVlOSVpENE4ybTcwNVFCMVJiVzFMa3hYU2VsV1BDQ091ZWwtTGNleHFDcEdJY3dOX2I2R3U0SWVYcHViOUNMTHVpUGR4TW1VRTBhMG1FQldKeHBUMmJF?oc=5",
-            "publisher": "Modern Diplomacy"
-          },
-          {
-            "title": "Euro faces ECB caution and French risk – BBH",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGlsREhibHRUVWc1VFpkZDVMZHZkLTBUWmN0Qjc2cXVfRGc0VEw5QjZKZjY3VkhETzRlNGt6ZnNoQjhjNU1HUW5iODZSbm1FM3NDWnd4SE9jQmpxX2xsa2o2ajduUXVvQ01JZ2FtZ3U5THdPYkJQTFNIOFljU2FRejN5anVWVGg4eWlfVmM2N2NCLW1YM2xMeFVEelgxWXVDQUVqRk5nMWpEX2s?oc=5",
-            "publisher": "www.tmgm.com"
-          }
-        ]
-      },
-      {
-        "id": "energy-driven-inflation-pressures-persist",
-        "title": "Energy-driven inflation pressures persist",
-        "when": "2026-10-28",
-        "place": "Eurozone",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "Fund managers cite energy-driven inflation pressures but still expect the ECB not to raise rates this week.",
-        "via": "energy-led price pressure",
-        "aspect": "energy",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Managers convinced ECB will not hike rate rise this week despite energy-driven inflation pressures",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3dlSzI3ZTQtNHdKRGRIb3dQdGxUTXVkVHJNR0MyT2Qta1p5cEo0VF9UYjdCQ0xCSmtLTERuVDdlYVAwMmhpN21NMXl3aUF6U0hYdWcxSS0wdkRraUdvRnB3QURKWlVxNU1Ba1lGWlFJdl9wMXg1Um9wNl9JYW9EWDFxQ3NBdWlwTDlEQTFZMV9jTlF5YzJKX0hPd0VXS05TNFpwU2Jsblk0MTBMdnJEOHpoRUV6SVhELW1taklUZjVyZw?oc=5",
-            "publisher": "Funds Europe"
-          }
-        ]
-      },
-      {
-        "id": "analysts-and-managers-expect-ecb-hold-at-2-5",
-        "title": "Analysts and managers expect ECB hold at 2.5%",
-        "when": "2026-10-28",
-        "place": "Eurozone",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "Previews from analysts and fund managers point to a pause at 2.5% on 29 October despite the inflation surge.",
-        "via": "market expectation of pause",
+        "place": "Washington, United States",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "The Fed's hawkish pause is shaping EUR/USD ahead of the ECB meeting, and the euro stays under pressure as markets position for the decision.",
+        "via": "currency pressure on euro",
         "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "European Central Bank Expected to Hold Interest Rates at 2.5%",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFhGUDVxMTNsS2J4dlY0MlVkZnY5dTFHampFSm1xbU9iWDlWekVYYTl3Yl9vOTRkaXJuSkpJWFIwLVprOVYyR1VmNl8xT2dfNlk5dzUzVUg0U3ZGbG4yMFJFbHVQQTkwcmxVZmFSTlpwb3VEaTI3bWZ1b1Jvc0M0ZVZzYWpDTFk1UnZvUXZSc29FRV9fOENhMWNJWFRva0Nj?oc=5",
-            "publisher": "Greek City Times"
+            "title": "Central Bank Divergence: Fed's Hawkish Pause Shapes EUR/USD Ahead of ECB",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2poWThrWWRzb2lheEF2Qzl2Sm9HTktvaFRPTHdxaUx3eFdqM2tOSjltUWJ6RThldkNiaUJUYkNXWUhmd0VDVUhNQlNvVnZoY201czc0ZktRN3BZVEpCZ2VwSmgyOEVVdG45aHZxQkhLSTB0Q0NnekN3blM1RTh3dzFkS3NRamJQNUVuckxGWlMydFBuTTRweUtaY0h0MHJybm4xS2Jvbmo?oc=5",
+            "publisher": "InteractiveCrypto"
           },
           {
-            "title": "ECB preview: experts expect a pause this week",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zalJ5OTZhZ1ZmbFpvdW5tRHRNb1VBSHRmUDZHNzhvMzU4Vm1WZlRIV3RlcUlxdmJoZWh0TmwxU3JCZHFwZWNxNC0wY3htdmhrOFJvWU9RTjY0OVlYWEpUVUZkYUNoaDVVb05vSTNXNkhuS3g0b056SkNVZUtxQQ?oc=5",
-            "publisher": "RankiaPro"
+            "title": "Euro remains under pressure ahead of ECB rate decision",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGxiLWRSN0xLZmFPSXk3eDZsV1RPUld0bDB2ekxsMGpSakpUVk05SEFpb1FxSlpPSDNHMkwxZ1Jua0RVVGlmeFFBcGdwbHZ1MzN1bHU1YTZsWVhUbDlMZmNuYWdobUU5bjNaWUhBaXFDQW40Z3pyWjFEbnVZQUpwOU9rbktPNWp3QjY5MUpmQXJSYXZTTEI4Z21ydjZMUQ?oc=5",
+            "publisher": "FXStreet"
           },
           {
-            "title": "Fed and ECB: Towards a Status Quo in October Despite Inflation Surge",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHp4Mld6M0oteUlqQ0p2b0JhQklNTm95dmlqekI5V2FMand6TWNyeUtzOEhhUkd2TTMySVBGbXNlRkFDQ09ybko3N0d1Tks1Vi1EbDRkNVVpaWJLaEJjWHE0MHA3eHMtNG96S21CTEtDeEhCQ1Vtd3lrb3VMZWNISjY5VmZnSEhISFVJTEpQVXYwdlRKbzNLQ1JKNVlBOXlTaVg0V1owYVhvdFRhZ0dnVVRqdEZCTXJBLUhmRg?oc=5",
-            "publisher": "marketscreener.com"
+            "title": "EUR/USD nears key 1.1067 swing level ahead of Fed and ECB decisions. What's next?",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOG1oWm9fXzc2WHd1V0pnS2MyZHNmdHFiWmkxdmFQY3EyS1NwSnROTGFUMUo1V0pKM21GdnFudm9fSWM2MDJjZkI2Rkk4MTB0NndZRUlWWVdWVXExOWVQUU56OXVzRTVPdE53c2ZpX3Z5cXMybHdKemxmaWtYNlpXOVppT3piSHVyOTVHUUVPMl9aR1lhNlpPZE5mQi0yRlRIQ1NJTWdvcTVCQXVHX2Ntb2NR?oc=5",
+            "publisher": "investingLive"
+          }
+        ]
+      },
+      {
+        "id": "uncertainty-over-lagarde-s-future",
+        "title": "Uncertainty over Lagarde's future",
+        "when": "2026-10-28",
+        "place": "Frankfurt, Germany",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "Investors are weighing the uncertainty around Christine Lagarde's future at the ECB alongside French bond stress as they look to the rate decision.",
+        "via": "leadership uncertainty",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzRXdFYteTB3bjg2dFd3UzdBakZSSjZaR1Z5UDJ6dHB2eEg0VEhyMHpaU0lQRnNPVXUzdTQ2Z3BiVGNLQUJ0czZsNzBxZFVJdDA0ckJCQ3hUSzNRX1Ryd09JZ1pLTnByRjVhOTQ4UjhIdV8yXzNrVGFjSWtEdkxIRWZLbFpUcnZQa042eEIta016UmpodnRTemJMZXh5TF93?oc=5",
+            "publisher": "WTVB"
           },
           {
-            "title": "Managers convinced ECB will not hike rate rise this week despite energy-driven inflation pressures",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3dlSzI3ZTQtNHdKRGRIb3dQdGxUTXVkVHJNR0MyT2Qta1p5cEo0VF9UYjdCQ0xCSmtLTERuVDdlYVAwMmhpN21NMXl3aUF6U0hYdWcxSS0wdkRraUdvRnB3QURKWlVxNU1Ba1lGWlFJdl9wMXg1Um9wNl9JYW9EWDFxQ3NBdWlwTDlEQTFZMV9jTlF5YzJKX0hPd0VXS05TNFpwU2Jsblk0MTBMdnJEOHpoRUV6SVhELW1taklUZjVyZw?oc=5",
-            "publisher": "Funds Europe"
+            "title": "ECB Holds Rates Amid French Bond Turmoil & Lagarde Future Uncertainty",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakdGTTVrQ25RSUs4QnV3ZHJiOUQ5TEtPS2szVHhBSnFrS1FRMVJMS29zeEw5VGhXM09zV0dNdGdsNllyWWpsNE9DWW41amU1UTIyWWFxYUJ5OEpNRTE0Y1Nwb1RFS3A5a29Oelk3VUpudFd4Q21MSzNmMEllS2VkbEJxbEVWdXBhdVFpcnFXakVWYlpBLVlucU5FVHNoeG1ZeGc?oc=5",
+            "publisher": "Global Banking & Finance Review"
+          },
+          {
+            "title": "The ECB needs a smooth transmission and a smooth transition",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTFFNmZtR2pBeURVeWxIZi0tVWRZeEpIYjZoYkg3N2RMOE9ZOW9HM0hTZXZWQW4tdzgzQkFsTWNYbEpuTmdiU25uOE5KZG8xNnNscDBxMmJjeVVaZG9oeTlGdi0waWJTRUpsbGVUWkhKM3BVdnJ2YnhubWtMekJWU2lTMks?oc=5",
+            "publisher": "Financial Times"
           }
         ]
       }
     ]
   },
   "istanbul-floods": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "fresh-istanbul-rain-closes-roads-cancels-ferries",
-        "title": "Fresh Istanbul rain closes roads, cancels ferries",
+        "id": "record-rainfall-hits-istanbul",
+        "title": "Record rainfall hits Istanbul",
         "when": "2026-10-27",
         "place": "Istanbul",
         "lat": 41.01,
         "lon": 28.98,
-        "what": "New heavy rain in Istanbul closed roads, cancelled ferries and pushed traffic congestion to 80% during the morning commute.",
-        "via": "renewed rainfall and flood stress",
+        "what": "Record rainfall caused urban flooding and flash floods across Istanbul, the direct trigger of the deadly flooding and of more than $91 million in insured losses.",
+        "via": "extreme rainfall volume",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Istanbul floods cause over $91 mn in insured losses after record rainfall",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1M0aXhCNlJndmE0SHNTUU1CRmJhMkJGWjFHMGZucWVqd2trVjhYald3dThnSG1Ed2hES1YyUnNHRDB4cVdTNUkydG1uRllReU1MM3oxT21MbzRzY2RNVFBTX251VkV4UWlpRWhQZ1VJVUd2WnFaYnMyYzN0eEVqN3l3ZEJPVjE1MnpMd3JHYjdWOHdoTjBuWW84bkZ3b0U?oc=5",
+            "publisher": "Beinsure"
+          },
+          {
+            "title": "Urban flooding and flash floods in Istanbul What Happened in Istanbul",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUVhOdndZX2J6bnlzN0xFNEdLbDRLSFdpb0JmSHNUay1FVTlkaGNaYU9jVmJtS0dFdDFscF9idFlRQWU4RWNwY1ZsS1BDZ3NOUWZndHNTTGJlaXVUSUN5em5SZmxFb0RNUXhyNTZaMmh5MUlLLTlpTlRzaWN1ZjBLamUxNlNzR1hLX3pzb191d3o3YUdwVFkwTmtzUzdOazBocy1Cd3dIcjJIM3NNbjFtZXRCbHk5UDdHbnJYZkRFMjdyR3Z1NHVMeXZVaHpmRjZRZGJhZF82eUo?oc=5",
+            "publisher": "Hidropolitik Akademi"
+          },
+          {
+            "title": "Tornado kills four in Antalya as floods hit Istanbul",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVUzZ3dHUmlsdldUNS1iWGxmcktMc2V4ZERaVmJJcWQxcHFtQzV2Z29Md0gyLTBVM21uOWRpRHNvTmR4cDcwTXdVVGdTWF9XNWJsSGVEQUV4VEh0LTVaWVB2MkpPbHJEYjRiSTJuR0NJTGZHOXhFNnl6Qkx0ZkxsZzY3bnE4c2RLYjJqUXQ2Vmh6Mi05T1k0Wg?oc=5",
+            "publisher": "Hürriyet Daily News"
+          }
+        ]
+      },
+      {
+        "id": "roads-closed-and-ferries-cancelled-in-istanbul",
+        "title": "Roads closed and ferries cancelled in Istanbul",
+        "when": "2026-10-27",
+        "place": "Istanbul",
+        "lat": 41.01,
+        "lon": 28.98,
+        "what": "Rain closed roads and cancelled ferries, while congestion reached 80% during the morning commute, leaving people exposed on flooded routes.",
+        "via": "stranded commuters on flooded routes",
         "aspect": "living",
         "flow": "into",
         "sources": [
@@ -2689,7 +2713,7 @@
     ]
   },
   "brazil-runoff-2026": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": []
   },
@@ -3142,18 +3166,18 @@
     ]
   },
   "west-bank-lockdown-hebron-2026": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "deadly-shooting-in-hebron-kills-soldiers",
-        "title": "Deadly shooting in Hebron kills soldiers",
+        "id": "two-israeli-soldiers-shot-dead-in-hebron",
+        "title": "Two Israeli soldiers shot dead in Hebron",
         "when": "2026-10-28",
         "place": "Hebron",
         "lat": 31.53,
         "lon": 35.1,
-        "what": "A shooting attack in Hebron left Israeli soldiers dead and others wounded, and Netanyahu ordered a West Bank closure in response.",
-        "via": "attack triggering closure order",
+        "what": "A shooting attack in Hebron killed Israeli soldiers and wounded Israelis, prompting the order to close the West Bank.",
+        "via": "retaliation after deadly attack",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -3170,42 +3194,13 @@
         ]
       },
       {
-        "id": "israeli-election-timing-shapes-security-response",
-        "title": "Israeli election timing shapes security response",
-        "when": "2026-10-27",
-        "place": "Jerusalem",
-        "lat": 31.77,
-        "lon": 35.21,
-        "what": "With Israelis going to the polls, the closure and troop reinforcements were framed around preventing Election Day violence.",
-        "via": "election-season political pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "IDF imposes West Bank closures, reinforces troops to prevent Election Day violence",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUd3JuVFduV0RxR0YzeW9XVTJIT21NNjNLYmNFTm9zTWhCeEY4VTVTVDJqNWt0cjEySHpEclNvLWdlblQtaXVJUDlJZVg2enJQUFc3MlJ6SWlaQzk4YkdNcDVzWnVvT1l5Z1V5dmxn?oc=5",
-            "publisher": "The Jerusalem Post"
-          },
-          {
-            "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVFVbktqbGdzUTZ1Q0o1ZFgtZzRXSG85djdQYWVGeWxRMms3M1lLaHA3QWhOWlIzMkdOSWctcjlWY3BkOE5UN0k1bmU3QlEzcDM5RlNBOTFkUTdMeWYwX2xoelFxVldxM19la0NBNG41N0ZldlU5ZE9xeExtd0J5ajd0ZmpYSWZNbl9NVWxNQ0h5Zk1ubk1NNkszbmpPWGtucUlRc3RDaWxnWEl00gGyAUFVX3lxTE9EbGFqRU51d2xKZHFHRGtzYzN1c2dKZkE1VUN4bTVLUVZLRjA4TVMxX1lJZ05LZ1phSTlndkJmYlVKWllwWnB4b3lWS0VWU181YWZPNFFIamhxdUk0V1lhNGh0d0VrVl9hT2F0MXM0SnFvNUJ4NEZsZGZpQXBqRFZpRTFhRThwQkFESnZZX19zMm5rMk1CeEp2WDdQN3dTNF9zLTBCSTFiLTRoX3lVLUE0VUE?oc=5",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Israeli Forces Launch West Bank Operations, Impose Full Siege of Hebron Before Elections: what 16 outlets left out",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMXYtNWxZVmdDaWEyNHFKNUhTVWVPTU51bEM0VEtOOFRDVExYQ1F2Z0ttN19UaDZoVXZ2QmpfUm91Si11Ym9Jd285RE9QckJJcFJMeG1jeF9OS0NpbENDRmgwSndpNXYtZVBLbkRFVFZEQ09odzZhcnQtM2dpcmpJTmdiZm9CaWtGazdqS29GVGh6aFh2RXZTMDFQMnlWY2VwclNCMWxTME8xYmlrSTNraTlSOWY4TFNCWF9hQWRNRXVNMGxRUUhqdTgweXR3T2ZJa2hVdENkbUd6a2EtY2lCaS1mSWxnWXJmZWc?oc=5",
-            "publisher": "NewsCord"
-          }
-        ]
-      },
-      {
-        "id": "netanyahu-announces-major-west-bank-operation",
-        "title": "Netanyahu announces major West Bank operation",
+        "id": "netanyahu-says-major-west-bank-operation-is-coming",
+        "title": "Netanyahu says major West Bank operation is coming",
         "when": "2026-10-27",
         "place": "West Bank",
         "lat": 31.95,
         "lon": 35.25,
-        "what": "Netanyahu said Israel was preparing a major operation in the West Bank, signalling a wider military push beyond Hebron.",
+        "what": "Netanyahu announced Israel was preparing a major operation in the West Bank, signalling a wider military response beyond the Hebron closure.",
         "via": "government escalation signal",
         "aspect": "security",
         "flow": "into",
@@ -3218,26 +3213,55 @@
         ]
       },
       {
-        "id": "settler-and-soldier-attacks-across-west-bank",
-        "title": "Settler and soldier attacks across West Bank",
-        "when": "2026-10-28",
+        "id": "israel-votes-amid-hebron-military-operation",
+        "title": "Israel votes amid Hebron military operation",
+        "when": "2026-10-27",
+        "place": "Jerusalem",
+        "lat": 31.77,
+        "lon": 35.21,
+        "what": "Israelis went to the polls while the Hebron operation was underway, and troops were reinforced to prevent Election Day attacks.",
+        "via": "election-time security pressure",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Newshour | Hebron military operation as Israelis prepare to vote",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00OWduYm9KYW5VaE9NM3k2ZlJvLTNsYVlRaE5RUVo4ckVXVGxHcUZ0OWZHaTVOWTJRSnY5ZHZiYXYyV3JnTk9qT1JNbXNzQVQxZ0Z2X2twYU1Udw?oc=5",
+            "publisher": "BBC"
+          },
+          {
+            "title": "IDF imposes West Bank closures, reinforces troops to prevent Election Day terror",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUd3JuVFduV0RxR0YzeW9XVTJIT21NNjNLYmNFTm9zTWhCeEY4VTVTVDJqNWt0cjEySHpEclNvLWdlblQtaXVJUDlJZVg2enJQUFc3MlJ6SWlaQzk4YkdNcDVzWnVvT1l5Z1V5dmxn?oc=5",
+            "publisher": "The Jerusalem Post"
+          }
+        ]
+      },
+      {
+        "id": "settler-assaults-on-journalists-in-west-bank",
+        "title": "Settler assaults on journalists in West Bank",
+        "when": "2026-10-29",
         "place": "West Bank",
-        "lat": 32,
+        "lat": 31.95,
         "lon": 35.25,
-        "what": "Israeli soldiers and settlers attacked Palestinians across the West Bank, and settlers used drones to monitor Palestinian communities.",
-        "via": "rising friction on the ground",
+        "what": "Activists and reports accuse Israeli settlers of attacking journalists and Palestinians across the occupied West Bank, adding to tension.",
+        "via": "settler violence and tension",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
+            "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
+            "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          },
+          {
+            "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+            "publisher": "Al Jazeera"
+          },
+          {
             "title": "Israeli Soldiers, Colonizers Attack Palestinians Across West Bank",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVl6ZVdqZ255UVl6NGNxT1hVOEVXbXBON2ZHRFk1SE9HVmFUUl8zNmEyZ01tOU83dkwwU0lfclZpYm54bW5BZDBHazI5TzNleFE0aDU1Vzd0cFE1SnVwckQxdEhhcnNYSEduNVRNdmVpREZ1aFRxckI1dWh0SkJURm53Mm5XRXJJNFE2QXZLWkFQQWpSanp2aQ?oc=5",
             "publisher": "- IMEMC News"
-          },
-          {
-            "title": "West Bank: settlers using drones to monitor Palestinians",
-            "url": "https://www.france24.com/en/tv-shows/the-observers/20261028-west-bank-settlers-using-drones-to-monitor-palestinians",
-            "publisher": "France 24"
           }
         ]
       }
@@ -3430,7 +3454,7 @@
     ]
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-10-28T16:07:41.639Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
     "items": [
       {
@@ -3438,10 +3462,10 @@
         "title": "UK and EU officials discuss free movement options",
         "when": "2026-10-27",
         "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "UK and EU officials are set to discuss options including freedom of movement ahead of the Brussels summit.",
-        "via": "official-level negotiating groundwork",
+        "lat": 50.8503,
+        "lon": 4.3517,
+        "what": "UK officials are reported to be discussing options including a return to free movement with the EU ahead of a Brussels summit.",
+        "via": "official-level groundwork for talks",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3459,11 +3483,6 @@
             "title": "UK and EU officials set to discuss freedom of movement: What to know",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUxScGxuUzdDTThjNHFWRy1LRS15cVFJRGNZRkpsTm9fT0VhU1lZenNzUjVfLTFuNTk0UHJxZ2M1MXE4aGpFcXEtTTJmNV9Ub08yMF9USk9vN0xoM3hTT1NGTlc1ZjBmZnVHSlFUeC1sSU5yV2x0b1EyOWVEQlNCdE9YY2ZSamRCdzlNZUp0cXdjeTh6bmZ3UXlxcE5YWU5mU2tYM1NfT2xkTGlPa2fSAaoBQVVfeXFMT0lpS1hMM1FSY3hKNXpBTkpWZWhZbEdQVWYxTFlQdDhUeVdyZVQyNmxFX2xmZFVBR3NPRkZXdS1XTHdsRS00Q0dlSERjUFJHUE1EN1oxLTlnU0pmb003dGxwa1RkbE1Mcm5uakUxVlR4N0I2R2tpOEhZZ3R6OFJ0NFJhSE82eE84MHJDcEEwdjZPTEV2blMwMlJrYjNPVjFCU2RmcEhIQThkNVE?oc=5",
             "publisher": "The News International"
-          },
-          {
-            "title": "UK and EU officials to discuss freedom of movement",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TaDd5ODFNOTg3UGlqdHRTSTRaSEpVdUVoS2c0R3JvS0xocDRyM00xZXdraE5TdW9PS09HVzV5VEczXy14dXlkRjRVRWFYVW9oaFpkMG9uQUF3QTNsRFE?oc=5",
-            "publisher": "BBC"
           }
         ]
       },
@@ -3471,11 +3490,11 @@
         "id": "labour-mps-revolt-over-free-movement-talks",
         "title": "Labour MPs revolt over free movement talks",
         "when": "2026-10-27",
-        "place": "Westminster",
-        "lat": 51.5,
-        "lon": -0.12,
-        "what": "Labour MPs warned over free movement talks with the EU, and Cabinet splits deepened, reviving Brexit divisions inside the party.",
-        "via": "internal party pressure",
+        "place": "Westminster, London",
+        "lat": 51.4995,
+        "lon": -0.1248,
+        "what": "Labour MPs warn against reopening Brexit divisions over free movement talks, and Cabinet splits are reported to be deepening.",
+        "via": "party pressure on the PM",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3487,40 +3506,16 @@
         ]
       },
       {
-        "id": "farage-and-burnham-clash-over-free-movement",
-        "title": "Farage and Burnham clash over free movement",
-        "when": "2026-10-27",
-        "place": "Westminster",
-        "lat": 51.5,
-        "lon": -0.12,
-        "what": "Nigel Farage attacked Andy Burnham in an angry exchange as officials discussed a return of EU freedom of movement.",
-        "via": "opposition pressure on the PM",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Burnham and Farage in angry Brexit bust-up over freedom of movement",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYU5BYUlmT1NhR2J1b01ETnRSSXpqakFPczJSclJnS25wVmstWU5KQlRldFB5TG91ZEoyS3Fzbk0xcVhCRE40aWhpSE8xaEhaUWViQUZULUtrd2pqYVcteUdUZ0phUUEwM3NraWF2Y1hRSHBhVHZYUjZtY05GVVZYMFBWbWptZFpLZUxIUVFmOHI2dEttTk9FQ1pwcUtERnU4OTR5UzQ1cEVpVjVRcW95UQ?oc=5",
-            "publisher": "London Evening Standard"
-          },
-          {
-            "title": "Nigel Farage savages Andy Burnham as officials discuss return of EU freedom of movement",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREZSeDFLVGpaOS1GdmNaUUM5VTVITTBhRFJkWGVyWnFnc200TTZUMjRRQzhXdWl1WXRLaW9qNElrVkxZVmpBdWhtWGFyUFZjLW9xMFgxQzVZWFpMd1BEMHozY3hERWFDa0tDamc4QWhZX0ZhUDZQUXl4SlFXc1R5WnpqbmZVczR6OWd6X2tLMDlXcXfSAZgBQVVfeXFMTkRqYjhIRE04QU9tc0VnN0dKZF9jSVdwSjZLMFZzeUhuZmFibHBJbF9yTVI1WTZFVGZUS0ZWbTVtbXRvOHZYc2Z3eWJoTmlTNGw3d09Fc1FwRkd4SllKQ1Bibl9GMDZGSkczamFic3lqYU42YVFLcTkzdW9zMjU5V0dEMXZtQktSVWpHZHktNDR1QVZ1ZjRxZzg?oc=5",
-            "publisher": "Daily Express"
-          }
-        ]
-      },
-      {
         "id": "badenoch-and-burnham-clash-at-pmqs",
         "title": "Badenoch and Burnham clash at PMQs",
         "when": "2026-10-28",
-        "place": "Westminster",
-        "lat": 51.5,
-        "lon": -0.12,
-        "what": "Kemi Badenoch accused Burnham of wanting to return Britain to Brexit paralysis, exploiting Labour splits, ahead of the Brussels summit.",
-        "via": "Conservative attack and public debate",
+        "place": "Westminster, London",
+        "lat": 51.4995,
+        "lon": -0.1248,
+        "what": "Kemi Badenoch accused Burnham of wanting to return Britain to Brexit 'paralysis' and exploited Labour splits over free movement, while Burnham insisted there is no confusion over his position.",
+        "via": "opposition pressure and public scrutiny",
         "aspect": "politics",
-        "flow": "into",
+        "flow": "both",
         "sources": [
           {
             "title": "Burnham and Badenoch clash over Brexit ahead of Brussels summit",
@@ -3533,8 +3528,13 @@
             "publisher": "Anadolu Ajansı"
           },
           {
+            "title": "Burnham insists 'no confusion at all' over his Brexit position",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdHdYU1lNNENDN1c0WFUtYUxUbnZ4bHhyTmFwU1VaVERIN0tTYWhaY1M2cFQ3SlNKNVcyX3R3QUdBRC1obVhaS1FKY1hBelRSTWJnUFU3c2ZnZ0R3U1E?oc=5",
+            "publisher": "BBC"
+          },
+          {
             "title": "Badenoch accuses Burnham of wanting to take Britain back to Brexit 'paralysis' as she exploits Labour splits over EU free movement",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUxleXlRa2tJYVRNOFVRR0JmeDZoTnVOcFdVUVRaV3ZxWlNlSDBKNU1qVzVPa0lDMjJUcU5jVi1WNHQzYVhwYW1iNUd1M2xtN0MyY2daRlNyWktIM2xUVkJJeU9kNXFkLWREM0pzTHNGU1pVeXF6aG9sTlhVWTF4U005NDhPSzNHT2FOc3VraTJkc0p6cGh0a2hKNjRBbW5EVW9yNF9SQVNfMWhmeVhHdmZfamdFa2dWRzhQLUs4Q21jSGV6MjUtVVczclVPVVhXWG1iQVlUTkRtR2Nfd1R5V1RBTlLSAeoBQVVfeXFMUEtiYlJBNWhqNVFfcDRqcTRmU0R2TnBxVktZb3JnRzVpLXJZeXFNNHp5b2xHMXBBUzBHUlN6aTEyTFJNZllaQmxRdmR3WWdadGxlcEVmSFE4VzFCNXNJZG5KblZTWk5ENHFGRTRvTzBBSkNYYjBzSWFaSG9oVXY3QlhsMHZpaUtsZWF1a1FkdDFVRGVXcHR4NnAyMWRuSFhmMkRGc3N5emNuX2FZN1NqRVg1UzJrZ3dwd0MyQUNjemxPWFRWaXI1NnBuZXl3N21sZGRUSTUwZmpfdGVfc2ZVYW9ZaHhEUVNFZlhB?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUGxFSjlmNW1jdDJVRjVfUzREWWJNVlA0dlI4UTlQVm00OTVpWUtQUE9wUXE5WHllZm1ybEFPQndvUkM1UndDTU9pbEs0UHFVMnJOcEI1cklHRmgwSU9sM2ZyUXNFNXYySWtBUFVrMThrZ3VWOVdIbVF0eDgtTElwRk0yNXk4UnpXSnVsSHVJUEszRC1RcE82UU4wUUFFNUlJbHphcTNCMnZXSnJzdVBtYzVTcE9oNllFWnQwaUdiaUE5Zm5VVmlYaU5VWUdvZ1M0ZHFOVW1lVm5uREFDb1o2TkJHYUhqdlU5V3l3QlBmYnN6R2pWZGN2WW8zbzVpT0FUb2k4ZncxQ3RFRGVVelHSAeoBQVVfeXFMUEtiYlJBNWhqNVFfcDRqcTRmU0R2TnBxVktZb3JnRzVpLXJZeXFNNHp5b2xHMXBBUzBHUlN6aTEyTFJNZllaQmxRdmR3WWdadGxlcEVmSFE4VzFCNXNJZG5KblZTWk5ENHFGRTRvTzBBSkNYYjBzSWFaSG9oVXY3QlhsMHZpaUtsZWF1a1FkdDFVRGVXcHR4NnAyMWRuSFhmMkRGc3N5emNuX2FZN1NqRVg1UzJrZ3dwd0MyQUNjemxPWFRWaXI1NnBuZXl3N21sZGRUSTUwZmpfdGVfc2ZVYW9ZaHhEUVNFZlhB?oc=5",
             "publisher": "Daily Mail"
           },
           {
@@ -3548,41 +3548,17 @@
         "id": "burnham-tells-ministers-not-to-back-eu-options",
         "title": "Burnham tells ministers not to back EU options",
         "when": "2026-10-28",
-        "place": "Westminster",
-        "lat": 51.5,
-        "lon": -0.12,
-        "what": "After the summit, Burnham told ministers to avoid backing specific EU options, and insisted there is no confusion over his position.",
-        "via": "government line on EU options",
-        "aspect": "politics",
-        "flow": "both",
-        "sources": [
-          {
-            "title": "Burnham tells ministers to avoid backing specific EU options after crunch summit",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmxLREp5dGxpbFNPY01KdE81eDRFYVpaOWczUXpqeS1GTmZkMXBDRUVqbk5RWldIdDl6bms2eHdxb1VkSGNfYWsySGRHZUJzaXRSd3IweDFsVVBLMjNGM0pQTGlBdFRPYlkxUW54bnBIMmt1WXVZeWtGZ3ZsNDNmWERvTkRqcldzWlNONUczSGlWV2o5aHB2RkZ1QWxhLWFneHVuMXdIdUxFaEMyOU9RdERWZFo2UmRCcFJFU0lPTWMzOHBDN1MyajhJbmtscUU3VWJ0amVBcVVNQQ?oc=5",
-            "publisher": "The Irish News"
-          },
-          {
-            "title": "Burnham insists 'no confusion at all' over his Brexit position",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdHdYU1lNNENDN1c0WFUtYUxUbnZ4bHhyTmFwU1VaVERIN0tTYWhaY1M2cFQ3SlNKNVcyX3R3QUdBRC1obVhaS1FKY1hBelRSTWJnUFU3c2ZnZ0R3U1E?oc=5",
-            "publisher": "BBC"
-          }
-        ]
-      },
-      {
-        "id": "reynolds-says-no-assumptions-on-eu-talks",
-        "title": "Reynolds says no assumptions on EU talks",
-        "when": "2026-10-27",
-        "place": "Dublin",
-        "lat": 53.35,
-        "lon": -6.26,
-        "what": "Reynolds said there are no assumptions about where the EU talks will go after next month.",
-        "via": "member state caution on talks",
+        "place": "London",
+        "lat": 51.5074,
+        "lon": -0.1278,
+        "what": "After the Brussels summit, Burnham told ministers to avoid backing specific EU options, keeping the government position open at the call-for-talks stage.",
+        "via": "restrained government line",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Reynolds says ‘no assumptions’ on where EU talks will go after next month",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXl2aW90RVJRNW5vaWRHVnNLbUctMHZ2YUNQTnI1Tm1POGYyVDYzUXVqdEt1c05ZbHJ3RVpSN2ZYaGdvOFNBdkpRdnhaY2l4bG1lcDROT09nZVpFMnRrYWpfNjR3VnRqR3dlRk9PTXZWQXFHbWx5ZU5IajlWMWRPeDNXUHRHX2ZiWm9VcTVMeG1PRlRxSHFvZGlVMy02QnB3QWtUWl9OUTUyMWw3dkdlWUQ3ZVVCQ3dZTjVRYTgtZ1ZHX0FqYjZtRHAxNFEtQQ?oc=5",
+            "title": "Burnham tells ministers to avoid backing specific EU options after crunch summit",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmxLREp5dGxpbFNPY01KdE81eDRFYVpaOWczUXpqeS1GTmZkMXBDRUVqbk5RWldIdDl6bms2eHdxb1VkSGNfYWsySGRHZUJzaXRSd3IweDFsVVBLMjNGM0pQTGlBdFRPYlkxUW54bnBIMmt1WXVZeWtGZ3ZsNDNmWERvTkRqcldzWlNONUczSGlWV2o5aHB2RkZ1QWxhLWFneHVuMXdIdUxFaEMyOU9RdERWZFo2UmRCcFJFU0lPTWMzOHBDN1MyajhJbmtscUU3VWJ0amVBcVVNQQ?oc=5",
             "publisher": "The Irish News"
           }
         ]

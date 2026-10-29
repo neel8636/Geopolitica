@@ -225,37 +225,11 @@
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "119018i",
-    "tags": [
-      {
-        "point": "YANTIAN",
-        "effect": "delay",
-        "likelihood": 0.25,
-        "delayDays": [
-          1,
-          2
-        ],
-        "costPct": [
-          0,
-          3
-        ],
-        "why": "Shenzhen hosts the APEC leaders' meeting on 18-19 Nov 2026 with Trump attending, and host cities for summits of this size often impose temporary road and security controls that can slow truck gate-in and pickup at the port, though none have been announced yet.",
-        "action": "Ask your forwarder and Shenzhen trucker whether any truck or traffic restrictions are planned for 16-20 Nov, and move container pickups and gate-ins to before 15 Nov or after 20 Nov.",
-        "sources": [
-          0
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Shenzhen Port crosses 30 million TEU mark three weeks earlier than last year, led by trade with APEC economies",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81dFUzaExzQ3djLWIwQnQ3RWtXUG1nNnl0aUdIakdIZVZPZi02b2k1REEtMkJKaWJoVEctUUlRVWNLSEJhbFlHSmZielRfQzFaZ3VDRks1Y19MX3FLZTlDUWRB?oc=5",
-        "publisher": "Global Times",
-        "published": "2026-10-27T04:28:00.000Z"
-      }
-    ]
+    "hash": "114e5hj",
+    "tags": [],
+    "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
     "at": "2026-10-29T04:08:10.581Z",
@@ -279,42 +253,95 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "i7ky63",
+    "hash": "4pwuo4",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "capacity",
-        "likelihood": 0.85,
+        "likelihood": 0.9,
         "delayDays": [
           2,
-          10
+          7
         ],
         "costPct": [
           10,
           40
         ],
-        "why": "As of the 4 October OPEC+ meeting, Gulf exports through Hormuz are still running at only 60-80% of pre-war levels amid the Iran war, so transit capacity is constrained, with a further OPEC+ meeting on 1 November.",
-        "action": "Ask your forwarder for current war-risk surcharges and Hormuz transit schedules, add 10 days of buffer stock for Gulf-origin or Gulf-bound cargo, and get quotes for alternative routings such as overland from Red Sea or O",
+        "why": "Gulf exports through Hormuz are running at 60-80% of normal as of late October 2026, and drone strikes on Saudi Aramco and Dammam on 28 October and a possible new US strike on Iran after the midterms keep transit constrained and war-risk costs high.",
+        "action": "Ask your forwarder for current war-risk surcharges and sailing schedules on Gulf-bound and Gulf-origin cargo, and add 7 days of buffer stock for anything that transits Hormuz.",
         "sources": [
           0,
-          1
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "surcharge",
+        "likelihood": 0.65,
+        "delayDays": [
+          2,
+          6
+        ],
+        "costPct": [
+          8,
+          25
+        ],
+        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where traffic is running at 60-80% of normal and strikes hit Saudi Gulf targets on 28 October, so vessel calls face schedule gaps and war-risk surcharges.",
+        "action": "Get a quote from your forwarder for routing Jebel Ali cargo via Omani or Red Sea ports with overland trucking, and confirm the cargo insurance covers war-risk.",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "point": "IR_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.4,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          3,
+          10
+        ],
+        "why": "The US is weighing fresh strikes on Iran after the midterms (reported 29 October 2026), so Iranian airspace could close or be avoided on air-freight routes between Europe and Asia.",
+        "action": "Ask your air forwarder to confirm that Europe–Asia routings avoid Iranian airspace, and keep a fallback routing via the Caucasus or Central Asia ready for time-critical shipments.",
+        "sources": [
+          0,
+          2
         ]
       }
     ],
     "headlines": [
       {
+        "title": "Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Midterms",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeUN0OW5fTjQ4Nzh5ZVk3bWUxaU10ZGFPUHpFOVE2eXJSLU95eW1vWktxV3UtMG42U2J5ZlJ1Vk8zbVMzNEk1LVRjZjFGak5hYjZ2cWFpVEl5WlNoYnpxa2dVbk0zU2RCVm9wUHczbmVRcEd6alJpZjVkdFl6SFR5YUNUNGw1Mk9pMWZGZE1CWTlSeXpwY3Y2WG14N0ZjVWI4bHRNRUNJVExHekxNNXFUbGltTHZ4UzhKTGk3M0Y4M0hpazdIcUttRlBabWsya05tM0ZDaXE0ZWJaUTh6MVZYV0hQYlhGbEota0FQbGpMV1RyVXNlXzdpR9IBgAJBVV95cUxPY1VRdkM4QmxGcTIwZUxrdmlHY1BqMENTX2FQWThlOWhaSHlNNTRzMWttNVhOSGNieFNKR2s2azBRbkFmQWJsb1F4a3o4Y1RMWnhZbmtIc0ZPQVZtel95Rm5XZDJCTHdzWWJrQkJXcWdVSm9CdDR0RmlNTjNXUWt0NWN5LUhkZGxtenVTNDduYWtLNlN4eGlFWEdhRC1VYUxDOWtkdkx6emZ4QzNqb0VXYWVKcVpHZTdDZWZ0SzFPTW9qNFhxN1pEMTVIVWpoOG9pRGJLd1UzTXFfLWZrU1ZrdGNNYnZxZi13SGdzTTZxaFVWVHoyRURBU2R0SzItTkdZ?oc=5",
+        "publisher": "NDTV Profit",
+        "published": "2026-10-29T01:33:24.000Z"
+      },
+      {
+        "title": "Oil's War Premium Could Vanish Fast Once a Hormuz Deal Lands, Analysts Warn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUZkQ2VjYmdCNXJlVHF6dmlQRjJsaS1nV2R1M0FnbGE0TWNIenJ4RmtSQ1EtZkxnRG1YTS1iMXhwYk5PSHljSWdfZVp0Y3Q3SWJSY3M4WXdRYXBveDNqaC1TX2N1bU1TUk5KdXBHMWVlU0YwQkJucDVNMFdoeU9mVGhWcEZnS0x2S3N1QWtCWGhPa29Wd1h3TXJGUndzbGRQ?oc=5",
+        "publisher": "Yahoo Finance",
+        "published": "2026-10-29T00:40:00.000Z"
+      },
+      {
+        "title": "Brent crude jumps 4% to $113 as drone strikes hit Saudi Aramco field and Dammam airport",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvQXlBM05aZnk3V1lFUi1iZ0NCRWY5MzA3VXpUaWFZNzVrT2RYN21tUVpUcE12cVlUUkxLd2lBMHJpX25SQkYzZHNrNUlkR2c2Um80TXp5bzRhWDNiUGVOc28zRVZTMHp1cmc?oc=5",
+        "publisher": "Energies Media",
+        "published": "2026-10-28T22:15:15.000Z"
+      },
+      {
         "title": "OPEC Holds Nov Oil Output Target Steady Amid Iran War",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXpscFozN0ZkLURGVzNYR3AyV1dkSlRoR0s1THBWUG5TYmM0aEtHaUlXT0kxN2ItTWFzak10TFhrNHVPbXd1bl8xRUt5bXZmSWQyUVVZbXRhTWJqQW5rQ1oycjRMVTdxNGlrOTd3VldfVVc1VHVWRVY3TGtRaEZFbTRsal8xZGJHSVJmYWU3dWlLXzdwVlZEdA?oc=5",
         "publisher": "THISDAYLIVE",
         "published": "2026-10-28T13:21:00.000Z"
-      },
-      {
-        "title": "OPEC+ expected to hold December oil targets steady as supply disruptions persist",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzZ2bjFUcXo3VHlHejloR1hPWGI4czF6V3RoMUNheTBEM1FqVXRZUkFHeVE2WEUwbklDckY1dDMwZ1Uxems5VVJPY1hxZ0FuOHB0b3NHa1dFSWR1bXl5NTVYOERudXZuX19BSmxIU19ycFFmRkJmXzZ0TkNmNW5KdkV5RmVybDh5UTRfcTItNy1sRVJGanRUTXZNT25ScDFSMlZmMVNxOC1NTGJ3RkhFNXpR?oc=5",
-        "publisher": "Oil & Gas 360",
-        "published": "2026-10-27T21:49:52.000Z"
       }
     ]
   },
@@ -361,81 +388,37 @@
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "7ie7g2",
+    "hash": "1dmu6mi",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "11tudgv",
+    "hash": "irr6ad",
     "tags": [],
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "h1gobt",
-    "tags": [
-      {
-        "point": "LAREDO",
-        "effect": "delay",
-        "likelihood": 0.35,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          3,
-          8
-        ],
-        "why": "A Latin Times headline of 26 Oct 2026 says Mexican truckers walked off the job, which could slow or block cross-border truck pickups and approaches at Nuevo Laredo; the USMCA review itself changes nothing at the crossing.",
-        "action": "Ask your Mexican carrier whether its drivers are affected, hold 3 days of buffer stock for Laredo-routed loads, and line up a backup carrier or a rail booking via the Laredo rail bridge.",
-        "sources": [
-          0
-        ]
-      },
-      {
-        "point": "PHARR",
-        "effect": "delay",
-        "likelihood": 0.25,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          3,
-          7
-        ],
-        "why": "The Mexican truckers' walkout reported on 26 Oct 2026 could disrupt drayage and highway access to Reynosa and slow cross-border freight at Pharr.",
-        "action": "Ask your forwarder for the current status of driver availability on the Reynosa side and pre-file customs entries so trucks can cross as soon as they are available.",
-        "sources": [
-          0
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Mexico's truckers walked off the job today. Here's what breaks first.",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vM0xHTUxGbDZIYk5mbkczRDF0Rm10Y2VqYlRCMWNmMEFaTDFzSG5YSTNiZVlqelpsbjRfOGN4b004NWxhTEpLYmtxcnc4Z3J2S1I1dUZpLW1PczRSalZ5VUdVUjZtSGxBWXZUVmNJYzgydE5NUUVab21vNEk0dkU?oc=5",
-        "publisher": "Latin Times",
-        "published": "2026-10-26T12:51:51.000Z"
-      }
-    ]
+    "hash": "1bsrwwb",
+    "tags": [],
+    "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "ndxvhc",
+    "hash": "1s2ezvp",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-28T23:07:52.038Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "1g0w6pl",
+    "hash": "19ouday",
     "tags": [],
     "headlines": []
   },
@@ -599,9 +582,9 @@
     "headlines": []
   },
   "black-october-ai-cyber-wave-2026": {
-    "at": "2026-10-28T17:07:40.271Z",
+    "at": "2026-10-29T05:08:08.599Z",
     "by": "pipeline",
-    "hash": "1i6ps1l",
+    "hash": "jtk0km",
     "tags": [],
     "headlines": []
   },
