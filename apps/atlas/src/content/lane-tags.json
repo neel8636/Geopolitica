@@ -355,11 +355,55 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-29T01:07:57.113Z",
+    "at": "2026-10-29T08:08:23.634Z",
     "by": "pipeline",
-    "hash": "1ig5uc2",
-    "tags": [],
-    "headlines": []
+    "hash": "1lpipjy",
+    "tags": [
+      {
+        "point": "MXP",
+        "effect": "delay",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "A transport strike is set for Friday 30 Oct 2026 and unions say it will go ahead despite Salvini's order to halt it, so cargo handling and trucking links at Milan Malpensa may be disrupted for a day or two.",
+        "action": "Ask your forwarder to move Malpensa shipments due on 30-31 Oct to 29 Oct or to 2 Nov, and confirm the trucking cut-off times in writing.",
+        "sources": [
+          0
+        ]
+      },
+      {
+        "point": "GENOA",
+        "effect": "delay",
+        "likelihood": 0.25,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "A transport strike called for Friday 30 Oct 2026 is going ahead despite a government order to stop it, which could slow truck and rail pickups and gate operations at Genoa. The headline does not say whether port workers are included.",
+        "action": "Ask your forwarder or terminal whether the 30 Oct strike covers the port gates and rail shuttles, and schedule container pickups for 29 Oct or 2 Nov.",
+        "sources": [
+          0
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Italy's Salvini signs order to halt Friday transport strike as unions vow to go ahead",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckpmOElHMG9xeGdSZkNreURZNW4xWlZ2MEpSaDZUaUdwalVDZngwa2p0WEdtSFVfOFhIUUZoeGp0eV9RbWJRTEsxbFoxbkUyaElUMGYtWHBKRWlORF9HdThRb1VqRWwyTjM4cTc1SFIxeTVRR0ZtbzVPLUVpSHRVRXpLV0FYbzBSVHdSQ0Z4V2JmZXRDRjJMM1kwekh1ZThFNjZYanB5eWEzUXhvTHRaTlh2bzlrUTd6cUxDdk8wcw?oc=5",
+        "publisher": "Wanted in Rome",
+        "published": "2026-10-28T03:31:15.000Z"
+      }
+    ]
   },
   "italy-election-2027": {
     "at": "2026-10-29T04:08:10.581Z",
@@ -446,16 +490,16 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-29T02:07:56.431Z",
+    "at": "2026-10-29T08:08:23.634Z",
     "by": "pipeline",
-    "hash": "bh2hxk",
+    "hash": "qox2hu",
     "tags": [],
     "headlines": []
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-29T02:07:56.431Z",
+    "at": "2026-10-29T08:08:23.634Z",
     "by": "pipeline",
-    "hash": "uyvcu5",
+    "hash": "2bogrt",
     "tags": [],
     "headlines": []
   },
@@ -530,9 +574,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-29T02:07:56.431Z",
+    "at": "2026-10-29T08:08:23.634Z",
     "by": "pipeline",
-    "hash": "18d6pf8",
+    "hash": "h9p7ve",
     "tags": [],
     "headlines": []
   },
