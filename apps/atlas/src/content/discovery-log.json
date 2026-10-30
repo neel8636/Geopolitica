@@ -5,14 +5,6 @@
       "at": "2026-10-28T12:07:03.388Z",
       "verdict": "reject"
     },
-    "149101b2631d": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
-    },
-    "226d32c9d996": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
-    },
     "cbf5e0442f19": {
       "at": "2026-10-26T20:04:33.577Z",
       "verdict": "existing"
@@ -35,10 +27,6 @@
     },
     "a82b46945df8": {
       "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
-    "5888c5be6e23": {
-      "at": "2026-10-26T13:04:15.829Z",
       "verdict": "reject"
     },
     "7dbce69597de": {
@@ -73,18 +61,6 @@
       "at": "2026-10-28T03:06:24.951Z",
       "verdict": "reject"
     },
-    "1dbf271aa6b5": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
-    },
-    "0903a788bdc2": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
-    },
-    "20d9b23b865c": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
-    },
     "38e04f75cb1e": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
@@ -92,10 +68,6 @@
     "971369936a54": {
       "at": "2026-10-27T15:05:39.203Z",
       "verdict": "existing"
-    },
-    "7599e49609f4": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
     },
     "5541bb274a38": {
       "at": "2026-10-27T09:05:13.977Z",
@@ -105,10 +77,6 @@
       "at": "2026-10-26T17:04:18.346Z",
       "verdict": "reject"
     },
-    "7c5e755dd893": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "reject"
-    },
     "ad397c4eed22": {
       "at": "2026-10-26T17:04:18.346Z",
       "verdict": "reject"
@@ -116,70 +84,6 @@
     "f801024f7f71": {
       "at": "2026-10-26T20:04:33.577Z",
       "verdict": "reject"
-    },
-    "343fd4f166b8": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "f9a74a7017a7": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "41267ea40597": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "c737647af5d6": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "66855e4be95a": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "863a44908012": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "6333a388ac31": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "68bbabf3296c": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "16fca335aee2": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "2ec06ddd56b2": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "79e3e3e646b1": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "b26d09abcdb8": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "34dd0e047b64": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "9bc73d0efca0": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "7ee319a2d56c": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
-    },
-    "2540b7686833": {
-      "at": "2026-10-26T13:04:15.829Z",
-      "verdict": "no story"
     },
     "696ffd5db420": {
       "at": "2026-10-26T20:04:33.577Z",
@@ -3488,6 +3392,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T13:10:10.933Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 60 min ago"
+    },
+    {
       "at": "2026-10-30T12:10:07.622Z",
       "screened": 140,
       "accepted": [],
@@ -5124,108 +5037,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 0 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-29T01:07:57.113Z",
-      "screened": 126,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "EU backs away from 'associate member' talks offer to Canada",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Spain high-speed train crash near Toledo kills 68",
-          "reason": "A domestic rail accident with no state-to-state or cross-border effect.",
-          "headlines": 8,
-          "publishers": 4
-        },
-        {
-          "title": "Cruise voyages ended by fuel costs",
-          "reason": "This is a company and human-interest story with no state or policy decision behind it.",
-          "headlines": 4,
-          "publishers": 4
-        },
-        {
-          "title": "Albania fines protesters at violent demonstrations",
-          "reason": "A domestic public-order measure with no cross-border ripple.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Romania extends detention of Calin Georgescu",
-          "reason": "A domestic court case with no effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Indonesian students demand action on wildfires and costs",
-          "reason": "A student protest that is not a nationwide movement contesting state power, with no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Nvidia's Hugging Face deal draws DOJ scrutiny",
-          "reason": "Company news with only a minor antitrust angle and no cross-border policy effect.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "UN General Assembly votes on US embargo of Cuba",
-          "reason": "This is the Cuba-US confrontation already on the map, with the US pushing against Cuba at the UN.",
-          "headlines": 4,
-          "publishers": 3,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "UN experts condemn force against French student protests",
-          "reason": "This is a further development in France's autumn unrest already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "Fed decision and Warsh news conference",
-          "reason": "This covers the Fed rate decision already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "Putin praises Musk after satellite talks",
-          "reason": "This belongs to the existing Starlink and Ukraine story.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "UK Autumn Budget with defence and energy measures",
-          "reason": "This is the UK Budget already on the map.",
-          "headlines": 4,
-          "publishers": 3,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "What a new Israeli government means for the region",
-          "reason": "This is coverage of the Israeli election already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "UN news brief: Iran inspections, Ethiopians fleeing to Kenya",
-          "reason": "The IAEA call for Iran inspections falls under the Gulf war event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

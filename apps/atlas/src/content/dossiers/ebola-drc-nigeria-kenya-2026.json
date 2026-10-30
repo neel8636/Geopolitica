@@ -1,17 +1,17 @@
 {
   "slug": "ebola-drc-nigeria-kenya-2026",
-  "title": "Ebola crosses borders: DR Congo, Nigeria and Kenya",
-  "deck": "An outbreak that is still growing in DR Congo has now reached Nigeria and Kenya, and the two patients may have crossed paths at Uganda's Entebbe airport, so the WHO is calling it 'complex' and airport screening is under pressure.",
-  "updated": "2026-10-23",
+  "title": "Ebola crosses borders: from DR Congo to Nigeria and Kenya",
+  "deck": "A Bundibugyo Ebola outbreak that has passed 10,000 confirmed cases in DR Congo has sent patients to Nigeria and Kenya, and the WHO calls the response 'complex'. Africa is keeping borders open and betting on surveillance, while some states and airlines tighten rules.",
+  "updated": "2026-10-30",
   "status": "developing",
   "region": "DR Congo, Nigeria, Kenya, Uganda",
   "tags": [
     "Ebola",
     "public health",
-    "aviation",
-    "airport screening",
-    "Africa",
-    "outbreak response"
+    "air travel",
+    "borders",
+    "vaccines",
+    "Africa"
   ],
   "readingMinutes": {
     "card": 1,
@@ -21,51 +21,53 @@
   "fuel": [
     {
       "aspect": "displacement",
-      "title": "Nigeria and Kenya patients may have met",
-      "how": "Officials say both patients passed through Entebbe airport on 3 October, so a single transit point may link two distant cases and raises the risk of further spread.",
-      "sourceIndex": 1
+      "title": "DR Congo Ebola cases pass 10,000",
+      "how": "A source outbreak this large, with about 4,900 deaths reported, keeps producing travellers who can carry the virus out of the region.",
+      "sourceIndex": 3
     },
     {
-      "aspect": "displacement",
-      "title": "DR Congo responders stretched as outbreak grows",
-      "how": "The outbreak has reached an eighth DRC province and responders are under pressure, which limits how well it can be stopped at its source.",
-      "sourceIndex": 2
+      "aspect": "politics",
+      "title": "Health ministers keep borders open",
+      "how": "African ministers chose surveillance over travel bans, so people keep moving and detection at airports and roads carries the load.",
+      "sourceIndex": 7
     },
     {
-      "aspect": "displacement",
-      "title": "Virus reaches Nigeria, first case in west",
-      "how": "The WHO says the virus crossed from east Africa to Nigeria, the first case of this outbreak in the west of the continent, which widens the area that needs surveillance.",
-      "sourceIndex": 0
+      "aspect": "trade",
+      "title": "CAR tightens border checks with DR Congo",
+      "how": "Stricter checks slow cross-border movement and trade, and show governments are not all following the open-borders line.",
+      "sourceIndex": 8
+    },
+    {
+      "aspect": "security",
+      "title": "Nurse killed; responders under pressure",
+      "how": "Attacks on and strain among health workers weaken the contact tracing and care that stop the virus spreading.",
+      "sourceIndex": 5
     }
   ],
   "card": {
-    "headline": "Ebola has jumped two borders, and one airport may be the link",
+    "headline": "Ebola has jumped from DR Congo to Nigeria and Kenya, and airports are now the front line",
     "keyNumber": {
-      "value": "8",
-      "label": "DR Congo provinces now affected, per UN News on 22 October",
-      "sourceIndex": 2
+      "value": "10,000+",
+      "label": "confirmed Ebola cases in DR Congo, with about 4,900 deaths reported (28 October)",
+      "sourceIndex": 3
     },
     "impactMeter": 3,
     "forYou": [
       {
         "role": "Travellers",
-        "line": "Expect health screening and possibly new entry rules on routes touching DR Congo, Uganda, Nigeria and Kenya. Check official advice before booking."
+        "line": "Expect health screening at airports and bus stations. Rules differ by country and change quickly, so check before you fly."
       },
       {
-        "role": "Airlines and airports",
-        "line": "Entebbe is now at the centre of contact tracing. Screening and passenger-handling rules are likely to tighten across several states."
+        "role": "Health workers",
+        "line": "Contact tracing and 21-day monitoring are the main tools. Kenya has already released 20 contacts after a full monitoring period."
       },
       {
-        "role": "Health workers and NGOs",
-        "line": "The DR Congo response is already described as under pressure, and two new countries will compete for the same people and supplies."
+        "role": "Business",
+        "line": "Plan for patchy border rules. Some countries are tightening checks even though African health ministers back open borders."
       },
       {
-        "role": "Investors and businesses",
-        "line": "No market data in our sources yet. The exposure is travel, logistics and East and West African operations, mainly through disruption rather than direct cost."
-      },
-      {
-        "role": "Everyone else",
-        "line": "Ebola spreads through contact with the body fluids of sick people, not through casual passing contact. Most people outside the affected areas face very low risk."
+        "role": "Everyone",
+        "line": "The outbreak is huge in DR Congo, but the new cases in Kenya look steadier. Kenya reports 10 days without new cases."
       }
     ],
     "ripple": [
@@ -73,20 +75,24 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Confirmed Ebola cases now sit in DR Congo, Nigeria and Kenya, with the DRC outbreak in an eighth province.",
+            "text": "Confirmed cases pass 10,000 in DR Congo; the WHO urges sustained effort and a UN official reportedly says growth is 'exponential'",
             "sector": "People on the move"
           },
           {
-            "text": "Officials are tracing contacts of two patients who both travelled through Entebbe airport on 3 October.",
-            "sector": "Airport contact"
+            "text": "Nigerian and Kenyan patients may have crossed paths at Uganda's airport, putting transit hubs in the spotlight",
+            "sector": "People on the move"
           },
           {
-            "text": "Responders in DR Congo are under pressure as the outbreak expands.",
-            "sector": "Response capacity"
+            "text": "African health ministers agree to keep borders open and rely on surveillance",
+            "sector": "Politics"
           },
           {
-            "text": "The WHO calls the outbreak 'complex' and notes the first case in the west of the continent.",
-            "sector": "Global health"
+            "text": "The Central African Republic tightens checks on its border with DR Congo",
+            "sector": "Trade and shipping"
+          },
+          {
+            "text": "A nurse is killed in DR Congo; responders are described as under pressure",
+            "sector": "Security"
           }
         ]
       },
@@ -94,16 +100,20 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Airport health screening and travel rules are likely to tighten in several states.",
-            "sector": "Aviation, border control"
-          },
-          {
-            "text": "Nigeria and Kenya must trace and monitor contacts while stretched DRC responders compete for the same staff and supplies (our estimate).",
+            "text": "Nigerian states such as Kano and Anambra deploy surveillance officers at motor parks and train staff",
             "sector": "Health systems"
           },
           {
-            "text": "Some flights, tourism and business trips are likely to be postponed or cancelled on routes through the region (our estimate).",
-            "sector": "Travel, tourism"
+            "text": "Further travel restrictions reported across Africa and worldwide, a patchwork of rules for airlines and travellers",
+            "sector": "Travel"
+          },
+          {
+            "text": "Kenya runs a 21-day contact quarantine and awaits a 42-day countdown; a vaccine trial starts in Congo, but protection is delayed",
+            "sector": "Health systems"
+          },
+          {
+            "text": "Sport schedules wobble: Nigeria's U23 first leg in DR Congo is in doubt",
+            "sector": "Sport"
           }
         ]
       },
@@ -111,16 +121,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "If chains of transmission take hold in big cities, containment becomes slower and more expensive.",
-            "sector": "Public health"
+            "text": "Africa CDC warns the disease could reach the UK and spread like Covid unless preparedness is funded",
+            "sector": "Global health"
           },
           {
-            "text": "Neighbouring states may add border measures that disrupt trade and aid flows (our estimate).",
-            "sector": "Regional trade"
+            "text": "Pressure for emergency funding and vaccine access grows; Russia and DR Congo discuss fast-tracking a vaccine",
+            "sector": "Vaccines and aid"
           },
           {
-            "text": "Donors may be asked to fund a multi-country response, putting pressure on already tight humanitarian budgets (our estimate).",
-            "sector": "Humanitarian funding"
+            "text": "Distrust of authorities may undermine the response; one commentary says Ebola is outrunning Congo's trust faster than its health system",
+            "sector": "Politics"
           }
         ]
       }
@@ -128,86 +138,90 @@
   },
   "brief": {
     "whatHappened": [
-      "An Ebola outbreak that began in DR Congo has spread to Nigeria and Kenya. France 24 reports the WHO warned that Africa faces a 'complex' outbreak after the virus crossed from east Africa to Nigeria, which it describes as the first case in the west of the continent.",
-      "UN News reported on 22 October that the DRC outbreak had reached an eighth province, and that investigators were pursuing all leads to assess the risk of spread in Nigeria. Responders in DR Congo are described as under pressure.",
-      "On 23 October, BBC World reported that officials say the Nigerian and Kenyan patients may have crossed paths at Uganda's Entebbe International Airport. They both travelled through it on 3 October. The material we have gives no case counts, no species of virus and no date for the start of the outbreak."
+      "An Ebola outbreak caused by the Bundibugyo virus has grown in DR Congo, and on 28 October it passed 10,000 confirmed cases and about 4,900 deaths, according to reports quoting the WHO. To our knowledge, earlier Bundibugyo outbreaks were far smaller.",
+      "On 23 October the WHO said Africa faces a 'complex' outbreak after the virus reached Nigeria. Kenya had also recorded a case. Officials told the BBC that the Nigerian and Kenyan patients may have crossed paths at Uganda's airport.",
+      "Since then Kenya has had a calmer week. It reports 10 days with no new cases, released 20 contacts of its first patient after 21 days of monitoring, and is waiting for a 42-day countdown. Nigerian states are screening at motor parks. A vaccine trial has begun in Congo, but vaccines are not yet widely available."
     ],
     "whyItMatters": [
-      "People on the move: the airport link is the main worry. If two patients passed through the same transit hub on the same day, other travellers and airport staff may have been exposed. Ebola's incubation period is up to about 21 days, so the monitoring window for 3 October contacts runs out around 24 October. Officials say the contact is only possible, not proven.",
-      "Response capacity: the outbreak in DR Congo is still growing and responders are described as strained. Every new country adds contact tracing, testing and treatment work, and it competes for the same people and supplies. That makes it harder to put out the fire at its source.",
-      "Geography: Nigeria is the first case of this outbreak in West Africa according to the WHO, as reported by France 24. A virus seen in both eastern and western Africa is harder to track and puts more airports, borders and health systems on alert. Airport screening and travel rules are under pressure in several states.",
-      "Most people are not at risk. Ebola spreads by direct contact with the body fluids of people who are sick, or with their bodies after death, not through casual contact. The real costs are for patients, health workers, families and the travel and trade routes that get disrupted by fear and rules."
+      "People on the move: the source outbreak is large and growing, and a UN official is reported to call it exponential. Every infected traveller can carry the virus through a hub such as Uganda's airport. The possible link between the Nigerian and Kenyan patients shows how quickly one hub can touch two countries.",
+      "Politics: African health ministers agreed to keep borders open and rely on surveillance instead of bans. That protects trade and movement, but it puts weight on screening, contact tracing and public trust. A Congo commentary warns that trust is falling faster than the health system can cope.",
+      "Trade and shipping: not everyone is following the same line. The Central African Republic has tightened border checks with DR Congo, and travel industry reports describe more restrictions across Africa and worldwide. A patchwork of rules is hard for airlines, truckers and travellers to plan around.",
+      "Security: a nurse was killed in DR Congo and the UN says responders are under pressure. Attacks, fear and fatigue reduce contact tracing and care, which are the things that actually stop an outbreak. The Africa CDC head warns of wider spread unless funding rises."
     ],
     "winners": [
       {
-        "who": "Diagnostics, protective equipment and infection-control suppliers",
-        "why": "Outbreak response typically raises demand for tests, gloves, gowns and isolation supplies. This is our estimate, not a figure in the sources."
+        "who": "Surveillance and diagnostics providers",
+        "why": "Screening at airports, bus stations and motor parks creates demand for testing, protective gear and training."
       },
       {
-        "who": "Countries with fast contact tracing and clear screening",
-        "why": "Early detection is the best defence against a larger outbreak. Nations that can trace contacts quickly are likelier to keep clusters small."
+        "who": "Vaccine developers and trial sites",
+        "why": "A trial has started in Congo and Russia and DR Congo are discussing fast-tracking registration of a vaccine."
+      },
+      {
+        "who": "Kenya's health authorities",
+        "why": "Africa CDC commended Kenya's containment, and the country reports 10 days without new cases."
       }
     ],
     "losers": [
       {
-        "who": "Patients and families in DR Congo, Nigeria and Kenya",
-        "why": "Infection and death are the first cost, along with quarantine and stigma. The sources give no figures."
+        "who": "People in eastern DR Congo",
+        "why": "They carry most of the burden: over 10,000 confirmed cases, about 4,900 deaths and strained responders."
       },
       {
-        "who": "Health workers and responders in DR Congo",
-        "why": "UN News says they are under pressure as the outbreak expands, and health workers are at higher risk of infection in any Ebola response."
+        "who": "Health workers",
+        "why": "A nurse was killed and a doctor died of Ebola, according to Africa CDC reports."
       },
       {
-        "who": "Airlines, airports and travel businesses on affected routes",
-        "why": "New screening and entry rules add cost and friction, and some travellers will cancel (our estimate)."
+        "who": "Airlines, travel firms and cross-border traders",
+        "why": "New restrictions and extra checks add cost and uncertainty, and the rules differ by country."
       },
       {
-        "who": "Entebbe airport and Uganda's transit trade",
-        "why": "The airport is now named in contact tracing, which could dent its reputation as a hub even if the link is never proven."
+        "who": "Sport and event organisers",
+        "why": "Nigeria's U23 match in DR Congo is in doubt over the Ebola scare."
       }
     ],
     "whatsNext": [
-      "Around 24 October: 21 days after the 3 October Entebbe transit. If no new linked cases appear in that window, the airport scare eases. New linked cases would signal a wider chain (estimate, based on Ebola's usual incubation period).",
-      "Coming days: more detail from Nigeria, Kenya and Uganda on contact tracing and any new cases. Several states may announce screening or entry rules.",
-      "Coming weeks: whether the DRC outbreak spreads to further provinces and whether responders get more staff and funding.",
-      "Further out: Ebola outbreaks are normally declared over only after 42 days with no new cases, so this one is unlikely to end before the new year (our estimate)."
+      "11 November: Kenya targets the release of its remaining Ebola contacts, if no new cases appear.",
+      "Kenya awaits a 42-day countdown, the usual way to declare a chain of transmission over. Timing depends on the date of the last case.",
+      "Weeks ahead: the new vaccine trial in Congo, and talks on fast-tracking vaccine registration.",
+      "Ongoing: case counts in DR Congo, any new case in Nigeria, Uganda or a fifth country, and whether more states copy the Central African Republic's border checks."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what do you think is the most likely path over the next two months?",
+      "question": "Before you read the scenarios: what is the most likely path over the next three months?",
       "options": [
-        "Nigeria and Kenya contain their cases and the outbreak stays mostly in DR Congo",
-        "Slow spread to a few more countries in the region",
-        "Sustained transmission in large cities outside DR Congo",
-        "Cases appear on other continents"
+        "Spillovers stay contained to a few imported cases",
+        "More African countries report cases",
+        "A major city outbreak outside DR Congo",
+        "A case turns up outside Africa"
       ],
       "answerIndex": 0,
-      "explanation": "Our base case, at about 45%, is that Nigeria and Kenya contain their cases and the outbreak stays centred on DR Congo, but the risk of slow regional spread is large at about 35%. This is judgement, not a sourced forecast, and the material we used has no case counts."
+      "explanation": "Our base case, at about 45%, is that Nigeria and Kenya stay contained while DR Congo's outbreak keeps growing. Kenya's quiet run and Nigeria's screening support it. Further African spread is next at about 35%. All probabilities are author judgement."
     },
     "recap": [
       {
-        "question": "Where did officials say the Nigerian and Kenyan patients may have crossed paths?",
+        "question": "Which virus is behind the outbreak?",
         "options": [
-          "Lagos airport",
-          "Entebbe International Airport in Uganda",
-          "Nairobi airport"
+          "Bundibugyo",
+          "Marburg",
+          "Lassa"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did African health ministers agree?",
+        "options": [
+          "Close borders for 42 days",
+          "Keep borders open and focus on surveillance",
+          "Ban all flights from DR Congo"
         ],
         "answerIndex": 1
       },
       {
-        "question": "How many DR Congo provinces had the outbreak reached by 22 October, per UN News?",
+        "question": "Where may the Nigerian and Kenyan patients have crossed paths?",
         "options": [
-          "Three",
-          "Five",
-          "Eight"
-        ],
-        "answerIndex": 2
-      },
-      {
-        "question": "What did the WHO call the outbreak?",
-        "options": [
-          "Under control",
-          "Complex",
-          "Seasonal"
+          "Kinshasa airport",
+          "Uganda's airport",
+          "Lagos motor park"
         ],
         "answerIndex": 1
       }
@@ -216,54 +230,60 @@
   "deep": {
     "timeline": [
       {
-        "date": "2026-10-03",
-        "title": "Both patients travel through Entebbe",
-        "detail": "Officials say the Nigerian and Kenyan Ebola patients both travelled through Entebbe International Airport on 3 October. Whether they actually met is unconfirmed.",
-        "sourceIndex": 1,
-        "turning": true
+        "date": "2026-05",
+        "title": "MSF's Ituri treatment centre starts treating confirmed cases",
+        "detail": "Approximate. MSF later said its centre had no confirmed cases under treatment for the first time since May, which suggests the outbreak was already running by then.",
+        "sourceIndex": 10
+      },
+      {
+        "date": "2026-08-17",
+        "title": "Guardian explainer on an Ebola outbreak in DR Congo and Uganda",
+        "detail": "The article's link says the WHO described an outbreak in both countries. We rely only on that headline-level detail.",
+        "sourceIndex": 6
       },
       {
         "date": "2026-10-22",
-        "title": "Outbreak reaches an eighth DRC province",
-        "detail": "UN News reports the outbreak has reached an eighth province of DR Congo and that responders are under pressure.",
+        "title": "Responders under pressure as outbreak expands",
+        "detail": "UN News reports strain on Ebola responders in DR Congo as the outbreak widens.",
         "sourceIndex": 2
       },
       {
-        "date": "2026-10-22",
-        "title": "Investigators chase leads on Nigeria",
-        "detail": "UN News says investigators pursued all leads to assess the risk of the disease spreading in Nigeria.",
-        "sourceIndex": 2
-      },
-      {
-        "date": "2026-10-22",
-        "title": "WHO warns of a 'complex' outbreak",
-        "detail": "France 24 reports that the WHO said on Thursday that Africa faces a complex outbreak after the virus crossed from east Africa to Nigeria.",
+        "date": "2026-10-23",
+        "title": "WHO calls outbreak 'complex' after spread to Nigeria",
+        "detail": "Kenya has also reported a case. Officials say the Nigerian and Kenyan patients may have crossed paths at Uganda's airport.",
         "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-10-22",
-        "title": "First case of this outbreak in West Africa",
-        "detail": "France 24 describes the Nigerian case as the first in the west of the continent. The exact date of confirmation is not given in our material.",
-        "sourceIndex": 0
+        "date": "2026-10-26",
+        "title": "Nurse killed in DR Congo",
+        "detail": "The UN Ebola coordinator and WHO head condemn the killing of a nurse working to stop the disease.",
+        "sourceIndex": 5
       },
       {
-        "date": "2026-10-23",
-        "title": "Kenya also reports a case",
-        "detail": "The BBC and the event summary describe a Kenyan patient alongside the Nigerian one. The date of confirmation is not stated in our sources.",
-        "sourceIndex": 1
+        "date": "2026-10-27",
+        "title": "20 Kenyan contacts released from quarantine",
+        "detail": "They finished a mandatory 21-day monitoring period after Kenya's first Bundibugyo case.",
+        "sourceIndex": 4
       },
       {
-        "date": "2026-10-23",
-        "title": "Officials link the two cases to Entebbe",
-        "detail": "BBC World reports that officials say the patients may have crossed paths at the airport, which raises the risk of further spread.",
-        "sourceIndex": 1,
+        "date": "2026-10-28",
+        "title": "DR Congo passes 10,000 confirmed cases",
+        "detail": "The WHO urges sustained efforts. The same day Africa CDC's Jean Kaseya warns the outbreak could reach the UK without more funding.",
+        "sourceIndex": 3,
         "turning": true
       },
       {
-        "date": "2026-10-24",
-        "title": "21 days since the Entebbe transit (estimate)",
-        "detail": "Ebola's incubation period is up to about 21 days, so contacts exposed on 3 October should have passed the usual monitoring window by now if no one was infected. This is an estimate, not an announced milestone."
+        "date": "2026-10-29",
+        "title": "Ministers keep borders open; CAR tightens checks",
+        "detail": "African health ministers favour surveillance over travel restrictions. The Central African Republic tightens border checks with DR Congo. A DW headline quotes the UN saying the outbreak is 'growing exponentially'.",
+        "sourceIndex": 7
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Vaccine trial begins in Congo; Kenya reports a quiet spell",
+        "detail": "Reports say vaccines are not yet widely available. Kenya has gone 10 days without new cases and targets 11 November to release contacts. Kano is deploying surveillance officers at motor parks.",
+        "sourceIndex": 9
       }
     ],
     "causes": [
@@ -272,44 +292,48 @@
         "when": "Years in the making",
         "causes": [
           {
-            "name": "Fragile health response in eastern DR Congo",
-            "detail": "UN News says responders are under pressure as the outbreak expands, which suggests limited capacity to find and isolate cases early."
+            "name": "Fragile health systems",
+            "detail": "Eastern DR Congo has long had limited health capacity; responders are described as stretched."
           },
           {
-            "name": "Busy regional air links",
-            "detail": "Hubs such as Entebbe connect east, central and west Africa, so a patient can cross the continent in a day or two (general knowledge)."
+            "name": "Insecurity and distrust",
+            "detail": "A nurse was killed, and commentary says Ebola is outrunning Congo's trust faster than its health system."
+          },
+          {
+            "name": "Busy air and road links",
+            "detail": "Hubs like Uganda's airport and motor parks in Nigeria move many people between countries each day."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "Early to mid October 2026",
+        "when": "2026",
         "causes": [
           {
-            "name": "Outbreak spreads within DR Congo",
-            "detail": "The outbreak has reached an eighth province, which increases the number of people who might travel while infected or in the incubation period."
+            "name": "Bundibugyo outbreak in DR Congo",
+            "detail": "Over 10,000 confirmed cases and about 4,900 deaths. To our knowledge this is far larger than any earlier Bundibugyo outbreak."
           },
           {
-            "name": "Airport transit on 3 October",
-            "detail": "Both the Nigerian and Kenyan patients passed through Entebbe on 3 October, according to officials."
+            "name": "No widely available vaccine",
+            "detail": "A trial has begun, but protection is delayed; this is our understanding of the Bundibugyo strain, not a number in the sources."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "Ongoing",
+        "when": "October 2026",
         "causes": [
           {
-            "name": "Strained responders",
-            "detail": "UN News reports that responders are under pressure, which slows tracing and isolation at the source."
+            "name": "Travel through a shared hub",
+            "detail": "Patients now in Nigeria and Kenya may have crossed paths at Uganda's airport."
           },
           {
-            "name": "Possible contact between patients",
-            "detail": "Officials say the patients may have crossed paths at the airport, which raises the risk of further spread."
+            "name": "Funding gap",
+            "detail": "Africa CDC says the disease could spread like Covid unless funding for preparedness and treatment is secured."
           },
           {
-            "name": "Uncertainty about the chain",
-            "detail": "The WHO calls the outbreak complex, which implies that the links between cases are not yet clear."
+            "name": "Mixed border policy",
+            "detail": "Ministers say keep borders open, while the Central African Republic tightens checks and travel firms report new restrictions."
           }
         ]
       }
@@ -317,254 +341,276 @@
     "stakeholders": [
       {
         "name": "World Health Organization",
-        "role": "Global coordinator and alarm-raiser",
-        "wants": "Stop the outbreak spreading further and keep borders from closing without good reason",
-        "leverage": "Technical guidance, public warnings, and coordination of funding and supplies",
-        "likelyMove": "Keep describing the outbreak as complex, press for contact tracing and screening, and discourage blanket travel bans"
+        "role": "Global coordinator",
+        "wants": "Contain spread and sustain the response",
+        "leverage": "Declarations, technical guidance, trial coordination",
+        "likelyMove": "Keep calling for sustained effort and argue against blanket travel bans"
       },
       {
-        "name": "DR Congo health authorities and responders",
-        "role": "Frontline of the outbreak",
-        "wants": "More staff, supplies and security to reach affected provinces",
-        "leverage": "Local knowledge and direct access to cases",
-        "likelyMove": "Appeal for more help as the outbreak reaches new provinces"
+        "name": "Africa CDC (Jean Kaseya)",
+        "role": "Continental health body",
+        "wants": "Funding and preparedness across Africa",
+        "leverage": "Public warnings, support to states such as Kenya",
+        "likelyMove": "Press donors, back surveillance over bans"
       },
       {
-        "name": "Nigerian health authorities",
-        "role": "Managing the first case in West Africa",
-        "wants": "Stop any local chain of transmission before it takes hold in a large city",
-        "leverage": "Contact tracing, isolation units and airport controls",
-        "likelyMove": "Tighten screening and publish updates on contacts under monitoring"
+        "name": "DR Congo government and responders (including MSF)",
+        "role": "Source outbreak",
+        "wants": "Break chains of transmission and win trust",
+        "leverage": "Control of the response; vaccine registration talks with Russia",
+        "likelyMove": "Expand treatment, vaccine trials and community outreach"
       },
       {
-        "name": "Kenyan health authorities",
-        "role": "Managing a case linked to Entebbe",
-        "wants": "Contain the case and avoid disruption to airlines and tourism",
-        "leverage": "Airport screening and a major regional aviation hub at Nairobi (general knowledge)",
-        "likelyMove": "Trace passengers and contacts and coordinate with Uganda"
+        "name": "Nigerian federal and state authorities",
+        "role": "Imported-case response",
+        "wants": "No local spread",
+        "leverage": "Surveillance at motor parks; worker training in Kano and Anambra",
+        "likelyMove": "Heighten screening and contact tracing"
       },
       {
-        "name": "Uganda and Entebbe airport",
-        "role": "Transit point named by officials",
-        "wants": "Avoid being blamed for spread and keep the hub open",
-        "leverage": "Passenger records and the ability to run screening at a key regional gateway",
-        "likelyMove": "Share passenger information and strengthen screening"
+        "name": "Kenya's Ministry of Health",
+        "role": "Imported-case response",
+        "wants": "Declare its outbreak over",
+        "leverage": "Contact quarantine and the 42-day countdown",
+        "likelyMove": "Release contacts on schedule if no new cases arise, as targeted on 11 November"
       },
       {
-        "name": "Airlines and airport operators",
-        "role": "Carry travellers through the affected region",
-        "wants": "Clear, consistent rules and minimal disruption",
-        "leverage": "Passenger lists and operational control of boarding and screening",
-        "likelyMove": "Comply with new screening requirements and adjust schedules if demand falls (estimate)"
+        "name": "Uganda's airport and health authorities",
+        "role": "Transit hub",
+        "wants": "Avoid being seen as a spread point",
+        "leverage": "Airport screening and passenger tracing",
+        "likelyMove": "Review screening and share traveller data"
+      },
+      {
+        "name": "Neighbours such as the Central African Republic",
+        "role": "Border states",
+        "wants": "Keep the virus out",
+        "leverage": "Border checks",
+        "likelyMove": "Tighten checks, possibly beyond what the ministers agreed"
       }
     ],
     "sectors": [
       {
-        "sector": "Aviation and airports",
-        "direction": "mixed",
+        "sector": "Air travel and airports",
+        "direction": "down",
         "size": 2,
-        "why": "Screening costs and possible demand drops on affected routes, but no flight cancellation data appears in our sources."
+        "why": "Hubs like Uganda's airport are under pressure and more screening and restrictions are reported."
       },
       {
-        "sector": "Public health systems in DR Congo, Nigeria and Kenya",
-        "direction": "down",
+        "sector": "Health systems and responders",
+        "direction": "mixed",
         "size": 3,
-        "why": "Responders in DR Congo are already under pressure and two more countries now need tracing and isolation."
+        "why": "Demand surges; responders are stretched and attacked, but quiet spells such as Kenya's and MSF's Ituri discharges show progress."
       },
       {
-        "sector": "Diagnostics and protective equipment",
-        "direction": "up",
-        "size": 1,
-        "why": "Outbreak response normally raises demand for tests and protective supplies. This is our estimate."
-      },
-      {
-        "sector": "Tourism and hospitality in East Africa",
+        "sector": "Cross-border trade and road transport",
         "direction": "down",
         "size": 2,
-        "why": "Travellers may cancel on routes through Entebbe and Nairobi, even though most people are at very low risk (estimate)."
+        "why": "Tighter checks, such as the Central African Republic's, slow goods and passengers."
       },
       {
-        "sector": "Cross-border trade and logistics",
-        "direction": "mixed",
+        "sector": "Vaccines and diagnostics",
+        "direction": "up",
+        "size": 2,
+        "why": "A trial has started and Russia and DR Congo discuss fast-tracking registration."
+      },
+      {
+        "sector": "Travel and tourism",
+        "direction": "down",
         "size": 1,
-        "why": "Extra checks can slow people and freight, but there is no evidence yet of border closures."
+        "why": "Industry reports note more restrictions across Africa and worldwide."
+      },
+      {
+        "sector": "Sport and events",
+        "direction": "down",
+        "size": 1,
+        "why": "Nigeria's U23 first leg in DR Congo is in doubt."
       },
       {
         "sector": "Humanitarian funding",
         "direction": "up",
         "size": 2,
-        "why": "A multi-country response will need more money and supplies, but so far we have no figures on appeals."
+        "why": "Africa CDC says funding is needed to prepare and treat, and the WHO urges sustained effort."
       }
     ],
     "dailyLife": [
       {
-        "item": "Air travel",
-        "effect": "Expect temperature checks, health questionnaires and possibly quarantine or entry rules on routes touching the affected countries. Rules differ by state, so check before you fly.",
+        "item": "Flying through East Africa",
+        "effect": "Expect health screening and possible questions about recent travel; transit through hubs like Uganda is under watch.",
         "sourceIndex": 1
       },
       {
-        "item": "Hospitals and clinics in the affected countries",
-        "effect": "Staff will screen feverish patients more carefully, and some services may be reorganised to keep suspected cases separate (estimate)."
+        "item": "Bus and motor park travel in Nigeria",
+        "effect": "Kano is deploying surveillance officers at motor parks, so expect temperature checks and questions.",
+        "sourceIndex": 12
       },
       {
-        "item": "Community life near affected areas",
-        "effect": "Funerals, markets and gatherings are often restricted in Ebola response. We have no confirmation yet of such rules in this outbreak."
+        "item": "Being a contact of a case",
+        "effect": "In Kenya, contacts face 21 days of mandatory monitoring, then release; the next release target is 11 November.",
+        "sourceIndex": 11
       },
       {
-        "item": "Everyday risk",
-        "effect": "Ebola spreads through direct contact with body fluids of sick people. People far from affected areas face very low risk (general knowledge)."
+        "item": "Football and events",
+        "effect": "Nigeria's U23 match against DR Congo is in doubt."
+      },
+      {
+        "item": "Crossing the Congo-CAR border",
+        "effect": "Checks are tighter, so expect delays.",
+        "sourceIndex": 8
       }
     ],
     "scenarios": [
       {
-        "name": "Contained cluster",
+        "name": "Contained spillovers",
         "probability": 45,
-        "looksLike": "Contacts of the Nigerian and Kenyan patients are traced and monitored, no local chains develop, and the outbreak stays mainly in DR Congo.",
+        "looksLike": "Nigeria and Kenya record few or no further cases. Kenya completes its 42-day countdown. DR Congo's outbreak stays large but responders gain ground.",
         "signposts": [
-          "No new cases among contacts after about 24 October",
-          "Steady contact-tracing updates from Nigeria and Kenya",
-          "DRC provinces affected stop growing"
+          "Kenya's quiet spell lasts",
+          "No new Nigerian cases",
+          "More discharges like MSF's in Ituri"
         ],
-        "effectOnWorld": "Screening stays tight for weeks but travel recovers. Attention returns to the DRC response."
+        "effectOnWorld": "Travel rules ease slowly. Attention returns to funding and vaccines for DR Congo."
       },
       {
-        "name": "Slow regional spread",
+        "name": "Further African spread",
         "probability": 35,
-        "looksLike": "A few more countries confirm cases, mostly imported, and DRC adds more provinces. Responders stay stretched.",
+        "looksLike": "One or more additional countries report imported cases, probably through air hubs or border crossings. More states copy the Central African Republic's checks.",
         "signposts": [
-          "Cases in Uganda or another neighbour",
-          "Further provinces in DR Congo",
-          "More states announce screening or entry rules"
+          "A new country reports a case",
+          "Border closures despite the ministers' agreement",
+          "Transit hubs add restrictions"
         ],
-        "effectOnWorld": "A multi-country emergency that lasts months, with rising costs for travel and aid."
+        "effectOnWorld": "The patchwork of rules becomes costly for trade and travel. Donors face louder funding calls."
       },
       {
-        "name": "Urban amplification",
-        "probability": 15,
-        "looksLike": "Transmission takes hold in a large city, in Nigeria, Kenya or elsewhere, and the number of cases grows faster than tracing can follow.",
+        "name": "City outbreak outside DR Congo",
+        "probability": 12,
+        "looksLike": "Local transmission takes hold in a large city such as Lagos, Kano or Nairobi, overwhelming contact tracing.",
         "signposts": [
-          "Cases with no known link to earlier patients",
-          "Health workers infected",
-          "Hospitals overwhelmed"
+          "Cases with no known link",
+          "Health worker infections outside DR Congo"
         ],
-        "effectOnWorld": "Heavy disruption to flights and trade, a bigger international funding drive and political pressure for border restrictions."
+        "effectOnWorld": "Strong pressure for travel curbs and emergency funding. Economic hits to hosts are larger."
       },
       {
-        "name": "Spread to other continents",
-        "probability": 5,
-        "looksLike": "An infected traveller is detected outside Africa, prompting strict new rules in several regions.",
+        "name": "Case outside Africa",
+        "probability": 8,
+        "looksLike": "An imported or medevac case appears in Europe or elsewhere, as Africa CDC has warned about the UK.",
         "signposts": [
-          "Cases found at airports outside Africa",
-          "Wide travel bans despite WHO advice"
+          "Travel-linked cases in a major hub",
+          "New airline suspensions"
         ],
-        "effectOnWorld": "Global attention and market and travel effects far larger than the case numbers warrant."
+        "effectOnWorld": "Political attention and funding jump. Screening at airports in rich countries expands."
       }
     ],
     "predictions": [
       {
-        "text": "Nigeria will report fewer than 10 additional confirmed cases by 30 November. Probability 0.7, our judgement.",
-        "horizon": "By 30 November 2026",
-        "resolves": "2026-11-30"
-      },
-      {
-        "text": "At least one more country, counting Uganda, will confirm a case beyond DR Congo, Nigeria and Kenya. Probability 0.4, our judgement.",
+        "text": "Kenya will complete its 42-day Ebola countdown with no new cases and declare its outbreak over. Estimated, because the start date of the countdown is not given. Probability 0.5.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "The outbreak in DR Congo will be reported in more than eight provinces. Probability 0.6, our judgement.",
+        "text": "DR Congo will report at least 12,000 confirmed Ebola cases. Rough estimate from the pace so far. Probability 0.7.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Several states will announce new airport health screening or entry rules for travellers from affected countries. Probability 0.75, our judgement.",
-        "horizon": "By 15 November 2026",
-        "resolves": "2026-11-15"
+        "text": "A country other than DR Congo, Uganda, Nigeria and Kenya will report a confirmed case. Probability 0.35.",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
       },
       {
-        "text": "The DRC outbreak will not be declared over, since that normally needs 42 days without new cases. Probability 0.95, our judgement.",
+        "text": "African states will not adopt a continental travel ban; the open-borders line from health ministers will hold, though some states keep tighter checks. Probability 0.75.",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
+      },
+      {
+        "text": "A confirmed Ebola case will be reported in Europe or the UK. Probability 0.07.",
+        "horizon": "By 30 April 2027",
+        "resolves": "2027-04-30"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Review travel policies for staff moving through DR Congo, Uganda, Nigeria and Kenya, and follow official health advice.",
-          "Plan for flight disruption and longer airport processing times.",
-          "Set out a clear procedure for staff who feel unwell after travel, including who to call and where to be tested.",
-          "Check suppliers and logistics with exposure in the region."
+          "Track country-by-country entry rules and screening before sending staff or freight to or through DR Congo, Uganda, Nigeria or Kenya.",
+          "Add buffer time to cross-border routes where checks have tightened, such as the Congo-Central African Republic border.",
+          "Prepare a medical and evacuation plan for staff in affected regions."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat this as a risk to travel, tourism and regional operations, not as a global market event, unless cases appear outside Africa.",
-          "Watch for case counts, new screening rules and WHO statements, since these drive the scale of any disruption.",
-          "Do not rely on single-source claims about numbers; our sources contain none."
+          "Watch the number of new countries reporting cases and any airline suspensions, which move travel and trade exposure.",
+          "Treat funding announcements and vaccine registration news as signals of how fast the response can scale.",
+          "Avoid assuming a quick end: DR Congo's outbreak is still large even if Kenya is quiet."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Follow national health authority advice rather than social media rumours.",
-          "If you travel to or from affected countries, check entry rules and symptoms advice before and after the trip.",
-          "Ebola spreads through contact with body fluids of sick people; avoid contact with anyone who is ill and seek care if unwell after travel."
+          "Before travelling, check official health advisories from your own government and the destination.",
+          "Report fever after travel to a health service and mention where you have been.",
+          "Follow official updates rather than social media rumours about cases."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Share passenger and contact-tracing data quickly across borders, especially for transit hubs such as Entebbe.",
-          "Apply screening consistently and avoid blanket travel bans, which the WHO has generally advised against (general knowledge).",
-          "Fund and staff the DRC response, since stopping the outbreak at its source is the cheapest option.",
-          "Communicate clearly to reduce stigma against travellers and health workers."
+          "Back surveillance, contact tracing and worker safety, as the ministers agreed, rather than blanket bans.",
+          "Fund preparedness now; Africa CDC warns that without money the disease could spread widely.",
+          "Share traveller data and screening practice between hub airports such as Uganda's, Nairobi and Lagos.",
+          "Protect health workers and invest in community trust."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "West Africa Ebola epidemic, including Nigeria",
+        "event": "West Africa Ebola epidemic",
         "year": "2014-2016",
-        "whatFollowed": "A traveller brought Ebola to Lagos in 2014. Nigeria's response kept it to a small cluster of cases (about 20, from general knowledge) while neighbouring countries suffered large epidemics."
+        "whatFollowed": "About 28,000 cases and 11,000 deaths across Guinea, Liberia and Sierra Leone, with a few exported cases. Delayed response and mistrust drove its size. Figures are from general knowledge."
       },
       {
-        "event": "Kivu Ebola outbreak in DR Congo",
+        "event": "Nigeria's Ebola outbreak, imported by air traveller",
+        "year": "2014",
+        "whatFollowed": "Nigeria contained a case that came through Lagos airport to a small number of cases through rapid contact tracing. Shows imported cases can be stopped in a large city. From general knowledge."
+      },
+      {
+        "event": "Kivu and Ituri Ebola outbreak in DR Congo",
         "year": "2018-2020",
-        "whatFollowed": "A long outbreak in a conflict-affected region that lasted about two years and caused thousands of cases (general knowledge). Insecurity and community mistrust slowed the response."
-      },
-      {
-        "event": "Uganda Sudan-virus Ebola outbreak",
-        "year": "2022-2023",
-        "whatFollowed": "Uganda contained its outbreak in about four months using tracing and isolation (general knowledge, approximate). It shows that a determined response can end an outbreak without vaccine rollout."
+        "whatFollowed": "About 3,500 cases and over 2,000 deaths amid armed conflict, attacks on responders and community distrust, but a licensed vaccine was deployed. Here the strain is different and vaccines are still in trial. From general knowledge."
       }
     ],
     "watch": [
       {
-        "date": "2026-10-24",
-        "title": "21 days since the Entebbe transit",
-        "why": "Contacts exposed on 3 October should pass the usual monitoring window; new linked cases would suggest a wider chain (estimate)."
+        "date": "2026-11-11",
+        "title": "Kenya contact release target",
+        "why": "A clean release supports the view that Kenya's spillover is contained."
       },
       {
-        "title": "Case counts in Nigeria and Kenya",
-        "why": "Our sources give no totals; rising numbers or cases with unknown links would mark a shift to Slow regional spread or worse."
+        "title": "Kenya's 42-day countdown",
+        "why": "Completion would let Kenya declare its outbreak over; the start date is not in the sources."
       },
       {
-        "title": "Uganda's passenger tracing",
-        "why": "The airport link is described as possible, not proven, so any confirmation or denial changes the risk picture."
+        "title": "New cases in Nigeria",
+        "why": "Kano and Anambra preparations suggest concern; any local transmission would change the outlook."
       },
       {
-        "title": "Provinces affected in DR Congo",
-        "why": "The outbreak has reached eight; each new province stretches responders further."
+        "title": "DR Congo case count",
+        "why": "Passing 10,000 with reports of exponential growth sets the pressure on everything else."
       },
       {
-        "title": "Airport screening and entry rules",
-        "why": "Which states add or drop measures shows how seriously governments rate the risk and how much travel will be disrupted."
+        "title": "Vaccine trial and registration news",
+        "why": "The trial has started and Russia is in talks over registration; results decide how fast protection arrives."
       },
       {
-        "title": "Funding and staffing appeals for the response",
-        "why": "UN News says responders are under pressure; whether help arrives decides whether the outbreak can be turned back at its source."
+        "title": "Border and flight rules",
+        "why": "The Central African Republic has tightened checks; more states following would erode the open-borders line."
+      },
+      {
+        "title": "Responder safety",
+        "why": "A nurse was killed and a doctor died; further attacks or infections would hit the response."
       }
     ]
   },
@@ -587,59 +633,119 @@
         "url": "https://news.un.org/feed/view/en/story/2026/10/1168647",
         "publisher": "UN News",
         "date": "2026-10-22"
+      },
+      {
+        "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
+        "publisher": "UN News",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine 'hope' in DR Congo",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+        "publisher": "UN News",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+        "publisher": "UN News",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Africa's 'unprecedented' Ebola outbreak could reach UK, says top health official",
+        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+        "publisher": "The Guardian",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "African health ministers agree to keep borders open amid Ebola spread",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdDdqZW1rcEptRWV3aVdzbFBIcjhQTDNobWdJWE5ubHVHdkYzeG1hdDZVYk9DNHN3U2dqNEhmRk5WQVA4aUtnSl9QRnJGUXpiRjI5dFpNRDBSUQ?oc=5",
+        "publisher": "TRT Afrika",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "CAR tightens border checks with DR Congo as Ebola cases rise",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2lCeTYxUTZKc2JDWEhJVW4yOW95V2V4dE1JZ0Nvb3FGRWZvc2dDLUFyNjJwMFppVHd1eDNhdV9Za0d3T0VoVUZmd0lvMDYwNk5Pc0lEQVJUR1Vqb0ZfYWtpTEpONUVWUnl3U0ZPSERjYS1xZEFYRy1hTHlzd1JKRllvVU5WYm80RzFCeWNVcXRCSWRGQWNVamRn?oc=5",
+        "publisher": "Channels Television",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Ebola Vaccine Trial Begins in Congo as Bundibugyo Outbreak Tops 10,000 Confirmed Cases and 4,900 Deaths",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlVsQnBuZlpRdko0RFA5QU9sTHVSR3NDNzdxcm5LMXdjdEZENGN6X1Q5WjJ5S1BZQ0FhRERlZG9hTXlKc0hVU1hfVE9PMk5UR19ieHRSLXNpYzc1eVZsLWdfSmlEdEg2Ulh4LUZ1aUlJcUp0M0dfak5KR2kwUmxnbnpVUV9Ddw?oc=5",
+        "publisher": "Medical Daily",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "DR Congo: MSF celebrates Ebola patient discharges in Ituri province",
+        "url": "https://www.euronews.com/video/2026/10/30/dr-congo-msf-celebrates-ebola-patient-discharges-in-ituri-province",
+        "publisher": "Euronews",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Kenya targets November 11 release of Ebola contacts as outbreak stabilises",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlk3ZjZBa1drSkViMUFJa2tNTnlVblJhdk5fU1VIcUZ4WkJIX1ptMTkxRUw5c2xqcjNteFRaTDRfTFpEUDdQQ3hmZUhianlpS2ZURmZBT2xtbEU0b2FweU1kTHpCVGYyWGp6NzJOdGhYVnFpWDcwMTB3dTRWaURxWFBiN1NNUUd6eklpRWNkR05ZeF9LMkFjLXRiSVAtbTZLVVZyQnRiX01wcGM?oc=5",
+        "publisher": "People Daily",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Kano to deploy Ebola surveillance officers at motor parks",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTlLZVNfQVFuWEl5M2l4eDdUM08tbkZ1LXFYa3Z1Xy1DNGFtSnhUQVJQV1FnQVdWbFpITDVLQVhRal9sN1FoUThGbzduOVVRN256a1l0d0diMmwxVUVLOE9BcWY1c281US1JNG56SHBrOWhscE1MUWZsRVVBZUZHQUU1UDhKLVVXYnNHNnRPRXFtVnJpd2JoUnR4LWdFZw?oc=5",
+        "publisher": "FRCN HQ",
+        "date": "2026-10-30"
       }
     ],
     "confidence": [
       {
-        "claim": "The outbreak has spread from DR Congo to Nigeria and Kenya",
-        "level": "high",
-        "note": "Stated in the France 24, BBC and UN News reports we used, though we have no case counts."
-      },
-      {
-        "claim": "The outbreak reached an eighth province of DR Congo",
+        "claim": "DR Congo has passed 10,000 confirmed cases and about 4,900 deaths",
         "level": "medium",
-        "note": "One source, UN News, dated 22 October; not cross-checked against a second report."
+        "note": "Reported by UN News and several outlets, but the deaths figure may mix confirmed and probable cases; the sources do not define it."
       },
       {
-        "claim": "Both patients travelled through Entebbe on 3 October and may have crossed paths",
+        "claim": "Nigerian and Kenyan patients may have crossed paths at Uganda's airport",
         "level": "medium",
-        "note": "BBC reports this as what officials say; contact between the patients is possible, not confirmed."
+        "note": "The BBC attributes this to officials as a possibility, not a confirmed link."
       },
       {
-        "claim": "Nigeria's case is the first of this outbreak in West Africa",
+        "claim": "Kenya's outbreak is stabilising",
         "level": "medium",
-        "note": "France 24 describes it as the first in the west of the continent; Nigeria had Ebola cases in 2014, so this must refer to this outbreak."
+        "note": "Based on headlines reporting 10 days without new cases and contact releases; the 42-day countdown has not finished."
       },
       {
-        "claim": "21-day monitoring window ends around 24 October",
+        "claim": "African ministers keep borders open while some states tighten checks",
         "level": "medium",
-        "note": "Our estimate based on the commonly cited incubation period of up to 21 days; not an announced date."
+        "note": "Drawn from headlines and short summaries; individual country rules are not fully documented here."
       },
       {
-        "claim": "Scenario and prediction probabilities",
+        "claim": "Context on past outbreaks and vaccine availability",
+        "level": "medium",
+        "note": "From general knowledge and rounded; not drawn from the listed sources."
+      },
+      {
+        "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, with no case counts or transmission data behind them."
+        "note": "Author judgement, not sourced forecasts; to be graded as events resolve."
       },
       {
-        "claim": "Sector effects, daily life and countermeasures",
+        "claim": "Cases in Nigeria",
         "level": "low",
-        "note": "Mostly inference from general knowledge about Ebola responses; our sources report no screening rules, flight data or market figures."
+        "note": "The sources say the outbreak spread to Nigeria but the material here gives no case count or current status there."
       }
     ],
-    "method": "Drafted on 23 October 2026 from three listed sources (France 24, BBC World and UN News) and the three matching wire headlines, with some general knowledge about Ebola (transmission, incubation, the 42-day end-of-outbreak rule and past outbreaks) that is flagged as such. The material has no case counts, deaths, virus species or start date, so none are given. The fuel entries all fall under one aspect, people on the move, because the sources support no other. Sector effects, scenario and prediction probabilities and the timing of the 21-day window are our estimates. No chart is included because there is no numeric series.",
+    "method": "Drafted from the listed sources and wire headlines up to 30 October 2026. Several items rest on headlines or short summaries, not full article text, so detail on Nigeria, Kenya and border rules is thin. Dates for the start of Kenya's 42-day countdown and for the Nigeria U23 match were not available. Scenario probabilities, prediction odds and the timing of Kenya's possible all-clear are the author's estimates. Background on earlier outbreaks is general knowledge and rounded.",
     "changeLog": [
       {
-        "date": "2026-10-23",
+        "date": "2026-10-30",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-23T10:03:23.865Z",
+    "at": "2026-10-30T13:14:31.253Z",
     "model": "claude-sonnet-5-5",
     "sources": 3,
-    "headlines": 3,
+    "headlines": 27,
     "reviewed": false,
     "size": "deep"
   }
