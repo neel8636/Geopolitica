@@ -567,9 +567,9 @@
     "headlines": []
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-30T05:09:36.354Z",
+    "at": "2026-10-30T11:10:02.676Z",
     "by": "pipeline",
-    "hash": "1eea9n",
+    "hash": "1uaa5b0",
     "tags": [],
     "headlines": []
   },
@@ -581,9 +581,9 @@
     "headlines": []
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-10-29T17:00:48.521Z",
+    "at": "2026-10-30T11:10:02.676Z",
     "by": "pipeline",
-    "hash": "1hopco0",
+    "hash": "b3jzul",
     "tags": [],
     "headlines": []
   },
@@ -602,29 +602,28 @@
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-29T23:09:20.830Z",
+    "at": "2026-10-30T11:10:02.676Z",
     "by": "pipeline",
-    "hash": "vy132u",
+    "hash": "zdeuiq",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
         "effect": "delay",
-        "likelihood": 0.35,
+        "likelihood": 0.3,
         "delayDays": [
           1,
-          3
+          2
         ],
         "costPct": [
           0,
           3
         ],
-        "why": "Heavy rain on 29 Oct 2026 closed roads in at least two Istanbul districts, with an orange-coded warning and about 14 more hours of rain forecast, so truck access to Ambarlı and container pickups may be delayed.",
-        "action": "Ask your forwarder to confirm Ambarlı gate and trucking status before dispatch, and add 3 days of buffer stock for castings and components due to leave Istanbul in the next two weeks.",
+        "why": "Istanbul had flooded roads and cancelled ferries on 29 Oct, and an orange-coded warning of up to 75 kg of rain per square meter was issued for the city, so truck access to the Ambarlı terminals could be slowed or interrupted for a day or two.",
+        "action": "Ask your forwarder to confirm truck pickup and gate-in slots at Ambarlı for the next 7 days, and move time-critical casting and component loads to earlier pickups or add 2 days of buffer stock.",
         "sources": [
           0,
           1,
-          2,
-          3
+          2
         ]
       }
     ],
@@ -640,12 +639,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWV9tQzJaNlJvWVJpX1RPbE1LbmpsVm1MTTdwR0Qtek1uWlNnMF9SaERJX0huMjg2dlVjajl6OXJMcGlXa0E1MkUtbUJTclVhakwzY3ZsbTVDZl81Y3JXXy1uWURZbXEtdVFPWDZGbUlxTkE2RHk4TTBiT3owZ19WRUo4Nk1RYUJfdU53?oc=5",
         "publisher": "Haberler.com",
         "published": "2026-10-29T17:36:45.000Z"
-      },
-      {
-        "title": "Attention, Istanbul residents! It will continue uninterrupted for 14 hours.",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT1dmMDRraVR0MnVsOTV0N0ZteExvUTBxY0FHUW1IMGVUbU1SX0xGNm1EclJZUWZuVS1uenpjYTRQMnV4aV9uTlczZURrZjcwYUk2SFZQLWhDYTBEUGFOcDZrNEE0OGlqMkd5b2tqcEJ1OW9Zck1kLTE1blNnS2VTYnlJWHE?oc=5",
-        "publisher": "Haberler.com",
-        "published": "2026-10-29T10:06:42.000Z"
       },
       {
         "title": "Istanbul floods: roads closed, ferries cancelled due to rain",
