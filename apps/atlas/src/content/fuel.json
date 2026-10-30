@@ -1661,18 +1661,18 @@
     ]
   },
   "france-election-2027": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "october-polls-show-national-rally-leading",
-        "title": "October polls show National Rally leading",
+        "id": "le-pen-leads-october-polls-at-35-36",
+        "title": "Le Pen leads October polls at 35-36%",
         "when": "2026-10-30",
         "place": "France",
         "lat": 46.6,
         "lon": 2.2,
-        "what": "Opinion polls published through October put the National Rally candidate ahead for the first round, shaping expectations and rival strategies for the April 2027 vote.",
-        "via": "front-runner momentum",
+        "what": "Polls put the National Rally candidate first, with Jean-Luc Mélenchon gaining support as a likely runoff opponent.",
+        "via": "far-right poll lead",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -1682,46 +1682,66 @@
             "publisher": "Wikipedia"
           },
           {
-            "title": "Infographic - In the polls: France’s 2027 presidential race",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkdPV2lxc1pjdG9iYm1aYXk1b2NFTjgyN3JQa3ZfLW1lV2JSM3gxSXEwdFM2bjk3QnNadEd5MjhXRHZ0eFplbFlGSlBTa0xWQ3VLWFEyR2JxYWxpYkc2MW1WRktBZFRMXzNzYU5KMkZiWFRvaHlGcGRQT2k4Z2kwNEFzVDJJTVV6aUxyS3Z0bEprLVIxbDVN?oc=5",
-            "publisher": "Contexte"
+            "title": "Le Pen Leads French Polls as Mélenchon Gains Runoff Support",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VN05oQk1leUN2UjRURmxraWxfUXk2WGFlcS1MbzNTQTJ3ZE1EWnRNelhVekJmTTBXcUs1aGRRb2pkUjJRbEFHakZpbEdOWTBxUEM2M2VibHJ4eFJLMWVlb0NqbEpqZ3AwSVpSMlVlQmk?oc=5",
+            "publisher": "SuaraGarut.ID"
+          },
+          {
+            "title": "Le Pen Leads French 2027 Polls as Mélenchon Gains Ground",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwZjduSXYzRHhNdlcyT2tZX0FiRC1yUjhleDhiVmhhWXVPWlJHQU1SZmxLNnRicE1NSUs3blFsUTFIQS1jdjZUb0hHSmpJcjdQc1RpT3U2T29ncnRKNnFTQm56SmZYaGI5Ri1GYmJha2RRa19R?oc=5",
+            "publisher": "Demokratis.co.id"
           }
         ]
       },
       {
-        "id": "centrist-feuding-raises-odds-of-le-pen-melenchon-runoff",
-        "title": "Centrist feuding raises odds of Le Pen-Melenchon runoff",
+        "id": "centrist-feuding-raises-le-pen-me-lenchon-runoff-odds",
+        "title": "Centrist feuding raises Le Pen-Mélenchon runoff odds",
         "when": "2026-10-30",
-        "place": "Paris",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "Divisions among France's centrist candidates are splitting that vote and making a run-off between Marine Le Pen and Jean-Luc Melenchon more likely.",
+        "place": "France",
+        "lat": 46.6,
+        "lon": 2.2,
+        "what": "A split among centrist candidates is dividing the moderate vote and increasing the chance of a runoff between Le Pen and Mélenchon.",
         "via": "split centrist vote",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
+            "title": "Le Pen vs. Mélenchon in runoff? Center split shakes France ᐉ News from Fakti.bg - World",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGFUYXgzLUltN0tEOGtxdTdEdkdvdDVzdWtpdk9Hdm0zVXhvWm9LclVlLXpCUW9XTk4yRDF1Mlc1VmZrMlE0X2w3dWIyaDk4U19yN0dXNUxZRWVRX25YeWR6MjFNTjBzMjhTQkhhUzVaeFd2TFN2MW1RYjFEV201OHhrNTFqSWdGUWlnb3FyeE5UVUIz?oc=5",
+            "publisher": "Fakti.bg"
+          },
+          {
             "title": "French centrists' feuding increases odds of Le Pen-Melenchon runoff",
             "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5",
             "publisher": "Reuters"
+          },
+          {
+            "title": "A split among the centrists in France ahead of the 2027 elections",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTTBVc01BeVh5dHk0eXNfT0tHeHdvdGRXTjFudVo1dHBmMWhpdzltaEQ5dkpKcUlwcVlTSWtGSUplR0lMa2N0MVFENWFBQ1NBSldTZFd3YlA3VzQzZGpCYzh6V3RrUHRVVjlZUHdFNmItZDIzdE9aTXFjSkZ5eFJmSw?oc=5",
+            "publisher": "UkrMedia News"
           }
         ]
       },
       {
-        "id": "philippe-questioned-in-embezzlement-case",
-        "title": "Philippe questioned in embezzlement case",
-        "when": "2026-10-29",
+        "id": "philippe-named-assisted-witness-in-embezzlement-case",
+        "title": "Philippe named assisted witness in embezzlement case",
+        "when": "2026-10-30",
         "place": "Paris",
         "lat": 48.86,
         "lon": 2.35,
-        "what": "Presidential hopeful Edouard Philippe was questioned in an alleged embezzlement case, a legal cloud over one of the leading centrist candidates.",
-        "via": "legal risk for centrist",
+        "what": "Centrist hopeful Édouard Philippe was questioned and designated an assisted witness in an alleged embezzlement case, clouding his campaign.",
+        "via": "legal cloud over centrist",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
+            "title": "French presidential candidate Édouard Philippe designated 'assisted witness' in embezzlement case",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3lRckhGaWJhU0g1NUpZRmtma1AtWFQteHZHRUNZYVBfMDVYazlLbzluRzRrTnZzaFpvTVVoLVY1MnhOT3U0UnBKWVBoRG12X2RTcHI0Q1RQOElhckNIOTd6S2lfN3F6cjVldVpMcDdscnBZOENvUTZyVWREWWpUVzhxSG54dVlyeU5nMldkS3BIRUxfQkE?oc=5",
+            "publisher": "AOL.co.uk"
+          },
+          {
             "title": "French presidential hopeful Édouard Philippe quizzed in embezzlement case",
-            "url": "https://www.france24.com/en/europe/20261030-french-presidential-hopeful-edouard-philippe-quizzed-in-embezzlement-case",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDVPcXdEYk1lRVRFbWhmQVlwcWZhNVpOQXhjY3FQakMwLUNUbkh1TjhPajFLUWF4bTFocmJmcTh5Rm5fVEdwUDl0NDh1M20yTDhjVkswTTBzMWpEeGlBM01XT1lDa283VkFPOUNsRjBVWVFqdWNPelNSWEZFcVNyZl9jT2ZtTHJQbndMM18tNE13V1A5Mnl6MHdzSUp4OG56TFJwb0g1SWZ3SzBFSmdKaUtsRktJN0xB?oc=5",
             "publisher": "France 24"
           },
           {
@@ -1732,21 +1752,21 @@
         ]
       },
       {
-        "id": "lagarde-to-quit-ecb-before-the-vote",
-        "title": "Lagarde to quit ECB before the vote",
+        "id": "lagarde-to-resign-from-ecb-early",
+        "title": "Lagarde to resign from ECB early",
         "when": "2026-10-29",
         "place": "Frankfurt",
         "lat": 50.11,
         "lon": 8.68,
-        "what": "Christine Lagarde will leave the ECB on 7 February 2027, nine months early, so EU leaders can pick a successor before France's elections; she says she is not a candidate.",
-        "via": "election-driven ECB succession",
+        "what": "Christine Lagarde will leave the ECB presidency on 7 February 2027, nine months early, opening a succession race before the French vote.",
+        "via": "ECB succession uncertainty",
         "aspect": "markets",
         "flow": "into",
         "sources": [
           {
-            "title": "Christine Lagarde is resigning early to let EU leaders pick a successor before France's elections",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0ZULXZqVG03S2wtMFE5SHVoS1c4SmZmSUhxTzRjSFdTdllkOFliM1Ewa1MxTjhaTS0yYUQ3QW9xODRrR0xjNHlBZkItQlBrc2NMdGgwR3EzVlN4UXpJeFZlOEdqX3ZhWjJaZ0w0SEVhTnBOTUZodmh1ampsYmI5dC1kTlB5ZXVFcWJURg?oc=5",
-            "publisher": "Fortune"
+            "title": "Lagarde’s early exit raises questions over ECB succession ahead of potential far-left shift",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOXRNMmYyWGxFYUhBQmswdW0xN0RPYVB6QmVVSWM0bnNLUnVtSXZZZHQwdXo0XzQxeGR5ZERCVXpOejJTdm9aakxpRmhTV0U4LUpLQWRPTWZXZWtjcXhwMUZaNW5aenRzTFVZOHFMRXNNVGg5RW1UajZNVGZMeGtUUldFR1IxMWZSUjVEbGhMZUxlNEo2N180NlJYWmZWRW92YXcwUl9wOTV4U3FiTHhGT1RJbV9Ycm5SVmpSckFVc01fWjFvMGRya2VGLS0zM2U2THZFSDlQTjJ1Zw?oc=5",
+            "publisher": "Indonesia Business Post"
           },
           {
             "title": "European Central Bank President Christine Lagarde will resign February 7, nine months early",
@@ -1754,33 +1774,38 @@
             "publisher": "The New Indian Express"
           },
           {
-            "title": "'I'm not a candidate': Lagarde tells Euronews as French election speculation grows",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xNlltYUZoQWxLMmhyN04zeXh0dDhabjY4T09iZlJqU0M3c2NpQXlsakN5UDE0bDdXZEdDUnJaMWJHLXpieS1yV1NXTFdrblZPQXJEZl9RYmxYRGY4T2Fsc250aFhXbW1UX1RxLWk4c25aQm56OWd0Smg3OA?oc=5",
-            "publisher": "Yahoo News Singapore"
+            "title": "ECB president Christine Lagarde resigns at time of mounting challenges for Europe",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2RqU1JUWWg0VDJ1dEJ2ZmJhakpJSFkzblFDYXIwWHZFMjhnNUdpX2R5Y3BxeVB4RlhNaFM5aVhKbGxrT1FjV1QwLThMVERMMUFxM2ZUSWhFV25tLWFzcGQ4X2Z2UTRObXFqVnVZaFRvZ0NhbTVHXzJoRWw4QWdjU1NBay1xZ2tlMnZSR3ZnQURnTVIweTljQV9JdHdSN3B4UWhxNkpxOHFzZlI2UHRXbk5VNWROVXNXU0E?oc=5",
+            "publisher": "The Business Times"
           },
           {
             "title": "Lagarde to Leave ECB on Feb. 7, 2027, Opening Succession Race Before French Vote",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRDd4ZnZFTk9LOHlDaUpHUndLWHNlbE9DQjBtVTFNQ01SUS11blhtV2xqVFpiVS04alRfdnBKaVM4elhxUVRidS1hNUVyb2dBcTdZTTZnWlRKUjhIUGh1UUxsaTEyQ3pzOWo3NTFaYy1taXlxM2c?oc=5",
             "publisher": "BigGo Finance"
+          },
+          {
+            "title": "Christine Lagarde resigns as ECB president, cuts short term by 9 months",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2lmRGZWSDVqTzkxa2ZWeUk1d3dXSzhRN25hdjhxc2IyVFhLX05hQzJjZ1hOZkpuVDI0bzJ0aWJReDFXSy1RQk5DbnBkU21Wal9jdlRORFMyT0dfMm5Wc1Q3clpBV2JiczNJTlJLR0pXZDlqbS1xYWpPNzRTb2VaQXNfVEdvNENkTjRMeUZTZXM3Q1VBSm50aFZqR1ZXbFY2dXo4VEJBcHZYUENXMGd4QkJjTllfd9IBuwFBVV95cUxQR2xPVkFoYmhmWGw4RmZmUVV6QzNkMEF0blNaRlJFYk5lclctSTF6bFZ2dWR1LU5mdDlUdUdTZjVmRXBmckN6M3JuZ2xSMlZvc1hJREZXQUJzelBOTDlkSWtVRE9MR2hzVTRzellDNXBWck5iV2R3Vi1mREplbVBLX2F5alpldEl0RmFYaWZZTHFKX2VkN1dzczNUYWRfdHBKalB3Z20zY0szUUdGbUFZeURDckV3endBdGg0?oc=5",
+            "publisher": "Firstpost"
           }
         ]
       },
       {
-        "id": "melenchon-courts-gamers",
-        "title": "Melenchon courts gamers",
-        "when": "2026-10-29",
+        "id": "french-economy-shrinks-0-1-in-third-quarter",
+        "title": "French economy shrinks 0.1% in third quarter",
+        "when": "2026-10-30",
         "place": "France",
         "lat": 46.6,
         "lon": 2.2,
-        "what": "Jean-Luc Melenchon is reaching out to video gamers as part of his 2027 presidential campaign push for younger voters.",
-        "via": "youth voter outreach",
-        "aspect": "politics",
+        "what": "French output contracted 0.1% in the third quarter, giving voters a weak economic backdrop to the campaign.",
+        "via": "weak growth, voter discontent",
+        "aspect": "living",
         "flow": "into",
         "sources": [
           {
-            "title": "2027 French presidential election: Mélenchon courts gamers",
-            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMzlUQ0dObE1DRHNTWWhyWjBlTDEtTGxYRUo4MWYxeklzd1hDUmYwTnpPMnZMR0YyUldXbVRvLW9RVmk4WUVtZUlKSVgwNXR5QzhsSmM2R0M0SDhBYV9Fd1NfU3FVdmtOa1JZU0lPS0tTeGpYMFQ4Y2xQbGxVX2JseUFiMjZmTG42MEEyel9EbE84amJBcUtCY0lMYWtfa2FZMlJibG94aG8zRGVVYzVaT3JnTEpTNThXeDRkVDZhYm9QT0tXS2o0bTJCLThfSGVTWDBkbmpCV1Y4bERkX0RIRWdSbTdPZFZQVlJhYXRZdGNHaldh?oc=5",
-            "publisher": "Le Monde.fr"
+            "title": "French economy shrinks 0.1% in third quarter",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQi1qTDJFZGI3WjhwdzdRVU9maEFveWlJeXdlQThlSDRyT1c1V2YxNzFiZVBqT0FpdHYtNHZxRDJPNXpJLWNOSkxvZV9aSnJ3ZXNuVDRNVUlUWHU0d3dyTU96bTdfZFpaSG5fWFdhYXV4Ulphb3Yyclk4dGt2QlVUUW45cUN1eGpXb1Vib3hsZllhUGxy0gGYAUFVX3lxTE83Uy1oRFduVUp0bURVWXJNMTFSbnlqSVdPSEd5d1Z5YnZHT2dGOWNwdnBScXdTTnQ3MmxWU3JXRXk1a25jcmJXZXlmSzVsWDQ4SG5kOENERmxGckoyOVNQVXREU0FGdXNsVjVmcm1TaDN4RGtXdlpCUURjU0pOaWo2b1l3amF5T2lpY08wenYtYzIybWdqbENS?oc=5",
+            "publisher": "Kuwait Times"
           }
         ]
       }
@@ -1909,40 +1934,45 @@
     ]
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "drone-strike-on-darfur-market-kills-over-100",
-        "title": "Drone strike on Darfur market kills over 100",
-        "when": "2026-10-29",
-        "place": "Darfur",
-        "lat": 13,
-        "lon": 25,
-        "what": "A drone strike on a market in Sudan's Darfur left more than 100 people dead, hitting a place where communities buy and sell food.",
-        "via": "lost market access",
+        "id": "un-warns-el-nin-o-drought-raises-famine-risk",
+        "title": "UN warns El Niño drought raises famine risk",
+        "when": "2026-10-30",
+        "place": "Sudan",
+        "lat": 15.5,
+        "lon": 32.5,
+        "what": "The UN warns that El Niño-driven drought is creating a new famine risk in war-torn Sudan.",
+        "via": "drought-hit harvests",
         "aspect": "food",
         "flow": "into",
         "sources": [
           {
-            "title": "Over 100 dead after drone strike on market in Sudan’s Darfur",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGpTRF9hZm5hUWRXR0w0bmRvbHg3eEp5ZGF5SE9PN2ROUEgxUE05WU80c2dYUVpfbEFobnB4ZVY0cnJaVnpoR21WSUZRTUwzMjcxbmZJbVc2X1R2UVhBTWxzOW8zM0ZZeVBwekRJZGNITGRlSHM4M0lmbmRDaHljdExkeEZpbG96M1E?oc=5",
-            "publisher": "The New Arab"
+            "title": "UN warns new famine risk haunts war-torn Sudan with El Niño-driven drought",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50N3FrRDB2bGVyNlN6UE1TZjR0bFozOHN1aEpicHU1SklneWJhTjFOR0ZLMmR2V0hWaHJuQXZzLVpfTUpOdWE4Y21oOFViMmNVS0FTb1FNSnR3LXNRUkJkSWo5Skw?oc=5",
+            "publisher": "TRT Afrika"
           }
         ]
       },
       {
-        "id": "drone-strike-knocks-out-power-in-two-states",
-        "title": "Drone strike knocks out power in two states",
-        "when": "2026-10-29",
-        "place": "Sudan",
-        "lat": 13.18,
-        "lon": 30.22,
-        "what": "A drone strike on a power station plunged two Sudanese states into darkness, deepening the breakdown of basic services for civilians.",
-        "via": "collapsing basic services",
+        "id": "drone-strikes-knock-out-power-in-northern-sudan",
+        "title": "Drone strikes knock out power in northern Sudan",
+        "when": "2026-10-30",
+        "place": "Northern Sudan",
+        "lat": 18,
+        "lon": 31,
+        "what": "Drone attacks on energy infrastructure cut power in a northern city, and one strike on a power station left two states in darkness.",
+        "via": "damaged power infrastructure",
         "aspect": "energy",
         "flow": "into",
         "sources": [
+          {
+            "title": "Drone attack cuts power in northern Sudan city amid strikes on energy infrastructure",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdkJSVDFNdi1SN1JrVmFaZ0x6alNuTDZRNzlrUUljalNaeF9fNWJMUHFhTnpReGd0MmJBWUNVaVMyQnhhcGdlLURMNTRNZnZacnRuMm5mcDZBOWtMSnIxMWlhNXhvQ1lzWm5DVGltcXFQMXlWem1KWlU1QkZZQjZETWlDQU1TdUNGU1JOSXItRWxXY0ZYYXBRZGo0WGI5ZkQ3MjRtV291UWFHSldEOUtqOGF3cVQ5MGkyY09SenF0VnRadndwSEVXYw?oc=5",
+            "publisher": "Anadolu Ajansı"
+          },
           {
             "title": "Sudan drone strike knocks out power station, plunges two states into darkness",
             "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUm5VVEFudU1RRzdXZUc5U3hGQ19hZlI5QmJ2aVJJaDVOMEhWNnllZXBDaWVKbWJkNm9Lb1c2cnhqWlR4WXBKUE1MTHkwT1F3b3BMT3JkU1dzZ0t6ZGVEeEI2WjhjbkliSkZob2JlVzdSWHN0M25zblV6NjFCT1Z5eGVlR203R2RlYjZNNXRaYkVISFVPR200eGpXQzlFV211T25RcWY2dFVOTmxyMWtxZlJKUmZTdU1XVmc?oc=5",
@@ -1951,44 +1981,15 @@
         ]
       },
       {
-        "id": "el-obeid-civilians-trapped-by-drones-and-arrests",
-        "title": "El Obeid civilians trapped by drones and arrests",
-        "when": "2026-10-28",
-        "place": "El Obeid, North Kordofan",
-        "lat": 13.18,
-        "lon": 30.22,
-        "what": "UN officials and investigators say civilians in El Obeid are trapped between drone strikes and state detention, with atrocities escalating in the Kordofan city.",
-        "via": "trapped, endangered civilians",
-        "aspect": "displacement",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Sudan civilians trapped by drone strikes and state arrests, UN says",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmNGIwLU1Rbkw2V18yNHlla1NlZnNKSHpIdGpyRFY2X25vcVItTGl0aW5qRXZ0VkpFWTVxNHNkelUxeWtKMjJoQWJfc3U4UTNv?oc=5",
-            "publisher": "Sudan Tribune"
-          },
-          {
-            "title": "UN investigators warn of escalating atrocities in Sudan’s El Obeid",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMm5wajZBNGdxRFo0bldQWkk5aFFGN2FRQkF5cE5FR0cyV3RxOUVpdlJTT2QzS0tiQzI0U0lNRG9EX3ZhWHhXeWRMZ05jT3FwcWoxYU8zbFZiTkJFSlh4RFFkbUlidXlRaHlIeXJfY1ZQUTNNbWk1Q0xmRnFnZy1uT0p4MDNoSERGeU1vY3BkV01qV0gxREU0d0E5ZkREQUVLNTJDMkhmaGZaeGk3TzJJZElJTS1pUFpE?oc=5",
-            "publisher": "Channel Africa"
-          },
-          {
-            "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-            "publisher": "UN News"
-          }
-        ]
-      },
-      {
-        "id": "msf-urges-better-protection-in-central-darfur",
-        "title": "MSF urges better protection in Central Darfur",
+        "id": "msf-demands-better-security-in-central-darfur",
+        "title": "MSF demands better security in Central Darfur",
         "when": "2026-10-29",
         "place": "Central Darfur",
         "lat": 12.9,
-        "lon": 23.47,
-        "what": "Doctors Without Borders called for stronger security measures to protect its work in Central Darfur, where aid delivery is under threat.",
-        "via": "constrained aid access",
-        "aspect": "displacement",
+        "lon": 23.5,
+        "what": "Medical charity MSF calls for stronger security measures to protect its work in Central Darfur.",
+        "via": "threatened aid operations",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
@@ -1999,21 +2000,21 @@
         ]
       },
       {
-        "id": "drone-strikes-kill-306-in-three-weeks",
-        "title": "Drone strikes kill 306 in three weeks",
+        "id": "yale-report-details-el-fasher-devastation",
+        "title": "Yale report details El Fasher devastation",
         "when": "2026-10-29",
-        "place": "Sudan",
-        "lat": 13.18,
-        "lon": 30.22,
-        "what": "The UN says drone strikes in Sudan killed 306 people in three weeks and destroyed 330,000 educational materials.",
-        "via": "escalating violence against civilians",
-        "aspect": "security",
+        "place": "El Fasher, North Darfur",
+        "lat": 13.63,
+        "lon": 25.35,
+        "what": "A Yale report documents the devastation of El Fasher a year after the RSF takeover of the city.",
+        "via": "destroyed city, displaced people",
+        "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Sudan drone strikes kill 306 in three weeks, destroy 330,000 educational materials: UN - War in Sudan - World",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnV0VGtJaWpNWFBEOVN2RFdVTXVIaE9wVGZaM2VXdFExNlBvTjVWN0pKbjNmQTNKbFFfN0JhUE5tWGFsTWNnU0Y3eGpqbjNvcVlVcXNXOUFCeWxNMC1Vam9Xc2FZTFRjSDIzaWhLSVotaHBtcmJ4VzdLNl9GYUppUmZsbDMyZlVpZHhXQUlmbFFWY2c4dmY0dHE1bTdyY0d4ZHktaDdqOVpEbHlSdFo2blpB?oc=5",
-            "publisher": "Ahram Online"
+            "title": "Sudan war: Yale report reveals El Fasher’s devastation a year after RSF takeover",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1AtT0RqRGQzQnVxYXJQQUhqUnRXSGpJaFN4MjZHcXhIUk1RNTBhQnVJbnlFRno3Y0NmTXpyOXlXbFBTT2M2eWljbnJJbTFJRTZWT1RHN1hKV1NnSVBacU5YWDg2YUZoT1JRSFNUYWd4alQ4OV9ZbnJIYnp3bVlxLUZPTGRfWG04TDhTaXJ6d2xBb2w2QXJBV3dmVi1xcWRjTVVtcVdZUFZSMXdCY19XVUNybEVnNHlYT2FOWXFYbW5qb2xqLUE?oc=5",
+            "publisher": "Dabanga Radio TV Online"
           }
         ]
       }
@@ -2055,18 +2056,18 @@
     ]
   },
   "portugal-housing-protests": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
         "id": "thousands-rally-outside-portugal-s-parliament",
         "title": "Thousands rally outside Portugal's parliament",
-        "when": "2026-10-28",
+        "when": "2026-10-27",
         "place": "Lisbon",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "Thousands of people gathered outside parliament in Lisbon to protest the housing crisis, keeping up pressure on lawmakers over rents and affordability.",
-        "via": "street pressure on parliament",
+        "what": "Thousands of people protested outside parliament in Lisbon over the housing crisis, and the protests were reported to be continuing the next day.",
+        "via": "street pressure on lawmakers",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2084,6 +2085,50 @@
             "title": "Thousands rally outside Portugal’s parliament over housing crisis",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDVIRnRyRURrY3hES0pVbHBjbXVLSW9mZlFWRWtYWFFfZVFIUTZoaFI1N3dSaFl5b0hCWjdTODNYRlY3eEw4ZDR1VlM5VDR4d0RhMEZBaUVQQlI5SGhTcjFEUV96UXVoc0xzNEtpWFNDRUVlMENzSUVMbkdqODUxMUYxRWtFRXVETHZrdDVNWHY1bE9abWR4cm43U0lSZW5vWGpwZEFsYkZwOWZBZ0pKWg?oc=5",
             "publisher": "BreakingNews.ie"
+          },
+          {
+            "title": "Thousands protest outside Portugals parliament over housing ᐉ News from Fakti.bg - World",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnZ2RW9jSzh0TlZqWjVtcDlsRHRzZjI5akZZYWtlZlpqMEkwZjZ0OXgzM3g1aGRocEl4Vzc4WnY3NTZiMXg4czRMM0tfVGlQZWEzYnpveGJpWmxmbEU5RjQxX1ZDeGU4TkpicVpqSGJVX3lKaW40QTA5SEVmUDRiRThYYnc1MHpDX2gyakQ0eVNJSno2UmM1OGdB?oc=5",
+            "publisher": "Fakti.bg"
+          },
+          {
+            "title": "Video. Portugal: Lisbon housing crisis sparks protest outside parliament",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzgxM18wSjl2LTlmdEVzaTFSeWEwd0NUR25IejVHbHpRc1BuNEE1TWtBWEZhWG9NTThzUVEycEQ1QzM1YllKLWQ2MXRwMWtNd2hDNG85MjlWeURLdFVObGV3Z3NIa1Jpa3BHUjhNdW9tSFlOWVNJSEUzOTNwbHJ3SmxzSzVvcHBkZThHMDRiamlvTWczQ2pRc1c2WFpfUDdpcjN1MUhHRG9VQQ?oc=5",
+            "publisher": "Euronews.com"
+          },
+          {
+            "title": "Portugal: Lisbon housing crisis sparks protest outside parliament",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWXVSLWhaLU13QmpfZU9nZFUzckZ5aG9JbnBFUmI4d0l1bGEtak53MENGV2V6d2JTY0ktamlVakp6Qkd5ZjJPR01QQXpIUmNiODB4dVJuZmxPU1RxRC1Va196QWh3el9aN1BXMk5oX2M4ZmZmaVFiQU90RTlja3oxaHZUcEc?oc=5",
+            "publisher": "Yahoo News Singapore"
+          }
+        ]
+      },
+      {
+        "id": "police-clear-housing-protest-camps-in-lisbon",
+        "title": "Police clear housing protest camps in Lisbon",
+        "when": "2026-10-28",
+        "place": "Lisbon",
+        "lat": 38.72,
+        "lon": -9.14,
+        "what": "Police cleared housing protest encampments in Lisbon, prompting a backlash and thousands more people joining protests against the crackdown.",
+        "via": "anger at police crackdown",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Portuguese Police Face Backlash After Housing Protest Crackdown",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sZkJkb1RVZXFmYm85WXRfQzl1M2VFaGRQclNESzF6aUI1STZMb2NzYzBQNzE0WmFtYWk5azdXTzc0TXB6THNzTHNlRGlLaUdhbjA3LTROWXNZaDFGZU5CMU0wTF9JQjhobW5FTTJXcw?oc=5",
+            "publisher": "Demokratis.co.id"
+          },
+          {
+            "title": "Portugal Clears Housing Protest Camps as Thousands Rally in Lisbon",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yS3hHdWFxbURCckQ0MTUzVUtLV000bDlXWVZmVlpvRlZ3YVZ5NkZVdzVtamV3NnhPdDRxcmZNWFhjVzVHRFpUMEFLelA3WlFvVkp3RjhMMThudVlkNmRKbzZENzEyQWNfaEUzalZmYmxEVktTNTdTakswTQ?oc=5",
+            "publisher": "Cirebon Times"
+          },
+          {
+            "title": "Thousands protest police crackdown on housing encampments in Lisbon",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHNjbHJreXpQSlJfR1hYbzl6WTl2SmYtSUdrU1gydEw2RHQ5MlBJOGtNVG1VMm84SFdILXdiZUw0Q19US3E4LVZWakctVk93ZGI2SWpTdGtPTWY4Q2tNaTVUcnN2ZWNDYXR2eXVueERucWM2OGxwYzhHVEhUcktfTkZrbkszUEtpV05QNGJuYmVVbmJWNjUyOWY5elloZl9IT1pBa1hQSlY5c0V3LTMxc1lMWTZHcVJOVTYtdldOeTdYdw?oc=5",
+            "publisher": "CGTN"
           }
         ]
       },
@@ -2094,8 +2139,8 @@
         "place": "Faro",
         "lat": 37.02,
         "lon": -7.93,
-        "what": "Dozens of residents staged a housing protest in Faro, showing the movement reaching beyond Lisbon into the southern Algarve region.",
-        "via": "protest spreading beyond Lisbon",
+        "what": "Dozens of people staged a housing protest in Faro, showing the movement is also active outside Lisbon.",
+        "via": "spread of protests beyond Lisbon",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2107,21 +2152,40 @@
         ]
       },
       {
-        "id": "lisbon-protesters-approve-another-saturday-demonstration",
-        "title": "Lisbon protesters approve another Saturday demonstration",
+        "id": "lisbon-protesters-approve-new-saturday-demonstration",
+        "title": "Lisbon protesters approve new Saturday demonstration",
         "when": "2026-10-29",
         "place": "Lisbon",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "Housing protesters in Lisbon approved a new demonstration for Saturday, extending the run of marches over housing costs.",
-        "via": "planned follow-up march",
+        "what": "Lisbon housing protesters approved a new demonstration for Saturday, extending the protest wave into the coming days.",
+        "via": "planned follow-up mobilisation",
         "aspect": "politics",
-        "flow": "both",
+        "flow": "into",
         "sources": [
           {
             "title": "Lisbon housing protesters approve new demonstration on Saturday",
             "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFdIS1Rxekx5aGNlZnhjR3pzaTZFU3VGMnRVRnhsUk0wNU9pQWhBR2dYMFF4TnRUa3ZrbVdGdXlWWW1mUUdONzRBV2pna0NTazF2WDlzdTJlRHhCbzNXOG15Z2FIbGp1dFN5blFsNE9leEJWbUppUHpTSzJmMmg2M2RHcG9ROVdCZzJLQnU4YWtxUzVqUVNuOFNuTlZsZw?oc=5",
             "publisher": "Portugal Resident"
+          }
+        ]
+      },
+      {
+        "id": "soaring-rents-push-residents-to-protest",
+        "title": "Soaring rents push residents to protest",
+        "when": "ongoing",
+        "place": "Portugal",
+        "lat": 38.72,
+        "lon": -9.14,
+        "what": "Residents across Portugal are pushing back against soaring rents, which coverage links to the protests over the housing crisis.",
+        "via": "rising rent burden",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "In Photos | Portugal’s Housing Crisis Fuels Protests as Residents Push Back Against Soaring Rents",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWWpBT0ttMjVpaTVBT2FvTnJzZ3BuRkxxWmMzOXZlRjlJLWFrZEE5U2xKUmIzUTZNMkpfWVlVSW5NcWY5TWVPNzlyVHlIc2puOVZIdHY2VmJYR1JSc2RfcnN6cU5Ja2ktNGozQkNMbUU4dGFFSDJ0X3BrQjB5bEJPRWtfVnc1VmRNWTVlVHJMTW9STGp0TVFPX0h0Y25FSXZ3elJfWE05RTV3a0JNRm9mNFlQSmFRbGpEV3hQVzN4SGxTam9LakxlaFh1U1Y1Yng1b2Vr0gHgAUFVX3lxTE0ybnZ5NVlEcG9QZ1JXdjhYQmExN0kxZmx3OU95a21JWlFsWlhqWEhSVXdDSlNRa1o5Z042UVlUY3c4Zzh1aVdGa3RZY3ZVTlk1XzRwZkUzWmtQUDU2cjNPejdneVBpbldZVWZfRVRQTXViV0pkSGR1TFhBOXFPV2JNZHJWQW5BamNPd0o2YTdEdlgwSEgtMk43WFZ6a3lxdnFQTnlrRnRqckR3MHh0dkoxdXJpcnFCeDFSWjFEX0xBNXdhYjZYcV94dnVkYk5Seno3N1VSY3N4UG9vN3lhQTFz?oc=5",
+            "publisher": "Outlook India"
           }
         ]
       }
@@ -2351,18 +2415,18 @@
     ]
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "chevron-to-self-fund-7-billion-investment",
-        "title": "Chevron to self-fund $7 billion investment",
-        "when": "2026-10-29",
+        "id": "chevron-to-fund-7bn-from-existing-revenue",
+        "title": "Chevron to fund $7bn from existing revenue",
+        "when": "2026-10-30",
         "place": "Venezuela",
         "lat": 10.4806,
         "lon": -66.9036,
         "what": "Chevron's CEO said the company will pay for a $7 billion Venezuela investment with revenue from its existing operations there.",
-        "via": "self-funded Chevron capital",
+        "via": "self-funded company capital",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2380,8 +2444,8 @@
         "place": "Venezuela",
         "lat": 10.4806,
         "lon": -66.9036,
-        "what": "Repsol is close to a Venezuelan heavy oil deal with 210,000 barrels a day of potential, and reports 11% gas output growth at its joint venture.",
-        "via": "new heavy oil capacity",
+        "what": "Repsol is closing in on a Venezuelan heavy oil deal with potential output of 210,000 barrels a day.",
+        "via": "new heavy crude capacity",
         "aspect": "energy",
         "flow": "into",
         "sources": [
@@ -2389,141 +2453,166 @@
             "title": "Repsol closes in on Venezuelan heavy oil deal with 210,000-b/d potential",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGExS0lUdk1LTm5weGNRSzQ4b3N6N0NMbDMzYlp1WnRMTmhtS1l6NW5SNi1XNmxGY243QXMzQ0REMnRxYkxtUUVKV1JfRHZJWno3UnBuaEpscjZGVUhaazlTZFFCZ0p0VFJRZmZtYXc3dk9MazRMNHdyczBpR3ZMZVN4RkF3LTlEcDZ4VXRpWklGd3lMb2lTOUVJdDNadXNTai1IQUVmeVM2Z3Z3LUE?oc=5",
             "publisher": "BNamericas"
-          },
-          {
-            "title": "Repsol sees 11% growth in gas output at Venezuela JV, progress on oil operations",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1RaMmRKMm8wQW85bVhYYUZQSmhwWUotY3dqMjl0dnBtVmI5ZUg1OWJndEl2M24tTXhtcGdnV3prYUpJbk9nSmVyVWxIWnI1R2hza2Q3MllTbmpXT3VENE5yNGlsdjhpZzc3cTREbllhUDNnamtrXzdXaGVvaF9uVU5JdVVPTi1IejdFYXh6SGIyNV9McWJLbG9qc0RsbDlmeGJUMkdMM0lyWkt1QU83QVdpYThDaDN2NDJmcGhpZWxSTjVyUWQ5UU1RNA?oc=5",
-            "publisher": "marketscreener.com"
           }
         ]
       },
       {
-        "id": "gulf-firms-enter-via-bp-led-gas-deal",
-        "title": "Gulf firms enter via BP-led gas deal",
+        "id": "continental-resources-signs-pdvsa-block-deal",
+        "title": "Continental Resources signs PDVSA block deal",
         "when": "2026-10-29",
         "place": "Venezuela",
         "lat": 10.4806,
         "lon": -66.9036,
-        "what": "UAE and Qatari companies make their Venezuela debut through a gas deal led by BP, widening the pool of foreign investors.",
-        "via": "new Gulf investors",
-        "aspect": "budget",
+        "what": "Continental Resources signed a deal with state oil company PDVSA for a Venezuelan oil block.",
+        "via": "new US operator commitments",
+        "aspect": "energy",
         "flow": "into",
         "sources": [
           {
-            "title": "UAE, Qatari Firms Debut in Venezuela Through BP-Led Gas Deal",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUjNQMHBTTFZoUG53dFloZGFLTHhad0tmT3JQV2RzeGdGb2x4RlNyT0JZTC1lc19RTHJ6TEtVUDFxWF82OU0ySGR6eW5GU1NwVVE4eWM1SmVJU2t2Y1dKLWNkaDNGM09LaHBQcEpVMDlMUDAwT0dMeENqdFo3eUU3TDBCM1ViRGFoREVPWjhQVFU4WDJ3?oc=5",
+            "title": "Continental Resources Signs Venezuela Oil Block Deal With PDVSA",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTNKVE1KQ1dOTnMxRXNxdWxZZVlqWm5qaUlyUW9wajMyOUlTR1FlTXoxTDVIYWMydGRuUU1FWWtpYWNMdGUycFBGTUpsOGFlUExYZFdwVUpGblFYWGJ1V0hTZ2xYUlhoajJRa0oxVjVaWjhaNjhuVVhDWG9YdjNZNmpnSGtDbEh4bmt5VQ?oc=5",
             "publisher": "EnergyNow.com"
           }
         ]
       },
       {
-        "id": "used-us-oil-equipment-shipped-to-venezuela",
-        "title": "Used US oil equipment shipped to Venezuela",
-        "when": "2026-10-29",
+        "id": "first-million-barrels-arrive-under-us-deal",
+        "title": "First million barrels arrive under US deal",
+        "when": "2026-10-30",
         "place": "Venezuela",
         "lat": 10.4806,
         "lon": -66.9036,
-        "what": "Old oil equipment that is unwanted in the United States is finding a new home in Venezuelan fields.",
-        "via": "cheap equipment supply",
+        "what": "Trump announced the arrival of the first million barrels of Venezuelan oil under the new deal and promised lower US fuel prices.",
+        "via": "proof of oil flows",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "UNWANTED IN THE US, Old Oil Equipment Finds a New Home in Venezuela",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXhYWVNfaUV3VVJER0lkdDZaYllIOFNUeDU5VjVfSjNUOEs2OVJ6QU5CRXV1cTJCWnp3WEtUX0U3aUp6WHJ0dkNJT3JDdXc2MmZvbzBJOHVOTFMtbDY0MXlya1hMWFplTDZpZDVZZGFsNGhncFZ1WmNidDdEUlR3a0JpdWdfS1NPV1V6ZjhkY2t1REFZb1FHa09POXJMZw?oc=5",
-            "publisher": "EnergyNow.com"
+            "title": "Trump Secures First 1 Million Barrels of Venezuelan Oil Under New Deal",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNjNJbm5fcjNTUEJTTU84Ul90QWRwc2hQODI1X1FNN0Y1c2NPSjVTZTlOc2NTd2xzYzBRc0dfcW13WDZkbGxscDBoaXRLc2tHcEt6Y1lEUktMZV93NUU1X2pUVGtOWWZhbHpTSjZvcE13aXVwb21hWUswcjdMM09pNUVtckgyVS00eVRrb2l0cmpWOGM0NWlRQkN2NzU2YW1TMmxSbTVPMVF4T0NtcFB6SnVuQXlyUDlqZlFYUQ?oc=5",
+            "publisher": "ChemAnalyst"
+          },
+          {
+            "title": "Trump announces first million barrels arrival under Venezuela oil deal, promises lower US fuel prices",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iaU9CNjZTSFU4M1RrZVNXb2RfdERfeE9iM2tkRlR6a3Eza25aa1hqYTJFTFZhTmQySUNGX1ZVSWFIS084Z0w2SWZjNzhZZXNZTzBxa1MzMklhRG85dkNv?oc=5",
+            "publisher": "Polymerupdate"
           }
         ]
       },
       {
-        "id": "us-energy-chief-backs-freeing-venezuelan-economy",
-        "title": "US energy chief backs freeing Venezuelan economy",
-        "when": "2026-10-29",
-        "place": "Washington",
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "what": "The Trump administration's energy chief said the US aims to 'set free' the Venezuelan economy, signalling continued government backing for the oil push.",
-        "via": "US political backing",
-        "aspect": "politics",
+        "id": "skilled-labour-shortage-slows-oil-expansion",
+        "title": "Skilled labour shortage slows oil expansion",
+        "when": "ongoing",
+        "place": "Venezuela",
+        "lat": 10.4806,
+        "lon": -66.9036,
+        "what": "Venezuela's oil and gas industry faces a shortage of skilled labour as the push to raise output gathers pace.",
+        "via": "limited skilled workforce",
+        "aspect": "jobs",
         "flow": "into",
         "sources": [
           {
-            "title": "Trump Energy Chief Says US Aims to ‘Set Free’ Venezuelan Economy",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLUZ1REg4S1pEX3Y5cVlCTy03b2QxclRuZlQ5bmU0a3ZGbDdEcWhtYndHNWRaa0kzSk9xaDRsdGxYNGZISFRrdnRUT0lOSm5Uc05fVE1UeF9qWldXYkhRSVFuel8yS0trYzl6OXdGdUFIR0pvb1dlNzVKTnFlWVlsVldsaUhhQTVaNVJjZFBzcXhGbVVBTEFQNA?oc=5",
-            "publisher": "EnergyNow.com"
+            "title": "Venezuela's oil and gas industry is struggling due to a shortage of skilled labor.",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUp4ZVBPd3FNbXpzaFF1R25uWHdHT185V2VqM1JyLXdpMG12cjNDWU50VE5KUXdsNGxBV3NaY0J2NlJaazAxeGcyUUlPWWlOSnJVRDlwOVF0OUR4SVNmNlM0Z1lVMlNXeUhFWTNBaE80UXh3aEc0ZWRuWE91TktnVlh1VnQ0M1o5LUlybGZB?oc=5",
+            "publisher": "Vietnam.vn"
+          },
+          {
+            "title": "Venezuela oil expansion faces labour shortage as output push gathers pace",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEtoZEw0TlZCMXVKY1h0ZS10WVRscEhyV0lHUk1kcXg4ZmdXaHNHVjJJZXpEQzBJajF1LVhnbnE0MUE5ZTNMZ3FNVU10UHJMellkbTVMUnZtZGY0RXcwN3ZNbHJ6d25Bb3JERXRYbE9uNmR0emRzb25IX0VQWmx3S0VLN3pGajRocGJzaTl6TzJfSWdYaGJaaGdMUQ?oc=5",
+            "publisher": "Traders Union"
           }
         ]
       }
     ]
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "russian-su-35-jets-delivered-to-ethiopia",
-        "title": "Russian Su-35 jets delivered to Ethiopia",
-        "when": "2026-10-29",
-        "place": "Addis Ababa",
-        "lat": 9.03,
-        "lon": 38.74,
-        "what": "Ethiopia received 12 Russian Su-35 fighter jets, a major air power boost as tensions with Eritrea rise.",
-        "via": "stronger Ethiopian air power",
+        "id": "eritrean-troops-reported-crossing-into-tigray",
+        "title": "Eritrean troops reported crossing into Tigray",
+        "when": "2026-10-30",
+        "place": "Tigray, Ethiopia",
+        "lat": 14,
+        "lon": 38.9,
+        "what": "Reports say Eritrean troops have entered Ethiopia's Tigray region across the border, raising fears of a wider regional war.",
+        "via": "cross-border troop advance",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Ethiopia Acquires 12 Advanced Russian Su-35 Fighter Jets Amid Rising Tensions with Eritrea",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlRqYVJ4S3Q1ZWFkM1hiOE9TRGwyXzdMN29oZFZwREFZOEpkQ0NBd0xNZHZpT012ZjQ0SW5NSHZid001UW5JVVlNNWFiZjlWRnVBZVdCSFplbFhiaGs0cVI5bm90cGJuUElqb0hhMWp2MW5OYzQ3VDNUeDgwb3RmSjRUbF9yc2ZpN2JzR3pySUtSQlFDWDRYOWxWVU9KX1pxZHFEQXRvX0tnMkEzZDBOU2xGVmtKa0RNZ2Jib0oxX2d0dw?oc=5",
-            "publisher": "Tuko News"
+            "title": "Eritrean Troops Reportedly Cross the Border into Ethiopia, Raising Fears of Regional War",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2xfekhCUmdPQkYxSXpobHl2d25RUnRmVUZsRUk2NUt6bzFUN2xRVVN3bXdSaGRpcUNDNFZLUld2MWlxQXhoT1lqb1BnNC1tREVMOENhamVlS01YNkRlV1NpUmdhbnctUElEZlNabUhscWpFTHpjWlhya3NLcjh6Q054OWpnMTdyWlV2eWZpazhFZlUxZWtDV2tpRTBTMGJIb0E1Z251b2ZlUV9jNVFERGx5d3RUQlN1Z1RB?oc=5",
+            "publisher": "https://globalpost.com/"
           },
           {
-            "title": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2tQNlk0TlVGc3RBX1gwalJJby1xb285VFREc3l4T2tpOFdneVZYY29zQUZBUkZleFpKVUdUNERRcHVFa25fUXI4V1kxLW8wNjhrekJYb19aLW9xdzhiNkNvVUNOZXA3b3Vfdy0tM2RROVE2a2VzS3VnY3g5MkV1QzdfVUp0TzIwcEZrTFB0c0V0cFlkSzRMWnNsUzhPcUhVTlNCcXdFUmbSAa4BQVVfeXFMT0diQVYyNG5kRTAwVmhEaEVEcTNSa290UVdtdmFXc2ktUVBOOFNEMWRiWFcteEp2LVRrSUxFVm8zbU9WNDRuZDRON0RURzlrbzItNDdSQ3JvMThDNUhDaF9yT3VaNlY0bVcyMWxodjEyTGNaaUdQMWxQR2RoVjROYlZFY0x4dUw2Znh3TzlJeWlEQ0VfVWVKRGhnWkFScTZyNUZSOXJGNFdXaUJBbm53?oc=5",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "World: Ethiopia receives 12 Russian fighter jets",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUENEdGVqMHFnOExyZXZMYTh3XzBhTXc1ZGFqMVp5WWllelJ0X1c5elgtTHFVcWtCUnlTQjhQNkctekZld0RqRkd5Qm5Da1pNSjZlcG5nLWRzek9wS1VaT3pBYTFZanBDUmtycWlSZ2FIbkoxbjZfLUwzcmZLUDFEcVV1M1BnanJHRnhLcHViTmVKUUdRZlJJVkNYMVhJZG5TTFFz?oc=5",
-            "publisher": "NewVision.co.ug"
+            "title": "Eritrean troops 'enter' Tigray as regional war fears grow",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ib2xvUlZWem1jbEhSVkNRX05FYnJNSk9FYmtad2dyN3N3dmstck5paFlzckVMWTVOMjZBMVNvZlp2cGt5VXN4Q2tHSzRNY3hmcWxRcUgyc19NczVvdjZBMHE2Nng?oc=5",
+            "publisher": "TRT Afrika"
           }
         ]
       },
       {
-        "id": "airstrikes-hit-rama-in-tigray",
-        "title": "Airstrikes hit Rama in Tigray",
-        "when": "2026-10-29",
+        "id": "army-drone-strikes-kill-civilians-in-tigray",
+        "title": "Army drone strikes kill civilians in Tigray",
+        "when": "2026-10-30",
         "place": "Rama, Tigray",
-        "lat": 14.43,
-        "lon": 39,
-        "what": "Airstrikes around Rama in Tigray were reported for a third consecutive day.",
-        "via": "ongoing air war in Tigray",
+        "lat": 14.1,
+        "lon": 38.9,
+        "what": "Drone strikes hit a displacement camp and civilians collecting grain in Tigray, killing at least 11 to 25 people according to varying reports.",
+        "via": "escalating armed violence",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Airstrikes Around Rama Reported for Third Day in Tigray",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DSnh5eGlwSFlmRFVISERqWXY2U0RHS1hfa0t2MmJsZmthN3FXWWNHb05Ub2cxdTl2ZTdpejdWTVR6NC13Qi1zaWtCYk1EdUg2dHVuZ0VhM2J0d0xsYjlPZ3M2RmxmVFdjWktFcWVxTU1Jb2FFelU2d2RfZ3o?oc=5",
-            "publisher": "https://kulu-media.com/"
+            "title": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWxFck1EbEF1MjVtOFo5RFpsbHh0TFJDa251X2pPeEtISEI4UDVRZzR2ME5qS2NyRWw2Zi0wVWlUTkFIRVZ0d3JoanhFc3MzdlMtWlJaRTh1amh6cng0S0lDOFlvY2VUWDNabFpQaUl4clVLY0pHUXM0bzJZRzhJSzB3RmhiTE81eURZQUEzQzRKRzhSUjV4UFBVcmE?oc=5",
+            "publisher": "Reuters"
+          },
+          {
+            "title": "News: At least a dozen civilians killed in yet another army drone strike in #Tigray’s #Rama town At least 12 civilians were killed and several others injured in the latest drone strike targeting civilians collecting grain scattered from a truck that had been hit by a dr",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjRwaDVELUFyYmhXNUpWdFpnbjFyeEE4bzcyaDVqcnJTd0VnWjVHbFZmZzJCRnVvZGxtYzRLZEo0a3RhME91Q1FvTEp5NjNQTURhR2xkV3J1M2NpS1B3cHJOdG9ybjJRMHRUTHFBdWxMMms2MGNTSGkybGdoNWtLc0xacDVKVU1EMEtITkhXNlg2RHBSN09OUUtaLVNBSWtELTQ4MjdCMzlBVXRwcWpXZ1ctYjl1c0pQb2RKZkczZW5waUlRa1JZSzk3SkFQS3BNQjVPSS1LVlBFU1VyX3dn?oc=5",
+            "publisher": "Facebook"
+          },
+          {
+            "title": "At least 16 civilians killed in drone attack on displacement camp in Ethiopia",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1ZVaUtOODNyTFp2SnFBV1p6TVdWX1NxRFBvT0ZXMHJzeENUVjBWZTZNcG1ZYzBqcWFhbVFLY0I3RnVzdWxramJGalZraUVtcFdKVnVjQUN3blpBLV9IRXFYNnhWRzF4dlRaLVNNUzQtbmFjY3ZQNENCWURhN083RXZkNUxPQkZILUh5NklibTV0a2phbjk0TnlQSFZ5S3pES3l0OUhyNkxjZXlTcnNVTFRCQnnSAbwBQVVfeXFMT0dfT1ROZkU3XzFVV1lPbmo2MDBJRFcwcloxLXpuYnpGS3RlZ2x5YzNtd05iSGdncXJKajFVT0VyMk40YjAyaXdUZEZhM0lkM2hEakxaTTB1RWRCNF9iZnNkdkNwTWg2QTdVbjN2bDhoU2t4SFBydzNxc1VMRk9WY0I5TkpJczgwLUhHNGVCblhudm1CNkJoZkI3WUI2XzRGNEVGQUNHUENKWlpzYjluaVZldjJxRzV1aTV0aGI?oc=5",
+            "publisher": "The Express Tribune"
+          },
+          {
+            "title": "Drone strikes in Ethiopia kill at least 25",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLThST2xycmZoT1VNdWI3anJjOERLU0Q2YktSSjl6eUxLdmk2cnEyb2RtN09BdVd2MzFEeDJ0RzJzckI5RjdxczlkX2FoeDA0dDZRSzBnd0sxWU1OQlJaTzdtRTZnRHFnLXpORDNHd3RpQ1VQQkVEUUNQTVdlT1JKQzJnS2FKcE5L?oc=5",
+            "publisher": "Arab News"
+          },
+          {
+            "title": "Strikes on camp in Ethiopia kill at least 15, sources say",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWW95TzFYM3BqQlB6RkRQV2RNaF91VTR6Rjl6c0hWaTRyenkzaXJEVnJuUG9iN0NXSk02YWFWSGEyNDVJaFNlZ2RlWE1FeXBqaFNmR1AzQmFJME1zQVpHQmlMSnlTRzBPWDhodnZRMC10bXlwa1dsWlNpV0NzT1NZcW0tZ1JZZVo2WE5RVDZ3eE5nSTRycWQxRUtSN2N1VnhNLW5Ha18yNzJKcHZpdC1seFR5X0N4MzEwSHdqMg?oc=5",
+            "publisher": "Internazionale"
+          },
+          {
+            "title": "AFP: 11 people have been killed in a drone strike in Ethiopia’s Tigray region",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LcUZ2X1J0R042RjBTQ0VjTkR4X3F1Uy1rcmFhaE9SaXZkU2lQTUxYYjRTR1Nvb3JXbmZEVi1zZ1JyazJneWtiaXYxQmxwTndaZ0ZGeVNDbWc?oc=5",
+            "publisher": "MTV Lebanon"
           }
         ]
       },
       {
-        "id": "abiy-names-new-tigray-government",
-        "title": "Abiy names new Tigray government",
-        "when": "2026-10-29",
-        "place": "Mekelle, Tigray",
-        "lat": 13.5,
-        "lon": 39.47,
-        "what": "Prime Minister Abiy named a new Tigray government and said he wants elections in the region within six months.",
-        "via": "federal push to control Tigray",
-        "aspect": "politics",
+        "id": "ethiopia-reportedly-plans-somalia-troop-withdrawal",
+        "title": "Ethiopia reportedly plans Somalia troop withdrawal",
+        "when": "2026-10-30",
+        "place": "Somalia",
+        "lat": 2.05,
+        "lon": 45.32,
+        "what": "Horseed Media reports Ethiopia plans to withdraw more than 3,000 troops from Somalia.",
+        "via": "shifting Ethiopian force posture",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Ethiopia's Abiy names new Tigray government, wants polls in six months",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTBJVG8tMkJ5Z3Iwd0JrdW0tVGU2WHpMYjE3dl9WdmQ1aG1yR2g0dmtlZERQbkR0R1ZXQXA3NTRzY093YlhLYi1qa0ZudHlqQW1YbjQ0WWNVdW1VRW03NVFNSmtSZkVmUGdXYUp6ZXhBbFlMRl8zMnJMd0ZseGpQSTZRQ1p4dHNMdGNrZlR4dXFNdVNXVlVNMENHYVZveHVMNXY1aS1TZ3lNZUxJeUhXdUdNOGx0R1JoYlRN?oc=5",
-            "publisher": "Hiiraan Online"
+            "title": "Ethiopia reportedly plans to withdraw more than 3,000 troops from Somalia",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVlrZnBEV3FySUswODk4SXhObUZFcWtKUVlya3VzbE9FcHcxVmFJSm5hX1VEMUtYc2NlSjh6M0lkVHA4NFVQY2lja2JXWkxCbjg0Sy1wZUpEa1lNRFNzb29FN0Mtb09UTUhpNnQ2LVBBME9ldXJzXzdJWlUtSHI2SVdEN0Z5anB0eXo1OEVFbUZZWVdMdDdWLXBKUWhOa1VWNlRTc3Uxcnc?oc=5",
+            "publisher": "Horseed Media"
           }
         ]
       }
@@ -3117,120 +3206,115 @@
     ]
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "manila-snubs-china-at-asean-defence-meeting",
-        "title": "Manila snubs China at ASEAN defence meeting",
-        "when": "2026-10-29",
-        "place": "Manila",
-        "lat": 14.6,
-        "lon": 120.98,
-        "what": "Defense Secretary Teodoro skipped a welcome event for China's defense attache, and Beijing accused Manila of erecting obstacles to its attendance, with tensions resurfacing as the gathering closed.",
-        "via": "worsening diplomatic hostility",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Beijing accused Manila of \"erecting multiple obstacles\" to its attendance at an ASEAN meeting in the Philippines this week, where China will be represented by an embassy attache. Link to the full story in the comments section. | via ANC 24/7",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTVVNY2hHY1pmMDVWel9rOVQyZnl0T1BncnVTMjJfb2NtUmRPcWw4NFVKNFdDRGVRV3JFb2pYVFNubkpFeHJuMTc1SnNFemdJSGd6TThJRUtqMGRKRW43Y0JEVFVVZ3VfOVpGaW1XdTBwZUlKbDc5OEtqRG5iQ1dLNjRhOGJkS0wwMW9LYWFCNkQ2ckRoNkFOYXBNZVZBbjY5cFZqdE43MWdlbzlpcW0wMWw3bEdNZ3k0R2JsdlNHQkVpOVBmbWp3b1p1cUNQbEZ5TmRRbUIxSQ?oc=5",
-            "publisher": "Facebook"
-          },
-          {
-            "title": "Philippines-China Tensions Resurface At The Close Of Asean Defense Gathering",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORGoycW5zcnpjUnpoa2xfQUN2MWxLX2hFZ1hYT3BDcFNfMmlsT1JfX0FBWjl2SmRJQ0VxNEZicTZMbDRXM1hXakZlc0xDa0F4NDhRa0d1TWloMDFDSndjNk1NazJFNmxFY1F5R3N6MEoyQVV6a1c4Mm1EeUZjZnhhcl8zMk4zcFhVQVpSdGtSTDJ0QzF2SEl4dUZCZUNURTNkc0JOOHAwUlR6Nklf?oc=5",
-            "publisher": "OneNews.PH"
-          },
-          {
-            "title": "Beijing says Philippines 'erected obstacles' to ASEAN attendance",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaFBIMmJ0T1VOV0JiYXVjQW9hMlFxSW5GLW0xVkJKTC1pQTBlazdNV0hfd3BmVUxybnpWdUEtdmZvc19wYU8zaHAtVW1hVWdEZGJUdkhWUVJJTV9HM3BzY3JhUUdMTnBPaVpGSXdOblE4YXo2b0ZXVHpGZlBVaDRlV0N3Y0RzR1NkNHZVWldGYU52YWJielVRRGtfVzFyaEs3b0pYYnB0SHc3bFJDZkFiMkJaaHVFVllGX1F30gG7AUFVX3lxTE9oUEgyYnRPVU5XQmJhdWNBb2EyUXFJbkYtbTFWQkpMLWlBMGVrN01XSF93cGZVTHJuelZ1QS12Zm9zX3BhTzNocC1VbWFVZ0RkYlR2SFZRUklNX0czcHNjcmFRR0xOcE9pWkZJd05uUThhejZvRldUekZmUFVoNGVXQ3djRHNHU2Q0dlVaV0ZhTnZhYmJ6VVFEa19XMXJoSzdvSlhicHRIdzdsUkNmQWIyQlpodUVWWUZfUXc?oc=5",
-            "publisher": "The Manila Times"
-          },
-          {
-            "title": "China-Philippines Tensions Flare Again at ASEAN Defense Gathering",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGs0Y3Q4dWF2UlBYSHdGaTA2XzQ0OGtHSDhGd29aMmVIZjdIbHAtMmZjNVN2aFFpdGpmc1Z5ZlFsQTNYZ3g1bW5zcHduNm4wbnNMSWQ1M3hVS05VVFIxa3ZXcnd3SlJfZGlEVlNyZ3RwaFVoNm85ODdJNFFnaXBIcGRtdTFEOV9WdmYxalJBZGtIelpkNGR0ZXVkMTZJMzlWM3h5RWVTVGc?oc=5",
-            "publisher": "The China-Global South Project"
-          },
-          {
-            "title": "Gibo snubs China at ADMM-Plus Philippines Defense Secretary Gibo Teodoro snubs the welcoming event of China’s defense attaché to Manila Senior Captain Yang Lei. Full story: https://www.rappler.com/newsbreak/inside-track/gibo-teodoro-china-defense-a",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLW1fS2FGcXhsN0lwYlZQVjJIN0NaSEtsOC0tY0tta3FzZmI3OTVvalBSOFBDTjdrQi1RT2t2enpzOGRRQUhWQWJKbzJoOE1jdEZELUtUTC0tdUtSMlZHRzFTdXpDeURPUlNibFBWaER0c0g3Z3VTOW5HQlRwZnFvSmRUOTZwYnRtS3AtdkxuWVkzRkVMRTRBZUZWb2VOSm9Bc21TR0xMRF84bWswT0xocmU3WkhtdWxZNldybDZhdklmM2EtNmFSOWNaVVNoZGhpM0w3SlI0ZFRTYzg?oc=5",
-            "publisher": "Facebook"
-          },
-          {
-            "title": "China accuses Philippines of setting up ‘obstacles’ to Asean defence meeting",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeGFfbThVSEtiVFlfa2k3Q2tVbzJKQjZJT3RkQlNqQW1Dd2ZORk10RkhEYmVPOW1hUWNseTM3NWlaY3VhZm1rSExXaGtWY1o0WmprMzJDTEYtdDAxLUNsZldsRElxRkJNcEdqbW9STUgxU2pUa1lZRkw1YjVucXlLa2JVTGFBT084dllhR2ZLSGJzeG1lbE1QZk9tRXBEdV9EZE9jTHQ4YkhjTDJFOTlNTDRxbnAyUzNLQVp4N2VONFlVYTRiQXlpM1JqRkPSAcwBQVVfeXFMT3FBMEp6czFJUzM5Rlp1R1FXYWFseDVmQmtETUNBMG84cXBIVVNBOTRHd1QxRTBydkM1OEw2d1FJZ0pEdzBlUDRkUFZvSWl0S1BUMDlJRXd3clJPQm15UlVKQXJvQzhhMTFvSUpFVXNlQmt2UjdfXzZ6WGlSdzgtYjY0ZU45QlduLW53RWpVbGhBSXRTSTF0TmViMjJOcWhieWJxQTdCNUV2UXA3NkV4TE93elFKMTNyUkZKbHM3dGZabGRCMEhsZ3ZTd2lS?oc=5",
-            "publisher": "South China Morning Post"
-          },
-          {
-            "title": "China cries foul as tensions with Manila flare at ASEAN defence talks",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWi1XUERvVFRIQ2pOQjFIZno2eFNibl9TRmhTSDVsNjhya0s3Nl9uZjNFeTVHVnV5dXNGZUtndTRURmt5VFhLbHZPTkh3SW1GTkxVeEFVcmFfLXlPQjRPdmhjcE8xTzNxLWF4NlQwbDQzWU51bG9NNEF2TC12dnVDS3lwM19GcUxIam5oeHVfdlpoVkFLRUJGSkVab3RieTBvbjF3cXhDYmlqN0ZRUTFTNW5wTHFOYldacUE?oc=5",
-            "publisher": "The Straits Times"
-          },
-          {
-            "title": "'More than courteous' for PH usec to meet China defense attache —Teodoro",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOE9ZaXpxWHNhNnJ0a1ZQV0lLdkdJT040WFZQUmk0aTBIWW0tR0pVNlktSnpvS0VYMGdveGlIVkRyX0JObFBpb1lhdW9ZcjVlc3NiUGlyN2U2dkZCTHRmeGgydmZJaVk4U3lKcDV3NkZoU20xZWw5T1JwRUhYeWt2OWJaQ21mNkwtYzJ4UWkxVlpKbkl0aGNpc09hc2lkZWo1R0N1MHpJekx5TXp3OUFpTGx6dDFCOVFCNHFkdTc1bkEtQ0IxRW9jcTB4ekJUYTdk0gHWAUFVX3lxTE1MZDVrRnZUczh4TXhUZUFsQkFHdXZ3R1JjVmUtU0JYdklMM0VEdEdoaDQ5TlNPd2xiVVo2dWpleTE0QkszcmxsMWc5STZzaWY1aDd5VW5abG1jV05wcmduZ3FRMTg4Skk0MnF2dVZ1Q0xqYkRqblVrNGhYV1VyUW03cGFkc3p1ZXkxcnRrcWlrU2xHcmcySlB3ZzhlYkdKV3lnWHpzeHE4amxSYXM0VEpMRXE4LUFMclhjRmJCaXR0OFNKSkdVRDVWcl9laDBMN2Zjdy1Yd0E?oc=5",
-            "publisher": "GMA Network"
-          },
-          {
-            "title": "Philippines-China tensions resurface at the close of ASEAN defence gathering ​",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLUhUSUZnZU53eEJReWtLSTB5OUstZTljRG1WTnRaSWpWa1FBTm04dnR4SDJXcHh6WDczUVVDV2FzRTlQLUp1NlNIQnAtMGFyamN3WXg2T2JPYm91UzVwRGd2NC1nWVBVVnVoU1ZGcnBvY2paMlBKc2pwSHkwNHVuMUs0SUdUNlNfdEpveHhJNU1aa1IxZDF4V0NyTktmNU9oVk5FS09sRXJ5aWFWR0dra1Frbno5dFUyNmptek9tY2tYNElscE1qLVF5TC1teElrQ1Y2NWZB0gHWAUFVX3lxTE4tSFRJRmdlTnd4QlF5a0tJMHk5Sy1lOWNEbVZOdFpJalZrUUFObTh2dHhIMldweHpYNzNRVUNXYXNFOVAtSnU2U0hCcC0wYXJqY3dZeDZPYk9ib3VTNXBEZ3Y0LWdZUFVWdWhTVkZycG9jaloyUEpzanBIeTA0dW4xSzRJR1Q2U190Sm94eEk1TVprUjFkMXhXQ3JOS2Y1T2hWTkVLT2xFcnlpYVZHR2trUWtuejl0VTI2am16T21ja1g0SWxwTWotUXlMLW14SWtDVjY1ZkE?oc=5",
-            "publisher": "Devdiscourse"
-          },
-          {
-            "title": "China says Philippine politician imposed 'obstacles' to its participation at ASEAN defence meeting",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOW5oSWN1NEU1a3RSQXVnUjZjY1VEaHRhX2NVcDNYemthR3AzMWZpd0xWVjBsY3k4WmdwUHNBcXU0eC1fY0pXMFlyT2wydHI4YVpNMUdkaUVEN3V4ZUNkZUk5ZWZ0MmRPUEdlU01kNndrNUFlY09JcHprTTZ0c0xHSnk4WXc5b0wtdmE1aWk4dHF1WnpybERZUTdubGF0VXpVQkh6Qlp5WC1QQXhobVJCM1R3Qll1N19pQzFud1o3amtSdHFLdEpVTUtEbklnakpqMW5QZjh5VUg?oc=5",
-            "publisher": "Awani International"
-          }
-        ]
-      },
-      {
-        "id": "us-sends-advanced-air-assets-to-philippines",
-        "title": "US sends advanced air assets to Philippines",
-        "when": "2026-10-29",
-        "place": "Luzon, Philippines",
-        "lat": 16,
-        "lon": 121,
-        "what": "The US deploys state-of-the-art air assets to Japan and the Philippines, reported as a step to increase pressure on China.",
-        "via": "US military pressure on Beijing",
+        "id": "china-patrols-scarborough-shoal-on-combat-readiness",
+        "title": "China patrols Scarborough Shoal on combat readiness",
+        "when": "2026-10-30",
+        "place": "Scarborough Shoal",
+        "lat": 15.18,
+        "lon": 117.76,
+        "what": "China's PLA and coast guard ran combat-readiness patrols around Scarborough Shoal, which Beijing framed as a warning against Philippine provocations.",
+        "via": "heavier Chinese military presence",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "U.S. Deploys State-of-the-Art Air Assets to Japan and Philippines to Step Up Pressure on China",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yekxkM2JkYUFOall4SVhHMHVqZnR1c0RMT0RZU1cyTzZRNDZ0NXNDVENkUjJSNkhWX2tqLUhZdnBJWFByZ0hsV2dVNGR0ZGh3NHhKOV80d3Q2VHRpa3VBYjUxQ2tlQTMxakFHcnBn?oc=5",
-            "publisher": "news.sbs.co.kr"
+            "title": "HEADLINES: China boosts patrols around disputed shoal | October 31, 2026",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXFkb2ktQzI4SGp3RW13N0dQR0lBdWhYVXZIRUNJamFGV09IQnhPRUowZEdnVzBNdjFMa2tlcFhkYnBxTHFuTHNSblZGWDc0M2ZCcmplUWp6bENFQ2x2TklpUE12MF9PeFdzd0NfYWo3d1FfVkNld0Yxci1JSG1YZWtOeDQxS1V1U2NQTkoyVU9PZ0kwQjJVVmJNN3p4cUxlWGN0RGRkT2dtTVZScnFLWTN2cVg2WHR6RVpiaXRPYTNpUdIBxwFBVV95cUxNVmJYYm5vNjU4eWo2WW9NbUk2aGE4MmNUQ0ZGZXRqTmp1T0xJOV9pQzB3Yk1wOUREV0JhYVN6Q0xkNWh6VWFJdU5oVXd5NldZU1RORGlzb3lMWUs0ajBvVnkwR21LNG5GRjNRSUMxeWZqMlVDWGYta3U4NXJldl9wOHVSTzE1cDNPSVhCeno4a2Y3YUZUMFNYZEJEbk5LZWNBNy10anJqRlRxZjZNUzY0aG9IMGIzaTJuYWlnY1BJTEgtN3htMWRn?oc=5",
+            "publisher": "The Manila Times"
+          },
+          {
+            "title": "China intensifies its patrols ahead of a possible clash with the Philippines in disputed maritime areas",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkllczFCdU1qRnlGMmZPTEFLblFMdU9kVERnel9MTWVybEFVMFh6RklpZEp4d3NLbHBDcUlSdFp4aEJWZVlEZm52dzE0bG9SMFRxbko5OUZhek9yOExtbXhKeHppYU1tamR2YUlSNVZRUmQwbGozVGZZbjk1Z1VQN3pOQ2pVZ00yclVFNHB0eG91OXduNFlFTDI4T25lemxKOE43UnU3OEZnUXRlc21rbTM2bXlxMkktT0F6Nnk1UkM0NldfSVRPV3pZQ3U4R0lxSHZNMFdNU3lMMUNQVGxCWjQzb0PSAeQBQVVfeXFMTm5JZXMxQnVNakZ5RjJmT0xBS25RTHVPZFREZ3pfTE1lcmxBVTBYekZJaWRKeHdzS2xwQ3FJUnRaeGhCVmVZRGZudncxNGxvUjBUcW5KOTlGYXpPcjhMbW14Snh6aWFNbWpkdmFJUjVWUVJkMGxqM1RmWW45NWdVUDd6TkNqVWdNMnJVRTRwdHhvdTl3bjRZRUwyOE9uZXpsSjhON1J1NzhGZ1F0ZXNta20zNm15cTJJLU9BejZ5NVJDNDZXX0lUT1d6WUN1OEdJcUh2TTBXTVN5TDFDUFRsQlo0M29D?oc=5",
+            "publisher": "Demócrata"
+          },
+          {
+            "title": "China conducts combat-readiness patrols near Scarborough Shoal — Interia",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWRQOTFiZmR0TExmYjJXQkN1Vm1nMFhjMGoxMGFnMlZyNFBlcTlrRXFJdXVsNlIySEUwck9PbVA2SVBiaFc3MTNKbDEydk1XR1g3QjJoZEM0MEY5RUJQTHJvUl8wNnJhRkpBLS1rNUdfU28tb2czUVFPcUhFdEhvRU9GY1ZhTWRYV05jVEJrYXNXSDlQOUE0a09sLWtHRVZVM1dJVG9n?oc=5",
+            "publisher": "UA.NEWS"
+          },
+          {
+            "title": "China conducts combat readiness patrols around Scarborough Shoal",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGl5cHlaLUQ1OUFRb3UwMV9scWVWYmYzRnlSQTRQdDN2R1kwUk5zdEM2N2FadncyVmVvMXZMQ2RqMkNqRTZGV2V2a3g0NzNZbnJmWmtxY191VUFvaUVEYnRMZURVdG8wQV9VWThtSXBGS01ZNC0xSU13Sm9TX19ZelIwQ3BwNl9ZNjB2V2xn?oc=5",
+            "publisher": "Latest news from Azerbaijan"
+          },
+          {
+            "title": "China conducts combat readiness patrols around disputed shoal in South China Sea",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTdjOW9BMzlFSU40Z3NJTDY5djRqTG9yRkhPOEIzc3dKVFpSVWM3eldXZm9RS0FjckxjUzY0ZmxxeXVCRGpDZS1MSzA4STdOU0xOYlFWcXByVkV6UHpRZUM4RWpUYllKcTVnSUdsN25FTXQ4NmhxaDIzLVR3ZC0tV0pPTm94SVdfWkV2YU9KaFZNaDhkUnpZTGV5cTlCdDFTNWlVcFNER2hpaHNscjUyVFRURUY3Zw?oc=5",
+            "publisher": "Hiru News"
+          },
+          {
+            "title": "PLA, CCG patrol around Huangyan Dao send clear warning against Philippine provocations, demonstrate comprehensive capabilities: expert",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80ZGFrWnBQZnF4M0pOV1g5Y3ZRUGZjempjYkVSd3V6WmxVUUZNWFhCNFlOLUxUVjlUVHRoaHlUOHg1TkxYQnpBUzI2VnFxWDAyQmYySFIyNlJaYWpGNWVlUktB?oc=5",
+            "publisher": "Global Times"
+          },
+          {
+            "title": "China Steps Up Military Patrols Around Scarborough Shoal Amid Renewed Philippines Tensions",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmc4N191M2ZtT1dxWDhOckctN1JPaHlpRm13R0tGcjRJYWFZVTFtUHllU3VPX1U1ZlBXVHRTT21Pa2ZyOVo4U0ZwV1hOWkk2UnV6WmJuMzJMMENPU2FsekpMX2loSzU1Rk5lR3dHY3dLVGJlcXFWOEdNOEg4WFA4QlJqZmM5ZWdCNENVS0k2SHZ1QkdnQW00V1RHTEFYNl9EOHkyeUpvMGZsNlBJLVl6XzlnOUVOT1AzdlUzUEEyY3ZEMWQ3Qnd0Xw?oc=5",
+            "publisher": "Modern Diplomacy"
           }
         ]
       },
       {
-        "id": "doubts-over-us-commitment-to-sierra-madre",
-        "title": "Doubts over US commitment to Sierra Madre",
-        "when": "2026-10-29",
-        "place": "Second Thomas Shoal",
-        "lat": 9.72,
-        "lon": 115.86,
-        "what": "A report questions how far the US defense commitment extends to the BRP Sierra Madre, the grounded outpost at the centre of resupply disputes.",
-        "via": "uncertain US backing",
-        "aspect": "politics",
+        "id": "beijing-drills-water-cannons-and-drones-near-shoals",
+        "title": "Beijing drills water cannons and drones near shoals",
+        "when": "2026-10-30",
+        "place": "South China Sea",
+        "lat": 13.5,
+        "lon": 115.5,
+        "what": "China held drills using water cannons and drones near disputed South China Sea shoals, rehearsing tactics used in encounters with Philippine vessels.",
+        "via": "rehearsed coercion tactics",
+        "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "US defense commitment to Sierra Madre questioned",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1MyRHlxX3BTTExfMjE0SnRBUGJtQWQ2N0d0amNjZGkzdmJNSy1CMVJ4U004VlRUSXA2ajY2WjYzR3VGbWNScmVVVU5mYWdLU2dCTmxFVHZILUcwVUZQZ0FhVUtrMDV1Q2ZwLXRuZ0dGUDlRVlphMnR4TU1iQ2FtMVVDdnVpYzB0elFaOG5sODBRVlZ1RWNhaGpnT0xXQi0tV1pWaTRZRWU3ZnBLU0QxWGJiUdIBswFBVV95cUxQV1MyRHlxX3BTTExfMjE0SnRBUGJtQWQ2N0d0amNjZGkzdmJNSy1CMVJ4U004VlRUSXA2ajY2WjYzR3VGbWNScmVVVU5mYWdLU2dCTmxFVHZILUcwVUZQZ0FhVUtrMDV1Q2ZwLXRuZ0dGUDlRVlphMnR4TU1iQ2FtMVVDdnVpYzB0elFaOG5sODBRVlZ1RWNhaGpnT0xXQi0tV1pWaTRZRWU3ZnBLU0QxWGJiUQ?oc=5",
-            "publisher": "The Manila Times"
+            "title": "China holds drone drills near disputed shoals — South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYkR1dGd6WVptM1VHSjJzak5ya21HNW53N0F0b3ppVmFtR0RiSnNSdk5yamN2RzZJQWczTEZsSVVBbGdWU3JvYVJnVVJaVEVQOTJKcUtnMTkwYzUzMFZydlFRcFFKUTM1UjVXVFcyS3pQX2lfTHVEMllYbzNqZ21yRjhCeFIwSDFGQ1BNMG43V3Y2akFlS1NUcTVDZ3g4WUdaNllEZVlwczF6TVJWWUNrcDhB?oc=5",
+            "publisher": "UA.NEWS"
+          },
+          {
+            "title": "Beijing drills water cannons and drones near disputed South China Sea shoals",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2N2OUIxeElwdDdRMGo0STN4WHk4YkdSMERqOE9SR3o5eEsyclBfU3ZkUFR6WHp5emRGQWRjeTBFcVZJUUt1WUc4UW9TWjFmWXRVXzR2T3Z4MWVpeExrSHRQTGMzbkhOM1l3V3I2dUhCaXFiVUt3MVFNWXhWQVNha1d2TjZBMUZUT1lOQ0RJNDZpVm9RdHpuQS0yTFplMHFJVUlrczhZbVZ6aXVqYXpwYkV0RXVGaUU2ZFE3amo1U0RhZktPVTR5UnlxNUJNQTjSAc8BQVVfeXFMT0NjdjlCMXhJcHQ3UTBqNEkzeFh5OGJHUjBEajhPUkd6OXhLMnJQX1N2ZFBUelh6eXpkRkFkY3kwRXFWSVFLdVlHOFFvU1oxZll0VV80dk92eDFlaXhMa0h0UExjM25ITjNZd1dyNnVIQmlxYlVLdzFRTVl4VkFTYWtXdk42QTFGVE9ZTkNESTQ2aVZvUXR6bkEtMkxaZTBxSVVJa3M4WW1Weml1amF6cGJFdEV1RmlFNmRRN2pqNVNEYWZLT1U0eVJ5cTVCTUE4?oc=5",
+            "publisher": "South China Morning Post"
           }
         ]
       },
       {
-        "id": "us-presses-asean-naval-cooperation-reassures-allies",
-        "title": "US presses ASEAN naval cooperation, reassures allies",
+        "id": "manila-skips-asean-defence-meeting-beijing-blames-it",
+        "title": "Manila skips ASEAN defence meeting, Beijing blames it",
         "when": "2026-10-30",
         "place": "Manila",
         "lat": 14.6,
         "lon": 120.98,
-        "what": "Washington pushes stronger ASEAN naval cooperation over South China Sea disputes, while Defense Secretary Hegseth reassures Asian allies facing Chinese and Russian aggression.",
-        "via": "US-led regional alignment",
+        "what": "The Philippines snubbed China at an ASEAN defence meeting, while China said Manila had erected obstacles to its attendance.",
+        "via": "diplomatic friction",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "China says Philippines 'erected obstacles' to ASEAN attendance",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb3A4VXVId05RRjkxQ1dITW85ZEtJbldhcE1mdmNzZE1zU3NJU1pPbVFDWW9Td3MwdUVkeUh0VW11cHlsRlNNZGtqNERnenRrZkJQcUVBcUJ0azdKWXhrYklPTFZJdDMyRGFfNENhLTFVTjRBNjBzQ1R5Yk0zT2hXNzBmc3lnS0pwOXdsTl9CLTNBTXlOUWtaWG9pNmZ6dVZIU1BKRGFOdnNkWUNfVFEwMA?oc=5",
+            "publisher": "ABS-CBN"
+          },
+          {
+            "title": "Philippines Snubs China at ASEAN Defense Meeting Amid South China Sea Tensions",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVBaQUN2UC1nb1dIWHJQY0pvbkZTUjNfZkxJd3Y1TmJtaDNiTVlBQncxZlR1UE0tY2F2Z25YMlMxRXpsYkN1QkY0c0V5VTdZMFZqWlA5eDZkcDdmaFk2dDVnT1pJdm1EV3hFZjF4WUJlbVVSVnQ3TWhhcWQxTTI0QktFZjNxRWRMMFlhb3NhY2EwRnJNcUdCMWFmOTFKbDZ3Q3VuV0JxeHIxSUsyY0JHNG1B?oc=5",
+            "publisher": "https://streamlinefeed.co.ke/"
+          }
+        ]
+      },
+      {
+        "id": "us-presses-asean-for-stronger-naval-cooperation",
+        "title": "US presses ASEAN for stronger naval cooperation",
+        "when": "2026-10-30",
+        "place": "Southeast Asia",
+        "lat": 10,
+        "lon": 110,
+        "what": "The United States pushed for stronger ASEAN naval cooperation as South China Sea disputes raised regional security concerns.",
+        "via": "US-backed regional alignment",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -3238,11 +3322,6 @@
             "title": "US Pushes Stronger ASEAN Naval Cooperation as South China Sea Disputes Raise Regional Security Concerns",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Nm1hTEJXandUdUM0bGt1VnVTdDhNLVRxV0d4NmY5YWFTc25TWUpWb25YREFtZEVrVGVRQUxGV0dYWlUtT21qYWFNcHZEX20zMUR5bVRCWGNFNmM?oc=5",
             "publisher": "Wake Up Singapore"
-          },
-          {
-            "title": "Hegseth Reassures Asian Allies as China, Russia Continue Regional Aggression",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnVOVnA2QlpNOEQ5bVRtbjc1NmF4Y3pDejdrTXl3WWhzQkpERTNrQnRrQW1jaVJxNUhsSnJEMzMtSWZmdlpSeUR6cXJITHBGUVpFd0Z4eEdaXzY3cVFSbWVzbGFSVmUzX3dJVmtScXBqVkdVWkRZX182VURaWHpmRUNTcmZ0M3hYM1NpeWdZekcwYlduMF93NDFtYWJzejg1a1FEd3NIUFR0clJsQkgtdA?oc=5",
-            "publisher": "The Washington Stand"
           }
         ]
       }
@@ -3400,7 +3479,7 @@
     ]
   },
   "west-bank-lockdown-hebron-2026": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
@@ -3408,10 +3487,10 @@
         "title": "Raids and arrests across the West Bank",
         "when": "2026-10-29",
         "place": "West Bank",
-        "lat": 32,
-        "lon": 35.25,
-        "what": "Israeli forces raided towns across the West Bank and Jerusalem and arrested 13 Palestinians, while in Hebron two people were injured and seven abducted.",
-        "via": "military pressure and arrests",
+        "lat": 31.9,
+        "lon": 35.2,
+        "what": "Israeli forces launched widespread raids across West Bank towns and Jerusalem and arrested 13 Palestinians, extending the security crackdown beyond Hebron.",
+        "via": "wider military crackdown",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -3426,21 +3505,40 @@
             "publisher": "Anadolu Ajansı"
           },
           {
-            "title": "Israeli Soldiers Injure Two, Abduct Seven in Hebron",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcTZERk15S3NoMGFYTVZxaUdOVXBrQ3VwbFFnMHlBRkZrN3ZrX1hLbUZfRE1pNXZZb2Q1eHV4Ujl6SUltanUwQUIzNzFYVmpzUjdXclNhZXd0dDVqZjNOWm1ZX3RrWDg1cWstLWtrTk9ZYkFXVERRc1VRRmp3SnpfRXBaVQ?oc=5",
-            "publisher": "- IMEMC News"
+            "title": "Israeli forces launch simultaneous raids in West Bank",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mLWlTMXRGWkRWcTlKSGJBQmtKRHNvZ05tOWpmbUl5VVNKMXFOU19lQl9QRFdtZEJwRFR5c1FFYy1lcVZGM0JTMmZJNm5oU3M?oc=5",
+            "publisher": "وكالة سبأ"
           }
         ]
       },
       {
-        "id": "settler-attack-near-hebron-journalists-detained",
-        "title": "Settler attack near Hebron, journalists detained",
+        "id": "kafr-malik-declared-closed-military-zone",
+        "title": "Kafr Malik declared closed military zone",
+        "when": "2026-10-30",
+        "place": "Kafr Malik",
+        "lat": 31.97,
+        "lon": 35.29,
+        "what": "Occupation forces declared Kafr Malik a closed military zone after settler attacks on farmers, adding another movement restriction to the West Bank closure.",
+        "via": "added movement restrictions on farmers",
+        "aspect": "food",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Occupation forces declare Kafr Malik a closed military zone following settler attacks on farmers",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORDVUT2d6SGx3Z2xWWW1BT1VndUwteWNtMWtnYTRSTVoxcFBwbDlWN2RQWG1HbjlRV2lFa25HS3JlcEJxYlJIdTBxM3hDWlZ1aTRPbk9lNHlfX1FzU3B1aVgtenRVemtidjFLNG5mWmx4NGdYSE9laG91WEVFWmFHZHpQV3Q5M3p1bVZudmpLcGE4UG13TjRLdlZpXzJsSDNPNjd3dkxGWUdUUzJCVnh5Y21n?oc=5",
+            "publisher": "جريدة القدس"
+          }
+        ]
+      },
+      {
+        "id": "journalists-detained-after-settler-attack-near-hebron",
+        "title": "Journalists detained after settler attack near Hebron",
         "when": "2026-10-29",
         "place": "Hebron",
         "lat": 31.53,
         "lon": 35.1,
-        "what": "Israel arrested an influencer and a U.S. journalist after a settler attack near Hebron, and press groups condemned the detentions.",
-        "via": "settler tension and crackdown",
+        "what": "Israel arrested influencer Andrey X and a U.S. journalist after a settler attack near Hebron, and press groups condemned the detentions.",
+        "via": "rising tension around Hebron",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3453,49 +3551,6 @@
             "title": "CPJ condemns detention of journalists after West Bank settler attack",
             "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenJOZEdXTmc5eEtyT2RiZ20zTm9xZXB5S3gzTWhqMllsbi02Z3ItUkdEbUpSYTNIN1ZrTmVhNDR6WnM0Yk9EZXpuZ21kX0xDYUlFMWpXaWpzdzhXV2d6bDdGRnpFQnY2ZnQ4TVFNUmMtSDhCQnpHR0Zvd1NrTUxZVEJiZ0xDNXVXVlJLUnJyWHdpak5xVUViU1AyVXN6U2FLM0k2SVN3?oc=5",
             "publisher": "Journalism Pakistan"
-          }
-        ]
-      },
-      {
-        "id": "hebron-families-given-one-hour-to-leave",
-        "title": "Hebron families given one hour to leave",
-        "when": "2026-10-28",
-        "place": "Hebron",
-        "lat": 31.53,
-        "lon": 35.1,
-        "what": "Families in Hebron were ordered out within an hour during the military operation, and rights groups petitioned an Israeli court over the expulsions.",
-        "via": "forced evictions",
-        "aspect": "displacement",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "One hour to leave: Hebron families displaced by Israel’s military operation don’t know when they’ll return",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb201eW82cm0tNHNPaGlidW5KdzVyNmJEY2lsYTRabENCREY5ZnZINzRjSk9WZDVaYXB3R3dGOFB0RUpWa2FVc1RfeWRyN2NjajJ5SWhVQnNiNWZmUndYZjZHUFJKaWxRWWNhMF94S0NUVVotWXhfNWM4cjU4TEZjMGt1RWNWZklnUWdqOXZ6R0szZW1yTi1ULW5qSDVQdmgtWmlQNHBzNUVhbktfMklIbWR2eGVKai00cmZwUDczOUIxUktnQ0o0bm53R3daN2c?oc=5",
-            "publisher": "Mondoweiss"
-          },
-          {
-            "title": "Rights groups petition Israeli court over Hebron expulsions",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOExrSGRPTzFucmxjMTY4VHhfZUdIN0N2RjN2cVpRUTRJTXQzNk5iclJ2dldnaklobUNLMU9tSnQyM1JpRUc2OEItTktYeUF6dnBJdTFWWVVnZTgtZlUtTVlodUl1M1JyVHFvajZNblJ2VUVOM2Rxd3RhN3BnTnA1ZDExM2RKZkZpeGNkUC05eUNwQQ?oc=5",
-            "publisher": "The New Arab"
-          }
-        ]
-      },
-      {
-        "id": "central-hebron-sealed-caravans-placed-over-shops",
-        "title": "Central Hebron sealed, caravans placed over shops",
-        "when": "2026-10-29",
-        "place": "Hebron",
-        "lat": 31.526,
-        "lon": 35.095,
-        "what": "Forces closed central Hebron, demolished a memorial and installed caravans above shops.",
-        "via": "tighter control of the city",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Occupation Forces Close Central Hebron, Demolish Memorial and Install Caravans Above Shops",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pZEZQVlE3Y3NrYnZOZlVQVmVuRXFfa0VLb1gxOFRXLWxPa245ZWlOdnY2OV9vdnZzNFVFUEx2TUJIbHlJUzNVY25lV29YUHFi?oc=5",
-            "publisher": "شبكة يافا الإخبارية"
           }
         ]
       }
@@ -3946,69 +4001,25 @@
     ]
   },
   "black-october-ai-cyber-wave-2026": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "php2shell-flaws-expose-websites",
-        "title": "PHP2Shell flaws expose websites",
-        "when": "ongoing",
+        "id": "palo-alto-confirms-php2shell-attacks-on-pan-os",
+        "title": "Palo Alto confirms PHP2Shell attacks on PAN-OS",
+        "when": "2026-10-30",
         "place": "Worldwide",
         "lat": 50.11,
         "lon": 8.68,
-        "what": "The PHP2Shell vulnerability is flagged as putting websites at risk, with scanners and distribution fixes following, which drives the scramble to patch core web software.",
-        "via": "exposed PHP web servers",
+        "what": "Palo Alto confirmed active exploitation of PHP2Shell against exposed PAN-OS management interfaces, extending the pressure on organisations to patch widely used internet-facing software.",
+        "via": "live exploitation of exposed firewalls",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Fact Check Team: Is the programming language 'PHP2Shell' putting websites at risk?",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmR2SFU3R3FRZFpuNVZfRG5GdEZVeEF2aFR2THN3c2dEVUhEdURORmZ5d00zZXJMOElyYUJ4NFlzZnhidGJ4SHVaLWg2bDJjTDRETEhyX0NJdVJOVkExaFdsZXBtcUtScmU2d3hLeHpiVVU1M3dtV0RuYlRGTjJZY19YWXJuZkRRZDVYa2tFV0luV05ZY3FWRmQwTnRDNzk0bVpRamRiclV1bFZsdlFoSXRKOEVXNG9MUUN5ajVzTTBNQQ?oc=5",
-            "publisher": "WCTI"
-          },
-          {
-            "title": "eScan Releases Free Scanner to Help Organizations Find PHP2Shell and Weak-Certificate Exposure Before Attackers Do",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbU9hOTZmMzZ6eGtaRldKc3UzRGliZGJFZ1J4RC1mWkxUVkViR05jaGVXcWQzTXR4YkpqcEZRMTdldUN2YU1Ub3BvZjlHREYyZ2FIMDlDbW9aVlBUdVdGSkhCeHk4b0pRV1VaejJPWGk2RWp1cWxMYnJoR1NnMVFTb21oMmRLM2VEeEh2ZEVqU1NxZGhhOHN6VVFibGlyemdwbmN0RURMd1hCaTY3aTB6ZUxuRnFCVDVWeDlja3MyYnNOUDZNbWVjVTEydHB2T2dBRy1zbXdwdlBQcXpqeTFnQzBUbENqSVl6bk1oWENyOERKTjZpd2Y2aWVHNks?oc=5",
-            "publisher": "azcentral.com and The Arizona Republic"
-          },
-          {
-            "title": "Ubuntu rolls out php2shell, eMudhra certificate fixes",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTFJVU0wSEYySGNFTkR3SU9ndDJhYng3LVY3VDRIeXN5T2dEMFlRNm1QMUJrUnhNSXlJZTVMbW1KcU9MZDBOdEdxeE1wN240S1BfcHV3bWlDVF9VbUpzLXRLQVpnd2FDSjd4MWNoTnJyTXVHVWxQQTR2MTB6NkxvVdIBhgFBVV95cUxPYjJqZ3BtWmhLc2dnOEhOdDd3NkRzdF9oN2hRRXVNamVBSG9IaW5SMFZMb2RuZnZOXzBtelpLMnJzUXVfVVpiTnZzSXhnblpRLVVzb0lCLUlQSVBnQ3NDQzJVV2ZCcFBiUEllRXVGZ0ZwOTRidExFS2tTQ2poMHlUellkVlJtZw?oc=5",
-            "publisher": "OMG! Ubuntu"
-          },
-          {
-            "title": "Watch: eMudhra key leak to PHP2Shell: How vulnerable is India’s digital infrastructure? | Business Matters",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTU5IZzhpLVJ5M2NKdTBkRTY1Rlc5NFByQ2NUNGxSTlAyVFpHakFodmxVNFo1UFJNbGZJMjNfMlZPa0RBcnJab0hmSll6VEs2Yk5tUWNKMU9SQ2FEMVJlbjBfaEtEQU1xWUNzVjR1eDNsQXhMNlgzc2VkTU9XMzlqd0EtM2xPc0JFY2tQWjZBLTJCT09GVjQ0MFNFRnplV0dVM2JucjQ0R21mZWlGNG1vNXRQdjBwODNCNXB5aGRvTUtNVGxuakZ0S2lGM1o2LUNIQUxDLTBqeHdxbzR6Y1N3Y3VPeF9aYUFuMmFKS0NENNIB9gFBVV95cUxQemhxenRiT2QzbU4yT2gxYmlkRVRZYmVXU1Y2d1Fmb3NIWVgzcXVZQzA5NFVPTjljMllvcUc2Y1FWZmpOajJza0tzYVozcFZuVkVjZWZtN09HYmllMjN1S3d1NEpJU0ZYVmVuYU5SZWo5OGVyVHJCRE5UWU9TeTlQZFFPT2V1d01pblFQQU9PZk5EcXFidWZsdmpWNC1mdFpCVmcxVURCY0dTY2xXSkZSZkh3bGhuZzN2MVZnZGZ2SktHbWYzV2VkYXNheW1DYkYxZHdYQlhVVjNOdEQ3UU5LM3hKZ3hpRndyNUw0N05Gcnp0Vm02Nmc?oc=5",
-            "publisher": "The Hindu"
-          }
-        ]
-      },
-      {
-        "id": "emudhra-key-leak-weakens-certificates",
-        "title": "eMudhra key leak weakens certificates",
-        "when": "ongoing",
-        "place": "India",
-        "lat": 20.59,
-        "lon": 78.96,
-        "what": "A leak of eMudhra keys left weak-certificate exposure that organizations must check for, and it prompted fixes from vendors such as Ubuntu.",
-        "via": "compromised certificate trust",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "eScan Releases Free Scanner to Help Organizations Find PHP2Shell and Weak-Certificate Exposure Before Attackers Do",
-            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbU9hOTZmMzZ6eGtaRldKc3UzRGliZGJFZ1J4RC1mWkxUVkViR05jaGVXcWQzTXR4YkpqcEZRMTdldUN2YU1Ub3BvZjlHREYyZ2FIMDlDbW9aVlBUdVdGSkhCeHk4b0pRV1VaejJPWGk2RWp1cWxMYnJoR1NnMVFTb21oMmRLM2VEeEh2ZEVqU1NxZGhhOHN6VVFibGlyemdwbmN0RURMd1hCaTY3aTB6ZUxuRnFCVDVWeDlja3MyYnNOUDZNbWVjVTEydHB2T2dBRy1zbXdwdlBQcXpqeTFnQzBUbENqSVl6bk1oWENyOERKTjZpd2Y2aWVHNks?oc=5",
-            "publisher": "azcentral.com and The Arizona Republic"
-          },
-          {
-            "title": "Ubuntu rolls out php2shell, eMudhra certificate fixes",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTFJVU0wSEYySGNFTkR3SU9ndDJhYng3LVY3VDRIeXN5T2dEMFlRNm1QMUJrUnhNSXlJZTVMbW1KcU9MZDBOdEdxeE1wN240S1BfcHV3bWlDVF9VbUpzLXRLQVpnd2FDSjd4MWNoTnJyTXVHVWxQQTR2MTB6NkxvVdIBhgFBVV95cUxPYjJqZ3BtWmhLc2dnOEhOdDd3NkRzdF9oN2hRRXVNamVBSG9IaW5SMFZMb2RuZnZOXzBtelpLMnJzUXVfVVpiTnZzSXhnblpRLVVzb0lCLUlQSVBnQ3NDQzJVV2ZCcFBiUEllRXVGZ0ZwOTRidExFS2tTQ2poMHlUellkVlJtZw?oc=5",
-            "publisher": "OMG! Ubuntu"
-          },
-          {
-            "title": "Watch: eMudhra key leak to PHP2Shell: How vulnerable is India’s digital infrastructure? | Business Matters",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTU5IZzhpLVJ5M2NKdTBkRTY1Rlc5NFByQ2NUNGxSTlAyVFpHakFodmxVNFo1UFJNbGZJMjNfMlZPa0RBcnJab0hmSll6VEs2Yk5tUWNKMU9SQ2FEMVJlbjBfaEtEQU1xWUNzVjR1eDNsQXhMNlgzc2VkTU9XMzlqd0EtM2xPc0JFY2tQWjZBLTJCT09GVjQ0MFNFRnplV0dVM2JucjQ0R21mZWlGNG1vNXRQdjBwODNCNXB5aGRvTUtNVGxuakZ0S2lGM1o2LUNIQUxDLTBqeHdxbzR6Y1N3Y3VPeF9aYUFuMmFKS0NENNIB9gFBVV95cUxQemhxenRiT2QzbU4yT2gxYmlkRVRZYmVXU1Y2d1Fmb3NIWVgzcXVZQzA5NFVPTjljMllvcUc2Y1FWZmpOajJza0tzYVozcFZuVkVjZWZtN09HYmllMjN1S3d1NEpJU0ZYVmVuYU5SZWo5OGVyVHJCRE5UWU9TeTlQZFFPT2V1d01pblFQQU9PZk5EcXFidWZsdmpWNC1mdFpCVmcxVURCY0dTY2xXSkZSZkh3bGhuZzN2MVZnZGZ2SktHbWYzV2VkYXNheW1DYkYxZHdYQlhVVjNOdEQ3UU5LM3hKZ3hpRndyNUw0N05Gcnp0Vm02Nmc?oc=5",
-            "publisher": "The Hindu"
+            "title": "Palo Alto Confirms Active PHP2Shell Exploitation Targeting Exposed PAN-OS Management Interfaces",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jUnhRZ2c3WEoxakJWWERGakhJcXVFeFNqenBGbVlia2xlMUxHU2tHMTVDYVAzaXJNMjdJTVhOVnhCWFdzeHZSZ1cxVVVKSUxTSkd6QU1oaDhIcVFsWFRqR1N6TEg5WnFLeklmVERSTFnSAXZBVV95cUxNTGFCbzBlN1hfZFFveWVBZmJjS2tNZmtXNHc4SVhXejVsMkpRLVhGNTFWTEw5cG5nSUpQZTdmQVhKQTE4M1V6ak02UmZaWHE3QWdiNVdxaHFhWE5Za1RPTEZvVTZsbXpCejdJUHA1YnlNUmlrR0Nn?oc=5",
+            "publisher": "CyberSecurityNews"
           }
         ]
       }

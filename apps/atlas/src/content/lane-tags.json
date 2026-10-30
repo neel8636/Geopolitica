@@ -1,161 +1,144 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "1fb1h9r",
+    "hash": "10thm1u",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.85,
+        "likelihood": 0.9,
         "delayDays": [
           1,
           4
         ],
         "costPct": [
-          10,
-          30
+          8,
+          25
         ],
-        "why": "On 2026-10-30 limpet mines reportedly hit a tanker in the Strait of Hormuz, Iran says it stopped two tankers and claims it destroyed a US unmanned vessel, and renewed war is feared, so freight faces inspections, higher war-risk premiums and possible halts.",
-        "action": "Ask your forwarder for current war-risk surcharges and Hormuz transit status before booking, and add 5 days of buffer stock for Gulf-bound or Gulf-origin cargo.",
+        "why": "Iranian attacks on shipping in Hormuz escalated as of 30 Oct 2026, a tanker burned and was evacuated by Oman, and traders expect renewed US strikes after the 3 Nov midterms, so war-risk premiums and delays persist.",
+        "action": "Ask your forwarder for the current war-risk surcharge and the vessel's Hormuz transit plan before booking, and hold at least 10 days of buffer stock for Gulf-bound or Gulf-origin cargo.",
         "sources": [
-          1,
+          0,
           2,
           3,
           4,
-          6
+          6,
+          1
         ]
       },
       {
         "point": "JEBELALI",
         "effect": "surcharge",
-        "likelihood": 0.5,
+        "likelihood": 0.6,
         "delayDays": [
           1,
           5
         ],
         "costPct": [
           5,
-          20
+          15
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where tankers were hit by mines or stopped on 2026-10-30 and renewed fighting is expected, so calls may face delays and war-risk surcharges.",
-        "action": "Ask your forwarder about Jebel Ali surcharges and whether cargo can be routed via Gulf-bypass ports and overland links, and add 5 days of buffer.",
+        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where attacks have escalated and renewed US-Iran fighting is feared after the midterms, so inbound and outbound vessels face delays and extra war-risk charges.",
+        "action": "Ask your carrier about contingency discharge at Khor Fakkan or Fujairah outside Hormuz, and pre-agree who bears surcharges and delay costs for Jebel Ali cargo.",
         "sources": [
-          2,
           3,
           5,
-          6
+          1
         ]
       },
       {
         "point": "IR_AIRSPACE",
         "effect": "closure",
-        "likelihood": 0.4,
+        "likelihood": 0.5,
         "delayDays": [
           0,
           1
         ],
         "costPct": [
-          3,
-          10
+          2,
+          6
         ],
-        "why": "Qatari mediators are in Tehran, but Iran is bracing for renewed war with the US and Israel, so airspace closures and air cargo diversions are a credible risk within 30 days.",
-        "action": "Ask your air forwarder to pre-plan routings that avoid Iranian airspace and to confirm fuel-surcharge terms for Asia-Europe flights.",
+        "why": "Signs that the US may resume strikes on Iran as of 30 Oct 2026 make Iranian airspace closures or avoidance likely, forcing air cargo flights between Europe and Asia to take longer routings.",
+        "action": "Ask your air forwarder to confirm that flights avoid Iranian airspace and what fuel or routing surcharges apply, and book time-critical shipments with 1 day of extra buffer.",
         "sources": [
-          0,
-          5
+          6,
+          4
         ]
+      },
+      {
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.35,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          10,
+          30
+        ],
+        "why": "Renewed fighting in Yemen is part of this conflict's escalation, which raises the chance of renewed attacks on shipping near Bab el-Mandeb if the US-Iran war resumes.",
+        "action": "Ask your forwarder which Asia-Europe services are routed via the Cape of Good Hope, and add 14 days of buffer stock to any shipment still booked through Bab el-Mandeb.",
+        "sources": []
       }
     ],
     "headlines": [
       {
-        "title": "Iran War Day 245: Qatari Mediators in Tehran as Renewal of War Looms",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1dGX0pRTjRKNEVaN2JVdFdSZ2pGQ3NFWUt3Z001REJPbjYwVVpMbzBYUXVtZk0wb21iNjZ0Uk1XQ1ZOckExR3hZSWZTZ1R1UDFqak9xQklmaHU2RnZqM3RXVFl4ZHJMUE9kaVRPS1pxYkR0Mk00WmFXY0hoRE1CRGFvQlhESWpjS0ZVVExpQjItZUhGR0Y2djFNaGkyT1kwSHNLbEVOa0MxYUlw?oc=5",
-        "publisher": "The American Conservative",
-        "published": "2026-10-30T13:00:00.000Z"
-      },
-      {
-        "title": "Hormuz flashpoint: Iran claims it destroyed US unmanned vessel, Washington yet to confirm",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUlSbm5jSGRxWnlPR3JfUlVfV2JrZmp5Qzd0UTVITjlneW95Z19IYVFZQmNKOE1lM0l1N3d2c2Y5N3Q1TFA5Q1VCdktYZjZYZThEZzFIQnZseUFyQW9RVl84YmNaY0Vra3lOZnFjTWlaT2FOa1ltd2lLVVpTUmc0X0ZUVjQ4WXgyY0xtOW9kZnA5Rk5kM3NQQk5YREk0YnBsVjBieU9HWnkzQVp3RmY4U3pITVhoMlU5Y3FmRGFwa3IzQQ?oc=5",
-        "publisher": "Business Upturn",
-        "published": "2026-10-30T12:20:38.000Z"
-      },
-      {
-        "title": "Iran says 2 tankers stopped in Strait of Hormuz",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ05LTFJ6eHZMZkNNMDVOZi1JeEZobkRCRTFJVVhNaHBCMjhqVkRKdEoydXNnZi1EWWtYeFZxSXF0SDhoZEhXa0VoZjZVX3gtX0ctM3dRS3lKTkpsU183STRTd0ZQaEZBLWs3bFQwSGRWdHdZSVJhSjlKTmZuTTZPUk9hZzlHQVBndGVYeEp0czhWcEtpcDN0SmRFVUphcVF6?oc=5",
+        "title": "US denies Iran's claim that it destroyed US sea drone in Strait of Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVYtWkRoeUg1QU1ZOGh6b2VjYmE1YVVJc1UweEFyRGJnbXNRazRPa0hJckxCcWFVNUljUkE1QXN3ZTJIZGlxMXNfMWF0QzlFaFFONTh2S3diOHVvVGtDN3hWa1lkbzdJTDVoV05pOThMVUFhb0dXOC1yQlJTcWVrQVloaXVVRHRTSUl3MjFHU0JiSHFYOUtLaEgxX0pHVTZSRW94OEVPNTlqZ0JybUlfNjIzUzNuUEE5X3VQbE5LVnhxQQ?oc=5",
         "publisher": "Anadolu Ajansı",
-        "published": "2026-10-30T12:13:23.000Z"
+        "published": "2026-10-30T18:52:07.000Z"
       },
       {
-        "title": "Tanker in Strait of Hormuz hit by limpet mines, security sources say",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjdDdUxXVENSNGdpbWJZOEp2QXMtSy1WSUdCVFdHc21FVnMwTE9uMC1xMkFEaS1wTHRjd2JMQzFTZEtPX0drQ3hPMlZVeDlITnc2RndQRElNUy13Ny1UdXpROVVpejNQRHJ4a3l6Q0t3TTZwOUptZDNKdlRVQWJXLXBxTldad19oZUFGS3BKSUlLWlk3d055R290THF3ckRWb3hRYjlR?oc=5",
-        "publisher": "Reuters",
-        "published": "2026-10-30T12:04:36.000Z"
+        "title": "A resumed Iran war after midterms would put fragile gains in Hormuz to the test",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlhHVWx5Um1HLXNrSExCVlpjcXFEdGlYSmZsRmVydTRKd3VNcGdVVzA0dGJxMkduZVFNM1IzeTloX0QtRWdLQS1wSzl1QVpXX1ZNQ3dXbFBlUlBVQjRid2M1bmhfZ0VmOER2NEFBODhxVG1qRHJGS29fRFpXa21yVXpVMDh2NEdkZ2RpX183R054UmdUUmlROVJPWWg0c0NBOHZiWGVJT1dRd0M2ejZYbjQ5Q2M2THc?oc=5",
+        "publisher": "The Washington Post",
+        "published": "2026-10-30T18:42:40.000Z"
       },
       {
-        "title": "UK maritime agency says small boat planted explosives on Hormuz tanker",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lN2VMZU5PS09kWXNjZThDTWc3Ym1laGhIZVRDSlE5MWlhTVkwcUR5OFdWdkVIbE5OU0c1NlRTWnNDalhINU4xd05ieUVidEhMZ2c?oc=5",
-        "publisher": "Iran International",
-        "published": "2026-10-30T11:57:13.000Z"
+        "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+        "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "published": "2026-10-30T18:33:29.000Z"
       },
       {
-        "title": "Iran braces for possible new conflict with US and Israel despite diplomatic talks",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWozTVJwa2dwelRCWUQ0aWQwemJxY1FBRVZJeTJ6ZXpYbm1Xb1pyQkpnd05TSVVtUmFsU21pTjd2UExQekMwbnlKOGJQRG5Ocjdpd2h2M0RPYWhnZVFXSzdwLWxqbmJmd2ZfenNzbTExT3RjUm5kWG9nX2h5LWM4TGRIcDBjaTJHUnZpMFhycFgzRGM1NHlKUnBjbzd0X1hYWEhfN0VvTnItUms5WS1OMkttcnlFdUhYRnQtTTdXR0FobmlrV1lFWGJsQlZLYmJwVmRKd2Y0U0xBbUhnMjlWMFVUdHJxbmJ4MzRn?oc=5",
-        "publisher": "Le Monde.fr",
-        "published": "2026-10-30T11:42:22.000Z"
+        "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+        "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-30T18:28:09.000Z"
       },
       {
-        "title": "Iran Fires on Tankers After Mine Collisions in Strait of Hormuz, Trump Denies Peace-Talk Push: what 6 outlets left out",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEJpcHVsWHcyUFRPTF8wYzVhNHdHVE1KM0pBdExWSW13NlhxSEJxREFyZ05MLXdDMjJfdXEzWE1CUlRMQTVqU1I4WUh0Q24ySUFjdkdYZ2l2M0xsWUdiRGJ4N2xmUkp5amdUQzNNcUVITlQ0SWpDTVBpSzRuSEhIVW1uTjVkUXZrVUNlUHRmYkV5S2p4WE9mbDlaZElIZFZia1BpUkJZU2I0MjY0cF9XZ0d2M2NVM3psNng0NnR3emQ2QUFaekZvU29lRk1tYjJ6UVprS1pMVC1JbEdMM0stQ1dHQmhKc0xXM3c?oc=5",
-        "publisher": "NewsCord",
-        "published": "2026-10-30T11:22:29.000Z"
+        "title": "Oil tops $114 as traders brace for Iran escalation after US midterms",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLThyWjhrLXRyQ1cxT1NpdWhGcjc2Xy1zV0RiWklFcjM2R09LV0FIWEF2eFAxQ2FCdmJQQThoZkxNLXJtWkpVcWdGMFRjX19wVVlkcS1GejAtVlc1RDN0OHZaWHZkbEZCMTd4RTNTZV9CdXY1bWRHT2J3NEFGeVhseVByRVhodkNGclVEZk9hV1o3UkVqM1FxWUUyM0RXdGY2TzNYMXk4LUo?oc=5",
+        "publisher": "Al-Monitor",
+        "published": "2026-10-30T17:17:19.000Z"
+      },
+      {
+        "title": "The Gulf Isn’t Ready for a Renewed Iran War",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YaXBzUWV1ekkwcC0zYmdxT052TmtEN3g2bm1hM1R3cWhuWHBhRzdXYjJxVFZ0Y0kwTzRnbmlKWmIyd2FoQ2U2elJqRHZyLUdoRmprMGcyWWs2THlYbFpZUUxqV2tabVRGa2JZY3JXZ2h2bllzVXJaRVluWUV2UQ?oc=5",
+        "publisher": "Foreign Policy",
+        "published": "2026-10-30T16:44:45.000Z"
+      },
+      {
+        "title": "Oil Climbs on Signs US May Resume Military Strikes Against Iran",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5",
+        "publisher": "Bloomberg.com",
+        "published": "2026-10-30T15:40:52.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "sqm0k",
-    "tags": [
-      {
-        "point": "UA_AIRSPACE",
-        "effect": "closure",
-        "likelihood": 0.9,
-        "delayDays": [
-          0,
-          1
-        ],
-        "costPct": [
-          1,
-          4
-        ],
-        "why": "Ukrainian airspace stays closed to civil traffic while Russian missile and drone strikes continue (blackout reported 2026-10-30, Zelensky warning of more attacks), and the localized Oleshky truce does not extend to the wider war.",
-        "action": "Ask your forwarder to confirm that air freight routings to and from Eastern Europe avoid Ukrainian airspace, and to quote trucking from Polish or Romanian airports for Ukraine-bound cargo.",
-        "sources": [
-          0,
-          1
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks",
-        "url": "https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html",
-        "publisher": "CNBC World",
-        "published": "2026-10-30T11:29:59.000Z"
-      },
-      {
-        "title": "Oleshky ceasefire won't bring wider truce with Russia, Yatsenyuk said",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeU1lXzFkbzlYUkd5ODJBSzhhQVRGcXdCVk1GQ2hmS2JLMTJxNDQwUXpOaTBtMUUyN2NwRE5ub3kxQUFTdTVuQ0FzUDhLVXJCRU9tOXFzNnFtLTFEUnc5a1YwbHF6eGJPTUwtX2xJVjc2V25QMVJteVhCaXE5d3YzTG5fNmFJdHJ6VkJoZjBIcWhfcUM3Rk56aFZwNkVsQkF5RzBRTnlHMi1MQkgwNVV4UEF4VVpmUjBtbkE?oc=5",
-        "publisher": "Euronews.com",
-        "published": "2026-10-30T08:57:34.000Z"
-      }
-    ]
+    "hash": "8xqs2v",
+    "tags": [],
+    "headlines": []
   },
   "france-unrest-2026": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "1eh51v9",
+    "hash": "13s3tdu",
     "tags": [],
     "headlines": []
   },
@@ -174,30 +157,30 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "fivcsy",
+    "hash": "it0aal",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "2m0daj",
+    "hash": "1aocqzb",
     "tags": [],
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "tproux",
+    "hash": "1c1p05r",
     "tags": [],
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "1iz4qtd",
+    "hash": "1a3maag",
     "tags": [],
     "headlines": []
   },
@@ -282,9 +265,9 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-30T13:10:10.933Z",
+    "at": "2026-10-30T19:10:36.095Z",
     "by": "pipeline",
-    "hash": "1wgbd03",
+    "hash": "1ebrko0",
     "tags": [
       {
         "point": "GENOA",
@@ -292,14 +275,14 @@
         "likelihood": 0.55,
         "delayDays": [
           1,
-          3
+          4
         ],
         "costPct": [
           2,
-          5
+          6
         ],
-        "why": "NBC News reports port blockades and troop deployments during the 30 October 2026 nationwide cost-of-living strike, so gate and terminal access at Italian ports like Genoa may be disrupted, and further protest days could follow in the next 30 days.",
-        "action": "Ask your forwarder to confirm Genoa gate and truck-pickup status for 30 October to 3 November, move container pickups and deliveries to unaffected days, and hold 3 days of buffer stock for cargo due in that window.",
+        "why": "NBC reported on 2026-10-30 that widespread strikes and port blockades accompany the cost-of-living protests, and Genoa is Italy's main container port in the catalogue, so gate and berth delays are likely while the nationwide general strike and protests continue.",
+        "action": "Ask your forwarder this week whether Genoa gate and terminal slots are confirmed. Add 4 days of buffer stock for Genoa-routed cargo, and check whether Marseille or La Spezia can take urgent boxes.",
         "sources": [
           0,
           1,
@@ -312,19 +295,19 @@
         "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5",
         "publisher": "NBC News",
-        "published": "2026-10-30T10:39:23.000Z"
+        "published": "2026-10-30T17:04:21.000Z"
       },
       {
-        "title": "General Strike on October 30: What Italy Can Expect",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uazNHMzVzaFV5NnZxRHN6N05FZ1l0eGlTMm5jbjFVaWprc1R2NzBZdjQxVzZTQklnMzlmTThzaG5SRUtxMGRGUmtiYVpldm1CRC1xS25RMEtPSGNSVWZOaWlqbnZhS3h0NUNyQ0kzekx0TUN5VG9wSDR3?oc=5",
-        "publisher": "italien.news",
-        "published": "2026-10-29T18:54:01.000Z"
-      },
-      {
-        "title": "Italy to see major strikes against cost of living and war spending",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFl1dWphdGlFYnQ5bUQ3R3F3X09SdXBpM19Ld1lBYkw1NnE3QW1mS3BLZXFCckV0c2dJTW5BNlQxcnA3cUxnVTd1dkxpZ0ZFaWVFN1pMS015Q2NXQnc2UW5PeFZCS1ZhWWlnWnJMRl9mQlVNbXRlMm5vVTBkUFE5RzJBZDFZS2dVUlB0aENfeFhLODNLMjhjVUJNTl96Vkh0bFk5eUl5MkhVOFg4aHA5cHI0TXBqQi1CQkRVaVJ5NW5xejg?oc=5",
+        "title": "Italy on high alert as thousands take the streets in nationwide strike",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFhpSmpOXzYzeEtXYnZXUlNybHpjeUZoekRTVXpGb2JFWGs1NE9KdG9vdHh3bklReUhiZHFGVUlDTGpiNW94aE5QcTFsX3ZoVndkNm9DYlYzX0pmcmlHMWt5OV91d0VrN09TVWhtWWFCazk4ZWZnMmFJRVhaU29hbWE5ZGVFdHZuLUtBSk5kTDdJWlZaYlpXS3cyOUtmODJHTjhKbDMzQl95dw?oc=5",
         "publisher": "Euronews.com",
-        "published": "2026-10-29T16:47:34.000Z"
+        "published": "2026-10-30T15:26:45.000Z"
+      },
+      {
+        "title": "General strike and demonstrations in more than 50 cities. What’s happening today",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHlGb3k4UldUc09RNVRiRFVERjNkYWJLLUlZWEE0UlNSekNmVUUzeTh4RldPWkNDRGxHOU9HXzh0dGJZMjBUQmxnMk95Nm9aamdjcU1nN3dxTF9JVlhHNmFoclNTd3hFNGY4U3FfSU10TmE0bXpjQUE1TDd6VDhJQW9WOV85TUpBNnNCV2QyeWRQWl9xVGVGSDF3d2szUVJyejRxS0tPZVlwTXBicmVxRmRnUlN2X2VodUhUWWJ2djBFekI3SjJheHdEeTAwOGNhdGRpWGdwd3dheWotZGc?oc=5",
+        "publisher": "Il Foglio",
+        "published": "2026-10-30T07:14:00.000Z"
       }
     ]
   },
