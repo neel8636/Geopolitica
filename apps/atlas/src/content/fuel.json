@@ -1948,18 +1948,37 @@
     ]
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "gen-z-protest-wave-spreads-across-europe",
-        "title": "Gen Z protest wave spreads across Europe",
+        "id": "cost-of-living-protests-spread-from-france-to-italy",
+        "title": "Cost-of-living protests spread from France to Italy",
         "when": "ongoing",
-        "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "Young people are leading protests in several European countries, including Belgium, saying nobody heard them, amid overlapping crises that are deepening unrest.",
-        "via": "youth protest momentum",
+        "place": "France and Italy",
+        "lat": 48.86,
+        "lon": 2.35,
+        "what": "A wave of protests over rising living costs has swept across Europe, from France to Italy, the same movement that Belgian school protests echoed.",
+        "via": "protest contagion over prices",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "From France to Italy: Europe swept by a wave of protests over the rising cost of living",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzZYNVRteGoyR2k3am5yV2ZQU0xPVjlkbUVYU0c0MG9MMTRLMUk4cHhSdE8xV090ZnJock1iSmJpQ0E1Y2ZGdlhlUDctMkNFaU50Q05Hc01rbzlMWUhMaW9ld3doRm5HYW1kaEM3QXoxeDhPWGI4YTJTQkxpbjVnREdsc0k3d0U0dlAteW1IdVliWVJWMWQzVzNaWUh3MmRtcDBvdDgyWUlHTU5SREHSAawBQVVfeXFMTVF3a0JfakZOektYOVhDN2ltTXAtM3EzUEQwb3FYZkRJUTFJRkt4MEZSM3ducmZtdVRqYzBIV0IybUJuMTVSQ2gzTGM4LVhBQzlqOVdNcHhPZVVaaVhoX3p5T1ltWWVlTHdwVHAyc012aERFV245NkVpaTlQMWM3VVk1dGpnNE83VUozc0R5MjY5Zk5yZ3lEVG1TaHNCeDdhRGlKa0dWT242RV9icw?oc=5",
+            "publisher": "Українські Національні Новини (УНН)"
+          }
+        ]
+      },
+      {
+        "id": "gen-z-protest-wave-across-european-capitals",
+        "title": "Gen Z protest wave across European capitals",
+        "when": "ongoing",
+        "place": "Europe",
+        "lat": 50,
+        "lon": 10,
+        "what": "Young protesters from Brussels to Belgrade say they feel locked out of a future, and overlapping crises are deepening unrest across the continent.",
+        "via": "youth anger and unrest",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -1969,14 +1988,19 @@
             "publisher": "EU Today"
           },
           {
+            "title": "Europe's Gen Z protesters just want to be heard",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTU9DS3lINDRFaTlqYXloZ2ZnRVFyUjRoTnBhdUVWUjVLUW9RbHk3SGNPcXlBWllsVTdmak84Ynd3Y2w5WnNDNnBzaGtuMjI1OXFEZXBhbGtoYzhXSjNtOXloWkg0ZXVUMGJaNm1GeTJrdXoxX2d2NWJYNzVWOW43bG5NVFI1cUN2QUlKV3RETDljRERnNklIbHQ2UXh4WkhXNjNpUTluOXDSAagBQVVfeXFMUE1PQ0t5SDQ0RWk5amF5aGdmZ0VRclI0aE5wYXVFVlI1S1FvUWx5N0hjT3F5QVpZbFU3ZmpPOGJ3d2NsOVpzQzZwc2hrbjIyNTlxRGVwYWxraGM4V0ozbTl5aFpINGV1VDBiWjZtRnkya3V6MV9ndjViWDc1VjluN2xuTVRSNXFDdkFJSld0REw5Y0REZzZJSGx0NlF4eFpIVzYzaVE5bjlw?oc=5",
+            "publisher": "NST Online"
+          },
+          {
+            "title": "Europe's youth are protesting - and feeling locked out of a future",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sRGNsVUFPS0daMmQwbVpUZktuM3o2MGFEMUs0V1JJYU43R1FvTEJUbV9Zb2pKRDJhMTY4aWhvSmxJUXhaVFRIUElHVFRxREkzajhkT2J4V2NmOURnTnc?oc=5",
+            "publisher": "BBC"
+          },
+          {
             "title": "Overlapping Crises Deepen Unrest As Protests Sweep across Europe",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFZQV3d2UnQwSkRoQy13N0t4ZHJqQUp5SkF4SElxS3VxSFczcG9ORXZEbXZQektaYzVZT3FMQjNWcEN3RlRRTWRzdnpRcGVJWllCRTVtaW5ZV0I1dXpTODVuc2pGaS1saW9TeEFkelltb3h0Q05KbllJblNMQURid09tY3U4d18wRlJjVEc4STVvYXBhVkJhNWdNU1J2LXFQSjE1clNRWW9FWVJuM0Q4S0RTMUtsY0560gG-AUFVX3lxTFBNMzBSdHpkd2lqTVk0Wm1HSlVrZW9nb0M3QjdxR2pUemFJWDNmdFI4LU5IUHl0czZxd1VPdkFidjRuZXpTaU9MdFYxVlV6aEgzN3BUS0hkY1Bib1hfTTc3amhmcUFENGFMSU1ZV0JWWkdUV3piNTZPUlVsRmN3MjZRU1FhTTM3ODI0QTRSdTVrLUYxekdzUHV0T0tVbTRfYS1vc2x5d1dOODlrSnh3ZmRCTTZHX3lkWHd0eTgteGc?oc=5",
             "publisher": "تسنیم"
-          },
-          {
-            "title": "'Nobody heard us' – why Gen Z are leading protests across Europe",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYjU3YkZqYTlQelo5OVJKRi1EN2pYVThKWGZRUDZQNlozeFk5OXBzbGo2THREaDdxZ05EOE9OYnViV2ZEYWJwRUNZb09LQk40NzhWMjc1c2pjeElGTUE0eFIzRnhrTmhGS0gzeTJPTndrUWlJN252THlTRkpHQ1JrOHlGeFpxS3VWUmoyaDVGOGpONXIwYVhzVUtMaVRrWDQ5eTNnbjhLMEt3WFZNUVE?oc=5",
-            "publisher": "Reuters"
           }
         ]
       }
@@ -2260,37 +2284,18 @@
     ]
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "limited-progress-before-threatened-auto-tariff-rise",
-        "title": "Limited progress before threatened auto tariff rise",
-        "when": "2026-10-29",
-        "place": "Ottawa, Canada",
-        "lat": 45.4215,
-        "lon": -75.6972,
-        "what": "A Canadian official cited limited progress in talks with Washington ahead of a threatened 1 January increase in US auto tariffs.",
-        "via": "auto tariff pressure on Canada",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Canadian Official Cites Limited Progress Ahead of Threatened Jan. 1 Auto Tariff Increase",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHBENUFwUndYODFhcHFWbDRCYnREczZkWUhsa0lwM01Qc29DRU5uekFjQ085b2wzMjF4VmZBUnEyRDBTTjhUVWMzcUVDUVRHaUtRQ2VCNnFQMEJjT3NZT0ZPc25KTGhFWTVNSktQTDhWU0ZVMkVzd0dQSDV5THV1RWxPUHR0TmtUdkFSay0yUVFUYmdkX1RLTVcteUxTV0hreTdWNW5uRWdLX2dvQ1B3b1h0U2FvaE8xTHJZSU5R?oc=5",
-            "publisher": "Autobody News"
-          }
-        ]
-      },
-      {
         "id": "trump-says-he-does-not-care-about-usmca",
         "title": "Trump says he does not care about USMCA",
-        "when": "2026-10-29",
-        "place": "Washington, United States",
+        "when": "2026-10-30",
+        "place": "Washington, D.C.",
         "lat": 38.9072,
         "lon": -77.0369,
-        "what": "Trump said he does not care about USMCA while the US and Canada plan trade talks, signalling weak US commitment to renewal.",
-        "via": "weaker US commitment signal",
+        "what": "Trump said he does not care about USMCA while the US and Canada plan trade talks, signalling a hard line going into the annual review.",
+        "via": "US negotiating stance",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2302,40 +2307,40 @@
         ]
       },
       {
-        "id": "mexico-and-us-test-deal-viability-before-midterms",
-        "title": "Mexico and US test deal viability before midterms",
-        "when": "2026-10-28",
-        "place": "Mexico City, Mexico",
-        "lat": 19.4326,
-        "lon": -99.1332,
-        "what": "Mexico and the US are assessing whether a bilateral trade deal is viable before the US midterm elections.",
-        "via": "bilateral deal timing pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Mexico, US assess viability of trade deal before midterms",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa05kdXI0NWFnYkZHMmRpUjlJRUR1YWRDT3haWEwtYmZyNFF6OWc2b2drMEV0LUJ1eVg5cUQxeVVkZmkxTUNRejZIZDByZG1hcFhBWUNBQklpN2h2c1dfRDVWVnI2OFFzUTRZYy05TnpXeWU2OVRidXk2LXN4WjBKb2oxV01kWnIwX2FGMDNSZ3R1LVhOQjBwVEo4RjdaMXk2Y0U1TjVmQQ?oc=5",
-            "publisher": "Reuters"
-          }
-        ]
-      },
-      {
-        "id": "honda-urges-joint-stance-on-chinese-vehicles",
-        "title": "Honda urges joint stance on Chinese vehicles",
-        "when": "2026-10-28",
-        "place": "North America",
-        "lat": 40,
-        "lon": -100,
-        "what": "Honda urged the US, Canada and Mexico to coordinate against Chinese vehicles as USMCA talks approach.",
-        "via": "carmaker push on Chinese content",
+        "id": "canada-reports-limited-progress-before-auto-tariff-deadline",
+        "title": "Canada reports limited progress before auto tariff deadline",
+        "when": "2026-10-29",
+        "place": "Ottawa, Canada",
+        "lat": 45.4215,
+        "lon": -75.6972,
+        "what": "A Canadian official cited limited progress in talks ahead of a threatened 1 January increase in US auto tariffs.",
+        "via": "auto tariff threat",
         "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Honda Urges US, Canada and Mexico to Coordinate Against Chinese Vehicles as USMCA Talks Loom",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1raHBBVENUdTFVUWVJNUhzVFFucVFMY003b0xjeVZhLTMwUENWcjVZYTNORHFwamx6MUhhdlBWZnVmLVd3czVaamJBb1UxeXl4cTdFRGNueFN5V09NT2dCZDZnQ1ZraFhQS3VtLWptSXFvazk0VFE?oc=5",
-            "publisher": "BigGo Finance"
+            "title": "Canadian Official Cites Limited Progress Ahead of Threatened Jan. 1 Auto Tariff Increase",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHBENUFwUndYODFhcHFWbDRCYnREczZkWUhsa0lwM01Qc29DRU5uekFjQ085b2wzMjF4VmZBUnEyRDBTTjhUVWMzcUVDUVRHaUtRQ2VCNnFQMEJjT3NZT0ZPc25KTGhFWTVNSktQTDhWU0ZVMkVzd0dQSDV5THV1RWxPUHR0TmtUdkFSay0yUVFUYmdkX1RLTVcteUxTV0hreTdWNW5uRWdLX2dvQ1B3b1h0U2FvaE8xTHJZSU5R?oc=5",
+            "publisher": "Autobody News"
+          }
+        ]
+      },
+      {
+        "id": "kansas-farmers-raise-usmca-concerns-with-congresswoman",
+        "title": "Kansas farmers raise USMCA concerns with congresswoman",
+        "when": "2026-10-30",
+        "place": "Kansas, USA",
+        "lat": 38.5,
+        "lon": -98,
+        "what": "Rep. Sharice Davids discussed USMCA concerns with Kansas farmers, showing farm-state pressure over the pact's future.",
+        "via": "farm-state pressure",
+        "aspect": "food",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Rep. Sharice Davids Discusses USMCA Concerns With Kansas Farmers",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVllxRzNHQkFXMlcxMF9RbFkwcGltRFpHWW1wU3Z4Y05CaXkwODE0dTlFdkVrVklDdHB5MWl6V2M1dGMweWFvd1htQmxzLVVKd1picEtlVXA5YkZ5aEMxYXkxZ0V0MnpYRE5jMjY4emdkYmRIZ05kY0RVbjVGQ1VRMU1FZ05DREktMUYtVEZ3?oc=5",
+            "publisher": "RFD-TV"
           }
         ]
       }
@@ -2848,54 +2853,44 @@
     "items": []
   },
   "italy-election-2027": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "26-billion-budget-with-voter-friendly-tax-cuts",
-        "title": "€26 billion budget with voter-friendly tax cuts",
-        "when": "2026-10-28",
+        "id": "opposition-to-hold-primaries-by-february",
+        "title": "Opposition to hold primaries by February",
+        "when": "2026-10-30",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Meloni's government approved a €26 billion 2027 budget that includes tax cuts, widely read as an appeal to voters ahead of the election.",
-        "via": "tax cuts for voters",
-        "aspect": "budget",
+        "what": "Italy's anti-Meloni opposition plans to hold primaries by February to pick its leader and rally behind a single challenger.",
+        "via": "unified opposition challenger",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Meloni’s €26 Billion Budget Tests Italy’s Fiscal Discipline as Election Approaches",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMEN6TVozME9WYUhucmxKYllXZk9sMzdRc3VwN1l3M2d0RldVWFgzdmFsLXdXSEs0V2RrR3M5aFBlQy1DVnNrQl9EdXBDeWVrUEI2MklrTUllLTlWa19MTHJR?oc=5",
-            "publisher": "EU Today"
-          },
-          {
-            "title": "Meloni Woos Voters With Tax Cuts in €26 Billion Budget",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhldHZiSktsVGxiVEhzWnoxTS1BdkotRkVJSnptUGlZSmc1RXBQbjFPYnJJLThLZ3FDbE5NVkFJNXNGTFp0SENIVmhjWWtVSU5WVEZuX0dSUldZMlg2Xzh1cHZpQlVmLWE1Znl1VUowQ0NQcHVvLWlXTE1FbU1kZTgxRjlTaTMwcVNueFJ5eS1rNTNTQXpDaGsxNGlUNXA1U0FFTGZrS1hSZ1gwWk9pOXpB?oc=5",
-            "publisher": "Bloomberg"
-          },
-          {
-            "title": "Italy's 2027 budget worth €26 billion, PM Meloni says",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUxYWjJybGJiLUl3bUw3WFVsc2ZqUl9UalBBN3EydGJ1RXdQc190bjlyMlJkdjM0ZU0wQ0RQUWJ6RjdNSi16VFNYNEExUUIzWkROdlpzRFc1SnUzVVZ6Z1BSVU1aVEtVVElOcm50b1dMSE14TlZXT3pubkxoUTlvMl93?oc=5",
-            "publisher": "Yahoo Finance UK"
+            "title": "Italy’s Anti-Meloni Opposition to Hold Primaries by February",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWFnMGJ3STl6ZE1OYm05dkVDUEZMM0xycjdkLVlSQzBxci1YLUg4dXJMYVFpV1dwbFNMekhqX18yVWxzS09qM0toLWdrOE1HRmlEcktRTHVCT210eFRONWtXVjhJSHhROURXZ2dXR0tjUG0xX1hsb3otVDNtQ0dLaS10MGhMbEpGdU5LdTZmQm0xZm85d0tseDk5eDIyNmoxTnAwZVN6aUJBeVNHSXZieQ?oc=5",
+            "publisher": "Bloomberg.com"
           }
         ]
       },
       {
-        "id": "tax-hikes-on-banks-and-energy-firms",
-        "title": "Tax hikes on banks and energy firms",
-        "when": "2026-10-28",
+        "id": "meloni-rules-out-alliance-with-vannacci",
+        "title": "Meloni rules out alliance with Vannacci",
+        "when": "2026-10-30",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "The approved 2027 budget raises taxes on banks and energy companies, helping to fund the pre-election giveaways.",
-        "via": "levies funding tax cuts",
-        "aspect": "markets",
+        "what": "Prime Minister Meloni ruled out an alliance with Vannacci, shaping the makeup of the right-wing coalition heading into the vote.",
+        "via": "limits on right-wing coalition",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Italy approves 2027 budget with tax hikes on banks and energy firms",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXNlOFNXY1FIQWxqOWVQX2xwWkwtNWZubTRteG0zQ3FMQUZKM2QzVkFkX1R4Nkx6TVZCSUpqUmRqeE1Hc3lHR2c5dmlBSF9XQlFtRnhuZWxsV0oyZUZKTjdDY2hYMndWc0xEYlZtLUJ5bEpObmRhSy1LbmY1N29NczctSVVkT1JzZFRxRS1lOWhJSWJvckhmbW9HVi1Pa29aTEFaYWR2WUlHN19jbks4Z1JBbTZTQ1k?oc=5",
-            "publisher": "Reuters"
+            "title": "Italian Prime Minister Meloni rules out alliance with Vannacci — ANSA English",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEFYRWZKaUNxSXV4NWUwTnUzRHhYdXNYRl82bEpXa1RaU0twb3h4cjBSeENzT0ZMSjM5NzE1em00RDBxSEJKVXNhRnZwSzhiRS1hZFhPSTJTTF8tdGp1NDhheW9VTGtzdlU1NDE1QjNJbzBmcThZOS0xZkVDYXdDbVIyUS04bWZTUnZZa0R3bDdaNC12VkxwekcwaEl6bnJBMjlDZjFB?oc=5",
+            "publisher": "UA.NEWS"
           }
         ]
       },
@@ -2903,10 +2898,10 @@
         "id": "meloni-formalises-alliance-with-sud-chiama-nord",
         "title": "Meloni formalises alliance with Sud chiama Nord",
         "when": "2026-10-29",
-        "place": "Messina",
-        "lat": 38.19,
-        "lon": 15.55,
-        "what": "Meloni formalised an alliance with Cateno De Luca's Sud chiama Nord, widening her coalition's electoral base in the south.",
+        "place": "Sicily",
+        "lat": 37.6,
+        "lon": 14,
+        "what": "Meloni formalised an alliance with Cateno De Luca's Sud chiama Nord, which also announced a vote date of 9-10 May.",
         "via": "wider coalition support",
         "aspect": "politics",
         "flow": "into",
@@ -2919,66 +2914,123 @@
         ]
       },
       {
-        "id": "coalition-disputes-over-ukraine-aid",
-        "title": "Coalition disputes over Ukraine aid",
-        "when": "2026-10-28",
+        "id": "26-billion-budget-with-tax-cuts",
+        "title": "€26 billion budget with tax cuts",
+        "when": "2026-10-30",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Disputes inside Italy's governing coalition are putting pressure on continued Ukraine aid, the issue that sets Meloni apart from Le Pen.",
-        "via": "coalition split on Ukraine",
-        "aspect": "security",
+        "what": "The Meloni government's €26 billion budget for 2027 offers tax cuts and family benefits ahead of the election, while testing fiscal discipline.",
+        "via": "voter-friendly spending",
+        "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "Serbian Export Plans and Italian Coalition Disputes Put Pressure on Ukraine Aid.",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVThMakdTSHZQYnAzcG54Vlpwd2xWbXo1NVc0RHdicC1XMWlFTUZHMVFMWldxZ2pZc2owTDF0X2FicEJyWkRyMFFpWFZJR0hHNjA0Yko1MEltVkxnbTZXZkt3ck44TVFhWEVSMnU5LTVxXzBLd3ZoUFNnSE4zTmFCZl9jV296azRCMHAtdlhiTXpwRTYwSXBSelNfMXBjd9IBpgFBVV95cUxPWjdBWU9WQktRRHNxNGZDdFVGMWQ4ZWhvUXNySEVNSm9CWmZPVkktVHpFUzExbHYxb29kNlc2eFliSWdDcWQza0YyRGpRaUxHd3VoMUgzNFBMUEdTbk1IQ2h0YXhLcHhuemhfWEd0MUUxd1hVY09FTHM0ZGxLVlFvMThIZ21DOV83QkwtT1Y3Ty1NcjdxcnFSZjdzalM5SWs5VVI4LTNn?oc=5",
-            "publisher": "Ukraine Business News"
+            "title": "Meloni Government’s €26 Billion Budget: Tax Cuts and Family Benefits",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3paWng5YzNNTGJ2VmQxb1dUNnZYbHREcWdaYVJhREJfZjRwV0wza0VHWElSSlZzQ3l5a1JZX2hPcE52a29VdkVGcUdDWUxEZTZlN3F1WDhlUHZrMUJSTEJEZTdwbS1VRG9YLUIzZENJUTJlYUE1OFBIbkNGd1o5SGFpTzhIZlFIenBwStIBkgFBVV95cUxNMVB1TVlSSUF2VEZib2NKLTdmYXdRT0FrTFNmaWgwaVF1Q0NHX2FLaklHaFpqbmcxUEFmdHRrLWN5aVB4N29DdVVnTnFjaGNic20xUVNtWmFGR09idnJNVXNYTUJuWXlBMlItUFREMTg2eTBHVFBQcndnRmNuUXFOTjhUQUxoZDdXb0ZkbVBxcVBKdw?oc=5",
+            "publisher": "Italia Report USA"
+          },
+          {
+            "title": "Meloni’s €26 Billion Budget Tests Italy’s Fiscal Discipline as Election Approaches",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMEN6TVozME9WYUhucmxKYllXZk9sMzdRc3VwN1l3M2d0RldVWFgzdmFsLXdXSEs0V2RrR3M5aFBlQy1DVnNrQl9EdXBDeWVrUEI2MklrTUllLTlWa19MTHJR?oc=5",
+            "publisher": "EU Today"
+          }
+        ]
+      },
+      {
+        "id": "gambling-tax-projected-at-700m",
+        "title": "Gambling tax projected at €700m",
+        "when": "2026-10-29",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Italy projects €700m in gambling tax intake as Meloni signs off the 2027 budget, helping to fund her pre-election spending plans.",
+        "via": "extra budget revenue",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Italy projects €700m gambling tax intake as Meloni signs off 2027 budget",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnZ6VHpaQl9JMFNES0dQX3BRcXRSWE9YRGQ3Tmc3ci1qT19fY3ZUX1hHeHdUQkxMYi1TUHdubDNPNGZoVDBZOGNDTHJ2UnlfVS01SURncUYwQ0VmeVp4dVllMmVEMFVWUFFLMzR1N3BGalZYYl9FUkZsRnNRQmpMb3RzOEM0T3Q3RUpvNXczZU1yMWctUTFxZmlzVlF6YXZUUUdR?oc=5",
+            "publisher": "CDC Gaming"
           }
         ]
       }
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "serafin-presses-sofia-for-more-defence-money",
-        "title": "Serafin presses Sofia for more defence money",
-        "when": "2026-10-29",
-        "place": "Sofia, Bulgaria",
-        "lat": 42.7,
-        "lon": 23.32,
-        "what": "During his Sofia visit, Budget Commissioner Piotr Serafin said the 2028-2034 EU budget needs more defence funding because of Russia.",
-        "via": "defence spending demands",
-        "aspect": "security",
+        "id": "irish-farmers-face-proposed-24-cap-cut",
+        "title": "Irish farmers face proposed 24% CAP cut",
+        "when": "2026-10-28",
+        "place": "Ireland",
+        "lat": 53.35,
+        "lon": -6.26,
+        "what": "A proposed 24% cut to farm subsidies under the Common Agricultural Policy has not gone away for Irish farmers, keeping farm funding a live dispute in the talks.",
+        "via": "farm subsidy cut pressure",
+        "aspect": "food",
         "flow": "into",
         "sources": [
           {
-            "title": "Serafin in Sofia: EU budget needs more defence money because of Russia",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHZ0Vl9OYTYtUElCZG1LSjJPaEc5Rnl4OHZWY1pYQVkzZ1pfQVkwVFB6SFpGVF9CUUt5bkFKa1NjMmxDUlR0d1hnOUliTl9PVkZHcjBjR0NJSlJWc0JwVDc5VWRCeXM4bW1KYUZoWXE0cXZLSmlmSUdENU45dlpXU1JWbFZkLUJ2Y1RmQWpOQ2VnTGpIVXNXVl9NRV9JQjBwQ0lWal90VVlrUmx2bW4zbXdKN0VOOU9mbnNkc1JPZjZqWF9K0gHKAUFVX3lxTE9td3pOUzV0cndIQTFRWDVkTXlDcDVNdXVPVWVXdEVvLUsyTjg5LVB3aGFVSzV4MVQ3THpIS3BjM0FFN3Z5UkdHNHpFR1ZuSDZnZ2hfSzNFWllkb05tQkM0V01sNEVhMWY1NTNXQ1pvLTRySFJVMFJ2c2JYaVhfM1kzQXNVWTk4N2k2TExrbW9PdVJBNTNsWDQzQ0t0RUxWcVNNNWJEa25vX2xnUDFLS09CU2MySVFxb254RjVHWFlyVmxJcUZ4ZldEcUE?oc=5",
-            "publisher": "BurgasMedia"
+            "title": "Proposed 24% CAP funding cut for Irish farmers 'hasn't gone away'",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTNqTFlaOUYtcXgzSkNPU002ckZHSW01cnE3a09mT0ZVdU5xQXBBSldWbjVmRzJZeE1DUUdBeURRamg3SWdrV3ptQ0xyQXc1RFNXdHgzcktQcHNZVVdsdW1PUFFSTGl2Ny1NemhvVm5qWmk2TGhWOTFub3lCZ1VwUk5LNmlVVzRrcVpwT1JHLVBQMmN3OGpHc3p6WHN6RXg0?oc=5",
+            "publisher": "Agriland"
           }
         ]
       },
       {
-        "id": "bulgaria-talks-budget-revenue-and-deficit-with-serafin",
-        "title": "Bulgaria talks budget revenue and deficit with Serafin",
-        "when": "2026-10-29",
-        "place": "Sofia, Bulgaria",
-        "lat": 42.7,
-        "lon": 23.32,
-        "what": "Bulgaria's prime minister and Serafin discussed EU budget revenue for 2028-2034, deficit reduction and funding priorities during the commissioner's two-day visit.",
-        "via": "national funding priorities",
+        "id": "frugal-states-reject-leaner-irish-mff-text",
+        "title": "Frugal states reject leaner Irish MFF text",
+        "when": "2026-10-28",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "A leaner Irish version of the multiannual budget framework fails to satisfy the frugal governments, so the gap between budget camps remains open.",
+        "via": "frugal states' resistance",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Leaner Irish MFF fails to satisfy frugals",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWhHcUJPN1g3OFFWWURHLS1iSkVNZWpUenhSVDJmem84R1BReG0yVENvcEYwR2F4OVFDdXoxbWpieElFUkN1dkkxT2szTzRSRGJUVW5FRHhReEw0ckZKalktcGQ1X3hEbE82WkJuUHFIcEVjVmRzaGFxT3NIREp4amEwUk1VTlRNUzB1S0xiQXFNZFJE?oc=5",
+            "publisher": "Contexte"
+          }
+        ]
+      },
+      {
+        "id": "beaune-proposes-contributions-tied-to-common-goods",
+        "title": "Beaune proposes contributions tied to common goods",
+        "when": "2026-10-28",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "Clément Beaune proposes adjusting Member State contributions to the EU budget based on how much each invests in European common goods.",
+        "via": "new contribution formula idea",
         "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "OPEN//Bulgarian PM, EU budget commissioner discuss deficit reduction and funding priorities",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNlVsN2I2anYyQm5abXBDbE1QbUsxOXVQNHJOczNfbFc3bjJVaHZoTE56YXhHSHdxZGYyRVNlakREYzgxR2JLd3VHMWtUaXRYTUhvNER4bmJjU1RxQkdNYzhYal9GYjVJTS1hWi1ISDJPUVctMlRJWHF2LXM1T0ttRUs1R0JvelZOdTkxN0JoWVE4TkhId19uM1ZEU2M3aFNJQWo0Z042NA?oc=5",
-            "publisher": "وكالة أنباء الشرق الأوسط - mena"
-          },
+            "title": "MFF 2028-2034 - Clément Beaune proposes adjusting Member State contributions to EU budget based on their investment in European “ common goods",
+            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeUIwWU1BUEJNN3Z3RXFWdEhPb3IxWkJPRGFYVDVvS3VGTzY2QnJYVkdQeldvSzlzNmllSm5kVHdpaVRPTml5SjNtZHVuY0kxelRaTV9vblpnbGptNlg4UG5uM25OQ2RobUNYNTVvWTdsYlRFcmdpN2xLeS1TQmpDajJTbXVoczlSYjZqd25xX05SRXhCSVR6bFJKVV9vV2pPNUd0WWJLbU1zVlVhVGJUOTV5ZWFEVEY5TE91ajZFbW9FZDE0OWg3SkwxRDN0YnhCaXZhYWtUdUF4UWJENHFkeXE0T0otUXZfX3JlalJlVkw0MUNKQndYb1VlY08yMHB1LVY5X3dIUG12S1dUMFNnUXVHNUFDQVBBR1E?oc=5",
+            "publisher": "Agence Europe"
+          }
+        ]
+      },
+      {
+        "id": "commissioner-serafin-discusses-budget-revenue-in-sofia",
+        "title": "Commissioner Serafin discusses budget revenue in Sofia",
+        "when": "2026-10-29",
+        "place": "Sofia",
+        "lat": 42.7,
+        "lon": 23.32,
+        "what": "Budget Commissioner Piotr Serafin visited Bulgaria and held talks on 2028-2034 EU budget revenue with Prime Minister Radev and Donev.",
+        "via": "national positions on revenue",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
           {
             "title": "Prime minister Radev held talks with Serafin on EU budget",
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkZ6bGlsS1dHcEJOancxZEJJdFRtdm11SXBhbWprZjM1UVlUM3FGWTNiRlBsTXJhbUwwYmVURERtWUw3VWZFaml6NlJCYkRrdWl3NXI2c2E1WlJCM2lubWgxT0hkNzRUMkg1OW5odnEzTG9oTzdvVVJ1LUgyemdNcEpCaUM5cjJKbldVdXlCS2VST3gwbmV3azdWUFNjVjhZYWZVSVJSa0nSAagBQVVfeXFMUFpGemxpbEtXR3BCTmp3MWRCSXRUbXZtdUlwYW1qa2YzNVFZVDNxRlkzYkZQbE1yYW1MMGJlVEREbVlMN1VmRWppejZSQmJEa3VpdzVyNnNhNVpSQjNpbm1oMU9IZDc0VDJINTluaHZxM0xvaE83b1VSdS1IMnpnTXBKQmlDOXIySm5XVXV5QktlUk94MG5ld2s3VlBTY1Y4WWFmVUlSUmtJ?oc=5",
@@ -3002,78 +3054,40 @@
         ]
       },
       {
-        "id": "eu-carries-over-35-billion-euros-ukraine-loan-interest",
-        "title": "EU carries over 35 billion euros Ukraine loan interest",
-        "when": "2026-10-29",
-        "place": "Brussels, Belgium",
+        "id": "brussels-protest-against-30-agoraeu-cut",
+        "title": "Brussels protest against 30% AgoraEU cut",
+        "when": "2026-10-30",
+        "place": "Brussels",
         "lat": 50.84,
         "lon": 4.38,
-        "what": "The EU bears more than 35 billion euros in loan interest costs to support Ukraine, and how this will be funded is still open.",
-        "via": "unfunded Ukraine interest costs",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "EU bears more than 35 billion euros from loan interest to support Ukraine, funding still left open",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEtyVW9Lc29wc2t6dG1JNVFlZkxSSXk4X3JKNzlGcndFU05OUnhvd0E5N21yUkZidGdXNzd3bkZEcWY2ZFhPTnN3dk91dm1zNEVFbERrS0F0OXpPcHBxb2JOVHFRekZOZ3BaMXVhaVBDaW02cU9Ba29WZjZCblRLMWxESXJQM2trOTVSQ1RIQ1NqMTRReVZfeVpBZ3VoUk5DOUFuOU8xOTdXVE5QVklsRmlaQURUVVJLN2JCSA?oc=5",
-            "publisher": "Laodong.vn"
-          }
-        ]
-      },
-      {
-        "id": "beaune-proposes-contributions-tied-to-common-goods",
-        "title": "Beaune proposes contributions tied to common goods",
-        "when": "2026-10-28",
-        "place": "Brussels, Belgium",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "Clément Beaune proposed adjusting member state contributions to the EU budget based on their investment in European common goods.",
-        "via": "new contribution formula idea",
+        "what": "A protest in Brussels targets a proposed 30 per cent cut to AgoraEU, adding public pressure on spending priorities in the budget.",
+        "via": "protest over programme cuts",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "MFF 2028-2034 - Clément Beaune proposes adjusting Member State contributions to EU budget based on their investment in European “ common goods",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeUIwWU1BUEJNN3Z3RXFWdEhPb3IxWkJPRGFYVDVvS3VGTzY2QnJYVkdQeldvSzlzNmllSm5kVHdpaVRPTml5SjNtZHVuY0kxelRaTV9vblpnbGptNlg4UG5uM25OQ2RobUNYNTVvWTdsYlRFcmdpN2xLeS1TQmpDajJTbXVoczlSYjZqd25xX05SRXhCSVR6bFJKVV9vV2pPNUd0WWJLbU1zVlVhVGJUOTV5ZWFEVEY5TE91ajZFbW9FZDE0OWg3SkwxRDN0YnhCaXZhYWtUdUF4UWJENHFkeXE0T0otUXZfX3JlalJlVkw0MUNKQndYb1VlY08yMHB1LVY5X3dIUG12S1dUMFNnUXVHNUFDQVBBR1E?oc=5",
-            "publisher": "Agence Europe"
+            "title": "MFF 2028–2034: A 30 per cent cut to AgoraEU? The protest in Brussels",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjAwUFMtVkxwaDV5OVhLNmlSWE0zcnoxdkZyeTZZeElmLUdSSzZWMGpyZFpQNEJNRm50bXMtSVZLTk5rODVRd3dZOHRsR2JmZ3BjcTNnYmpSRTMxTHNudl9xNWI2ZlZ2aW1nMEcwMEIxeElfS0Y0ZTJySkFBdXFCZEl6blNXOHFxNVhNR2N3eDNoZkNGQmxIRUdGckxRc1hQWFQ1NDl3X0dtYWtnbHpz?oc=5",
+            "publisher": "FASI.eu"
           }
         ]
       },
       {
-        "id": "irish-farmers-fear-24-cap-funding-cut",
-        "title": "Irish farmers fear 24% CAP funding cut",
-        "when": "2026-10-28",
-        "place": "Ireland",
-        "lat": 53.35,
-        "lon": -6.26,
-        "what": "A proposed 24% cut to CAP funding for Irish farmers has not gone away, according to farm sector warnings.",
-        "via": "farm lobby pressure",
-        "aspect": "food",
+        "id": "ep-rapporteurs-agree-horizon-europe-successor-position",
+        "title": "EP rapporteurs agree Horizon Europe successor position",
+        "when": "2026-10-30",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe, setting Parliament's stance on research funding within the 2028-2034 budget.",
+        "via": "Parliament research funding stance",
+        "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "Proposed 24% CAP funding cut for Irish farmers 'hasn't gone away'",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTNqTFlaOUYtcXgzSkNPU002ckZHSW01cnE3a09mT0ZVdU5xQXBBSldWbjVmRzJZeE1DUUdBeURRamg3SWdrV3ptQ0xyQXc1RFNXdHgzcktQcHNZVVdsdW1PUFFSTGl2Ny1NemhvVm5qWmk2TGhWOTFub3lCZ1VwUk5LNmlVVzRrcVpwT1JHLVBQMmN3OGpHc3p6WHN6RXg0?oc=5",
-            "publisher": "Agriland"
-          }
-        ]
-      },
-      {
-        "id": "governments-agree-farm-reform-leave-300bn-gap",
-        "title": "Governments agree farm reform, leave 300bn gap",
-        "when": "2026-10-28",
-        "place": "Brussels, Belgium",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "EU governments agreed an agricultural reform framework but left the question of about 300 billion euros in funding unresolved.",
-        "via": "unresolved farm funding",
-        "aspect": "food",
-        "flow": "both",
-        "sources": [
-          {
-            "title": "EU Governments Agree Agricultural Reform Framework but Leave €300 Billion Funding Question Unresolved",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80U1JyenFrbFQ3MzU1aEsxakRaZFkxbjNCMEtVNm5IeFBvTmVpT1EwcDhGRGRlczhfbElQcnI1RWdoeWtWVmtwYWVLd0FkVlJRVVZ1MmhFcVZyLTZ5R3VkbFAwS1hoSmd5Mm10VG8xRU10WnVBbGFoOA?oc=5",
-            "publisher": "EU Today"
+            "title": "MFF 2028–2034: EP rapporteurs reach agreement on the successor to Horizon Europe",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJqRGJBMjlseUU2djAwdU8yUGZkYkJwMDd3eUdNUGZySW1YR2VBcE5DN2ZheC1tUVl5VDFFRUl4M2Nnc2UzTWxESE0yTmZqRE9HanNIbWp1SkdBN1M4OWpzamZCa2FmRGxJUU54RU1kRkRTbmxlQ0pEWVFZOTA0MFVNM2dBMFY4Uy1adWl5X2dKNElfYkdWUjhlUW4xbDhpR242aWRJaUNXenl4Y1Q2TGFaNU1NWmJ0SE0ybGx1YUxmQQ?oc=5",
+            "publisher": "FASI.eu"
           }
         ]
       }
@@ -3246,107 +3260,78 @@
     ]
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "dr-congo-ebola-cases-pass-10-000",
-        "title": "DR Congo Ebola cases pass 10,000",
-        "when": "2026-10-29",
-        "place": "DR Congo",
-        "lat": -2.9,
-        "lon": 23.7,
-        "what": "The Bundibugyo outbreak in DR Congo has passed 10,000 confirmed cases and about 4,900 deaths, and the WHO is urging sustained efforts.",
-        "via": "growing source outbreak",
-        "aspect": "displacement",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Ebola Vaccine Trial Begins in Congo as Bundibugyo Outbreak Tops 10,000 Confirmed Cases and 4,900 Deaths",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlVsQnBuZlpRdko0RFA5QU9sTHVSR3NDNzdxcm5LMXdjdEZENGN6X1Q5WjJ5S1BZQ0FhRERlZG9hTXlKc0hVU1hfVE9PMk5UR19ieHRSLXNpYzc1eVZsLWdfSmlEdEg2Ulh4LUZ1aUlJcUp0M0dfak5KR2kwUmxnbnpVUV9Ddw?oc=5",
-            "publisher": "Medical Daily"
-          },
-          {
-            "title": "Ebola reaches 10,000 cases in the DR Congo with vaccines still in process",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3FydE8yalVtUHhuZkE3a3BZVFFmVlIyWVUtcmJxMFhWWEdPaGJRQm5nNHp4MkRaY3RReW8xRE1mRnBwanBLOTJKVlBYZi1yTHh4cVFnQUtHMlhTNW9maUlhYk1LczloLTFmSmpzSTZwY0ZyTWJFaTkyNU1abzE3bl9RbC1zem92TDh6RXN2WVN2UnprUXIxbWYzelJmRlJLTVdIWXZBdG81TU9CaEVIV1hISnVKMXRCTENlalFR?oc=5",
-            "publisher": "Diari ARA"
-          },
-          {
-            "title": "Ebola death toll reaches 10,000, as virus spreads to other countries",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnRrNlAxMVFTallGU1AzcGdiVF9pOUxiY0JpMWs2LVI0RkdDaXV0SzJjUER6YkR6aERwQTBIZkQwcVZLVkx6TzBfbGlCZlp3VGpRMVpQYlBJY2gzNGZPbWloeDlIVDdFa2YtenVmdWhpUzhXajhJU2VWUzFLSWRGUjRKNG5nNHN3OURUUVpsYWo4VnJjMVZvOWE3ZktyaGhhVG9ZbG1hT2c?oc=5",
-            "publisher": "CTV News"
-          },
-          {
-            "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
-            "publisher": "UN News"
-          }
-        ]
-      },
-      {
-        "id": "health-ministers-agree-to-keep-borders-open",
-        "title": "Health ministers agree to keep borders open",
-        "when": "2026-10-29",
-        "place": "Africa (continental)",
-        "lat": 0,
-        "lon": 20,
-        "what": "African health ministers agreed to keep borders open despite the Ebola spread and to focus on surveillance instead of travel restrictions.",
-        "via": "open borders, travel continues",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "African health ministers agree to keep borders open despite Ebola spread, focus on surveillance",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYmNmTzlVS2w2X3hILWx3eFhMbWVjQjNVTUJpNlRfLV9jS3lGODZKdGNCZVNRNWM5Z1p6aWtfbjRGakVYNGdMb0tYZ19yay1XdEhVZndUeTM0a3BwaFdTLVNxNFRBV0xvcXdONGtXcmk4azVBVzBQX05WSjZjenBadWRyeUlSM2tCb21UVC1vWnhtdTkzakdKcEZ2eG5ZUzM0bzJnSEU2d3dYOUxXenpBeTl5N2NicC1SM1lhVk1WdmYzQ1VJNVlmTjB1YnVodmY2dlZ5UzlUQnNWOEk?oc=5",
-            "publisher": "The Eastleigh Voice"
-          },
-          {
-            "title": "African nations agree to keep borders open despite Ebola outbreak",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EdDdqZW1rcEptRWV3aVdzbFBIcjhQTDNobWdJWE5ubHVHdkYzeG1hdDZVYk9DNHN3U2dqNEhmRk5WQVA4aUtnSl9QRnJGUXpiRjI5dFpNRDBSUQ?oc=5",
-            "publisher": "TRT Afrika"
-          }
-        ]
-      },
-      {
-        "id": "ebola-vaccine-trial-starts-in-congo",
-        "title": "Ebola vaccine trial starts in Congo",
+        "id": "congo-ebola-deaths-pass-5-000",
+        "title": "Congo Ebola deaths pass 5,000",
         "when": "2026-10-30",
         "place": "DR Congo",
         "lat": -2.9,
         "lon": 23.7,
-        "what": "A vaccine trial has begun in Congo, while reports say vaccines are still in process and not yet widely available against the outbreak.",
-        "via": "delayed vaccine protection",
+        "what": "Government data shows Ebola deaths in DR Congo have exceeded 5,000, showing the size of the source outbreak behind the spread to other countries.",
+        "via": "large source outbreak",
         "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Ebola Vaccine Trial Begins in Congo as Bundibugyo Outbreak Tops 10,000 Confirmed Cases and 4,900 Deaths",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMlVsQnBuZlpRdko0RFA5QU9sTHVSR3NDNzdxcm5LMXdjdEZENGN6X1Q5WjJ5S1BZQ0FhRERlZG9hTXlKc0hVU1hfVE9PMk5UR19ieHRSLXNpYzc1eVZsLWdfSmlEdEg2Ulh4LUZ1aUlJcUp0M0dfak5KR2kwUmxnbnpVUV9Ddw?oc=5",
-            "publisher": "Medical Daily"
+            "title": "Congo Ebola outbreak death toll reaches more than 5000",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWI3ZmYyRXdXSUV3WUdsbzBXWTVRVXc0UHN5VVRsRUpMOWt1dmhud3E2QlhsTHlyWHJtcU9aZHVUbXJVOGhUWnhUaWtvVUEwbEJ1LUthcXRWcHNpWVBiZFliZGZhNzVJTlRBdmJtYXFPRDE3Y09vYmNRQjducHVrUGdnT1VXSjQycTBkN2kwWUw3Ynd3Uzc1dS1mTjlLOWpXNUZ3dQ?oc=5",
+            "publisher": "The Canberra Times"
           },
           {
-            "title": "Ebola reaches 10,000 cases in the DR Congo with vaccines still in process",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3FydE8yalVtUHhuZkE3a3BZVFFmVlIyWVUtcmJxMFhWWEdPaGJRQm5nNHp4MkRaY3RReW8xRE1mRnBwanBLOTJKVlBYZi1yTHh4cVFnQUtHMlhTNW9maUlhYk1LczloLTFmSmpzSTZwY0ZyTWJFaTkyNU1abzE3bl9RbC1zem92TDh6RXN2WVN2UnprUXIxbWYzelJmRlJLTVdIWXZBdG81TU9CaEVIV1hISnVKMXRCTENlalFR?oc=5",
-            "publisher": "Diari ARA"
+            "title": "Congo Ebola outbreak kills more than 5,000",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbllsVjgtOF8tYlNWQTMtSzkxZ1paY0Fud2RmVVRldXhsdi1ST3hDM2VyRHZIUUNHZjVOSHdSbHNOZE5nZ0I1NVRsT2lIS0N1dWllTm0yUThUVDVHcVNJZVZDdGljeUt4dGhYOTVsRy1FYlM1ZTJkMVZkTncwcHJGVmNvNDNYZnJBQUxvNnpvM1lLc0w1ZmVhVk5MUkt0YjAwZUFGYWZDczJSdUNJNWQ0djFDLW8tcjlJS0owaU4yZTRaZw?oc=5",
+            "publisher": "Reuters"
+          },
+          {
+            "title": "Ebola deaths in Congo exceed 5,000, government data shows",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZjBPUTBPUFRJMS1zVW80M3FxdVNSMEdrUUpwY05PMEZPczVvSDdkSXQ0M21DMENTUDZnbUltTmVlbFdsOXBEWjRZZlNNWTEyZFNDSFBDanFNdWM0T1E3X08zdXZYUlZDelBIaW9vRFlYemQ0MWNFUDBPX3M3cDM1OUctaXJWQUUzY0pFaw?oc=5",
+            "publisher": "WKZO"
+          },
+          {
+            "title": "DR Congo Ebola death toll nears 5,000 as Africa CDC honours fallen doctor",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0k5N1FtQlhMUDJSclJ2MGJranBwYjFhWklMQ1FoZjlqcUdQR2hMU29YTHNGaG5uTV9yMWpWWjFUa3UyNkRVNk1maVZKbVo1aG1yV1VYeF8yNHYzNFk3OEZxandnZmU4XzZyV1BWTXRWRElDOWxTNHFzazVZZjAtbEIzWEdBN0NQbC1JZ3RHaWxUZWJObVlMdVV1V0tUTWMxUlNtSTZEMnB3bjN4R0E0VjBVM21Wdw?oc=5",
+            "publisher": "TripuraTimes.com"
           }
         ]
       },
       {
-        "id": "car-tightens-border-checks-with-dr-congo",
-        "title": "CAR tightens border checks with DR Congo",
-        "when": "2026-10-29",
-        "place": "Central African Republic",
-        "lat": 4.36,
-        "lon": 18.56,
-        "what": "The Central African Republic tightened border checks as Ebola cases rise in DR Congo, adding to pressure on travel rules.",
-        "via": "stricter cross-border controls",
-        "aspect": "trade",
+        "id": "kenya-confirms-ninth-ebola-case",
+        "title": "Kenya confirms ninth Ebola case",
+        "when": "2026-10-30",
+        "place": "Kenya",
+        "lat": -0.5,
+        "lon": 37.5,
+        "what": "Kenya has confirmed a ninth Ebola case, showing the virus is still spreading inside the country after crossing the border.",
+        "via": "growing local case count",
+        "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "CAR Tightens Border Checks As DR Congo Ebola Cases Rise",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2lCeTYxUTZKc2JDWEhJVW4yOW95V2V4dE1JZ0Nvb3FGRWZvc2dDLUFyNjJwMFppVHd1eDNhdV9Za0d3T0VoVUZmd0lvMDYwNk5Pc0lEQVJUR1Vqb0ZfYWtpTEpONUVWUnl3U0ZPSERjYS1xZEFYRy1hTHlzd1JKRllvVU5WYm80RzFCeWNVcXRCSWRGQWNVamRn?oc=5",
-            "publisher": "Channels Television"
+            "title": "Kenya confirms ninth Ebola case",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZTF9FVGhBSm9ZTDM5NU5OMnotQ2JMcFdEcmV5WHFRaWpEOGZCYXBzdjF5ZVhSYmJoM3VfZFJwQ3BleUtzNDZQODM0QnE3MWtjb1FDYlhyYW4xY2JLNjV6aGRWMExzVXpVU2h2Y0hQcEU4VEN0cDY0?oc=5",
+            "publisher": "DW.com"
+          }
+        ]
+      },
+      {
+        "id": "hunger-deepens-in-congo-amid-conflict-and-ebola",
+        "title": "Hunger deepens in Congo amid conflict and Ebola",
+        "when": "2026-10-30",
+        "place": "DR Congo",
+        "lat": -2.9,
+        "lon": 23.7,
+        "what": "UN News reports hunger deepening for millions in DR Congo as conflict, Ebola and climate shocks combine.",
+        "via": "conflict and hunger pressure",
+        "aspect": "food",
+        "flow": "both",
+        "sources": [
+          {
+            "title": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+            "publisher": "UN News"
           }
         ]
       }
@@ -3567,104 +3552,56 @@
     ]
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "burnham-and-badenoch-clash-at-pmqs",
-        "title": "Burnham and Badenoch clash at PMQs",
-        "when": "2026-10-28",
-        "place": "London",
-        "lat": 51.5014,
-        "lon": -0.1246,
-        "what": "Burnham and opposition leader Badenoch clashed over freedom of movement at PMQs, ahead of a Brussels summit, with Badenoch accusing him of returning Britain to Brexit 'paralysis'.",
-        "via": "opposition pressure on Burnham",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Burnham and Badenoch clash over Brexit ahead of Brussels summit",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDRLRVQ0ZVFtUDFiT3FidXpfeXJReXdvZXFfNVdvUXZ2dzdNeWZJLWdDLTlJMEd2NnU0LVM5alBhYTVVZVNBVkozWFdxSENyVlctNzJ5NFhLWHpsakVoYlhWandKZmt4a2xocmxEUUQ1LWk0RWwzQmh3eHNLVDkyREc4NkQ4b0NZanF0LQ?oc=5",
-            "publisher": "Latest news from Azerbaijan"
-          },
-          {
-            "title": "UK premier, opposition leader clash over 'freedom of movement' ahead of Brussels summit",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWVTRmM2U1Vya3EwV3BfMHgzei0waVhJdUNkNEhqbkI5dXBCUmN4cnJmUU9iaDJsUkJZbmtVUjFlaTMzaDZLUUR3cmIzd1p0XzFGVC1SVmhrXzdLbU4zcjFwR2FTQk1WVDlXaE4ydlRLaEtfTU9pejliWnRnVmlJUTlXc2F0eUlXal92dWc3RmQxci0tX25uS2d0c0VaNWdCdmliRzBFQmdwUDdSVWR0b1lGT2RoT3czYUQ5aWNOU0xfNEFucVE?oc=5",
-            "publisher": "Anadolu Ajansı"
-          },
-          {
-            "title": "Badenoch accuses Burnham of wanting to take Britain back to Brexit 'paralysis' as she exploits Labour splits over EU free movement",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUxleXlRa2tJYVRNOFVRR0JmeDZoTnVOcFdVUVRaV3ZxWlNlSDBKNU1qVzVPa0lDMjJUcU5jVi1WNHQzYVhwYW1iNUd1M2xtN0MyY2daRlNyWktIM2xUVkJJeU9kNXFkLWREM0pzTHNGU1pVeXF6aG9sTlhVWTF4U005NDhPSzNHT2FOc3VraTJkc0p6cGh0a2hKNjRBbW5EVW9yNF9SQVNfMWhmeVhHdmZfamdFa2dWRzhQLUs4Q21jSGV6MjUtVVczclVPVVhXWG1iQVlUTkRtR2Nfd1R5V1RBTlLSAeoBQVVfeXFMUEtiYlJBNWhqNVFfcDRqcTRmU0R2TnBxVktZb3JnRzVpLXJZeXFNNHp5b2xHMXBBUzBHUlN6aTEyTFJNZllaQmxRdmR3WWdadGxlcEVmSFE4VzFCNXNJZG5KblZTWk5ENHFGRTRvTzBBSkNYYjBzSWFaSG9oVXY3QlhsMHZpaUtsZWF1a1FkdDFVRGVXcHR4NnAyMWRuSFhmMkRGc3N5emNuX2FZN1NqRVg1UzJrZ3dwd0MyQUNjemxPWFRWaXI1NnBuZXl3N21sZGRUSTUwZmpfdGVfc2ZVYW9ZaHhEUVNFZlhB?oc=5",
-            "publisher": "Daily Mail"
-          },
-          {
-            "title": "Kemi Badenoch destroys Andy Burnham in just 7 words in PMQs Brexit clash",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeEQ0bVBoeXR3Q2J2Y2YxSjN3dmt6WWNDdmk5VWx2eEFNNW1NREZJMVlGd21sMDZJc2NQTlk2RmoxZlJpWjdzclZaZFRHRUxvUVRsZk5acEJYOVhmVXFpb1hBOTVZU2oxN19nR2lrRGoxVlRYVWFUT0J4MTJTcl9ObE1NM296UXFU?oc=5",
-            "publisher": "AOL.co.uk"
-          }
-        ]
-      },
-      {
-        "id": "burnham-tells-ministers-not-to-back-eu-options",
-        "title": "Burnham tells ministers not to back EU options",
-        "when": "2026-10-28",
-        "place": "London",
+        "id": "healey-rules-out-rejoining-eu-soon",
+        "title": "Healey rules out rejoining EU soon",
+        "when": "2026-10-29",
+        "place": "Westminster, London",
         "lat": 51.5034,
         "lon": -0.1276,
-        "what": "After a crunch summit, Burnham told ministers to avoid backing specific EU options, keeping the government's stance limited to seeking talks.",
-        "via": "cautious government line",
+        "what": "Defence Secretary Healey said the UK won't rejoin the EU in his lifetime and downplayed a return of free movement, undercutting Burnham's hope of cooling the Labour Brexit row.",
+        "via": "cabinet resistance to talks",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Burnham tells ministers to avoid backing specific EU options after crunch summit",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmxLREp5dGxpbFNPY01KdE81eDRFYVpaOWczUXpqeS1GTmZkMXBDRUVqbk5RWldIdDl6bms2eHdxb1VkSGNfYWsySGRHZUJzaXRSd3IweDFsVVBLMjNGM0pQTGlBdFRPYlkxUW54bnBIMmt1WXVZeWtGZ3ZsNDNmWERvTkRqcldzWlNONUczSGlWV2o5aHB2RkZ1QWxhLWFneHVuMXdIdUxFaEMyOU9RdERWZFo2UmRCcFJFU0lPTWMzOHBDN1MyajhJbmtscUU3VWJ0amVBcVVNQQ?oc=5",
-            "publisher": "The Irish News"
-          }
-        ]
-      },
-      {
-        "id": "labour-splits-over-eu-free-movement",
-        "title": "Labour splits over EU free movement",
-        "when": "2026-10-28",
-        "place": "London",
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "what": "Badenoch exploited divisions within Labour over returning to EU free movement, putting pressure on how far Burnham can take the idea.",
-        "via": "party division",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Badenoch accuses Burnham of wanting to take Britain back to Brexit 'paralysis' as she exploits Labour splits over EU free movement",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVUxleXlRa2tJYVRNOFVRR0JmeDZoTnVOcFdVUVRaV3ZxWlNlSDBKNU1qVzVPa0lDMjJUcU5jVi1WNHQzYVhwYW1iNUd1M2xtN0MyY2daRlNyWktIM2xUVkJJeU9kNXFkLWREM0pzTHNGU1pVeXF6aG9sTlhVWTF4U005NDhPSzNHT2FOc3VraTJkc0p6cGh0a2hKNjRBbW5EVW9yNF9SQVNfMWhmeVhHdmZfamdFa2dWRzhQLUs4Q21jSGV6MjUtVVczclVPVVhXWG1iQVlUTkRtR2Nfd1R5V1RBTlLSAeoBQVVfeXFMUEtiYlJBNWhqNVFfcDRqcTRmU0R2TnBxVktZb3JnRzVpLXJZeXFNNHp5b2xHMXBBUzBHUlN6aTEyTFJNZllaQmxRdmR3WWdadGxlcEVmSFE4VzFCNXNJZG5KblZTWk5ENHFGRTRvTzBBSkNYYjBzSWFaSG9oVXY3QlhsMHZpaUtsZWF1a1FkdDFVRGVXcHR4NnAyMWRuSFhmMkRGc3N5emNuX2FZN1NqRVg1UzJrZ3dwd0MyQUNjemxPWFRWaXI1NnBuZXl3N21sZGRUSTUwZmpfdGVfc2ZVYW9ZaHhEUVNFZlhB?oc=5",
+            "title": "Healey deals blow to Burnham's hopes of cooling Labour Brexit row saying UK won't rejoin the EU in his lifetime and downplaying return of free movement",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3Vjb25NYVRINy03cGFoQm9fbS13U3I0bDlnZE9Sc2RIOFlYOS1Lb1ZaUWZSYUUwRXFhblUxNEtyWlAtTURUNG1ScV80SFVDWVV4SGQ1bGlLR0FFSk5zZ2kwdF90VmlETG9LUFpvcUJ1VHdqV2Q0bGJIX015WnNRVWIzejNSMnFGRjFoRWp3T3dpVnpubW9wWTNIUXpSWGJ1ekhz0gGoAUFVX3lxTE5KaDhrQnZJeVVXQ2RscTh1OTdZaWNFWm1hY1Yxa2VFWHlyaU1ETGNNUTZEZXp4WVh1enUyQzhPNHBncGRuQWtQZ2VEVXQ0Z3FtUUFOd1Bxai1hMm5sNmhObWJMN09SOUN6anJ5Z1lVVDdtYXZYX3E3dk9TRFNBeGtjVDg3Z0xBell2dDZBVHVVYmxaVkx2Nk01WHI0OVlHN19nMEkzV0pnaw?oc=5",
             "publisher": "Daily Mail"
           }
         ]
       },
       {
-        "id": "burnham-denies-confusion-over-brexit-position",
-        "title": "Burnham denies confusion over Brexit position",
-        "when": "2026-10-28",
-        "place": "London",
+        "id": "warnings-of-working-class-voter-backlash",
+        "title": "Warnings of working-class voter backlash",
+        "when": "2026-10-30",
+        "place": "Westminster, London",
         "lat": 51.5034,
         "lon": -0.1276,
-        "what": "Burnham insisted there was 'no confusion at all' over his Brexit position as questions grew over his stance on free movement.",
-        "via": "public positioning on talks",
+        "what": "Lord Glasman warned Burnham that working-class voters don't want EU free movement, while GB News argued his U-turn may prove irreparable with those voters.",
+        "via": "pressure from Labour's voter base",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Burnham insists 'no confusion at all' over his Brexit position",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OdHdYU1lNNENDN1c0WFUtYUxUbnZ4bHhyTmFwU1VaVERIN0tTYWhaY1M2cFQ3SlNKNVcyX3R3QUdBRC1obVhaS1FKY1hBelRSTWJnUFU3c2ZnZ0R3U1E?oc=5",
-            "publisher": "BBC"
+            "title": "Lord Glasman warns Burnham that working class voters don't want free movement with the EU",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmlSSHlqN3dfd1dCT3BjZUZiOXdScDlVWFhsOUlpQmNrLUc1bUVYU3gxMjJwTV9FSVh6RU16TFB1empacVNaV0xTcVY2UXBLSFN3R0hYSlJtb1k4blVodlF3NDh2VXhFdGhaVXpzVXgzODBCb3BEOTFHYi1UTlpzSkVsZ09xZnJZc093LVdkaGo4SlpJZFNWdzhjVVZ1aEU1d3hXdzhTQS1MSU9qU0xzYnhqbzZJQ1NJOXFqbkk4aDE4Q2hKM29haQ?oc=5",
+            "publisher": "Essex Magazine"
+          },
+          {
+            "title": "Andy Burnham's U-turn on EU free movement may prove irreparable with working-class voters",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQMTlZTWZFOEt2em93RGpVUThQU09VVFF6b1J4ZzE1UVZidHN5blIwLVV2NFM3d2FITzJ5TzdoenltZkxYQjE1c2pJR1V3eDlsTW0xTllpMjlmbXNqQXJJWGxoV2xxQVpLc2pRazI1ZEFfZw?oc=5",
+            "publisher": "GB News"
           }
         ]
       }
     ]
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-30T09:10:01.251Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
@@ -3674,129 +3611,138 @@
         "place": "Caracas",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Machado credits Trump's capture of Maduro with opening a 'floodgate to freedom', the change that left an interim government in place and made her return possible.",
+        "what": "Trump's capture of Maduro, which Machado says opened a 'floodgate to freedom', removed the old government and led to the interim, US-backed rule she returned to.",
         "via": "removal of Maduro",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
+            "title": "Trump opened ‘floodgate to freedom’ for Venezuela - Says Machado",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW1pNElqeGN5ZlR3S3ZqcXlFYzhLeU1PY3BpOXpiSXJpeXhmcVlTVVhvamEwZTJ3QUhCOFNVdTludlN3azlOYjlwa3Jwd09rclNsMnc2NkVEcWJjZlVqZV83VF9tRzRIVmotQTVmaEV4YmlJMnFlY2VOOGQ3S2lpX3dYVGJNVnBsRTk4U1BSRnJHSl9ibloyVnZSOEVtRDAyaVZhX0g2UzAyQQ?oc=5",
+            "publisher": "The Daily Star"
+          },
+          {
             "title": "Machado says Trump’s capture of Maduro opened ‘floodgate to freedom’ in Venezuela",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTGhTcTNJbDg2S0d3NGExaU90bDRvdmg0SUdsNG5sdTlVY3lKb1Q0YUJOSHVXUEZ3OVRxUDU4RUtwOE9tNERsWGlKdjVqT21jUl9vdUpQV09CNllXZDFPdS1UTHdYdlM5RTJsVHNOQTFDQXk2V3g1QzJXamF0cnpNRVN6bW9SdlRFUWF0dnFRTVVBLUJ5VTJtOTdELXc1VEFOZnJ2aC1McnBpZHFTOHRYcHVVa1VLa1IydlNnV9IBwgFBVV95cUxPdi14eTRLeEQ5bmxrUTVsU0ZWcjJRa0VPLUhmSVBtS1FrS1k0ZUxiS09oR1FRVlZBc05UcjdJWmdURUMxMnZDdFRmVkV3aHMzZjJHMWM4ZmcxeG9nVk5ZNl9KeDhzbDY3ckNrWmZQbkVPaEg1M2trQXVDU1l0SU1pcFNNLVdyR2ktclR2eVM5Mm5GcW1HeG8zdUo1bEhuMWlRSm9EOWhFejlBcWdDc19FZFc4clRBbS1kTjdYNkhNcjRZZw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi14eTRLeEQ5bmxrUTVsU0ZWcjJRa0VPLUhmSVBtS1FrS1k0ZUxiS09oR1FRVlZBc05UcjdJWmdURUMxMnZDdFRmVkV3aHMzZjJHMWM4ZmcxeG9nVk5ZNl9KeDhzbDY3ckNrWmZQbkVPaEg1M2trQXVDU1l0SU1pcFNNLVdyR2ktclR2eVM5Mm5GcW1HeG8zdUo1bEhuMWlRSm9EOWhFejlBcWdDc19FZFc4clRBbS1kTjdYNkhNcjRZZ9IBwgFBVV95cUxPdi14eTRLeEQ5bmxrUTVsU0ZWcjJRa0VPLUhmSVBtS1FrS1k0ZUxiS09oR1FRVlZBc05UcjdJWmdURUMxMnZDdFRmVkV3aHMzZjJHMWM4ZmcxeG9nVk5ZNl9KeDhzbDY3ckNrWmZQbkVPaEg1M2trQXVDU1l0SU1pcFNNLVdyR2ktclR2eVM5Mm5GcW1HeG8zdUo1bEhuMWlRSm9EOWhFejlBcWdDc19FZFc4clRBbS1kTjdYNkhNcjRZZw?oc=5",
             "publisher": "Free Press Kashmir"
           },
           {
             "title": "Trump Capturing Maduro Opened \"Floodgate To Freedom\": Venezuela's Machado",
             "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanJJU1VSemc5WEVxd05NSGlXc010NEkxMktzclQ0ZU5uQS1GQjhybTNfM2lzMXhuSHdPVURZdE9zWUw5Q3M2Z29VRFIzb2V6eHlva0c1LUVKOTNEeTJPdG9RcGdfbWZNWFJxeE42eGh0M3BJbk5GNThLSGhHT2NJVFllRlhWU3JPeHJHRnFyVW9uSGgtSmlyTzFOc3h0b0lON0VfR3dZdlNfX21XVHNQVlZhMTh1ODRPWkhOMjA3bnFuWjctTktzWdIB0AFBVV95cUxOTEQ5MnRXdUlsVFlveF9YRWM4cWxxOXVjSVhVVTkzUnVwZFBGWEZ2eGxxdnFiWUU4Vm15NXpXTjVzdmtrNUMzeGZuSWZHN05GSTBpQlNycm5ubGpDSHgwZ2tiZ2g1cWdKSzU1MnNnVHFhWVA0Q2JMNXh4Nzk1THhUTkZ1Tzg3LWo1VUl6T2FYUXFCZjhoUlB4ZWluLXpCTzJQakhjSDA1NU9zSTIwb1BLRmRSaWlMSTM4YzdxaThaX2hGVXdMcE51TkZaNXFUVGJv?oc=5",
             "publisher": "NDTV"
-          },
-          {
-            "title": "Machado hails Donald Trump after return to Venezuela: \"Gate to freedom pushed open\"",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWW5LSHdPSXJlRHJRbFctYkpCdkdKdWtlOGhqZTd4ZkZKczQzbDBRTXRSenZoam9Na2QwYmxBNFVNaF9IbUZ5YllFajY0aWZaTDlRTl9KYXc0YVFTVTJWZDNYZlBQbm16c0lUMV9HMUJ3S2N3cGZKRC1ZU2tfa1pNZVhfcHVGOVc0YUFORFJPMjE0WElQemNfN2lPZXFNbUlJTG9QY0o5amhQNVBrWHg0d2JjNA?oc=5",
-            "publisher": "upday News"
           }
         ]
       },
       {
-        "id": "us-transition-plan-backs-2027-elections",
-        "title": "US transition plan backs 2027 elections",
+        "id": "rodri-guez-promises-elections-will-happen",
+        "title": "Rodríguez promises elections will happen",
         "when": "2026-10-30",
         "place": "Caracas",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Machado says the US supports presidential elections in 2027 and endorses the American transition plan, which sets the political timetable she returned into.",
-        "via": "US backing for election timetable",
+        "what": "Interim government figure Delcy Rodríguez said 'there will be elections', setting the official position Machado's return now has to work within.",
+        "via": "government pledge on elections",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Back in Venezuela, opposition leader endorses U.S. plan for elections",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOW05WHl0SWpnaWxEOEJsUDc0a0RoZnZhZmRwVnhtYmFMbndHaFl1TURhQ2c0eWdtUG1za2FsUFVBUll6eGw4cFdQSnFNam9SMHB0bG5ycVM3SlpBWUozYms4WkZiVWtrdmhKQTAwYUpfejFNeDBqeWNLbi1WZlBkVVlzNVBNaHdNQlc5QlgyTXlGVUNlTF82a0tuS0l2ZXdXWFBiaTZDdEQtSlhm?oc=5",
-            "publisher": "The Washington Post"
-          },
-          {
-            "title": "Maria Corina Machado Thanks Trump, Urges Venezuela Presidential Elections in 2027: how 9 outlets framed it",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORWxyeTlKb25JdEkxQ09UZzZEZWsyZS1CNjVVLUhOSUJ1UnV0RzB5YWtYN2RLM3VDR2M0RTFiWjAtTXcyZlgzcXQyc25mUXJoXzN0b2xpNnl6QmlFX3NFY1Frc0NwVk5vdlpZcWVrcHlDUEVMa05PNXhTRlZuWFJKb0NUSTdRWWR5N3I1X1dBd2ZIT1pUeHcySnpwZHUwNGEzVThNcFF4aGFzRUEzRzhJcXZvSGdMbEhtOFU3bjJzNkhrYVlNcXhNbnZPTzFKRUpYZjI1aTNvR3NLcG1qWTlNNTN6cFcwcG5aNmc?oc=5",
-            "publisher": "NewsCord"
-          },
-          {
-            "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
-            "url": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Machado: US Wants Elections in Venezuela in 2027",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXlvVmMzZnJGY0tWTEZsb1ppTGxsWGZfRjNwdGgtelYxR0l1ZzdJRUl1a2lKdEwxMjNlYUQyWWRENFJkWmNXblczSFJQTk1zd1NSc3FtcXRUZnNDNUFEZzRHS0RNc0hFWTZvTUdCZTJMUnZPWEl1MkNwbExxWi13YUVtcXplbWtOZ1ZnMTZDM0FtUQ?oc=5",
-            "publisher": "NTD News"
-          },
-          {
-            "title": "Machado says US supports holding elections in Venezuela in 2027 — Deutsche Welle",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUk9nSFB6UWtudHFvMFYtNWVFNm5SbE5jNFY5R2ZTUXdnTVBzSWlOQU8wM3ItdHRHNXVRelpLbFdncHYyWkxoYjZ6UTdiQm1oUjJDMDMyZGQ4Nzg5Z3JuLW9vR254NEFiMnE5TkUzTEt5dmJFSkw1UlJ1QTRtSVBPYkdESXFpajUxMWNZVE1DTWZOaVE1bnd1ZmhoWkxhSWtkTlpHbjgzSnZzNi1zeUxHVDE2UUV0eVRlOG9sU2FNYWFBdDA?oc=5",
-            "publisher": "UA.NEWS"
-          },
-          {
-            "title": "Venezuela: Opposition leader Maria Corina Machado says US backs 2027 election",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmJXZEVWRkxjQVMtVWtEbXlOMlN4RTlIT1dUdzBrd0NaQXhHNWZTWFhDUWpqb3M2NWxtRjMtMFRYUzVYNDJGVldCQl9qVS1LZU9USGpVdDc1NTFud1Y1YXlsV0lvUzJOakR2QjhjcXNZX0FsTjkzQ2NDRzhXbF9yNW5NNkxVU0dWNDE3QkpIcEViUjNhY2RKaWRCOEIzV3ZIb0gyYlNKSkIzSWJTN2fSAa4BQVVfeXFMTjBwM1RLa0lmRDNOdGlyWHdZUFdvZGlLRkotdWMtenZqbm9ZRkNEV0hLNDhVX1hyOFFhSG1rLUJldkQ3V1RiLVB1cEFGXzBVemhvNDBsUUdaX3ZXbWRyUm96UmlWaFdjMzJjbEdyNHN0US1fTDRIRldOaDZXMXBIazBlaEhuYUdtRXgxYmpucUNQQXVNWG5rVWR1RWNRWlFEMk83ZFk3U1RNbzM4Y2dR?oc=5",
-            "publisher": "DW.com"
-          },
-          {
-            "title": "After return to Venezuela, Machado backs 2027 polls under US transition plan",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGN3N01hWndyVGxNQlBWMDZNM3BlVE9PejNNNVhkTTBXOTVUempYV0Mxdl80NWFiQ1ZVQ3I1aHBYWjlWVG5Sa2syUDZzMEdUekNjZ3hOa09ZUVdHYUVlcG1reC1nSWlMRjlIVkZoTXY2YWFNS25lNHEtMkVFNTZhUHZMVGd0dV9KalVhbWtKYV9SdDZRdWN1QTd1MnM5dUhEQUZHS2tRNVNoYmJPTmhyV0FCZmktQkQtN1dGTWhSWm02Um9UZXRKSUpOMllfa0XSAdQBQVVfeXFMTlhQbXV2TFUxU3hQanVoOW10bEV6dlhEUWllaXpLRk5mZ3FnZzhTZTlrNUVHMmN1aHhPa3RCWUN5UklJVFhQdmJsMzQ3cGFJMThCZ1BFZG1qMk5nTVRkNWpoSEJIeFNSSXBzS1dfeUZEbUdBYXdld2FsNnE3WW1yQ1pLd2xYU09HTjRwcGYyNFFQUUVDYUcwcW1WTWpaZzhyVUhITjVzYzVyMEhLT2VnQlVDV250VDNHTmpxbmo0c2dla2liMGo2dkZqQm1TaE8yZ3Q1WDM?oc=5",
-            "publisher": "India Today"
-          },
-          {
-            "title": "Video: Machado Says U.S. Plan for Venezuela Will Lead to Elections Next Year",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYlVfREFBTWNvclhUdG9qdzRqZFRLYnlOSWtwVF9obENCb3BWYUppQjlBVXlCWnZrQW8tb2dSRVhYSFY0aGRpdmMwVVJaSlJaQ3M1SEN0dWV5OXRfS0kxUUJpNTZPQ0tmRmRIMnc0TUZOQ3U4RjV1ZkM3Q2JFcVphNGgzVnJCSC1iWS01bWJvM3BKcF9sR1hfRw?oc=5",
-            "publisher": "The New York Times"
+            "title": "María Corina Machado bets on elections in Venezuela for 2027 and Delcy Rodríguez assures that \"there will be elections\"",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNENHa3pRWFRiZVhLWTByQ2pFTTF4c0lWLTAtWUZTNkN3TlNETkRlekNZT0F5bDVCWHc5R3djelA3Yy0wVjR4VmdYYm9xdGFxRENtRHc2al90QUl1SmY2bkd4Ti1TSjVnVGswZXNlUnduS3hyeDlXVFVlZXVFMUE?oc=5",
+            "publisher": "El Mundo America"
           }
         ]
       },
       {
-        "id": "rodri-guez-vows-election-as-power-struggle-opens",
-        "title": "Rodríguez vows election as power struggle opens",
+        "id": "machado-calls-for-2027-elections",
+        "title": "Machado calls for 2027 elections",
         "when": "2026-10-30",
         "place": "Caracas",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Interim leader Rodríguez promises to hold an election while Machado asks when, opening a public contest for leadership of the transition.",
-        "via": "rival claim to transition",
+        "what": "After returning, Machado publicly called for elections in 2027 and an organized, peaceful transition, pressing the interim government on the timetable.",
+        "via": "pressure for election date",
         "aspect": "politics",
-        "flow": "into",
+        "flow": "both",
         "sources": [
           {
-            "title": "Venezuela’s Rodríguez vows to hold election as Machado asks when",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUdUT1Y1akdPU0J0NFlnb2lhR3h5Q2F3bmVZbmM1WkRoa2ZxdHVYNm5LQ3VfQi1FbFhzcWhmVURXMDlEQ0Q0bHpKUHdoS0tKSURnWDA5WTdxZ0xxZlpRNGxRVVpfbkhTeW51M045UFRZNDd4UFd2TjRVTWZPbkJNZUNUUDljWnppQXU3Y0hn?oc=5",
-            "publisher": "The Japan Times"
+            "title": "Maria Corina Machado calls for 2027 elections following return to Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXpvZk1KU0VsWGF3dDJNcUxiWWI3TFVTblRDSGZNYTh2NkxKVS05ZXB2eGJrVVJRM0VtdjB4M2FRSXZPUXdSWGNSZ2VvQTdWVnJ5Z05NdzZKdzlsVzVYZGRtUERKOFlLdng1RUszQnR1SjZmLUZ5WFBkeUlPZmFoQzNKRW9OZnZzLU5tSFJmbXNOZUJlM0RVck1oUVFTcXo2NS00NEVDWkN6c1pqRldfRW1ydDBNZFg1b0ItSUJ6SmVmcVpBQ29RaHVmUQ?oc=5",
+            "publisher": "Latin America Reports"
           },
           {
-            "title": "Machado fires opening shots in power struggle with Rodriguez",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMmNHWUFxSlR6eTB3RDJWNmYtcjdGcVBuQ1ZwWk1EZ3ZSUXNCLTRRZXpkcVZibEJXdzZtYVk2ckRlc01VT3dTQzZYWjRCRDZ6ang5VkFySlB1Rkw2YkJfMFlBZ196ZzJtX2ZZZ2ctWmdFSElZNjJRSTVpRVlaVjMydmRZc3hKV2xjenZjckpCNFJydUFMQnA0TzhTcEVrUFBvNlh2Uk9MeDBCa0Jka3ctNDJYbmxNSlZRbG1BVXhUNmFoczFnYkF1QThNbDhBZUw3Nm1aZkpaS1lnUkREel80X2JmdVVSeEV1bTZ6R0YxVUl4dGs?oc=5",
-            "publisher": "The Australian"
+            "title": "María Corina Machado Calls For Venezuela Elections In 2027 After Return",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT2FQbXNnZ3lZSm9xNjJWdE0yT01haFVwdkphMERNSUlWbVdMWlJQejg3SWRjOUZxSmxtZFZ6RTF4X01kaElsYVUyVHozb0lGNF9RaEhFX2ZmSU4yOFJJcXRWWENpbG5QYmtHeGxHdVA3RmxLQUxSVExaSGlkS1VHWF81OFEzb3RiUlY0?oc=5",
+            "publisher": "Yahoo"
           },
           {
-            "title": "Nobel Laureate Machado vs. Trump-Backed Rodríguez: Power Struggle Officialized",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iLUpGVnltOTYwTUd4Z3E1X21YanhUdVZaVXhJeWptazlvb3ZDZVVBV2ZVVkNkZGp2Q1hzUTJHaFU0dVdFYWpDN3ZQWWU1R2NiTXBwbDQ4MnRvclhLcXJOVVpvbXVTZHYtd2ZWTkhn?oc=5",
-            "publisher": "news.sbs.co.kr"
+            "title": "Machado says Venezuela ready for an 'organized and peaceful transition' in public appearance",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSlFmQzljems4WHI3X1lfRWhWb0gwRXVfM3JwNVpCQmdES2tKNXFMRnBsQkNNb0VYZWhqYTV2R1JYclZTamxfeF9YU0trMmVRcmNXM01CeGdOTGphQ3lNZ0pXV2Qtd3hXZUs1MGhsV003c1J1SlFYek5yb29yS3VCOVZaaGhIcGs5eWx6YVZsZVNWZC1pZHhEQ3h4TjBCcVhmMWtjV253TU1FSTEzck5kSlAxNmJHbHJINmFyYjdBVTV2ZUszb2ZnOEw5X01BQms1SVB2NFhGUWhMd1ZQTFJtSFM5X0ZpQkwzTThEMTFJRDRLajh5THFuRUVrMU0wYnp6OU83X1JIWVJCNlZMMFVN?oc=5",
+            "publisher": "Daily Gate City"
+          },
+          {
+            "title": "Venezuela’s Machado praises Trump for ‘Freedom’; urges 2027 elections",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTmNja0lpOGpPQVJXOE5Fd2tkbmJnZzE1cEw1S0F1Zlp4N2tWbDVsZS1mOFQ5dXlCTndyTXkyZFJBWWdtbDF6ajBhUVdPWk1sclhpT09kakd4QS02dUtHUHBrWWhZcUZoSTRhX1dGTXRuWXJYTF9DTWdObnBCenlVOFl5MjFYT2FxX3ZQOEtVcjBQcWxEemhTVGNmMmwybjVKc3BPZVdjbWZ5YUHSAacBQVVfeXFMUEpvMnZmendCOGZQd1hjVElkMjcxakxfX0tWNWUzek5QbWNRQ1I4cDNRLVlZYk9SOGdqVURUOHhXVzRsZDQycm1tdHJheTZDZnMwUTFlQXZFblQ0Nm45cG05dEtnUlkxd3hiQjg5YmJCX2E0cGwwYXFqTzUtOGxqLVpPN3Eyb1M2OTN2MUpNN2tMMWVYam5WMHNEZTdmZUxsZTBMaUJTdDQ?oc=5",
+            "publisher": "The News International"
+          },
+          {
+            "title": "María Corina Machado bets on elections in Venezuela for 2027 and Delcy Rodríguez assures that \"there will be elections\"",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNENHa3pRWFRiZVhLWTByQ2pFTTF4c0lWLTAtWUZTNkN3TlNETkRlekNZT0F5bDVCWHc5R3djelA3Yy0wVjR4VmdYYm9xdGFxRENtRHc2al90QUl1SmY2bkd4Ti1TSjVnVGswZXNlUnduS3hyeDlXVFVlZXVFMUE?oc=5",
+            "publisher": "El Mundo America"
+          },
+          {
+            "title": "Venezuelan opposition leader María Corina Machado calls for new elections",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHZzdVlpV212RXlqNzhJdHJDdEZXa3N1OERwYTZYUWIySkttdW1OWU9QNVQ0bUdxQ0p0V1Y1UmlqeUprVEdzeVBXc2syYmJlOXgwUUg3M0NFYXNXZTlvT3VwNGtDbzRwOFRlVHd1Yi1raEVmOVRCUkotNjcyZENrbHZjTW9kUUlQcjVOSE9EVWp6YzM1M1FYSU5GTXd2dE1DZHZFZnZFS01jWHVObi15S1J5aVVBaHhuN2c?oc=5",
+            "publisher": "NPR"
+          },
+          {
+            "title": "Venezuela opposition leader María Machado calls for elections upon return",
+            "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+            "publisher": "BBC World"
           }
         ]
       }
     ]
   },
   "algeria-niger-troop-deployment-2026": {
-    "at": "2026-10-30T10:09:57.003Z",
+    "at": "2026-10-30T22:10:41.465Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "algeria-moves-to-protect-oil-and-gas-assets",
-        "title": "Algeria moves to protect oil and gas assets",
+        "id": "algerian-parliament-approves-overseas-deployment",
+        "title": "Algerian parliament approves overseas deployment",
+        "when": "ongoing",
+        "place": "Algiers, Algeria",
+        "lat": 36.75,
+        "lon": 3.06,
+        "what": "Algeria's parliament approved the country's first overseas troop deployment since 1973 the week before the convoy was seen in northern Niger, giving the order legal cover.",
+        "via": "legislative authorisation",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "🚨🇩🇿🇳🇪 Algerian military convoy spotted in Arlit, northern Niger. This follows parliament’s approval last week for Algeria’s first overseas troop deployment since 1973. Algeria has economic interests in Niger, including a planned gas pipeline that would carry Ni",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZExqUGVobWxxcmE0R25FTC13M1MtT3ZnTTR4eGhEZFlKWWVHMG5TVUtXa2F5SWJ5eFJNMHdFSlowcFg0MEQwM3hNdDBqUXJVdko5ak5DY1ZzeXVGWDh3NVRGd0VlQUJ6UEhmRg?oc=5",
+            "publisher": "X"
+          }
+        ]
+      },
+      {
+        "id": "gas-pipeline-and-oil-assets-to-protect",
+        "title": "Gas pipeline and oil assets to protect",
         "when": "2026-10-29",
-        "place": "Niger",
-        "lat": 16,
-        "lon": 8,
-        "what": "Reports link the deployment to protecting oil assets and gas pipelines near the Sahel border, giving Algiers an energy security motive for sending troops.",
+        "place": "Algeria-Niger border region",
+        "lat": 19.5,
+        "lon": 6,
+        "what": "Algeria has economic interests in Niger, including oil assets and a planned gas pipeline, and reports link the troop deployment to protecting them.",
         "via": "energy asset protection",
         "aspect": "energy",
         "flow": "into",
         "sources": [
+          {
+            "title": "🚨🇩🇿🇳🇪 Algerian military convoy spotted in Arlit, northern Niger. This follows parliament’s approval last week for Algeria’s first overseas troop deployment since 1973. Algeria has economic interests in Niger, including a planned gas pipeline that would carry Ni",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZExqUGVobWxxcmE0R25FTC13M1MtT3ZnTTR4eGhEZFlKWWVHMG5TVUtXa2F5SWJ5eFJNMHdFSlowcFg0MEQwM3hNdDBqUXJVdko5ak5DY1ZzeXVGWDh3NVRGd0VlQUJ6UEhmRg?oc=5",
+            "publisher": "X"
+          },
           {
             "title": "Gas pipelines and the Sahel border: why Algeria is sending its troops to Niger",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSEo1dTBuSWVNY01FUGFPcXF1ZUQzWDg1elY1dG94UEtCWlllNzgyV3J4N0ZZX0wzUGdCZVJ3Y3BfWkhlUmM2RG51dTM3bUFwelBzX1dDOEc2aTZaTzNLelcybV9qSF9LckM3M2sxcE5DSHQzcFNwaUlCckxRdmMyTzl1YTA5TXBvVTFVa2xFT2pLNE1GNWZ6MXAxZFBjVVdRVFZObURZbXhNZlNEa1V0am5wYUFJWVUt?oc=5",
@@ -3810,14 +3756,43 @@
         ]
       },
       {
-        "id": "former-french-base-in-niger-left-vacant",
-        "title": "Former French base in Niger left vacant",
-        "when": "ongoing",
+        "id": "jihadist-threat-to-niger-s-stability",
+        "title": "Jihadist threat to Niger's stability",
+        "when": "2026-10-30",
         "place": "Niger",
-        "lat": 16,
-        "lon": 8,
-        "what": "Algerian troops are deploying to a base vacated by French forces, a security gap that gives Algeria a site and an opening.",
-        "via": "post-French security vacuum",
+        "lat": 17.6,
+        "lon": 8.1,
+        "what": "Reports describe extremist groups threatening stability in Niger, which is presented as a reason for the first Algerian troops arriving in the country.",
+        "via": "jihadist security threat",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "First Algerian Troops Arrive in Niger Amid Jihadist Threat to Regional Stability",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TTU1zY2FWaDJ1RHhtSXVqMDBEVlRuaVpSNUZQdHUyVldFdXF4WXJRRW5DVUxGSDcwa01tLVh0VUF1WDdaZGppUzVocHpkQQ?oc=5",
+            "publisher": "PUKmedia یەکێتیی نیشتمانیی کوردستان"
+          },
+          {
+            "title": "First Algerian Troops Arrive in Niger Where Extremists Threaten Stability",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tWktTU3dBWjgzM1hFWERPZk56TGtEaDJpajRFaXlSMmEyZHc4N05Za2g4TmtNU1NaRHNTVzNmdDVxZVdCamJqNDU2OVUzLUZYWWYw?oc=5",
+            "publisher": "شبكة تواصل الإخبارية"
+          },
+          {
+            "title": "First Algerian troops arrive in Niger where jihadists threaten stability",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUkx3eGNnaVhYd093SS1pNkx3YVNoZ3Fvei13V1ppamJnZWx1MGtoaDVRVngyMjZvdVpMbmV2clZPOWFJR2RMel9KWTZaMXM0VWY5T2VYVlVxd1ZCUjJReFNEQXNoWmdUZ0o4bTJOYzMzUk1Bdmg1aFVrTUo0QldqTXFQeEtfaWZlc2pvdUo3aEVVX29OZkdHMTRGRU9UV29MM094aEdrTVJ2aHFmMnpjRzFPYVRRQTFJVEE?oc=5",
+            "publisher": "Reuters"
+          }
+        ]
+      },
+      {
+        "id": "troops-sent-to-vacated-french-base",
+        "title": "Troops sent to vacated French base",
+        "when": "2026-10-29",
+        "place": "Niger",
+        "lat": 17.6,
+        "lon": 8.1,
+        "what": "Algeria is deploying its troops to a base in Niger that French forces have left, filling a security gap there.",
+        "via": "security vacuum after French exit",
         "aspect": "security",
         "flow": "into",
         "sources": [
