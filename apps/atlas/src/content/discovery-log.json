@@ -5,10 +5,6 @@
       "at": "2026-10-28T12:07:03.388Z",
       "verdict": "reject"
     },
-    "4ebdb696244c": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "reject"
-    },
     "149101b2631d": {
       "at": "2026-10-26T13:04:15.829Z",
       "verdict": "reject"
@@ -53,10 +49,6 @@
       "at": "2026-10-26T20:04:33.577Z",
       "verdict": "reject"
     },
-    "4a8e69aa6aed": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "reject"
-    },
     "5888c5be6e23": {
       "at": "2026-10-26T13:04:15.829Z",
       "verdict": "reject"
@@ -75,10 +67,6 @@
     },
     "5c8e7931e99b": {
       "at": "2026-10-28T00:06:19.859Z",
-      "verdict": "reject"
-    },
-    "df4ce16bb3ba": {
-      "at": "2026-10-26T07:03:47.821Z",
       "verdict": "reject"
     },
     "dd38ab92e3e2": {
@@ -109,61 +97,9 @@
       "at": "2026-10-26T10:03:56.712Z",
       "verdict": "reject"
     },
-    "a87c95f104a4": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "f58f6e11de08": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "0aa74e6dc208": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "b911681af505": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "cd011d93d8e2": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
     "313450f7ac01": {
       "at": "2026-10-26T10:03:56.712Z",
       "verdict": "reject"
-    },
-    "490687686ff5": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "c842d852c315": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "97c9d09f2e6a": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "4abe45421c0d": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "44a4cfec0244": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "f445f5afabdf": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "0e839130c5bf": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
-    },
-    "bc8c2dd78fcb": {
-      "at": "2026-10-26T07:03:47.821Z",
-      "verdict": "no story"
     },
     "5cf369d77839": {
       "at": "2026-10-26T10:03:56.712Z",
@@ -3372,6 +3308,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T07:09:38.678Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 60 min ago"
+    },
+    {
       "at": "2026-10-30T06:09:39.348Z",
       "screened": 140,
       "accepted": [],
@@ -4978,145 +4923,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-28T18:07:31.962Z",
-      "screened": 122,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Fed holds rates despite inflation worries",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Bank of Canada raises rates for first time in three years",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget household explainers",
-          "reason": "Consumer explainers and calculators on domestic effects, not a development with a cross-border ripple.",
-          "headlines": 8,
-          "publishers": 2
-        },
-        {
-          "title": "Toledo high-speed train crash in Spain",
-          "reason": "A deadly accident with no state action or effect abroad.",
-          "headlines": 10,
-          "publishers": 5
-        },
-        {
-          "title": "Mbappé Mao remark and China backlash",
-          "reason": "A sport and sponsorship controversy with no policy or state decision behind it.",
-          "headlines": 6,
-          "publishers": 4
-        },
-        {
-          "title": "Luxury cruise ends as fuel costs soar",
-          "reason": "A company and consumer story with no state or policy angle of its own.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Anthropic IPO filing",
-          "reason": "Company and market news with no state actor or policy angle.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Oleshky truce and Kharkiv strike",
-          "reason": "A local truce and a local strike, too small in scale to pass on their own.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "RBNZ holds rates, NZ dollar falls",
-          "reason": "A small-economy central bank decision that is mainly market news, with little cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Egypt fines Lina Attalah and shuts Mada Masr",
-          "reason": "A domestic press-freedom case with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "EU 'Made in Europe' push unnerves auto suppliers",
-          "reason": "A feature on a policy push with no dated decision reported.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UN General Assembly weighs Cuba embargo vote",
-          "reason": "An annual ritual vote that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "UK Budget: energy bills cut, banks taxed, defence boosted",
-          "reason": "This is the same UK Budget already on the map, including its defence spending push.",
-          "headlines": 3,
-          "publishers": 2,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "FEC site offline after reported hack before midterms",
-          "reason": "It is part of the US midterms story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump claims US voter fraud is rampant",
-          "reason": "It belongs to the US midterms event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump says Brazil election looked rigged",
-          "reason": "It belongs to the Brazil run-off event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "Tens of thousands flee Ethiopia fighting into Kenya",
-          "reason": "It is the same Ethiopia conflict already tracked on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ethiopia-eritrea-war-fears"
-        },
-        {
-          "title": "Trump says Iran war ends when he wants; costs reach $47bn",
-          "reason": "It is part of the US-Israel war on Iran already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Europe's debt stress hits corporate borrowing costs",
-          "reason": "It follows from the European bond stress already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "What a new Israeli government would mean",
-          "reason": "Commentary on the Israeli election already on the map, with no new development.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "israel-election-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

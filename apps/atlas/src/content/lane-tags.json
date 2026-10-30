@@ -1,87 +1,88 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-10-30T01:09:28.336Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "1nwfecs",
+    "hash": "ssyshp",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.95,
+        "likelihood": 0.9,
         "delayDays": [
-          2,
-          7
+          3,
+          10
         ],
         "costPct": [
           15,
           40
         ],
-        "why": "On 29-30 Oct 2026 the IRGC reported four tankers striking mines in the Strait of Hormuz, a tanker was left burning and mostly submerged off Oman, and UKMTO logged another projectile strike, so attacks continue and US strikes may resume.",
-        "action": "Ask your forwarder for the current war-risk surcharge and for Hormuz-bypass options (for example, discharge at Fujairah or Red Sea ports with overland trucking). Add 10 days of buffer stock for Gulf-bound cargo.",
+        "why": "On 30 Oct 2026 Iran said four tankers hit mines in Hormuz and caught fire, and the US is weighing renewed strikes after the midterms, so transit risk and war-risk premiums stay high.",
+        "action": "Ask your forwarder for the current war-risk surcharge and which carriers are still sailing via Hormuz, and add 10 days of buffer stock for Gulf-bound or Gulf-origin cargo.",
         "sources": [
-          1,
+          0,
           2,
-          3,
-          7
+          4
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
-        "likelihood": 0.7,
+        "effect": "delay",
+        "likelihood": 0.55,
         "delayDays": [
           2,
-          6
+          7
         ],
         "costPct": [
           10,
-          30
+          25
         ],
-        "why": "Jebel Ali sits inside the Strait of Hormuz, where mines and projectile strikes on ships were reported on 29-30 Oct 2026, so carriers are adding war-risk charges and delays for Gulf-bound cargo.",
-        "action": "Confirm with your carrier whether Jebel Ali bookings carry a war-risk or emergency surcharge. Ask for a quote on Khor Fakkan or Fujairah discharge with trucking as a fallback.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, so the mine strikes reported on 30 Oct and the threat of renewed US strikes mean vessel delays, schedule cuts and surcharges for cargo calling there.",
+        "action": "Ask your forwarder about routing Gulf cargo through Red Sea or Omani ports with onward trucking, and confirm whether the carrier will still discharge at Jebel Ali.",
         "sources": [
-          1,
+          0,
           2,
-          3,
-          7
+          4
         ]
       },
       {
         "point": "RED_SEA",
         "effect": "security",
-        "likelihood": 0.6,
+        "likelihood": 0.45,
         "delayDays": [
-          10,
+          7,
           14
         ],
         "costPct": [
-          15,
-          40
+          10,
+          30
         ],
-        "why": "On 30 Oct 2026 the Houthis claimed six attacks on Saudi airports and oil facilities, and renewed fighting in Yemen keeps the threat to Red Sea shipping and Saudi coastal infrastructure high.",
-        "action": "Ask your forwarder whether Asia-Europe sailings are still routed via the Red Sea. Price the Cape of Good Hope alternative and add 14 days of buffer stock.",
+        "why": "Houthi forces claimed six attacks on Saudi airports and oil facilities on 30 Oct, and Houthi missiles were intercepted over Riyadh, so the Red Sea shipping threat is rising.",
+        "action": "Check with your carrier whether Red Sea sailings are guaranteed, and get a quote for the Cape of Good Hope routing as a fallback.",
         "sources": [
-          0,
-          6
+          1,
+          5,
+          8,
+          9
         ]
       },
       {
         "point": "BAB_EL_MANDEB",
         "effect": "security",
-        "likelihood": 0.6,
+        "likelihood": 0.4,
         "delayDays": [
           10,
           14
         ],
         "costPct": [
-          15,
-          40
+          10,
+          30
         ],
-        "why": "The Houthis, based in Yemen, claimed six attacks on Saudi targets on 30 Oct 2026, so ships passing the Bab el-Mandeb face a continuing risk of attack and high war-risk premiums.",
-        "action": "Check that your cargo insurance covers war risk for Bab el-Mandeb transit. Ask the carrier for a Cape routing quote on Asia-Europe bookings.",
+        "why": "Renewed Houthi fighting and mounting attacks on Saudi targets as of 30 Oct 2026 raise the risk of attacks on ships near Yemen's coast, which would force diversions around Africa.",
+        "action": "Ask your forwarder to name the diversion trigger and surcharge for Asia–Europe cargo, and plan 10 extra days of transit in your stock cover.",
         "sources": [
-          0,
-          6
+          1,
+          8,
+          9
         ]
       },
       {
@@ -89,22 +90,90 @@
         "effect": "closure",
         "likelihood": 0.5,
         "delayDays": [
-          0,
-          1
+          1,
+          2
         ],
         "costPct": [
-          2,
+          3,
           8
         ],
-        "why": "On 29 Oct 2026 Trump said strikes on Iran could take weeks and the US urged Americans to leave the region, so Iranian airspace is likely to close or be avoided by air cargo flights.",
-        "action": "Ask your air forwarder to file flight plans that avoid Iranian airspace. Expect longer routings on Europe-Asia flights.",
+        "why": "Reports on 30 Oct 2026 say the US may resume strikes on Iran after the midterms, and airspace restrictions over Iran would force air cargo to reroute.",
+        "action": "Ask your air forwarder which routings avoid Iranian airspace, and expect added flight time and fuel surcharges on Europe–Asia lanes.",
         "sources": [
-          4,
-          5
+          3,
+          6,
+          7
+        ]
+      },
+      {
+        "point": "LEVANT_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          3,
+          8
+        ],
+        "why": "The reported US airlift of 10 cargo planes to Israel and fears of renewed war on Iran (30 Oct 2026) raise the chance of airspace closures over Israel, Lebanon and Jordan.",
+        "action": "Ask your air forwarder for backup routings that avoid the Levant, and avoid booking time-critical shipments on carriers that fly through it.",
+        "sources": [
+          6,
+          3
         ]
       }
     ],
     "headlines": [
+      {
+        "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+        "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-30T07:08:59.000Z"
+      },
+      {
+        "title": "Saudis turn to Iran as Houthi attacks mount and fears of wider war grow",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOEJvaU02UEZfcFFTUnNoLWhUdHVlZ2pKY0VtQlQ4ek5TSm5SSVRHOG45MVF0SV9NOVNlb21USDBIaU1qVjNmVjNtN3Uwa05OdzlCUE82ckRGQXVkQUpzS3dBb2wxOGVGUzg3bTVCUUxEUmJkaHM4Z1U4WlM4TjdIZ0VEMnNvcDFlS3B2WEZKM1dvMHBrNE1KSHBXbVpER2dvU2hKNTdUUU5RNndCRXNQRjVZQklHcjIzSHY00gHAAUFVX3lxTE9IS2RkazFERUZJWmdTdDdCUm9VU0JNdU1sQ2xWRVgyNzRjcVlBOHlnb0hsbG1JNEZqS1M3Z3FnU1c1c2gyT0FMQS0wNEVXMWZaczhuaXoyVlEtQll3ZTNzU25MT0lpczJNYnlobFJsRXVENjVqWGdhTXpSbWtFaXRxOFlyNnRJSWtoVERUbVo0Mjl5Z0dtNDRsNVJqWDRfYmhnekV3ai1pVUxCTjlVRzBHNERyX25ONTVaeEtPYXJnOA?oc=5",
+        "publisher": "Firstpost",
+        "published": "2026-10-30T05:22:21.000Z"
+      },
+      {
+        "title": "Iran says four tankers on fire after hitting mines in Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUgxX3RoamJ0SkZ0UW5kMVAxcTdGYzNGX1dHV2x3aWZzT3hoVkVlemxENlZxMmhrVk03ZVUxZmFZZEpablZ3UE1LMGJNZ3JWak1RVTRhX0JSRDJKTUFHcXJFc21lMnE2YjQzZGIxRFd2VUVjRFVJUGdCRk1OWl9hWWNocENPcHFYRkRZY0RwaE5Ba2tqSl9YbldLa3A4TE56?oc=5",
+        "publisher": "Daily Sun",
+        "published": "2026-10-30T05:21:34.000Z"
+      },
+      {
+        "title": "Oil Gains on Signs US May Resume Military Strikes Against Iran",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9tbXFMMlg1cjY2NzhHaWxOS1Y0ZFNYcGhWRFg4RTE1YzhrcW96UDVLdXY2QjNTVG5aajd0ODRhQWVZSFM1X3ZCUVZTbzZpVXhna3F4eF9jcm5aT0ptZkZ1bXRnYzA2TkV3RWNGYm5ta01xODdWRzU2Y1lpY2pHQ1ZCX3hkbDAxcktreEtWSWVWRWV2S2ZMS3BhWGs1QQ?oc=5",
+        "publisher": "Bloomberg.com",
+        "published": "2026-10-30T02:50:00.000Z"
+      },
+      {
+        "title": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
+        "publisher": "Reuters",
+        "published": "2026-10-30T02:27:00.000Z"
+      },
+      {
+        "title": "Iran war live: Saudi Arabia intercepts two Houthi missiles over Riyadh as falling debris injures resident",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGVzSjhrbUhOTTctX0ViTkJTRnFEZnkwNTJQR3gySTJRQlk3aXNwenJ2Qk1DejVYcF84dmF4WDFPd2xKRzEwazEtOEdOb05OOFhJaXZQVTd3R2lDRHdGbTgtM1JSSEMxeFN5OTlLc0tLNE55MHlHRDZNU3lOVFBDaTJwQQ?oc=5",
+        "publisher": "Arabian Business",
+        "published": "2026-10-30T02:21:22.000Z"
+      },
+      {
+        "title": "US reportedly deploys 10 military cargo planes to Israel amid fears of renewed war on Iran",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ucm1EUWxCbDdqU1FubGpLeF90R3NnektoTXFqclE4TUpuRFhMbDNxb2IzbzA4aGhqTXl6enBtMVZQd1VueDBmaXhUWTlaMFFWR3ZJbmVsWWM?oc=5",
+        "publisher": "TRT World",
+        "published": "2026-10-30T01:13:36.000Z"
+      },
+      {
+        "title": "Oil climbs on signs US may resume military strikes against Iran",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOFh3YjYyUGx4WFptM2Zkc0RiSHpENzdhcFFwS2RkdGV1ckNUSzcxaG5QclBaNXlidDJkQTgxRkpHUjlHN2g0dldoeHRNSzBUV0J6SUZkdzZXSHJ3TDZYSkhJbENJYms4RHdsUHQtWmk2RTI4c1hLMDRzUXdzQTI4aS1wZWQtYVVBMnVJcmFuYVpFQUZyNWZ4bmlyeGVPZk50TmVZ?oc=5",
+        "publisher": "The Straits Times",
+        "published": "2026-10-30T00:20:00.000Z"
+      },
       {
         "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
         "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
@@ -112,68 +181,32 @@
         "published": "2026-10-30T00:11:20.000Z"
       },
       {
-        "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+        "title": "Iran war live: Saudi coalition downs Houthi drone in Mecca region",
         "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
         "publisher": "Al Jazeera",
         "published": "2026-10-30T00:00:00.000Z"
-      },
-      {
-        "title": "Strait of Hormuz Watch: Vessel Attacks Persist",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMzdGVkRCRkxtektNWVpJYUlyU2dMRFBSeVNxOVNsaHlDblpiblVTQ2d1SWotMmhUSk52YlNoalZKaGJkV1N4LUdjbXFFLVN4dk9JX1dYYnhZbHU1anY4QjBMNFF4N1JpVHNHNGUxcjk0YzRfSHFjWExic3NLTFFiVUhRVVhZaW1iZEt4eldXVFBfMnlaSmw0T1BMMnhfOGM2WmpROTF0OTZuc2t1Z1llRklEaVRwQ3FPT0tPdGo4Z052c3ZvQTMyVnRrVk9xM1JKRGJsUjhVMA?oc=5",
-        "publisher": "IndustryWeek",
-        "published": "2026-10-29T22:38:21.000Z"
-      },
-      {
-        "title": "Tanker ‘mostly submerged’ and ‘on fire’ in US-protected Hormuz route off Oman",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVd6cUFjazJhSXdDaUlzMFNNbnBrNVBwd0NsSXFYZXFEUk13T1l3M21ob3RyaDgzUHM1MFBIUEtMT08zVElrSFFDZWtCOTQzcFlIdnA4ZTBVVUFqaFg3dTczRGxibTRhbUZFQV84QUFnbXhjcE9YSDlFNlFSTG1RM2lhb3JlOUxsSTB6cHZzTzJsdnpRUFdTWVhoeFhVSC14bjh2Q1BfVUUwMFJVeXYzYTcwZFFPcmtEWHE4?oc=5",
-        "publisher": "TradeWinds News",
-        "published": "2026-10-29T21:59:33.000Z"
-      },
-      {
-        "title": "Trump says strikes on Iran could take weeks as U.S. urges Americans to leave the region",
-        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPY19kREoyamlsWExoaW1lZGw3cW90a2VMSmRzVk5sUkdxOHdfQkpvNVlXRWlySjRqMEEwRHh3S1RnRDlIcEdOWW82SEZ6TVEwdUZoajZvQmcyZlV1cGJkTjdsclh0TkhzRHJxbXZfbUlKQzhDTGh3WHhweVdweWpwUVNweXBrY0daSDJLRFNDdjhjNlpaYmFzSXZhanMzX18yWHd3eHloSUYyMG05QXZwQnphSndKUHo5aWhDZWd6TWlSLThsOHRmUmNHV0tyWDJDVEtYWWFmUmR0RjhRMGk2M0xMOEptb3Q2dVVuSGhkMG82YmdwLTRnOFdhTjItQlVLSzFFblBlRXRfR0I2TG82NG1RVnpoQQ?oc=5",
-        "publisher": "The Washington Post",
-        "published": "2026-10-29T21:01:00.000Z"
-      },
-      {
-        "title": "CENTCOM chief briefs Trump on options for renewed attacks on Iran: Report",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzM5MVRoQVFkR25NUi1HSEZtMGNmXzFMbFp4c3Zha0gya19LNFRWdXJfSkdxa0M4bjZXajU1M3dlRm81X2Ytd0p4RVFtT1lhdUVHemk4MTNuV1NkR3llOVJSZEx6X2lmLVd2dzNIWDVLQ2lfRjNIcHN3ZTFiNXE3dVFGemVzMmctTDEtejlWZmRLWkhLVHptaEgzdlZlWWlsVFRMYzBwVDI0U3pNUW9LZDBZTnJjLUMwTzhrTGhIbFBRQQ?oc=5",
-        "publisher": "Anadolu Ajansı",
-        "published": "2026-10-29T20:15:18.000Z"
-      },
-      {
-        "title": "While Trump Backs Putin, Putin Backs Iran and Its Houthi Allies",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2lSdFZMczlaOF9mVUxYOWY0Wm8xVnNMd3Nsb2lfXzdpLU5CRTVzODQ4eE0tUTRWdGN1RE1JbWNCWW9RMFpGclQ4aTlndWVOT2dOcngxS3JoU3AyRTJhWTdhRDdmSjdHTDBzelBoTnM3aV9ZbngzS2JFQkFvR3pzMnh2amY4WWpjQ0ZicnlSUUIxMy0zUGNoQUNlMVZZZE01M3lV0gGoAUFVX3lxTE5CX1JHdU9PUVZjMVdXMkRXRTBEVDdYV2w4Z2VRLXRzTE03dmNkTzhablNjNXotTG1QX1VtOWdZc0VjZkJwSTNjUHFTc2hiNHYzWXk4a1ZUNXZGNXYzRVJKU3ppb1hGblNkVUEzcklZY2xRTW1KU0RQZ1lGWUVoQUxEQWhHSTlhUWRRQlJaQkU5Mnp0X0YzQlcxZTU0ay16Si1OZW10UG5QMA?oc=5",
-        "publisher": "National Review",
-        "published": "2026-10-29T18:58:05.000Z"
-      },
-      {
-        "title": "Tanker struck by unknown projectile in Strait of Hormuz, UKMTO says",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xeE9kczVldDZLNTdFQUhQMUZtbFJUeFl2UTNJMHdHd1NFMno3aFVPQTF1WWtEbWpmdmlGb1luMEh4YnpZaUl1RkNJSGJ2X2xJM3c?oc=5",
-        "publisher": "Iran International",
-        "published": "2026-10-29T17:57:17.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-10-30T01:09:28.336Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "1lwlra0",
+    "hash": "cer0g9",
     "tags": [
       {
         "point": "UA_AIRSPACE",
         "effect": "closure",
-        "likelihood": 0.9,
+        "likelihood": 0.92,
         "delayDays": [
           0,
           1
         ],
         "costPct": [
-          0,
-          3
+          1,
+          4
         ],
-        "why": "Russian strikes continued through 2026-10-29, including a drone attack that killed 14 at a Ukrainian train station and a strike in Chernihiv, and only the local Oleshky truce holds, so Ukrainian airspace stays closed to civil freight flights.",
-        "action": "Ask your forwarder to confirm that air bookings are routed around Ukraine, and for the quoted routing and fuel surcharge on any Eastern Europe lanes.",
+        "why": "Russian strikes continue as of 2026-10-29, including a drone attack that killed 14 at a train station and a strike in Chernihiv, and only the local Oleshky truce holds, so Ukrainian airspace stays unsafe and closed to normal cargo overflight.",
+        "action": "Ask your air forwarder to confirm that routings to and from Eastern Europe and Central Asia avoid Ukrainian airspace, and add one day to transit-time estimates on those lanes.",
         "sources": [
           0,
           1,
@@ -210,9 +243,9 @@
     ]
   },
   "france-unrest-2026": {
-    "at": "2026-10-30T01:09:28.336Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "1b2jdkg",
+    "hash": "1ns54ig",
     "tags": [],
     "headlines": []
   },
@@ -231,30 +264,30 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-10-30T01:09:28.336Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "1vmrifh",
+    "hash": "1taig5l",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-10-30T01:09:28.336Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "ca5nf5",
+    "hash": "dhsscq",
     "tags": [],
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-10-30T00:09:22.325Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "2x6x2h",
+    "hash": "i6rwbv",
     "tags": [],
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-10-29T18:09:06.342Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "gasfxm",
+    "hash": "158kh01",
     "tags": [],
     "headlines": []
   },
@@ -407,9 +440,9 @@
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-30T01:09:28.336Z",
+    "at": "2026-10-30T07:09:38.678Z",
     "by": "pipeline",
-    "hash": "137jw46",
+    "hash": "1tljkfu",
     "tags": [],
     "headlines": []
   },
