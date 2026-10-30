@@ -273,61 +273,68 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-29T18:09:06.342Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "2cntes",
+    "hash": "1jt4wni",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.95,
-        "delayDays": [
-          2,
-          7
-        ],
-        "costPct": [
-          10,
-          40
-        ],
-        "why": "Gulf exports through Hormuz are running at only 60-80% of normal, and on 2026-10-29 Iran reported three oil tankers hit naval mines near the strait, one of them on fire, so transits face ongoing mine risk, throttled flows and war-risk premiums.",
-        "action": "Ask your forwarder for current war-risk and surcharge quotes on Hormuz-routed cargo, and hold 7-10 days of buffer stock for Gulf-origin goods.",
-        "sources": [
-          0,
-          1
-        ]
-      },
-      {
-        "point": "JEBELALI",
-        "effect": "delay",
-        "likelihood": 0.55,
+        "likelihood": 0.9,
         "delayDays": [
           2,
           6
         ],
         "costPct": [
-          5,
-          20
+          10,
+          30
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where exports are at 60-80% of normal and mines struck tankers on 2026-10-29, so vessel calls and schedules there are at risk of delays and added war-risk charges.",
-        "action": "Ask your carrier whether Jebel Ali calls are being cut or omitted and book a fallback route, such as an Omani port with trucking, for time-critical boxes.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of late October 2026, OPEC+ is planning for the strait to reopen, and fears of renewed US strikes on Iran persist, so ships face queues, war-risk premiums and a risk of further disruption.",
+        "action": "Ask your forwarder for current war-risk surcharges and transit times via Hormuz, and hold 10-14 days of buffer stock for cargo that must pass the strait.",
         "sources": [
-          0,
+          1,
+          2,
+          0
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "delay",
+        "likelihood": 0.5,
+        "delayDays": [
+          2,
+          5
+        ],
+        "costPct": [
+          5,
+          15
+        ],
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic has been restricted to 60-80% of normal, and renewed US-Iran strikes would add further delay, so Gulf-bound and Gulf-origin cargo risks waiting and extra charges in the next 30 days.",
+        "action": "Ask your forwarder to quote an alternative routing, such as discharge at a port outside the Gulf with onward trucking, and to confirm current Jebel Ali vessel schedules before you book.",
+        "sources": [
+          2,
           1
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iranian Navy",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5",
-        "publisher": "Anadolu Ajansı",
-        "published": "2026-10-29T16:06:03.000Z"
+        "title": "Oil Prices Today: Brent Crude Nears $116, Jumps 10% In October; Is $120 The Next Stop?",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUtfbi1xbGdHVEF6UHFzNEJ2UVZhcktabVJGWFZiREk3LWF4WUlRYnJUQmI4WUlZX3BQTTkyQndjUEtPZ1lRQjdZRHhPLWVXVjF6LVNuUXdfMGFRUEdKZkl5VFpfQW91N3M3ZkhLa2w3T3V5TnJ4Qk5hbkx5Vm4yT2pSMENJcEhJV1BmeTlva0lxWUZuSnhZTlR2akVFZC1aYXdUd1N4V1ZuWmdiY0stYXptSWVzRFZIZHR5aTJ3N2dKdkUtVGN5X2wtbW5HOUxMTTJlUlZ4V2RkUFNscXBxVS0wNmNxQlJmNG9aZU1iSGt5V0ZpVy1JWlc5dE3SAYQCQVVfeXFMTXRmOW1fenV2UUtuYzNLM2ppUzZaeHcyNHdqaE9YcEkyOXlCa240OEtvdGloZTZyRjhqcFIzXzBwNjMwTHJjMWI1NXFkckNHRzNIMjVUbHVTMDk1TzhfdHdseHZOSGNkNTEyWDlvRzhpV0JQMFdjWUlqZFhmOEJuUDdGUzluTmhpNWFYOFZKRklScDVLOWpNY05ib0xyR01FZnN5bUp0SmJidWdfODA4NEF3OGcwa3AzakREYzAyOG9yeDBYRmdXcE84Ql9fc1dVdjBlb2FJVllRX0VsbzdGblVDck5jUjZyM2E2R2JnY0owMDNxb1pEV012OS1aVmtmZ19yWW4?oc=5",
+        "publisher": "NDTV Profit",
+        "published": "2026-10-30T01:20:24.000Z"
       },
       {
-        "title": "OPEC+ expected to hold December oil targets steady as supply disruptions persist",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzZ2bjFUcXo3VHlHejloR1hPWGI4czF6V3RoMUNheTBEM1FqVXRZUkFHeVE2WEUwbklDckY1dDMwZ1Uxems5VVJPY1hxZ0FuOHB0b3NHa1dFSWR1bXl5NTVYOERudXZuX19BSmxIU19ycFFmRkJmXzZ0TkNmNW5KdkV5RmVybDh5UTRfcTItNy1sRVJGanRUTXZNT25ScDFSMlZmMVNxOC1NTGJ3RkhFNXpR?oc=5",
-        "publisher": "Oil & Gas 360",
-        "published": "2026-10-27T21:49:52.000Z"
+        "title": "Brent remains around $115; Oil remains high as fears of renewed US strikes on Iran grow",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX3FoR2YwS1E1NHdKMjRWd25HdXNveENYWUFCbmhnSEVEMEoxOGc3UklJQ2tCVlRPZ1E2Qk9iTDRvclhGMUo2a1h4Z0txcVVlS3ROU0MtNF8wRWpwcElSTEsxbVRMb1JSR3pCOXVocnZyQWduclpoVmcwekRRazZIQkFrcVJWdXp3VTBGSGR6ZEplbmxkQXZfQTAyLXBfSTBUQmg3dUFvT3RtdEtEa1V4dW1McGVUZWh6UTg4OUlfVkgwM0lVT3Y0X20zR2ZBY2JiSUoxU3NrY3U1c2ZxaFZ4clhIRzhyMzQzeklxSnI4bUhZRUhfOHFsM0hEQdIBgAJBVV95cUxORWllZzBlaGttTDRnYUxyWGRHX1U5MGwxalgtTW9hdDlhVTRCOXVqM3lScEM4anc1eDFjOVhWNDNZV1h2MFNzVUJ1dF96ZGRxbWhUX0Joazc4dTdkeU9OdVVoQ0x4ZFU5eTg5MjhKY25tQU14T1pvUHpZM1U1WWw0ZEhoNHJGREFmb2VzTjFIZjZrUWdTRGl1TUtnLUdJdXUyMFRjMjljcy1RaTluUHRZUjVaNjRLYUoyTmpubnJtdy1IeGpERjVGcVA3VXBidlNzY3N0UmxSemlyU1g2ajE3a2JtTmNQZUtzNWo5Y3AzNmNyQ2tkOGdvaEV4T0xrem5y?oc=5",
+        "publisher": "CNBC TV18",
+        "published": "2026-10-30T01:09:26.000Z"
+      },
+      {
+        "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR05wUXRmTE5QLTNpWE9WWFpTZ2ZpeVRkdUtKdHVXM0Nxc0pnclVSQk9WSEdjcEVuMXBKdnZkYXY5anZIaUo0bmhYd3M5Z0pEQnp3TFJEay1YamxTNjJubTBqZHBUNlB6MkpuWDBfWVNBTm43RGRUeXFnNng5ZndJVFAxenhWS0x4RzJwTnZBY3ZULTdDbUE?oc=5",
+        "publisher": "EnergyNow",
+        "published": "2026-10-29T01:56:04.000Z"
       }
     ]
   },
@@ -414,16 +421,16 @@
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "8mn8kt",
+    "hash": "v4ca12",
     "tags": [],
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "6ug618",
+    "hash": "109qzsf",
     "tags": [],
     "headlines": []
   },
@@ -435,37 +442,37 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "cktz1d",
+    "hash": "m5efy3",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "7z5gg1",
+    "hash": "ht8ucq",
     "tags": [],
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "1vpycnc",
+    "hash": "1xcebuf",
     "tags": [],
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "1lzezuo",
+    "hash": "1hmxgsm",
     "tags": [],
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-29T20:09:13.166Z",
+    "at": "2026-10-30T02:09:29.262Z",
     "by": "pipeline",
-    "hash": "16o0qb5",
+    "hash": "1g32s70",
     "tags": [],
     "headlines": []
   },
