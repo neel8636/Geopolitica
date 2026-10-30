@@ -314,102 +314,73 @@
     ]
   },
   "france-debt-stress": {
-    "at": "2026-10-30T11:10:02.676Z",
+    "at": "2026-10-30T23:10:46.228Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "ecb-holds-rates-at-2-5",
-        "title": "ECB holds rates at 2.5%",
-        "when": "2026-10-29",
-        "place": "Frankfurt, Germany",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "The ECB kept its rate at 2.5% with inflation near double target, saying it wants to assess France and energy risks, and without signalling any support for French bonds.",
-        "via": "no ECB relief for yields",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXc2NmFzazRsNFNZRUp0R2pHSUZWVVRQNF9obFRaYzVnand3eHFpSTU1TzVHSDhKMFVWT0pOa2hCeTFUSTlqZDNGQUh4YUNaVkR3RkZzczBOUnRXb01ER3d1VFdaUWd4eThYV1pVM1dQcXVFZWo3LWNHdkRzc3FWZS1rUlhpYVczbDAxYnk4UnVsRW9sbmZDdDB4QnVNM3h4X29ZUXV1cUZRTnMxc3Q1MmJubndUYWZQT0E?oc=5",
-            "publisher": "inkl"
-          },
-          {
-            "title": "French Bond Yields Ease as ECB Holds Rates",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXI5enF4cUJnXzFXT0p5RkhVdUtPWWkzZkpfNWdhY2pfWW9nWWphMHFnTWp6MmRXS2VMekdMUVBDMUF5dFl4dEtwb0tBVmV6bFhqUU04YkZEMEQ4VXNCYmlmSi1GMV9kdmt2ejliN1RpUkhQWFpGSTVmMURBdVdrZmdzYWt3M0djVmMyZFQ5Nnlla19CeVFvRg?oc=5",
-            "publisher": "TradingView"
-          },
-          {
-            "title": "ECB set to hold rates to assess France and energy risks",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFVsemJFRzlGNTdXaUFXVGZCcFNmSWRmQVBld1NSZGNNLU1hc2xIaU9sdzcycmJQMnhHWGJIdjdhTFdMY0xyRnlHV1dpcGZZZHUwd2liRHU3aWtJb0ZPei04RWNlLTVfVDA5TzhYaGdINVZfajk3QlVCTHJGM3dEcXZIYWRlRjl2amhvUVNfanI3dWdsTXB6WkhUSDNKQmZIR1FpanhaTnBNY250?oc=5",
-            "publisher": "Luxembourg Times"
-          },
-          {
-            "title": "ECB expected to hold rates as French bonds come under scrutiny",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX21NNGZISVZIQmlRVmhiNlRvMTRfSDFqTUJRaGM1Z0xSU01oY2liS1RSc01xdGdEWHlDbjJPVTZXalpOYWJiZXhjUUVIN1J6ZUctOVVrejVNM1FCazgyUG9idkl0NlpSelFoWTlFY2ZPdU9nN3A4X0oyb3dlaEtCeGEzSWhYekJMVXRHa29sbkd1MzFiUFhreUlWQmc0Um9NMkxURXFB?oc=5",
-            "publisher": "IDNFinancials"
-          }
-        ]
-      },
-      {
-        "id": "lagarde-announces-early-exit-from-ecb",
-        "title": "Lagarde announces early exit from ECB",
-        "when": "2026-10-29",
-        "place": "Frankfurt, Germany",
-        "lat": 50.11,
-        "lon": 8.68,
-        "what": "Christine Lagarde said she will leave the ECB early, raising questions about who steers euro-area policy while French bonds are under scrutiny.",
-        "via": "central bank leadership uncertainty",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "ECB holds rates at 2.5% as Lagarde announces early exit with inflation near double the target",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXc2NmFzazRsNFNZRUp0R2pHSUZWVVRQNF9obFRaYzVnand3eHFpSTU1TzVHSDhKMFVWT0pOa2hCeTFUSTlqZDNGQUh4YUNaVkR3RkZzczBOUnRXb01ER3d1VFdaUWd4eThYV1pVM1dQcXVFZWo3LWNHdkRzc3FWZS1rUlhpYVczbDAxYnk4UnVsRW9sbmZDdDB4QnVNM3h4X29ZUXV1cUZRTnMxc3Q1MmJubndUYWZQT0E?oc=5",
-            "publisher": "inkl"
-          },
-          {
-            "title": "European Stocks and Bonds Rally as Lagarde Steps Down, Investors Weigh ECB Policy Against AI Spending Risks",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3QyWEhXUHRDQ1NVZXpydVdxWWFtV2FxN1A0WjhBcXdra0swc196OWwyZkxtNElpaHhnQ0tYV1htRUxxRXZXYUZSM2MwajdtZUR3Rk5IT3lmZWJ2ckd2LW1QU0hEcUF2Z0ZJMFpLX2pLMkJ2WlQ4Sl9yaEJVMkdNTmNnMldYQmtFaGJLTzRTaFFYNXZLXzNuWnJQVS00dDhmY1dKU0k2QkFuUVdXSGt1Ym5oTzZ2ZHRlUDN0LThMaW1BU2E2UW1lSnZ3NA?oc=5",
-            "publisher": "Tekedia"
-          }
-        ]
-      },
-      {
-        "id": "us-10-year-yield-climbs-to-5-3",
-        "title": "US 10-year yield climbs to 5.3%",
+        "id": "fitch-cuts-france-s-outlook-to-negative",
+        "title": "Fitch cuts France's outlook to negative",
         "when": "2026-10-30",
-        "place": "Washington, United States",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "The US 10-year Treasury yield rose from 3.96% in February to 5.3%, lifting the global benchmark that French borrowing costs are measured against.",
-        "via": "higher global borrowing costs",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "The interest rate on the 10-year U.S. Treasury rose from 3.96% in February this year to 5.3% in earl..",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvdTB4eS1ndDQ3ajhyS0xySGg1U08tSm5XOEdVV3NwLUFDWGxCc3ZOWTZiclJ3akl3VUlPdlRpUnBqdkt4LUk3UHpEaWdadm50bEE?oc=5",
-            "publisher": "매일경제"
-          }
-        ]
-      },
-      {
-        "id": "street-pressure-meets-french-bond-market",
-        "title": "Street pressure meets French bond market",
-        "when": "2026-10-30",
-        "place": "Paris, France",
+        "place": "Paris",
         "lat": 48.87,
         "lon": 2.33,
-        "what": "Street pressure in France is colliding with bond market stress, adding political risk to the premium investors demand on French debt.",
-        "via": "political risk premium",
-        "aspect": "politics",
+        "what": "Fitch revised its outlook on France to negative, citing worsening debt dynamics, which adds rating pressure alongside the Moody's review.",
+        "via": "rating downgrade risk",
+        "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "France’s debt dilemma: Streets and bond markets collide",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlFISGx4SHZlc3lhLXVKVVRtNTVHWmVDRjY4OWVtRmYwTXozYXQtVTluTDduN1dkYnh6V0djeGRycl81dWswNXFLUGlUSVM3emtYMDhPcVlGUVQwVlYzZzNsQ3U3QUNBTG1OOUh6bmlKLURmWTZLOW82ZFV4Q1hkdXhCS0ZQN2Qza3E5Ukc3SFUwYUo0WFlRTXg2bw?oc=5",
-            "publisher": "Cayman Compass"
+            "title": "Fitch revises France's outlook to 'negative' on worsening debt dynamics",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOTFpRWgwN2dnQVRiakd0aGcycFJHaFExQVJyaFRFVUJpelJvU1lvUVR0cWExcjZva2RITGZKMFJJZVN3Zm9faWs0VFZiZDV2TWpibkphbXo0d2RwQmpTQk8tSlNocGtjQVNlRThxU3kyLV9SVmlHQ2FwWHlpVFBUTkgwbmllVUVybUZsQ3p0X21DckNMV0pUM2hJRWxyZ0hHN0hPNjRn?oc=5",
+            "publisher": "Yahoo Finance"
+          }
+        ]
+      },
+      {
+        "id": "french-bond-yields-rise-at-month-end",
+        "title": "French bond yields rise at month end",
+        "when": "2026-10-30",
+        "place": "Paris",
+        "lat": 48.87,
+        "lon": 2.33,
+        "what": "French government bond yields climbed at the end of October, keeping borrowing costs elevated against Germany.",
+        "via": "higher borrowing costs",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "French Bond Yields Rise at End of October",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0hXUVpxc2NPVk0yWWg5dEZIWThWczNEeXhjZXE3X3VXVkdlNk5BdE5naHhkQ3BHRUlHcGRKSngybzVpb2lSa2YwYzEzWERWb3gydGxGYzcyMnZMV1ZXTzZOU2V6MThlVnRZNEoxVC1tRy1XNnppeUJhVG1Zd1FRY2xIMTh2d0lJLVNlNDVNWGFwcWFNbG84?oc=5",
+            "publisher": "TradingView"
+          }
+        ]
+      },
+      {
+        "id": "ecb-set-to-hold-rates-amid-french-focus",
+        "title": "ECB set to hold rates amid French focus",
+        "when": "2026-10-29",
+        "place": "Frankfurt",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "The ECB is expected to keep rates steady while investors watch French bonds and question Lagarde's future, with no sign of intervention.",
+        "via": "no ECB backstop signal",
+        "aspect": "markets",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Euro Waits On ECB As French Bonds Steal The Show",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaFVoMUI0b25ZTFo4dWZTMHBybXdpX3VCZ00yUVdhLURKSHI0WVhkbFZEUHpsWi11eG5URzljQ09GaFBwYVZNZDlCV0d3dHRXaklnZHhpcTREY3VVcS1laWtLSGtJa1BOQ0ExcDFtd1phWEh2ZnFGLVpTd1ZnNFVmU2pWZw?oc=5",
+            "publisher": "Finimize"
+          },
+          {
+            "title": "ECB to keep rates steady as investors focus on French bonds, Lagarde's future",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KTVBSYkVWcVpTVThRTTJSTFNuX0IzVzROSkF0TWdPal83N2hoR2EyckQ3QUhiWDBEYWpxM2E3WWc3ZEJkZEE0VUp3cFFrOW9r?oc=5",
+            "publisher": "The Edge Malaysia"
+          },
+          {
+            "title": "ECB to hold rates as investors focus on French bonds, Lagarde’s future",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3JZV3ZmZmpsWnBmUEMydG5FdnlObWEzcllJdERoZ1lxdTZ0V2lXbHExTHZWVHVGb0JiZjJQc0g4ejJOUHd5cG5nMWFUcHlYRHBKUDVwNDljd0tfUmZTZDFhNXNJakR6U0hMWF9Bb3U3TExWQ2N3U0dsVzdRc0xfY3cwZzgtSkdISGtfWkwzc2dtQ2thNmdWREJmd2xRdU83OVVic25R?oc=5",
+            "publisher": "WNWN-FM"
           }
         ]
       }
@@ -1191,141 +1162,117 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-30T11:10:02.676Z",
+    "at": "2026-10-30T23:10:46.228Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "milan-living-costs-drive-teachers-away",
-        "title": "Milan living costs drive teachers away",
-        "when": "2026-10-29",
-        "place": "Milan",
-        "lat": 45.46,
-        "lon": 9.19,
-        "what": "Reuters reports that Milan's high cost of living is pricing teachers out of the city, a sign of the squeeze behind the unrest.",
-        "via": "housing and price squeeze",
-        "aspect": "living",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Priced out: Milan's cost of living drives away teachers",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVVyVXJ2cGNpTF9vY2ZFUE5jSXpqd1pDdnp6SDNad3doVnJ4N24tYVluZVoxOGVxZm1iTXY3SThNRWJ5UFdWX1ZCNDhfTjFaUWtwd3Vvc2VVQkZHZjFfLWMycTc1Y2s5eHRySXlPNWhGSGYyQ05vTnVDVS13elhSUkpLRjdnMGNhM2NzblM4UTF2THFCYW9B?oc=5",
-            "publisher": "Reuters"
-          }
-        ]
-      },
-      {
-        "id": "nationwide-general-strike-over-living-costs",
-        "title": "Nationwide general strike over living costs",
+        "id": "nationwide-strike-with-port-blockades",
+        "title": "Nationwide strike with port blockades",
         "when": "2026-10-30",
-        "place": "Italy",
+        "place": "Italy (nationwide)",
         "lat": 42.5,
         "lon": 12.5,
-        "what": "Public and private sector workers strike against the cost of living and war spending, with marches planned from Turin to Naples.",
-        "via": "union and worker turnout",
+        "what": "A nationwide strike brought port blockades and widespread walkouts, and the government deployed troops in response.",
+        "via": "union mobilisation and strike anger",
         "aspect": "jobs",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Italy to see major strikes against cost of living and war spending",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFl1dWphdGlFYnQ5bUQ3R3F3X09SdXBpM19Ld1lBYkw1NnE3QW1mS3BLZXFCckV0c2dJTW5BNlQxcnA3cUxnVTd1dkxpZ0ZFaWVFN1pMS015Q2NXQnc2UW5PeFZCS1ZhWWlnWnJMRl9mQlVNbXRlMm5vVTBkUFE5RzJBZDFZS2dVUlB0aENfeFhLODNLMjhjVUJNTl96Vkh0bFk5eUl5MkhVOFg4aHA5cHI0TXBqQi1CQkRVaVJ5NW5xejg?oc=5",
-            "publisher": "Euronews.com"
-          },
-          {
-            "title": "General Strike on October 30: What Italy Can Expect",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uazNHMzVzaFV5NnZxRHN6N05FZ1l0eGlTMm5jbjFVaWprc1R2NzBZdjQxVzZTQklnMzlmTThzaG5SRUtxMGRGUmtiYVpldm1CRC1xS25RMEtPSGNSVWZOaWlqbnZhS3h0NUNyQ0kzekx0TUN5VG9wSDR3?oc=5",
-            "publisher": "italien.news"
-          },
-          {
-            "title": "Strike on 30 October: both the public and private sectors are affected. Public transport services will run as normal",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN05IMmt1QmJZOGdwN1ZXMjFhZEo3cU1wbEsyZDBiaHg3dHRoZk04VTZ6MndaTHZLRmlLb1B4cXhUbXp3TzNWVjFFV1ZsYXlXWHFhZjhRa19nUFpVSGhVLWh2ZGZsejlUT3M0MUZORHJsT2oyVEdHNUlKOThDVnpKRUlHeHVjc1dNWW81a2dpUkFRZ2V1UFVUUGVSRTJ1cThLaFdGekQ4d1BVZTV4X1hOUC1oSWlOUjllMHhDUGpSNnk4ZjBJNmo1LUNlTTh4Szd1dVE?oc=5",
-            "publisher": "Il Sole 24 ORE"
-          },
-          {
-            "title": "Italy takes to the streets: from Turin to Naples, all tomorrow’s marches",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZGdNeHJaa0N3T2FoTV9QZDgzRy1XSHRwYmpOeEJzNXBib0hRd2hxb3JNM3FyWllfX29MSEo2V1Y5MFVaY2NYSXNRRDlxekdjOVdaN0xubmRDTGlfampaTlRwUlYyeWxETTJOYVJCNU1UbWh0aHVnZjVCWHNNamhlSmRkWV93Smx2SlVZUW9CNGFJT05MckZpSEx3U1d4ZEdQTDZKTkFpbUQwQWlOb2tFS3ZUQ2JuSm1hV09vakROajRNTk9jcEdKV1Axbw?oc=5",
-            "publisher": "la Repubblica"
-          }
-        ]
-      },
-      {
-        "id": "port-blockades-during-strike-day",
-        "title": "Port blockades during strike day",
-        "when": "2026-10-30",
-        "place": "Italy",
-        "lat": 42.5,
-        "lon": 12.5,
-        "what": "Strikes come with port blockades, and Meloni responds by deploying troops, adding pressure on goods flows and public order.",
-        "via": "disrupted port activity",
-        "aspect": "trade",
         "flow": "both",
         "sources": [
           {
-            "title": "Meloni deploys troops as Italy faces widespread strikes and port blockades",
+            "title": "Mass protests sweep Italy during nationwide strike",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
+            "publisher": "Reuters"
+          },
+          {
+            "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5",
             "publisher": "NBC News"
           }
         ]
       },
       {
-        "id": "teen-rallies-spread-across-italy",
-        "title": "Teen rallies spread across Italy",
+        "id": "students-and-workers-rally-over-prices-rearmament",
+        "title": "Students and workers rally over prices, rearmament",
         "when": "2026-10-30",
-        "place": "Italy",
-        "lat": 42.5,
-        "lon": 12.5,
-        "what": "Teenagers rally in streets across Italy, widening the protests beyond the cities hit by the October riots.",
-        "via": "youth street mobilisation",
+        "place": "Turin",
+        "lat": 45.07,
+        "lon": 7.69,
+        "what": "Tens of thousands of students and workers marched against rising costs and rearmament, with clashes with police in Turin and Rome.",
+        "via": "street anger over living costs",
         "aspect": "politics",
-        "flow": "into",
+        "flow": "both",
         "sources": [
           {
-            "title": "Teen rallies take to the streets across Italy",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONld6M1Zwd3UtcERNcUFUQUhGQ0pTakpNa3ZITDVDcjkzZ1lMOWh4MlB5cjZsSEcyQ0U5V3Uxanhrd3MwM1ZRangwYVR5QXFwRm5fRVgxdTBmdHFKQm5qWmRBak5wc01FbnVZYlZQRkZaRnRlQlE5THhvUVg4RXVhdGhWWjlHeDRKYVFPMzJjNXRJVndNM3R3?oc=5",
-            "publisher": "France 24"
+            "title": "Massive protests in Italy, millions of protesters in the streets against rearmament and rising costs, clashes with police in Rome and Turin",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdkEzTGxzVmhGTGsxRGxWZXRvSU5xT05sRm40Qkk1a1FoSHBkRTYyd29XUEVRQ2k4MFlrMmNQa0lVQjVCRXRkQXdpWUN4YWdsd1hKbTBTcWkwRUR0TUo4aFZlQm5wSWFhdjZqeFQwWHNOYlVDc2xmTnh6ZHd4Y1RpamtmNFBkLWhSMEd4cVlsOFhzTnhDeUQwdUdVZDNYUkdGVWwwbFV4VlhpRE9RT1htTUhnODdOZkNkYW16MDN0TjVYNnQyZXdHTXk3c2QwaE9xSXBUWllTNU1RMEZjbWJUbVdEQ3pQU1o4cEVUa0s0UzdxUlREa05nQXNyQXVnQQ?oc=5",
+            "publisher": "Balkanweb.com"
+          },
+          {
+            "title": "Thousands of students, workers protest in Italy",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIV1RoVzI4QXRCbTd1clFBclp1bUxDR1FkSmMySW0wX2JvOXJjU0J0TWZGVHVMekZGd1JPV21RdU5oS18zTUxDamlib0VVT19Ic1hOeHh5eDZtUdIBWkFVX3lxTFBIV1RoVzI4QXRCbTd1clFBclp1bUxDR1FkSmMySW0wX2JvOXJjU0J0TWZGVHVMekZGd1JPV21RdU5oS18zTUxDamlib0VVT19Ic1hOeHh5eDZtUQ?oc=5",
+            "publisher": "Oman Observer"
+          },
+          {
+            "title": "Italians Protest Against Meloni Over Cost of Living and Rearmament",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdmVBWjJ5Vm9sM0ZnZmNwUzdnbHBEc0tWejA1OGg0aWo1NVRCdjdCc2pDSUw4Y1BnellBc0EwWHBlWkFkdnhIeWRBS3QwLTluWXZrTjMyVVhsMEpMenVYLWU2eXZVckdpT05QZGRVem1aMHhTNjhxbGtyVW5acVUzMGR3Wm1vcnY0bmxsX2c4QXg0eFFzcG4yUmxrOGZnbDA?oc=5",
+            "publisher": "teleSUR English"
+          },
+          {
+            "title": "Thousands of students, workers demonstrate in Italy under heavy security",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWmdRNjdFbk5FVEdlU3VJNVU2WDNfdmJiMkVpNXl3TG5Nclhpc0VNVmxBcG5hb3RLZTNtLUQ4MWRyNEhObkFsOWViaEZCVmFEcTEtRVEySnZWTWVDRzlOZEhqOEJzQWFrek8xb0xfeDJ3cXNWaTJ1NkF4bmktVkV4Y3Uxc2VVVHRzM1Ewc3RzcU1qVi1yamdBd1NvN0Fjb1c5a3BvTVNLelpwZEJPVUE4QzFWRWZMYW9odWQ0NWlZa1VUdTBrZHY5Y3NpWUJoY01xYWhXdG9iRE0?oc=5",
+            "publisher": "Le Monde.fr"
+          },
+          {
+            "title": "Tens of thousands of Italians took to the streets against rising prices and rearmament / Animal excrement was scattered in front of Turin City Hall",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLU41bUN4TGVZNENyUlFueWotWHc4RGp3QlZjbGc0bHRHSmNkZTVOZWp0MFdFQTlUV0FHazNZMDFPUDk5NEMtZ1d1cTJsUHM1WThNdGJva0N0MW1VVmctMHpJcGxuNG1rZmExZjdtYXFoOFgtQk81RTZPeU0yOEwwT1RQdThOMFA4T19sMkV5azdqVWdKZDhVaA?oc=5",
+            "publisher": "Informat.ro"
+          },
+          {
+            "title": "Protests take place all over Italy amid big police presence",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNenFXelRzVHh2dy00aVYzaHY2RGxIVmZOMGhJWDNWQTZ4cU5jVjk1RzFLTFU1Q3lGNDBiY0ltSkx0anpiUnlDS1MwNDVnTXF2cWQ2WEFYcUdkV0tpVU56eXZTanFFME1tMWJLUjhfN0RYNUIyRXllUTJoSjBQV01JeHJkX1JMUWhnNkloTEFpUmU0aXdoWXBqMF9tWVJTTTlmU2VscFBKZnhNdlFoUGE5YTgxanhJOTU3TU1seDFoblZHWW8xSWFuTldPRW1DTk11VTNWVWVmRFQ0eHpRZzcxby1lNDI4TE1HQlQ5cGRyc9IB9AFBVV95cUxNeEttazIxblZsZWxZQ1ROc0VleE9hNkZ4ZlBIXzg1ZlhzcUk3anpyMWRyTkJwRnJyM0psVE1KTzBFX2phRDgtd1BNMTBXTy1LcmNxczUyWTRjRXBFTGtGSHhQY1k4dWM5Tk9KQk9aWGJHRDVwSHlOUmpmNUhiVmZwdG04ZFRTbEoyeUE2cmFUTnVTbDBfM0ZFQjdUeDNZVmE0SkRBSmFhMnZ1eHJWMWxmREo0ckd5VXZ1cTRqUlk5dzNua0NSYkxMX2pRVFFBUzBnS0NCQ05iYnZrWTEyRU03a21Kc3JkX3pmeDRheTlRZ21xUHBC?oc=5",
+            "publisher": "ANSA"
           }
         ]
       },
       {
-        "id": "milan-judge-frees-alleged-riot-organiser",
-        "title": "Milan judge frees alleged riot organiser",
-        "when": "2026-10-28",
-        "place": "Milan",
-        "lat": 45.46,
-        "lon": 9.19,
-        "what": "A Milan court released Youssef Siher, the suspected organiser of the riots, drawing a furious reaction from Meloni.",
-        "via": "political anger over release",
-        "aspect": "security",
+        "id": "meloni-signs-off-26-billion-2027-budget",
+        "title": "Meloni signs off €26 billion 2027 budget",
+        "when": "2026-10-29",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Meloni approved a €26 billion budget for 2027 that includes a projected €700m gambling tax intake, ahead of the election.",
+        "via": "limited fiscal room for relief",
+        "aspect": "budget",
         "flow": "into",
         "sources": [
           {
-            "title": "Youssef, the 'mastermind' of Italy protests? Meloni fumes as Milan court frees the riots suspect",
-            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPeGc4Sk1QLVY4OUhtQ0R0VUswY0Y0VjlHWTJCcVhkZ3JQcDhXOGVSQ21zRy1TRXQ4WVhDS3FDT25lSURkSkxpOU0zeWJ4amEtaFpub1BkaU9PTWx4MnAxXzRIVnAtSlFzaXdwWVlEN040QXQ1MHhOT1l5SndxRTF4YXNyRHlhQTJ2VjlpWG1ZX2pPWUpBVXpJbU4yamlWMFJRalJPUWYxWVdIQkdocVR0SGhqNm5ESDVkTUstRjdKT1k5Mk9SVW5kZ2lSSGxncE1CdV8tZ0FuSlAyZHB0cVFpZDFIWjZ0Z3BwMzZkQnkybXJDWFpPa1I0Y3VkSTNyVDJ4eFFxY2dHN1NqRFk5WDlnMNIBigJBVV95cUxNek55QmJnY0hTQ2VicGxFWjZYdU41RFp6bVJRQlNhREVwWWUyeXdfZGVtUjBDLVpYMFdJTTVhSVlQT0loWVFWbHpsTjNGWDR5TUVqcVdISDNELXpsc21EbkJfWWhIZTNBUXdhUUdnWGJPSU1ZVEtSVEpsZ0VSM1lSX1czdGtRNzV4clVDN2xsdG5TYjRlUk9DdVhtZkRkajJjb1AzN2hvVkRFM2VoWWg0cFZjYzN5MElHRUZNcl9ZbUJ5MjhQWkNKX2hTQmRQWTNtT2Ewb2xINWg0VGhqeEZ1UE9JZ0dhQmd0UkNZZGVDZ2hDdWZ6X3JBaFltak9CYXJYT3hQd1pDN1ZyZw?oc=5",
-            "publisher": "The Economic Times"
+            "title": "Italy projects €700m gambling tax intake as Meloni signs off 2027 budget",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnZ6VHpaQl9JMFNES0dQX3BRcXRSWE9YRGQ3Tmc3ci1qT19fY3ZUX1hHeHdUQkxMYi1TUHdubDNPNGZoVDBZOGNDTHJ2UnlfVS01SURncUYwQ0VmeVp4dVllMmVEMFVWUFFLMzR1N3BGalZYYl9FUkZsRnNRQmpMb3RzOEM0T3Q3RUpvNXczZU1yMWctUTFxZmlzVlF6YXZUUUdR?oc=5",
+            "publisher": "CDC Gaming"
           },
           {
-            "title": "Meloni Condemns ‘Shameful’ Release of Alleged Milan Riot Organizer",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1hJb1lqNlJCeVlkanlFZGtmSEZNVFZNYWhFWUNfM3Z3bkRKVmdVVVZEREZYVEZRMExrR0FQV28zNmdXbTFPVWpWTkRGbjByWUwtVWpnUnZsZk80WmVRd1YxYXRpbEJuWjdmVXJCREJ6SkRISkI2eG1QaG1Ob2RKMUdIbHItWHhZNGJ5ZjJWcWJVdw?oc=5",
-            "publisher": "newsfire.gr"
-          },
+            "title": "Meloni’s €26 Billion Budget Tests Italy’s Fiscal Discipline as Election Approaches",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMEN6TVozME9WYUhucmxKYllXZk9sMzdRc3VwN1l3M2d0RldVWFgzdmFsLXdXSEs0V2RrR3M5aFBlQy1DVnNrQl9EdXBDeWVrUEI2MklrTUllLTlWa19MTHJR?oc=5",
+            "publisher": "EU Today"
+          }
+        ]
+      },
+      {
+        "id": "top-court-upholds-ilva-steelworks-shutdown",
+        "title": "Top court upholds Ilva steelworks shutdown",
+        "when": "2026-10-29",
+        "place": "Taranto",
+        "lat": 40.47,
+        "lon": 17.24,
+        "what": "Italy's top court upheld the shutdown of the former Ilva steelworks, a setback for the Meloni government.",
+        "via": "industrial job worries",
+        "aspect": "jobs",
+        "flow": "into",
+        "sources": [
           {
-            "title": "Meloni Condemns ‘Shameful’ Release of Alleged Organizer of Milan Riots",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2VzMzV2Xy1TdE9YV0Nxd2FkTm1xRXducHZaSXBRVVoxdzhydUhiN2dnWHNWV0Z3WWRpdVA4bHh3VFZJbDRITlFIREhMSW9DOEwxTkdSM1hic1FaZThHV0p2b0k3UVNNNHZkenFrX0lWQmprcDBjWjQzSUwxUnNuMW9VSVo1cThTU09ZZGR3ODI1TUFTa2wzZ0diOE1zcERZVWtkajNNUVpZTEwtQTE5anptSdIBuAFBVV95cUxQb3Q3bXRtUXlpN0IzWmV3VENOb2twZ2NmRW51UThoOWFpbWhWZkxObGR1TllwWUFGaUdaM1ZrcWFBdkw1eVVDcE9IU180em1xWUVra2t4d1dWNFdLd0JBTkd1RzVJZ2RtTXVhdmhRSWNxQ2xzZVZwRHYxaG9uY0JjOWlwVl9BWHN0Nm40UmRSbWtpT2JvX28tWkZYVHIxTHEtaXR2WTh4SHNxSFRtR09LNDlrb2c0cUlH?oc=5",
-            "publisher": "Breitbart News"
-          },
-          {
-            "title": "Italian PM slams 'shameful' release of alleged protest organiser",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHNyWEJXUGo4YTdiUUl5Q01VRXRLc3AzbFIzQWhlQkRVWi1MN0VkZDVMcG5oZktkblNYYjdfWHJISUNsdjdQUXNmenNJUnFQQXZURzA4YzJaUmxLenRlVzEwSW5iN3Z3YTdKWFRlc3ZRY21qTmk2RFVPamhMS2hjZkl3UnlQYmRsejNRczZLM0hjRW9zOXJaYl9wNXdWLVByVzVRWWYtNVNtU1AyV0E?oc=5",
-            "publisher": "France 24"
-          },
-          {
-            "title": "Italian judge frees protest suspect, prompting Meloni fury",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPak1XQ3I5Y25ZUUdWTlFEbnJYcTFNRFgxTmYzRXJzVFhkYzNpdHk1NUVyMzlVTzlLOGxhX0Z1QlFMNW45MEFQNlRfS3lEenZtUllHMDQtMnRWZy1oY3NHQXVxYmh6UzA0ZUluSXR2bE51RFFzeF9mUXZPR0JpY2ttdWkyRktiNktZb3ZSb3E1d0dLSkVOSkxKSGc0VDNWX25yNm41WFVyaDl3N1hwYmJKeGk5dGY?oc=5",
+            "title": "Italy's top court upholds shutdown of former Ilva steelworks, in setback to Meloni",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1RxXzFPQW95WTRPWHJFU28xSjNvbktLTnd5Y05zQ0ktYV9rcVBobVhMakI4Q3dzTjczbDJ4bmVIUEQzX3BhNWthLXZzR2s2bFc5VG0xalV2aGJVeklyQ1Rxb21Ib1RlbVh6LTBscndwYUVydUlXMTB0VHJXQkFCWFlUZjd4cjJiZDQzUVQ1NENON2xZSzRJb2ZIa25scUR2VWp5RGVEbFRCcUx2R3RQMFZVdw?oc=5",
             "publisher": "Reuters"
-          },
-          {
-            "title": "Italian Judge Releases Youssef Siher After Milan Riot Arrest",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nUEJjTkVDVG5VaS16R0NHWElWaTRVdlZVVWFBb0pWWUF0SmVUUXp6ZXFZR3dteEFKYUFsRjRDbUZzMXRuakdiZnNxNkJHcE9NaVBxNDhyWXRjMTU5UmlKR2VCckFlZVdnMy1iNGRlZ2Z6R28?oc=5",
-            "publisher": "SuaraGarut.ID"
           }
         ]
       }
@@ -3416,56 +3363,18 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-30T11:10:02.676Z",
+    "at": "2026-10-30T23:10:46.228Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "cuban-diplomat-expelled-from-the-united-states",
-        "title": "Cuban diplomat expelled from the United States",
-        "when": "2026-10-28",
-        "place": "Washington, DC",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "The Trump administration expelled a Cuban diplomat from the US as tensions with Havana rose, in the same days as Rubio's appeal.",
-        "via": "escalating diplomatic confrontation",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Trump administration kicks out Cuban diplomat from US as tensions rise",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wYmkyMDNOanNyNVIxZHl4NlFJVEZZOVNuT3FJalVFSXpfMUhjZTd5TmFpNHlhWWpyb09zRUQ1aVhRR0FVT2FTdzFabHk5Z0ZueVZPZ3lBZFd3aHp0NV9wX0hVbzVuSUZheE1aTDN1YjljZVVYU2c?oc=5",
-            "publisher": "CNN"
-          }
-        ]
-      },
-      {
-        "id": "un-backing-for-ending-cuba-embargo-drops",
-        "title": "UN backing for ending Cuba embargo drops",
-        "when": "2026-10-28",
-        "place": "New York",
-        "lat": 40.75,
-        "lon": -73.97,
-        "what": "Support for the UN call to end the Cuba embargo fell to a 20-year low, signalling weaker international resistance to US pressure.",
-        "via": "weaker international pushback",
-        "aspect": "trade",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
-            "publisher": "UN News"
-          }
-        ]
-      },
-      {
-        "id": "cuban-american-voters-turn-on-republican-immigration-policy",
-        "title": "Cuban-American voters turn on Republican immigration policy",
+        "id": "cuban-american-voters-sour-on-republican-immigration-policy",
+        "title": "Cuban American voters sour on Republican immigration policy",
         "when": "2026-10-30",
         "place": "United States",
-        "lat": 39.8,
-        "lon": -98.6,
-        "what": "Many Cubans who voted for Trump are now turning against Republican immigration policies, according to the BBC.",
-        "via": "Cuban-American voter pressure",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "Many Cubans who voted for Trump are turning against Republican immigration policies, a shift in a key constituency that shapes the politics behind Washington's Cuba stance.",
+        "via": "Cuban American voter pressure",
         "aspect": "politics",
         "flow": "into",
         "sources": [

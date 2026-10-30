@@ -5,10 +5,6 @@
       "at": "2026-10-28T12:07:03.388Z",
       "verdict": "reject"
     },
-    "e06681b03dcc": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "reject"
-    },
     "177ee20d9810": {
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "reject"
@@ -53,17 +49,9 @@
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "existing"
     },
-    "1192c53c5699": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "existing"
-    },
     "dc1fa5bd7276": {
       "at": "2026-10-27T06:04:59.755Z",
       "verdict": "reject"
-    },
-    "3efd5f8667ed": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "accept"
     },
     "f70a2ef57f13": {
       "at": "2026-10-28T15:07:15.247Z",
@@ -85,10 +73,6 @@
       "at": "2026-10-28T03:06:24.951Z",
       "verdict": "reject"
     },
-    "b5689fe37d13": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "existing"
-    },
     "87149bc8fa42": {
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "existing"
@@ -97,10 +81,6 @@
       "at": "2026-10-28T12:07:03.388Z",
       "verdict": "reject"
     },
-    "23f170179647": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "accept"
-    },
     "a73085d1e7d5": {
       "at": "2026-10-28T18:07:31.962Z",
       "verdict": "reject"
@@ -108,10 +88,6 @@
     "61b694d50d6d": {
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "reject"
-    },
-    "a0b1885af390": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "accept"
     },
     "377e6dc409f6": {
       "at": "2026-10-28T18:07:31.962Z",
@@ -125,20 +101,12 @@
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "reject"
     },
-    "3fe2fc5a9a88": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "reject"
-    },
     "8537892065df": {
       "at": "2026-10-27T06:04:59.755Z",
       "verdict": "reject"
     },
     "e1dca15b38f3": {
       "at": "2026-10-27T03:04:55.845Z",
-      "verdict": "reject"
-    },
-    "31f2e11f3b58": {
-      "at": "2026-10-26T23:04:50.597Z",
       "verdict": "reject"
     },
     "27a757da6ad3": {
@@ -149,29 +117,9 @@
       "at": "2026-10-27T06:04:59.755Z",
       "verdict": "reject"
     },
-    "70923da52b02": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "reject"
-    },
-    "18cbf8ffc1e6": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "reject"
-    },
     "3e34e7a03b6a": {
       "at": "2026-10-28T12:07:03.388Z",
       "verdict": "reject"
-    },
-    "09456571b6e0": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "no story"
-    },
-    "aea80776c90b": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "no story"
-    },
-    "bb27a167d323": {
-      "at": "2026-10-26T23:04:50.597Z",
-      "verdict": "no story"
     },
     "5ac3f6f03350": {
       "at": "2026-10-27T06:04:59.755Z",
@@ -3516,6 +3464,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T23:10:46.228Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 2 new uncovered headlines"
+    },
+    {
       "at": "2026-10-30T22:10:41.465Z",
       "screened": 140,
       "accepted": [],
@@ -5262,15 +5219,6 @@
       ],
       "retired": [],
       "skipped": ""
-    },
-    {
-      "at": "2026-10-29T09:47:39.491Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 99 min ago"
     }
   ]
 }
