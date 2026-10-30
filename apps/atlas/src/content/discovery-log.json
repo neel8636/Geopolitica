@@ -5,14 +5,6 @@
       "at": "2026-10-28T12:07:03.388Z",
       "verdict": "reject"
     },
-    "cbf5e0442f19": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "existing"
-    },
-    "9a6b99cc8c92": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
     "e06681b03dcc": {
       "at": "2026-10-26T23:04:50.597Z",
       "verdict": "reject"
@@ -25,17 +17,9 @@
       "at": "2026-10-27T06:04:59.755Z",
       "verdict": "existing"
     },
-    "a82b46945df8": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
     "7dbce69597de": {
       "at": "2026-10-27T06:04:59.755Z",
       "verdict": "existing"
-    },
-    "7585b0fd1918": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
     },
     "5c8e7931e99b": {
       "at": "2026-10-28T00:06:19.859Z",
@@ -64,18 +48,6 @@
     "5541bb274a38": {
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "existing"
-    },
-    "f801024f7f71": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
-    "696ffd5db420": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "accept"
-    },
-    "59249866ed01": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "accept"
     },
     "80ce4086e420": {
       "at": "2026-10-28T09:06:50.199Z",
@@ -113,14 +85,6 @@
       "at": "2026-10-28T03:06:24.951Z",
       "verdict": "reject"
     },
-    "aacf696ca69d": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
-    "dddde4925192": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "accept"
-    },
     "b5689fe37d13": {
       "at": "2026-10-26T23:04:50.597Z",
       "verdict": "existing"
@@ -128,14 +92,6 @@
     "87149bc8fa42": {
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "existing"
-    },
-    "2d95a8269e51": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
-    "ce87bcf1c893": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
     },
     "6685a6e2ced0": {
       "at": "2026-10-28T12:07:03.388Z",
@@ -149,73 +105,9 @@
       "at": "2026-10-28T18:07:31.962Z",
       "verdict": "reject"
     },
-    "363e2ddf4f35": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "reject"
-    },
-    "5b328d4041da": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
     "61b694d50d6d": {
       "at": "2026-10-27T09:05:13.977Z",
       "verdict": "reject"
-    },
-    "cabbaae75715": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "73b73e223167": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "a04f6b321e76": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "def02738f68d": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "1934984bfcad": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "1e8bab909d67": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "68b84a68ef4b": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "c9221d2549ec": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "6ea01cbe6683": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "9fd4b5936afd": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "62f09167dc80": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "6a4914d0e543": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "8d543903e13f": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
-    },
-    "656e492063a1": {
-      "at": "2026-10-26T20:04:33.577Z",
-      "verdict": "no story"
     },
     "a0b1885af390": {
       "at": "2026-10-26T23:04:50.597Z",
@@ -3576,6 +3468,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T21:10:46.671Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-30T19:33:03.061Z",
       "screened": 0,
       "accepted": [],
@@ -5218,137 +5119,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-29T08:08:23.634Z",
-      "screened": 130,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "El Salvador sends 2,000 troops to Haiti as elections slip",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "EU backs away from 'associate member' talks offer to Canada",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget personal-finance reactions and explainers",
-          "reason": "These are reader reactions and explainers, not new developments.",
-          "headlines": 6,
-          "publishers": 2
-        },
-        {
-          "title": "Russia's alleged sabotage campaign in Europe",
-          "reason": "This is analysis of fears about escalation, with no dated decision or new event.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Shell profit doubles on refining margins",
-          "reason": "This is company earnings news with no state or policy angle.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Spain high-speed train crash near Toledo",
-          "reason": "This is a domestic accident with no effect abroad.",
-          "headlines": 9,
-          "publishers": 4
-        },
-        {
-          "title": "Leak of US homeland security workers' data",
-          "reason": "This is a data leak with no clear cross-border state effect.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Cruise voyages ended over fuel costs",
-          "reason": "This is company and human-interest news with no state or policy decision.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Brands and athletes apologise after China backlash",
-          "reason": "This is a corporate and celebrity matter, not a state decision.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Turkiye's Libya breakthrough",
-          "reason": "This is an analysis piece, not a reported development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Judge rejects Trump bid to block California ballots",
-          "reason": "This is a US domestic court ruling with no cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Tencent and Visa payments push in China",
-          "reason": "This is company news with only a minor regulatory angle.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Ukraine war incidents and commentary",
-          "reason": "These are routine strike reports, a local truce and an interview, none of which is a new decision.",
-          "headlines": 4,
-          "publishers": 3
-        }
-      ],
-      "existing": [
-        {
-          "title": "UN vote on US embargo of Cuba, support at a 30-year low",
-          "reason": "This is part of the ongoing US-Cuba confrontation already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "Fed rate decision and Warsh press conference",
-          "reason": "This is coverage of the Fed decision already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "Putin talks with Musk about satellites",
-          "reason": "This belongs to the Starlink and Ukraine thread already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Israeli election aftermath and the Arab parties question",
-          "reason": "This is follow-up on the Israeli election already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "UK Budget",
-          "reason": "This is coverage of the UK Budget already on the map.",
-          "headlines": 4,
-          "publishers": 2,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "UN news in brief: Ukraine, IAEA on Iran, Ethiopians fleeing to Kenya",
-          "reason": "This is a roundup that mostly continues the Iran and Gulf story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

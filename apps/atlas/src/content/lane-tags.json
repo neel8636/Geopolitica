@@ -199,68 +199,92 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "h6gdyv",
+    "hash": "1kr3k9u",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "capacity",
-        "likelihood": 0.85,
+        "effect": "security",
+        "likelihood": 0.95,
         "delayDays": [
           2,
           7
         ],
         "costPct": [
-          10,
-          35
+          15,
+          50
         ],
-        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of late October 2026, and OPEC+ says it will raise output only once the strait reopens, so transits are still restricted and costly.",
-        "action": "Ask your forwarder for current war-risk surcharges and transit schedules for Gulf cargo, and keep 10 to 14 days of buffer stock on anything that must pass Hormuz.",
+        "why": "On 30 Oct 2026 Iran's Revolutionary Guard reported three tankers on fire in the strait, Oman rescued 25 crew from a burning tanker, and Gulf exports are running at 60-80% of normal, so transits face attack risk, delays and war-risk premiums.",
+        "action": "Ask your forwarder or carrier for current war-risk surcharges and sailing status on Hormuz transits, and hold 7-10 days of buffer stock on Gulf-sourced or Gulf-bound cargo.",
         "sources": [
-          2,
+          0,
           1,
-          0
+          2
         ]
       },
       {
         "point": "JEBELALI",
         "effect": "delay",
-        "likelihood": 0.45,
+        "likelihood": 0.55,
         "delayDays": [
           2,
           6
         ],
         "costPct": [
-          5,
-          20
+          8,
+          25
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, so the 60-80% flow through the strait and the war-risk conditions reported through late October 2026 can slow vessel arrivals and add surcharges.",
-        "action": "Ask your forwarder about routing Gulf-bound cargo through alternative ports outside Hormuz, and add 5 to 7 days of buffer to Jebel Ali delivery dates.",
+        "why": "Jebel Ali sits inside the Gulf behind Hormuz, and the tanker attacks reported on 30 Oct 2026 and the disrupted flows through the strait make vessel schedule slips, waiting time and added insurance costs likely for cargo calling there.",
+        "action": "Ask your forwarder for a contingency routing for Jebel Ali cargo, such as discharge at Khor Fakkan or Fujairah with trucking, and confirm before booking who pays any war-risk surcharge.",
         "sources": [
-          2,
-          1
+          1,
+          2
+        ]
+      },
+      {
+        "point": "RED_SEA",
+        "effect": "security",
+        "likelihood": 0.4,
+        "delayDays": [
+          7,
+          14
+        ],
+        "costPct": [
+          10,
+          35
+        ],
+        "why": "A 30 Oct 2026 report says Houthi attacks on Saudi refineries are tightening supply, which points to renewed Houthi targeting of Saudi and Red Sea infrastructure and raises the risk to shipping on the Red Sea.",
+        "action": "Ask your forwarder whether Red Sea or Suez sailings are exposed this month, and get a priced Cape of Good Hope alternative for Asia-Europe bookings.",
+        "sources": [
+          3
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Brent Hits $116 as OPEC Meets With Saudi Output 4.5 mb/d Below Quota",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSDFFOGVsRjBIck5QTVhLN1VjS0NrbGI5VU4zZkI5N2o5LUdxcWdTRzVaejZOX2lDeEJlMUQ1S2xncThKTFlyRXlzb0o4cDlYVTR3bUZEbWU1eHNZMUhV?oc=5",
-        "publisher": "https://houseofsaud.com/",
-        "published": "2026-10-30T10:01:18.000Z"
+        "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+        "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "published": "2026-10-30T18:33:29.000Z"
       },
       {
-        "title": "Brent Crude Surges Near $118 as Middle East Supply Fears Escalate",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEc2SWNySVBkV21Ic29nVzRHQ3BTTEdmQVVFVlk5YnRFOWFXZVNhQUtzQmJSZ1ZPUlpEbTd1c3JOaFNPZk44R2MyWlhOVlF2R0FpdXZBak56b24wSVFUMHl3bS1QYjBGYU04bThpalduc3ZIbnV1T0dTS25WS0I4akZ3TWpGa1JLRzhNVDdISzRLRnNGRGUzLVpCNHhhcTg?oc=5",
-        "publisher": "https://streamlinefeed.co.ke/",
-        "published": "2026-10-30T05:43:10.000Z"
+        "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+        "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+        "publisher": "CNBC World",
+        "published": "2026-10-30T18:28:09.000Z"
       },
       {
-        "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR05wUXRmTE5QLTNpWE9WWFpTZ2ZpeVRkdUtKdHVXM0Nxc0pnclVSQk9WSEdjcEVuMXBKdnZkYXY5anZIaUo0bmhYd3M5Z0pEQnp3TFJEay1YamxTNjJubTBqZHBUNlB6MkpuWDBfWVNBTm43RGRUeXFnNng5ZndJVFAxenhWS0x4RzJwTnZBY3ZULTdDbUE?oc=5",
-        "publisher": "EnergyNow",
-        "published": "2026-10-29T01:56:04.000Z"
+        "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
+        "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
+        "publisher": "Euronews",
+        "published": "2026-10-30T14:43:36.000Z"
+      },
+      {
+        "title": "Crude Oil Extends Gains as Houthi Attacks on Saudi Refineries Tighten Supply Chain; Brent Headed for 14% Monthly Rise",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJWk9TMXh4N0xKb19VTFFVU2s1SzFsVE5wRV9IR295aDhuamZncm5zbWFrZUxPMWd5X0dTaUJyTTFhZTRycElYRTk5RW9TbHV3WExxWlhTNlBia2pkOEExSHB2MGdoOTdFYVJiRngxUXptMEVob1E?oc=5",
+        "publisher": "BigGo Finance",
+        "published": "2026-10-30T03:25:00.000Z"
       }
     ]
   },
@@ -333,9 +357,9 @@
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "1c7fkuw",
+    "hash": "zqlscx",
     "tags": [],
     "headlines": []
   },
@@ -354,9 +378,9 @@
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "qr020f",
+    "hash": "1pwjel0",
     "tags": [],
     "headlines": []
   },
@@ -368,16 +392,16 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "lkmrvp",
+    "hash": "1wwv8r1",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "jarv3m",
+    "hash": "1beees8",
     "tags": [],
     "headlines": []
   },
@@ -389,43 +413,50 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "1dq8od",
+    "hash": "1jlwst0",
     "tags": [],
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-30T14:10:15.492Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "1s4lxl2",
+    "hash": "9yrn1",
     "tags": [
       {
         "point": "SOUTH_CHINA_SEA",
         "effect": "security",
-        "likelihood": 0.2,
+        "likelihood": 0.3,
         "delayDays": [
-          0,
-          1
+          1,
+          3
         ],
         "costPct": [
-          0,
-          2
+          1,
+          4
         ],
-        "why": "Since 1 Oct 2026 Philippine and Chinese forces have clashed repeatedly near Scarborough and Second Thomas shoals, and on 30 Oct China began combat-readiness patrols and water-cannon and drone drills there, so freight faces a small risk of navigation warnings, local diversions or ",
-        "action": "Ask your forwarder or carrier whether the sailing is routed clear of Scarborough Shoal and the Spratlys, and whether any war-risk surcharge is being applied for Philippine-bound cargo. Keep about 3 days of buffer stock f",
+        "why": "Between 1 and 9 October there were at least six Philippine-Chinese encounters, and on 30 October reports say China is stepping up combat-readiness patrols and drone and water-cannon drills near Scarborough Shoal, so freight on routes through the eastern South China Sea faces poss",
+        "action": "Ask your forwarder whether vessels on your Philippines-bound or Philippines-origin services will avoid the Scarborough and Spratly areas, and get war-risk surcharge terms in writing. Add 3 days of buffer stock for Manila",
         "sources": [
           0,
           1,
           2,
-          3
+          3,
+          4
         ]
       }
     ],
     "headlines": [
       {
+        "title": "HEADLINES: China boosts patrols around disputed shoal | October 31, 2026",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXFkb2ktQzI4SGp3RW13N0dQR0lBdWhYVXZIRUNJamFGV09IQnhPRUowZEdnVzBNdjFMa2tlcFhkYnBxTHFuTHNSblZGWDc0M2ZCcmplUWp6bENFQ2x2TklpUE12MF9PeFdzd0NfYWo3d1FfVkNld0Yxci1JSG1YZWtOeDQxS1V1U2NQTkoyVU9PZ0kwQjJVVmJNN3p4cUxlWGN0RGRkT2dtTVZScnFLWTN2cVg2WHR6RVpiaXRPYTNpUdIBxwFBVV95cUxNVmJYYm5vNjU4eWo2WW9NbUk2aGE4MmNUQ0ZGZXRqTmp1T0xJOV9pQzB3Yk1wOUREV0JhYVN6Q0xkNWh6VWFJdU5oVXd5NldZU1RORGlzb3lMWUs0ajBvVnkwR21LNG5GRjNRSUMxeWZqMlVDWGYta3U4NXJldl9wOHVSTzE1cDNPSVhCeno4a2Y3YUZUMFNYZEJEbk5LZWNBNy10anJqRlRxZjZNUzY0aG9IMGIzaTJuYWlnY1BJTEgtN3htMWRn?oc=5",
+        "publisher": "The Manila Times",
+        "published": "2026-10-30T16:01:00.000Z"
+      },
+      {
         "title": "China intensifies its patrols ahead of a possible clash with the Philippines in disputed maritime areas",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcnFEN2tfeTA1dXpvU1Z3RVluNFhHa3h2X19RYUd6OG16RGpNWkU4OWp1aGFvVXNpY0VwTHpDTjhxY05teW9TMkVPdG9NdWd0R1ppSE8xWGRmbFdSMVdIYW9DSzZjQXo3a0NHMWJrOHAxUlk0VTA4Z1UzS01mUE5xUXFaS1Y5RHpuel9uaDFwWmh5R0ZxWUlqX1RfWWZYTFpWNU5EbGdvRWV5NTNpTTFyMFktdEgtaFpnV0IyLTEtVTAtNG92RjlvWmN3UHYxdTZZZWN6YkV5cEpLTXBKemhR0gHkAUFVX3lxTE5uSWVzMUJ1TWpGeUYyZk9MQUtuUUx1T2RURGd6X0xNZXJsQVUwWHpGSWlkSnh3c0tscENxSVJ0WnhoQlZlWURmbnZ3MTRsb1IwVHFuSjk5RmF6T3I4TG1teEp4emlhTW1qZHZhSVI1VlFSZDBsajNUZlluOTVnVVA3ek5DalVnTTJyVUU0cHR4b3U5d240WUVMMjhPbmV6bEo4TjdSdTc4RmdRdGVzbWttMzZteXEySS1PQXo2eTVSQzQ2V19JVE9XellDdThHSXFIdk0wV01TeUwxQ1BUbEJaNDNvQw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkllczFCdU1qRnlGMmZPTEFLblFMdU9kVERnel9MTWVybEFVMFh6RklpZEp4d3NLbHBDcUlSdFp4aEJWZVlEZm52dzE0bG9SMFRxbko5OUZhek9yOExtbXhKeHppYU1tamR2YUlSNVZRUmQwbGozVGZZbjk1Z1VQN3pOQ2pVZ00yclVFNHB0eG91OXduNFlFTDI4T25lemxKOE43UnU3OEZnUXRlc21rbTM2bXlxMkktT0F6Nnk1UkM0NldfSVRPV3pZQ3U4R0lxSHZNMFdNU3lMMUNQVGxCWjQzb0PSAeQBQVVfeXFMTm5JZXMxQnVNakZ5RjJmT0xBS25RTHVPZFREZ3pfTE1lcmxBVTBYekZJaWRKeHdzS2xwQ3FJUnRaeGhCVmVZRGZudncxNGxvUjBUcW5KOTlGYXpPcjhMbW14Snh6aWFNbWpkdmFJUjVWUVJkMGxqM1RmWW45NWdVUDd6TkNqVWdNMnJVRTRwdHhvdTl3bjRZRUwyOE9uZXpsSjhON1J1NzhGZ1F0ZXNta20zNm15cTJJLU9BejZ5NVJDNDZXX0lUT1d6WUN1OEdJcUh2TTBXTVN5TDFDUFRsQlo0M29D?oc=5",
         "publisher": "Demócrata",
         "published": "2026-10-30T13:26:31.000Z"
       },
@@ -555,9 +586,9 @@
     "headlines": []
   },
   "uk-budget-defense-ukraine-2026": {
-    "at": "2026-10-29T21:09:16.591Z",
+    "at": "2026-10-30T21:10:46.671Z",
     "by": "pipeline",
-    "hash": "oinrfq",
+    "hash": "18py22u",
     "tags": [],
     "headlines": []
   },
