@@ -3296,6 +3296,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T04:09:38.265Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 4 new uncovered headlines"
+    },
+    {
       "at": "2026-10-30T03:09:28.814Z",
       "screened": 140,
       "accepted": [],
@@ -4917,137 +4926,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-28T15:07:15.247Z",
-      "screened": 125,
-      "accepted": [
-        {
-          "id": "uk-budget-defense-ukraine-2026",
-          "title": "UK Budget speeds up defense target, pledges billions to Ukraine",
-          "reason": "A UK government budget with a dated decision to speed up its defense target and fund Ukraine, while the OBR cuts the 2027 growth forecast, reaches a foreign state through arms and aid money.",
-          "channel": "military aid and defense spending to Ukraine, plus UK growth and gilt outlook",
-          "reaches": [
-            "UA"
-          ],
-          "headlines": 5,
-          "publishers": 3
-        }
-      ],
-      "rejected": [
-        {
-          "title": "UK sanctions Sudanese military leaders over El Fasher rapes",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Spain high-speed train crash near Toledo",
-          "reason": "An accident with no effect abroad and no state or policy angle.",
-          "headlines": 6,
-          "publishers": 4
-        },
-        {
-          "title": "GCC security pact with Iran speculation",
-          "reason": "Analysis and speculation, with no decision reported.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "New Zealand central bank holds rates, NZ dollar tanks",
-          "reason": "A small-economy rate surprise whose effect abroad is too limited.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US may let more Russian diesel onto market",
-          "reason": "A hedged remark by an official, with no decision or date.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Local Ukraine-Russia truce in Oleshky",
-          "reason": "A local truce with limited scale.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Trump to terminate Biden-era methane rules",
-          "reason": "A domestic regulatory change with no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Fed expected to hold rates",
-          "reason": "Previews of an expected hold, with no decision yet.",
-          "headlines": 2,
-          "publishers": 1
-        },
-        {
-          "title": "Luxury cruise ends as fuel costs soar",
-          "reason": "A human-interest and company story with no state actor.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Egypt fines editor and shuts Mada Masr",
-          "reason": "A domestic press-freedom case with no ripple abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UN General Assembly weighs Cuba embargo vote",
-          "reason": "A routine annual vote that decides nothing new.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Hackers hit US campaign finance system before midterms",
-          "reason": "This is part of the midterm story already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump claims US voter fraud is rampant",
-          "reason": "This is part of the midterm story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump says Brazil election looked rigged",
-          "reason": "This is part of the Brazil run-off story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        },
-        {
-          "title": "Trump says Iran war ends when he wants, costs hit $47bn",
-          "reason": "This is part of the US-Israel war on Iran already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Tens of thousands flee Ethiopian fighting into Kenya",
-          "reason": "The refugee flow comes from the Ethiopian conflict already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ethiopia-eritrea-war-fears"
-        },
-        {
-          "title": "Europe's debt stress raises corporate borrowing costs",
-          "reason": "This is part of the European bond stress story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
