@@ -792,6 +792,99 @@
         "headlines": 3,
         "publishers": 2
       }
+    },
+    {
+      "id": "binance-hack-north-korea-2026",
+      "title": "North Korean group blamed for record $6.3bn Binance hack",
+      "type": "security",
+      "date": "2026-10-30",
+      "status": "developing",
+      "region": "North Korea, United States",
+      "lat": 37.5,
+      "lon": -122,
+      "countries": [
+        "KP",
+        "US",
+        "KR",
+        "JP"
+      ],
+      "summary": "Binance was hit by a $6.3 billion hack suspected to be the largest crypto theft in history, and a North Korean group is being blamed for it. Stolen funds laundered across borders could finance Pyongyang's programmes, evade sanctions and unsettle exchanges and crypto markets worldwide.",
+      "severity": 4,
+      "keywords": [
+        "binance",
+        "6.3bn",
+        "$6.3 billion",
+        "crypto heist",
+        "north korean group",
+        "crypto hack",
+        "largest crypto theft",
+        "lazarus",
+        "stolen crypto",
+        "exchange hack"
+      ],
+      "links": [
+        {
+          "to": "north-korea-missile-tests-2026",
+          "kind": "amplifies",
+          "why": "Stolen crypto can fund North Korea's weapons programmes, adding resources behind the missile launches that have marked recent weeks.",
+          "via": "stolen funds financing weapons programmes"
+        },
+        {
+          "to": "apec-shenzhen-2026",
+          "kind": "affects",
+          "why": "A record theft attributed to Pyongyang could harden US positions ahead of a possible Trump-Kim meeting on the November Asia trip.",
+          "via": "pressure before possible Trump-Kim meeting"
+        },
+        {
+          "to": "black-october-ai-cyber-wave-2026",
+          "kind": "shares_driver",
+          "why": "Both show attackers exploiting weaknesses in critical digital systems faster than defenders can respond, raising cyber risk for finance and infrastructure.",
+          "via": "rising cyber threat to core systems"
+        }
+      ],
+      "sources": [
+        {
+          "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+          "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+          "publisher": "The Guardian World",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+          "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+          "publisher": "CNBC World",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "publisher": "BBC World",
+          "date": "2026-10-30"
+        },
+        {
+          "title": "Binance's $6.3 billion hack: What we know and what comes next",
+          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+          "publisher": "CNBC World",
+          "date": "2026-10-30"
+        }
+      ],
+      "news": {
+        "q": "Binance hack OR \"North Korea\" Binance OR \"Lazarus\" crypto",
+        "edition": "US"
+      },
+      "auto": {
+        "addedAt": "2026-10-30T09:10:01.251Z",
+        "reason": "A state-linked North Korean group is blamed for the largest crypto theft ever, which points to sanctions evasion and weapons funding and moves value across borders.",
+        "channel": "stolen crypto funds laundered across borders to fund North Korea's programmes, s",
+        "reaches": [
+          "KP",
+          "US",
+          "KR",
+          "JP"
+        ],
+        "headlines": 6,
+        "publishers": 4
+      }
     }
   ]
 }

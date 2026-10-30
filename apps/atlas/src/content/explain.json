@@ -688,5 +688,35 @@
       "Inflation concerns keep the Fed on hold, and Treasury Secretary Bessent says another hike would not necessarily be a mistake."
     ],
     "watch": "Oil and freight costs, and whether the Fed's next decision tilts toward a hike."
+  },
+  "binance-hack-north-korea-2026~north-korea-missile-tests-2026": {
+    "hook": "A record crypto theft blamed on Pyongyang could help pay for the missiles it keeps firing.",
+    "line": "If a North Korean group stole the $6.3bn from Binance, laundered funds could finance its weapons programmes, adding resources behind the missile launches of recent weeks.",
+    "steps": [
+      "A North Korean group is blamed for the $6.3bn Binance hack, suspected to be the largest crypto theft in history.",
+      "Stolen funds laundered across borders could finance Pyongyang's programmes and help it evade sanctions.",
+      "That could add resources behind a month of launches, including the 14 October submarine-launched cruise missiles."
+    ],
+    "watch": "Whether Trump meets Kim on his November Asia trip, after October's launches."
+  },
+  "apec-shenzhen-2026~binance-hack-north-korea-2026": {
+    "hook": "A record theft blamed on North Korea lands just before a possible Trump-Kim meeting.",
+    "line": "The Binance hack, blamed on a North Korean group, could harden US positions before Trump's November Asia trip, where he says he may meet Kim Jong Un.",
+    "steps": [
+      "A North Korean group is blamed for the record $6.3bn Binance hack.",
+      "That could harden US positions, as Trump says he 'may' meet Kim during his November Asia trip.",
+      "The trip includes the APEC summit in Shenzhen on 18-19 November, so the hack could weigh on any talks with Kim."
+    ],
+    "watch": "Whether Trump meets Kim around the Shenzhen APEC summit, 18-19 November."
+  },
+  "binance-hack-north-korea-2026~black-october-ai-cyber-wave-2026": {
+    "hook": "A huge crypto heist and a global patch rush share one cause: faster attackers.",
+    "line": "Neither event caused the other, but both show attackers exploiting weak points in critical digital systems faster than defenders can respond, raising cyber risk for finance and infrastructure.",
+    "steps": [
+      "A $6.3bn theft hit Binance, suspected to be the largest in crypto history, and a North Korean group is blamed.",
+      "In Black October, 19 to 22 October, AI-found flaws drew millions of exploit attempts within hours, and disclosure-to-exploit time fell to days.",
+      "Neither caused the other. Both reflect attackers moving faster than defenders on critical systems, raising risk for finance and infrastructure."
+    ],
+    "watch": "Whether any confirmed breach is reported from the Black October flaws after 23 October."
   }
 }

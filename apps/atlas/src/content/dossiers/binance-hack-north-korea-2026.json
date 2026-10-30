@@ -1,0 +1,676 @@
+{
+  "slug": "binance-hack-north-korea-2026",
+  "title": "The $6.3bn Binance hack and the North Korea link",
+  "deck": "The world's largest crypto exchange says a breach affected an estimated $6.3bn, analysts point to a North Korean unit, and the timing could matter for weapons funding, sanctions and a possible Trump-Kim meeting.",
+  "updated": "2026-10-30",
+  "status": "developing",
+  "region": "North Korea, United States, South Korea, Japan",
+  "tags": [
+    "crypto",
+    "cyber theft",
+    "North Korea",
+    "sanctions",
+    "Binance",
+    "stablecoins",
+    "Trump-Kim diplomacy"
+  ],
+  "readingMinutes": {
+    "card": 1,
+    "brief": 5,
+    "deep": 15
+  },
+  "fuel": [
+    {
+      "aspect": "security",
+      "title": "North Korean unit blamed for $6.3bn hack",
+      "how": "Two analytics firms attribute the breach to a unit called TraderTraitor, so the proceeds could add resources behind a month of North Korean missile launches.",
+      "sourceIndex": 2
+    },
+    {
+      "aspect": "markets",
+      "title": "Binance freezes about $3bn, pledges full cover",
+      "how": "The world's largest exchange is racing to freeze funds and has promised to cover all losses, which tests confidence in exchanges and the wider crypto market.",
+      "sourceIndex": 1
+    },
+    {
+      "aspect": "politics",
+      "title": "Trump says he 'may' meet Kim in November",
+      "how": "A record theft attributed to Pyongyang could harden US positions just before a Trump Asia trip that includes the APEC summit in Shenzhen on 18-19 November."
+    }
+  ],
+  "card": {
+    "headline": "A suspected North Korean group has pulled off what may be the largest crypto theft ever, and the loot could fund weapons",
+    "keyNumber": {
+      "value": "$6.3bn",
+      "label": "estimated impact of the Binance breach; about $3bn recovered or frozen so far",
+      "sourceIndex": 1
+    },
+    "impactMeter": 4,
+    "forYou": [
+      {
+        "role": "Crypto users",
+        "line": "Binance says it will cover all losses and has frozen or recovered about $3bn. Watch for official updates on withdrawals and what is still missing."
+      },
+      {
+        "role": "Exchanges and fintech",
+        "line": "Expect tougher questions on custody, key security and how fast you can freeze stolen funds."
+      },
+      {
+        "role": "Compliance and sanctions teams",
+        "line": "Funds laundered across borders raise sanctions-evasion risk. Screen for exposure to wallets linked to the theft."
+      },
+      {
+        "role": "Policy and security watchers",
+        "line": "The theft lands in a month of North Korean launches and before a possible Trump-Kim meeting on the November Asia trip."
+      },
+      {
+        "role": "Everyone else",
+        "line": "Little direct effect on daily life. The bigger story is where the money goes."
+      }
+    ],
+    "ripple": [
+      {
+        "label": "First-order",
+        "effects": [
+          {
+            "text": "Binance puts the impact of the breach at an estimated $6.3bn, a suspected record for any crypto hack",
+            "sector": "Markets"
+          },
+          {
+            "text": "About $3bn recovered or frozen so far; Binance pledges to cover all losses",
+            "sector": "Crypto exchanges"
+          },
+          {
+            "text": "Two analytics firms attribute the incident to TraderTraitor, a North Korean hacking unit",
+            "sector": "Security"
+          },
+          {
+            "text": "Stablecoin issuers Circle and Tether are reported to be freezing affected funds",
+            "sector": "Stablecoins"
+          }
+        ]
+      },
+      {
+        "label": "Second-order",
+        "effects": [
+          {
+            "text": "A race begins to freeze the rest before it is laundered across borders; recovery of the unfrozen share is uncertain",
+            "sector": "Security"
+          },
+          {
+            "text": "User and market confidence in exchanges is tested; rivals are likely to review their own custody",
+            "sector": "Markets"
+          },
+          {
+            "text": "Pressure grows on US officials to name Pyongyang formally and to tighten sanctions enforcement (our estimate)",
+            "sector": "Politics"
+          }
+        ]
+      },
+      {
+        "label": "Third-order",
+        "effects": [
+          {
+            "text": "Laundered proceeds could add resources behind North Korea's weapons programmes after a month of missile launches",
+            "sector": "Security"
+          },
+          {
+            "text": "A record theft attributed to Pyongyang could harden US positions before a possible Trump-Kim meeting and the APEC summit on 18-19 November",
+            "sector": "Politics"
+          },
+          {
+            "text": "The case joins the October wave of AI-speed exploits as evidence that attackers are outrunning defenders on critical finance systems",
+            "sector": "Cyber policy"
+          }
+        ]
+      }
+    ]
+  },
+  "brief": {
+    "whatHappened": [
+      "On Thursday 29 October 2026, Binance, the world's largest cryptocurrency exchange, said a security breach had affected an estimated $6.3bn in assets. If confirmed as theft, that would be the biggest crypto heist on record.",
+      "Binance says it has recovered or frozen about $3bn. It has pledged to cover all losses. CNBC reports that stablecoin issuers Circle and Tether are among those freezing affected funds.",
+      "BBC reports that two analytics firms attribute the incident to TraderTraitor, a North Korean hacking unit. The Guardian reports that experts see North Korea as the likely culprit. This is an attribution by outside firms, not yet a formal government finding."
+    ],
+    "whyItMatters": [
+      "Markets: Binance is the largest exchange, so a loss of this size tests trust in the whole industry. Freezes by stablecoin issuers show the money can sometimes be stopped, but about half of the affected sum was still unlocated at last report. How the rest moves will decide the real loss. The effect on prices is not quantified in the material we hold.",
+      "Security: Stolen crypto is a way for North Korea to raise money despite sanctions. If funds are laundered across borders, they could help finance its weapons programmes. That matters now. North Korea has just fired a hypersonic missile, ballistic missiles and, on 14 October, sub-launched cruise missiles.",
+      "Politics: Trump said on 12 October he 'may' meet Kim Jong Un on his November Asia trip, which includes the APEC summit in Shenzhen on 18-19 November. A record theft pinned on Pyongyang could harden US positions before any meeting. It also fits a wider October pattern of attackers moving faster than defenders on critical digital systems. The two are not causally linked."
+    ],
+    "winners": [
+      {
+        "who": "North Korean hackers and their sponsors, if laundering succeeds",
+        "why": "Whatever is not frozen is hard currency outside the sanctions system."
+      },
+      {
+        "who": "Blockchain analytics and cyber-security firms",
+        "why": "Tracing, freezing and attribution work is in demand, and they supplied the attribution."
+      },
+      {
+        "who": "Regulated stablecoin issuers that can freeze funds quickly",
+        "why": "They show a practical control point, though it draws scrutiny too."
+      }
+    ],
+    "losers": [
+      {
+        "who": "Binance",
+        "why": "It must make users whole and rebuild trust, while the cause of the breach is still being explained."
+      },
+      {
+        "who": "Binance customers and crypto holders",
+        "why": "Even with the loss-cover pledge, confidence and access are at stake while funds are frozen."
+      },
+      {
+        "who": "Rival exchanges",
+        "why": "They face higher scrutiny of custody and are likely to face stricter rules."
+      },
+      {
+        "who": "Diplomatic hopes on the Korean peninsula",
+        "why": "A theft blamed on Pyongyang gives hawks an argument before a possible Trump-Kim meeting."
+      }
+    ],
+    "whatsNext": [
+      "Binance and the stablecoin issuers update on how much is frozen or recovered and when normal service resumes.",
+      "Governments and analysts firm up the attribution. A formal US statement would be the next step.",
+      "Trump's Asia trip in November, with APEC in Shenzhen on 18-19 November, shows whether the theft changes the tone on North Korea.",
+      "Further North Korean launches or on-chain laundering would add to the pressure."
+    ],
+    "predict": {
+      "question": "Before you read the scenarios: what is the most likely near-term outcome of the Binance hack?",
+      "options": [
+        "Binance covers the losses and the crisis stays contained",
+        "Laundering succeeds and much of the unfrozen funds vanish",
+        "Panic spreads and other exchanges are hit",
+        "The hack derails any Trump-Kim meeting"
+      ],
+      "answerIndex": 0,
+      "explanation": "Our base case, at about 45%, is containment: Binance pays users back, freezes more funds, and the market digests it. The harder-to-fix part is the unfrozen share, which is likely to be laundered. The geopolitical effect is real but slower and less certain."
+    },
+    "recap": [
+      {
+        "question": "What is the estimated impact of the breach?",
+        "options": [
+          "$630m",
+          "$6.3bn",
+          "$63bn"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which hacking unit do two analytics firms blame?",
+        "options": [
+          "TraderTraitor",
+          "Cozy Bear",
+          "Sandworm"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "question": "What has Binance pledged to do?",
+        "options": [
+          "Cover all losses",
+          "Shut down for a month",
+          "Leave losses with customers"
+        ],
+        "answerIndex": 0
+      }
+    ]
+  },
+  "deep": {
+    "timeline": [
+      {
+        "date": "2026-09-25",
+        "title": "Xi's state visit to Washington ends",
+        "detail": "It ended with a declared constructive relationship of strategic stability but few concrete trade deliverables; this sets the diplomatic backdrop for the November Asia trip."
+      },
+      {
+        "date": "2026-10-03",
+        "title": "North Korea fires a hypersonic intermediate-range missile",
+        "detail": "The first launch in a month of tests."
+      },
+      {
+        "date": "2026-10-12",
+        "title": "Two ballistic missiles fly more than 560 miles; Trump says he 'may' meet Kim",
+        "detail": "The launches came days after South Korea's first hypersonic test and a DMZ landmine blast that wounded three South Korean soldiers. Trump said he may meet Kim during his November Asia trip."
+      },
+      {
+        "date": "2026-10-14",
+        "title": "North Korea fires two types of sub-launched cruise missiles",
+        "detail": "One was a Pulhwasal-3-31, reportedly its first sub-launched cruise test since January 2024."
+      },
+      {
+        "date": "2026-10-19",
+        "title": "Black October begins",
+        "detail": "A cluster of critical software disclosures runs 19 to 22 October. Exploit attempts reach millions within hours."
+      },
+      {
+        "date": "2026-10-21",
+        "title": "PHP flaws patched",
+        "detail": "The two AI-assisted PHP discoveries are patched; no confirmed breach had been reported by 23 October."
+      },
+      {
+        "date": "2026-10-29",
+        "title": "Binance discloses an estimated $6.3bn impact",
+        "detail": "The exchange says about $3bn is recovered or frozen and pledges to cover all losses. CNBC reports Circle and Tether freezing affected funds.",
+        "sourceIndex": 5,
+        "turning": true
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Analytics firms attribute the breach to North Korea's TraderTraitor",
+        "detail": "BBC reports two firms point to the unit; the Guardian reports experts see North Korea as the likely culprit. Coverage describes it as the largest crypto hack on record.",
+        "sourceIndex": 2,
+        "turning": true
+      },
+      {
+        "date": "2026-11-18",
+        "title": "APEC leaders meet in Shenzhen (scheduled)",
+        "detail": "China hosts on 18-19 November. Trump plans to attend and says he may also meet Kim on the trip."
+      }
+    ],
+    "causes": [
+      {
+        "name": "Structural roots",
+        "when": "Years in the making",
+        "causes": [
+          {
+            "name": "Sanctioned state turns to theft",
+            "detail": "North Korea is under heavy sanctions. Analysts have long linked its hacking units to crypto theft as a source of hard currency (general knowledge; earlier cases below)."
+          },
+          {
+            "name": "Concentrated custody",
+            "detail": "Large exchanges hold huge pools of customer assets, so one breach can reach into the billions."
+          },
+          {
+            "name": "Cross-border laundering routes",
+            "detail": "Funds can be moved across chains and jurisdictions faster than regulators and exchanges can coordinate freezes."
+          }
+        ]
+      },
+      {
+        "name": "Trigger",
+        "when": "On or before 29 October 2026",
+        "causes": [
+          {
+            "name": "Breach of Binance",
+            "detail": "Binance reports a security incident affecting an estimated $6.3bn in assets. The technical cause has not been explained in the material we hold."
+          }
+        ]
+      },
+      {
+        "name": "Accelerants",
+        "when": "October 2026",
+        "causes": [
+          {
+            "name": "Attackers faster than defenders",
+            "detail": "Black October showed disclosure-to-exploit time collapsing to days. It did not cause this breach, but it shows the same pressure on critical systems."
+          },
+          {
+            "name": "Geopolitical timing",
+            "detail": "A month of North Korean launches and a possible Trump-Kim meeting mean the money's destination has immediate political weight."
+          }
+        ]
+      }
+    ],
+    "stakeholders": [
+      {
+        "name": "Binance",
+        "role": "World's largest crypto exchange; the victim",
+        "wants": "Contain losses, restore confidence, keep customers",
+        "leverage": "Its balance sheet and pledge to cover losses; cooperation with issuers and analysts",
+        "likelyMove": "Keep freezing and tracing, publish updates, and make users whole"
+      },
+      {
+        "name": "TraderTraitor (blamed by analytics firms)",
+        "role": "North Korean hacking unit",
+        "wants": "Convert stolen assets into usable money before they are frozen",
+        "leverage": "Speed, laundering skill and experience",
+        "likelyMove": "Move funds across chains and borders; attribution is not yet formal"
+      },
+      {
+        "name": "Circle and Tether",
+        "role": "Stablecoin issuers",
+        "wants": "Show they can freeze stolen funds without losing users' trust",
+        "leverage": "The power to freeze tokens they issue",
+        "likelyMove": "Freeze what they can and cooperate with law enforcement"
+      },
+      {
+        "name": "Trump administration",
+        "role": "US government, possible Kim interlocutor",
+        "wants": "Appear tough on theft while keeping the door open to a Kim meeting",
+        "leverage": "Sanctions, indictments and the November Asia trip",
+        "likelyMove": "Attribute formally, perhaps with sanctions, while preserving talks (our estimate)"
+      },
+      {
+        "name": "South Korea and Japan",
+        "role": "Regional neighbours and exposed targets",
+        "wants": "Limit North Korea's funding for weapons that threaten them",
+        "leverage": "Intelligence sharing, regulation of their own exchanges and sanctions coordination",
+        "likelyMove": "Press for tighter enforcement and tracking"
+      },
+      {
+        "name": "Analytics firms",
+        "role": "Attribution and tracing providers",
+        "wants": "Credibility, and clients",
+        "leverage": "On-chain tracing data that governments and exchanges rely on",
+        "likelyMove": "Publish further tracing results and wallet lists"
+      }
+    ],
+    "sectors": [
+      {
+        "sector": "Crypto exchanges",
+        "direction": "down",
+        "size": 3,
+        "why": "A record loss at the largest player raises costs for security and insurance and invites tougher regulation across the industry."
+      },
+      {
+        "sector": "Stablecoins",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Freezing capability proves useful against theft but sharpens debate about issuer control."
+      },
+      {
+        "sector": "Blockchain forensics and cyber-security",
+        "direction": "up",
+        "size": 1,
+        "why": "Demand for tracing, attribution and custody security rises after a record incident."
+      },
+      {
+        "sector": "Retail crypto holders",
+        "direction": "down",
+        "size": 2,
+        "why": "Confidence is hit even with Binance's pledge to cover losses; price effects are not quantified in our sources."
+      },
+      {
+        "sector": "Sanctions and AML compliance",
+        "direction": "up",
+        "size": 2,
+        "why": "Laundered proceeds raise screening and reporting obligations for banks and exchanges."
+      },
+      {
+        "sector": "Korean peninsula security",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Stolen funds could fund weapons programmes, while diplomacy and sanctions policy may harden or move."
+      }
+    ],
+    "dailyLife": [
+      {
+        "item": "Binance account holders",
+        "effect": "Binance has pledged to cover all losses. Expect updates on how much is frozen and when normal service resumes.",
+        "sourceIndex": 1
+      },
+      {
+        "item": "Crypto prices",
+        "effect": "France 24 reports the incident moved Bitcoin. The size and direction are not in the material we hold, so treat price effects as uncertain.",
+        "sourceIndex": 5
+      },
+      {
+        "item": "Moving money across exchanges",
+        "effect": "Expect tougher checks and possible delays as exchanges screen for funds linked to the theft."
+      },
+      {
+        "item": "Online services generally",
+        "effect": "Black October already led some governments and Japanese banks to pause services. More cyber caution is likely, though no link to this hack is established."
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Contained loss",
+        "probability": 45,
+        "looksLike": "Binance pays users back, more funds are frozen, and the incident fades from daily markets within weeks.",
+        "signposts": [
+          "Freezes rise well past $3bn",
+          "Withdrawals stay normal",
+          "No evidence of a second breach"
+        ],
+        "effectOnWorld": "Industry-wide scrutiny increases, but the shock stays inside crypto."
+      },
+      {
+        "name": "Laundering succeeds",
+        "probability": 30,
+        "looksLike": "Most of the unfrozen funds are moved through chains and mixers, and little more is recovered.",
+        "signposts": [
+          "Recovery stalls near current levels",
+          "Large on-chain movements to new wallets",
+          "Analysts report cash-out routes"
+        ],
+        "effectOnWorld": "Pyongyang gains usable funds; sanctions and enforcement come under pressure, which may harden the US stance."
+      },
+      {
+        "name": "Diplomatic hardening",
+        "probability": 15,
+        "looksLike": "Washington formally attributes the hack and adds sanctions, and the Kim meeting is dropped or cooled before the Asia trip.",
+        "signposts": [
+          "A US government statement naming North Korea",
+          "New Treasury designations",
+          "Trump drops the 'may meet' line"
+        ],
+        "effectOnWorld": "Regional tension rises and a diplomatic window narrows, with South Korea and Japan lining up behind tougher steps."
+      },
+      {
+        "name": "Confidence shock",
+        "probability": 10,
+        "looksLike": "Customers withdraw funds from exchanges, a second incident appears, or Binance's pledge is questioned.",
+        "signposts": [
+          "Withdrawals surge",
+          "Another exchange reports an incident",
+          "Credit stress at crypto lenders"
+        ],
+        "effectOnWorld": "A wider crypto sell-off and calls for emergency regulation."
+      }
+    ],
+    "predictions": [
+      {
+        "text": "Binance will make affected users whole as pledged, with no lasting loss for customers (probability 0.8).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
+      },
+      {
+        "text": "The US government will formally name North Korea as responsible for the Binance hack (probability 0.6).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
+      },
+      {
+        "text": "Trump and Kim will not meet during the November Asia trip (probability 0.8).",
+        "horizon": "November 2026",
+        "resolves": "2026-11-20"
+      },
+      {
+        "text": "The share of the $6.3bn recovered or frozen will stay below three-quarters of the total (probability 0.7).",
+        "horizon": "By 31 December 2026",
+        "resolves": "2026-12-31"
+      },
+      {
+        "text": "The US will announce new sanctions or indictments tied to the hack (probability 0.5).",
+        "horizon": "By end of March 2027",
+        "resolves": "2027-03-31"
+      }
+    ],
+    "countermeasures": [
+      {
+        "audience": "businesses",
+        "actions": [
+          "Screen counterparties and wallets against published lists of addresses linked to the theft.",
+          "Review exchange and custody concentration; avoid keeping all treasury holdings on one platform.",
+          "Prepare for tighter KYC and delays on crypto transfers."
+        ]
+      },
+      {
+        "audience": "investors",
+        "actions": [
+          "Treat exchange counterparty risk as real even where a pledge to cover losses exists.",
+          "Watch the share of funds frozen or recovered as a signal of the true loss.",
+          "Do not assume price effects are settled; the market reaction is not quantified in our sources."
+        ]
+      },
+      {
+        "audience": "households",
+        "actions": [
+          "Do not keep more on any exchange than you can afford to have locked temporarily.",
+          "Watch for phishing that uses the hack as a lure.",
+          "Follow Binance's official channels only for account updates."
+        ]
+      },
+      {
+        "audience": "policymakers",
+        "actions": [
+          "Coordinate freezes across exchanges, stablecoin issuers and jurisdictions in hours, not days.",
+          "Back attribution with evidence that can be shared with South Korea, Japan and others.",
+          "Decide early how a theft attributed to Pyongyang fits with any planned diplomacy."
+        ]
+      }
+    ],
+    "analogues": [
+      {
+        "event": "Bybit hack attributed to North Korea's Lazarus Group",
+        "year": "2025",
+        "whatFollowed": "About $1.5bn was stolen, previously the largest crypto theft. Funds were laundered quickly across chains and only a small share was frozen. Details are from general knowledge."
+      },
+      {
+        "event": "Ronin bridge hack",
+        "year": "2022",
+        "whatFollowed": "Roughly $600m was stolen and attributed to North Korean actors, and the US later sanctioned related addresses. Details are from general knowledge."
+      },
+      {
+        "event": "Mt. Gox collapse",
+        "year": "2014",
+        "whatFollowed": "Hundreds of thousands of bitcoin vanished, the exchange failed, and years of legal wrangling followed. The comparison is about confidence in exchanges, not attribution."
+      }
+    ],
+    "watch": [
+      {
+        "date": "2026-11-18",
+        "title": "APEC summit in Shenzhen opens",
+        "why": "Trump plans to attend and says he may meet Kim; the theft could shape the tone."
+      },
+      {
+        "title": "Binance's post-incident report",
+        "why": "Shows the cause of the breach and the true unrecovered amount."
+      },
+      {
+        "title": "Frozen total",
+        "why": "Whether freezes move well beyond about $3bn determines the real loss."
+      },
+      {
+        "title": "US government attribution or sanctions",
+        "why": "A formal naming of North Korea would move this from industry story to policy story."
+      },
+      {
+        "title": "On-chain laundering movements",
+        "why": "Large transfers to new wallets suggest successful cash-out."
+      },
+      {
+        "title": "North Korean launches",
+        "why": "More tests alongside the theft raise pressure on diplomacy."
+      },
+      {
+        "title": "Other exchanges",
+        "why": "A second incident would suggest a campaign rather than a one-off."
+      }
+    ]
+  },
+  "evidence": {
+    "sources": [
+      {
+        "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+        "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+        "publisher": "The Guardian",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+        "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+        "publisher": "CNBC",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Binance's $6.3 billion hack: What we know and what comes next",
+        "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
+        "publisher": "CNBC",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "What we know about Binance's $6.3bn hack",
+        "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Binance hit by $6.3 billion security breach in potential record crypto heist",
+        "url": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
+        "publisher": "France 24",
+        "date": "2026-10-30"
+      }
+    ],
+    "confidence": [
+      {
+        "claim": "Binance estimates a $6.3bn impact and about $3bn recovered or frozen",
+        "level": "high",
+        "note": "Consistent across Guardian, CNBC, BBC and France 24. Wording varies between affected assets, impact and theft, so the final loss may differ."
+      },
+      {
+        "claim": "North Korean group TraderTraitor is responsible",
+        "level": "medium",
+        "note": "Attribution comes from two analytics firms and experts, not yet a formal government finding."
+      },
+      {
+        "claim": "Circle and Tether are freezing affected funds",
+        "level": "medium",
+        "note": "Based on CNBC's headline and URL; details not in the material we hold."
+      },
+      {
+        "claim": "Stolen funds could finance weapons programmes and evade sanctions",
+        "level": "medium",
+        "note": "A plausible pathway based on the summary and on past cases, not a documented flow of these funds."
+      },
+      {
+        "claim": "Missile launches and Trump's Kim remark in October",
+        "level": "medium",
+        "note": "Drawn from linked event reports; their source URLs were not supplied here, so no source is listed."
+      },
+      {
+        "claim": "Black October context and APEC dates",
+        "level": "medium",
+        "note": "From linked event reports. Black October is not claimed to have caused the hack."
+      },
+      {
+        "claim": "Market reaction to the hack",
+        "level": "low",
+        "note": "France 24's summary says the incident moved Bitcoin, but the snippet is cut off; size and direction are not stated."
+      },
+      {
+        "claim": "Scenario probabilities and predictions",
+        "level": "low",
+        "note": "Author judgement, to be graded as events resolve."
+      },
+      {
+        "claim": "Historical analogues (Bybit, Ronin, Mt. Gox)",
+        "level": "medium",
+        "note": "General knowledge, stated approximately and without links."
+      }
+    ],
+    "method": "Drafted from the six listed articles and wire headlines of 30 October 2026, plus summaries of three linked events on North Korean missile tests, the APEC summit in Shenzhen and Black October, whose own source URLs were not supplied. The amount, the freezes, the pledge and the attribution come from the cited coverage. The link to weapons funding, the effect on diplomacy, scenario probabilities and predictions are estimates, flagged as such. Historical analogues come from general knowledge. The technical cause of the breach and the market reaction are not in the material, so they are not described.",
+    "changeLog": [
+      {
+        "date": "2026-10-30",
+        "change": "First publication."
+      }
+    ]
+  },
+  "generated": {
+    "by": "Geopolitica draft script",
+    "at": "2026-10-30T09:15:51.577Z",
+    "model": "claude-sonnet-5-5",
+    "sources": 4,
+    "headlines": 6,
+    "reviewed": false,
+    "size": "deep"
+  }
+}
