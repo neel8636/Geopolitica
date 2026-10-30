@@ -160,9 +160,9 @@
     "headlines": []
   },
   "france-debt-stress": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "1o5e5w4",
+    "hash": "cgx9h1",
     "tags": [],
     "headlines": []
   },
@@ -216,70 +216,62 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "1gx74il",
+    "hash": "h6gdyv",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "security",
-        "likelihood": 0.92,
+        "effect": "capacity",
+        "likelihood": 0.85,
         "delayDays": [
           2,
           7
         ],
         "costPct": [
-          15,
-          40
+          10,
+          35
         ],
-        "why": "As of 30 Oct 2026 Gulf exports through Hormuz are running at only 60-80% of normal, a tanker was attacked there on 30 Oct, and OPEC+ is planning around a Hormuz reopening that has not yet happened.",
-        "action": "Ask your forwarder for the current war-risk surcharge and transit status on Hormuz-routed bookings, and hold 7-10 days of buffer stock for cargo that must pass the strait.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal as of late October 2026, and OPEC+ says it will raise output only once the strait reopens, so transits are still restricted and costly.",
+        "action": "Ask your forwarder for current war-risk surcharges and transit schedules for Gulf cargo, and keep 10 to 14 days of buffer stock on anything that must pass Hormuz.",
         "sources": [
-          0,
-          1,
           2,
-          3
+          1,
+          0
         ]
       },
       {
         "point": "JEBELALI",
         "effect": "delay",
-        "likelihood": 0.65,
+        "likelihood": 0.45,
         "delayDays": [
-          3,
-          10
+          2,
+          6
         ],
         "costPct": [
-          10,
-          30
+          5,
+          20
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, so with the strait at 60-80% of normal flow and a tanker attacked on 30 Oct 2026, vessel schedules, insurance costs and arrival times are unreliable.",
-        "action": "Ask your forwarder to quote an alternative routing, such as discharge at an Oman or Red Sea port with onward trucking, and add 7 days of buffer to Jebel Ali delivery dates.",
+        "why": "Jebel Ali sits inside the Gulf behind Hormuz, so the 60-80% flow through the strait and the war-risk conditions reported through late October 2026 can slow vessel arrivals and add surcharges.",
+        "action": "Ask your forwarder about routing Gulf-bound cargo through alternative ports outside Hormuz, and add 5 to 7 days of buffer to Jebel Ali delivery dates.",
         "sources": [
-          0,
-          1,
-          3
+          2,
+          1
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
-        "publisher": "Reuters",
-        "published": "2026-10-30T02:27:00.000Z"
+        "title": "Brent Hits $116 as OPEC Meets With Saudi Output 4.5 mb/d Below Quota",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSDFFOGVsRjBIck5QTVhLN1VjS0NrbGI5VU4zZkI5N2o5LUdxcWdTRzVaejZOX2lDeEJlMUQ1S2xncThKTFlyRXlzb0o4cDlYVTR3bUZEbWU1eHNZMUhV?oc=5",
+        "publisher": "https://houseofsaud.com/",
+        "published": "2026-10-30T10:01:18.000Z"
       },
       {
-        "title": "Brent remains around $115; Oil remains high as fears of renewed US strikes on Iran grow",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQX3FoR2YwS1E1NHdKMjRWd25HdXNveENYWUFCbmhnSEVEMEoxOGc3UklJQ2tCVlRPZ1E2Qk9iTDRvclhGMUo2a1h4Z0txcVVlS3ROU0MtNF8wRWpwcElSTEsxbVRMb1JSR3pCOXVocnZyQWduclpoVmcwekRRazZIQkFrcVJWdXp3VTBGSGR6ZEplbmxkQXZfQTAyLXBfSTBUQmg3dUFvT3RtdEtEa1V4dW1McGVUZWh6UTg4OUlfVkgwM0lVT3Y0X20zR2ZBY2JiSUoxU3NrY3U1c2ZxaFZ4clhIRzhyMzQzeklxSnI4bUhZRUhfOHFsM0hEQdIBgAJBVV95cUxORWllZzBlaGttTDRnYUxyWGRHX1U5MGwxalgtTW9hdDlhVTRCOXVqM3lScEM4anc1eDFjOVhWNDNZV1h2MFNzVUJ1dF96ZGRxbWhUX0Joazc4dTdkeU9OdVVoQ0x4ZFU5eTg5MjhKY25tQU14T1pvUHpZM1U1WWw0ZEhoNHJGREFmb2VzTjFIZjZrUWdTRGl1TUtnLUdJdXUyMFRjMjljcy1RaTluUHRZUjVaNjRLYUoyTmpubnJtdy1IeGpERjVGcVA3VXBidlNzY3N0UmxSemlyU1g2ajE3a2JtTmNQZUtzNWo5Y3AzNmNyQ2tkOGdvaEV4T0xrem5y?oc=5",
-        "publisher": "CNBC TV18",
-        "published": "2026-10-30T01:09:26.000Z"
-      },
-      {
-        "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU1BTkRDTWgwMEJBYkYwNzZ2c2NyZHEtaldfdlZzNjdUbS0zZEFmWW9zYzZma1pFc1FtclZTUnZSYnhRd1FwZTRIYXgtcUpEQzBwM1MxY1pyek9ZOXBSbzF1dmYzNGdRMmphWlNqc2RqLTBSTWgyV0dZWTFhOGJJaE13aw?oc=5",
-        "publisher": "EnergyNow.com",
-        "published": "2026-10-29T21:52:33.000Z"
+        "title": "Brent Crude Surges Near $118 as Middle East Supply Fears Escalate",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEc2SWNySVBkV21Ic29nVzRHQ3BTTEdmQVVFVlk5YnRFOWFXZVNhQUtzQmJSZ1ZPUlpEbTd1c3JOaFNPZk44R2MyWlhOVlF2R0FpdXZBak56b24wSVFUMHl3bS1QYjBGYU04bThpalduc3ZIbnV1T0dTS25WS0I4akZ3TWpGa1JLRzhNVDdISzRLRnNGRGUzLVpCNHhhcTg?oc=5",
+        "publisher": "https://streamlinefeed.co.ke/",
+        "published": "2026-10-30T05:43:10.000Z"
       },
       {
         "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
@@ -358,9 +350,9 @@
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-30T07:09:38.678Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "1tljkfu",
+    "hash": "1c7fkuw",
     "tags": [],
     "headlines": []
   },
@@ -379,9 +371,9 @@
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "7yp1ji",
+    "hash": "qr020f",
     "tags": [],
     "headlines": []
   },
@@ -393,16 +385,16 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "1iooe8w",
+    "hash": "lkmrvp",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "10v8im2",
+    "hash": "jarv3m",
     "tags": [],
     "headlines": []
   },
@@ -414,18 +406,65 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "qhg9wf",
+    "hash": "1dq8od",
     "tags": [],
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-30T08:09:50.530Z",
+    "at": "2026-10-30T14:10:15.492Z",
     "by": "pipeline",
-    "hash": "dj0vap",
-    "tags": [],
-    "headlines": []
+    "hash": "1s4lxl2",
+    "tags": [
+      {
+        "point": "SOUTH_CHINA_SEA",
+        "effect": "security",
+        "likelihood": 0.2,
+        "delayDays": [
+          0,
+          1
+        ],
+        "costPct": [
+          0,
+          2
+        ],
+        "why": "Since 1 Oct 2026 Philippine and Chinese forces have clashed repeatedly near Scarborough and Second Thomas shoals, and on 30 Oct China began combat-readiness patrols and water-cannon and drone drills there, so freight faces a small risk of navigation warnings, local diversions or ",
+        "action": "Ask your forwarder or carrier whether the sailing is routed clear of Scarborough Shoal and the Spratlys, and whether any war-risk surcharge is being applied for Philippine-bound cargo. Keep about 3 days of buffer stock f",
+        "sources": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "China intensifies its patrols ahead of a possible clash with the Philippines in disputed maritime areas",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcnFEN2tfeTA1dXpvU1Z3RVluNFhHa3h2X19RYUd6OG16RGpNWkU4OWp1aGFvVXNpY0VwTHpDTjhxY05teW9TMkVPdG9NdWd0R1ppSE8xWGRmbFdSMVdIYW9DSzZjQXo3a0NHMWJrOHAxUlk0VTA4Z1UzS01mUE5xUXFaS1Y5RHpuel9uaDFwWmh5R0ZxWUlqX1RfWWZYTFpWNU5EbGdvRWV5NTNpTTFyMFktdEgtaFpnV0IyLTEtVTAtNG92RjlvWmN3UHYxdTZZZWN6YkV5cEpLTXBKemhR0gHkAUFVX3lxTE5uSWVzMUJ1TWpGeUYyZk9MQUtuUUx1T2RURGd6X0xNZXJsQVUwWHpGSWlkSnh3c0tscENxSVJ0WnhoQlZlWURmbnZ3MTRsb1IwVHFuSjk5RmF6T3I4TG1teEp4emlhTW1qZHZhSVI1VlFSZDBsajNUZlluOTVnVVA3ek5DalVnTTJyVUU0cHR4b3U5d240WUVMMjhPbmV6bEo4TjdSdTc4RmdRdGVzbWttMzZteXEySS1PQXo2eTVSQzQ2V19JVE9XellDdThHSXFIdk0wV01TeUwxQ1BUbEJaNDNvQw?oc=5",
+        "publisher": "Demócrata",
+        "published": "2026-10-30T13:26:31.000Z"
+      },
+      {
+        "title": "Beijing drills water cannons and drones near disputed South China Sea shoals",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2N2OUIxeElwdDdRMGo0STN4WHk4YkdSMERqOE9SR3o5eEsyclBfU3ZkUFR6WHp5emRGQWRjeTBFcVZJUUt1WUc4UW9TWjFmWXRVXzR2T3Z4MWVpeExrSHRQTGMzbkhOM1l3V3I2dUhCaXFiVUt3MVFNWXhWQVNha1d2TjZBMUZUT1lOQ0RJNDZpVm9RdHpuQS0yTFplMHFJVUlrczhZbVZ6aXVqYXpwYkV0RXVGaUU2ZFE3amo1U0RhZktPVTR5UnlxNUJNQTjSAc8BQVVfeXFMT0NjdjlCMXhJcHQ3UTBqNEkzeFh5OGJHUjBEajhPUkd6OXhLMnJQX1N2ZFBUelh6eXpkRkFkY3kwRXFWSVFLdVlHOFFvU1oxZll0VV80dk92eDFlaXhMa0h0UExjM25ITjNZd1dyNnVIQmlxYlVLdzFRTVl4VkFTYWtXdk42QTFGVE9ZTkNESTQ2aVZvUXR6bkEtMkxaZTBxSVVJa3M4WW1Weml1amF6cGJFdEV1RmlFNmRRN2pqNVNEYWZLT1U0eVJ5cTVCTUE4?oc=5",
+        "publisher": "South China Morning Post",
+        "published": "2026-10-30T11:39:56.000Z"
+      },
+      {
+        "title": "China conducts combat-readiness patrols near Scarborough Shoal — Interia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWRQOTFiZmR0TExmYjJXQkN1Vm1nMFhjMGoxMGFnMlZyNFBlcTlrRXFJdXVsNlIySEUwck9PbVA2SVBiaFc3MTNKbDEydk1XR1g3QjJoZEM0MEY5RUJQTHJvUl8wNnJhRkpBLS1rNUdfU28tb2czUVFPcUhFdEhvRU9GY1ZhTWRYV05jVEJrYXNXSDlQOUE0a09sLWtHRVZVM1dJVG9n?oc=5",
+        "publisher": "UA.NEWS",
+        "published": "2026-10-30T09:38:22.000Z"
+      },
+      {
+        "title": "China Steps Up Military Patrols Around Scarborough Shoal Amid Renewed Philippines Tensions",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmc4N191M2ZtT1dxWDhOckctN1JPaHlpRm13R0tGcjRJYWFZVTFtUHllU3VPX1U1ZlBXVHRTT21Pa2ZyOVo4U0ZwV1hOWkk2UnV6WmJuMzJMMENPU2FsekpMX2loSzU1Rk5lR3dHY3dLVGJlcXFWOEdNOEg4WFA4QlJqZmM5ZWdCNENVS0k2SHZ1QkdnQW00V1RHTEFYNl9EOHkyeUpvMGZsNlBJLVl6XzlnOUVOT1AzdlUzUEEyY3ZEMWQ3Qnd0Xw?oc=5",
+        "publisher": "Modern Diplomacy",
+        "published": "2026-10-30T08:50:34.000Z"
+      }
+    ]
   },
   "russia-record-budget-deficit-2026": {
     "at": "2026-10-30T12:10:07.622Z",
