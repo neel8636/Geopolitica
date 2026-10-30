@@ -3308,6 +3308,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T07:18:57.277Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 69 min ago"
+    },
+    {
       "at": "2026-10-30T07:09:38.678Z",
       "screened": 0,
       "accepted": [],
@@ -4914,15 +4923,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 94 min ago"
-    },
-    {
-      "at": "2026-10-28T19:07:29.798Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 60 min ago"
     }
   ]
 }
