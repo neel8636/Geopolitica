@@ -3280,6 +3280,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T01:09:28.336Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 60 min ago"
+    },
+    {
       "at": "2026-10-30T00:09:22.325Z",
       "screened": 140,
       "accepted": [],
@@ -4919,113 +4928,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-28T12:07:03.388Z",
-      "screened": 124,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Deadly high-speed train collision near Toledo, Spain",
-          "reason": "A rail accident with about 30 dead is a national tragedy, but it has no state-driven cross-border channel and no policy decision behind it.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Fed rate decision with Warsh signalling possible hikes",
-          "reason": "Passed the test but not the evidence check: only 1 outlet.",
-          "headlines": 3,
-          "publishers": 1
-        },
-        {
-          "title": "UK Budget under Burnham and Healey",
-          "reason": "A domestic fiscal package with no clear cross-border channel named in the headlines, and mostly previews and reaction.",
-          "headlines": 6,
-          "publishers": 3
-        },
-        {
-          "title": "Cyclone Arnab hits India",
-          "reason": "A natural disaster with local and regional effects and no stated spillover across borders.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Cruise ends early over fuel costs",
-          "reason": "Company and human-interest story, with no state or policy angle.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "US may allow more Russian diesel onto market",
-          "reason": "Only a possibility voiced by the energy secretary, with no decision or date.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK sanctions Sudanese military leaders",
-          "reason": "Symbolic sanctions on a few individuals, with little cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Russian and Ukrainian strikes continue",
-          "reason": "Routine strike reports with no new decision or change in state action.",
-          "headlines": 3,
-          "publishers": 1
-        },
-        {
-          "title": "UN General Assembly weighs Cuba embargo vote",
-          "reason": "An annual, non-binding vote that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "US midterms: hacking of campaign finance system and Trump fraud claims",
-          "reason": "Election-security and fraud-claim news belongs to the US midterms event already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Trump says Iran war ends when he wants, costs reach $47bn",
-          "reason": "This is a development in the US-Israel war on Iran already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UN news roundup: IAEA Iran inspections, Ethiopians fleeing to Kenya",
-          "reason": "The Iran inspections item belongs to the Gulf war event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Europe's debt stress lifts corporate borrowing costs",
-          "reason": "This is part of the European and French bond stress already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "Analysis of the Israel election result",
-          "reason": "This is commentary on the Israeli election already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "israel-election-2026"
-        },
-        {
-          "title": "Trump calls Brazil election 'rigged'",
-          "reason": "This is part of the Brazil run-off event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "brazil-runoff-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
