@@ -3448,6 +3448,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T18:10:28.958Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-10-30T17:10:29.767Z",
       "screened": 0,
       "accepted": [],
@@ -5101,108 +5110,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 7 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-29T05:08:08.599Z",
-      "screened": 131,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Spain high-speed train crash near Toledo kills 68",
-          "reason": "This is a domestic accident with no state-driven effect across a border.",
-          "headlines": 8,
-          "publishers": 4
-        },
-        {
-          "title": "Leak of data on 41,000 US Homeland Security staff",
-          "reason": "A non-profit leaked the data and no cross-border channel or policy decision is reported.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "EU backs away from associate-member talks offer to Canada",
-          "reason": "This is a minor diplomatic walk-back with no concrete cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "DOJ scrutiny of Nvidia's Hugging Face deal",
-          "reason": "This is company news with only a routine antitrust angle.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Luxury cruise ends early over fuel costs",
-          "reason": "This is a human-interest story about one company's voyage.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Sanrio cuts ties with Japanese spy drama after China backlash",
-          "reason": "This is a company decision with no state action or policy change.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Utah charges Kalshi and its co-founders",
-          "reason": "This is a state-level legal case with no cross-border effect.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Trump approves Vance outreach to Iran over medical supplies",
-          "reason": "This is a development in the US-Israel war on Iran already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UN experts condemn force against French student protests",
-          "reason": "This is part of France's autumn of unrest.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-unrest-2026"
-        },
-        {
-          "title": "UN General Assembly votes against US embargo on Cuba",
-          "reason": "This is part of the US-Cuba confrontation already on the map.",
-          "headlines": 4,
-          "publishers": 3,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "Fed rate decision and Warsh news conference",
-          "reason": "This covers the Fed decision already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "Putin talks to Musk about satellites",
-          "reason": "This belongs to the Starlink and Ukraine story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "UK Budget: defence boost, energy bills, bank tax",
-          "reason": "This is coverage of the UK Budget event already on the map.",
-          "headlines": 3,
-          "publishers": 2,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Israeli election aftermath and coalition outlook",
-          "reason": "This is part of the Israeli election event already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "israel-election-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
