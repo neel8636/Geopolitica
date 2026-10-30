@@ -3464,6 +3464,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-30T23:15:44.528Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 2 new uncovered headlines"
+    },
+    {
       "at": "2026-10-30T23:10:46.228Z",
       "screened": 0,
       "accepted": [],
@@ -5106,119 +5115,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-29T11:08:29.745Z",
-      "screened": 135,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Lagarde to leave ECB presidency in February",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Afghan opium output jumps fivefold despite Taliban ban",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "EU backs away from Canada 'associate member' offer",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "El Salvador sends 2,000 troops to Haiti as elections slip",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Spain high-speed train crash near Toledo",
-          "reason": "A domestic rail accident with no state-level or cross-border ripple.",
-          "headlines": 13,
-          "publishers": 6
-        },
-        {
-          "title": "Racist shooting in Trappes near Paris",
-          "reason": "A crime and court matter with no effect abroad.",
-          "headlines": 3,
-          "publishers": 1
-        },
-        {
-          "title": "Poundland near administration",
-          "reason": "Company news with no state or policy angle.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "North Koreans recruited for forced labour in Russia",
-          "reason": "This is an NGO report on an ongoing practice, not a dated development or decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Hello Kitty maker drops Japanese spy drama after China outcry",
-          "reason": "Company decision with no state action.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Oleshky local truce",
-          "reason": "A local truce affecting one city with no clear wider ripple.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Putin praises Musk, Russia builds Starlink alternative",
-          "reason": "This is the Starlink and satellite-communications thread of the Ukraine war already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "Hegseth reportedly fires top military planner as Trump downplays Iran talks",
-          "reason": "This is a development in the US-Israel war on Iran and its diplomacy.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UN vote on US embargo of Cuba",
-          "reason": "This is part of the US-Cuba pressure story already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "Fed rate decision takeaways",
-          "reason": "This is coverage of the Fed hold already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "UK Budget reaction",
-          "reason": "These headlines cover the UK Budget already on the map.",
-          "headlines": 4,
-          "publishers": 2,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Israel election aftermath",
-          "reason": "These headlines are about the Israeli election already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "israel-election-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
