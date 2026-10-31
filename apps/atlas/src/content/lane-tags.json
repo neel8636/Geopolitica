@@ -388,11 +388,51 @@
     "headlines": []
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-10-31T08:11:22.951Z",
+    "at": "2026-10-31T14:11:36.561Z",
     "by": "pipeline",
-    "hash": "1b3w9i4",
-    "tags": [],
-    "headlines": []
+    "hash": "1ybddbq",
+    "tags": [
+      {
+        "point": "VALENCIA",
+        "effect": "delay",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "A Spanish general strike is reported for 11 November 2026, and coverage warns of wider transport delays, so dockworkers, truckers and customs staff at Valencia could join and slow gate and vessel handling for a day or two.",
+        "action": "Ask your forwarder to move container pick-ups and deliveries at Valencia off 10-12 November, and add 2 days of buffer stock for cargo due that week.",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Spain General Strike Nov 11: Flights, Trains & Airport Disruption",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQWoyTDZDMlF4U1NZbHdpR0FkdWY5c2ZPM2RTdmo1RUdZUHNYM1NFWVc5VU1sMU1kbVNDSEhnaXdRN1JjTklUTHpsZzVORXM5RlpZd0hOSW5Ubi1YNW9td2dIczJpYkJuMnZ6VjhDdHRJb2FaMmN0SFgwd3pha25iZWdGUTRORm8xcnloeE1odEx6Qk43TnNJSnNmaVFEQmxheHFOQUhBZGM3WlRJc09aVXJRajVYVks1dEY3OF9WVmRTcWU0ek9CSzZTUGF1d0dpRS1DWm5rSkc3dFFoQmxXd0tR?oc=5",
+        "publisher": "Travel Tourister",
+        "published": "2026-10-31T12:27:44.000Z"
+      },
+      {
+        "title": "Spain November general strike will cause flight cancellations and transport delays",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU0VKeXRNRHZQVGR0OEZoNl82VFhNV0wxa0l5aDJIYXlXeHhQa01GNkNZLVZ2RG1OR3owVV95TmxVTEpQa1NRQnk5ZDdBRW5EOW1yLUxvMGpZUmFTZ2hKdWJvRlA2QXRKUTZNV0FkVF9hQmhCN2RONGdpU2M2UzdXOHMzN0o2MmNNQmRLVXRqa2NJOVhHeUVzWGhaMnNxQ0xIb1hOaXFLQm5YX0hzRXdXVWlReUlaZEMyZ2xQbFlmX25jYm5aWExVZGlZcXlwSmRhTjhoajkxY0QzQlZQSTR4U3hjMFB5VkdR0gHoAUFVX3lxTFBTRUp5dE1EdlBUZHQ4Rmg2XzZUWE1XTDFrSXloMkhheVd4eFBrTUY2Q1ktVnZEbU5HejBVX3lObFVMSlBrU1FCeTlkN0FFbkQ5bXItTG8wallSYVNnaEp1Ym9GUDZBdEpRNk1XQWRUX2FCaEI3ZE40Z2lTYzZTN1c4czM3SjYyY01CZEtVdGprY0k5WEd5RXNYaFoyc3FDTEhvWE5pcUtCblhfSHNFd1dVaVF5SVpkQzJnbFBsWWZfbmNiblpYTFVkaVlxeXBKZGFOOGhqOTFjRDNCVlBJNHhTeGMwUHlWR1E?oc=5",
+        "publisher": "Majorca Daily Bulletin",
+        "published": "2026-10-31T11:40:39.000Z"
+      },
+      {
+        "title": "General strike of November 11: who is calling it, how long it lasts, and what the reasons are",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2l4a2h6V256X05qbkw1S0xwZldJQ0RCOVBwRFI0RFNqSXBRbDdVRFdGMm9EVXFzaW5DbGF2WmtaakRHM2VOZ1VKbXN3VGJFYTVXZ0ZHYXFFcnBRX2NWWTNqNFBiUkJlemxaMnlNRGJ5Q1l1emFVOU1XLVJ2bkRKLTVwZVlNTmZ4UWRPak5YYzNyTnROdzl3VUdpWkNMTThhSG5ESEctWFI1Rms5RlpYamFsOEprNzl3NnNKcklxcmNuSHB1UG9rd2dGSXlqZHPSAdQBQVVfeXFMTXQzUjBsX1B2aU9IUE51UFdUcmJfLThILUgzdUxOSnlqbnVITkZUMUNGZlpKT2ZwVDNneTRpQWZReUN3VFZCSXpMWHFJZEhsdmxDWDFUTlZhQ2xWSjQ2Y1NaYmxha3Q2V3VkcG91VGNJMlB3QVFMelBaYUtKLV9jRmNKVXk5X0pWaHRYd0VWU1h6ZzhLT3F3c0Z0eVdqbzQ5cXllTVlOQXBDLXRvWkhhc2ZzU2tTdnlfMnUxU3RXUUtka09NdG9FZGMzRGY0TUpZZGxiWFE?oc=5",
+        "publisher": "Demócrata",
+        "published": "2026-10-31T09:11:02.000Z"
+      }
+    ]
   },
   "eu-budget-2028-2034": {
     "at": "2026-10-30T19:33:03.061Z",
@@ -465,58 +505,11 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-31T05:11:08.609Z",
+    "at": "2026-10-31T14:11:36.561Z",
     "by": "pipeline",
-    "hash": "q3vgao",
-    "tags": [
-      {
-        "point": "SOUTH_CHINA_SEA",
-        "effect": "security",
-        "likelihood": 0.2,
-        "delayDays": [
-          0,
-          2
-        ],
-        "costPct": [
-          0,
-          3
-        ],
-        "why": "China has stepped up combat-readiness patrols and water-cannon and drone drills around Scarborough Shoal (reported 30-31 Oct 2026) after at least six clashes with Philippine forces on 1-9 Oct, so freight passing nearby could face short-notice drill areas, rerouting or higher war-",
-        "action": "Ask your forwarder and carrier to confirm that vessels on your lanes keep clear of the Scarborough and Spratly areas, and to flag any war-risk surcharge or navigational warning for the next 30 days. Add 2 days of buffer ",
-        "sources": [
-          0,
-          1,
-          2,
-          3
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "China Intensifies Military Activities Near Disputed South China Sea Shoal Amid Manila Tensions",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3pqbkNnd1Y3ZllIVThBaVBiZHZEQnFjMk1zX0plREVrOE9UQVgtQk81MmF2VlMyM0ZySkc5UlBIOXB2UlBNTUp6WkFyVXFwN0s5RWQ4UnJZY1hrWFdXSTQxZ3JpeEVpbFZwLUltY1BYQmswZzc1N29FWTRtR09telJhSmZlOW5zMERIZ3JFVl9zamxXaGJPWnZZNGtjSGl3SVg5R3pacFFaS2xUUHZ3Q001b2RTMTlRSlVKekQtOGpIV1Z4WjdIVGZKS2h4S01oOEd3NmlR?oc=5",
-        "publisher": "BusinessToday Malaysia",
-        "published": "2026-10-31T04:47:38.000Z"
-      },
-      {
-        "title": "Beijing drills water cannons and drones near disputed South China Sea shoals",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2N2OUIxeElwdDdRMGo0STN4WHk4YkdSMERqOE9SR3o5eEsyclBfU3ZkUFR6WHp5emRGQWRjeTBFcVZJUUt1WUc4UW9TWjFmWXRVXzR2T3Z4MWVpeExrSHRQTGMzbkhOM1l3V3I2dUhCaXFiVUt3MVFNWXhWQVNha1d2TjZBMUZUT1lOQ0RJNDZpVm9RdHpuQS0yTFplMHFJVUlrczhZbVZ6aXVqYXpwYkV0RXVGaUU2ZFE3amo1U0RhZktPVTR5UnlxNUJNQTjSAc8BQVVfeXFMT0NjdjlCMXhJcHQ3UTBqNEkzeFh5OGJHUjBEajhPUkd6OXhLMnJQX1N2ZFBUelh6eXpkRkFkY3kwRXFWSVFLdVlHOFFvU1oxZll0VV80dk92eDFlaXhMa0h0UExjM25ITjNZd1dyNnVIQmlxYlVLdzFRTVl4VkFTYWtXdk42QTFGVE9ZTkNESTQ2aVZvUXR6bkEtMkxaZTBxSVVJa3M4WW1Weml1amF6cGJFdEV1RmlFNmRRN2pqNVNEYWZLT1U0eVJ5cTVCTUE4?oc=5",
-        "publisher": "South China Morning Post",
-        "published": "2026-10-30T11:39:56.000Z"
-      },
-      {
-        "title": "China conducts combat-readiness patrols near Scarborough Shoal — Interia",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWRQOTFiZmR0TExmYjJXQkN1Vm1nMFhjMGoxMGFnMlZyNFBlcTlrRXFJdXVsNlIySEUwck9PbVA2SVBiaFc3MTNKbDEydk1XR1g3QjJoZEM0MEY5RUJQTHJvUl8wNnJhRkpBLS1rNUdfU28tb2czUVFPcUhFdEhvRU9GY1ZhTWRYV05jVEJrYXNXSDlQOUE0a09sLWtHRVZVM1dJVG9n?oc=5",
-        "publisher": "UA.NEWS",
-        "published": "2026-10-30T09:38:22.000Z"
-      },
-      {
-        "title": "China Steps Up Military Patrols Around Scarborough Shoal Amid Renewed Philippines Tensions",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmc4N191M2ZtT1dxWDhOckctN1JPaHlpRm13R0tGcjRJYWFZVTFtUHllU3VPX1U1ZlBXVHRTT21Pa2ZyOVo4U0ZwV1hOWkk2UnV6WmJuMzJMMENPU2FsekpMX2loSzU1Rk5lR3dHY3dLVGJlcXFWOEdNOEg4WFA4QlJqZmM5ZWdCNENVS0k2SHZ1QkdnQW00V1RHTEFYNl9EOHkyeUpvMGZsNlBJLVl6XzlnOUVOT1AzdlUzUEEyY3ZEMWQ3Qnd0Xw?oc=5",
-        "publisher": "Modern Diplomacy",
-        "published": "2026-10-30T08:50:34.000Z"
-      }
-    ]
+    "hash": "1xmchxg",
+    "tags": [],
+    "headlines": []
   },
   "russia-record-budget-deficit-2026": {
     "at": "2026-10-31T11:11:25.466Z",
@@ -568,9 +561,9 @@
     "headlines": []
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-10-30T23:10:46.228Z",
+    "at": "2026-10-31T14:11:36.561Z",
     "by": "pipeline",
-    "hash": "3uvfvs",
+    "hash": "1181cfz",
     "tags": [],
     "headlines": []
   },
@@ -629,9 +622,9 @@
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-31T08:11:22.951Z",
+    "at": "2026-10-31T14:11:36.561Z",
     "by": "pipeline",
-    "hash": "z0k8fk",
+    "hash": "ulz1hn",
     "tags": [
       {
         "point": "ISTANBUL_PORT",
@@ -645,17 +638,30 @@
           0,
           3
         ],
-        "why": "Heavy rain on 29-31 Oct 2026 closed roads and turned streets in Istanbul districts into lakes, and new rainfall warnings cover western Turkey, so truck access to the Ambarlı terminals may be slowed.",
-        "action": "Ask your forwarder to confirm Ambarlı gate and trucking status before each pickup, and add 2 days of buffer to Istanbul-origin container cut-offs until the warnings lapse.",
+        "why": "Roads in Istanbul were closed by flooding after the 15 October rains, and forecasts from 31 October show a week of heavy rain from the start of November, so truck access to the Ambarlı terminals may be slowed.",
+        "action": "Ask your forwarder or trucker for Ambarlı gate-in and pickup times for the first two weeks of November, and add 2 days of buffer to container cut-offs for Istanbul-area suppliers.",
         "sources": [
           0,
           1,
           2,
-          3
+          3,
+          4
         ]
       }
     ],
     "headlines": [
+      {
+        "title": "Heavy rain forecast across Türkiye as Istanbul braces for weeklong showers",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWxWTVY3WkZIM21vSjdDbm43NHZsSDAzdVRrVmdXeEZGUGs5Z1FQTE9aOWw2aElwem05bnhzbXRBbW1qRUZxbzBoUkJobE5pUlBnZUdWYldDNG11TW1nLWhoR2l5M0x2M0JHZm5jVFhLUXJQSVFPWHR5ekFWbUxBdDIzN2hhWUlody1xT0N1d2F5ekhjdER4Z1VwVkZuR0NqbXNwTjJSWWN4ZVhtZy1TNGhfdEJzYU5EZ195dWJn?oc=5",
+        "publisher": "Türkiye Today",
+        "published": "2026-10-31T08:35:52.000Z"
+      },
+      {
+        "title": "Istanbul set for a rainy start to November",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2xJeGkzNTgxeXVhVHBHVzFBNTZaUU4yVl85UThjSmJmekpCWVJGYXhncVVubWNyd1luSVRfNi1xb21hSmp5eGtuWWVWQlNscHF0dWM5YlYya3R4VVZORjYzRnRDY1FSaWYxSkJMb1FpOUJHek53dnJMbkd4RGFkeHprVF9NTFJLb3JB?oc=5",
+        "publisher": "Hürriyet Daily News",
+        "published": "2026-10-31T05:57:16.000Z"
+      },
       {
         "title": "Istanbul floods: roads closed, ferries cancelled due to rain",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEYyNU5vS2xuRXpxQklsQmpFREw1bW5MOHZGWGRlenI2ckxSbllsWWgtTG1MeWIzZjBEYmNQSk5vQW53Y0lWUU5aWl9WdWdWQ3N5SF9JMEM0NWNWTjBfczBjZlZoR0JYZ2VJaEtwVkpLbzNxWGtzRHlKTW5yMDFDY0o5VnZtSFhtRVJmU1lRZUV0YnBVdGplc05lV0xYTDRpaWhlWUUyZWRXc0EyU2c?oc=5",
@@ -673,12 +679,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWV9tQzJaNlJvWVJpX1RPbE1LbmpsVm1MTTdwR0Qtek1uWlNnMF9SaERJX0huMjg2dlVjajl6OXJMcGlXa0E1MkUtbUJTclVhakwzY3ZsbTVDZl81Y3JXXy1uWURZbXEtdVFPWDZGbUlxTkE2RHk4TTBiT3owZ19WRUo4Nk1RYUJfdU53?oc=5",
         "publisher": "Haberler.com",
         "published": "2026-10-29T17:36:45.000Z"
-      },
-      {
-        "title": "The footage was recorded this morning! Roads turned into lakes in two districts hit by the downpour.",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3R0Ty1RYW03amEyQm8wYXBmWW1xaEN3eEs2U0pXVEdEbmNhM2g2M25oXzB2Z0dwSFVqc3ZURDRxZk9zTDhIN0tVYTFMc0ZLbFI1WTlWSlo2SVFnY19iT19SNEh6RXlsYUFPLUVCWjRlWTJhSkdNZ201REw1eVJDeHFKb3g2UUlSYnhZ?oc=5",
-        "publisher": "Haberler.com",
-        "published": "2026-10-29T17:16:45.000Z"
       }
     ]
   },
