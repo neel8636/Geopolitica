@@ -443,45 +443,38 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T05:11:08.609Z",
     "by": "pipeline",
-    "hash": "9yrn1",
+    "hash": "q3vgao",
     "tags": [
       {
         "point": "SOUTH_CHINA_SEA",
         "effect": "security",
-        "likelihood": 0.3,
+        "likelihood": 0.2,
         "delayDays": [
-          1,
-          3
+          0,
+          2
         ],
         "costPct": [
-          1,
-          4
+          0,
+          3
         ],
-        "why": "Between 1 and 9 October there were at least six Philippine-Chinese encounters, and on 30 October reports say China is stepping up combat-readiness patrols and drone and water-cannon drills near Scarborough Shoal, so freight on routes through the eastern South China Sea faces poss",
-        "action": "Ask your forwarder whether vessels on your Philippines-bound or Philippines-origin services will avoid the Scarborough and Spratly areas, and get war-risk surcharge terms in writing. Add 3 days of buffer stock for Manila",
+        "why": "China has stepped up combat-readiness patrols and water-cannon and drone drills around Scarborough Shoal (reported 30-31 Oct 2026) after at least six clashes with Philippine forces on 1-9 Oct, so freight passing nearby could face short-notice drill areas, rerouting or higher war-",
+        "action": "Ask your forwarder and carrier to confirm that vessels on your lanes keep clear of the Scarborough and Spratly areas, and to flag any war-risk surcharge or navigational warning for the next 30 days. Add 2 days of buffer ",
         "sources": [
           0,
           1,
           2,
-          3,
-          4
+          3
         ]
       }
     ],
     "headlines": [
       {
-        "title": "HEADLINES: China boosts patrols around disputed shoal | October 31, 2026",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXFkb2ktQzI4SGp3RW13N0dQR0lBdWhYVXZIRUNJamFGV09IQnhPRUowZEdnVzBNdjFMa2tlcFhkYnBxTHFuTHNSblZGWDc0M2ZCcmplUWp6bENFQ2x2TklpUE12MF9PeFdzd0NfYWo3d1FfVkNld0Yxci1JSG1YZWtOeDQxS1V1U2NQTkoyVU9PZ0kwQjJVVmJNN3p4cUxlWGN0RGRkT2dtTVZScnFLWTN2cVg2WHR6RVpiaXRPYTNpUdIBxwFBVV95cUxNVmJYYm5vNjU4eWo2WW9NbUk2aGE4MmNUQ0ZGZXRqTmp1T0xJOV9pQzB3Yk1wOUREV0JhYVN6Q0xkNWh6VWFJdU5oVXd5NldZU1RORGlzb3lMWUs0ajBvVnkwR21LNG5GRjNRSUMxeWZqMlVDWGYta3U4NXJldl9wOHVSTzE1cDNPSVhCeno4a2Y3YUZUMFNYZEJEbk5LZWNBNy10anJqRlRxZjZNUzY0aG9IMGIzaTJuYWlnY1BJTEgtN3htMWRn?oc=5",
-        "publisher": "The Manila Times",
-        "published": "2026-10-30T16:01:00.000Z"
-      },
-      {
-        "title": "China intensifies its patrols ahead of a possible clash with the Philippines in disputed maritime areas",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObkllczFCdU1qRnlGMmZPTEFLblFMdU9kVERnel9MTWVybEFVMFh6RklpZEp4d3NLbHBDcUlSdFp4aEJWZVlEZm52dzE0bG9SMFRxbko5OUZhek9yOExtbXhKeHppYU1tamR2YUlSNVZRUmQwbGozVGZZbjk1Z1VQN3pOQ2pVZ00yclVFNHB0eG91OXduNFlFTDI4T25lemxKOE43UnU3OEZnUXRlc21rbTM2bXlxMkktT0F6Nnk1UkM0NldfSVRPV3pZQ3U4R0lxSHZNMFdNU3lMMUNQVGxCWjQzb0PSAeQBQVVfeXFMTm5JZXMxQnVNakZ5RjJmT0xBS25RTHVPZFREZ3pfTE1lcmxBVTBYekZJaWRKeHdzS2xwQ3FJUnRaeGhCVmVZRGZudncxNGxvUjBUcW5KOTlGYXpPcjhMbW14Snh6aWFNbWpkdmFJUjVWUVJkMGxqM1RmWW45NWdVUDd6TkNqVWdNMnJVRTRwdHhvdTl3bjRZRUwyOE9uZXpsSjhON1J1NzhGZ1F0ZXNta20zNm15cTJJLU9BejZ5NVJDNDZXX0lUT1d6WUN1OEdJcUh2TTBXTVN5TDFDUFRsQlo0M29D?oc=5",
-        "publisher": "Demócrata",
-        "published": "2026-10-30T13:26:31.000Z"
+        "title": "China Intensifies Military Activities Near Disputed South China Sea Shoal Amid Manila Tensions",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM3pqbkNnd1Y3ZllIVThBaVBiZHZEQnFjMk1zX0plREVrOE9UQVgtQk81MmF2VlMyM0ZySkc5UlBIOXB2UlBNTUp6WkFyVXFwN0s5RWQ4UnJZY1hrWFdXSTQxZ3JpeEVpbFZwLUltY1BYQmswZzc1N29FWTRtR09telJhSmZlOW5zMERIZ3JFVl9zamxXaGJPWnZZNGtjSGl3SVg5R3pacFFaS2xUUHZ3Q001b2RTMTlRSlVKekQtOGpIV1Z4WjdIVGZKS2h4S01oOEd3NmlR?oc=5",
+        "publisher": "BusinessToday Malaysia",
+        "published": "2026-10-31T04:47:38.000Z"
       },
       {
         "title": "Beijing drills water cannons and drones near disputed South China Sea shoals",
@@ -504,23 +497,23 @@
     ]
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-30T18:10:28.958Z",
+    "at": "2026-10-31T05:11:08.609Z",
     "by": "pipeline",
-    "hash": "1y0ch8a",
+    "hash": "1lpw19u",
     "tags": [],
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-30T22:10:41.465Z",
+    "at": "2026-10-31T05:11:08.609Z",
     "by": "pipeline",
-    "hash": "178jskr",
+    "hash": "1nu7qrk",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-30T22:10:41.465Z",
+    "at": "2026-10-31T05:11:08.609Z",
     "by": "pipeline",
-    "hash": "16ztoci",
+    "hash": "1kzv1dv",
     "tags": [],
     "headlines": []
   },
@@ -581,9 +574,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-30T23:10:46.228Z",
+    "at": "2026-10-31T05:11:08.609Z",
     "by": "pipeline",
-    "hash": "zmsc4b",
+    "hash": "1oedwjq",
     "tags": [],
     "headlines": []
   },
@@ -635,9 +628,9 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-30T22:10:41.465Z",
+    "at": "2026-10-31T05:11:08.609Z",
     "by": "pipeline",
-    "hash": "p8y92u",
+    "hash": "1s1j4j3",
     "tags": [],
     "headlines": []
   },
