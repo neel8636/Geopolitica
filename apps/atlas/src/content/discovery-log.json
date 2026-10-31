@@ -3236,6 +3236,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-31T19:24:01.884Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 132 min ago"
+    },
+    {
       "at": "2026-10-31T19:11:56.125Z",
       "screened": 0,
       "accepted": [],
@@ -4718,130 +4727,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-30T06:09:39.348Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US and Japan agree on Japanese facility for joint missile production",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "El Salvador sends 2,000 troops to Haiti to find four missing soldiers",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "EU backs away from Canada associate-member talks as Montreal summit opens",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Hegseth fires top army planner and strategist",
-          "reason": "This is a US internal personnel shake-up with no stated cross-border channel.",
-          "headlines": 4,
-          "publishers": 3
-        },
-        {
-          "title": "Binance hack of $6.3bn",
-          "reason": "This is company and crypto news with no stated state or policy angle.",
-          "headlines": 5,
-          "publishers": 5
-        },
-        {
-          "title": "Russian drone strike on Ukrainian railway station",
-          "reason": "This is a routine strike in an ongoing war with no new cross-border decision or channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Spain train crash aftermath",
-          "reason": "This is an accident with no effect abroad.",
-          "headlines": 7,
-          "publishers": 4
-        },
-        {
-          "title": "Paris suburb shooting targeted Muslims and Africans",
-          "reason": "This is a crime case with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Record purges at China party gathering",
-          "reason": "This is a domestic party discipline story with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Lagarde's possible early exit from the ECB",
-          "reason": "This is analysis of speculation, not a decided development.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Afghanistan opium output jumps fivefold",
-          "reason": "This is a UN data report with no discrete policy event.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Big tech earnings and AI market moves",
-          "reason": "This is company and market news with no state or policy angle.",
-          "headlines": 8,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Vance contacts senior Iranian official to revive peace talks",
-          "reason": "This is part of the US-Iran war and peace diplomacy already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "US Q3 GDP beats forecasts as September inflation accelerates",
-          "reason": "This is US growth and inflation data feeding the Fed rate story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "ECB holds rate at 2.5%",
-          "reason": "This is the ECB rate decision already covered by the map event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "UN vote on the US embargo on Cuba falls to 30-year low support",
-          "reason": "This is part of the US-Cuba pressure story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "UK Budget and what it means for the economy",
-          "reason": "This is coverage of the UK Budget already on the map.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
