@@ -2903,25 +2903,30 @@
     "items": []
   },
   "italy-election-2027": {
-    "at": "2026-10-30T22:10:41.465Z",
+    "at": "2026-10-31T12:11:38.783Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "opposition-to-hold-primaries-by-february",
-        "title": "Opposition to hold primaries by February",
+        "id": "opposition-sets-primaries-to-pick-anti-meloni-candidate",
+        "title": "Opposition sets primaries to pick anti-Meloni candidate",
         "when": "2026-10-30",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Italy's anti-Meloni opposition plans to hold primaries by February to pick its leader and rally behind a single challenger.",
+        "what": "Italy's opposition parties are uniting against Meloni and plan to hold primaries by February to choose a joint challenger.",
         "via": "unified opposition challenger",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
+            "title": "Italian opposition unites against Meloni ᐉ News from Fakti.bg - World",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUVOVnV1a0IydThfakJ2SUp0WjBMaDMyNGFBd1gxTmY5QU1Fa1k4dUxEWkxKc0hEVGx4ZDVSWWp6cmZSQjdNWFFhWmJ2WW9LN0dac3FTdGZHY0taYkZBekdoaHBWakx1Tm9KODltMWw4VkZMMUFxRjlDeDJNXzI1SHA1Y3lJcHVXZ0tJ?oc=5",
+            "publisher": "Fakti.bg"
+          },
+          {
             "title": "Italy’s Anti-Meloni Opposition to Hold Primaries by February",
             "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWFnMGJ3STl6ZE1OYm05dkVDUEZMM0xycjdkLVlSQzBxci1YLUg4dXJMYVFpV1dwbFNMekhqX18yVWxzS09qM0toLWdrOE1HRmlEcktRTHVCT210eFRONWtXVjhJSHhROURXZ2dXR0tjUG0xX1hsb3otVDNtQ0dLaS10MGhMbEpGdU5LdTZmQm0xZm85d0tseDk5eDIyNmoxTnAwZVN6aUJBeVNHSXZieQ?oc=5",
-            "publisher": "Bloomberg.com"
+            "publisher": "Bloomberg"
           }
         ]
       },
@@ -2932,8 +2937,8 @@
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Prime Minister Meloni ruled out an alliance with Vannacci, shaping the makeup of the right-wing coalition heading into the vote.",
-        "via": "limits on right-wing coalition",
+        "what": "Prime Minister Meloni said she will not ally with Vannacci, shaping how the right's electoral field is arranged ahead of the vote.",
+        "via": "right-wing coalition limits",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2945,33 +2950,14 @@
         ]
       },
       {
-        "id": "meloni-formalises-alliance-with-sud-chiama-nord",
-        "title": "Meloni formalises alliance with Sud chiama Nord",
+        "id": "government-signs-off-26bn-2027-budget",
+        "title": "Government signs off €26bn 2027 budget",
         "when": "2026-10-29",
-        "place": "Sicily",
-        "lat": 37.6,
-        "lon": 14,
-        "what": "Meloni formalised an alliance with Cateno De Luca's Sud chiama Nord, which also announced a vote date of 9-10 May.",
-        "via": "wider coalition support",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Meloni formalises the alliance with Sud chiama Nord. And Cateno De Luca reveals the date of the vote: 9–10 May",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV3lHQVo3SjczZlZuaDRTaDNBUDNtck0taFFMcUYwLWVZQk41cVFCSlNhQ3lhOVV3R2VOTldZQlpsZGZSM0lBeF9aRFF6VTR2a1R4MTJDa1Jicm1qOFFYcEdyZnpHSUVZVXl5UEk3bk9jRUQ2T2pGT3ZEOTRxczhxWFBZbHdBZGMyTFItVUFxOXF3Y3dRV3ZydHFhZm5qVFY1dnF6X1BFVFNHbkVydWJ1YjI5d2JqcDI2SHpTbWVPQQ?oc=5",
-            "publisher": "Il Sole 24 ORE"
-          }
-        ]
-      },
-      {
-        "id": "26-billion-budget-with-tax-cuts",
-        "title": "€26 billion budget with tax cuts",
-        "when": "2026-10-30",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "The Meloni government's €26 billion budget for 2027 offers tax cuts and family benefits ahead of the election, while testing fiscal discipline.",
-        "via": "voter-friendly spending",
+        "what": "Meloni's government approved a €26 billion budget with tax cuts and family benefits, plus a projected €700m from gambling taxes, ahead of the election year.",
+        "via": "pre-election tax and family measures",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2980,25 +2966,6 @@
             "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3paWng5YzNNTGJ2VmQxb1dUNnZYbHREcWdaYVJhREJfZjRwV0wza0VHWElSSlZzQ3l5a1JZX2hPcE52a29VdkVGcUdDWUxEZTZlN3F1WDhlUHZrMUJSTEJEZTdwbS1VRG9YLUIzZENJUTJlYUE1OFBIbkNGd1o5SGFpTzhIZlFIenBwStIBkgFBVV95cUxNMVB1TVlSSUF2VEZib2NKLTdmYXdRT0FrTFNmaWgwaVF1Q0NHX2FLaklHaFpqbmcxUEFmdHRrLWN5aVB4N29DdVVnTnFjaGNic20xUVNtWmFGR09idnJNVXNYTUJuWXlBMlItUFREMTg2eTBHVFBQcndnRmNuUXFOTjhUQUxoZDdXb0ZkbVBxcVBKdw?oc=5",
             "publisher": "Italia Report USA"
           },
-          {
-            "title": "Meloni’s €26 Billion Budget Tests Italy’s Fiscal Discipline as Election Approaches",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMEN6TVozME9WYUhucmxKYllXZk9sMzdRc3VwN1l3M2d0RldVWFgzdmFsLXdXSEs0V2RrR3M5aFBlQy1DVnNrQl9EdXBDeWVrUEI2MklrTUllLTlWa19MTHJR?oc=5",
-            "publisher": "EU Today"
-          }
-        ]
-      },
-      {
-        "id": "gambling-tax-projected-at-700m",
-        "title": "Gambling tax projected at €700m",
-        "when": "2026-10-29",
-        "place": "Rome",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "Italy projects €700m in gambling tax intake as Meloni signs off the 2027 budget, helping to fund her pre-election spending plans.",
-        "via": "extra budget revenue",
-        "aspect": "markets",
-        "flow": "into",
-        "sources": [
           {
             "title": "Italy projects €700m gambling tax intake as Meloni signs off 2027 budget",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVnZ6VHpaQl9JMFNES0dQX3BRcXRSWE9YRGQ3Tmc3ci1qT19fY3ZUX1hHeHdUQkxMYi1TUHdubDNPNGZoVDBZOGNDTHJ2UnlfVS01SURncUYwQ0VmeVp4dVllMmVEMFVWUFFLMzR1N3BGalZYYl9FUkZsRnNRQmpMb3RzOEM0T3Q3RUpvNXczZU1yMWctUTFxZmlzVlF6YXZUUUdR?oc=5",
@@ -3009,109 +2976,56 @@
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-30T22:10:41.465Z",
+    "at": "2026-10-31T12:11:38.783Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "irish-farmers-face-proposed-24-cap-cut",
-        "title": "Irish farmers face proposed 24% CAP cut",
-        "when": "2026-10-28",
-        "place": "Ireland",
-        "lat": 53.35,
-        "lon": -6.26,
-        "what": "A proposed 24% cut to farm subsidies under the Common Agricultural Policy has not gone away for Irish farmers, keeping farm funding a live dispute in the talks.",
-        "via": "farm subsidy cut pressure",
-        "aspect": "food",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Proposed 24% CAP funding cut for Irish farmers 'hasn't gone away'",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTTNqTFlaOUYtcXgzSkNPU002ckZHSW01cnE3a09mT0ZVdU5xQXBBSldWbjVmRzJZeE1DUUdBeURRamg3SWdrV3ptQ0xyQXc1RFNXdHgzcktQcHNZVVdsdW1PUFFSTGl2Ny1NemhvVm5qWmk2TGhWOTFub3lCZ1VwUk5LNmlVVzRrcVpwT1JHLVBQMmN3OGpHc3p6WHN6RXg0?oc=5",
-            "publisher": "Agriland"
-          }
-        ]
-      },
-      {
-        "id": "frugal-states-reject-leaner-irish-mff-text",
-        "title": "Frugal states reject leaner Irish MFF text",
-        "when": "2026-10-28",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "A leaner Irish version of the multiannual budget framework fails to satisfy the frugal governments, so the gap between budget camps remains open.",
-        "via": "frugal states' resistance",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Leaner Irish MFF fails to satisfy frugals",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWhHcUJPN1g3OFFWWURHLS1iSkVNZWpUenhSVDJmem84R1BReG0yVENvcEYwR2F4OVFDdXoxbWpieElFUkN1dkkxT2szTzRSRGJUVW5FRHhReEw0ckZKalktcGQ1X3hEbE82WkJuUHFIcEVjVmRzaGFxT3NIREp4amEwUk1VTlRNUzB1S0xiQXFNZFJE?oc=5",
-            "publisher": "Contexte"
-          }
-        ]
-      },
-      {
-        "id": "beaune-proposes-contributions-tied-to-common-goods",
-        "title": "Beaune proposes contributions tied to common goods",
-        "when": "2026-10-28",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "Clément Beaune proposes adjusting Member State contributions to the EU budget based on how much each invests in European common goods.",
-        "via": "new contribution formula idea",
-        "aspect": "budget",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "MFF 2028-2034 - Clément Beaune proposes adjusting Member State contributions to EU budget based on their investment in European “ common goods",
-            "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeUIwWU1BUEJNN3Z3RXFWdEhPb3IxWkJPRGFYVDVvS3VGTzY2QnJYVkdQeldvSzlzNmllSm5kVHdpaVRPTml5SjNtZHVuY0kxelRaTV9vblpnbGptNlg4UG5uM25OQ2RobUNYNTVvWTdsYlRFcmdpN2xLeS1TQmpDajJTbXVoczlSYjZqd25xX05SRXhCSVR6bFJKVV9vV2pPNUd0WWJLbU1zVlVhVGJUOTV5ZWFEVEY5TE91ajZFbW9FZDE0OWg3SkwxRDN0YnhCaXZhYWtUdUF4UWJENHFkeXE0T0otUXZfX3JlalJlVkw0MUNKQndYb1VlY08yMHB1LVY5X3dIUG12S1dUMFNnUXVHNUFDQVBBR1E?oc=5",
-            "publisher": "Agence Europe"
-          }
-        ]
-      },
-      {
-        "id": "commissioner-serafin-discusses-budget-revenue-in-sofia",
-        "title": "Commissioner Serafin discusses budget revenue in Sofia",
-        "when": "2026-10-29",
-        "place": "Sofia",
-        "lat": 42.7,
-        "lon": 23.32,
-        "what": "Budget Commissioner Piotr Serafin visited Bulgaria and held talks on 2028-2034 EU budget revenue with Prime Minister Radev and Donev.",
-        "via": "national positions on revenue",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Prime minister Radev held talks with Serafin on EU budget",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkZ6bGlsS1dHcEJOancxZEJJdFRtdm11SXBhbWprZjM1UVlUM3FGWTNiRlBsTXJhbUwwYmVURERtWUw3VWZFaml6NlJCYkRrdWl3NXI2c2E1WlJCM2lubWgxT0hkNzRUMkg1OW5odnEzTG9oTzdvVVJ1LUgyemdNcEpCaUM5cjJKbldVdXlCS2VST3gwbmV3azdWUFNjVjhZYWZVSVJSa0nSAagBQVVfeXFMUFpGemxpbEtXR3BCTmp3MWRCSXRUbXZtdUlwYW1qa2YzNVFZVDNxRlkzYkZQbE1yYW1MMGJlVEREbVlMN1VmRWppejZSQmJEa3VpdzVyNnNhNVpSQjNpbm1oMU9IZDc0VDJINTluaHZxM0xvaE83b1VSdS1IMnpnTXBKQmlDOXIySm5XVXV5QktlUk94MG5ld2s3VlBTY1Y4WWFmVUlSUmtJ?oc=5",
-            "publisher": "BurgasMedia"
-          },
-          {
-            "title": "Donev and Serafin discuss EU budget revenue for 2028-2034 in Sofia (updated)",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDNtdEV6cDk4ZWZ0aG93V1ZRc0pqdjk5M1JySGNQVHItY29KZTc3QTUySXdPYmh3RDdCcW9MYmF4bm4yX2NuQks1WmZHMmpURmtKdzlYZ3JrNlVuU3E5NW0yRldhS1ltbW0wWjJmV3R0SldKYmRZMTIwWFZLLUxXNmhJampBd2ZTZl9DRmFreUk1b0NTbERZS1FTdXBJaXlJenZ5ZXFDMlZsUXJRaDhQd3R4b9IBuAFBVV95cUxPVC1NOURfVWNtWlZnUm5wdi1SZExiaHU2ZlpqVnNkZ2cyNzZmc2hfX1R2Z0daM1dwR3RMSEF5dnBCNHRObTMzTVA5RUpLRzVrazEyZTVXZUZmeV9vUkNLSFhVVlFNQWxFNWNMUU9nZ0xGeUk4aFNBaVRXOTRma2FNNHRmM2VYZ2tIY004bE5UdGx2b21Td3h5UDc3dW5LYThJV2FZQUkwRXBWUTNmUnU1cGNpSVh5MzJ2?oc=5",
-            "publisher": "BurgasMedia"
-          },
-          {
-            "title": "The European Commissioner for Budget is coming to Bulgaria for two days",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUZOR1JmVi1nOTVoUFR0M3ZJaVVhdWI1VS10bkRMOUR3MFRCdkJoSjlaQlhCX0lHdXFjLW9HS1dFQ0NVNTVWcWUxWXhPSTdSVVIwV3dacEpvRl94Qmd4d294Y3lWdWtab19yMk5Ta24zNThpcnh6TlpJS2F4MTF6V0F6cWptTlJpdmItOUl3T3FIREVBazJKRU5RZHZMaFU1U0NWLTNOUnUtMWdx?oc=5",
-            "publisher": "Fakti.bg"
-          },
-          {
-            "title": "EU commissioner Piotr Serafin to visit Bulgaria on 29 and 30 October on the EU budget",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWE1IMG9UZXlqcmZaeVRDYnZ6U3diZXA3X0h0ZkJFMENFUjNPVHVvUkRqZTh2bEg0MjhqaTdSdVdaOERqWnN0V1E2NzZmVlowUU5lbFcwU0h4VGZPZFBaRGtpaVRPbXI3TS1xdzZPcU1pSlNtZE9MdURQTEoxMGtucXg3YWEyYzZSc3ZESXI2NGRDYlBuaWJZQnA3MFoxTFlydzk4c0pLeGNia2QxZGhMWnNIUkV3M25zbGhjb0o4Z2LSAcYBQVVfeXFMUHZhVG5rVkd5RjNDLXh5QlpPX2FRRk93aTFHVzVoTlZVYVplQmltSDFDVkthazQxZkdTaFNFYlIyWDhYRWt5ek9DLXdoMlNHSGhlVGxGY0FaLXhmZHBua3NlVFhpWDNyT2ZxakFxS096VkU3WkRscHd3VWVoblF5NS1YT2FYelh4TXprUnNlMTdHazlILXAzUW1DM3R3R2pObFQ0alpMN0pLbGNsZ1Rpa2RkbEplOHM1SzhEdGhsdHFMZVp4VHdB?oc=5",
-            "publisher": "BurgasMedia"
-          }
-        ]
-      },
-      {
-        "id": "brussels-protest-against-30-agoraeu-cut",
-        "title": "Brussels protest against 30% AgoraEU cut",
+        "id": "parcel-fees-could-raise-6-billion",
+        "title": "Parcel fees could raise €6 billion",
         "when": "2026-10-30",
         "place": "Brussels",
         "lat": 50.84,
         "lon": 4.38,
-        "what": "A protest in Brussels targets a proposed 30 per cent cut to AgoraEU, adding public pressure on spending priorities in the budget.",
-        "via": "protest over programme cuts",
+        "what": "A document seen by Reuters shows EU fees on cheap Shein and Temu parcels could raise €6 billion, a possible new source of budget revenue.",
+        "via": "new revenue source",
+        "aspect": "trade",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "EXCLUSIVE: EU fees that hit cheap Shein, Temu parcels could raise €6 billion, document shows",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2Q1NnkxWE1pQUYzVHYxTW4yNURDb3paTTRGdG1xRXJxc0lGNUlkZ2czNFFiOVIzT3M4dUMySW5UbzY3V3VJbTBISnZQT3V5a1NJYlBLWDZ1aXhneFkwaE5jWmxFSE12MlRxMGZETy1qZGRJSXBHQXJsbm93TnBxNUNPTTkwVE95MTQ1S0oxUGoySkFFdHJNMjB5ZThWZnEzc2VreUlEY2FQaEtTc19jdmdEZ3ZDNkFSSTVOZDQwY3ZEZEs3N0NwUDBYVmhIT25V?oc=5",
+            "publisher": "Reuters"
+          }
+        ]
+      },
+      {
+        "id": "eu-proposes-51-5-billion-for-ten-t",
+        "title": "EU proposes €51.5 billion for TEN-T",
+        "when": "2026-10-30",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "The EU has proposed 51.5 billion euro for the TEN-T transport network in the 2028-2034 budget, one of the spending lines to be negotiated.",
+        "via": "transport investment demand",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "EU proposes 51.5 billion euro for TEN-T",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjdOUDBTNjNzQ0RPbGpWZWF4Vng4alVncmdnX1c5U1J1czRsdWl4QmEyU2ZUSmtFaU1jTGE0M043QV9kSW8xdTlybUp3WTMtcHlQZXU5U2ZxSURtS2xFV0g2UEtnMzBCNW9DRTUyRW05akV6Wk0xc3huUHEyNmZrYWpVVEQ3Qk9pM1Y3RlZWWDNOMUZnbTFZRXFVVlhsSHFmMHJkYmNOY2ZENjB6S0E?oc=5",
+            "publisher": "Trans.INFO"
+          }
+        ]
+      },
+      {
+        "id": "protest-over-proposed-agoraeu-cut",
+        "title": "Protest over proposed AgoraEU cut",
+        "when": "2026-10-30",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "A protest in Brussels targets a proposed 30 per cent cut to AgoraEU in the 2028-2034 budget.",
+        "via": "pressure against programme cuts",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3123,14 +3037,14 @@
         ]
       },
       {
-        "id": "ep-rapporteurs-agree-horizon-europe-successor-position",
-        "title": "EP rapporteurs agree Horizon Europe successor position",
+        "id": "parliament-rapporteurs-agree-horizon-europe-successor",
+        "title": "Parliament rapporteurs agree Horizon Europe successor",
         "when": "2026-10-30",
         "place": "Brussels",
         "lat": 50.84,
         "lon": 4.38,
-        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe, setting Parliament's stance on research funding within the 2028-2034 budget.",
-        "via": "Parliament research funding stance",
+        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe within the 2028-2034 budget framework, setting a Parliament position on research funding.",
+        "via": "Parliament position on research",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -3138,6 +3052,30 @@
             "title": "MFF 2028–2034: EP rapporteurs reach agreement on the successor to Horizon Europe",
             "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJqRGJBMjlseUU2djAwdU8yUGZkYkJwMDd3eUdNUGZySW1YR2VBcE5DN2ZheC1tUVl5VDFFRUl4M2Nnc2UzTWxESE0yTmZqRE9HanNIbWp1SkdBN1M4OWpzamZCa2FmRGxJUU54RU1kRkRTbmxlQ0pEWVFZOTA0MFVNM2dBMFY4Uy1adWl5X2dKNElfYkdWUjhlUW4xbDhpR242aWRJaUNXenl4Y1Q2TGFaNU1NWmJ0SE0ybGx1YUxmQQ?oc=5",
             "publisher": "FASI.eu"
+          }
+        ]
+      },
+      {
+        "id": "bulgarian-leaders-discuss-eu-budget-revenue-with-serafin",
+        "title": "Bulgarian leaders discuss EU budget revenue with Serafin",
+        "when": "2026-10-29",
+        "place": "Sofia",
+        "lat": 42.7,
+        "lon": 23.32,
+        "what": "Prime minister Radev and Donev held talks with Serafin in Sofia on the EU budget, including revenue for 2028-2034.",
+        "via": "national government positions",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Prime minister Radev held talks with Serafin on EU budget",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkZ6bGlsS1dHcEJOancxZEJJdFRtdm11SXBhbWprZjM1UVlUM3FGWTNiRlBsTXJhbUwwYmVURERtWUw3VWZFaml6NlJCYkRrdWl3NXI2c2E1WlJCM2lubWgxT0hkNzRUMkg1OW5odnEzTG9oTzdvVVJ1LUgyemdNcEpCaUM5cjJKbldVdXlCS2VST3gwbmV3azdWUFNjVjhZYWZVSVJSa0nSAagBQVVfeXFMUFpGemxpbEtXR3BCTmp3MWRCSXRUbXZtdUlwYW1qa2YzNVFZVDNxRlkzYkZQbE1yYW1MMGJlVEREbVlMN1VmRWppejZSQmJEa3VpdzVyNnNhNVpSQjNpbm1oMU9IZDc0VDJINTluaHZxM0xvaE83b1VSdS1IMnpnTXBKQmlDOXIySm5XVXV5QktlUk94MG5ld2s3VlBTY1Y4WWFmVUlSUmtJ?oc=5",
+            "publisher": "BurgasMedia"
+          },
+          {
+            "title": "Donev and Serafin discuss EU budget revenue for 2028-2034 in Sofia (updated)",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVC1NOURfVWNtWlZnUm5wdi1SZExiaHU2ZlpqVnNkZ2cyNzZmc2hfX1R2Z0daM1dwR3RMSEF5dnBCNHRObTMzTVA5RUpLRzVrazEyZTVXZUZmeV9vUkNLSFhVVlFNQWxFNWNMUU9nZ0xGeUk4aFNBaVRXOTRma2FNNHRmM2VYZ2tIY004bE5UdGx2b21Td3h5UDc3dW5LYThJV2FZQUkwRXBWUTNmUnU1cGNpSVh5MzJ20gG4AUFVX3lxTE9ULU05RF9VY21aVmdSbnB2LVJkTGJodTZmWmpWc2RnZzI3NmZzaF9fVHZnR1ozV3BHdExIQXl2cEI0dE5tMzNNUDlFSktHNWtrMTJlNVdlRmZ5X29SQ0tIWFVWUU1BbEU1Y0xRT2dnTEZ5SThoU0FpVFc5NGZrYU00dGYzZVhna0hjTThsTlR0bHZvbVN3eHlQNzd1bkthOElXYVlBSTBFcFZRM2ZSdTVwY2lJWHkzMnY?oc=5",
+            "publisher": "BurgasMedia"
           }
         ]
       }
@@ -3540,19 +3478,62 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-10-30T23:10:46.228Z",
+    "at": "2026-10-31T12:11:38.783Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "cuban-american-voters-sour-on-republican-immigration-policy",
-        "title": "Cuban American voters sour on Republican immigration policy",
-        "when": "2026-10-30",
-        "place": "United States",
-        "lat": 38.9,
-        "lon": -77.04,
-        "what": "Many Cubans who voted for Trump are turning against Republican immigration policies, a shift in a key constituency that shapes the politics behind Washington's Cuba stance.",
-        "via": "Cuban American voter pressure",
+        "id": "cuban-diplomat-expelled-after-un-clash",
+        "title": "Cuban diplomat expelled after UN clash",
+        "when": "2026-10-29",
+        "place": "New York",
+        "lat": 40.71,
+        "lon": -74.01,
+        "what": "The US expelled a Cuban diplomat after a heated confrontation with a US official at the United Nations, a sign of sharpening hostility toward Havana.",
+        "via": "escalating US-Cuba diplomatic confrontation",
         "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Cuban Diplomat Expelled After UN Clash With US Official",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0JoNW85Ri1zbWtROThIaHlzZDRjUkNDQ3J1cFg1amNKYjV2ZUtzUWJReWRnem5zZ1FWZXN4anI3UVZhaWNEUzRIaWZ4NXZlUHB3X284VWtNT1lHbHRHQmF0QWlYWkpjRHFrOUJPaFN3am1nNmRSMW5KMjA4dDg4V1FaU0Q?oc=5",
+            "publisher": "조선일보"
+          },
+          {
+            "title": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOXZ0TThBNGRPeEM3blJsZ2RZOERwTVk0N3BsM0IyU19QNFBxOHJEUXNmZUlSTFkwLVVmY3ZuT3lTb1FfR3d2WWV5eEVjdVBSR1kwZWRLU2ZrVEg5a0JmQWRqajQ2TVdwOEQyQWhUUDNrcnJUUldQZlpmeUJ4VnQyeg?oc=5",
+            "publisher": "The New York Times"
+          }
+        ]
+      },
+      {
+        "id": "fiu-poll-shows-cuban-americans-backing-gop",
+        "title": "FIU poll shows Cuban Americans backing GOP",
+        "when": "2026-10-29",
+        "place": "Miami",
+        "lat": 25.76,
+        "lon": -80.19,
+        "what": "An FIU Cuba poll found Cuban Americans still stick with the Republican Party, which gives the administration a loyal base for a harder line on Cuba.",
+        "via": "Cuban-American voter support",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "FIU Cuba Poll: Cuban Americans Stick With the GOP",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjFxUFhKWWhYbnRIMmNqdm1tenI5TmhFbjV0SXJVZ21TR0xXOFlVczFLQTlSNFlfdDdtLVdFYXZ0VmZNakdpZTJOcXB6T1puR1BEVC11endEZkIzMzlyaWk5XzktYVNYeUtWQ3Q5dWtMQjZOckF5cnVUYTVaaWM4eWUwM1cyZ1F6U0N5V2ZyLWxmTkJfajNyTy1ldlAyT25B?oc=5",
+            "publisher": "The National Telegraph"
+          }
+        ]
+      },
+      {
+        "id": "cuban-americans-sour-on-republican-immigration-policy",
+        "title": "Cuban Americans sour on Republican immigration policy",
+        "when": "2026-10-30",
+        "place": "Miami",
+        "lat": 25.76,
+        "lon": -80.19,
+        "what": "Many Cubans who voted for Trump are turning against Republican immigration policies, adding migration pressure to the politics of US Cuba policy.",
+        "via": "migration-policy backlash",
+        "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
