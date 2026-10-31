@@ -3496,6 +3496,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-31T02:10:57.006Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 4 new uncovered headlines"
+    },
+    {
       "at": "2026-10-31T01:10:57.386Z",
       "screened": 140,
       "accepted": [],
@@ -5150,119 +5159,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-29T14:08:45.165Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Lagarde to step down as ECB president",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US sanctions Rwanda's defence ministry over DR Congo",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Spain high-speed train crash kills 69",
-          "reason": "A rail accident with no policy or cross-border effect.",
-          "headlines": 12,
-          "publishers": 6
-        },
-        {
-          "title": "Russian strikes on Ukrainian train station and Kharkiv",
-          "reason": "These are routine strikes in an ongoing war and decide nothing new across borders.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UK living standards and minimum wage commentary",
-          "reason": "Think-tank commentary and a domestic wage decision with no cross-border channel.",
-          "headlines": 5,
-          "publishers": 3
-        },
-        {
-          "title": "Cruise ship voyage ended by fuel costs",
-          "reason": "A company-level story with no state action.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Record purges at China party gathering",
-          "reason": "Internal party discipline with no clear cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Prosecutors seek death sentence for Yoon",
-          "reason": "A court case with no effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "El Salvador sends troops to Haiti",
-          "reason": "A small rescue-linked deployment of unclear scale, so rejected under the strict standard.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Afghan opium output jumps",
-          "reason": "A report on production with no dated decision or state action.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "ECB holds rate at 2.5%",
-          "reason": "This is the ECB rate decision already covered by the ECB inflation and rates event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "US Q3 GDP beats forecasts and the Fed decision",
-          "reason": "US growth and inflation data and the Fed press conference belong to the existing Fed hold event.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "Iran peace talks: Vance outreach and Hegseth firing",
-          "reason": "These are diplomatic and military developments in the US-Iran war already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Putin praises Musk as Russia seeks a Starlink alternative",
-          "reason": "This is part of the Starlink and Ukraine war story already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "UN vote on US embargo on Cuba loses support",
-          "reason": "This is part of the US-Cuba pressure story already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "Israel election aftermath and Arab parties",
-          "reason": "These cover the Israeli election already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "israel-election-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
