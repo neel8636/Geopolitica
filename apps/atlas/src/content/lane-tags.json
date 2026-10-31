@@ -222,9 +222,9 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "1kr3k9u",
+    "hash": "liongr",
     "tags": [
       {
         "point": "HORMUZ",
@@ -236,33 +236,34 @@
         ],
         "costPct": [
           15,
-          50
+          40
         ],
-        "why": "On 30 Oct 2026 Iran's Revolutionary Guard reported three tankers on fire in the strait, Oman rescued 25 crew from a burning tanker, and Gulf exports are running at 60-80% of normal, so transits face attack risk, delays and war-risk premiums.",
-        "action": "Ask your forwarder or carrier for current war-risk surcharges and sailing status on Hormuz transits, and hold 7-10 days of buffer stock on Gulf-sourced or Gulf-bound cargo.",
+        "why": "On 30-31 Oct 2026 Iranian forces reported three tankers hit by mines or limpet attacks and on fire on the IMO-approved route, and Gulf exports are running at only 60-80% of normal, so transits face delays, war-risk premiums and rerouting.",
+        "action": "Ask your forwarder for the current war-risk surcharge and confirm in writing which Hormuz-dependent bookings can be held or rerouted. Add 7 days of buffer stock on Gulf-origin or Gulf-bound cargo.",
         "sources": [
           0,
           1,
-          2
+          2,
+          3
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "delay",
-        "likelihood": 0.55,
+        "effect": "surcharge",
+        "likelihood": 0.7,
         "delayDays": [
           2,
           6
         ],
         "costPct": [
-          8,
-          25
+          10,
+          30
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, and the tanker attacks reported on 30 Oct 2026 and the disrupted flows through the strait make vessel schedule slips, waiting time and added insurance costs likely for cargo calling there.",
-        "action": "Ask your forwarder for a contingency routing for Jebel Ali cargo, such as discharge at Khor Fakkan or Fujairah with trucking, and confirm before booking who pays any war-risk surcharge.",
+        "why": "Jebel Ali lies inside the Strait of Hormuz, and with tankers hit there on 30-31 Oct and exports at 60-80% of normal, vessel schedules, insurance and freight rates for calls there are under pressure.",
+        "action": "Ask carriers whether Jebel Ali calls are being omitted or shifted to ports outside the Gulf, such as Khor Fakkan or Fujairah with onward trucking. Pre-book trucking from those ports for time-critical cargo.",
         "sources": [
-          1,
-          2
+          0,
+          3
         ]
       },
       {
@@ -270,26 +271,32 @@
         "effect": "security",
         "likelihood": 0.4,
         "delayDays": [
-          7,
-          14
+          3,
+          10
         ],
         "costPct": [
-          10,
-          35
+          5,
+          15
         ],
-        "why": "A 30 Oct 2026 report says Houthi attacks on Saudi refineries are tightening supply, which points to renewed Houthi targeting of Saudi and Red Sea infrastructure and raises the risk to shipping on the Red Sea.",
-        "action": "Ask your forwarder whether Red Sea or Suez sailings are exposed this month, and get a priced Cape of Good Hope alternative for Asia-Europe bookings.",
+        "why": "Houthi attacks on Saudi refineries reported on 30 Oct 2026 point to renewed Houthi activity around the Red Sea, which could threaten shipping or raise insurance costs there within the month.",
+        "action": "Check your forwarder's Red Sea routing and surcharge terms for the next 30 days. Get a quote for the Cape of Good Hope routing as a fallback on Asia-Europe cargo.",
         "sources": [
-          3
+          4
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-        "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "published": "2026-10-30T18:33:29.000Z"
+        "title": "Oil Tankers Hit in Hormuz During Iran War",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01MEUtX1dOY0dpSW5SZEljUzhuLUQ4dXk2M3RuVF84MnotLUdFMEQxRnYtby1DMHF1aGEzR054MnJhaTFzQU1XaWJ3OWdOem9vVlJZZk5VbDhiNWc3cEVrMzY1MVlOa09scjA1TUdJYzU?oc=5",
+        "publisher": "Oz Arab Media",
+        "published": "2026-10-31T01:00:16.000Z"
+      },
+      {
+        "title": "IRGC Claims 3 Tankers Hit Mines on IMO-Approved Hormuz Route as Limpet Attack Pushes Brent Past $117",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkaDQ5Vkk4U0Zma1BtYUdqbWFRQmRZWWt2bk5mTFdvaTVHRFNrZHQtVXB6cjBrRWZpSFM0X1lVZlRONHg5aFJLV0NTUVgycEhURFo0RDdGRnIwdjQyVmZBMXMyOVgtRTB1YlY0Mnh3?oc=5",
+        "publisher": "https://houseofsaud.com/",
+        "published": "2026-10-30T22:01:35.000Z"
       },
       {
         "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
@@ -373,16 +380,16 @@
     "headlines": []
   },
   "ecb-inflation-and-rates": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "zqlscx",
+    "hash": "5eb5kb",
     "tags": [],
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-10-30T18:10:28.958Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "f6yp1q",
+    "hash": "m0x5ci",
     "tags": [],
     "headlines": []
   },
@@ -394,9 +401,9 @@
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "1pwjel0",
+    "hash": "11kwhh7",
     "tags": [],
     "headlines": []
   },
@@ -408,16 +415,16 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "1wwv8r1",
+    "hash": "1t23h4q",
     "tags": [],
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "1beees8",
+    "hash": "gqy7ht",
     "tags": [],
     "headlines": []
   },
@@ -429,9 +436,9 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "1jlwst0",
+    "hash": "1fifsrp",
     "tags": [],
     "headlines": []
   },
@@ -656,9 +663,9 @@
     "headlines": []
   },
   "binance-hack-north-korea-2026": {
-    "at": "2026-10-30T22:10:41.465Z",
+    "at": "2026-10-31T04:11:19.411Z",
     "by": "pipeline",
-    "hash": "1p6lzq4",
+    "hash": "1cub7c4",
     "tags": [],
     "headlines": []
   }
