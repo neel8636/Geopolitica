@@ -3380,6 +3380,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-31T07:11:09.595Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 180 min ago"
+    },
+    {
       "at": "2026-10-31T06:11:13.673Z",
       "screened": 0,
       "accepted": [],
@@ -4990,150 +4999,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-29T18:09:06.342Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US and Japan agree joint missile production in Japan",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US sanctions Rwanda's defence ministry over DR Congo",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "EU-Canada summit in Montreal; EU backs off associate-member talks",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "El Salvador sends 2,000 troops to Haiti",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Russian drone strike on Ukrainian rail station kills 14",
-          "reason": "It is a routine strike in an ongoing war, with no new cross-border decision or flow named in the headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Spain train crash",
-          "reason": "It is an accident with no state-driven effect abroad.",
-          "headlines": 9,
-          "publishers": 5
-        },
-        {
-          "title": "DHS immigration agents data leak",
-          "reason": "No state action or clear cross-border effect is reported.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "China outcry over Hello Kitty spy show and Mbappe",
-          "reason": "These are company and sport stories with no policy decision.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Record purges at Xi party gathering",
-          "reason": "It is an internal party matter with no clear external ripple.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Prosecutors seek death sentence for Yoon",
-          "reason": "It is a domestic court case with no clear effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Egypt shuts Mada Masr",
-          "reason": "It is a domestic press crackdown with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Lagarde's possible early ECB exit",
-          "reason": "It is analysis and speculation, not a dated decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Pakistan activist Imaan Mazari jailed for 10 years",
-          "reason": "It is a domestic court case with no clear effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "India raises growth forecast",
-          "reason": "It is a forecast with no policy decision or cross-border channel named.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "US Q3 GDP beats at 3.4% as inflation accelerates",
-          "reason": "The growth and inflation data and the Fed reaction belong to the existing Fed-on-hold-despite-inflation event.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "fed-holds-rates-inflation-2026"
-        },
-        {
-          "title": "ECB holds rate at 2.5%",
-          "reason": "This is the ECB rate decision already tracked on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "Burnham denies gagging ministers on EU ties",
-          "reason": "This is part of the UK-EU closer relationship push already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "burnham-eu-free-movement-talks-2026"
-        },
-        {
-          "title": "UK Budget coverage",
-          "reason": "These are coverage of the UK Budget event already on the map.",
-          "headlines": 3,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Vance contacts Iran as Hegseth fires top planner",
-          "reason": "The Iran peace-talk moves and the Pentagon firings amid the Iran war are part of the existing Gulf war event.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Putin praises Musk, Russia seeks Starlink alternative",
-          "reason": "This is the Starlink and Ukraine war thread already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "ukraine-starlink-restrictions-2026"
-        },
-        {
-          "title": "UN vote on Cuba embargo support at 30-year low",
-          "reason": "This belongs to the existing US-Cuba pressure event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "rubio-cia-cuba-appeal-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
