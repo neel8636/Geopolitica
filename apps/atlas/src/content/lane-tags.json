@@ -260,70 +260,70 @@
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-31T11:11:25.466Z",
+    "at": "2026-10-31T17:11:52.868Z",
     "by": "pipeline",
-    "hash": "15ue6yy",
+    "hash": "1viqc0q",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
         "likelihood": 0.95,
         "delayDays": [
-          1,
-          5
+          3,
+          10
         ],
         "costPct": [
-          10,
+          15,
           40
         ],
-        "why": "Limpet-mine attacks and tanker fires in the Strait of Hormuz were reported on 30-31 Oct 2026, including an IRGC claim that three tankers hit mines on the IMO-approved route, and Gulf exports are running at only 60-80% of normal.",
-        "action": "Ask your forwarder for the current war-risk premium and the Hormuz transit status of each booking, and add 5 days of buffer stock for cargo moving to or from Gulf ports.",
+        "why": "On 2026-10-30 the IRGC reported three tankers on fire after hitting mines on the IMO-approved Hormuz route, and Gulf exports are already running at only 60-80% of normal, so transits face delays, convoy waits and war-risk premiums.",
+        "action": "Ask your forwarder for the current war-risk surcharge and the vessel's Hormuz routing, hold a 10-day buffer on Gulf-origin cargo, and get quotes for alternatives such as Red Sea ports with a land bridge.",
         "sources": [
-          0,
           1,
+          3,
           2,
-          3
+          0
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
-        "likelihood": 0.6,
+        "effect": "delay",
+        "likelihood": 0.7,
         "delayDays": [
-          1,
-          4
+          2,
+          7
         ],
         "costPct": [
-          5,
-          20
+          10,
+          25
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where mine attacks and tanker fires on 30-31 Oct 2026 are disrupting transit and pushing up war-risk charges.",
-        "action": "Ask your forwarder to quote Jebel Ali bookings with war-risk and congestion surcharges included, and compare routing via an Oman or Red Sea port with onward trucking.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, and the mine strikes on tankers reported 2026-10-30 add to restricted and irregular transits, so vessel calls to and from the port face schedule slippage and extra surcharges.",
+        "action": "Confirm sailing schedules and any Gulf emergency surcharges with your carrier before booking, and build 7 days of buffer stock for cargo shipped via Jebel Ali.",
         "sources": [
-          0,
-          2,
-          3
+          1,
+          3,
+          2
         ]
       }
     ],
     "headlines": [
       {
-        "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQnlMdXJLYy1jRGpmbmEtYVdENVRGYlJwNlZ5c0ZYYjNCQjQ4cHE2WnBMeFd5VWM1cl9OajZvSk0ybUhCREk5UHFHNUJmRmlvZEZVX0RrcUw3SXdoQTZweHpwcExpb05YWERlS1NYUjFETWNQMmowVWk4a1p5SVVFY19PaFhwYm5CYnktZjIxd18yeTZOMkx3dGctTDB4UXpONUF6cDVMN2NrdkFjeFVyX3lZMXFiQUxOM3RsV2VTcU5HZw?oc=5",
-        "publisher": "DW.com",
-        "published": "2026-10-31T05:11:42.000Z"
-      },
-      {
-        "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmtrMGdTY1l0TXhmX2xJcFdJRllzTXpsT0lSSFhhbWQ2Y3NPbUhLSTByYVdFaU1MdmJuVTA0UWRoNjF2TlBYWjBNWk1fYmhhV0dMRzg2b2RJblNabTVXREhvVkFXaFRtYzJ3T0ZaNU4zNWNkQ3ZRRVU2THhmeEE1OEJ6bE4zU3o0MXQtekFiNXg2andqVnFEWTFRLVhYX2xHVGp30gGoAUFVX3lxTE9GV3BYaG9nbDM0LWQyOWduOXZIeV9nWVl6NGR6cVlqLTB4cHdFWkV3U2NQTjRhNGpkSnF5QWQ4RFhVV0JvRTNVRUo4SmVWZHI1Vll3emlOTWRkQUd4bHdpNmZubGg4WEhRYzloYXNQUVZ4ZVFtTHVhbW9JMlNLOV9ncFRZNGlSdmVvWEhMTkN6emJ0QlEzYU13bzFqSHYwOHBDSHRUZUxjcw?oc=5",
-        "publisher": "Al Jazeera",
-        "published": "2026-10-31T04:11:38.000Z"
+        "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU1BTkRDTWgwMEJBYkYwNzZ2c2NyZHEtaldfdlZzNjdUbS0zZEFmWW9zYzZma1pFc1FtclZTUnZSYnhRd1FwZTRIYXgtcUpEQzBwM1MxY1pyek9ZOXBSbzF1dmYzNGdRMmphWlNqc2RqLTBSTWgyV0dZWTFhOGJJaE13aw?oc=5",
+        "publisher": "EnergyNow.com",
+        "published": "2026-10-30T22:36:38.000Z"
       },
       {
         "title": "IRGC Claims 3 Tankers Hit Mines on IMO-Approved Hormuz Route as Limpet Attack Pushes Brent Past $117",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkaDQ5Vkk4U0Zma1BtYUdqbWFRQmRZWWt2bk5mTFdvaTVHRFNrZHQtVXB6cjBrRWZpSFM0X1lVZlRONHg5aFJLV0NTUVgycEhURFo0RDdGRnIwdjQyVmZBMXMyOVgtRTB1YlY0Mnh3?oc=5",
         "publisher": "https://houseofsaud.com/",
         "published": "2026-10-30T22:01:35.000Z"
+      },
+      {
+        "title": "SCARY WEEK FOR OIL – OCTOBER OIL GAINS EXCEED 13% – Oil Climbs More Than 2% Friday as Middle East Attacks Intensify – WTI and Brent Finish Week Higher, October Gains Exceed 13%",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQmFkYjFhcm9XeWlHUmhHUlhhV25DWmJjbnlWMTFqTGNCUFdMR3dYdm9Yekx4RURTaks1VkFlT2JUWEVLSmVrYk9nd0RZSnBLQ09BdUtJX3ZmX0NaOEctajJpbjY5SXdEWFRoUmIzMTBMNENOaDhSejNDeVBUb0pFMWRkTXFNUFlodjJETVN2dVZjMmhONVJUTXc1V3pkeUtpX1VQa2hIM1dIVTlFS2kzNDUzMlViZXV3ZjU3X2lHTlhPcjBoajBLZ1VuTVNJVFJKSk0zQWRCaHpQZzZ2MjFtUjJxQ0cySWJ6aHNsUnNPZlV4Qk9BWi1vMmFGV2ZEWTdISTBLcEtHdmRSQQ?oc=5",
+        "publisher": "EnergyNow.com",
+        "published": "2026-10-30T21:01:00.000Z"
       },
       {
         "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
@@ -334,24 +334,24 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-31T07:11:09.595Z",
+    "at": "2026-10-31T17:11:52.868Z",
     "by": "pipeline",
-    "hash": "2f0r5u",
+    "hash": "1kllqzj",
     "tags": [
       {
         "point": "GENOA",
         "effect": "delay",
-        "likelihood": 0.5,
+        "likelihood": 0.55,
         "delayDays": [
           1,
           3
         ],
         "costPct": [
           2,
-          6
+          5
         ],
-        "why": "NBC reported on 2026-10-30 that Italy faces widespread strikes and port blockades during the USB-led nationwide strike, and the unrest is ongoing, so further stoppages or picket lines at Genoa's terminals and gates are plausible over the next weeks.",
-        "action": "Ask your forwarder for Genoa gate and vessel status updates every day. Move time-critical containers to a Genoa departure or pickup slot before any announced strike date, or have a La Spezia or Marseille routing ready. A",
+        "why": "NBC reported on 2026-10-30 that Italy is facing widespread strikes and port blockades after the nationwide general strike and protests, so gate access and terminal handling at Italy's main container port could be disrupted in the coming weeks.",
+        "action": "Ask your forwarder for the current status of Genoa terminal and gate operations, and for the cost and transit time of rerouting via another Mediterranean port. Add 3 days of buffer stock for Italy-bound or Italy-origin c",
         "sources": [
           0,
           1,
@@ -367,16 +367,16 @@
         "published": "2026-10-30T23:49:04.000Z"
       },
       {
+        "title": "General strike and protests across Italy: clashes in Rome, rallies in Turin and row over strike restrictions",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkF6WFBZSmF1S3dEanVfc3ZPcGpkSWluZndxd21hQVY1czhDaGZJNDNZNEp1clhQcV9NTmc4QWMxd1VVSmNpRXdOQmFRUldBM18xbjE4dmNIQ2w3aGNfSE5wSjE5WDExTGNiNy1WaUR4VEwxdmhQUEg1cEw3Mm1Sa0RFeE56RW95RFRrYkZsTEtnT096eWE4cUh3cTdlcVpDTnpDWW14N0J1UnctdnVlQ3ZuZTdhSXBsU3k5U0dLbWtWMVdSWGtBM0pR?oc=5",
+        "publisher": "www.wltv.it",
+        "published": "2026-10-30T18:57:53.000Z"
+      },
+      {
         "title": "Mass protests sweep Italy during nationwide strike",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
         "publisher": "Reuters",
-        "published": "2026-10-30T20:51:43.000Z"
-      },
-      {
-        "title": "USB strike: student and worker marches in 60 cities. Tensions in Rome and Turin",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRnI5QzJQQS1GUnBjY24yMWtpQnI0WWdRWUhlLWZQdnJFTXoyV0VwZm5LelFZNEJmNzRueklndG5JSzRodTl5TmRDZHZsNHMwa0ZlbUZpM3dqcjVMMUNmeGMxR21qNFVvMllyMVlRWmFyMGtZR0hMRExnLWRsTE5odVJwR0hQNFRqNnBPNGpzUGlCdUw3UzEwWnlNNWJIRndiamYwdWpYTjByLWxhcnVmQWxUODFFTjZzVEYySjlucTZrNHM1OTlJZl9jdzBZTXd5N2JqQXJrZjRucHM?oc=5",
-        "publisher": "Il Sole 24 ORE",
-        "published": "2026-10-30T13:10:47.000Z"
+        "published": "2026-10-30T16:49:00.000Z"
       }
     ]
   },
@@ -519,16 +519,16 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-31T11:11:25.466Z",
+    "at": "2026-10-31T17:11:52.868Z",
     "by": "pipeline",
-    "hash": "1dlbynj",
+    "hash": "1315yf9",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-31T11:11:25.466Z",
+    "at": "2026-10-31T17:11:52.868Z",
     "by": "pipeline",
-    "hash": "1czf4po",
+    "hash": "4rnjzh",
     "tags": [],
     "headlines": []
   },
@@ -615,9 +615,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-10-31T11:11:25.466Z",
+    "at": "2026-10-31T17:11:52.868Z",
     "by": "pipeline",
-    "hash": "8uckjb",
+    "hash": "1r63usc",
     "tags": [],
     "headlines": []
   },
@@ -683,9 +683,9 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-31T11:11:25.466Z",
+    "at": "2026-10-31T17:11:52.868Z",
     "by": "pipeline",
-    "hash": "ncruwa",
+    "hash": "183gyqx",
     "tags": [],
     "headlines": []
   },
