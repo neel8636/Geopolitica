@@ -105,10 +105,6 @@
       "at": "2026-10-27T21:06:01.574Z",
       "verdict": "reject"
     },
-    "0cd6fb0f29c7": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "existing"
-    },
     "92276c920554": {
       "at": "2026-10-28T06:06:35.889Z",
       "verdict": "reject"
@@ -133,69 +129,9 @@
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
     },
-    "36d01cfefffa": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "reject"
-    },
     "3b4ab57bd224": {
       "at": "2026-10-28T03:06:24.951Z",
       "verdict": "reject"
-    },
-    "a9e8c91b64ad": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "reject"
-    },
-    "e4df2c0f723d": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "reject"
-    },
-    "bcc9fb0c2601": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "reject"
-    },
-    "9c2aabe5af39": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "fc22cc8da0e0": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "fab3686353c4": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "e9a5d96704cf": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "e63c0c9edf06": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "8cddf144fc33": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "acd888d90569": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "3b3db85a526a": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "da23d8773a24": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "aef29cc2a1b9": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "f56a930be19a": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
     },
     "ea0ec7319b84": {
       "at": "2026-10-28T03:06:24.951Z",
@@ -204,26 +140,6 @@
     "9fdd38e7f137": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "existing"
-    },
-    "633a214d0522": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "dfd0302b1a3b": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "19aad8b2cf08": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "96cb75d537a9": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
-    },
-    "c7db17386122": {
-      "at": "2026-10-27T18:05:53.302Z",
-      "verdict": "no story"
     },
     "378d7de76456": {
       "at": "2026-10-27T21:06:01.574Z",
@@ -3320,6 +3236,15 @@
   },
   "runs": [
     {
+      "at": "2026-10-31T18:11:47.435Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 7 new uncovered headlines"
+    },
+    {
       "at": "2026-10-31T17:11:52.868Z",
       "screened": 129,
       "accepted": [],
@@ -4917,15 +4842,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 120 min ago"
-    },
-    {
-      "at": "2026-10-30T04:09:38.265Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "only 4 new uncovered headlines"
     }
   ]
 }
