@@ -3978,73 +3978,93 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-31T01:10:57.386Z",
+    "at": "2026-10-31T13:11:43.127Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "deadly-church-attack-in-karak",
-        "title": "Deadly church attack in Karak",
-        "when": "ongoing",
-        "place": "Karak, Jordan",
-        "lat": 31.18,
-        "lon": 35.7,
-        "what": "A deadly attack on a church in Karak, Jordan, the previous week was the trigger for Jordan's retaliatory airstrikes on militants in Syria.",
-        "via": "retaliation motive",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Syria and Jordan agree to form joint security committee following Karak church attack",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDJuT29WYjNYZjlEcm5ucDdaSDlKWXdvQmk4R21xRUU5TzJ3VV9CelBGMGlJQlZQNUdVOXJJQ3FqaVVBY2o2bEVGajZkWk4wYndSaldVNzZKcG9uX2cxZGJCYkk5SW9KWGNsc3c5SDN0Z0Z0WHVTZW8tcE92eUkyZEQ0eWE5ZWR2V0dIdDdqcEJUc2lFRmxBcU01VzZqd3NzVVdaUmpoZlZEUTZRdzFYd1FjbGRKa0hIMkR0WVN3akJNVXpZ?oc=5",
-            "publisher": "SyriacPress"
-          },
-          {
-            "title": "Jordan carries out retaliatory strikes in Syria after deadly church attack",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHhWOWtWZnFLNVBzd3FkV1lHeEcwNGNuV29kZURIWlpRdk5vZVdzU0VGNlNJWlN6LUFWNUVpUDNmXzdHb3NyNEZNZzVNWHpDOWdGYnhQdGp6Y0ZKZmh0Vmw3QkV4QzdNS2c0WURKcG1KTUt4cGRIUEc3aVVveVFoQUtSNWVhZzcyNksxUWJVampwc2I5RTZPUzJQeVByZ205dURETm5qUlMzZ1pwS3JR?oc=5",
-            "publisher": "www.christiantoday.com"
-          },
-          {
-            "title": "Jordan attacks militants in Syria in retaliation for last week’s church attack",
-            "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
-            "publisher": "The Guardian World"
-          }
-        ]
-      },
-      {
-        "id": "jordan-arrests-three-church-attack-suspects",
-        "title": "Jordan arrests three church attack suspects",
-        "when": "2026-10-26",
-        "place": "Amman, Jordan",
+        "id": "deadly-attack-on-greek-orthodox-church",
+        "title": "Deadly attack on Greek Orthodox church",
+        "when": "2026-10-30",
+        "place": "Jordan",
         "lat": 31.95,
         "lon": 35.93,
-        "what": "Jordanian authorities arrested three suspects over the deadly church attack, adding to domestic pressure for a firm response.",
-        "via": "pressure for a response",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Jordan arrests three suspects over deadly church attack",
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss",
-            "publisher": "Al Jazeera"
-          }
-        ]
-      },
-      {
-        "id": "security-vacuum-in-southern-syria",
-        "title": "Security vacuum in southern Syria",
-        "when": "ongoing",
-        "place": "Southern Syria",
-        "lat": 32.7,
-        "lon": 36.6,
-        "what": "Analysts describe a security vacuum in southern Syria that leaves militants room to operate, which Jordan's strikes on targets there exposed.",
-        "via": "militant freedom to operate",
+        "what": "A deadly attack on a Greek Orthodox church in Jordan prompted calls for a response beyond condolences and set up the retaliatory strikes in Syria.",
+        "via": "public pressure for retaliation",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Jordanian Strikes Lay Bare Security Vacuum in Southern Syria",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZHk1ZHJHQ25NTzFlTGZNY3VuY0ZoNFFIYlZyWS1BSTNYcW1kOWNwT2lqLUhCUHJaaUVzZzR3Qnl6a2FqYUppbHVvd0NJdmdEYTdMdTlGVjJ6XzQ5a3dieEs5cm9GdlMtajdLRGdyR3BsRnplS1RWcUNTTm8yelZCNnFnTElhU040ZDRqT194QVd3dWVz?oc=5",
-            "publisher": "Foundation for Defense of Democracies"
+            "title": "Jordan church attack on Greek Orthodox demands more than condolences",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDRkSUxaM2wwQlJiMkIwWkVOS0NnSVJMX05GM0VubWxMalRvZndPSWVoLVA5bWJLMmFOcUlHOFpabjY2TUYzTS0tbUNSSjI0c3VxMjFIV09Pd2xVVUY1S1I1Z2R1NHhrbFBtck43cVVrRDNwdEIxb3o0MkJ1REJnUnI0N0I5Mms?oc=5",
+            "publisher": "newsfire.gr"
+          }
+        ]
+      },
+      {
+        "id": "persistent-isis-threat-in-southern-syria",
+        "title": "Persistent ISIS threat in southern Syria",
+        "when": "2026-10-29",
+        "place": "Daraa, Syria",
+        "lat": 32.62,
+        "lon": 36.1,
+        "what": "Analysis notes that Jordan's strikes highlight a persistent ISIS threat, which shapes Amman's security reasoning and raises tension with Damascus.",
+        "via": "militant threat near border",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Jordan’s Strikes Highlight Persistent ISIS Threat, Fuel Tensions with Syria",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTGpsYVlMLWZ2bGFxTFlGQ0xMTTRWb1QyV0J0R1hIS0g2TVFhTEpmeS1PNFliR1NxV3ZST0Z0LXg0WFVqQ3Q5LS14SWh3NnVYMnFyQk5BV3Y5NVBTYXJPQTQtaVFDWDEyYlJsMV9JZzRhdWNuUGYxMkxuMEpoYXg3LTZsUDJ4aGtzeUZyeW52OXNyWDY1UHBjSjlzcHdHT0dMT0tTTjVWYmljN0tvZmpramVR0gG0AUFVX3lxTE5IZHlxNGxZSDdOMTNORy1JZTFwU3RIcUMxOW9HZ0xvR1NQbDlIbml2OFMtZ2lGYV90elVMd211dEsxNkVGYWw0N2FveWs3akM0TzB5VlNCUkEzVlBrZUhLWHRKZGhwRG1IVEtKVVJSZUVBd2dhS0VoNWJ4NnVTSERRUGF4dEc4MjAzM0laWnhrN2JUc1RrSkpvS3NQMVJTb0NZTU9FQnZ4RUFoV3IzUUdUcmR6ZA?oc=5",
+            "publisher": "VOA - Voice of America English News"
+          }
+        ]
+      },
+      {
+        "id": "armed-group-of-14-stopped-at-border",
+        "title": "Armed group of 14 stopped at border",
+        "when": "2026-10-31",
+        "place": "Jordan-Syria border",
+        "lat": 32.57,
+        "lon": 36,
+        "what": "Jordan's army said border guards stopped 14 armed individuals crossing from Syria after heavy fire, though one report says the army later retracted its infiltration statement.",
+        "via": "border escalation risk",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Jordanian forces thwart fighters’ attempt to cross from Syria",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnB2LXBhdi1pRHllNTlvNVpOYmFjd1JkNkVPWTFqa3dNbmpNSUJqOE1ScUE0S0VlNExUSjJ1Zzd2Y3NmMDdIR1RKd3VyeV9aZDZIZHc3bEhaWGt5T3NJS3RueW80V1lMdDRnMkdIMktrY0ZiVllBYjU3LW0tS2NWMEd5QllKQkh5?oc=5",
+            "publisher": "Latest news from Azerbaijan"
+          },
+          {
+            "title": "Jordan stops fighters entering from Syria amid heightened border tensions",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcXNLQjN2ei1zVmZYbEMzaWRGUEJuNE9xWUhrVVQzd1ZJbDdYT0FTeW5iS2pDNDA1ZThmTW9PTHpGX3BwOWQwZVpXT1gyTDJRWk1SRG9IU1UxY3ItcU5RVVBBNzYtbXJnZ3didzVWclRGVXY4QTR5YVJrczRuTTJWN2FYbmRRVktRUnQ2TDc2NnlGVXdzUXFsWXp2TnRDcmRRcWoxNHp6cF9oaUowNWtQTlhMOTNCR3ZIaDV0NnRlQWJJWmtCZ3lydQ?oc=5",
+            "publisher": "The National"
+          },
+          {
+            "title": "Jordanian Border Guards Stop 14 Armed Individuals Crossing From Syria After Heavy Fire: 5 outlets compared",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNlM4VFlJRTZHbmFGdzg1MVZfeEVCRWNZV3B4UDJFZXdzeThYVE1EMDlfbFN1MTZiNG5NMm1PRXdvN0g3QzJzd01XR2Q1bDVYOWVnMTdsek9ETFdwOXhlR2ZxRDc0OWY0TS1OTXV1a2F2dXVPRDNNMzI2dzNSakNTcHV6bTF1cldYTV9OakpRdUpwa2JNUExiVDlRYUJ0UjJoWUZJOVdjSC1MXzRZS3hLbTVNdVJzZHk1enZRR0J5OTVzMllqYklnTFpjdlBOVjNuMUUyYkVMbWltRWx3RWo2c1NvNnR0ajFySWc?oc=5",
+            "publisher": "NewsCord"
+          },
+          {
+            "title": "Jordan Stops Fighters Attempting to Enter From Syria, Armed Forces Say",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0ck9HN3piQWtVTGFYdk1WRS1xcW1mcGQxMnJPNFJzOG1DWGkxU0lQaEJsZFRvQ054bUU0WW5QUXpuQmN6VjNtMVNIQi1QZ0I2aWxB?oc=5",
+            "publisher": "شبكة تواصل الإخبارية"
+          },
+          {
+            "title": "Jordanian army retracts statement on armed infiltration attempt from Syria",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEJDYlVfQ2ZTY1hxQ0tMZTR4VDNNS3RnbXVXb25xQTczeDBTSXBqMzJ3a0F4aXZPeGJNN09weGlBREZwWjhLTDVWRmlwN0MwRmRoV0JtcVNXMk1pdjU3QTBfTnBsdUg0Z3RZcW1YVFl2WElVSmgtU1JtWWZGWWM1blZNMGZEeFFfdDlsVHQ2TlNQVkw3UXNnNUp1QXRWNU9PR2dCYjJUZnVRSVF1U1NIaUVyM2UwS2VFdXc?oc=5",
+            "publisher": "Türkiye Today"
+          },
+          {
+            "title": "Jordan Says It Stopped an Armed Group of 14 Who Attempted to Cross From Syria",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOUs0Q0lRWk5ZcF9rMlN0T3ExMDFyaVMyZDFiUUNhd0p1MDFTQUpSUmowVWlJaU9RYklJajVrdXRKNXB3Sm16Z3pxY1FENHJvUVc2d0tKeW9uZmQ4REtuYThfUDhhWXdZMTBmREpwcWJRcjdmRURjVXlIdG1Kc1EzdEdIc1U0R01VS2FjaDFocEhDeGc1YVNDUkVwcm4zNmozbU1aZVEtQXNaeWJKdTRUbHpBd0FmX0lQaWxQZWxPd3Z3cDZWcEJISXVzZVJ4X3I0RDRKaVpuel9xeGtCTnhvUG92RGoyMV80V3YtcmFMYlVuZElxTmRKYW9zTFVmcWtpV2djQ2x0cFVnSV8tOXh4cEJB?oc=5",
+            "publisher": "Haaretz"
+          },
+          {
+            "title": "Jordan military says armed group suffered casualties in Syria border clash",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0lHSk9TV0tLSm9jN2Rfc1ZDWkhwY0tyQXVwbF9tZzNmLUtTMkdTN2FWWEdIUXFYaHFadXItV0EtQ3MzUjZIUzNKNjBmSDR1dndsRWdMUmx2aW1XRmhLQ2kzVzFZanNoWEhrSTNGQm14b3VlNEgyUFB1YVRsSnRsZkhPX2IzYzRKYV9oWDA5NUI2ZnMwSEt5NEJR0gGaAUFVX3lxTE53SUdKT1NXS0tKb2M3ZF9zVkNaSHBjS3JBdXBsX21nM2YtS1MyR1M3YVZYR0hRcVhocVp1ci1XQS1DczNSNkhTM0o2MGZINHV2d2xFZ0xSbHZpbVdGaEtDaTNXMVlqc2hYSGtJM0ZCbXhvdWU0SDJQUHVhVGxKdGxmSE9fYjNjNEphX2hYMDk1QjZmczBIS3k0QlE?oc=5",
+            "publisher": "Khaleej Times"
           }
         ]
       }
