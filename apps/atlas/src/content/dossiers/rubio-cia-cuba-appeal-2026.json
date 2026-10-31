@@ -1,17 +1,18 @@
 {
   "slug": "rubio-cia-cuba-appeal-2026",
-  "title": "Rubio's open call for Cubans to work with the CIA",
-  "deck": "The US Secretary of State has publicly urged Cubans seeking change to form a 'discrete partnership' with the CIA, turning a long pressure campaign on Havana into an explicit appeal for regime change.",
-  "updated": "2026-10-24",
+  "title": "Rubio's open CIA appeal to Cubans",
+  "deck": "The US secretary of state publicly told Cubans seeking change that 'now is the time' to form a 'discrete partnership' with the CIA, sharpening US pressure on Havana just as international backing for US Cuba policy hits a 20-year low and US midterms approach.",
+  "updated": "2026-10-31",
   "status": "developing",
-  "region": "Cuba, United States, Caribbean",
+  "region": "Cuba, United States, Latin America",
   "tags": [
     "Cuba",
-    "US foreign policy",
-    "CIA",
     "regime change",
-    "sanctions",
+    "CIA",
+    "US diplomacy",
+    "embargo",
     "migration",
+    "Cuban American politics",
     "Venezuela"
   ],
   "readingMinutes": {
@@ -22,51 +23,35 @@
   "fuel": [
     {
       "aspect": "politics",
-      "title": "Rubio tells Cubans 'now is the time'",
-      "how": "The top US diplomat is openly asking Cubans who want political change to act, which makes regime change a stated aim and not just a hint.",
-      "sourceIndex": 2
-    },
-    {
-      "aspect": "security",
-      "title": "Trump floats warships intervening after Iran",
-      "how": "Hours before Rubio spoke, Trump told a rally that warships could intervene on their return from Iran, which puts a military backdrop behind the CIA appeal.",
-      "sourceIndex": 2
-    },
-    {
-      "aspect": "trade",
-      "title": "Sanctions policy on Havana in play",
-      "how": "The event summary says the appeal could affect US sanctions policy, so economic pressure is likely to move together with the political message."
-    },
-    {
-      "aspect": "displacement",
-      "title": "Migration toward the US put at risk",
-      "how": "The event summary says the appeal could affect migration flows toward the United States, since instability or a crackdown in Cuba tends to push people to leave."
+      "title": "Cuban American voters sour on Republican immigration policy",
+      "how": "A key constituency behind Washington's Cuba stance is turning against Republican immigration policy, which shapes the domestic politics around how hard the administration presses Havana.",
+      "sourceIndex": 4
     }
   ],
   "card": {
-    "headline": "The US is now openly asking Cubans to work with the CIA to change their government",
+    "headline": "A top US diplomat has asked Cubans, in public, to work with the CIA for change",
     "keyNumber": {
-      "value": "23 Oct",
-      "label": "Rubio says 'now is the time', shortly after Trump says warships could intervene on their return from Iran",
-      "sourceIndex": 2
+      "value": "20-year low",
+      "label": "backing for the UN call to end the US embargo on Cuba, voted for the 34th time on 28 October",
+      "sourceIndex": 3
     },
     "impactMeter": 3,
     "forYou": [
       {
-        "role": "Cuba watchers",
-        "line": "The US has moved from saying it wants change in Havana to publicly inviting Cubans to help bring it about."
+        "role": "Businesses with Cuba links",
+        "line": "Expect rhetoric to harden first and rules to follow, if at all. Watch for new sanctions or travel limits after the 3 November midterms."
       },
       {
-        "role": "Compliance and trade",
-        "line": "Expect sanctions policy toward Cuba to be a live issue; treat any Cuba exposure as higher risk until the direction is clear."
+        "role": "Investors",
+        "line": "Cuba is not a major market, but the appeal shows a US playbook for opposed governments in the region, as in Venezuela. Treat Latin America political risk as higher."
       },
       {
-        "role": "Shipping and Caribbean travel",
-        "line": "Naval talk plus possible migration pressure raises the odds of disruptions and tighter enforcement in the Florida Straits (our estimate)."
+        "role": "Cuban families and the diaspora",
+        "line": "The appeal may raise pressure on dissent inside Cuba. Effects on remittances, travel and migration are uncertain and not yet visible."
       },
       {
-        "role": "Everyone",
-        "line": "Words are not yet actions. Watch for sanctions moves, naval deployments and Havana's response."
+        "role": "Everyone else",
+        "line": "Allies are not rallying. Support for the UN call to end the embargo fell to its weakest in two decades, and a US-Cuba shouting match derailed a UN debate."
       }
     ],
     "ripple": [
@@ -74,15 +59,19 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Rubio publicly urges Cubans seeking change to form a 'discrete partnership' with the CIA and says 'now is the time'",
-            "sector": "Politics"
+            "text": "Rubio publicly calls on Cubans seeking change to form a 'discrete partnership' with the CIA and says 'now is the time'",
+            "sector": "Diplomacy"
           },
           {
-            "text": "Trump tells a Friday rally that warships could intervene on their return from Iran, and says Cuba is 'ready to fall'",
-            "sector": "Security"
+            "text": "Cuba's foreign minister Bruno Rodríguez dismisses the call as 'childish'; Cuban officials mock US 'desperation'",
+            "sector": "Diplomacy"
           },
           {
-            "text": "A covert-cooperation offer made in public is unusual, and it gives Havana a ready propaganda line (our reading)",
+            "text": "UN vote against the embargo draws its weakest backing in 20 years; a US-Cuba shouting match derails the debate",
+            "sector": "Diplomacy"
+          },
+          {
+            "text": "Cuban American voters, once a Trump-friendly bloc, are souring on Republican immigration policy",
             "sector": "Politics"
           }
         ]
@@ -91,15 +80,15 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Havana is likely to tighten internal security and treat contact with US agencies as treason (estimate)",
+            "text": "Havana is likely to cast domestic dissent as foreign-directed and tighten security (our estimate, not yet reported)",
             "sector": "Security"
           },
           {
-            "text": "Pressure for new or tougher US sanctions on Cuba may rise, as the event summary suggests",
-            "sector": "Sanctions and trade"
+            "text": "Open regime-change language makes quiet talks with Havana harder and could widen sanctions pressure after the midterms",
+            "sector": "Sanctions policy"
           },
           {
-            "text": "Fear of unrest or a crackdown could raise the number of Cubans trying to leave for the US (estimate)",
+            "text": "A harsher squeeze or an unstable Cuba could change migration flows toward the US, a risk flagged in the event summary",
             "sector": "Migration"
           }
         ]
@@ -108,16 +97,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Governments across Latin America may split over a US regional push that now includes Venezuela and Cuba",
-            "sector": "Regional politics"
+            "text": "Cuba joins Venezuela as a test of a wider US push to reshape governments it opposes in the region",
+            "sector": "Geopolitics"
           },
           {
-            "text": "Cuba policy may become a bigger issue in US domestic politics ahead of the 3 November midterms (estimate)",
-            "sector": "US politics"
+            "text": "Eroding international support for the embargo may weaken US leverage in multilateral forums",
+            "sector": "Diplomacy"
           },
           {
-            "text": "If words turn into naval or covert action, the Caribbean could see its sharpest confrontation in decades (low probability)",
-            "sector": "Security"
+            "text": "Cuban American voting shifts could change how far Republicans can lean on Cuba and immigration at once",
+            "sector": "US domestic politics"
           }
         ]
       }
@@ -125,149 +114,147 @@
   },
   "brief": {
     "whatHappened": [
-      "On 23 October 2026, US Secretary of State Marco Rubio urged Cubans who want political change to form a 'discrete partnership' with the CIA. He told them 'now is the time' to act. Al Jazeera summarised the message as an appeal to work secretly with the CIA to topple their government.",
-      "He spoke shortly after President Donald Trump told a Friday rally that warships could intervene in Cuba on their return from Iran, according to The Guardian.",
-      "The Trump administration has said repeatedly that it wants a change in Havana's leadership. Euronews notes that Trump himself has said the country is 'ready to fall'."
+      "On 23-24 October 2026, US Secretary of State Marco Rubio publicly called on Cubans who want political change to form a 'discrete partnership' with the CIA. He told them 'now is the time' to act. Euronews, Al Jazeera and The Guardian all reported the remarks.",
+      "Havana answered quickly. Foreign minister Bruno Rodríguez called the appeal 'childish', and Cuban officials mocked what they called US 'desperation'. On 28 October, a UN debate was derailed by a shouting match between the US and Cuba. Mike Waltz told Cuba's foreign minister to 'back off' in a clash reported by US outlet voz.us.",
+      "The same day, the UN General Assembly voted for the 34th time to call for an end to the US embargo on Cuba, with the weakest support in two decades. Headlines on 29 October reported that Rubio had also posted an advert aimed at recruiting spies for Cuba. We could not check that claim against the primary source."
     ],
     "whyItMatters": [
-      "Politics: Regime change is no longer implied. The country's top diplomat is saying it in public, and he is addressing ordinary Cubans directly. That raises the stakes for Havana, for the Cubans who might respond, and for any later talks.",
-      "Security: Trump's warship remark puts a military shadow behind the CIA appeal. We do not know whether it signals a plan or a pressure tactic. Either way, Havana will have to plan for the worse case.",
-      "Sanctions and trade: The event summary says the appeal could affect sanctions policy. Public pressure usually comes with economic pressure, but we have no confirmed new measure yet.",
-      "Migration: The summary also flags migration flows toward the US. Cuban history suggests that crises on the island can send people to sea, though nothing in the sources reports a rise yet.",
-      "Wider pattern: US forces captured Venezuela's Nicolas Maduro on 3 January 2026, and acting president Delcy Rodriguez now leads under US-backed interim rule. The Cuba appeal and the Venezuela deals do not depend on each other, but both come from one US strategy of pressuring governments it opposes."
+      "Politics is the main fuel. The BBC reports that many Cubans who voted for Trump are now turning against Republican immigration policies. That is a key constituency, and it shapes the domestic politics behind Washington's Cuba stance. Rubio's appeal looks designed in part to show toughness on Havana, while immigration policy is where some Cuban Americans are unhappy.",
+      "It is a rare open call for regime change. Governments usually keep covert work covert. A secretary of state asking citizens of another country to work with an intelligence agency is a break with that habit. It sharpens US pressure on Havana and could affect sanctions policy.",
+      "It fits a regional pattern. US forces captured Nicolás Maduro on 3 January 2026, and Venezuela is now led by acting president Delcy Rodríguez under US-backed interim rule. Both Venezuela and Cuba come from one US regional strategy of pressuring adversaries. Neither event caused the other, and the Cuba appeal is not part of the Venezuela oil deals.",
+      "It could affect migration. The event summary flags that pressure on Havana may affect migration flows toward the United States. We have no data yet showing a change."
     ],
     "winners": [
       {
-        "who": "US hawks on Cuba",
-        "why": "The administration's stated goal of change in Havana has become official public language."
+        "who": "Hardliners in Washington",
+        "why": "The appeal puts regime change on the public agenda and signals that the administration wants to press Havana."
       },
       {
-        "who": "Cuban opposition and exile groups",
-        "why": "They get open US backing and attention (though this also brings risk to people inside Cuba)."
+        "who": "Cuban government messaging",
+        "why": "Officials can point to a US official openly inviting subversion and present dissent as foreign-backed. This is our reading of the likely response, not a reported action."
       },
       {
-        "who": "Western oil firms in Venezuela",
-        "why": "Not caused by the Cuba appeal, but part of the same US regional push: US licenses cover BP, Chevron, Eni, Maurel & Prom, Repsol and Shell, and exclude China, Russia and Iran."
+        "who": "Opponents of the embargo",
+        "why": "Falling UN support shows how little backing the policy has abroad. The appeal may add to that."
       }
     ],
     "losers": [
       {
-        "who": "The Cuban government",
-        "why": "It faces open US calls for its overthrow and a threat of force."
+        "who": "Cubans seeking change",
+        "why": "A public link to the CIA could expose them to charges of working for a foreign power. Our estimate; no arrests have been reported in our material."
       },
       {
-        "who": "Cubans who contact US agencies",
-        "why": "They could face arrest if Havana treats the appeal as proof of subversion (our estimate)."
+        "who": "Republicans in Cuban American areas",
+        "why": "The BBC reports that Cuban voters who backed Trump are turning on Republican immigration policies, and Republicans may feel it at the ballot box."
       },
       {
-        "who": "Cubans hoping for easier US relations",
-        "why": "Diplomatic and economic thaw looks less likely while the stated goal is regime change."
+        "who": "US diplomatic standing on Cuba",
+        "why": "Backing for the UN embargo resolution is at a 20-year low, and the UN debate ended in a shouting match."
       }
     ],
     "whatsNext": [
-      "Havana's official response and any security measures it announces.",
-      "Any new US sanctions or enforcement steps on Cuba.",
-      "Where the warships mentioned by Trump actually go.",
-      "3 November: US midterm elections, where Trump has been campaigning for candidates.",
-      "Signs of movement by sea toward Florida, reported by US or Cuban authorities."
+      "3 November: US midterm elections. Commentary asks what Trump will do on Iran and Cuba afterwards.",
+      "Early November: watch how Havana responds domestically and whether any US Cuba policy change follows the appeal.",
+      "Later: whether the administration backs words with new sanctions, covert activity, or talks. None is confirmed in our material."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely result over the next few months?",
+      "question": "Before you read the scenarios: what is the most likely path over the next six months?",
       "options": [
-        "Pressure campaign continues, with no major military action",
-        "A Cuban crackdown triggers a surge of people leaving",
-        "US forces or covert action escalate sharply",
-        "Talks open between Washington and Havana"
+        "Sharp rhetoric but little change on the ground",
+        "US pressure ratchets up with new sanctions or covert action",
+        "Quiet US-Cuba talks begin despite the rhetoric",
+        "Instability inside Cuba triggers a migration surge"
       ],
       "answerIndex": 0,
-      "explanation": "Our base case, about 55%, is that the pressure campaign continues through sanctions, rhetoric and posturing, with no major military action. Escalation is possible, but public threats often exceed what governments actually do. This is author judgement, not a sourced forecast."
+      "explanation": "Our base case, at about 50%, is rhetoric without rupture: Cuba keeps its government and the embargo stays. A ratchet of new US pressure is next at about 25%. These are author judgements, not sourced forecasts."
     },
     "recap": [
       {
-        "question": "Who urged Cubans to form a 'discrete partnership' with the CIA?",
+        "question": "What did Rubio ask Cubans seeking change to do?",
         "options": [
-          "President Trump",
-          "Secretary of State Marco Rubio",
-          "Venezuela's Delcy Rodriguez"
+          "Boycott US goods",
+          "Form a 'discrete partnership' with the CIA",
+          "Leave the country"
         ],
         "answerIndex": 1
       },
       {
-        "question": "What did Trump say at a Friday rally just before Rubio spoke?",
+        "question": "What happened at the UN General Assembly on 28 October?",
         "options": [
-          "Sanctions on Cuba would be lifted",
-          "Warships could intervene on their return from Iran",
-          "Cuba had agreed to talks"
+          "The embargo resolution failed outright",
+          "Support for the call to end the embargo fell to its weakest in two decades",
+          "The US lifted the embargo"
         ],
         "answerIndex": 1
       },
       {
-        "question": "What happened in Venezuela on 3 January 2026, according to the linked event?",
+        "question": "Which group is reportedly turning against Republican immigration policy?",
         "options": [
-          "US forces captured Nicolas Maduro",
-          "Maduro won re-election",
-          "Venezuela cut oil output to zero"
+          "Venezuelan oil workers",
+          "Cuban American voters",
+          "UN diplomats"
         ],
-        "answerIndex": 0
+        "answerIndex": 1
       }
     ]
   },
   "deep": {
     "timeline": [
       {
-        "date": "1959-01-01",
-        "title": "Cuban revolution takes power",
-        "detail": "Fidel Castro's forces take control. The system they built is the one Washington now wants changed."
-      },
-      {
-        "date": "1961-04-17",
-        "title": "Bay of Pigs invasion",
-        "detail": "A CIA-backed attempt by Cuban exiles to overthrow Castro fails. It is the best-known US covert effort in Cuba."
-      },
-      {
-        "date": "2014-12-17",
-        "title": "US and Cuba announce a thaw",
-        "detail": "Presidents Obama and Raul Castro announce moves to restore relations. Later US administrations rolled parts of it back."
-      },
-      {
-        "date": "2021-07-11",
-        "title": "Large anti-government protests in Cuba",
-        "detail": "Protests across the island were among the biggest in decades. Background from general knowledge; not in the sources."
-      },
-      {
         "date": "2026-01-03",
-        "title": "US forces capture Nicolas Maduro",
-        "detail": "Venezuela is then led by acting president Delcy Rodriguez under US-backed interim rule. This is the regional precedent for the Cuba push.",
-        "turning": true
+        "title": "US forces capture Nicolás Maduro",
+        "detail": "Venezuela is later led by acting president Delcy Rodríguez under US-backed interim rule. This is the precedent most often linked to US regional strategy."
       },
       {
         "date": "2026-08-28",
-        "title": "Trump announces a US-Venezuela oil deal",
-        "detail": "The deal covers 17 fields. US General License 50C licenses BP, Chevron, Eni, Maurel & Prom, Repsol and Shell and excludes China, Russia and Iran."
+        "title": "Trump announces US-Venezuela oil deal",
+        "detail": "The deal covers 17 fields. US General License 50C licenses BP, Chevron, Eni, Maurel & Prom, Repsol and Shell, and excludes China, Russia and Iran."
       },
       {
         "date": "2026-10-17",
-        "title": "Venezuela touts $76bn of oil investment",
-        "detail": "Rodriguez says 61 signed agreements (17 with the US) should bring nearly $76bn over five years, with 44 more deals worth about $12bn in talks."
+        "title": "Venezuela touts $76bn oil investment",
+        "detail": "Delcy Rodríguez says 61 signed agreements, 17 with the United States, should bring nearly $76 billion over five years. Venezuela reported 1.206 million barrels a day in September."
       },
       {
-        "date": "2026-10-23",
-        "title": "Trump says warships could intervene",
-        "detail": "At a Friday rally for candidates, Trump says warships could intervene on their return from Iran, per The Guardian.",
-        "sourceIndex": 2
-      },
-      {
-        "date": "2026-10-23",
-        "title": "Rubio: 'now is the time'",
-        "detail": "Moments after Trump's remarks, Rubio urges Cubans seeking change to form a 'discrete partnership' with the CIA.",
+        "date": "2026-10-24",
+        "title": "Rubio urges Cubans to partner with the CIA",
+        "detail": "He tells Cubans seeking change to form a 'discrete partnership' with the CIA and says 'now is the time'. Reports are dated 23-24 October.",
         "sourceIndex": 2,
         "turning": true
       },
       {
-        "date": "2026-10-24",
-        "title": "Appeal reported worldwide",
-        "detail": "Euronews and Al Jazeera report the appeal. Euronews notes Trump has claimed Cuba is 'ready to fall'.",
-        "sourceIndex": 0
+        "date": "2026-10-28",
+        "title": "UN votes again on the Cuba embargo",
+        "detail": "The General Assembly calls for the 34th time for an end to the US embargo, with the weakest backing in two decades.",
+        "sourceIndex": 3,
+        "turning": true
+      },
+      {
+        "date": "2026-10-28",
+        "title": "US-Cuba shouting match derails a UN debate",
+        "detail": "Mike Waltz tells Cuba's foreign minister to 'back off' after what he describes as an attempt to silence him. Cuban officials mock US 'desperation'."
+      },
+      {
+        "date": "2026-10-29",
+        "title": "Reports of a CIA recruitment ad for Cuba",
+        "detail": "Headlines say Rubio posted an advert for spies in Cuba. The claim comes from a socialist outlet; we have not seen the post."
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Bruno Rodríguez calls the appeal 'childish'",
+        "detail": "Cuba's foreign minister dismisses Rubio's call to collaborate with the CIA."
+      },
+      {
+        "date": "2026-10-30",
+        "title": "BBC: Cuban voters turn on Republican immigration policy",
+        "detail": "Many Cubans who voted for Trump are souring on Republican immigration policy, and Republicans may feel it at the ballot box.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-10-31",
+        "title": "US cancels G20 foreign ministers' photo",
+        "detail": "Rubio pulls the traditional photo after about a third of countries threatened to boycott an appearance with Russia. It is a sign of the diplomatic friction Washington faces.",
+        "sourceIndex": 5
       }
     ],
     "causes": [
@@ -276,44 +263,48 @@
         "when": "Decades",
         "causes": [
           {
-            "name": "Long US-Cuba hostility",
-            "detail": "Since the 1959 revolution the two governments have been adversaries, with covert operations, sanctions and short-lived thaws."
+            "name": "Long US-Cuba confrontation",
+            "detail": "The embargo has been put to a UN vote for the 34th time, which shows how long and how contested the policy is."
           },
           {
-            "name": "Cuban exile politics",
-            "detail": "Rubio comes from the Cuban-American political world of Florida, which has long pushed for a harder line (background knowledge)."
+            "name": "Cuban American politics",
+            "detail": "Cuban Americans are a politically important group, and Washington's Cuba stance is shaped by their voting."
           },
           {
-            "name": "Cuba's economic weakness",
-            "detail": "Years of crisis and shortages are widely reported. This is background knowledge, not from our sources, so treat it as medium confidence."
+            "name": "Rubio's own record",
+            "detail": "Rubio, a prominent Cuban American politician, is now secretary of state, so Cuba policy is personally salient to him."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "23 October 2026",
+        "when": "23-24 October 2026",
         "causes": [
           {
-            "name": "Rally and appeal",
-            "detail": "Trump's warship remark and Rubio's call came within moments of each other, so they look like one coordinated message."
+            "name": "The public appeal",
+            "detail": "Rubio tells Cubans seeking change that 'now is the time' and invites a discrete partnership with the CIA."
+          },
+          {
+            "name": "Venezuela precedent",
+            "detail": "After Maduro's capture on 3 January and the US-backed interim rule that followed, Cuba is the obvious next target of regional pressure. Neither event caused the other."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "2026",
+        "when": "Late October 2026",
         "causes": [
           {
-            "name": "Venezuela precedent",
-            "detail": "The capture of Maduro and US-backed interim rule show Washington is willing to act against governments it opposes."
+            "name": "UN clash",
+            "detail": "A shouting match and a record-low embargo vote increased the diplomatic temperature."
           },
           {
-            "name": "Stated goal of change in Havana",
-            "detail": "Euronews notes the administration has repeatedly said it wants a change in Havana's leadership."
+            "name": "Midterm run-up",
+            "detail": "Elections on 3 November make a tough Cuba line politically attractive, while Cuban American voters are turning against immigration policy."
           },
           {
-            "name": "Domestic politics",
-            "detail": "Trump was speaking at a rally for candidates, and the midterms are on 3 November (our reading)."
+            "name": "Recruitment-ad reports",
+            "detail": "Reports that Rubio posted a spy-recruitment ad (not verified) added to the sense of an operational push."
           }
         ]
       }
@@ -322,214 +313,207 @@
       {
         "name": "Marco Rubio",
         "role": "US Secretary of State",
-        "wants": "A change of government in Havana",
-        "leverage": "Diplomacy, sanctions and the public platform of his office",
-        "likelyMove": "Keep the public pressure up and tie it to sanctions and signals to Cubans"
+        "wants": "Political change in Cuba and a tougher US line on Havana",
+        "leverage": "Control of US diplomacy and a public platform; influence over sanctions and, with the CIA, covert action",
+        "likelyMove": "Keep up public pressure; back it with new measures after the midterms"
       },
       {
         "name": "Donald Trump",
         "role": "US President",
-        "wants": "A visible win in the region and a strong message at home",
-        "leverage": "Military options, including the warships he mentioned, and executive sanctions powers",
-        "likelyMove": "Keep claiming Cuba is ready to fall; decide later whether to act"
+        "wants": "Strength on Latin America and a win in the midterms",
+        "leverage": "Final say on sanctions, intelligence and military action; precedent set in Venezuela",
+        "likelyMove": "Decide on Iran and Cuba after the midterms; a US News segment asks exactly this"
       },
       {
-        "name": "Cuban government in Havana",
+        "name": "Cuban government",
         "role": "Target of the appeal",
-        "wants": "Survival and control of internal security",
-        "leverage": "Police and security services, nationalist messaging",
-        "likelyMove": "Denounce US interference and tighten monitoring of dissent (estimate)"
+        "wants": "Survival, and to portray the US as the aggressor",
+        "leverage": "Security services, control of information, support among those who see the embargo as the problem",
+        "likelyMove": "Mock the appeal publicly, as Bruno Rodríguez did, and tighten control of dissent (our estimate)"
       },
       {
-        "name": "Cubans seeking change",
-        "role": "Intended audience",
-        "wants": "Political change without ruinous consequences",
-        "leverage": "Street protest, information, numbers",
-        "likelyMove": "Mostly caution. Open cooperation with a foreign agency is dangerous"
+        "name": "CIA",
+        "role": "US intelligence agency named in the appeal",
+        "wants": "Not stated in our material",
+        "leverage": "Covert capabilities; secrecy is its main tool and the appeal erodes it",
+        "likelyMove": "Stay publicly silent; any operations would not be disclosed"
       },
       {
-        "name": "The CIA",
-        "role": "Named partner in the appeal",
-        "wants": "Whatever its political leaders direct",
-        "leverage": "Covert networks and intelligence",
-        "likelyMove": "Silence. Public comment on covert work is unlikely"
+        "name": "Cuban American voters",
+        "role": "Key US constituency",
+        "wants": "Change in Cuba, and humane immigration policy",
+        "leverage": "Votes in the midterms, especially in swing areas",
+        "likelyMove": "Mixed: the BBC reports many are turning against Republican immigration policy"
       },
       {
-        "name": "Delcy Rodriguez and Venezuela's interim government",
-        "role": "Regional comparison",
-        "wants": "Stability and oil investment under US-backed rule",
-        "leverage": "Oil: 1.206 million barrels a day in September, up about 30% this year",
-        "likelyMove": "Continue the US-aligned oil opening and avoid taking Cuba's side"
-      },
-      {
-        "name": "Cuban-American voters and politicians",
-        "role": "Domestic US audience",
-        "wants": "A harder line on Havana",
-        "leverage": "Votes, especially in Florida (background knowledge)",
-        "likelyMove": "Welcome the appeal and push for sanctions or more"
+        "name": "UN General Assembly members",
+        "role": "Judges of the embargo",
+        "wants": "A way out of a long-running dispute",
+        "leverage": "The annual vote; support is now at its weakest in two decades",
+        "likelyMove": "Keep voting against the embargo in smaller numbers; the reasons for lower support are not in our material"
       }
     ],
     "sectors": [
       {
-        "sector": "Cuban security and internal politics",
+        "sector": "US domestic politics",
         "direction": "mixed",
-        "size": 3,
-        "why": "Havana will likely tighten control, but also faces pressure and uncertainty. The net effect is unclear."
+        "size": 2,
+        "why": "Cuban American voters, a key constituency behind Washington's Cuba stance, are turning against Republican immigration policy, while a tough line on Havana may still appeal to others."
       },
       {
-        "sector": "US-Cuba sanctions and compliance",
+        "sector": "Cuban state security",
         "direction": "up",
         "size": 2,
-        "why": "The event summary says the appeal could affect sanctions policy. Compliance work on Cuba exposure likely rises."
+        "why": "An open call to work with the CIA gives the Cuban government a pretext to expand surveillance and arrests. Our estimate, not reported."
       },
       {
-        "sector": "Caribbean maritime security",
+        "sector": "US sanctions and trade policy",
         "direction": "up",
         "size": 2,
-        "why": "Warship talk and possible migration push raise naval and coast guard activity (estimate)."
+        "why": "The appeal could be followed by new restrictions after the midterms. The summary flags possible effects on sanctions policy."
       },
       {
-        "sector": "Cuban tourism and remittances",
+        "sector": "Migration and border politics",
+        "direction": "mixed",
+        "size": 2,
+        "why": "Pressure on Havana could affect migration flows toward the US, but the direction is uncertain."
+      },
+      {
+        "sector": "UN and multilateral diplomacy",
         "direction": "down",
         "size": 2,
-        "why": "Higher tension usually deters visitors and complicates money transfers. Estimate, not sourced."
+        "why": "Backing for the embargo resolution is at a 20-year low and the debate ended in a shouting match."
       },
       {
-        "sector": "Venezuela's oil sector",
-        "direction": "up",
-        "size": 1,
-        "why": "Separate from the Cuba appeal, but US licenses and deals continue to steer investment to Western firms."
-      },
-      {
-        "sector": "US political campaigns",
+        "sector": "Venezuelan oil and regional energy",
         "direction": "mixed",
         "size": 1,
-        "why": "The appeal helps candidates who want a tough line, but other voters may dislike open talk of regime change (our reading)."
+        "why": "Venezuela's oil opening, now licensed to Western firms and closed to China, Russia and Iran, shows the carrot side of US regional strategy. It is not directly linked to Cuba."
       }
     ],
     "dailyLife": [
       {
-        "item": "Cubans on the island",
-        "effect": "Rising political risk. Even contact with foreigners could draw attention from state security if Havana tightens controls (estimate)."
-      },
-      {
-        "item": "Families with relatives abroad",
-        "effect": "Sanctions or travel rules could change how money and visits move between the US and Cuba. No measure has been announced."
-      },
-      {
-        "item": "Florida coastal communities",
-        "effect": "Greater naval presence and possible migration flows are the main local risks (estimate).",
+        "item": "Cuban families",
+        "effect": "Possible tighter surveillance and a harder economic squeeze if pressure grows. No concrete change is reported yet.",
         "sourceIndex": 0
       },
       {
-        "item": "Travellers to Cuba",
-        "effect": "Check government travel advisories. The political climate is more volatile after the appeal."
+        "item": "Cuban Americans in the US",
+        "effect": "Many face a clash between a tough Cuba line they may support and immigration policies they dislike, which is shifting votes.",
+        "sourceIndex": 4
+      },
+      {
+        "item": "Travel and remittances",
+        "effect": "No new rules reported. Any tightening would come as sanctions or travel changes and could follow the midterms."
+      },
+      {
+        "item": "Anyone with Cuban exposure",
+        "effect": "Businesses and travellers should expect more political noise and the possibility of sudden rule changes."
       }
     ],
     "scenarios": [
       {
-        "name": "Pressure campaign continues",
-        "probability": 55,
-        "looksLike": "Rhetoric, new sanctions or enforcement steps and naval posturing, but no invasion or major covert exposure. Havana denounces the US and tightens control.",
+        "name": "Rhetoric without rupture",
+        "probability": 50,
+        "looksLike": "Harsh words continue, Cuba mocks and ignores them, the embargo remains and nothing dramatic changes inside the island.",
         "signposts": [
-          "New US sanctions or visa rules",
-          "Havana's formal protests",
-          "Warships positioned but no landings"
+          "No new sanctions announced by early 2027",
+          "No reported unrest in Cuba",
+          "UN support stays low but unchanged"
         ],
-        "effectOnWorld": "Cuba policy stays a flashpoint in the region and in US domestic politics."
+        "effectOnWorld": "The embargo debate drags on with fewer allies; Cuba stays a stalemate."
       },
       {
-        "name": "Crackdown and outflow",
-        "probability": 20,
-        "looksLike": "Havana arrests people accused of contact with the CIA and unrest or economic strain pushes more Cubans to leave by sea.",
+        "name": "US pressure ratchets up",
+        "probability": 25,
+        "looksLike": "After the midterms, new sanctions, covert activity or a Venezuela-style approach follows the public appeal.",
         "signposts": [
-          "Arrests tied to the appeal",
-          "US Coast Guard reports of more sea departures",
-          "US response on asylum and entry rules"
+          "New Treasury or State measures on Cuba",
+          "Further CIA-related statements or recruitment posts",
+          "Changes to travel or remittance rules"
         ],
-        "effectOnWorld": "Migration becomes a bigger US domestic issue and strains neighbouring states."
+        "effectOnWorld": "Higher tension across the Caribbean; other adversaries read it as a template."
       },
       {
-        "name": "Escalation toward force",
+        "name": "Backlash and quiet diplomacy",
         "probability": 15,
-        "looksLike": "Naval action, a blockade-style measure or visible covert operations follow the rhetoric.",
-        "signposts": [
-          "Warships moving to Cuban waters",
-          "Evacuation or travel warnings",
-          "Emergency UN or regional meetings"
-        ],
-        "effectOnWorld": "The sharpest Caribbean confrontation in decades, with global reaction and legal criticism."
-      },
-      {
-        "name": "Opening or deal",
-        "probability": 10,
-        "looksLike": "Havana makes concessions or private talks start, perhaps modelled on how Venezuela's interim arrangement worked.",
+        "looksLike": "International and domestic criticism pushes the administration toward low-key talks or an easing of tone.",
         "signposts": [
           "Back-channel contacts reported",
-          "Prisoner releases or economic changes",
-          "Softer US language"
+          "Softer language from Rubio",
+          "Further erosion of UN support"
         ],
-        "effectOnWorld": "Lower regional tension, but at the price of a politically messy compromise."
+        "effectOnWorld": "Lower near-term risk, but no resolution of the underlying dispute."
+      },
+      {
+        "name": "Instability and migration surge",
+        "probability": 10,
+        "looksLike": "Pressure and economic hardship produce unrest or sudden emigration, testing US border politics.",
+        "signposts": [
+          "Large protests in Cuba",
+          "Rise in departures toward the US",
+          "Emergency US migration measures"
+        ],
+        "effectOnWorld": "Regional humanitarian and political crisis, with immigration politics at the centre."
       }
     ],
     "predictions": [
       {
-        "text": "The Cuban government will publicly denounce the appeal as interference, if it has not already (probability about 90%).",
-        "horizon": "By 30 November 2026",
-        "resolves": "2026-11-30"
-      },
-      {
-        "text": "The US will announce at least one new Cuba-related sanctions, visa or enforcement measure (probability about 50%).",
-        "horizon": "By 31 January 2027",
-        "resolves": "2027-01-31"
-      },
-      {
-        "text": "US forces will not carry out a publicly acknowledged military strike on Cuban territory (probability about 90%).",
+        "text": "The US government will not publicly confirm any specific CIA operation in Cuba. Probability 0.9.",
         "horizon": "By 30 April 2027",
         "resolves": "2027-04-30"
       },
       {
-        "text": "Cuban leadership will still be in power (probability about 90%).",
-        "horizon": "By 30 April 2027",
-        "resolves": "2027-04-30"
+        "text": "The US embargo on Cuba will not be formally lifted or substantially eased. Probability 0.95.",
+        "horizon": "By end of 2027",
+        "resolves": "2027-12-31"
       },
       {
-        "text": "Reported sea departures from Cuba toward the US will rise noticeably above their autumn 2026 level (probability about 30%; depends on data availability).",
-        "horizon": "By 30 April 2027",
-        "resolves": "2027-04-30"
+        "text": "The US will announce at least one new sanction or restriction aimed at Cuba. Probability 0.55.",
+        "horizon": "By 30 June 2027",
+        "resolves": "2027-06-30"
+      },
+      {
+        "text": "Cuba's government will still be in power. Probability 0.9.",
+        "horizon": "31 December 2027",
+        "resolves": "2027-12-31"
+      },
+      {
+        "text": "The next annual UN vote on the embargo will draw backing no higher than the 2026 vote. Probability 0.55.",
+        "horizon": "Autumn 2027",
+        "resolves": "2027-11-30"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Review any Cuba-linked contracts, suppliers or payment routes for sanctions exposure.",
-          "Prepare contingency plans for shipping and travel disruption in the Caribbean.",
-          "Do not assume Venezuela-style licenses will be offered for Cuba."
+          "Map any exposure to Cuba, including suppliers, travel and payments, and prepare for sudden rule changes.",
+          "Keep compliance teams alert to new US Treasury and State announcements after the midterms.",
+          "Avoid public statements that could be read as taking sides."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat Cuba exposure as high political risk until US policy is clearer.",
-          "Watch US Treasury and State announcements for sanction changes.",
-          "Note that the Venezuela deals show US policy can rewire a country's investment map quickly, but also that they reflect a different situation."
+          "Treat Latin America political risk as higher, given the Venezuela precedent and the Cuba appeal.",
+          "Do not assume a quick regime change; our base case is no rupture.",
+          "Watch for sanctions announcements rather than rhetoric."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Check government travel advisories before any Cuba trip.",
-          "If you send money to family in Cuba, confirm the legal channels are still open before you transfer.",
-          "Be sceptical of rumours. Verify announcements with official sources."
+          "Anyone sending money or travelling to Cuba should check current US rules before acting.",
+          "Expect news on Cuba to be volatile around and after the midterms."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Separate public signalling from operational steps, and be clear about what is intended.",
-          "Plan for migration and Coast Guard needs in case of an outflow.",
-          "Consider the effects on allies in the region, who are watching Venezuela and Cuba closely."
+          "Weigh the cost of open regime-change language against falling international support for the embargo.",
+          "Prepare contingency plans for a possible migration surge.",
+          "Consider how Cuban American voting shifts affect how Cuba and immigration policy are packaged."
         ]
       }
     ],
@@ -537,44 +521,48 @@
       {
         "event": "Bay of Pigs invasion",
         "year": "1961",
-        "whatFollowed": "A CIA-backed exile landing failed within days, strengthened Castro at home, and pushed Cuba closer to the Soviet Union (background knowledge)."
+        "whatFollowed": "A CIA-backed attempt to topple Fidel Castro failed within days and strengthened his hold on power. It is the classic caution about covert regime change in Cuba."
       },
       {
         "event": "Mariel boatlift",
         "year": "1980",
-        "whatFollowed": "Havana opened the port of Mariel and about 125,000 Cubans reached Florida in a few months, showing how fast Cuban instability can become a US migration issue (background knowledge)."
+        "whatFollowed": "More than 100,000 Cubans left for the United States in a few months after Havana opened its port, turning Cuban instability into a US domestic issue."
       },
       {
-        "event": "Capture of Maduro and US-backed interim rule in Venezuela",
+        "event": "US capture of Maduro and interim rule in Venezuela",
         "year": "2026",
-        "whatFollowed": "Venezuela is now led by acting president Delcy Rodriguez, with US licenses steering oil investment to Western firms. It shows Washington will act, but Cuba differs: no equivalent oil prize is described in our sources."
+        "whatFollowed": "Venezuela is now led by acting president Delcy Rodríguez under US-backed rule, with oil deals steered to Western firms. It shows the strategy at work, though Cuba differs in many ways."
       }
     ],
     "watch": [
       {
         "date": "2026-11-03",
         "title": "US midterm elections",
-        "why": "Shows how much the Cuba message plays with voters and may influence how hard the White House pushes afterwards."
+        "why": "Results, and the Cuban American vote in particular, shape how far Republicans lean on Cuba and immigration."
       },
       {
-        "title": "Havana's response",
-        "why": "A formal protest, new security measures or arrests would show how Cuba is treating the appeal."
+        "title": "Trump's decisions on Iran and Cuba after the midterms",
+        "why": "US News asks what he will do. A Guardian report on 29 October says a Vance letter to Iran may offer a last chance to avert fresh conflict, so Cuba competes for attention."
       },
       {
-        "title": "New US sanctions or enforcement steps",
-        "why": "The most likely concrete follow-up if the appeal is more than words."
+        "title": "New US sanctions or travel rules on Cuba",
+        "why": "Policy change would show the appeal is backed by action."
       },
       {
-        "title": "Warship movements",
-        "why": "Trump said warships could intervene on their return from Iran. Where the ships go matters more than what is said."
+        "title": "Havana's domestic response",
+        "why": "Arrests, new security laws or trials linked to foreign interference would show the appeal's effect."
       },
       {
-        "title": "Coast Guard and migration data",
-        "why": "Any rise in sea departures would confirm the migration risk flagged in the event summary."
+        "title": "Migration data",
+        "why": "Rising departures from Cuba toward the US would confirm the migration risk flagged in the summary."
       },
       {
-        "title": "Venezuela's oil opening",
-        "why": "Rodriguez's investment drive and US licenses show whether the regional strategy is delivering stability or just control."
+        "title": "Further CIA-related messaging",
+        "why": "Reports of a recruitment ad are unverified; official posts would confirm an operational push."
+      },
+      {
+        "title": "Commentary on Rubio's future role in Cuba",
+        "why": "Some outlets speculate about a Rubio role in any Cuban transition. This is unverified and should be treated as commentary."
       }
     ]
   },
@@ -597,59 +585,93 @@
         "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
         "publisher": "The Guardian",
         "date": "2026-10-24"
+      },
+      {
+        "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+        "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+        "publisher": "UN News",
+        "date": "2026-10-28"
+      },
+      {
+        "title": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
+        "url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC World",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "US cancels G20 'family photo' after Australia, UK and others refuse to appear with Russia",
+        "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+        "publisher": "The Guardian",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+        "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+        "publisher": "The Guardian",
+        "date": "2026-10-29"
       }
     ],
     "confidence": [
       {
-        "claim": "Rubio publicly urged Cubans to form a 'discrete partnership' with the CIA and said 'now is the time'",
+        "claim": "Rubio publicly urged Cubans seeking change to form a 'discrete partnership' with the CIA and said 'now is the time'",
         "level": "high",
-        "note": "Reported by Euronews, Al Jazeera and The Guardian on the same day."
+        "note": "Reported by Euronews, Al Jazeera and The Guardian."
       },
       {
-        "claim": "Trump said warships could intervene on their return from Iran",
-        "level": "medium",
-        "note": "Taken from the Guardian's standfirst, which was truncated in our material. The exact wording and context are not confirmed."
-      },
-      {
-        "claim": "The administration has repeatedly said it wants a change in Havana's leadership",
+        "claim": "UN backing for the end-embargo call fell to a 20-year low on 28 October, the 34th such vote",
         "level": "high",
-        "note": "Stated in Euronews, which also notes Trump's 'ready to fall' remark."
+        "note": "UN News. We do not have the exact vote counts, so none are given."
       },
       {
-        "claim": "Venezuela facts (capture of Maduro on 3 January, interim rule, $76bn deals, General License 50C)",
+        "claim": "Cuban officials dismissed the appeal as 'childish' and mocked US 'desperation'; a US-Cuba shouting match derailed a UN debate",
         "level": "medium",
-        "note": "Taken from the linked Venezuela event in the material; no URL was supplied, so they are not in the source list."
+        "note": "Based on headlines and excerpts from CiberCuba, NST Online, Free Malaysia Today and voz.us; we did not open the full articles."
       },
       {
-        "claim": "Effects on sanctions, migration and Cuban internal security",
+        "claim": "Rubio posted a recruitment ad for spies in Cuba",
         "level": "low",
-        "note": "Sanctions and migration come from the event summary; Havana's likely moves are the author's estimates. None are confirmed."
+        "note": "Only a World Socialist Web Site headline; not confirmed by a primary source."
       },
       {
-        "claim": "Historical background (1959, Bay of Pigs, 2014 thaw, 2021 protests, Mariel boatlift)",
+        "claim": "Cuban American voters are turning against Republican immigration policy",
         "level": "medium",
-        "note": "General knowledge, not from the sources. Mariel's 125,000 figure is approximate."
+        "note": "BBC report of 30 October; we saw only the summary line."
       },
       {
-        "claim": "Scenario probabilities and predictions",
+        "claim": "The appeal could affect sanctions policy and migration flows",
+        "level": "low",
+        "note": "From the event summary. This is an estimate of possible effects and no changes are yet visible."
+      },
+      {
+        "claim": "Scenario and prediction probabilities",
         "level": "low",
         "note": "Author judgement, not a sourced forecast."
+      },
+      {
+        "claim": "Venezuela facts: Maduro captured 3 January, $76bn investment claim, General License 50C, 1.206 million barrels a day",
+        "level": "medium",
+        "note": "Taken from the connected event 'venezuela-oil-reopening'; not independently sourced here. The link to the Cuba appeal is one of shared strategy, not cause."
+      },
+      {
+        "claim": "Historical analogues (Bay of Pigs 1961, Mariel boatlift 1980)",
+        "level": "high",
+        "note": "General knowledge; no URL cited."
       }
     ],
-    "method": "Drafted from three listed articles (Euronews, Al Jazeera, The Guardian, all dated 23 to 24 October 2026), their headlines and summaries, the event summary and the linked Venezuela connection. The Guardian text was truncated, so the warship remark is reported only as far as its standfirst. Historical background is from general knowledge. Effects on Cuba's internal security, sanctions, migration, and all probabilities, are the author's estimates.",
+    "method": "Drafted from three cited news reports on the appeal, UN News, the BBC, two other Guardian items, and a set of matched wire headlines, some of which we saw only as headlines or short excerpts. The Venezuela context comes from the connected event brief. Probabilities, the Cuban government's likely domestic response, and the migration and sanctions effects are estimates and are marked as such. The material supports only one fuel aspect (politics), so we list one rather than pad the list. Historical analogues use general knowledge. No market or economic series was available, so no chart is included.",
     "changeLog": [
       {
-        "date": "2026-10-24",
+        "date": "2026-10-31",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-24T08:06:38.689Z",
+    "at": "2026-10-31T08:58:31.385Z",
     "model": "claude-sonnet-5-5",
     "sources": 3,
-    "headlines": 3,
+    "headlines": 18,
     "reviewed": false,
     "size": "deep"
   }
