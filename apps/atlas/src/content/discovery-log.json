@@ -2924,6 +2924,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-01T23:13:17.702Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 3 new uncovered headlines"
+    },
+    {
       "at": "2026-11-01T22:13:07.754Z",
       "screened": 96,
       "accepted": [],
@@ -4502,106 +4511,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 3 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-31T08:11:22.951Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US and Japan agree to joint missile production facility in Japan",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Evacuations from Oleshky under local ceasefire",
-          "reason": "A local humanitarian evacuation in one besieged town, with no clear cross-border channel.",
-          "headlines": 4,
-          "publishers": 3
-        },
-        {
-          "title": "Poland's constitutional court standoff",
-          "reason": "A domestic institutional dispute with no named cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Novaya Gazeta closes under Kremlin pressure",
-          "reason": "A press-freedom story that moves no money, goods or people and changes no other state's decisions.",
-          "headlines": 4,
-          "publishers": 4
-        },
-        {
-          "title": "UN nature summit reaches deal",
-          "reason": "The deal's financing is unresolved and no concrete cross-border flow is reported.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Senator links US military aid decision on Egypt to press crackdown",
-          "reason": "A senator's commentary rather than a dated decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US jails two Chinese nationals for spying",
-          "reason": "A court case with no effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Tech stock sell-off and AI spending worries",
-          "reason": "Company and market news with no state or policy angle.",
-          "headlines": 6,
-          "publishers": 3
-        }
-      ],
-      "existing": [
-        {
-          "title": "North Korea suspected in record Binance hack",
-          "reason": "Same hack and attribution already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "Euro zone Q3 growth slows to 0.4% as France contracts",
-          "reason": "Part of the ECB's dilemma between inflation and French weakness.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "Streeting defends UK defence spending",
-          "reason": "Part of the UK defence spending debate already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Trump berates reporter on the campaign trail",
-          "reason": "Midterm campaign coverage.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Vance contacts Iranian official to revive peace talks",
-          "reason": "Diplomacy over the Iran war already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
