@@ -279,24 +279,24 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-11-01T13:12:43.819Z",
+    "at": "2026-11-01T19:48:34.261Z",
     "by": "pipeline",
-    "hash": "752q7f",
+    "hash": "1uyjcqy",
     "tags": [
       {
         "point": "GENOA",
         "effect": "delay",
-        "likelihood": 0.6,
+        "likelihood": 0.55,
         "delayDays": [
           1,
           4
         ],
         "costPct": [
-          3,
-          8
+          2,
+          6
         ],
-        "why": "NBC (30 Oct 2026) reports port blockades alongside Italy's nationwide strike, with troops deployed, and protests were still spreading on 1 Nov, so gate and terminal access at Italian ports such as Genoa may be interrupted.",
-        "action": "Ask your forwarder for Genoa gate and terminal status each day, move time-critical pickups and deliveries to days with no strike or blockade, and hold 4 days of buffer stock for cargo through Genoa.",
+        "why": "NBC reported on 2026-10-30 that Italy is facing widespread strikes and port blockades as protests spread, and Genoa is Italy's main container gateway and a frequent site of dockworker blockades, so gate and berth delays are likely over the next weeks.",
+        "action": "Ask your forwarder for current gate and truck-pickup status at Genoa, add 4 days of buffer stock for Genoa-bound cargo, and get a quote for rerouting via another Mediterranean or North European port in case the blockades",
         "sources": [
           1,
           0,
@@ -306,10 +306,10 @@
     ],
     "headlines": [
       {
-        "title": "Mass protests sweep Italy during nationwide strike",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
-        "publisher": "Reuters",
-        "published": "2026-11-01T06:21:37.000Z"
+        "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
+        "publisher": "Cirebon Times",
+        "published": "2026-10-31T00:10:48.000Z"
       },
       {
         "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
@@ -380,7 +380,7 @@
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-10-30T19:33:03.061Z",
+    "at": "2026-11-01T19:48:34.261Z",
     "by": "pipeline",
     "hash": "1yqs19z",
     "tags": [],
@@ -518,9 +518,9 @@
     "headlines": []
   },
   "west-bank-lockdown-hebron-2026": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-01T19:48:34.261Z",
     "by": "pipeline",
-    "hash": "1dyfb43",
+    "hash": "1m0gsnu",
     "tags": [],
     "headlines": []
   },
@@ -628,9 +628,9 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-10-31T17:11:52.868Z",
+    "at": "2026-11-01T19:48:34.261Z",
     "by": "pipeline",
-    "hash": "183gyqx",
+    "hash": "1astx2g",
     "tags": [],
     "headlines": []
   },
