@@ -212,16 +212,16 @@
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-11-01T05:12:24.141Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "cyako2",
+    "hash": "1k7ox8j",
     "tags": [],
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-11-01T01:12:11.337Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "wkd3zj",
+    "hash": "1tn8tny",
     "tags": [],
     "headlines": []
   },
@@ -442,9 +442,9 @@
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-10-31T08:11:22.951Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "gw7mce",
+    "hash": "nkrw7z",
     "tags": [],
     "headlines": []
   },
@@ -477,24 +477,24 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-11-01T06:12:22.831Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "1vmpn9y",
+    "hash": "1jcufko",
     "tags": [
       {
         "point": "LUZON_STRAIT",
         "effect": "security",
-        "likelihood": 0.3,
+        "likelihood": 0.2,
         "delayDays": [
           1,
           3
         ],
         "costPct": [
           1,
-          4
+          3
         ],
-        "why": "Since 1 Oct a new flashpoint has opened off Batanes, and on 1 Nov Taiwan said Chinese coast guard patrols were pressuring merchant vessels off its east coast, so ships using the strait may face shadowing, course changes or higher war-risk premiums.",
-        "action": "Ask your forwarder whether vessels on Taiwan, Philippines and North Pacific services are being shadowed or rerouted around the strait, and whether war-risk surcharges are being added. Allow 3 extra days of buffer stock o",
+        "why": "On 1 Nov 2026 Taiwan said China Coast Guard patrols were harassing and pressuring vessels off its east coast, after a new Philippine-Chinese flashpoint off Batanes in the Luzon Strait in October, so merchant ships there may face closer shadowing, diversions or higher war-risk quo",
+        "action": "Ask your forwarder whether carriers on Luzon Strait routings have added war-risk surcharges or rerouted, and get a quote for a routing via the Taiwan Strait or south of the Philippines. Add 3 days of buffer stock for Tai",
         "sources": [
           0,
           1,
@@ -504,10 +504,10 @@
     ],
     "headlines": [
       {
-        "title": "China And Taiwan Clash Over Latest Coast Guard Patrols",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZaeVN4OGx6QjA3dmxVRUxJaEVtOUpBTUZhX0RPNGFuc2pjckpMX1pMYklRZWpJZVB6eW5rZXVBVnBweV9WOVZWTnNkWFRxYXFrNzJ5Z09rUTdld29QRnV2d2cyVmU4d1dZN1VKS1ljMmtGbl9Fc1dndUotZmdLbkJwZEhVeXk1ZlFWcXc2M0p3eWpGVnRzeEJZN3haRV9V?oc=5",
-        "publisher": "BusinessToday Malaysia",
-        "published": "2026-11-01T04:23:25.000Z"
+        "title": "Taiwan accuses China of harassment after standoff between coast guard ships",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSngwVGJvWjNIOGhtUG9qaWljWlVsWlBiRktRSDZqY1FDQlRLVzFGUzQ0VngzWkRha2JGbjFiS1JvdzBrOVpnYW5nNkJaMUZYMVFaNXFIZ2NYZFpuTmF6SDFGNWFhUEo3djZhdTVUZFFvRUdMcGJtZVhCMlgxeUtGaFcwTkk4VFgxSlI1bmNubEc3UVFwOVYxRmNWb1RTT1NSYTl0ZjZ6UVU0QmpoTDBWTHdDSGVXQkdhR3NV?oc=5",
+        "publisher": "CP24",
+        "published": "2026-11-01T13:42:31.000Z"
       },
       {
         "title": "Taiwan says China harassing shipping with east coast patrol",
@@ -524,9 +524,9 @@
     ]
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-10-31T21:11:57.853Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "vwmd1s",
+    "hash": "k45w7t",
     "tags": [],
     "headlines": []
   },
@@ -601,18 +601,58 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "1224ho9",
+    "hash": "u1qnt",
     "tags": [],
     "headlines": []
   },
   "istanbul-floods": {
-    "at": "2026-10-31T21:11:57.853Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "1deh5yq",
-    "tags": [],
-    "headlines": []
+    "hash": "1xfwjhk",
+    "tags": [
+      {
+        "point": "ISTANBUL_PORT",
+        "effect": "delay",
+        "likelihood": 0.25,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "Roads were closed and ferries cancelled in Istanbul on 31 Oct after the 15 Oct floods, and a week of rain is forecast from early November, so truck access to Ambarlı and cut-off times could slip.",
+        "action": "Ask your forwarder to confirm Ambarlı gate and truck-pickup status before each booking, and add 3 days of buffer on Istanbul-origin castings and components through mid-November.",
+        "sources": [
+          2,
+          0,
+          1
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Heavy rain forecast across Türkiye as Istanbul braces for weeklong showers",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWxWTVY3WkZIM21vSjdDbm43NHZsSDAzdVRrVmdXeEZGUGs5Z1FQTE9aOWw2aElwem05bnhzbXRBbW1qRUZxbzBoUkJobE5pUlBnZUdWYldDNG11TW1nLWhoR2l5M0x2M0JHZm5jVFhLUXJQSVFPWHR5ekFWbUxBdDIzN2hhWUlody1xT0N1d2F5ekhjdER4Z1VwVkZuR0NqbXNwTjJSWWN4ZVhtZy1TNGhfdEJzYU5EZ195dWJn?oc=5",
+        "publisher": "Türkiye Today",
+        "published": "2026-10-31T08:35:52.000Z"
+      },
+      {
+        "title": "Istanbul set for a rainy start to November",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2xJeGkzNTgxeXVhVHBHVzFBNTZaUU4yVl85UThjSmJmekpCWVJGYXhncVVubWNyd1luSVRfNi1xb21hSmp5eGtuWWVWQlNscHF0dWM5YlYya3R4VVZORjYzRnRDY1FSaWYxSkJMb1FpOUJHek53dnJMbkd4RGFkeHprVF9NTFJLb3JB?oc=5",
+        "publisher": "Hürriyet Daily News",
+        "published": "2026-10-31T05:57:16.000Z"
+      },
+      {
+        "title": "Istanbul floods: roads closed, ferries cancelled due to rain",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEYyNU5vS2xuRXpxQklsQmpFREw1bW5MOHZGWGRlenI2ckxSbllsWWgtTG1MeWIzZjBEYmNQSk5vQW53Y0lWUU5aWl9WdWdWQ3N5SF9JMEM0NWNWTjBfczBjZlZoR0JYZ2VJaEtwVkpLbzNxWGtzRHlKTW5yMDFDY0o5VnZtSFhtRVJmU1lRZUV0YnBVdGplc05lV0xYTDRpaWhlWUUyZWRXc0EyU2c?oc=5",
+        "publisher": "Hispanatolia",
+        "published": "2026-10-31T02:27:34.000Z"
+      }
+    ]
   },
   "jordan-syria-strikes-church-attack-2026": {
     "at": "2026-10-31T17:11:52.868Z",
@@ -650,9 +690,9 @@
     "headlines": []
   },
   "poland-constitutional-court-standoff-2026": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T14:12:43.648Z",
     "by": "pipeline",
-    "hash": "1g39foc",
+    "hash": "8ytaya",
     "tags": [],
     "headlines": []
   }
