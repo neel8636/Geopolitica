@@ -226,35 +226,36 @@
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-01T18:13:00.599Z",
     "by": "pipeline",
-    "hash": "50xa11",
+    "hash": "zon6gw",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-01T18:13:00.599Z",
     "by": "pipeline",
-    "hash": "1r9ndqx",
+    "hash": "5of8xv",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "capacity",
+        "effect": "security",
         "likelihood": 0.9,
         "delayDays": [
-          3,
-          10
+          2,
+          7
         ],
         "costPct": [
           15,
           40
         ],
-        "why": "As of 1 November 2026 Gulf exports through Hormuz are running at only 60-80% of normal because of the Iran war, with reports of a Hormuz closure, and the OPEC+ quota freeze leaves that constraint in place.",
-        "action": "Ask your forwarder for current Hormuz war-risk surcharges and transit status, and add 10 days of buffer stock on Gulf-origin or Gulf-bound cargo; where possible book alternative routings such as overland or Red Sea-side ",
+        "why": "As of 1 November 2026, OPEC+ reports that Gulf exports through Hormuz are running at only 60-80% of normal because of the Iran war, and Brent ended October at $113.43, so ships transiting the strait face ongoing delays, war-risk premiums and reduced throughput.",
+        "action": "Ask your forwarder for the current war-risk surcharge and transit-delay outlook on Hormuz-bound cargo, and hold 7-10 days of buffer stock for anything shipped through the strait.",
         "sources": [
+          0,
           1,
-          3,
-          0
+          2,
+          4
         ]
       },
       {
@@ -262,46 +263,53 @@
         "effect": "delay",
         "likelihood": 0.6,
         "delayDays": [
-          3,
-          8
+          2,
+          6
         ],
         "costPct": [
           10,
-          30
+          25
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic is running at 60-80% of normal as of 1 November 2026, so vessel arrivals and departures face delays and added surcharges.",
-        "action": "Ask your carrier for confirmed vessel schedules and any emergency or war-risk surcharges on Jebel Ali bookings, and see whether cargo can be moved via a port outside the Gulf with onward trucking.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where traffic is still disrupted at 60-80% of normal flows as of 1 November 2026, so containers to and from the port are exposed to slower vessel arrivals and added surcharges.",
+        "action": "Ask your forwarder for a contingency routing via Gulf-side ports outside Hormuz with onward trucking, and add 5 days of buffer to Jebel Ali delivery dates.",
         "sources": [
+          0,
           1,
           3,
-          2
+          4
         ]
       }
     ],
     "headlines": [
       {
-        "title": "OPEC set to hold oil quotas as Middle East risks constrain supply",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNi11S3V0ZXBabHp3YTlrMjF0QmVUQzV2SzN6YkoxMFpYWkJZS1lLVllESVZmd2haWnk1bnI1aTNiM3ZIZ19ydHlxZGdpemhzdEs1U2NBMTVISC1rRFlCRG5YekgwYXBVa2pVOWVwZm1BaUlROWY2emxlWjU2Zk5MSG5B?oc=5",
-        "publisher": "Traders Union",
-        "published": "2026-11-01T11:32:58.000Z"
+        "title": "OPEC+ keeps december Oil output targets steady amid Middle East supply disruptions",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkhtYkJvdVRYcENROHQ1YlpkTnlmM2xpeHk2NElpakI5QUktY0I2XzRUVVBCTXFfVW1mVEJxN1pJRUpUMFNMRWplTXBfcWw4eVVMS0IzLU5CRW9IQ2Q5M3JUU1BDRmpBeG5UN0lfMkNudWpzdlRNdG9pX1JZS0NjMDU5NTRQX0puLWFhdFBrRHZ4ZEpFOGFrc2ZIYlY1ZUIyTS1jVVZla1ZJT2UwSFlKNnZfdjlGdWxybHNoT2xnQUXSAbwBQVVfeXFMTlBRNGZ1U0o5emNqbDlkTFJJQnAzbU9NTjNOTzdqbWVYaTNvZzlVaC1FN25IczMwdmZJNFNEUlNzc19FM1FPV2ZCMWdvWTg5ZUJlV0U2c09XOWoyYkNhQkhYMTZmRVRDbzBiTUlUd2d2LU5neThxS1lJSzhtaXJlTDkxZHpwb1Rfc25BeXNxQVpQdjZCd2JLUTZjemM1NWtrRmJfUjFXQUJoVTVVWE9pNEN2engtNTBrUWkzel8?oc=5",
+        "publisher": "The News International",
+        "published": "2026-11-01T17:09:00.000Z"
       },
       {
-        "title": "OPEC+ December Output Targets Unchanged Amid Hormuz Closure",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjVkR1hjWEdHbm00eXQxdFlBS0UzZ1BwRHpLSnZpaHVaRHVweGpTbVhkaEVnb3NpUnQ5bVk1d3VtVDNiYkhxVFNJMGRhT1dBaVYyM1JBeklROUhtQkRnVGFHS19NMG5QQ0xwRU1MbC1jLUh4LWc?oc=5",
-        "publisher": "https://houseofsaud.com/",
-        "published": "2026-11-01T07:59:49.000Z"
+        "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqaF90ejBCOUJHQnp0aExzeHdIVkhVMmV0djQxYlpFV1FXM19mS3RwbU4zME1HMUxONzJLbUNhNnNZVEY1dkRhc3c0QzV1Sk9QWWEw?oc=5",
+        "publisher": "شبكة تواصل الإخبارية",
+        "published": "2026-11-01T15:51:56.000Z"
       },
       {
-        "title": "Brent Crude $113: OPEC+ Set to Hold, Futures Reopen",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU0p3SzQyaEdTRkl5akZmOGRBNHoxeU1HUVg1RjBrT0hWSG4wVmZFTGd4LWhVbWRHS3k1VTVreWdlSnRGaTFwUTVZQ19qa1lKMWlnRUVHYjBGVWNsc2ZvQTZSSV9Rd1k2TnE1QUlOYTlJZF9rQnJJaHlBR2pqQ1ZzNTBieHVGejdkbDN2eHRhQ0Z4UlVfV01tWm5NUDBJbUh0ZENTNWt3N0VlZWpzb0lDM2l4djBkQ1RSQ29GeUY3SmNtcF80WGc4eA?oc=5",
+        "title": "Oil Price: OPEC+ Holds December Targets for a Third Month as Brent Ends October at $113.43",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmNLUXl4TjBYM3Brck5qWFJDTW1melk4OGpNMkIyUnkyU05GbEJOc0NSUm9zSG96ZzdsWm1FTG95QjdBRWhDRlNNWkFvQ0ZSd1lhRmdLSzVERURkMXlkR1dJSXlUT1lnZWFBZ1BHNkR3TXg3MENIalZUMnZTRWZ1Y0xRdUltZ1d3VXpfSnVmV3N6M3JJSC1LalJoY055NEVVQ2V4QldDX0FOQ2N3MUtTN3ZSMA?oc=5",
         "publisher": "FinanceFeeds",
-        "published": "2026-11-01T06:55:43.000Z"
+        "published": "2026-11-01T15:39:02.000Z"
       },
       {
-        "title": "Crude Tensions: OPEC+ To Keep Oil Targets Unchanged As Iran War Curbs Gulf Supply",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2N3X25wcUVtUWFRVF82bzd3S1Q2OVg0N1NLZmtZNWg3T0NKNDJhUFlPUk9GbFYtdWxDTlRnQ01RemNtV0wtY1kwZC1sNEwwakdUUW1OdXJ6dm9LclV3QXg4T01DUGstSEgxWVp0LU5tV1RKNV9BWUptTTU3cDVVMnhkSWNqRFZlZXN1b0J3MW9qUFFBaUsxLVJLRHBISWdVQzd4MGhmbl96R2xYcE5Manh4dWprOUtwRXhRbUtR0gHGAUFVX3lxTE1pMjlKZU8zSEdYR016TUxpaG1xR2tTbWJjZ296dDV5V0ZEcWhYd1RKVXJFMTdwZ2RObGs0ZGprZzgwbnFfZlZuTGJJcGZMVjgwaS1ONUh5dy1OU1F2N2lTMXpQOGo0TFVqQ1dQUTRIU3I2X2ZhUXpNNmJVQkFKUHFPajg3TXN4cDFLRDQ1N1NBZHFNekxwQVdfMWd5OWF3ZVVVTG9VN0MtcmxZOW5SYjMyWVVYUUxHSU9jUVo3NjM5b01wZ0xvQQ?oc=5",
-        "publisher": "NDTV Profit",
-        "published": "2026-11-01T04:50:57.000Z"
+        "title": "OPEC+ set to keep December oil production targets unchanged amid US-Iran war disruptions | Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSEJWUWVnTUdkZm5uTDlvREhYXzIyRzVldW5vY2xoOThLMHljTWdpVEFQRTVXbzd6NWlzUWhGLW1ObC02X1FpbjlTb2ZpTzRva0ZQY1I5aXRaR0hKWDZmSjFDTkQ4ckVrdHluSC03NTVvdGJLem41RlcwR0E4T1J1U3JtUC1ZRHBmOC1RZTE1bkwyWEVxXzZDaUdRS2sxSU5JcDNXR3prTHFKN0JuMXR6R2JNczVCYXBTNm81eDhiRWpLREszQVl2cmpsYnJvV0tEOEhaSWgzRW05dkRreHNpRkduazJPRlhBTkFGMXNab9IB9AFBVV95cUxNcGs2bWZNYWo1dUFHekVULW9kcTk2VHYzV2l2MzF6QVI0V0dGNWROS2xMcE5HSVZoQ2lsUWFKM0ZQdlMtazE5Y3VpRG1IODZlclNkZXNObmJGSHBpN3g3cm5uaG1rQWhyVWxJYjZ2RnM2dDRub1V5ZmdCeUd0NW1wTU5BWXpsbXZOd2lvc0hrSVBvQWtvYzVQLXlCYUg4Wm1UTTNOSU0xSWQxTmhNZ2FHSkdVVXBQS1d0SURlWlE5QnpWekdRcXhpM2NVX0FwSXgzbTJPUnlYSE9rc0lSQmxzbWVsUGNhb3pmSF9OaFBBYktfUmpD?oc=5",
+        "publisher": "Hindustan Times",
+        "published": "2026-11-01T13:21:50.000Z"
+      },
+      {
+        "title": "Opec+ holds December oil output targets steady as Iran war disrupts supply",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2JtYURQNlh0RzZCNlVBYUY0c2xhbGZDMVJLLWFQaHBTeDRpVWdrMUlBWGlyQTBqZVItcV9HQlZoV0pOTFJWUFlhSDZZZ0t3SFVHLW5HWkYwb1pzWTZvTXJRNi1Zc0ZfQ1EtUkllZ3NpVVJJMGdLbDBVUHVxeldDdy1YY0Z1azRud0Q4WEV3NWhHZ202RDI5QVowZnlpeHc4OXBnU2VOcHZuTGFwSTNLUWpaRlVIVmRjaTJYYnJ5YmdYVmtqa21oLWxfMHZzQQ?oc=5",
+        "publisher": "The National",
+        "published": "2026-11-01T12:58:40.000Z"
       }
     ]
   },
@@ -428,9 +436,9 @@
     "headlines": []
   },
   "alberta-independence-vote": {
-    "at": "2026-11-01T11:12:32.660Z",
+    "at": "2026-11-01T18:13:00.599Z",
     "by": "pipeline",
-    "hash": "kxooh3",
+    "hash": "1y7q42j",
     "tags": [],
     "headlines": []
   },
@@ -531,16 +539,16 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-01T18:13:00.599Z",
     "by": "pipeline",
-    "hash": "vwf1ye",
+    "hash": "10gcqgv",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-01T18:13:00.599Z",
     "by": "pipeline",
-    "hash": "1c5ec4s",
+    "hash": "1qjx2kd",
     "tags": [],
     "headlines": []
   },
@@ -587,9 +595,9 @@
     "headlines": []
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-01T18:13:00.599Z",
     "by": "pipeline",
-    "hash": "cn64fw",
+    "hash": "1yfy566",
     "tags": [],
     "headlines": []
   },
