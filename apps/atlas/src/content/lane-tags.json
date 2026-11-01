@@ -199,9 +199,9 @@
     "headlines": []
   },
   "france-election-2027": {
-    "at": "2026-10-31T19:11:56.125Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "skxzrn",
+    "hash": "r3r3tp",
     "tags": [],
     "headlines": []
   },
@@ -241,61 +241,69 @@
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "tecbso",
+    "hash": "w64cpq",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "g8yzsn",
+    "hash": "1ixsqrr",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.9,
+        "likelihood": 0.92,
         "delayDays": [
-          2,
-          7
+          3,
+          10
         ],
         "costPct": [
-          10,
-          35
+          15,
+          40
         ],
-        "why": "Gulf exports through Hormuz have run at 60-80% of normal since the war began, and on 2026-10-30 the Revolutionary Guard reported three tankers on fire in the strait, with Brent at $113 on escalation fears, so transits face delays, war-risk premiums and queuing.",
-        "action": "Ask your forwarder or carrier for current war-risk surcharges and transit schedules through Hormuz, and hold at least 7 days of buffer stock on cargo that must pass the strait.",
+        "why": "Gulf exports through Hormuz are running at only 60-80% of normal during the Iran war, and on 2026-10-30 the Revolutionary Guard reported three tankers on fire in the strait, so transits face delays, war-risk premiums and queuing.",
+        "action": "Ask your forwarder for the current war-risk surcharge and a sailing-by-sailing transit status, and add 10 days of buffer stock on cargo that must pass Hormuz.",
         "sources": [
+          0,
           1,
-          0
+          2
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
-        "likelihood": 0.55,
+        "effect": "delay",
+        "likelihood": 0.7,
         "delayDays": [
-          2,
-          6
+          4,
+          12
         ],
         "costPct": [
-          8,
-          25
+          10,
+          30
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, so with tanker attacks reported on 2026-10-30 and traffic through the strait well below normal, container calls and feeder connections face delays and added war-risk charges.",
-        "action": "Ask your forwarder whether Jebel Ali bookings can be rerouted to a Gulf-outside port or an overland alternative, and confirm in writing who pays war-risk and congestion surcharges before booking.",
+        "why": "Jebel Ali lies inside the Gulf, so every call depends on Hormuz, where traffic is running at 60-80% of normal and tankers were reported burning on 2026-10-30; vessel schedules and cargo availability are therefore unreliable.",
+        "action": "Ask your forwarder for contingency routing, such as discharge at an Omani or Red Sea port with onward trucking, and confirm which carriers still guarantee Jebel Ali calls.",
         "sources": [
-          1
+          0,
+          2
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Brent Crude Oil Price at $113.43: OPEC+ Meets Sunday",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX3hRVld3M3R0TzB6T24wQ2o3Q2hCWG93VTd1NG5Sem1qR2FqaEptOHpfbk9NUl9pc0tuOTcwT3g4N2FsRmNFZDRGQnp2bEtOZ0x2d2JfLUtfa09kRDk4MWxVaFBtbTBGWTNPUjRiRzhqdVhrZ3l6b3dXc1kyakVsbUttNnJ4SVhXaHMxZXlPb3ZzanFQaENYZzg3RlZNUzNqa1hPSXlJVlRobzNDcGtMRUZwWU1POUFZNDhoc1AySTdPb3FQTXNvREd4Sl9FVEE1VHNUT1VhSmRBN0dPV3lfTV9EaUxfWHU1WnFB?oc=5",
-        "publisher": "FinanceFeeds",
-        "published": "2026-10-31T06:55:28.000Z"
+        "title": "Crude Tensions: OPEC+ To Keep Oil Targets Unchanged As Iran War Curbs Gulf Supply",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2N3X25wcUVtUWFRVF82bzd3S1Q2OVg0N1NLZmtZNWg3T0NKNDJhUFlPUk9GbFYtdWxDTlRnQ01RemNtV0wtY1kwZC1sNEwwakdUUW1OdXJ6dm9LclV3QXg4T01DUGstSEgxWVp0LU5tV1RKNV9BWUptTTU3cDVVMnhkSWNqRFZlZXN1b0J3MW9qUFFBaUsxLVJLRHBISWdVQzd4MGhmbl96R2xYcE5Manh4dWprOUtwRXhRbUtR0gHGAUFVX3lxTE1pMjlKZU8zSEdYR016TUxpaG1xR2tTbWJjZ296dDV5V0ZEcWhYd1RKVXJFMTdwZ2RObGs0ZGprZzgwbnFfZlZuTGJJcGZMVjgwaS1ONUh5dy1OU1F2N2lTMXpQOGo0TFVqQ1dQUTRIU3I2X2ZhUXpNNmJVQkFKUHFPajg3TXN4cDFLRDQ1N1NBZHFNekxwQVdfMWd5OWF3ZVVVTG9VN0MtcmxZOW5SYjMyWVVYUUxHSU9jUVo3NjM5b01wZ0xvQQ?oc=5",
+        "publisher": "NDTV Profit",
+        "published": "2026-11-01T04:50:57.000Z"
+      },
+      {
+        "title": "OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbHJPcmIwM1FXUFAzM0hWdlZyb2xhb0VsN3g2dGJxdFRGakxQU1VrTEMyS2NpQTV6NVpLM09Ma09UOF9PWnVQSmd6bG9JcThtUGRCeDgzaDVXY1AxUGo3NUcwNkhtMUlULUgwZWxSbnNaaTRRM2Q0T1pTUFlWQWg1b1NfTHJXTmhUUnYxQzZiWDU4NzctVlpz?oc=5",
+        "publisher": "EnergyNow.com",
+        "published": "2026-10-31T22:16:55.000Z"
       },
       {
         "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
@@ -463,9 +471,9 @@
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "1u46c0x",
+    "hash": "12ym67p",
     "tags": [],
     "headlines": []
   },
@@ -477,11 +485,51 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "1x0hefe",
-    "tags": [],
-    "headlines": []
+    "hash": "1vmpn9y",
+    "tags": [
+      {
+        "point": "LUZON_STRAIT",
+        "effect": "security",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          1,
+          4
+        ],
+        "why": "Since 1 Oct a new flashpoint has opened off Batanes, and on 1 Nov Taiwan said Chinese coast guard patrols were pressuring merchant vessels off its east coast, so ships using the strait may face shadowing, course changes or higher war-risk premiums.",
+        "action": "Ask your forwarder whether vessels on Taiwan, Philippines and North Pacific services are being shadowed or rerouted around the strait, and whether war-risk surcharges are being added. Allow 3 extra days of buffer stock o",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "China And Taiwan Clash Over Latest Coast Guard Patrols",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUZaeVN4OGx6QjA3dmxVRUxJaEVtOUpBTUZhX0RPNGFuc2pjckpMX1pMYklRZWpJZVB6eW5rZXVBVnBweV9WOVZWTnNkWFRxYXFrNzJ5Z09rUTdld29QRnV2d2cyVmU4d1dZN1VKS1ljMmtGbl9Fc1dndUotZmdLbkJwZEhVeXk1ZlFWcXc2M0p3eWpGVnRzeEJZN3haRV9V?oc=5",
+        "publisher": "BusinessToday Malaysia",
+        "published": "2026-11-01T04:23:25.000Z"
+      },
+      {
+        "title": "Taiwan says China harassing shipping with east coast patrol",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa3hjNU1TdTVWV0FaT0NzeVhqLTJVc01SXzA4azFxOTFiMWZJUHZfOVhzVjhEOVc4TTJCMFRfQzdrOHlaN09FTl9RYnpGOC1DbHNvV2xSdUVfajdvYXNCa3N6NDhuY2E3c1llUU5kSmhfbHQ4Tk9GQzVKemExZmFYM3VKeUFLR19UNDNyMUgxdG1EbDF1TXA2M3JUaFVSdHAxUjZiN1dxM3lJWU1CWXR2T1EtelpyWE9reWJzXzVuVEpMV1U2UnNB0gHHAUFVX3lxTE5reGM1TVN1NVZXQVpPQ3N5WGotMlVzTVJfMDhrMXE5MWIxZklQdl85WHNWOEQ5VzhNMkIwVF9DN2s4eVo3T0VOX1FiekY4LUNsc29XbFJ1RV9qN29hc0Jrc3o0OG5jYTdzWWVRTmRKaF9sdDhOT0ZDNUp6YTFmYVgzdUp5QUtHX1Q0M3IxSDF0bURsMXVNcDYzclRoVVJ0cDFSNmI3V3EzeUlZTUJZdHZPUS16WnJYT2t5YnNfNW5USkxXVTZSc0E?oc=5",
+        "publisher": "The Hindu",
+        "published": "2026-11-01T03:17:31.000Z"
+      },
+      {
+        "title": "Taiwan says China pressured vessels off east coast — The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUFWTV8tdTNBRUpkTGcwY0tBTlB5X01QTlpYTFZ0WlZVN1RaYjhuLVdtOXYwV0tlZ3U3Tmt5bHlrRnViNEtZS0p1SEl3ZzhtX3NLb0pSRnFzaGJTUmFxbWNIY1RYbjVJNkhhWHFqNWpZaFNhRGdqNEhUOVh1cEh2NFVwWU4zU0s0NkpVT0gxYzhFVUxudzhuQlVyVl9jUlRrVzMyckpDbGtZZDMyZUVQZW1qcU9Gc2E1?oc=5",
+        "publisher": "UA.NEWS",
+        "published": "2026-11-01T02:27:41.000Z"
+      }
+    ]
   },
   "russia-record-budget-deficit-2026": {
     "at": "2026-10-31T21:11:57.853Z",
@@ -491,16 +539,16 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "1j6fyj2",
+    "hash": "n8ja4r",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "1jq9q93",
+    "hash": "q00ww",
     "tags": [],
     "headlines": []
   },
@@ -526,9 +574,9 @@
     "headlines": []
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-10-31T16:11:40.031Z",
+    "at": "2026-11-01T06:12:22.831Z",
     "by": "pipeline",
-    "hash": "1ybq8ww",
+    "hash": "1708tgv",
     "tags": [],
     "headlines": []
   },

@@ -57,29 +57,9 @@
       "at": "2026-10-29T08:08:23.634Z",
       "verdict": "reject"
     },
-    "16113b705e6b": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
-    "df38c93bbc72": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "existing"
-    },
     "aa9226f8d2e1": {
       "at": "2026-10-28T15:07:15.247Z",
       "verdict": "reject"
-    },
-    "92276c920554": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
-    "3f00aa7711f7": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
-    "517c34e55c3a": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "existing"
     },
     "ba30ad1147a2": {
       "at": "2026-10-28T09:06:50.199Z",
@@ -92,10 +72,6 @@
     "c0b5c5177cf0": {
       "at": "2026-10-28T18:07:31.962Z",
       "verdict": "reject"
-    },
-    "db21c104226c": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "existing"
     },
     "f70d104c63ab": {
       "at": "2026-10-29T08:08:23.634Z",
@@ -121,10 +97,6 @@
       "at": "2026-10-29T11:08:29.745Z",
       "verdict": "existing"
     },
-    "2c6e15bb8737": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
     "52a5a7669dc0": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
@@ -149,14 +121,6 @@
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
     },
-    "5ad03483f28b": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
-    "5dae7befe13b": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
     "a9093683d36c": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
@@ -169,45 +133,13 @@
       "at": "2026-10-29T08:08:23.634Z",
       "verdict": "reject"
     },
-    "8605e1f0b2aa": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
-    "76e75034fc33": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "reject"
-    },
-    "63656e1dd91b": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "no story"
-    },
-    "debf96a3cce0": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "no story"
-    },
-    "c9877579a91d": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "no story"
-    },
-    "bfa45ff792b4": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "no story"
-    },
     "83d060dceecb": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
     },
-    "9bf77b96ae2e": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "no story"
-    },
     "49a399eaafb0": {
       "at": "2026-10-28T18:07:31.962Z",
       "verdict": "reject"
-    },
-    "8d5a008de012": {
-      "at": "2026-10-28T06:06:35.889Z",
-      "verdict": "no story"
     },
     "e280498c9d56": {
       "at": "2026-10-28T15:07:15.247Z",
@@ -3164,6 +3096,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-01T06:12:22.831Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 7 new uncovered headlines"
+    },
+    {
       "at": "2026-11-01T05:12:24.141Z",
       "screened": 0,
       "accepted": [],
@@ -4643,125 +4584,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-30T16:10:18.835Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Drones hit container ships in the Black Sea",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US military aid decision on Egypt tied to press crackdown",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Spain high-speed rail crash and calls for minister to resign",
-          "reason": "This is an accident and a domestic resignation row with no effect abroad.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Oleshky evacuation corridor opens",
-          "reason": "A local humanitarian evacuation with no clear cross-border ripple.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Russian strikes cut power to 200,000 in Dnipropetrovsk",
-          "reason": "This is a regional strike in the ongoing war with no distinct new cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Swiss foreign minister visits North Korea",
-          "reason": "A diplomatic visit that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Irish government to assess united Ireland",
-          "reason": "An assessment, not a decision with a date or a concrete cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK bars academics over Palestine Action event",
-          "reason": "A civil-liberties dispute with no money, goods or people moving across borders.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Tech stocks fall on AI cost fears",
-          "reason": "Company and market news with no state or policy angle.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Exxon, Chevron and BP quarterly profits",
-          "reason": "Company earnings with no state or policy angle.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "China denies spy plot targeting Nvidia's Huang",
-          "reason": "A denial of a media report, not a decision or event.",
-          "headlines": 2,
-          "publishers": 2
-        }
-      ],
-      "existing": [
-        {
-          "title": "Trump plan to restart Iran war; Qatar and Vance try to revive ceasefire",
-          "reason": "Both the plan to restart the war and the efforts to revive the ceasefire belong to the existing US-Israel war on Iran story.",
-          "headlines": 4,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Spain train crash reshapes the election contest",
-          "reason": "The headline covers the electoral fallout in Spain, which is part of the existing Spain election event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "spain-strike-and-snap-election"
-        },
-        {
-          "title": "Euro zone Q3 growth slows as France contracts",
-          "reason": "The French contraction and euro zone slowdown feed the existing French stress and ECB events.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "france-debt-stress"
-        },
-        {
-          "title": "ECB holds rate at 2.5%",
-          "reason": "This is the ECB rate decision already covered by the existing event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "Midterm campaign: Trump rallies and early voting",
-          "reason": "These are part of the existing US midterms event.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Crypto reels after record hack",
-          "reason": "This is the market fallout from the Binance hack already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "binance-hack-north-korea-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
