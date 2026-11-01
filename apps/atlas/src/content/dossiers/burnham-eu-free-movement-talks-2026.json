@@ -1,17 +1,17 @@
 {
   "slug": "burnham-eu-free-movement-talks-2026",
-  "title": "Burnham opens the door to talks on EU free movement",
-  "deck": "The UK prime minister wants an 'honest discussion' about returning to freedom of movement with the EU, a call senior cabinet colleagues now back, but so far it is only a call for talks.",
-  "updated": "2026-10-25",
+  "title": "Burnham opens the door to EU free movement talks",
+  "deck": "The UK prime minister says he wants an 'honest discussion' about returning to EU freedom of movement. So far it is only a call for talks, but it has split his party and put the hardest part of Brexit back on the table.",
+  "updated": "2026-11-01",
   "status": "developing",
   "region": "United Kingdom, European Union",
   "tags": [
     "Brexit",
+    "freedom of movement",
     "UK-EU relations",
     "migration",
     "labour market",
-    "Labour politics",
-    "diplomacy"
+    "Labour politics"
   ],
   "readingMinutes": {
     "card": 1,
@@ -21,35 +21,47 @@
   "fuel": [
     {
       "aspect": "politics",
-      "title": "Rayner backs Burnham free movement debate",
-      "how": "Senior cabinet backing widens political support for opening talks, but it also exposes tension with some red wall MPs.",
-      "sourceIndex": 0
+      "title": "Reeves backs Burnham, says UK belongs in EU",
+      "how": "A former chancellor saying Brexit left Britain 'poorer, weaker and less secure' gives the call senior Labour cover beyond Angela Rayner.",
+      "sourceIndex": 3
+    },
+    {
+      "aspect": "jobs",
+      "title": "Youth scheme of 80,000 a year reported",
+      "how": "The Daily Mail reports ministers have signed off a youth free movement scheme, which would be the first concrete labour-mobility step if confirmed.",
+      "sourceIndex": 4
+    },
+    {
+      "aspect": "politics",
+      "title": "Healey reportedly blocks Burnham's European ambitions",
+      "how": "Gulf Today reports resistance inside government, and Lord Glasman warns that working-class voters oppose free movement, so the push faces a real brake.",
+      "sourceIndex": 5
     }
   ],
   "card": {
-    "headline": "The UK's prime minister has put EU free movement back on the table, as a debate and not a policy",
+    "headline": "A UK prime minister has reopened the one Brexit question the EU and British voters both care most about",
     "keyNumber": {
-      "value": "Nov 2026",
-      "label": "UK-EU summit; Burnham is weighing options for a new relationship with Brussels before it",
-      "sourceIndex": 2
+      "value": "80,000",
+      "label": "a year: size of a youth free movement scheme the Daily Mail says ministers signed off (unconfirmed)",
+      "sourceIndex": 4
     },
     "impactMeter": 3,
     "forYou": [
       {
         "role": "Employers",
-        "line": "Nothing changes today. Watch the November summit for signs of a mobility scheme or a wider labour deal."
-      },
-      {
-        "role": "Finance",
-        "line": "A closer UK-EU deal could lift growth forecasts, but the political cost for Labour is unclear. Treat it as a risk to watch, not a trade."
+        "line": "Nothing changes today. Watch the youth scheme: it is the likeliest first step and would widen the pool for hospitality, farming and care."
       },
       {
         "role": "EU citizens in the UK and Britons in the EU",
-        "line": "No rules have changed. Any deal would need EU agreement and, in all likelihood, a long negotiation."
+        "line": "No rule has changed. Any deal would take years to negotiate and would need EU agreement."
+      },
+      {
+        "role": "Investors",
+        "line": "Treat this as political noise for now. It matters if talks formally start or if Labour splits."
       },
       {
         "role": "Everyone",
-        "line": "The real question is whether the government will argue for closer ties with Europe, and how voters who backed Brexit will respond."
+        "line": "The real fight is at home: senior Labour figures back Burnham, others reportedly resist, and some warn voters do not want it."
       }
     ],
     "ripple": [
@@ -57,20 +69,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "The prime minister publicly says the UK should have an 'honest discussion' about returning to free movement with the EU",
+            "text": "Burnham calls for an 'honest discussion' on returning to EU freedom of movement; Rayner backs a debate",
             "sector": "Politics"
           },
           {
-            "text": "Senior cabinet ministers, including Angela Rayner, back the call and describe it as pragmatism",
+            "text": "Former chancellor Rachel Reeves says the UK's future is in the EU, adding senior Labour weight",
             "sector": "Politics"
           },
           {
-            "text": "Some red wall Labour MPs are reported to be concerned about the message",
-            "sector": "Politics"
+            "text": "Reported sign-off of a youth scheme admitting 80,000 people a year puts a number on the idea",
+            "sector": "Jobs"
           },
           {
-            "text": "The government is weighing different options for a new relationship with Brussels ahead of a November summit",
-            "sector": "Diplomacy"
+            "text": "Reported resistance from Healey and warnings from Lord Glasman show the push is contested",
+            "sector": "Politics"
           }
         ]
       },
@@ -78,16 +90,16 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "Opposition parties are likely to attack the idea as a reversal of Brexit, which could harden the debate before any proposal exists",
+            "text": "The EU is asked to respond to a proposal it has long said comes only as part of single market membership",
+            "sector": "EU diplomacy"
+          },
+          {
+            "text": "Opposition parties gain a line of attack on migration and the Brexit settlement",
             "sector": "Politics"
           },
           {
-            "text": "EU capitals and the Commission must decide whether to engage and what they would want in return",
-            "sector": "Diplomacy"
-          },
-          {
-            "text": "Employers in labour-short sectors such as hospitality, farming and care may lobby for a mobility deal",
-            "sector": "Labour market"
+            "text": "Employers in labour-short sectors start lobbying for a youth or sector scheme",
+            "sector": "Jobs"
           }
         ]
       },
@@ -95,15 +107,15 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "Any agreed mobility scheme would reshape migration flows between the UK and states such as Poland, Ireland, France and Germany",
-            "sector": "Migration"
+            "text": "France, Germany, Ireland and Poland face a UK that wants a closer relationship, with each weighing its own interests",
+            "sector": "Europe"
           },
           {
-            "text": "The EU would probably seek concessions on rules, budget contributions or other areas in return, a trade-off that is hard to sell at home",
-            "sector": "Trade and regulation"
+            "text": "A real negotiation could reopen trade, border and regulatory questions beyond people-movement",
+            "sector": "Trade"
           },
           {
-            "text": "Debate over how far the UK should realign with the EU could shape Labour's internal balance and the next election campaign",
+            "text": "The next UK election could be fought partly on the Brexit settlement again",
             "sector": "Politics"
           }
         ]
@@ -112,87 +124,88 @@
   },
   "brief": {
     "whatHappened": [
-      "On 24 October 2026, UK Prime Minister Andy Burnham said he wants an 'honest discussion' with the British public about the possibility of a return to free movement between the UK and the EU. He framed it as part of a new relationship with Brussels.",
-      "He also said Britain should discuss how immigration to the UK has changed since Brexit. The Guardian reports that the government is considering different options for the relationship ahead of a summit in November.",
-      "On 25 October, Angela Rayner backed the call for a debate. Senior cabinet ministers also backed it, and one called it 'pragmatism'. The same report says the comments risk causing concern among some red wall MPs. No formal proposal or negotiating mandate has been announced."
+      "On 24-25 October 2026, UK Prime Minister Andy Burnham said he wants an 'honest discussion' about returning to EU freedom of movement. Al Jazeera and The Guardian reported it.",
+      "Angela Rayner backed the call for a debate. It is so far a call for talks, not a policy, a negotiating mandate or a request to Brussels.",
+      "In the following week the argument widened. Lord Glasman warned that working-class voters do not want free movement. Gibraltar's chief minister praised Burnham's courage. On 1 November former chancellor Rachel Reeves said Brexit had made the UK 'poorer, weaker and less secure' and that its future lies in the EU.",
+      "The same day the Daily Mail reported that ministers had signed off a youth free movement scheme for 80,000 people a year, and Gulf Today reported that Healey is blocking Burnham's European ambitions. We could not check either report against a primary source, so treat both with caution."
     ],
     "whyItMatters": [
-      "Politics is the only force the sources show driving this story. A prime minister raising free movement is a notable shift, because the end of free movement was the central result of the 2016 Brexit vote. Backing from Rayner, a senior and well-known figure, suggests this is not one person's idea. It also tests how much room the Labour government has to move toward Europe.",
-      "Backing from the top does not mean the party agrees. Red wall MPs sit in seats that voted Leave in 2016 and may fear the message. How loudly they object will show whether the debate becomes a policy or is quietly shelved.",
-      "The economic stakes are real but still distant. Free movement would touch labour supply, migration numbers and the UK's ties with member states such as France, Germany, Ireland and Poland. None of that happens without a negotiation, and the EU has not yet answered. This dossier treats the news as the opening of a political debate, not a change in the rules."
+      "Politics: freedom of movement ended for the UK when the Brexit transition period finished at the end of 2020. It was central to the 2016 vote. Reopening it, even as a debate, challenges one of Brexit's defining promises. Reeves's backing shows the idea has senior support. Reports of resistance from Healey, and Glasman's warning about working-class voters, show it also has senior opponents.",
+      "Jobs: the one concrete number in the coverage is the reported 80,000-a-year youth scheme. If it is real, it would be a limited, age-bound form of mobility rather than full free movement. That is the kind of step employers in hospitality, farming and care would notice first. It is also the kind of step the EU has tended to prefer to a full return. Treat this as our estimate, not a sourced finding.",
+      "Diplomacy: the EU has long held that the free movement of people comes bundled with access to the single market. A UK government that opens this subject changes the tone of every conversation with Paris, Berlin, Dublin and Warsaw. Their answer is not yet known."
     ],
     "winners": [
       {
-        "who": "Pro-EU voices inside Labour",
-        "why": "A prime minister and senior ministers have given their preferred debate official cover."
+        "who": "Pro-EU wing of Labour (Rayner, Reeves)",
+        "why": "The prime minister has given their argument a public platform and cover."
       },
       {
-        "who": "Employers that rely on EU workers",
-        "why": "Hospitality, farming and care have historically used EU labour. A debate raises the chance of a mobility deal, though nothing is agreed."
+        "who": "Employers in labour-short sectors",
+        "why": "Any scheme, even a youth one, would widen the labour pool, though nothing is agreed."
       },
       {
-        "who": "EU governments that want closer UK ties",
-        "why": "A UK government open to talks gives Brussels leverage and a partner for a wider reset."
+        "who": "EU-friendly governments and Gibraltar's leadership",
+        "why": "They have a UK partner who wants closer ties; Gibraltar's chief minister has already said so."
       }
     ],
     "losers": [
       {
-        "who": "Red wall Labour MPs",
-        "why": "They face the risk of defending a policy their voters may reject, with the reported concern already public."
+        "who": "Burnham's political flank",
+        "why": "Reported resistance from Healey and warnings from Glasman suggest an open fight inside his own camp."
       },
       {
-        "who": "The government's message discipline",
-        "why": "A debate with no policy invites attacks from opponents and speculation before the November summit."
+        "who": "The Brexit settlement's defenders",
+        "why": "Opponents of free movement now face a prime minister reopening the question."
       },
       {
-        "who": "Brexit-voting households who want lower migration",
-        "why": "They may see the call as a reversal of the 2016 result, whatever the final terms."
+        "who": "Anyone needing certainty on UK migration rules",
+        "why": "Rules are unchanged, but uncertainty about direction has risen."
       }
     ],
     "whatsNext": [
-      "November 2026: a UK-EU summit, where the government is weighing options for the relationship.",
-      "Coming weeks: whether other cabinet ministers and Labour backbenchers line up behind or against the call.",
-      "Early reactions from Brussels and from member state governments, including France, Germany, Ireland and Poland.",
-      "Whether the 'honest discussion' becomes a formal proposal, a consultation, or is quietly dropped."
+      "Watch whether 'a discussion' becomes a formal government position or a request to the EU.",
+      "Watch for official confirmation or denial of the reported 80,000-a-year youth scheme.",
+      "Watch how the EU, and France, Germany, Ireland and Poland, respond, and whether Labour's divisions deepen.",
+      "Expect opposition attacks on the migration issue and further interventions from senior Labour figures."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely outcome by the end of 2027?",
+      "question": "Before you read the scenarios: what is the most likely outcome over the next year?",
       "options": [
-        "Full free movement is agreed and in force",
-        "A limited mobility scheme (for example for young people) is agreed",
-        "Talks continue but nothing concrete is agreed",
-        "The government retreats and drops the idea"
+        "The UK and EU open formal talks on full free movement",
+        "Talks stay informal; at most a limited youth scheme advances",
+        "Burnham drops the idea after internal and voter backlash",
+        "The UK rejoins the single market"
       ],
-      "answerIndex": 2,
-      "explanation": "Our base case, at about 45%, is that the debate continues with exploratory talks but no binding deal. EU negotiations are slow, the political risk at home is high, and so far this is only a call for talks. A limited scheme is the second most likely path."
+      "answerIndex": 1,
+      "explanation": "Our base case, at about 50%, is that the debate continues and at most a narrow, time-limited youth scheme moves forward. The EU's long-held position that free movement comes with market access and the reported internal resistance both argue against a quick path to full free movement. This is author judgement, not a sourced forecast."
     },
     "recap": [
       {
-        "question": "What did Burnham say he wants?",
+        "question": "What has Burnham actually called for so far?",
         "options": [
-          "An immediate end to the Brexit deal",
-          "An 'honest discussion' about returning to free movement with the EU",
-          "A referendum next month"
+          "A new law restoring free movement",
+          "An 'honest discussion' about returning to free movement",
+          "A referendum on rejoining the EU"
         ],
         "answerIndex": 1
       },
       {
-        "question": "Who has publicly backed the call for a debate?",
+        "question": "What size of youth scheme did the Daily Mail report ministers had signed off?",
         "options": [
-          "Angela Rayner and other senior cabinet ministers",
-          "The European Commission",
-          "The Conservative Party"
+          "8,000 a year",
+          "80,000 a year",
+          "800,000 a year"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who warned that working-class voters do not want free movement?",
+        "options": [
+          "Lord Glasman",
+          "Rachel Reeves",
+          "Angela Rayner"
         ],
         "answerIndex": 0
-      },
-      {
-        "question": "What does the news change today?",
-        "options": [
-          "UK visa rules for EU citizens",
-          "Nothing in law; it is a call for talks",
-          "The UK's trade deal with the EU"
-        ],
-        "answerIndex": 1
       }
     ]
   },
@@ -201,102 +214,116 @@
       {
         "date": "2016-06-23",
         "title": "UK votes to leave the EU",
-        "detail": "The referendum result makes ending free movement of people a central goal of the Brexit settlement."
+        "detail": "The referendum result sets up the end of free movement; migration was one of the campaign's central themes. General knowledge."
       },
       {
         "date": "2020-01-31",
-        "title": "The UK leaves the EU",
-        "detail": "A transition period begins, during which free movement still applies."
+        "title": "UK formally leaves the EU",
+        "detail": "A transition period follows, during which free movement continues. General knowledge."
       },
       {
         "date": "2020-12-31",
-        "title": "Transition ends and free movement stops",
-        "detail": "EU citizens arriving in the UK, and UK citizens going to the EU, become subject to immigration rules rather than free movement."
-      },
-      {
-        "date": "2021-05-01",
-        "title": "Trade and Cooperation Agreement enters into force",
-        "detail": "The deal covers trade in goods and some services but does not restore free movement. It includes a scheduled review in the years after it began, which I believe falls in 2026."
-      },
-      {
-        "date": "2024-07-04",
-        "title": "Labour wins the general election",
-        "detail": "The new government says it wants a closer, 'reset' relationship with the EU while keeping its red lines."
+        "title": "Transition ends; free movement ends",
+        "detail": "The UK leaves the single market and customs union and the new trade deal applies from 1 January 2021. General knowledge."
       },
       {
         "date": "2025-05-19",
-        "title": "UK-EU summit on a reset",
-        "detail": "The two sides agree to work on closer ties. Reporting at the time said a youth experience scheme was among the topics. Details here are from general knowledge and are not drawn from the listed sources."
-      },
-      {
-        "date": "2026-10-24",
-        "title": "Burnham calls for an 'honest discussion'",
-        "detail": "The prime minister says he wants the public to discuss a return to free movement as part of a new relationship with Brussels, and is considering options ahead of a November summit.",
-        "sourceIndex": 2,
-        "turning": true
+        "title": "UK-EU summit agrees to work towards a youth experience scheme",
+        "detail": "A limited, time-bound mobility scheme was discussed. We are fairly but not fully certain of the details; this is background, not drawn from the listed sources."
       },
       {
         "date": "2026-10-25",
-        "title": "Rayner and cabinet colleagues back the call",
-        "detail": "Backing from senior cabinet ministers describes the move as pragmatism, but the report notes concern among some red wall MPs.",
+        "title": "Burnham says he wants an 'honest discussion' on free movement",
+        "detail": "Reported by The Guardian and Al Jazeera. It is a call for talks, not a policy.",
         "sourceIndex": 0,
         "turning": true
       },
       {
         "date": "2026-10-25",
-        "title": "Burnham links the debate to how migration has changed since Brexit",
-        "detail": "He says Britain should discuss how immigration to the UK has changed since Brexit.",
-        "sourceIndex": 1
+        "title": "Rayner backs the call for a debate",
+        "detail": "A senior Labour figure publicly supports opening the discussion.",
+        "sourceIndex": 2
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Lord Glasman warns working-class voters oppose free movement",
+        "detail": "A voter-backlash warning aimed directly at Burnham, as reported by Essex Magazine.",
+        "sourceIndex": 7
+      },
+      {
+        "date": "2026-10-31",
+        "title": "Gibraltar's chief minister praises Burnham's courage",
+        "detail": "External support for reopening talks, reported by The Mirror.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-11-01",
+        "title": "Reeves says the UK's future is in the EU",
+        "detail": "The former chancellor says Brexit made Britain 'poorer, weaker and less secure' and backs Burnham.",
+        "sourceIndex": 3,
+        "turning": true
+      },
+      {
+        "date": "2026-11-01",
+        "title": "Youth free movement scheme reportedly signed off",
+        "detail": "The Daily Mail says ministers approved a scheme for 80,000 people a year. We have not seen official confirmation.",
+        "sourceIndex": 4
+      },
+      {
+        "date": "2026-11-01",
+        "title": "Healey reportedly blocking Burnham's European ambitions",
+        "detail": "Gulf Today reports resistance inside government. Details are thin.",
+        "sourceIndex": 5
       }
     ],
     "causes": [
       {
         "name": "Structural roots",
-        "when": "2016 to 2026",
+        "when": "2016 onwards",
         "causes": [
           {
-            "name": "The Brexit settlement",
-            "detail": "Ending free movement was a defining outcome of the 2016 vote. Reopening it touches the core of the deal."
+            "name": "Brexit settlement",
+            "detail": "Leaving the single market ended free movement. Supporters of closer ties argue the economy and security have suffered; Reeves puts it as 'poorer, weaker and less secure'."
           },
           {
-            "name": "Labour's reset agenda",
-            "detail": "The government elected in 2024 set out to improve ties with the EU, which creates a path for this debate."
+            "name": "EU's 'package' position",
+            "detail": "The EU has long argued that the four freedoms, including free movement of people, come together. This limits what the UK can get without accepting people-movement."
           },
           {
-            "name": "Changed migration patterns",
-            "detail": "Burnham's own framing is that immigration has changed since Brexit. The sources do not give figures, so this dossier does not either."
+            "name": "Migration as a political fault line",
+            "detail": "The issue divides Labour's pro-EU wing from voters and MPs who see free movement as unpopular, as Lord Glasman argues."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "24 to 25 October 2026",
+        "when": "24-25 October 2026",
         "causes": [
           {
-            "name": "The prime minister's statement",
-            "detail": "Burnham says he wants an honest discussion about free movement with the EU."
+            "name": "Burnham's statement",
+            "detail": "The prime minister says he wants an 'honest discussion' about returning to free movement."
           },
           {
-            "name": "Cabinet backing",
-            "detail": "Rayner and other senior ministers back the call, which makes it look like a shared position."
+            "name": "Rayner's backing",
+            "detail": "Her public support turns a remark into a party debate."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "Coming weeks",
+        "when": "Late October to 1 November 2026",
         "causes": [
           {
-            "name": "November summit",
-            "detail": "The government is weighing options for a new relationship ahead of a summit, which gives the debate a deadline."
+            "name": "Senior endorsements",
+            "detail": "Reeves and Gibraltar's chief minister back the direction of travel."
           },
           {
-            "name": "Red wall concern",
-            "detail": "Reported unease among some MPs could force the government to clarify or retreat."
+            "name": "Concrete plan reported",
+            "detail": "A youth scheme of 80,000 a year is said to be signed off, making the idea tangible."
           },
           {
-            "name": "Opposition attacks",
-            "detail": "Parties opposed to closer EU ties are likely to seize on the call. This is our expectation, not a sourced fact."
+            "name": "Internal resistance",
+            "detail": "Healey is reported to be blocking, and Glasman warns of voter backlash; both raise the political cost."
           }
         ]
       }
@@ -305,280 +332,275 @@
       {
         "name": "Andy Burnham",
         "role": "UK prime minister",
-        "wants": "A public debate on free movement and a new relationship with Brussels",
-        "leverage": "Control of the government's agenda and the November summit position",
-        "likelyMove": "Keep the language at the level of discussion and options, and avoid committing to a deal before hearing the EU and the public"
+        "wants": "A frank national debate and a closer relationship with the EU",
+        "leverage": "Control of government agenda and negotiating mandate",
+        "likelyMove": "Keep the language to 'discussion'; test opinion before committing to a formal ask"
       },
       {
         "name": "Angela Rayner",
-        "role": "Senior Labour figure who has backed the call",
-        "wants": "A pragmatic debate that does not split the party",
-        "leverage": "Standing with Labour members and cabinet colleagues",
-        "likelyMove": "Defend the debate as pragmatism and keep other ministers on message"
+        "role": "Senior Labour figure",
+        "wants": "A debate on free movement and closer ties",
+        "leverage": "Standing in the party and with its members",
+        "likelyMove": "Keep backing the discussion and push for concrete steps"
       },
       {
-        "name": "Red wall Labour MPs",
-        "role": "Backbenchers in seats that voted Leave",
-        "wants": "Reassurance that migration will not rise in ways their voters reject",
-        "leverage": "Votes in the Commons and their public comments",
-        "likelyMove": "Press for limits, caps or conditions, and speak out if the debate drifts toward full free movement"
+        "name": "Rachel Reeves",
+        "role": "Former chancellor",
+        "wants": "The UK back in the EU in the long run",
+        "leverage": "Economic credibility and party standing",
+        "likelyMove": "Make the economic case that Brexit has cost Britain"
       },
       {
-        "name": "European Commission and EU member states",
-        "role": "The counterparty to any deal",
-        "wants": "Closer ties with the UK, probably with concessions on rules and costs in return",
-        "leverage": "They can say yes, no or 'not unless'",
-        "likelyMove": "Respond cautiously and wait for a concrete UK proposal"
+        "name": "Healey and cabinet sceptics",
+        "role": "Reported opponents inside government",
+        "wants": "To slow or block the push towards free movement",
+        "leverage": "Cabinet position and party influence",
+        "likelyMove": "Resist quietly; seek a narrower, time-limited scheme instead"
       },
       {
-        "name": "Poland, Ireland, France and Germany",
-        "role": "Member states named in the event",
-        "wants": "Varied. Ireland has the Common Travel Area to protect and Poland has a large diaspora in the UK. Positions here are our estimate.",
-        "leverage": "Each has influence on the EU position",
-        "likelyMove": "Welcome the opening in public while waiting for detail"
+        "name": "Lord Glasman and the working-class-voter wing",
+        "role": "Labour critics",
+        "wants": "No return to free movement",
+        "leverage": "Claims about the views of core voters",
+        "likelyMove": "Keep warning that this costs Labour support in its heartlands"
+      },
+      {
+        "name": "EU institutions and member states (France, Germany, Ireland, Poland)",
+        "role": "Counterparties",
+        "wants": "A stable UK relationship; the EU has historically held free movement to be part of a package",
+        "leverage": "Control of access to the single market",
+        "likelyMove": "Welcome the tone, hold their long-standing position, and prefer limited schemes to a full return"
       },
       {
         "name": "Opposition parties",
-        "role": "Critics of closer EU ties",
-        "wants": "To frame the call as a betrayal of the Brexit vote",
-        "leverage": "Media attention and Labour's red wall fears",
-        "likelyMove": "Attack the idea loudly and press the government on caps and numbers"
-      },
-      {
-        "name": "Employers and business groups",
-        "role": "Users of EU labour",
-        "wants": "Easier access to workers and less paperwork",
-        "leverage": "Lobbying and evidence on labour shortages",
-        "likelyMove": "Voice support for any mobility scheme, particularly for seasonal and care work"
+        "role": "Likely critics",
+        "wants": "To frame this as reversing Brexit and weakening border control",
+        "leverage": "Campaigning on migration",
+        "likelyMove": "Attack the idea hard; their formal responses were not in our sources"
       }
     ],
     "sectors": [
       {
-        "sector": "UK government and party politics",
-        "direction": "mixed",
-        "size": 3,
-        "why": "The debate opens a new line of argument inside Labour and between the parties. It could unify the party's pro-EU wing or split it."
-      },
-      {
-        "sector": "Hospitality and agriculture",
+        "sector": "Hospitality and food service",
         "direction": "up",
         "size": 2,
-        "why": "These sectors have historically relied on EU workers. A mobility deal would ease hiring. Nothing is agreed yet."
+        "why": "A bigger pool of young workers would ease labour shortages if a scheme is agreed; nothing is certain yet."
+      },
+      {
+        "sector": "Agriculture and food processing",
+        "direction": "up",
+        "size": 2,
+        "why": "These sectors rely heavily on seasonal and migrant labour, so any mobility scheme would help them."
       },
       {
         "sector": "Health and social care",
         "direction": "up",
         "size": 2,
-        "why": "Care and health employers are among the heaviest users of migrant labour. Easier EU recruitment could help, though the size is uncertain."
+        "why": "Care employers have struggled to recruit; wider EU access could help, but a youth scheme would not fill most roles."
       },
       {
-        "sector": "Higher education",
+        "sector": "Universities and youth exchange",
         "direction": "up",
         "size": 1,
-        "why": "Universities would gain if EU students and staff could move more easily. This is an estimate, not a sourced claim."
+        "why": "Youth mobility schemes would widen student and early-career flows between the UK and EU."
       },
       {
-        "sector": "Legal and immigration services",
-        "direction": "mixed",
-        "size": 1,
-        "why": "Rule changes bring demand for advice, but free movement would reduce some visa work."
-      },
-      {
-        "sector": "Sterling and UK markets",
-        "direction": "mixed",
-        "size": 1,
-        "why": "Closer EU ties may be read as good for growth, while political risk for the government may offset it. No market reaction is reported in the sources."
-      },
-      {
-        "sector": "EU member state diplomacy",
+        "sector": "Domestic wages in lower-paid jobs",
         "direction": "mixed",
         "size": 2,
-        "why": "France, Germany, Ireland and Poland each have different interests in UK mobility. A deal would require agreement among all of them."
+        "why": "More labour supply could hold wage growth down in some jobs while easing shortages in others; evidence is debated."
+      },
+      {
+        "sector": "Financial markets",
+        "direction": "mixed",
+        "size": 1,
+        "why": "Closer UK-EU ties could lift sentiment, but political uncertainty cuts the other way. Our estimate, not sourced."
+      },
+      {
+        "sector": "Public services and housing",
+        "direction": "mixed",
+        "size": 1,
+        "why": "Higher inflows add demand for housing and services; the size depends on the scheme's design."
       }
     ],
     "dailyLife": [
       {
-        "item": "Travel to the EU",
-        "effect": "No change now. Current rules still apply. Any new arrangement would need a negotiated agreement first."
+        "item": "Your rights today",
+        "effect": "Nothing has changed. Current visa and entry rules for EU citizens in the UK and Britons in the EU still apply."
       },
       {
-        "item": "Jobs in hospitality, farming and care",
-        "effect": "A mobility deal could ease hiring in labour-short sectors over time. It would not affect wages or availability in the short term."
+        "item": "Young people",
+        "effect": "The reported 80,000-a-year youth scheme would, if real, open study, work and travel to people of a limited age range in both directions.",
+        "sourceIndex": 4
       },
       {
-        "item": "EU citizens living in the UK and Britons living in the EU",
-        "effect": "Their rights have not changed. The debate is about future arrangements."
+        "item": "Shops, cafes and care homes",
+        "effect": "Employers in labour-short sectors may eventually find hiring easier if a scheme goes ahead."
       },
       {
         "item": "The political debate",
-        "effect": "Expect louder argument about Brexit and migration in the weeks before the November summit.",
-        "sourceIndex": 2
+        "effect": "Expect migration and Brexit to return to the front of the news as senior Labour figures take sides.",
+        "sourceIndex": 3
       }
     ],
     "scenarios": [
       {
-        "name": "Talks about talks",
-        "probability": 45,
-        "looksLike": "The debate continues. The UK and EU hold exploratory discussions and the government stays vague on terms. No binding deal by the end of 2027.",
+        "name": "Debate without a deal",
+        "probability": 50,
+        "looksLike": "The discussion continues, the government keeps its language vague, and at most a narrow youth scheme moves forward over the coming year.",
         "signposts": [
-          "The November summit ends with a general statement",
-          "The government avoids numbers and caps",
-          "Red wall MPs stay quiet or accept the framing"
+          "Official confirmation of a limited youth scheme",
+          "No formal UK request to the EU for talks on free movement"
         ],
-        "effectOnWorld": "Little change for migrants or employers. The relationship stays on a gradual reset path."
+        "effectOnWorld": "Limited change in migration and labour flows; the issue stays a political irritant for Labour."
       },
       {
-        "name": "Limited mobility scheme",
-        "probability": 25,
-        "looksLike": "The UK and EU agree a narrow scheme, such as a youth or time-limited mobility arrangement, instead of full free movement.",
-        "signposts": [
-          "The EU signals willingness for a capped or conditional scheme",
-          "Both sides publish terms",
-          "The UK sets limits on numbers or duration"
-        ],
-        "effectOnWorld": "A modest rise in two-way mobility. It sets a precedent that could expand later."
-      },
-      {
-        "name": "Retreat",
+        "name": "Narrow mobility deal",
         "probability": 20,
-        "looksLike": "Backlash from red wall MPs, opponents or voters forces the government to drop or soften the call.",
+        "looksLike": "The UK and EU agree a time-limited, age-bound or sector-specific scheme, with caps and conditions.",
         "signposts": [
-          "Public rebuke from several Labour MPs",
-          "Ministers say 'no return to free movement'",
-          "Polling shows strong opposition"
+          "Formal EU-UK talks on a youth scheme",
+          "Published caps and eligibility rules"
         ],
-        "effectOnWorld": "The reset with the EU stalls and attention shifts to other areas of cooperation."
+        "effectOnWorld": "Small, targeted gains for employers and young people; the EU keeps its principle that full free movement means market access."
       },
       {
-        "name": "Full free movement negotiated",
-        "probability": 10,
-        "looksLike": "The UK and EU open formal talks and agree a deal restoring free movement, probably alongside other concessions.",
+        "name": "Backlash and retreat",
+        "probability": 20,
+        "looksLike": "Internal resistance, opposition attacks and polling pressure push Burnham to step back from the idea.",
         "signposts": [
-          "A formal negotiating mandate on both sides",
-          "EU sets conditions on budget and rules",
-          "The government commits to a vote or referendum"
+          "Cabinet or party statements ruling out free movement",
+          "Polling shows voters strongly opposed"
         ],
-        "effectOnWorld": "A major shift in UK-EU relations and labour flows, with large political consequences at home."
+        "effectOnWorld": "The status quo holds; ties stay at current levels and Labour carries the scars."
+      },
+      {
+        "name": "Full negotiation",
+        "probability": 10,
+        "looksLike": "The UK formally asks to negotiate a return to free movement, probably alongside deeper single-market access.",
+        "signposts": [
+          "A formal UK request to Brussels",
+          "A negotiating mandate agreed in cabinet"
+        ],
+        "effectOnWorld": "A multi-year renegotiation of the UK-EU relationship; sharp political fights in the UK and in several member states."
       }
     ],
     "predictions": [
       {
-        "text": "The November UK-EU summit ends without a commitment to restore full free movement (probability 0.9).",
-        "horizon": "By 31 December 2026",
+        "text": "There will be no formal UK-EU negotiation on full free movement (about 85% confident).",
+        "horizon": "By end of 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "The EU or a major member state government publicly sets conditions, such as concessions on rules or costs, for any mobility deal (probability 0.7).",
-        "horizon": "By 31 March 2027",
+        "text": "The government will publicly confirm or detail a youth mobility scheme (about 40% confident).",
+        "horizon": "By May 2027",
+        "resolves": "2027-05-31"
+      },
+      {
+        "text": "Burnham will keep using the language of 'discussion' and will not commit to restoring full free movement as policy (about 70% confident).",
+        "horizon": "By March 2027",
         "resolves": "2027-03-31"
       },
       {
-        "text": "Several Labour MPs publicly oppose the call, and the government softens its language on free movement (probability 0.45).",
-        "horizon": "By 31 January 2027",
-        "resolves": "2027-01-31"
+        "text": "Senior Labour figures will openly split on the issue again, with at least one more cabinet-level intervention against it (about 60% confident).",
+        "horizon": "By end of 2026",
+        "resolves": "2026-12-31"
       },
       {
-        "text": "The UK and EU agree some form of limited mobility scheme, narrower than free movement (probability 0.25).",
-        "horizon": "By 31 December 2027",
+        "text": "The EU will not offer full free movement without single-market access (about 90% confident).",
+        "horizon": "By end of 2027",
         "resolves": "2027-12-31"
-      },
-      {
-        "text": "Full free movement is in force between the UK and the EU (probability 0.03).",
-        "horizon": "By 31 December 2028",
-        "resolves": "2028-12-31"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "Do not change hiring plans yet. Nothing in law has changed.",
-          "Gather evidence on labour shortages to feed any consultation.",
-          "Track the November summit for signs of a mobility scheme.",
-          "Keep EU staff informed that their current rights stand."
+          "Do not change hiring plans yet: rules are unchanged and any scheme is likely to be narrow and years away.",
+          "Map your reliance on EU-born and seasonal labour so you can respond quickly if a scheme is announced.",
+          "Contribute evidence to trade bodies lobbying on a youth or sector scheme."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat the story as political risk and potential growth upside, not a market event so far.",
-          "Watch for any move in sterling or UK equities tied to EU relations.",
-          "Watch the Labour party response for signs of a split."
+          "Treat the story as political risk, not a market event, until formal talks begin.",
+          "Watch for official confirmation of the reported youth scheme and for any cabinet split.",
+          "Avoid pricing in a UK return to the single market; the base case is narrower."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "No action is needed. Rules for travel, work and residence are unchanged.",
-          "If you are an EU citizen in the UK or a Briton in the EU, keep your residence paperwork up to date.",
-          "Follow official government sources, not headlines, for changes."
+          "Do not change travel, study or work plans because of this debate; current rules still apply.",
+          "If you or a family member are of youth-scheme age, watch for official guidance rather than press reports.",
+          "Expect migration to dominate the news cycle for some time."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Define what 'honest discussion' means: a consultation, a mandate or a summit position.",
-          "Be clear about limits and trade-offs before opposition parties define them.",
-          "Coordinate with Ireland, Poland, France and Germany on their differing interests.",
-          "Publish evidence on how migration has changed since Brexit."
+          "Separate the principle of free movement from narrower schemes that can be capped and tested.",
+          "Publish the evidence on labour shortages and wages to anchor the debate.",
+          "Sound out France, Germany, Ireland and Poland early to avoid public surprises."
         ]
       }
     ],
     "analogues": [
       {
+        "event": "Swiss vote to curb mass immigration",
+        "year": "2014",
+        "whatFollowed": "The EU refused to separate free movement from market access; Switzerland later passed a watered-down implementation, and relations with Brussels stayed difficult for years."
+      },
+      {
         "event": "Cameron's EU renegotiation",
         "year": "2015-16",
-        "whatFollowed": "A prime minister sought changes on migration and benefits before the Brexit referendum. The concessions won were seen as modest and the vote went against staying."
+        "whatFollowed": "The EU refused to restrict free movement itself and offered limited changes on benefits; voters rejected the package in the referendum."
       },
       {
-        "event": "Swiss vote on limiting mass immigration",
-        "year": "2014",
-        "whatFollowed": "Switzerland voted to cap EU migration. The EU insisted free movement was tied to its wider market access, and years of negotiation followed. Details are from general knowledge."
-      },
-      {
-        "event": "Norway's EEA arrangement",
-        "year": "1994 onward",
-        "whatFollowed": "Norway accepted free movement in return for single market access. It shows the trade-off the EU is likely to raise with the UK. Details are from general knowledge."
+        "event": "Norway and the European Economic Area",
+        "year": "1994 onwards",
+        "whatFollowed": "Norway has market access but accepts free movement of people and pays into EU programmes; the model shows the trade-off the EU would likely offer the UK."
       }
     ],
     "watch": [
       {
-        "title": "UK-EU summit in November",
-        "why": "The government is weighing options ahead of it. The outcome will show whether the call turns into a proposal."
+        "title": "Official confirmation or denial of the youth scheme",
+        "why": "The Daily Mail's 80,000-a-year figure is unconfirmed; a government statement would show whether this is real policy."
       },
       {
-        "title": "Commission and member state reaction",
-        "why": "France, Germany, Ireland and Poland each have different interests. Their first public words set the tone."
+        "title": "EU and member-state responses",
+        "why": "Whether Paris, Berlin, Dublin and Warsaw welcome, condition or reject the idea decides how far it can go."
       },
       {
-        "title": "Red wall Labour MPs",
-        "why": "Any public rebellion would show how far the party will go."
-      },
-      {
-        "title": "Opposition party response",
-        "why": "A strong attack could push the government to narrow the debate."
+        "title": "Cabinet and party divisions",
+        "why": "Healey's reported resistance and Glasman's warning could grow into an open split."
       },
       {
         "title": "Polling on free movement",
-        "why": "Public opinion will shape how far the government goes. None is cited in the sources."
+        "why": "Voter opinion will shape how long Burnham keeps pushing."
       },
       {
-        "title": "Trade and Cooperation Agreement review",
-        "why": "A scheduled review is, to my understanding, due around 2026 and could be a vehicle for talks. This needs checking."
+        "title": "Opposition party positions",
+        "why": "A strong campaign against the idea would raise the political cost."
       },
       {
-        "title": "Any formal consultation or mandate",
-        "why": "This is the point where a call for talks becomes policy."
+        "title": "Any formal UK request to Brussels",
+        "why": "This would mark the shift from debate to negotiation."
+      },
+      {
+        "title": "Next UK-EU summit or ministerial meetings",
+        "why": "Dates were not in our sources, but they are the likeliest venue for a first formal exchange."
       }
     ]
   },
   "evidence": {
     "sources": [
       {
-        "title": "Rayner backs Burnham call for debate on return to free movement with EU",
-        "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+        "title": "Andy Burnham says he wants 'honest discussion' about freedom of movement with EU",
+        "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
         "publisher": "The Guardian",
-        "date": "2026-10-25"
+        "date": "2026-10-24"
       },
       {
         "title": "UK PM Burnham says he wants to discuss a return to EU freedom of movement",
@@ -587,63 +609,88 @@
         "date": "2026-10-25"
       },
       {
-        "title": "Andy Burnham says he wants 'honest discussion' about freedom of movement with EU",
-        "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+        "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+        "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
         "publisher": "The Guardian",
-        "date": "2026-10-24"
+        "date": "2026-10-25"
+      },
+      {
+        "title": "Rachel Reeves says UK's future is in EU as she backs Andy Burnham on Brexit",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+        "publisher": "The Guardian",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Youth free movement scheme reportedly signed off (Daily Mail)",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOci1jaUVEd0FLTU1JM0xJb015dDdjdWFoUy1OQWxBNUdxcmxUTXFCUEZwTVJvVEo4S2F3dVJKOVFlS1kwR3o3OTVnMVlxa0o3OFd2TFhuZXFILVVtVGl3amxFNW1FZlBBeXhxbERydzVxVVdibDJhdXJET3RJMDBCaEtwQUxNWWZiTEJhOFJUb2V6U3RWNjZxMTJQME9CcDVfNkNfOEI2RdIBrAFBVV95cUxNemdXUkRqUXpCS29KelFncGZxSDRVUE5jc2NFelNlWHF6TFQ5NTU1dnZ4cEJyNW1FZHVmYUxKeWpUN1BtZjlzT3BpWi0zeGNEd2lERE9XTV85QXAxTlBHVXFIelU0WnJPR2I5dUNFNEp4WTM5S2ZwQ1RSNWRwR0wycTdOcC1FUy00NG92NGFMQmFLLV9PNzkyMnN2a0QzRWp4dU5MYklxMDh3N28w?oc=5",
+        "publisher": "Daily Mail via Google News",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Healey blocks Burnham's European ambitions",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkljUERoVzVZbjd5MjJ4cGVOUVV0eTQ5dnVzSU1mclhROHdNTHIzZ0kyM3ZESndTazlRb3VxRlUyMW54UlhNNUotQVIzajJ1cmp0VkpTZ0lkbVIzN2JrZkRaXzBrcDVRVHJaSlNNelMxNm9yVDQ0LTFxMXR5UEtPVjlNSlNmdlMyejl5ZFZ3?oc=5",
+        "publisher": "Gulf Today via Google News",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Gibraltar chief minister praises Burnham's courage on Brexit",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHRuZGE4aEt1LW5JMmJYQUlPdnlRMmVXaFBzc092M3Q2aWdyZFdRbFRsNm5Wc25FNWItckVPclVGbVgyTmVsRWl2ZFlmcWtDRUpnWnl1ZGF5TmczX0E2LVl2UHNNTTFhMU5mV2FiSjVTRU9yLVFNV280VmIyblhTUU9PWHlyNknSAYwBQVVfeXFMTmpiY3cxU1ExRDVpSE5ZOVFhRWtMYjRxS25Eak9PQ0x4eDV5c1pobFVmb0dab1k5SHdDR0tON2w5RV9BR0lqaWNGR0JMZWI0M2c5c3Qxc3lLeUpsWU8xUjRwVGliTzVVNllPakZpWDZ0SkRSUGRFNkFQZ3dVb1owcmVyd0JvakpyczRSQ2E?oc=5",
+        "publisher": "The Mirror via Google News",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Glasman warns Burnham working class opposes free movement",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmlSSHlqN3dfd1dCT3BjZUZiOXdScDlVWFhsOUlpQmNrLUc1bUVYU3gxMjJwTV9FSVh6RU16TFB1empacVNaV0xTcVY2UXBLSFN3R0hYSlJtb1k4blVodlF3NDh2VXhFdGhaVXpzVXgzODBCb3BEOTFHYi1UTlpzSkVsZ09xZnJZc093LVdkaGo4SlpJZFNWdzhjVVZ1aEU1d3hXdzhTQS1MSU9qU0xzYnhqbzZJQ1NJOXFqbkk4aDE4Q2hKM29haQ?oc=5",
+        "publisher": "Essex Magazine via Google News",
+        "date": "2026-10-30"
       }
     ],
     "confidence": [
       {
-        "claim": "Burnham called for an 'honest discussion' on returning to free movement with the EU",
+        "claim": "Burnham called for an 'honest discussion' on free movement and Rayner backed a debate",
         "level": "high",
-        "note": "Reported by both The Guardian and Al Jazeera."
+        "note": "Reported by The Guardian and Al Jazeera; it is a call for talks, not policy."
       },
       {
-        "claim": "Rayner and other senior cabinet ministers backed the call",
+        "claim": "Reeves backs Burnham and says Brexit made the UK poorer, weaker and less secure",
         "level": "high",
-        "note": "Stated in The Guardian report."
+        "note": "Reported by The Guardian on 1 November."
       },
       {
-        "claim": "Some red wall MPs may be concerned",
-        "level": "medium",
-        "note": "The Guardian says the comments 'risk causing concern'. We have only the summary text, not the full article."
-      },
-      {
-        "claim": "A summit is planned in November",
-        "level": "medium",
-        "note": "The Guardian summary mentions a summit in November. The exact date and format are not in the material."
-      },
-      {
-        "claim": "Historical background (2016 to 2025)",
-        "level": "high",
-        "note": "Well-known events from general knowledge, with no URLs cited. The details of the May 2025 summit and the Trade and Cooperation Agreement review date are less certain."
-      },
-      {
-        "claim": "Scenario probabilities, prediction probabilities and sector effects",
+        "claim": "Ministers signed off a youth free movement scheme for 80,000 a year",
         "level": "low",
-        "note": "Author judgement, not sourced forecasts. Only the summaries of three articles were available."
+        "note": "Reported only by the Daily Mail in the material; we saw only the headline summary and no official confirmation."
       },
       {
-        "claim": "Positions of EU member states and opposition parties",
+        "claim": "Healey is blocking Burnham's European ambitions",
         "level": "low",
-        "note": "Estimates. The sources do not report any reaction from them."
+        "note": "Single report from Gulf Today; details were not available to us."
+      },
+      {
+        "claim": "Background facts on Brexit dates, the EU's package position, and the Swiss and Norway analogues",
+        "level": "medium",
+        "note": "General knowledge, stated with high confidence but not drawn from the listed sources; the May 2025 youth scheme detail is less certain."
+      },
+      {
+        "claim": "Scenario and prediction probabilities",
+        "level": "low",
+        "note": "Author judgement, not a sourced forecast; to be graded as events resolve."
       }
     ],
-    "method": "Drafted from three listed articles and their headline summaries, all from 24 and 25 October 2026. The full text of the articles was not available, only summaries. Historical background comes from general knowledge and carries no source link. The reactions of EU governments and opposition parties, the sector effects, the scenario and prediction probabilities and the notes on the Trade and Cooperation Agreement review are the author's estimates, and the confidence table says so.",
+    "method": "Drafted from the listed sources and wire headlines, mainly short summaries rather than full articles. We estimated the scenario and prediction probabilities, the sector impacts and the analogues from general knowledge. Reports of the 80,000-a-year youth scheme and of Healey's resistance rest on single outlets and we could not verify them. No numerical series was available, so no chart is included.",
     "changeLog": [
       {
-        "date": "2026-10-25",
+        "date": "2026-11-01",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-25T14:19:09.393Z",
+    "at": "2026-11-01T15:21:35.594Z",
     "model": "claude-sonnet-5-5",
     "sources": 3,
-    "headlines": 3,
+    "headlines": 4,
     "reviewed": false,
     "size": "deep"
   }
