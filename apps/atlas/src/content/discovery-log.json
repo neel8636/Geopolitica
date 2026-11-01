@@ -9,10 +9,6 @@
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
     },
-    "7b2f3337c5e0": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
-    },
     "38e04f75cb1e": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
@@ -27,10 +23,6 @@
     },
     "59fa63dd50fa": {
       "at": "2026-10-28T12:07:03.388Z",
-      "verdict": "reject"
-    },
-    "178c42b4d7f0": {
-      "at": "2026-10-28T03:06:24.951Z",
       "verdict": "reject"
     },
     "6685a6e2ced0": {
@@ -61,10 +53,6 @@
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
     },
-    "da0f9a33f91e": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
-    },
     "9a1796ce18eb": {
       "at": "2026-10-29T08:08:23.634Z",
       "verdict": "reject"
@@ -76,10 +64,6 @@
     "df38c93bbc72": {
       "at": "2026-10-28T06:06:35.889Z",
       "verdict": "existing"
-    },
-    "dd188a6eb9bf": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
     },
     "aa9226f8d2e1": {
       "at": "2026-10-28T15:07:15.247Z",
@@ -101,25 +85,9 @@
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "reject"
     },
-    "3b4ab57bd224": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
-    },
-    "ea0ec7319b84": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
-    },
     "9fdd38e7f137": {
       "at": "2026-10-28T09:06:50.199Z",
       "verdict": "existing"
-    },
-    "fbc6522a6918": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
-    },
-    "0ea74d500200": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "reject"
     },
     "c0b5c5177cf0": {
       "at": "2026-10-28T18:07:31.962Z",
@@ -143,10 +111,6 @@
     },
     "548a1a05caef": {
       "at": "2026-10-28T09:06:50.199Z",
-      "verdict": "reject"
-    },
-    "31eae68c2dbe": {
-      "at": "2026-10-28T03:06:24.951Z",
       "verdict": "reject"
     },
     "68a57eee168a": {
@@ -192,18 +156,6 @@
     "5dae7befe13b": {
       "at": "2026-10-28T06:06:35.889Z",
       "verdict": "reject"
-    },
-    "b0fa7951f6c8": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "no story"
-    },
-    "5fc7553b0f2c": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "no story"
-    },
-    "139c20dd158d": {
-      "at": "2026-10-28T03:06:24.951Z",
-      "verdict": "no story"
     },
     "a9093683d36c": {
       "at": "2026-10-28T09:06:50.199Z",
@@ -3172,6 +3124,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-01T03:12:08.592Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 6 new uncovered headlines"
+    },
+    {
       "at": "2026-11-01T01:29:13.261Z",
       "screened": 0,
       "accepted": [],
@@ -4670,139 +4631,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-30T12:10:07.622Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US and Japan agree on Japanese facility for joint missile production",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "El Salvador sends 2,000 troops to Haiti to find four missing soldiers",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Ukrainian drone strike on Russian refinery; Oleshky evacuation corridor",
-          "reason": "A single refinery strike and a local evacuation or aid corridor show no clear cross-border channel beyond ongoing war coverage.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "Alphabet, Intel, Amazon, BP and AI company earnings",
-          "reason": "Company and market news with no state or policy angle.",
-          "headlines": 10,
-          "publishers": 2
-        },
-        {
-          "title": "Africans recruited to fight for Russia",
-          "reason": "Family appeals and features, not a dated development or state decision.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "EU-Canada partnership offer at Montreal summit",
-          "reason": "Summit vision and a backed-away offer decide nothing concrete.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Post Office suspends sending goods to the EU",
-          "reason": "A company service suspension with no clear state decision reported.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Spain train crash",
-          "reason": "An accident with no effect abroad.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Opinion and analysis pieces",
-          "reason": "Commentary and explainers, not developments.",
-          "headlines": 5,
-          "publishers": 3
-        },
-        {
-          "title": "Assorted domestic, crime and local stories",
-          "reason": "Local or domestic events, or ones without a clear cross-border channel.",
-          "headlines": 22,
-          "publishers": 9
-        }
-      ],
-      "existing": [
-        {
-          "title": "Euro zone Q3 growth slows to 0.4% as France contracts",
-          "reason": "New growth data feeds directly into the ECB's dilemma over inflation and French stress already tracked on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "ECB holds rate at 2.5%",
-          "reason": "The ECB rate decision is part of the existing ECB event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "UK defence spending row and foreign-contractor investment rule",
-          "reason": "Part of the UK's defence spending push following the Budget.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Crypto reels from biggest-ever hack",
-          "reason": "The record hack is already on the map as the Binance hack blamed on North Korea.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "US midterm campaign final stretch and early voting",
-          "reason": "Campaign and early-voting news belongs to the existing midterms event.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "Vance contacts Iranian official to revive talks",
-          "reason": "Part of the diplomacy around the US-Israel war on Iran.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "UN vote on Cuba embargo support falls",
-          "reason": "Fits the existing US-Cuba pressure event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "rubio-cia-cuba-appeal-2026"
-        },
-        {
-          "title": "UK economy after the Budget",
-          "reason": "Budget analysis for the existing UK Budget event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
