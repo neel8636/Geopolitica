@@ -885,6 +885,77 @@
         "headlines": 6,
         "publishers": 4
       }
+    },
+    {
+      "id": "poland-constitutional-court-standoff-2026",
+      "title": "Poland's government and president clash over Constitutional Court",
+      "type": "regulation",
+      "date": "2026-11-01",
+      "status": "developing",
+      "region": "Poland",
+      "lat": 52.23,
+      "lon": 21.01,
+      "countries": [
+        "PL",
+        "BE"
+      ],
+      "summary": "Police were deployed and protesters gathered at Poland's top court as the government and the president fought over who controls it, and the president held crisis talks while the EU Commission said parliament has the right to appoint its judges. The Commission taking a side bears on rule-of-law conditions attached to EU funds for Poland, a test for how Brussels enforces judicial independence across the bloc.",
+      "severity": 3,
+      "keywords": [
+        "constitutional court",
+        "poland",
+        "polish president",
+        "polish parliament",
+        "judges",
+        "stand-off",
+        "rule of law",
+        "warsaw",
+        "european commission",
+        "top court"
+      ],
+      "links": [
+        {
+          "to": "eu-budget-2028-2034",
+          "kind": "affects",
+          "why": "Rule-of-law findings against Poland can shape conditions on EU funds, which feeds into talks on the next seven-year EU budget.",
+          "via": "rule-of-law conditions on EU funds"
+        }
+      ],
+      "sources": [
+        {
+          "title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
+          "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
+          "publisher": "Euronews",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Polish president holds crisis talks in court standoff",
+          "url": "https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Police deployed during stand-off over control of top Poland court",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+          "publisher": "BBC World",
+          "date": "2026-10-31"
+        }
+      ],
+      "news": {
+        "q": "Poland \"Constitutional Court\" OR \"Trybunał Konstytucyjny\" president parliament judges",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-11-01T07:12:24.244Z",
+        "reason": "Police were deployed in a government-versus-president fight over control of the top court, and the EU Commission has taken a side, which bears on rule-of-law conditions for EU funds to Poland.",
+        "channel": "EU rule-of-law decisions and EU funds",
+        "reaches": [
+          "BE",
+          "DE"
+        ],
+        "headlines": 4,
+        "publishers": 4
+      }
     }
   ]
 }
