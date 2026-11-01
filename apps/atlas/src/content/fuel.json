@@ -2819,7 +2819,7 @@
     "items": []
   },
   "italy-election-2027": {
-    "at": "2026-11-01T01:12:11.337Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
     "items": [
       {
@@ -2829,8 +2829,8 @@
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Italy's anti-Meloni opposition plans to hold primaries by February to pick a joint leader, with the opposition reported as uniting against the government.",
-        "via": "unified opposition candidate",
+        "what": "Italy's anti-Meloni opposition plans to hold primaries by February to pick a joint candidate, shaping the field before the 2027 vote.",
+        "via": "united opposition candidate",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2847,62 +2847,14 @@
         ]
       },
       {
-        "id": "meloni-rules-out-alliance-with-vannacci",
-        "title": "Meloni rules out alliance with Vannacci",
+        "id": "meloni-government-s-26-billion-euro-budget",
+        "title": "Meloni government's 26 billion euro budget",
         "when": "2026-10-30",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Prime Minister Meloni said she excludes an alliance with Vannacci, shaping the makeup of the right-wing coalition heading into the vote.",
-        "via": "right coalition boundaries",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Italian Prime Minister Meloni rules out alliance with Vannacci — ANSA English",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEFYRWZKaUNxSXV4NWUwTnUzRHhYdXNYRl82bEpXa1RaU0twb3h4cjBSeENzT0ZMSjM5NzE1em00RDBxSEJKVXNhRnZwSzhiRS1hZFhPSTJTTF8tdGp1NDhheW9VTGtzdlU1NDE1QjNJbzBmcThZOS0xZkVDYXdDbVIyUS04bWZTUnZZa0R3bDdaNC12VkxwekcwaEl6bnJBMjlDZjFB?oc=5",
-            "publisher": "UA.NEWS"
-          }
-        ]
-      },
-      {
-        "id": "nationwide-anti-government-protests",
-        "title": "Nationwide anti-government protests",
-        "when": "2026-10-30",
-        "place": "Italy",
-        "lat": 42.5,
-        "lon": 12.5,
-        "what": "Large anti-government protests, including teen rallies, spread across Italian cities, and Meloni reportedly deployed troops in response.",
-        "via": "street pressure on government",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Major anti-government protests sweep across Italy",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXJSTnFZQTQ0UTdHUW9SN0ZIalp0WHFhdlRwd1FBVHk4YW95YlRDLWhuaDdIeXRnU0UtXzdWZk9sdzlUaUpYWl9LcERVMEE2NFpDQm4yS2lSQXgxTTVkQTM2TWhYa1hMZm15bkJZT1I2SWI0NC1IX1hiVDl6NlhXZTBkX3hwMTA?oc=5",
-            "publisher": "CNN"
-          },
-          {
-            "title": "Teen rallies take to the streets across Italy",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNajJZWThZczBLTjlkUUJheFFVOHBBZGJzaTYtX05GOE5SNkFmd2hGa1VDaTJ0WmJQRXJBSXJVdUFmMzJPUGJJOU40UlhzQ0N2cDNENU9lRTF5aTVWdFk2czE4UGVRbGZrNlF0NFBXajBHQ0lNYXJpdllFUjZfeVpIbmxYLUFzVVVOby1JQnB1MFBCSlHSAZgBQVVfeXFMUFFpWWxYX1ZSMUxHNTIwZkVCdjBfaDJpWlczc0RBRTFzcTRXc2VhWXVXcWhaRWdTeUcyNkZ1RnJSVGpTYkVJbVBsLWNiYldSaHZBM1gyam9nSnNqTDhsaDlsVU8xS1diajFkdzFTU3hkMzJPb0ZmS1VjTnNRcmsya0RMOGJSUUktUXpzUXE5YXRoZS1tamx6T3Y?oc=5",
-            "publisher": "NST Online"
-          },
-          {
-            "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
-            "publisher": "Cirebon Times"
-          }
-        ]
-      },
-      {
-        "id": "26-billion-budget-with-tax-cuts",
-        "title": "€26 billion budget with tax cuts",
-        "when": "2026-10-30",
-        "place": "Rome",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "The Meloni government's €26 billion budget includes tax cuts and family benefits, a spending offer to voters ahead of the election.",
-        "via": "voter-targeted spending",
+        "what": "The government presented a 26 billion euro budget with tax cuts and family benefits, a pitch to voters ahead of the election.",
+        "via": "tax cuts for voters",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2914,44 +2866,96 @@
         ]
       },
       {
-        "id": "azione-sets-red-lines-on-forza-italia",
-        "title": "Azione sets red lines on Forza Italia",
+        "id": "nationwide-protests-as-troops-are-deployed",
+        "title": "Nationwide protests as troops are deployed",
         "when": "2026-10-31",
+        "place": "Italy",
+        "lat": 42.5,
+        "lon": 12.6,
+        "what": "Protests spread across Italy as Meloni deploys troops, adding public unrest to the pre-election climate.",
+        "via": "street anger at government",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
+            "publisher": "Cirebon Times"
+          }
+        ]
+      },
+      {
+        "id": "meloni-becomes-longest-serving-postwar-premier",
+        "title": "Meloni becomes longest-serving postwar premier",
+        "when": "2026-11-01",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Calenda's Azione party set out its conditions regarding Forza Italia, while a poll on Calenda drew attention, affecting centrist alliance options.",
-        "via": "centrist alliance bargaining",
+        "what": "Meloni's government became the longest-serving in postwar Italy, giving her a record of stability to run on.",
+        "via": "incumbent stability record",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Azione’s red lines regarding Forza Italia",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzVoYUlQYXJZaXAxd1pFc2ZaQzRRNkR0bkE4MS1ld2VSM0FRaVBybWZwYkk5eGdYdkM0N0QxVTVsUnZhVksxMjFNZW52eWl2WDktZ08zdG5IdFpqeXY0YWdrSzhWVm1OWmRKaUxaTjI1SGZ5LThTN3hWNWVtNFlSNWQ1THMxT1R6X2pNN21zWENQUEtVVXIzUXlpdk50cktwakE?oc=5",
-            "publisher": "Il Foglio"
-          },
-          {
-            "title": "Meloni, Cateno’s ‘Leghuzza’ and the poll on Calenda",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbkl3S1YyNE5YWko1UDlfQ0RBNFlxZ29reWdRODBLc1RmbkVVZWt3SEduaUdPcGQzbWdlRzAxbVd3WlkxYm92VkFxLUpvYTBXdnBxRjY1ellscFFkSlFvdnJGSlI5QzdZYnZxaWdLNGlFUl9HME9oa2RyV0hjeGs5ZnRycjY5MnNDdDNJbGJNM21kOF9nQ25FaTgyN3dlTEJqRkZHRmJyUlF1Y0U?oc=5",
-            "publisher": "Il Foglio"
+            "title": "Meloni government becomes longest-serving in postwar Italy",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXhWbVZ4UzJtLVExRVdpV3dVckZWLXR4LUtiaUh3d1hCRC03ZTJmVnpsaFo2aWtkdUltT3l5aGhBcl9UMXZBbk9NS3diLUJzMV9fWFB5b3RKVDFTcnAyc2NodE5HcERQSjlacTZkS3BLYjUybENxaDY0Vy1IUW9pWDdoOEhWbjZGTVZ2akZfVTJoWnkxS0HSAZYBQVVfeXFMTzBPeTE2bzlJWXVLTWg3Q2N1WUZoV1U5cWFrcmJ1b2p3Ykp2Q3NONTNSME1NbjBUOG9pOHphWktWNkxrOTZoZ1YxZGNhcTFNaFJfMGwwUUVnY1hDVXFvR1d1SzIxY0lWb0hoTHU3Rl9sOUxXNVdiRVI0WWswLVhlMWFwdURmVXpGellsZ2RYX0hfWDEzT19R?oc=5",
+            "publisher": "DW.com"
           }
         ]
       }
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-11-01T01:12:11.337Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "eu-parcel-fees-could-raise-6-billion",
-        "title": "EU parcel fees could raise €6 billion",
+        "id": "pressure-to-raise-defence-spending-in-budget",
+        "title": "Pressure to raise defence spending in budget",
+        "when": "2026-10-31",
+        "place": "Brussels",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "The EU is under pressure to increase defence spending in the 2028-2034 budget, which pushes up the total that leaders must agree.",
+        "via": "competing spending demands",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "The EU faces pressure to increase defense spending in the 2028-2034 budget.",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU1pqeEh3S1laWmJMcDVUNTRRYW00NjlKWXpRUGdZWFN2SS1uQTVycHJGTXM4MnpOemZSYjNPTHZPeEFQZk1nSEljWDQyV0YyTXlwc1F0WENxc3g0MW01bjZNTTM2blBXeEdRaEM1Wkw4emlQOExuZzZiOUpQNm5FcHNmeTJMelpwX3QyOHlyUGdsNms?oc=5",
+            "publisher": "Vietnam.vn"
+          }
+        ]
+      },
+      {
+        "id": "parliament-rapporteurs-agree-horizon-europe-successor",
+        "title": "Parliament rapporteurs agree Horizon Europe successor",
         "when": "2026-10-30",
         "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "A document seen by Reuters shows EU fees on cheap parcels from Shein and Temu could raise €6 billion, a possible new source of budget revenue.",
-        "via": "new own-resource revenue",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe, setting a Parliament position on one spending strand of the 2028-2034 budget.",
+        "via": "Parliament position on research",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "MFF 2028–2034: EP rapporteurs reach agreement on the successor to Horizon Europe",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJqRGJBMjlseUU2djAwdU8yUGZkYkJwMDd3eUdNUGZySW1YR2VBcE5DN2ZheC1tUVl5VDFFRUl4M2Nnc2UzTWxESE0yTmZqRE9HanNIbWp1SkdBN1M4OWpzamZCa2FmRGxJUU54RU1kRkRTbmxlQ0pEWVFZOTA0MFVNM2dBMFY4Uy1adWl5X2dKNElfYkdWUjhlUW4xbDhpR242aWRJaUNXenl4Y1Q2TGFaNU1NWmJ0SE0ybGx1YUxmQQ?oc=5",
+            "publisher": "FASI.eu"
+          }
+        ]
+      },
+      {
+        "id": "fees-on-cheap-shein-and-temu-parcels",
+        "title": "Fees on cheap Shein and Temu parcels",
+        "when": "2026-10-30",
+        "place": "Brussels",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "A document seen by Reuters shows EU fees on cheap parcels from Shein and Temu could raise 6 billion euros, a possible source of budget revenue.",
+        "via": "possible new EU revenue",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -2963,14 +2967,14 @@
         ]
       },
       {
-        "id": "eu-proposes-51-5-billion-euro-for-ten-t",
-        "title": "EU proposes 51.5 billion euro for TEN-T",
+        "id": "51-5-billion-euro-proposed-for-ten-t",
+        "title": "51.5 billion euro proposed for TEN-T",
         "when": "2026-10-30",
         "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "The EU proposes 51.5 billion euro for the TEN-T transport network, one of the spending lines to be settled in the 2028-2034 budget.",
-        "via": "transport investment claims",
+        "lat": 50.85,
+        "lon": 4.35,
+        "what": "The EU proposed 51.5 billion euros for the TEN-T transport network, adding a large investment line to the budget talks.",
+        "via": "transport investment demand",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2982,52 +2986,14 @@
         ]
       },
       {
-        "id": "protest-over-proposed-30-percent-agoraeu-cut",
-        "title": "Protest over proposed 30 percent AgoraEU cut",
-        "when": "2026-10-30",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "A protest in Brussels targets a proposed 30 per cent cut to AgoraEU in the 2028-2034 budget plan.",
-        "via": "pressure against spending cuts",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "MFF 2028–2034: A 30 per cent cut to AgoraEU? The protest in Brussels",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjAwUFMtVkxwaDV5OVhLNmlSWE0zcnoxdkZyeTZZeElmLUdSSzZWMGpyZFpQNEJNRm50bXMtSVZLTk5rODVRd3dZOHRsR2JmZ3BjcTNnYmpSRTMxTHNudl9xNWI2ZlZ2aW1nMEcwMEIxeElfS0Y0ZTJySkFBdXFCZEl6blNXOHFxNVhNR2N3eDNoZkNGQmxIRUdGckxRc1hQWFQ1NDl3X0dtYWtnbHpz?oc=5",
-            "publisher": "FASI.eu"
-          }
-        ]
-      },
-      {
-        "id": "ep-rapporteurs-agree-horizon-europe-successor",
-        "title": "EP rapporteurs agree Horizon Europe successor",
-        "when": "2026-10-30",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe, setting a Parliament position within the 2028-2034 budget framework.",
-        "via": "Parliament position on research funding",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "MFF 2028–2034: EP rapporteurs reach agreement on the successor to Horizon Europe",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUkJqRGJBMjlseUU2djAwdU8yUGZkYkJwMDd3eUdNUGZySW1YR2VBcE5DN2ZheC1tUVl5VDFFRUl4M2Nnc2UzTWxESE0yTmZqRE9HanNIbWp1SkdBN1M4OWpzamZCa2FmRGxJUU54RU1kRkRTbmxlQ0pEWVFZOTA0MFVNM2dBMFY4Uy1adWl5X2dKNElfYkdWUjhlUW4xbDhpR242aWRJaUNXenl4Y1Q2TGFaNU1NWmJ0SE0ybGx1YUxmQQ?oc=5",
-            "publisher": "FASI.eu"
-          }
-        ]
-      },
-      {
-        "id": "bulgarian-leaders-discuss-budget-revenue-with-serafin",
-        "title": "Bulgarian leaders discuss budget revenue with Serafin",
+        "id": "bulgaria-discusses-eu-budget-revenue-with-serafin",
+        "title": "Bulgaria discusses EU budget revenue with Serafin",
         "when": "2026-10-29",
         "place": "Sofia",
         "lat": 42.7,
         "lon": 23.32,
-        "what": "Prime minister Radev held talks with Serafin on the EU budget, and Donev discussed EU budget revenue for 2028-2034 with him in Sofia.",
-        "via": "national government positions",
+        "what": "Bulgarian leaders held talks in Sofia with Serafin on EU budget revenue for 2028-2034, showing a national government position before the negotiations.",
+        "via": "national government position",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3040,25 +3006,6 @@
             "title": "Donev and Serafin discuss EU budget revenue for 2028-2034 in Sofia (updated)",
             "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVC1NOURfVWNtWlZnUm5wdi1SZExiaHU2ZlpqVnNkZ2cyNzZmc2hfX1R2Z0daM1dwR3RMSEF5dnBCNHRObTMzTVA5RUpLRzVrazEyZTVXZUZmeV9vUkNLSFhVVlFNQWxFNWNMUU9nZ0xGeUk4aFNBaVRXOTRma2FNNHRmM2VYZ2tIY004bE5UdGx2b21Td3h5UDc3dW5LYThJV2FZQUkwRXBWUTNmUnU1cGNpSVh5MzJ20gG4AUFVX3lxTE9ULU05RF9VY21aVmdSbnB2LVJkTGJodTZmWmpWc2RnZzI3NmZzaF9fVHZnR1ozV3BHdExIQXl2cEI0dE5tMzNNUDlFSktHNWtrMTJlNVdlRmZ5X29SQ0tIWFVWUU1BbEU1Y0xRT2dnTEZ5SThoU0FpVFc5NGZrYU00dGYzZVhna0hjTThsTlR0bHZvbVN3eHlQNzd1bkthOElXYVlBSTBFcFZRM2ZSdTVwY2lJWHkzMnY?oc=5",
             "publisher": "BurgasMedia"
-          }
-        ]
-      },
-      {
-        "id": "ukraine-loan-interest-costs-strain-eu-budget",
-        "title": "Ukraine loan interest costs strain EU budget",
-        "when": "2026-10-29",
-        "place": "Brussels",
-        "lat": 50.84,
-        "lon": 4.38,
-        "what": "The EU bears more than 35 billion euros in loan interest to support Ukraine, and the funding for it is still left open.",
-        "via": "unfunded interest costs",
-        "aspect": "budget",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "EU bears more than 35 billion euros from loan interest to support Ukraine, funding still left open",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEtyVW9Lc29wc2t6dG1JNVFlZkxSSXk4X3JKNzlGcndFU05OUnhvd0E5N21yUkZidGdXNzd3bkZEcWY2ZFhPTnN3dk91dm1zNEVFbERrS0F0OXpPcHBxb2JOVHFRekZOZ3BaMXVhaVBDaW02cU9Ba29WZjZCblRLMWxESXJQM2trOTVSQ1RIQ1NqMTRReVZfeVpBZ3VoUk5DOUFuOU8xOTdXVE5QVklsRmlaQURUVVJLN2JCSA?oc=5",
-            "publisher": "Laodong.vn"
           }
         ]
       }
@@ -3388,18 +3335,18 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-11-01T01:12:11.337Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
     "items": [
       {
         "id": "trump-tasks-rubio-with-ending-cuban-regime",
         "title": "Trump tasks Rubio with ending Cuban regime",
         "when": "2026-10-31",
-        "place": "Washington, DC",
+        "place": "Washington, D.C.",
         "lat": 38.9,
         "lon": -77.04,
-        "what": "Trump has reportedly given Secretary of State Rubio the job of ending the Cuban government, setting the policy direction behind his open appeal to Cubans.",
-        "via": "White House policy mandate",
+        "what": "Voz reports that President Trump has given Secretary of State Rubio the job of ending the Cuban regime, which sets the policy backdrop for his appeal to Cubans.",
+        "via": "presidential backing for regime change",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3407,25 +3354,6 @@
             "title": "Trump Tasks Rubio With Ending the Cuban Regime - VOZ",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnd3cldHTjBYN2J5RmpRNnhka0hJTjdaWUY4dmFDU1lDQ1dYNDNmM3F5d3BuelJURUhVLWtFX0NXb1paUkgtNVlWNGhGM2JURkdVUFdWVG94eElVRV9iQTdoTFVmYVc1SlB3Vi1uRmlIR0NES1JuTHpRbGtQeWplelBDd1YwYWk2Smk0MGs3RDJlanJtck82cGhzaXJ1dkctSm1oWHR0ajJGejRjMEs0dlNVZk11Ynd4THQ3RXJqVTMzQmk5SjlEb1dheWJTVkE?oc=5",
             "publisher": "voz.us"
-          }
-        ]
-      },
-      {
-        "id": "exile-community-debates-who-owns-cuba-s-change",
-        "title": "Exile community debates who owns Cuba's change",
-        "when": "2026-10-30",
-        "place": "Miami",
-        "lat": 25.76,
-        "lon": -80.19,
-        "what": "Cuban exiles are arguing over whether Cuba is chiefly a US issue or a Cuban responsibility, shaping the audience and appetite for outside-backed change.",
-        "via": "exile opinion split",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Is Cuba America's Issue or a Cuban Responsibility? The Exile Community's Debate",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53Y0U4T1NLcHM0NzZfWFg4WmxlTFM3Z0pMNXYxLU5tOG9hOUZCMVZMb2hVbDl1U2ExRV9PU0p6R2hSM1RCenVyaFllVTlHZUNZX0pPRjN3VXM?oc=5",
-            "publisher": "CubaHeadlines"
           }
         ]
       }
@@ -3835,37 +3763,18 @@
     ]
   },
   "jordan-syria-strikes-church-attack-2026": {
-    "at": "2026-11-01T01:12:11.337Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "deadly-attack-on-greek-orthodox-church",
-        "title": "Deadly attack on Greek Orthodox church",
-        "when": "ongoing",
-        "place": "Jordan",
-        "lat": 31.9,
-        "lon": 36,
-        "what": "A deadly attack on a Greek Orthodox church in Jordan the week before prompted the Jordanian retaliation, and commentary says it demands more than condolences.",
-        "via": "public pressure to retaliate",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Jordan church attack on Greek Orthodox demands more than condolences",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMDRkSUxaM2wwQlJiMkIwWkVOS0NnSVJMX05GM0VubWxMalRvZndPSWVoLVA5bWJLMmFOcUlHOFpabjY2TUYzTS0tbUNSSjI0c3VxMjFIV09Pd2xVVUY1S1I1Z2R1NHhrbFBtck43cVVrRDNwdEIxb3o0MkJ1REJnUnI0N0I5Mms?oc=5",
-            "publisher": "newsfire.gr"
-          }
-        ]
-      },
-      {
-        "id": "armed-group-of-14-stopped-at-border",
-        "title": "Armed group of 14 stopped at border",
+        "id": "jordan-stops-14-armed-men-at-border",
+        "title": "Jordan stops 14 armed men at border",
         "when": "2026-10-31",
         "place": "Jordan-Syria border",
         "lat": 32.6,
-        "lon": 36.5,
-        "what": "Jordanian border guards said they stopped 14 armed individuals trying to cross from Syria after heavy fire, heightening tension along the frontier.",
-        "via": "cross-border security threat",
+        "lon": 36.2,
+        "what": "Jordanian border guards stopped a group of 14 armed individuals trying to cross from Syria after heavy fire, according to the armed forces.",
+        "via": "cross-border infiltration threat",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -3890,25 +3799,44 @@
             "publisher": "شبكة تواصل الإخبارية"
           },
           {
-            "title": "Jordan stops armed group from attempting to enter from Syria, armed forces say",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUTBTWmh1N1NucVpUX3pkMi01aWdlOVkwNG91NHdDc2ZZdVh6aUN4TGxZQ1pSeXZ6cFVoUDc0TXNxRWhTbjhzRk1fLWtQcGFpV0YxREZWS2QzMTJhVGhlT2pxYVdsMjU0amRWQnpEa1BHNVlKOHVqaTlpWUY4T04wLTdPYV9JSTdsT096czRfZkExcTRDMHBpbzlFZGZqU2s?oc=5",
-            "publisher": "WTAQ"
-          },
-          {
             "title": "Jordan Says It Stopped an Armed Group of 14 Who Attempted to Cross From Syria",
             "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOUs0Q0lRWk5ZcF9rMlN0T3ExMDFyaVMyZDFiUUNhd0p1MDFTQUpSUmowVWlJaU9RYklJajVrdXRKNXB3Sm16Z3pxY1FENHJvUVc2d0tKeW9uZmQ4REtuYThfUDhhWXdZMTBmREpwcWJRcjdmRURjVXlIdG1Kc1EzdEdIc1U0R01VS2FjaDFocEhDeGc1YVNDUkVwcm4zNmozbU1aZVEtQXNaeWJKdTRUbHpBd0FmX0lQaWxQZWxPd3Z3cDZWcEJISXVzZVJ4X3I0RDRKaVpuel9xeGtCTnhvUG92RGoyMV80V3YtcmFMYlVuZElxTmRKYW9zTFVmcWtpV2djQ2x0cFVnSV8tOXh4cEJB?oc=5",
             "publisher": "Haaretz"
+          },
+          {
+            "title": "Jordan stops armed group from attempting to enter from Syria, armed forces say",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWTVYZmxWTkRmeTRYRHNyTm4zN1o3ZWZqamdtYWVrQmItcS1FX3dVaDNuTXZRVFN4YldpZEozQTdPNjIyRGQ0RTF0d2lfN3ptME1jNTk0aUZ0bDREdGtlUzRud1RqcWRfLTR2ZTNSc2Q3ZHN1QkFrWjQxTzhrRUs4ckEtcE5oMklMR1cyc1JVZzBjREdK?oc=5",
+            "publisher": "SRN News"
           }
         ]
       },
       {
-        "id": "syria-calls-border-security-shared-responsibility",
-        "title": "Syria calls border security shared responsibility",
+        "id": "jordanian-army-retracts-infiltration-statement",
+        "title": "Jordanian army retracts infiltration statement",
         "when": "2026-10-31",
+        "place": "Amman",
+        "lat": 31.95,
+        "lon": 35.93,
+        "what": "The Jordanian army withdrew its earlier statement about an armed infiltration attempt from Syria, leaving the border situation unclear.",
+        "via": "disputed border account",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Jordanian army retracts statement on armed infiltration attempt from Syria",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEJDYlVfQ2ZTY1hxQ0tMZTR4VDNNS3RnbXVXb25xQTczeDBTSXBqMzJ3a0F4aXZPeGJNN09weGlBREZwWjhLTDVWRmlwN0MwRmRoV0JtcVNXMk1pdjU3QTBfTnBsdUg0Z3RZcW1YVFl2WElVSmgtU1JtWWZGWWM1blZNMGZEeFFfdDlsVHQ2TlNQVkw3UXNnNUp1QXRWNU9PR2dCYjJUZnVRSVF1U1NIaUVyM2UwS2VFdXc?oc=5",
+            "publisher": "Türkiye Today"
+          }
+        ]
+      },
+      {
+        "id": "syria-calls-border-security-a-shared-responsibility",
+        "title": "Syria calls border security a shared responsibility",
+        "when": "2026-11-01",
         "place": "Damascus",
-        "lat": 33.5,
-        "lon": 36.3,
-        "what": "Syria said that securing its border with Jordan is a shared responsibility, a stated position on the frontier as Jordan strikes militants inside Syria.",
+        "lat": 33.51,
+        "lon": 36.28,
+        "what": "Syria said securing its border with Jordan is a shared responsibility, setting out Damascus's position as border tensions rise.",
         "via": "Syrian government stance",
         "aspect": "politics",
         "flow": "into",

@@ -1,180 +1,178 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "1b0ly5m",
+    "hash": "cytbpw",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.95,
+        "likelihood": 0.92,
         "delayDays": [
-          2,
-          7
+          3,
+          10
         ],
         "costPct": [
           15,
           40
         ],
-        "why": "Attacks on ships in Hormuz were the highest of the war in October, and on 31 Oct the IRGC said four tankers hit mines and caught fire; renewed US/Israeli strikes are being prepared, so war-risk premiums, delays and avoidance of the strait continue.",
-        "action": "Ask your forwarder for the current war-risk surcharge and whether Gulf-bound cargo can be discharged at ports outside the strait (e.g. Khor Fakkan, Fujairah, Sohar) with trucking onward; add 10 days of buffer stock.",
+        "why": "Iran reportedly struck four tankers near Hormuz and a Qatar LNG carrier was hit by unidentified objects on 2026-11-01, limpet mines are back in the Gulf, and a reopening deal is still only a proposal, so transit stays restricted and war-risk costs stay high.",
+        "action": "Ask your forwarder for current war-risk surcharges and confirmed sailing status for Gulf-bound bookings, and add 10 days of buffer stock for cargo that must pass Hormuz.",
         "sources": [
-          1,
-          7,
           0,
-          6,
-          2
+          2,
+          3,
+          4,
+          6
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
-        "likelihood": 0.7,
+        "effect": "delay",
+        "likelihood": 0.75,
         "delayDays": [
           2,
-          6
+          7
         ],
         "costPct": [
           10,
           30
         ],
-        "why": "Jebel Ali lies inside the Strait of Hormuz, where ship attacks and mine strikes are at their highest of the war (reported 31 Oct to 1 Nov), so carriers add war-risk surcharges and schedules slip.",
-        "action": "Ask your carrier for confirmed vessel calls and surcharge levels at Jebel Ali for November, and pre-book overland or alternative-port options on the Gulf of Oman coast for time-critical cargo.",
+        "why": "Jebel Ali lies inside the Strait of Hormuz, where tankers were attacked on 2026-11-01 and a US strike is threatened around 4 November, so vessel calls, schedules and insurance are disrupted.",
+        "action": "Ask your forwarder about transshipment through Khor Fakkan, Fujairah or Omani ports, and pre-book that fallback for time-critical Gulf cargo.",
         "sources": [
-          1,
-          7,
-          5
-        ]
-      },
-      {
-        "point": "IR_AIRSPACE",
-        "effect": "closure",
-        "likelihood": 0.6,
-        "delayDays": [
           0,
-          1
-        ],
-        "costPct": [
           2,
-          8
-        ],
-        "why": "US and Israeli preparations to renew strikes on Iran (reports 31 Oct to 1 Nov) make Iranian airspace likely to be closed or avoided by air cargo flights, adding rerouting and fuel cost.",
-        "action": "Ask your air forwarder to confirm routings for Asia–Europe and Gulf flights that avoid Iranian airspace and what fuel surcharge is applied.",
-        "sources": [
-          2,
-          4,
-          8,
-          0
-        ]
-      },
-      {
-        "point": "LEVANT_AIRSPACE",
-        "effect": "closure",
-        "likelihood": 0.4,
-        "delayDays": [
-          0,
-          1
-        ],
-        "costPct": [
-          1,
-          5
-        ],
-        "why": "Israel has reportedly completed preparations for renewed confrontation with Iran (31 Oct) and Iran warns of wider war, so Israeli and neighbouring airspace could be closed at short notice.",
-        "action": "Ask your air forwarder for contingency routings for Israel-bound and Levant-overflying cargo and avoid single-flight bookings for urgent shipments.",
-        "sources": [
-          8,
-          0,
-          4
+          3,
+          7
         ]
       },
       {
         "point": "BAB_EL_MANDEB",
         "effect": "security",
-        "likelihood": 0.5,
+        "likelihood": 0.6,
         "delayDays": [
           10,
           14
         ],
         "costPct": [
-          15,
-          35
+          20,
+          40
         ],
-        "why": "Renewed fighting in Yemen and Houthi activity (UN case in Houthi custody reported 1 Nov), alongside a possible widening of the Iran war, keep Bab el-Mandeb transits risky and many carriers routed around the Cape.",
-        "action": "Keep Asia–Europe cargo on Cape of Good Hope routings and ask your forwarder for a quote on both routings with the war-risk surcharge itemised.",
+        "why": "Renewed fighting in Yemen continues, and on 2026-11-01 Rubio linked the Houthi threat to Iran while keeping US military options open, so shipping through the strait faces a credible risk of attack or diversion.",
+        "action": "Confirm with your carrier whether Asia–Europe sailings are routed via the Cape, and plan transit times with 12 extra days.",
         "sources": [
+          8,
+          5
+        ]
+      },
+      {
+        "point": "RED_SEA",
+        "effect": "security",
+        "likelihood": 0.55,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          20,
+          40
+        ],
+        "why": "Houthi threats tied to the Iran war and Iran's warning of a 'geographically unrestricted response' (2026-11-01) raise the chance of attacks on Red Sea shipping and Saudi energy infrastructure in the coming weeks.",
+        "action": "Ask your forwarder for a Cape-routing quote and a war-risk surcharge cap for Red Sea bookings before mid-November.",
+        "sources": [
+          1,
+          8
+        ]
+      },
+      {
+        "point": "IR_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.8,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
           3,
-          0
+          8
+        ],
+        "why": "The war that began 28 February is in its eighth month, with a possible new US attack around 4 November and Iran threatening immediate retaliation, so air cargo avoids Iranian airspace and flies longer routings.",
+        "action": "Ask your air freight forwarder to confirm routings that avoid Iranian airspace and add 1–2 days to transit estimates for Gulf and South Asia flights.",
+        "sources": [
+          4,
+          7
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Iran warns of wider war as diplomatic efforts seek to revive ceasefire",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlowV1puUnY5ajJfbFcwZnRHVEdtQjVLNmhrTzZtQjlxcjRselkxVkVLWS1aWDc4dW9pdUVuV0lRQ1BYWV9jUE9wTmdGS3pabDNmUEJaNy1WZV9kNXFvRjNJLUllZmo1NDRPenVEUWI0dk5uUVhLcVVxdk5uT1lUa2dkb3BodURxelp4SHNFQTRGQlMzQ0RuRHFXalM2SERGOUN1eWJ2SE80MzBvLVBHWjZ6c3Q?oc=5",
-        "publisher": "The Business Standard",
-        "published": "2026-11-01T05:34:40.000Z"
+        "title": "OPEC, Allies Keep Output Steady While Gulf Shipping Remains Under Threat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnNqUHNCa3N5QzZ4RUZEVVd5RUsxNDM1QU5wZ3dYQ3FYdzdEWnpnczk0NG1JTndRV19CQnpWd0J4eUE4SndBWFpfUkZNeS1QQUtIaWVQRFBYVk1fMXlHNVJjWW1zb3JsV2pvVnc5UU5zby1DNzF1d3dyNFdYWTlTUlJFRk11YW5RU19idkdxZXNSZkJ4azFtQVBjZkVpT2p6cVFlbkpsX2o2NWYtVUJfd1VtblJhQ21COUJYTA?oc=5",
+        "publisher": "WSJ",
+        "published": "2026-11-01T12:44:55.000Z"
       },
       {
-        "title": "Middle East latest: Attacks on ships transiting Hormuz in October highest since start of war",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzF0OTFEeDd6NkxQYjVkWnpCRmQ1cEtKaVJZNWdaaDFySGVQOHY4cklQUXhQSUMxNjRXRFpjcFZhTFBud0ZyQmp4SlM5OGxqY3YtNzRTdGczNXVDRnpKRWJrN1A1TnZaY0pEVEkxRUJCZWtaS1dYT3llWnZIZGswajFiWXZveGhnUFpFZg?oc=5",
-        "publisher": "The National",
-        "published": "2026-11-01T05:33:13.000Z"
+        "title": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
+        "url": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+        "publisher": "Euronews",
+        "published": "2026-11-01T12:10:19.000Z"
       },
       {
-        "title": "Live - Trump, Netanyahu speak, US weighs renewed Iran strikes",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
-        "publisher": "Iran International",
-        "published": "2026-11-01T05:10:33.000Z"
+        "title": "Limpet Mines Return to the Gulf as Iran Strikes Four Tankers Near the Strait of Hormuz",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnVLcl9uZExrX04teHVXNnZJSUl3N2RHcDRNeFJSV0xHYmV6VE91RFpBTHVtSnExeDJsN05STzBXYnZNNnAtaUlFZ1dOVEZJMTVBQmVFcnhWNy1TSUd5N1lkdzVCcnVZSWVyemQtMWJyQkRQZDNrUDVPeTFEMkRKa3ZpUER3UmxjcV9tWWIwNA?oc=5",
+        "publisher": "Windward",
+        "published": "2026-11-01T11:34:19.000Z"
       },
       {
-        "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-        "url": "https://www.aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "published": "2026-11-01T04:49:15.000Z"
-      },
-      {
-        "title": "Trump holds call with Netanyahu amid preparations to renew strikes on Iran — report",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdWluR210TDk5VTZTZHNNRklLcVFDN3A4bDBRTzUxQmJpSmJBcjRTdUctZlB5c3Y3TlBqVm96dXluVV9nUjhVOXJaUkVjRnNkUnZjdjRUVFVoaXpKZEpXdFV4T2NVNXFjWExqZmVxTDFwc2IyRjhaWXZsZWJ3UnduN1F0NFBJOVFLNV9kUm1WNnEwTHhtdG1NdWwwQ0txVXFpREpaT29rdVBRQjJXS0hfSGtn0gG3AUFVX3lxTE9USVRTN3ZxWWV4ZVVWbWRRdXk4ZlM1Y1FGcTJWTFlja2V6MDJ6OXFhOTJ2OEt2Uk9ma3poaWkyMHdaeDBUdEJxWlFqY1hxSHFLczloQ1RYbDY0akMwVzV2TURxeWdjc2M0aUxHM1BlWTRXZHlBdUMzX3VYMUFoWkFrSURtVUFRWmtDa0hVSDR2QjRaOHpRQnBKRlRMZFJ6dXJpOElNczhQUjQ0OS12ZlRIeHNsVUdfWQ?oc=5",
-        "publisher": "The Times of Israel",
-        "published": "2026-11-01T02:36:32.000Z"
-      },
-      {
-        "title": "Rubio Flags Iran's Attacks On Ships With Indian Sailors, Accuses Tehran Of Fueling Middle East Unrest",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ0lhV2ZHYXBKeVhmTTYxV3Z4cVNHMXVPRjkzbGJxemZHNjcyRHA2c0lUWkEtNTFuSjNtVFdud0hBaWJpUkJlTFJlN0JzejVNemU1azNEamlvMTJCSUtGbTVOYUVTY0J4TzZ5WUI0NmlyTU5EdHplZkRaMGp0N3hudjBHaVU0R0FOak4yQklaNWk1a2RFVWtpejVzQzdXMi1NcjVXZUxXLVBEeDUwYzhYYmZ6TUthWmZNcE5veUhteUVGeEFhcTNMTWRwY1pvZnRzSnRYNjNteXgwa2pnRUFkbldzZ0tDQ2s2Z2NqMUlkbGdldUZBa2ZyaUFWZGHSAYMCQVVfeXFMTnF3U3VlMUtsbnJCUTBNa282clctbmlGMFZyaFhmcVNLeW9ETGk0SWd5MzNudzJDNkRCNnk1RERVZUIyYTJmWk94RzdpWE9ZLVVvaWtYMXFKMzYxTjV0S1Y0cGE2NmRNNFJvMnVmYXl0dWN0NlUxY3lrcU4wUUFxOERiSWlqYlRQMFh6NEUxOVZpR2NjdmJhQWVSUWdibXBkU2x4Q1pBd2RHR0VrMmFvTmFObmdJZFYwcGhCamk4b0JaNDhGNlgtZVl6ak9uWVJ1ODZHSDN6X2lRckNPcnE0MmFTdDlVWVRjN1ZuRTFEbFJjVVplbE5xUkZraWdQZ3RSckEzbw?oc=5",
-        "publisher": "The Daily Jagran",
-        "published": "2026-11-01T02:30:00.000Z"
-      },
-      {
-        "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "published": "2026-11-01T00:00:51.000Z"
-      },
-      {
-        "title": "Iran’s IRGC Says Four Tankers Hit Mines, Catch Fire in Strait of Hormuz: who 21 outlets blamed",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVZqcTFoVGhTakVPUTFubU1jLUlPbjcxNEhNV3hlblpTX1VHcEdhXzV2Z3JXR1Nlc3BwRmRrejJKYThBZGNaNXlBaEl6elF5WGo2Vko5ZkJRZmRNMjBuNWNKZzg1Qm1tZFpoWVBOd3JqUUpJZlBtWXBRQjhQdzJlVU1kc2NBMmN1UjdESy1aam0xSVduR2RlVVdiMnhxcXZaclJiTlJXb3ZLZkFzOEM5aDJhbW5RVGlJc29kWE9xVzgxOU9ka0FIQzJmcXJIbHRISkUzbHlxdVpUc3c?oc=5",
+        "title": "Abbas Araghchi Says Iran Will Reopen Strait of Hormuz in Two Days With Qatar Mediators: how 6 outlets framed it",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSFZLdUJOcWxrbEx3N1VFZlFvd1NaLW9PWndnbXUwXzlDLUtoUTRxY2tCelQyMllzQ3NXamo3RWs3T05uQzhtNzVLbXRxTmZpUmM3enZ3T3V1dTNLMWZNejJSeElsYnJsY0VyVW1WdUh5Z1Z1WE5OanNvMWJ0QjNSUHBqOERWeThsREZjZ2Nta1dfS3VYVWt3WnN4TjdzNHRRanZ4UVhvSExhdlhuVHFqUjVlQWE2b0dHcGl5Mm9lUUdSaUxNSTJUdk5CYUdLWlNDdE5mZ18yN2lLTFZWb3NlRGhUbWZEbzRNeVE?oc=5",
         "publisher": "NewsCord",
-        "published": "2026-10-31T23:23:28.000Z"
+        "published": "2026-11-01T11:22:31.000Z"
       },
       {
-        "title": "Israel completes preparations for renewed confrontation with Iran: Report",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLVEwZzNVbGctSU9DbGc0YjB2Y2V6ODMtSHZiZm5zRWFVb21ZcFl1VUVtTExwS0VWTHdDTU9ibGVsVjRjS3N6aTNoS3lYN1ZRVWNDV2ZJQUs5R0dFLTA0RDdjZzB5M19pSjI1VjVHWlV2QXRUTTRvMDRZclE4QjZHTFpTWll4cThZTkJQNVdvQ1BhV0JaMWxJaHRWRXl4LVNrdkJ2cVdIeFdKZl9zMjZGc0dTWl80THRF?oc=5",
-        "publisher": "Anadolu Ajansı",
-        "published": "2026-10-31T22:27:20.000Z"
+        "title": "Iran warns of immediate retaliation against attack, says Hormuz reopening proposal is ready",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXdWbEF2YVFsSURMYVNFZUVQa3RmVmpWTFFMVFhmMkFQb2hSQ1l6OVdRZDJVZW9aM19peXYweUpVLVZUcVFoZldGU0Q2Q21XcjBveE9UdWM1azBtbVlNM0xBNHJwVUkyTEtHbzYzaFlCaTEycTlzYk5vTWhyakJtcmJYVkR4MU9XckZYT1YxX3BHQUN3RW9taC1aUEpuU1o1WjBlNjhGV1EwQjZiczQ4RE54Z3RXR1M1dE9pd0ZEQkkzLXhNUTZCa096dGNWVVJQaU1GWDNn0gHbAUFVX3lxTE5zTjk1Y3JFS2d0enAta282MzVJSkFuRVFLRWd0OHduM3lHSVV1MWNoRUZVdTBlLXZLOGJGcFhrZEdhaUVwM1Q0cUNPRTBmU3RwOFVJbXBVN0VIVmpWcEZySTBOUEpNQXFXcW1KUUFsd3p3VnBqYlZOUF80OFlTZVlSV1ltMWhOQ3FTOGQ0RXA3RUppNmRIMXl0LTB4c1R2aTN6RGhNdkFVd1hqTUwzdVZudjRWNVUzMU9hcEktN25adUJtTnJrU1VoZkswV044OGhDcE9NX3V1aVZaQQ?oc=5",
+        "publisher": "Telegraph India",
+        "published": "2026-11-01T11:15:45.000Z"
+      },
+      {
+        "title": "UN demands urgent investigation after death of staff member held in Houthi custody",
+        "url": "https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
+        "publisher": "Euronews",
+        "published": "2026-11-01T10:23:05.000Z"
+      },
+      {
+        "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+        "url": "https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "published": "2026-11-01T10:21:48.000Z"
+      },
+      {
+        "title": "UPDATES: US War on Iran, Day 248 — Trump Camp Threatens Attacks on November 4",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnVISUktczY3MTRQc25YMEhQc1ZUdWtqRDlYSl9kY183c3BNOTZaT0xKWkNfYlI2cnlYeWduUlF2Q2dXRm51dE9pS1J5c0FEVXNpQm0yUE1WT2JmVzlTYVFKc09LRGJKbXhLaHVEa01QYmltNTY5TTNPWnZrWldpc2p2T0RLd19KOGc?oc=5",
+        "publisher": "EA WorldView",
+        "published": "2026-11-01T10:05:35.000Z"
+      },
+      {
+        "title": "Rubio links Houthi threat to Iran, leaves US military options open",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWlPc2lnR21LdDhzN3VENkIyeUkyeWstTURRYlcyVWdXVXhYVGtET2ZrTFEzbWpEYVlGV3lMaEVDZjRHWGhBUXJFUjRKQTFSdnktTmR3R2xBM3VBcnBQVzNiY2lpbE5BNy1WakhENHpzZlBWWjE1NEZMUE45R3AxZ3hhLXlkSkpER0d1MTN1UEJJTkoyVnR2cUdKSU8?oc=5",
+        "publisher": "Middle East Online",
+        "published": "2026-11-01T08:28:33.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "j1khof",
+    "hash": "s24y5h",
     "tags": [],
     "headlines": []
   },
   "france-unrest-2026": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "1i3wqq3",
+    "hash": "i6hog9",
     "tags": [],
     "headlines": []
   },
@@ -193,23 +191,23 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "14bewf0",
+    "hash": "1nslw7j",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "9tblgj",
+    "hash": "1klihdy",
     "tags": [],
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-11-01T07:12:24.244Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "16nocj3",
+    "hash": "1xxj4p6",
     "tags": [],
     "headlines": []
   },
@@ -308,32 +306,38 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-10-31T17:11:52.868Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "1kllqzj",
+    "hash": "752q7f",
     "tags": [
       {
         "point": "GENOA",
         "effect": "delay",
-        "likelihood": 0.55,
+        "likelihood": 0.6,
         "delayDays": [
           1,
-          3
+          4
         ],
         "costPct": [
-          2,
-          5
+          3,
+          8
         ],
-        "why": "NBC reported on 2026-10-30 that Italy is facing widespread strikes and port blockades after the nationwide general strike and protests, so gate access and terminal handling at Italy's main container port could be disrupted in the coming weeks.",
-        "action": "Ask your forwarder for the current status of Genoa terminal and gate operations, and for the cost and transit time of rerouting via another Mediterranean port. Add 3 days of buffer stock for Italy-bound or Italy-origin c",
+        "why": "NBC (30 Oct 2026) reports port blockades alongside Italy's nationwide strike, with troops deployed, and protests were still spreading on 1 Nov, so gate and terminal access at Italian ports such as Genoa may be interrupted.",
+        "action": "Ask your forwarder for Genoa gate and terminal status each day, move time-critical pickups and deliveries to days with no strike or blockade, and hold 4 days of buffer stock for cargo through Genoa.",
         "sources": [
-          0,
           1,
+          0,
           2
         ]
       }
     ],
     "headlines": [
+      {
+        "title": "Mass protests sweep Italy during nationwide strike",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
+        "publisher": "Reuters",
+        "published": "2026-11-01T06:21:37.000Z"
+      },
       {
         "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5",
@@ -345,12 +349,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkF6WFBZSmF1S3dEanVfc3ZPcGpkSWluZndxd21hQVY1czhDaGZJNDNZNEp1clhQcV9NTmc4QWMxd1VVSmNpRXdOQmFRUldBM18xbjE4dmNIQ2w3aGNfSE5wSjE5WDExTGNiNy1WaUR4VEwxdmhQUEg1cEw3Mm1Sa0RFeE56RW95RFRrYkZsTEtnT096eWE4cUh3cTdlcVpDTnpDWW14N0J1UnctdnVlQ3ZuZTdhSXBsU3k5U0dLbWtWMVdSWGtBM0pR?oc=5",
         "publisher": "www.wltv.it",
         "published": "2026-10-30T18:57:53.000Z"
-      },
-      {
-        "title": "Mass protests sweep Italy during nationwide strike",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
-        "publisher": "Reuters",
-        "published": "2026-10-30T16:49:00.000Z"
       }
     ]
   },
@@ -582,9 +580,9 @@
     "headlines": []
   },
   "algeria-niger-troop-deployment-2026": {
-    "at": "2026-10-31T21:11:57.853Z",
+    "at": "2026-11-01T13:12:43.819Z",
     "by": "pipeline",
-    "hash": "116z9og",
+    "hash": "195un2m",
     "tags": [],
     "headlines": []
   },
