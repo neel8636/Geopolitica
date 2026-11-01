@@ -1,66 +1,73 @@
 {
   "slug": "ukraine-starlink-restrictions-2026",
   "title": "Ukraine's Starlink scare",
-  "deck": "A week of slowed satellite links hit Ukraine's military and drones, Trump said the limits were lifted, Kyiv said they weren't, and then Kyiv said the service was back; the episode shows how much of Ukraine's war effort runs through systems Washington can influence.",
-  "updated": "2026-10-24",
+  "deck": "A week of conflicting claims over Starlink access in Ukraine showed how much of Kyiv's battlefield communication runs through a US-controlled network, and pushed Ukraine and Europe to look for ways around it.",
+  "updated": "2026-11-01",
   "status": "developing",
   "region": "Ukraine, United States, Europe",
   "tags": [
-    "Ukraine",
     "Starlink",
+    "Ukraine war",
     "military communications",
     "US leverage",
-    "drones",
-    "European security"
+    "European defense",
+    "peace talks"
   ],
   "readingMinutes": {
     "card": 1,
     "brief": 5,
-    "deep": 15
+    "deep": 18
   },
   "fuel": [
     {
       "aspect": "politics",
-      "title": "Trump says Starlink limits lifted",
-      "how": "A US presidential statement that limits were lifted, contradicted the same day by Kyiv, shows that access can turn on Washington's say-so.",
-      "sourceIndex": 2
+      "title": "Pentagon watchdog declines Starlink slowdown probe",
+      "how": "With the Pentagon inspector general refusing to investigate the slowdown, US control over Ukraine's access stays outside any formal review.",
+      "sourceIndex": 4
     },
     {
       "aspect": "security",
-      "title": "Starlink restored as attacks continue",
-      "how": "Strikes continued in both Russia and Ukraine while Kyiv reported its connection restored, so the need for reliable links never paused.",
-      "sourceIndex": 0
+      "title": "Fire Point builds strike weapons without Starlink",
+      "how": "If its CEO is right, Ukraine's deep-strike capacity depends less on a US-controlled link.",
+      "sourceIndex": 5
+    },
+    {
+      "aspect": "energy",
+      "title": "Ukraine reportedly pauses refinery strikes under US pressure",
+      "how": "A report says Washington leaned on Kyiv over strikes on Russian oil refineries, one more sign of how far US influence reaches into how Ukraine fights.",
+      "sourceIndex": 6
     },
     {
       "aspect": "budget",
-      "title": "Le Pen pledges to cut French aid",
-      "how": "If US access can be throttled and a major European donor may cut aid, European budgets face pressure to fill gaps in Ukraine's communications and support."
+      "title": "Trump clears $2.1 bn Patriot deal",
+      "how": "US approval of air-defense missiles for Ukraine adds to the leverage Washington holds over Ukraine's military capacity.",
+      "sourceIndex": 7
     }
   ],
   "card": {
-    "headline": "Ukraine's Starlink links were slowed for about a week, then restored, but who controls them is now a live question",
+    "headline": "Ukraine says Starlink is back, but the scare showed who holds the switch",
     "keyNumber": {
-      "value": "About 1 week",
-      "label": "slowed Starlink links affected Ukraine's military and drone operations before Kyiv said service was 'now stable' on 24 October",
-      "sourceIndex": 1
+      "value": "$2.1 bn",
+      "label": "Patriot missile deal Trump cleared on 31 October, days after the Starlink row",
+      "sourceIndex": 7
     },
     "impactMeter": 3,
     "forYou": [
       {
-        "role": "Defence and drone industry",
-        "line": "Treat satellite links as a single point of failure; ask where backup comms and offline modes exist."
+        "role": "Defense and space industry",
+        "line": "Expect more demand for non-US satellite links and for weapons that do not depend on Starlink."
       },
       {
         "role": "Policymakers in Europe",
-        "line": "The episode adds a practical case for funding European alternatives to US-controlled access."
+        "line": "The row adds to pressure to fund Kyiv's communications and munitions without relying on US goodwill."
       },
       {
-        "role": "Investors",
-        "line": "Watch Abu Dhabi talks and any new US statements; shifts in US backing move defence and risk sentiment."
+        "role": "Energy and commodities",
+        "line": "Reports of US pressure over refinery strikes show that Ukraine's pressure on Russian oil is not entirely its own call."
       },
       {
-        "role": "Everyone",
-        "line": "The service is reported restored, but it is unclear who imposed the limits or whether they could return."
+        "role": "Everyone else",
+        "line": "This is a story about who controls the tools of a war. It is not about consumer internet."
       }
     ],
     "ripple": [
@@ -68,20 +75,20 @@
         "label": "First-order",
         "effects": [
           {
-            "text": "Slowed Starlink connections hampered Ukrainian military and drone operations for about a week",
+            "text": "Ukraine said Starlink was still restricted on 23 October after Trump said limits were lifted, then said on 24 October that the link was restored and 'now stable'",
             "sector": "Security"
           },
           {
-            "text": "Trump said the limits were lifted on 23 October; Ukraine said they were still in place that day",
+            "text": "The Pentagon inspector general declined to investigate the Starlink and Starshield slowdown, so no formal review exists",
             "sector": "Politics"
           },
           {
-            "text": "On 24 October Kyiv said the connection was restored and 'now stable'",
-            "sector": "Security"
+            "text": "Ukraine reportedly paused strikes on Russian refineries under US pressure; another outlet says strikes resumed after a two-week pause",
+            "sector": "Energy"
           },
           {
-            "text": "Attacks continued in both Russia and Ukraine during the same period",
-            "sector": "Security"
+            "text": "Trump cleared a $2.1 bn Patriot deal for Ukraine after tensions with Zelensky",
+            "sector": "Public money"
           }
         ]
       },
@@ -89,16 +96,16 @@
         "label": "Second-order",
         "effects": [
           {
-            "text": "US control over access gives Washington leverage over Ukraine's battlefield options",
+            "text": "Ukrainian firms push alternatives; Fire Point's CEO says it already makes deep-strike weapons that do not need Starlink",
+            "sector": "Security, defense industry"
+          },
+          {
+            "text": "The Starlink dispute and backstage bargaining shadow a new US push to end the war",
             "sector": "Politics"
           },
           {
-            "text": "Ukrainian planners likely push for backup and non-US communications paths",
-            "sector": "Defence"
-          },
-          {
-            "text": "Mixed US messaging lowers confidence in how reliable US support is",
-            "sector": "Politics"
+            "text": "Europe faces a larger gap to fill if US support is conditional, which is the logic behind the UK Budget's earlier defense target and billions pledged to Kyiv",
+            "sector": "Public money"
           }
         ]
       },
@@ -106,16 +113,16 @@
         "label": "Third-order",
         "effects": [
           {
-            "text": "European partners face pressure to fund or provide alternatives if US access looks conditional",
-            "sector": "Budget"
+            "text": "Russia is courting the Starlink model: Putin praised Musk and says Moscow is building its own rival network; Ukraine sanctioned its developers",
+            "sector": "Space, geopolitics"
           },
           {
-            "text": "A planned Abu Dhabi meeting of Ukrainian, Russian and US negotiators may be shaped by who holds the leverage",
-            "sector": "Politics"
+            "text": "Allied governments may rethink reliance on one private US provider for military communications",
+            "sector": "Defense procurement"
           },
           {
-            "text": "Donor politics, such as Le Pen's pledge to cut French aid, add to uncertainty about long-term Western backing",
-            "sector": "Budget"
+            "text": "Leverage over Kyiv's tools could become a bargaining chip in peace talks, with Ukraine's negotiating position weakened",
+            "sector": "Diplomacy"
           }
         ]
       }
@@ -123,138 +130,148 @@
   },
   "brief": {
     "whatHappened": [
-      "For about a week, slowed Starlink connections affected Ukraine's military and drone operations, according to BBC reporting. Our sources do not say who imposed the limits or why.",
-      "On 23 October, Trump said the limits on Starlink access had been lifted. Ukraine said the service was still restricted. Trump added that 'if there is a problem, I'll get it straightened out'.",
-      "On 24 October, Ukraine said its Starlink connection was restored and 'now stable'. Attacks continued in both Russia and Ukraine. Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month."
+      "On 23 October, Ukraine said Starlink was still restricted, even though President Trump had said the limits were lifted. Satellite links underpin Ukrainian military communications, so the claim drew attention quickly.",
+      "On 24 October, Ukraine said the connection was restored and 'now stable', according to the BBC and Al Jazeera. The reports available to us do not fully explain what the limits were or who imposed them. We treat those details as unclear.",
+      "In the following week the story widened. The Pentagon inspector general declined to investigate the Starlink and Starshield slowdown. Fire Point's CEO said the company already makes strike weapons that do not need Starlink. Trump cleared a $2.1 bn Patriot deal for Ukraine after tensions with Zelensky."
     ],
     "whyItMatters": [
-      "Politics: Trump's statement and Kyiv's contradiction on the same day show that access is shaped by decisions in Washington, not just by technology. That gives the US leverage over how Ukraine fights and negotiates. A related story, a Putin proposal for a summit with Trump and Xi, points the same way. Rubio denied any pause in US intelligence sharing.",
-      "Security: Satellite links underpin Ukrainian military communications and drone operations, and the fighting did not pause while service was degraded. A week of slow links is a real operational cost, even if the service is now reported stable. It may also push Ukraine to look for backups.",
-      "Budget: If US-controlled access can be throttled, European governments may be asked to pay for alternatives. Zelensky has answered Le Pen's pledge to cut French aid by saying lives are worth more than the price. How much Europe can and will fill the gap is uncertain, and our sources do not give figures."
+      "Politics: The inspector general's refusal to investigate means US control over Ukraine's access has no formal review. Access can change by decision, announcement or technical limit, and Kyiv has no appeal. A disputed switch is a political risk, not just a technical one.",
+      "Security: Starlink links are part of how Ukrainian forces communicate. The scare strengthens the case for alternatives. Fire Point says it already produces deep-strike weapons that do not need Starlink. We have only the company's claim, not independent verification.",
+      "Energy: A report says Ukraine paused strikes on Russian refineries after US pressure. Another outlet says strikes resumed after a two-week pause, so the picture is unsettled. Either way, it shows that Washington's influence reaches into how Ukraine pursues Russia's oil industry.",
+      "Public money: Trump cleared a $2.1 bn Patriot deal after tensions with Zelensky. That helps Ukraine's air defense, but it also shows that US arms flows and access sit with one government. The UK Budget answers this with an earlier defense spending target and billions pledged to Ukraine. The question is how much Europe can fill."
     ],
     "winners": [
       {
-        "who": "Russia",
-        "why": "Degraded Ukrainian communications and visible US-Ukraine friction serve Moscow's interests, though the extent of any battlefield benefit is not reported."
+        "who": "Ukrainian and European defense-tech firms",
+        "why": "The scare sharpens demand for communications and strike systems that do not depend on a single US-controlled network."
       },
       {
-        "who": "Washington, as holder of leverage",
-        "why": "The episode shows how much influence US decisions on access and support give it over Kyiv."
+        "who": "Moscow",
+        "why": "Disputes between Kyiv and Washington play into Russian hopes of splitting support. Putin is also promoting Russia's own Starlink rival."
       },
       {
-        "who": "Alternative satellite and secure-comms suppliers",
-        "why": "A visible dependency on one US-linked network strengthens the case for backups; this is an inference, not reported."
+        "who": "Washington's negotiators",
+        "why": "Control over access, arms and intelligence gives the US more leverage in any peace push."
       }
     ],
     "losers": [
       {
-        "who": "Ukrainian military units and drone operators",
-        "why": "A week of slowed links affected operations."
+        "who": "Ukrainian front-line units",
+        "why": "Any limit on communications puts the units that depend on the link at risk, even if it lasts only briefly."
       },
       {
-        "who": "Ukraine's bargaining position",
-        "why": "Dependence on US-controlled access narrows its room to resist pressure before the Abu Dhabi talks."
+        "who": "Zelensky's government",
+        "why": "It faces tensions with Trump over arms, sanctions and the pace of peace talks, and it has less room to refuse US requests."
       },
       {
         "who": "European budgets",
-        "why": "They may face pressure to underwrite alternatives or additional support."
+        "why": "If US support is conditional, Europe is pushed to spend more to keep Ukraine supplied."
       }
     ],
     "whatsNext": [
-      "Watch whether service stays stable and whether Kyiv or Washington explains what caused the limits.",
-      "November: negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi.",
-      "Watch for any European announcement on backup satellite or secure communications for Ukraine."
+      "Watch whether Starlink access stays stable, or whether Ukraine reports new restrictions.",
+      "Watch the new US push to end the war and whether the Starlink dispute becomes part of the bargaining.",
+      "Watch how fast European governments and Ukrainian firms build alternatives to Starlink.",
+      "Watch for any move by Congress or the Pentagon to review access after the inspector general's refusal."
     ],
     "predict": {
-      "question": "Before you read the scenarios: what is the most likely path for Ukraine's Starlink access over the next month?",
+      "question": "Before you read the scenarios: what is the most likely path for Starlink and US leverage over the next few months?",
       "options": [
-        "It stays stable with no new reported limits",
-        "Limits return in some form",
-        "Access is formally tied to the peace talks",
-        "Europe fully replaces Starlink for the military"
+        "Access stays stable and the issue fades",
+        "Access stays stable but Ukraine quietly builds alternatives",
+        "Washington ties access to peace-talk demands",
+        "A serious outage hits Ukrainian forces"
       ],
-      "answerIndex": 0,
-      "explanation": "Our base case, at about 50%, is that service stays stable, because Kyiv now calls it stable and Trump publicly committed to fixing problems. Repeat throttling is the next most likely path at 25%, since the cause of this episode is unexplained."
+      "answerIndex": 1,
+      "explanation": "Our base case is managed dependence at about 45%: access holds, but Ukraine and Europe keep working on alternatives. This is our judgement, not a sourced forecast."
     },
     "recap": [
       {
-        "question": "What did Trump say on 23 October?",
-        "options": [
-          "Starlink limits had been lifted",
-          "Starlink would be switched off",
-          "Intelligence sharing was paused"
-        ],
-        "answerIndex": 0
-      },
-      {
         "question": "What did Ukraine say on 24 October?",
         "options": [
-          "Starlink was still restricted",
+          "Starlink was permanently cut",
           "The connection was restored and 'now stable'",
-          "Starlink was replaced by a European system"
+          "Starlink was replaced by a Russian network"
         ],
         "answerIndex": 1
       },
       {
-        "question": "Which meeting is expected next month?",
+        "question": "Who declined to investigate the Starlink and Starshield slowdown?",
         "options": [
-          "A Trump-Xi summit in Beijing",
-          "A NATO summit in Brussels",
-          "Ukraine, Russia and US negotiators in Abu Dhabi"
+          "The Pentagon inspector general",
+          "The UK Treasury",
+          "The European Commission"
         ],
-        "answerIndex": 2
+        "answerIndex": 0
+      },
+      {
+        "question": "What does Fire Point's CEO say about its weapons?",
+        "options": [
+          "They need Starlink for every strike",
+          "Some deep-strike weapons already work without Starlink",
+          "They were banned by the US"
+        ],
+        "answerIndex": 1
       }
     ]
   },
   "deep": {
     "timeline": [
       {
-        "date": "2022-02-26",
-        "title": "Starlink terminals start flowing to Ukraine",
-        "detail": "Soon after Russia's full-scale invasion, Starlink service was activated for Ukraine and became a backbone for military and civilian communications. This is background from general knowledge, not from the listed sources."
-      },
-      {
-        "date": "2025-03-03",
-        "title": "US pauses support and, soon after, intelligence sharing",
-        "detail": "After a tense Washington meeting, the US paused military aid and then intelligence sharing, resuming both within roughly two weeks. Background from general knowledge; exact dates approximate. It showed US support could be switched off quickly."
-      },
-      {
-        "date": "2026-10-17",
-        "title": "Starlink connections begin to slow (approximate)",
-        "detail": "BBC reports the slowed connections affected the military and drones for a week up to 24 October; the start date is our estimate. Our sources do not say who imposed the limits.",
-        "sourceIndex": 1
-      },
-      {
         "date": "2026-10-23",
-        "title": "Trump says the limits have been lifted",
-        "detail": "He added that 'if there is a problem, I'll get it straightened out'.",
-        "sourceIndex": 2,
+        "title": "Ukraine says Starlink still restricted",
+        "detail": "The claim came after Trump said the limits had been lifted. The reports we have do not fully explain the nature of the limits.",
+        "sourceIndex": 0,
         "turning": true
       },
       {
-        "date": "2026-10-23",
-        "title": "Ukraine says Starlink is still restricted",
-        "detail": "Kyiv contradicted the US account the same day. The network is used by the Ukrainian military, sources say.",
-        "sourceIndex": 2
-      },
-      {
         "date": "2026-10-24",
-        "title": "Ukraine says the connection is restored and 'now stable'",
-        "detail": "The slowed links had affected military and drone operations for a week.",
+        "title": "Ukraine says Starlink restored and 'now stable'",
+        "detail": "Reported by the BBC and Al Jazeera, as attacks continued in both Russia and Ukraine.",
         "sourceIndex": 1,
         "turning": true
       },
       {
-        "date": "2026-10-24",
-        "title": "Attacks continue in Russia and Ukraine",
-        "detail": "The fighting went on while service was being restored.",
-        "sourceIndex": 0
+        "date": "2026-10-29",
+        "title": "Pentagon watchdog declines Starlink slowdown probe",
+        "detail": "The inspector general refused to investigate the Starlink and Starshield slowdown in Ukraine, per Raw Story and Ars Technica headlines.",
+        "sourceIndex": 4
       },
       {
-        "date": "2026-10-24",
-        "title": "Abu Dhabi talks expected next month",
-        "detail": "Negotiators from Ukraine, Russia and the US are expected to meet there.",
-        "sourceIndex": 0
+        "date": "2026-10-29",
+        "title": "Putin praises Musk, says Russia builds a Starlink rival",
+        "detail": "Speaking in Moscow, Putin called Musk a 'genius' and pointed to Russia's own satellite internet effort.",
+        "sourceIndex": 3
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Fire Point says it no longer needs Starlink for deep strikes",
+        "detail": "The company's CEO says it already produces weapons for strikes inside Russia that do not require Starlink. We have only the company's account.",
+        "sourceIndex": 5
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Ukraine reportedly pauses refinery strikes under US pressure",
+        "detail": "Reports cite the WSJ. A separate outlet says strikes resumed after a two-week pause, so details conflict.",
+        "sourceIndex": 6
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Starlink row shadows new US push to end the war",
+        "detail": "Backstage bargaining and the Starlink dispute are overshadowing a new US push for a deal, per Bankingnews.",
+        "sourceIndex": 8
+      },
+      {
+        "date": "2026-10-30",
+        "title": "Ukraine sanctions developers of Russia's Rassvet satellite network",
+        "detail": "Kyiv also sanctioned 39 shadow fleet vessels, per Hromadske and other outlets."
+      },
+      {
+        "date": "2026-10-31",
+        "title": "Trump clears $2.1 bn Patriot deal",
+        "detail": "The approval followed tensions with Zelensky. Livemint asks whether Trump's Ukraine policy is changing.",
+        "sourceIndex": 7,
+        "turning": true
       }
     ],
     "causes": [
@@ -263,90 +280,101 @@
         "when": "Since 2022",
         "causes": [
           {
-            "name": "Dependence on a US-linked network",
-            "detail": "Ukraine's military and drone operations rely on Starlink links, so access controls matter to battlefield performance."
+            "name": "Reliance on a private US network",
+            "detail": "Starlink became a key communications layer for Ukrainian forces after Russia's invasion. The access decision sits with a US company and, in practice, Washington."
           },
           {
-            "name": "US leverage over Kyiv",
-            "detail": "Intelligence sharing and satellite access are both areas where Washington's decisions shape what Ukraine can do."
+            "name": "Dependence on US arms and intelligence",
+            "detail": "Ukraine relies on US weapons such as Patriot missiles and on intelligence sharing, so Washington has several levers at once."
           },
           {
-            "name": "Shifting US attention and backing",
-            "detail": "The linked summit-diplomacy story shows US stance toward Kyiv is a moving variable."
+            "name": "Uneven European capacity",
+            "detail": "European partners have increased funding but cannot yet replace all US capabilities."
           }
         ]
       },
       {
         "name": "Trigger",
-        "when": "About a week before 24 October (approximate)",
+        "when": "23 October 2026",
         "causes": [
           {
-            "name": "Network limits on Starlink access",
-            "detail": "Slowed connections affected Ukrainian military and drone operations. Our sources do not say who imposed the limits or why."
+            "name": "Conflicting statements on limits",
+            "detail": "Trump said the limits had been lifted. Ukraine said they were still in place. The reports available do not settle what was being limited or by whom."
           }
         ]
       },
       {
         "name": "Accelerants",
-        "when": "23-24 October 2026",
+        "when": "Late October 2026",
         "causes": [
           {
-            "name": "Conflicting public accounts",
-            "detail": "Trump said limits were lifted while Ukraine said they were not, which amplified doubts about reliability."
+            "name": "No formal oversight",
+            "detail": "The Pentagon inspector general declined to investigate the slowdown, so the dispute remains political."
           },
           {
-            "name": "Active fighting",
-            "detail": "Attacks continued on both sides, so degraded links carried an immediate operational cost."
+            "name": "US peace push",
+            "detail": "A new US push to end the war raises the stakes of every lever Washington holds."
           },
           {
-            "name": "Looming negotiations",
-            "detail": "The expected Abu Dhabi meeting raises the political stakes of any leverage."
+            "name": "Reported US pressure on strikes",
+            "detail": "A report of paused refinery strikes shows US influence extends to Ukraine's operations."
+          },
+          {
+            "name": "Russian satellite ambitions",
+            "detail": "Moscow is building a rival network, which raises the strategic value of satellite links on both sides."
           }
         ]
       }
     ],
     "stakeholders": [
       {
-        "name": "Donald Trump",
-        "role": "US president",
-        "wants": "To be seen resolving the issue and to keep control of the Ukraine narrative",
-        "leverage": "US influence over access and over intelligence sharing and support",
-        "likelyMove": "Say problems will be straightened out; keep options open ahead of the talks"
+        "name": "Donald Trump and the White House",
+        "role": "US president, holder of key levers",
+        "wants": "A deal to end the war and credit for it",
+        "leverage": "Arms approvals, intelligence sharing, influence over access",
+        "likelyMove": "Mix pressure and approvals, such as the Patriot deal, to keep Kyiv aligned with the peace push"
       },
       {
-        "name": "Ukrainian government and armed forces",
-        "role": "Users dependent on Starlink",
-        "wants": "Stable, unrestricted links for command and drone operations",
-        "leverage": "Public statements, battlefield need, European partnerships",
-        "likelyMove": "Report service status loudly and seek backup communications"
+        "name": "Volodymyr Zelensky and Ukraine's government",
+        "role": "Wartime leader",
+        "wants": "Stable communications, arms and room to choose targets",
+        "leverage": "Public pressure, domestic industry, European backing",
+        "likelyMove": "Say publicly that relations are fine, as with his 'nothing personal' remark on sanctions, while diversifying away from US dependence"
       },
       {
-        "name": "Starlink operator",
-        "role": "Network provider",
-        "wants": "Not clear from our sources",
-        "leverage": "Technical control of the network",
-        "likelyMove": "Our sources do not say who ordered the limits; further clarity may follow"
+        "name": "SpaceX and Elon Musk",
+        "role": "Operator of Starlink and Starshield",
+        "wants": "Commercial and political standing",
+        "leverage": "Physical control of the network",
+        "likelyMove": "Remain mostly quiet; any further limits would invite scrutiny"
+      },
+      {
+        "name": "Ukrainian defense firms such as Fire Point",
+        "role": "Domestic arms makers",
+        "wants": "Systems that cannot be switched off from abroad",
+        "leverage": "Speed of production and links to the military",
+        "likelyMove": "Promote Starlink-free weapons and win contracts on that basis"
+      },
+      {
+        "name": "European governments, including the UK",
+        "role": "Funders",
+        "wants": "A Ukraine that can keep fighting if US support wavers",
+        "leverage": "Budgets, procurement, sanctions",
+        "likelyMove": "Raise defense spending and pledge more to Kyiv, as the UK Budget does"
       },
       {
         "name": "Vladimir Putin and Russia",
         "role": "Adversary",
-        "wants": "A deal on Russian terms and a split between Washington and Kyiv",
-        "leverage": "Continued attacks; summit proposal to Trump and Xi while refusing to meet Zelensky",
-        "likelyMove": "Exploit any sign of US-Ukraine friction"
+        "wants": "A split between Kyiv and Washington and an end to Western support",
+        "leverage": "Strikes, summit diplomacy, its own satellite network",
+        "likelyMove": "Propose summits with Trump and Xi, courting Washington while refusing to meet Zelensky"
       },
       {
-        "name": "Marco Rubio and the US State Department",
-        "role": "US diplomacy",
-        "wants": "To limit alarm about US support",
-        "leverage": "Control of messaging on intelligence sharing",
-        "likelyMove": "Rubio has denied any pause in intelligence sharing; expect more reassurances"
-      },
-      {
-        "name": "European partners",
-        "role": "Donors and potential backstop",
-        "wants": "To prevent a collapse in Ukraine's communications without taking on open-ended cost",
-        "leverage": "Funding and alternative technology",
-        "likelyMove": "Discuss backups; domestic politics, such as Le Pen's aid pledge in France, constrain the pace"
+        "name": "Pentagon inspector general and Congress",
+        "role": "Oversight bodies",
+        "wants": "Clear lines of responsibility",
+        "leverage": "Investigations, hearings, funding conditions",
+        "likelyMove": "Little action unless a new outage creates pressure"
       }
     ],
     "sectors": [
@@ -354,208 +382,215 @@
         "sector": "Military communications",
         "direction": "mixed",
         "size": 3,
-        "why": "A week of slowed links hurt Ukrainian operations, but the dependency may push investment into backups."
+        "why": "Starlink links are central to Ukrainian military communications, so any limit is serious. The scare also speeds the search for alternatives."
       },
       {
-        "sector": "Drone and unmanned systems",
-        "direction": "down",
-        "size": 2,
-        "why": "Drone operations were affected for a week; reliable links are central to their use."
-      },
-      {
-        "sector": "Satellite communications industry",
+        "sector": "Defense manufacturing (Ukraine and Europe)",
         "direction": "up",
         "size": 2,
-        "why": "A visible dependency on one network strengthens the case for alternatives; this is an inference rather than reported."
+        "why": "Demand rises for weapons and links that cannot be switched off, as Fire Point's claim shows."
       },
       {
-        "sector": "European defence budgets",
+        "sector": "Satellite communications",
         "direction": "up",
         "size": 2,
-        "why": "Governments may need to fund communications or other support if US access looks conditional, though donor politics cut the other way."
+        "why": "Governments are rethinking reliance on a single provider. Russia is building its own rival, and Ukraine sanctioned its developers."
       },
       {
-        "sector": "US-Ukraine diplomacy",
+        "sector": "Russian oil refining",
         "direction": "mixed",
         "size": 2,
-        "why": "US leverage rises while trust in US consistency erodes."
+        "why": "Reports conflict over whether Ukraine paused or resumed strikes. If US pressure holds, refiners get relief; if not, the strikes continue."
       },
       {
-        "sector": "Cyber and electronic warfare",
+        "sector": "US defense exports",
         "direction": "up",
-        "size": 1,
-        "why": "Greater focus on resilient, secure links; this is analyst inference, not from our sources."
+        "size": 2,
+        "why": "The $2.1 bn Patriot deal is the sort of sale that keeps Ukraine dependent on US kit."
+      },
+      {
+        "sector": "European defense budgets",
+        "direction": "up",
+        "size": 3,
+        "why": "The UK Budget brings forward its defense target and pledges billions to Ukraine, a response to uncertainty over US support."
       }
     ],
     "dailyLife": [
       {
-        "item": "Frontline communications",
-        "effect": "Slowed links affected military and drone operations for about a week before service was reported stable.",
+        "item": "Ukrainian front-line communications",
+        "effect": "Units rely on satellite links for coordination. A limit, even a short one, can cut contact and slow decisions.",
         "sourceIndex": 1
       },
       {
-        "item": "European aid debates",
-        "effect": "Questions over how much Europe can fund feed into national budget politics, such as Le Pen's pledge to cut French aid."
+        "item": "Power and safety in Ukrainian cities",
+        "effect": "Russian strikes continue. Zelensky said almost 300,000 households lost power after strikes on Dnipropetrovsk and Kyiv regions; another outlet reported 350,000 in Dnipro."
       },
       {
-        "item": "News about the war",
-        "effect": "Expect rapid, conflicting claims from officials; check whether a statement comes from Kyiv, Washington or the company.",
-        "sourceIndex": 2
+        "item": "Taxes and budgets in Europe",
+        "effect": "The UK Budget brings forward defense spending and pledges billions to Ukraine, alongside a higher bank tax and a £100 energy payment."
+      },
+      {
+        "item": "Fuel markets",
+        "effect": "If Ukraine does pause strikes on Russian refineries, the effect on Russian fuel supply is smaller. Any resumption could tighten it again."
       }
     ],
     "scenarios": [
       {
-        "name": "Restored and holds",
-        "probability": 50,
-        "looksLike": "Service stays stable; the episode is attributed to a technical or administrative limit and fades from the news.",
+        "name": "Managed dependence",
+        "probability": 45,
+        "looksLike": "Access stays stable. Ukraine keeps using Starlink while quietly building alternatives; Europe funds more.",
         "signposts": [
-          "No new reports of throttling",
-          "Kyiv continues to describe service as stable"
+          "No new restriction reports for weeks",
+          "More contracts for non-Starlink systems"
         ],
-        "effectOnWorld": "Little lasting change, though dependency remains a talking point."
+        "effectOnWorld": "The story fades from headlines, but the hedging by Kyiv and Europe continues."
       },
       {
-        "name": "Intermittent throttling returns",
+        "name": "Leverage in the peace push",
         "probability": 25,
-        "looksLike": "Slowdowns recur, with conflicting accounts from Washington and Kyiv each time.",
+        "looksLike": "Washington uses access, intelligence or arms approvals as bargaining chips in a push for a ceasefire deal.",
         "signposts": [
-          "New Ukrainian complaints",
-          "Unexplained limits on specific units or regions"
+          "Fresh restriction claims around negotiation dates",
+          "Public disagreement between Kyiv and Washington over terms"
         ],
-        "effectOnWorld": "Ukraine accelerates backups; trust in US reliability keeps falling."
+        "effectOnWorld": "Kyiv's negotiating position weakens; European partners are pushed to fund more and to take a stronger role in talks."
       },
       {
-        "name": "Access becomes part of the talks",
-        "probability": 15,
-        "looksLike": "Starlink access and intelligence sharing become explicit or implicit bargaining chips before or during Abu Dhabi talks.",
+        "name": "Faster decoupling",
+        "probability": 20,
+        "looksLike": "Ukraine and Europe speed up non-US links and Starlink-free weapons, backed by new European funding.",
         "signposts": [
-          "US officials link access to Ukrainian concessions",
-          "Ukraine publicly warns about dependence"
+          "Announced European satellite-communications contracts",
+          "More firms reporting Starlink-free systems"
         ],
-        "effectOnWorld": "Washington's leverage over Kyiv grows; Russia gains room to press."
+        "effectOnWorld": "US leverage falls over time, but at high cost, and capacity gaps remain for months."
       },
       {
-        "name": "Europe steps in quickly",
+        "name": "Serious outage",
         "probability": 10,
-        "looksLike": "European governments announce funded alternative links for Ukraine's military.",
+        "looksLike": "A new restriction or failure hits front-line communications for days, and Russia exploits it with a strike push.",
         "signposts": [
-          "Announcements of European satcom funding",
-          "Joint procurement with Kyiv"
+          "Ukrainian officials reporting degraded links",
+          "Russian strikes timed to the outage, as the Telegraph headline alleges happened before"
         ],
-        "effectOnWorld": "Reduces US leverage but raises European defence spending and political friction over aid."
+        "effectOnWorld": "A major crisis in US-Ukraine relations and an emergency European response."
       }
     ],
     "predictions": [
       {
-        "text": "No new widely reported restriction on Ukrainian military Starlink access will emerge by 30 November 2026 (about 60%).",
-        "horizon": "By 30 November 2026",
-        "resolves": "2026-11-30"
-      },
-      {
-        "text": "Negotiators from Ukraine, Russia and the US will meet in Abu Dhabi by the end of November (about 65%).",
-        "horizon": "By 30 November 2026",
-        "resolves": "2026-11-30"
-      },
-      {
-        "text": "US or company officials will publicly explain who imposed the limits and why (about 35%).",
+        "text": "Ukraine will not report another significant Starlink restriction made public by officials before the end of 2026 (probability 0.65).",
         "horizon": "By 31 December 2026",
         "resolves": "2026-12-31"
       },
       {
-        "text": "Ukraine or at least one European government will announce a new or expanded non-Starlink satellite or secure-communications arrangement for Ukraine's military (about 40%).",
+        "text": "The Pentagon inspector general or Congress will not open a formal review of the Starlink slowdown (probability 0.7).",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
+      },
+      {
+        "text": "Ukraine or a European government will announce at least one new contract or program for non-Starlink military communications (probability 0.6).",
         "horizon": "By 31 March 2027",
         "resolves": "2027-03-31"
+      },
+      {
+        "text": "Another US arms sale or approval for Ukraine, such as air-defense missiles, will be announced (probability 0.7).",
+        "horizon": "By 31 January 2027",
+        "resolves": "2027-01-31"
+      },
+      {
+        "text": "A US-brokered ceasefire will not be in place (probability 0.8).",
+        "horizon": "By 30 April 2027",
+        "resolves": "2027-04-30"
       }
     ],
     "countermeasures": [
       {
         "audience": "businesses",
         "actions": [
-          "If you supply Ukraine's military or drone makers, ask whether products can work with degraded or alternative links.",
-          "Do not assume any single network is permanently available.",
-          "Watch for European procurement signals on satellite communications."
+          "Defense suppliers: offer systems that work without a single-provider link and document that fact.",
+          "Satellite firms: prepare for demand from European buyers wary of US dependence.",
+          "Treat claims such as Fire Point's as marketing until independently tested."
         ]
       },
       {
         "audience": "investors",
         "actions": [
-          "Treat US statements on Ukraine support as variable; look for confirmation from Kyiv.",
-          "Watch the Abu Dhabi talks for signs access is being used as leverage.",
-          "Check European defence-budget decisions that could fund alternatives."
+          "Watch European defense budget announcements and procurement timelines more than headlines.",
+          "Treat reports on refinery strikes as uncertain, since outlets disagree on whether a pause happened.",
+          "Be cautious on single-source claims from companies or officials."
         ]
       },
       {
         "audience": "households",
         "actions": [
-          "Expect conflicting claims in the news; wait for confirmation from several outlets.",
-          "Follow national debates on Ukraine aid, which may affect budgets and taxes."
+          "Expect war-related news to move fast and be contradicted. Wait for a second source.",
+          "Note that European budgets, including energy payments and taxes, are being reshaped partly by war funding."
         ]
       },
       {
         "audience": "policymakers",
         "actions": [
-          "Establish which parts of Ukraine's communications depend on a single provider.",
-          "Fund and test backups before they are needed.",
-          "Clarify publicly who decides on access and under what rules."
+          "Fund and test a backup communications layer for Ukraine that does not depend on one US provider.",
+          "Press for clear rules and review of who can limit military access to commercial networks.",
+          "Coordinate European pledges so that gaps in US support are filled in a planned way."
         ]
       }
     ],
     "analogues": [
       {
-        "event": "Viasat KA-SAT attack at the start of the invasion",
+        "event": "Viasat KA-SAT cyberattack",
         "year": "2022",
-        "whatFollowed": "Satellite communications disruption showed their value as a target; Starlink became an alternative soon after."
+        "whatFollowed": "A cyberattack on satellite modems on the day of Russia's invasion disrupted Ukrainian military communications. It showed the weakness of a single link and helped open the door to Starlink."
       },
       {
-        "event": "US pause of aid and intelligence sharing",
+        "event": "Reported Starlink coverage dispute over Crimea",
+        "year": "2022",
+        "whatFollowed": "Reports said Musk declined to extend coverage for a Ukrainian operation near Crimea. The episode raised the question of private control over military tools; accounts differ on details."
+      },
+      {
+        "event": "US pause in military aid and intelligence sharing",
         "year": "2025",
-        "whatFollowed": "Both resumed within about two weeks, but the pause showed Washington could turn support on and off quickly. Background from general knowledge; dates approximate."
-      },
-      {
-        "event": "Reported limits on Starlink use near Crimea",
-        "year": "2022",
-        "whatFollowed": "Debate about whether a private company should decide how a war is fought; accounts of the details are disputed, so treat this as a reported, contested case."
+        "whatFollowed": "Washington briefly paused support to Ukraine in March 2025, which pushed Kyiv toward talks and European governments toward higher spending."
       }
     ],
     "watch": [
       {
-        "date": "2026-11-30",
-        "title": "Abu Dhabi talks window",
-        "why": "Negotiators from Ukraine, Russia and the US are expected to meet next month; watch whether access is raised."
+        "title": "Starlink stability in Ukraine",
+        "why": "Any new restriction claim would reopen the dispute and test the 'now stable' statement."
       },
       {
-        "title": "Starlink service reports from Kyiv",
-        "why": "Any new complaint would mean the 'now stable' status did not hold."
+        "title": "US peace push and Starlink bargaining",
+        "why": "If access becomes part of talks, US leverage becomes explicit."
       },
       {
-        "title": "Explanation of the limits",
-        "why": "Who imposed them, and why, determines how likely a repeat is."
+        "title": "Pentagon and Congress reaction",
+        "why": "The inspector general declined a probe; lawmakers could still call for hearings."
       },
       {
-        "title": "Rubio and US statements on intelligence sharing",
-        "why": "Rubio denied any pause; any change would signal wider US leverage use."
+        "title": "Refinery strikes",
+        "why": "Reports conflict on whether Ukraine paused or resumed strikes; the next weeks should clarify US influence."
       },
       {
-        "title": "Putin's summit proposal",
-        "why": "He proposed a summit with Trump and Xi while refusing to meet Zelensky; the response shapes diplomacy."
+        "title": "European funding announcements",
+        "why": "Follow-up to the UK Budget pledges and what other states commit to Ukraine."
       },
       {
-        "title": "European backup announcements",
-        "why": "Funding or procurement for alternatives would show Europe filling the gap."
+        "title": "Fire Point and other Starlink-free systems",
+        "why": "Independent confirmation, or contracts, would show whether decoupling is real."
       },
       {
-        "title": "French aid politics",
-        "why": "Le Pen's pledge to cut aid and Zelensky's reply show the budget side of the question."
+        "title": "Russia's satellite network",
+        "why": "Putin's rival to Starlink and Ukraine's sanctions on its developers show the space contest is widening."
       }
     ]
   },
   "evidence": {
     "sources": [
       {
-        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-        "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-        "publisher": "Al Jazeera",
-        "date": "2026-10-24"
+        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC Europe",
+        "date": "2026-10-23"
       },
       {
         "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -564,63 +599,94 @@
         "date": "2026-10-24"
       },
       {
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "publisher": "BBC Europe",
-        "date": "2026-10-23"
+        "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+        "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "date": "2026-10-24"
+      },
+      {
+        "title": "Putin calls Elon Musk a 'genius' as Russia builds its own Starlink rival",
+        "url": "https://www.euronews.com/2026/10/29/putin-calls-elon-musk-a-genius-as-russia-builds-its-own-starlink-rival",
+        "publisher": "Euronews",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Pentagon watchdog declines Starlink slowdown probe",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50SjFyVlkyTEhNNTlXcmJmcWczR2JKc09iRngzMmZWWWNTN2V1TzhFTC1neGw2aXBrdkp3ZkMwMzQ4cTlKMHV0dktta1RwOWY2MzhmSENISzhyYVV5NFU4c3dMUjVOQTBZSTJtSFZjNUvSAYMBQVVfeXFMTzZKZm5fdEVZYjNQbjF4QThTSURHVGFfWkZQVFFmOENDM0RzQk1oX1dtMmxseTc3ZHA5TDN3dDF0YVQ4WS1pQ0pHeVhjNzN6alo4X1RCSkVYR3pxTXZzLXhvVXBzNGEyNzhhVjlLUHlOYURDdFAzY1ktc19pQzg4NFFWckU?oc=5",
+        "publisher": "Raw Story",
+        "date": "2026-10-29"
+      },
+      {
+        "title": "Fire Point is already producing weapons that do not require Starlink to strike Russia",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPblBldDAzeUhKbUd1Q1NPVmotOVduc1E4QktOZU9sa3QwM0ZPRS1FNWhBZFVSQ0kyeTg3d3RDMHFWZlBhV0FuQ29tT0YzNTJvQm1HNW95ckZHY181QkdFN2NPOXdCUndua1J2enZrRkhKY1VOR1QtMjgtQVR2TDdxaW4wQWtIUWxLZWExWkVlbXFCZVFfUEIyeU1adXRpdmRLQlUwd1VuR0VFdE9BMU1yZGh4NVgxMXdqbGhhejlaR0VVOXZjdXpKVUw1b25SUzlUUkVpOFNjTUnSAdcBQVVfeXFMTWY4OHlxcHF5S0dGSjNGWGJKQkkzZWs0S2tIVWFyNDc1X3J4ckFPVGlUdm1JcnF3dGxsNVlvXzRBZ3p2aFNFMzRGN09VWUs3Znk5QnhzNGZXRzBpYmJIYW1za1RzeGlEU0tYa0RPWUV0WHU2eGwzOUJ6TFVlTm1zUmZSMmZ1R2lFcXBYT1kwOFdjZ1QxdzBSZjl0eURfMlJzVFJSQWxaQlBqSUcwanpabkREd2huajhTSmRPNjd5djlGcFVTQmE3TnExTzdQZENlbXJHVHZQOUk?oc=5",
+        "publisher": "Ukrainian National News (UNN)",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Ukraine pauses strikes on Russian refineries after US pressure: Report",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUk5ZEc2dEFKRnVBWkN0TThQV1FicUl3LVlsYjlZV2N1NzdCN3hOSkZSWWdtdzlSTmhvb3dXclBEWVJ5Ykk0ZW9lTllkbEZ4MFQwSjJRcHc3Sm0wdS1RQ25FaVhQYW5nWHBxdURkZUgzckhXSDJkYUFEQmhKUVBLOE11T25hem9JVDdjUWhnRTNpN2RPTWdqcEhBVEFQYVFuRzdSSldnVFp6Vks5LUtzc0NB?oc=5",
+        "publisher": "Türkiye Today",
+        "date": "2026-10-30"
+      },
+      {
+        "title": "Trump clears $2.1 bn Patriot missile deal for Ukraine after Zelenskyy tensions: Is his Ukraine policy changing?",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY182ejRHOVE5dnRDSlYtVHpVYWNzTGVHQ1V5blE0RGZQZlItdTMtTXNuckVJMjh2enpLTEVnbk54UmV4bkxjRUhzZTJqSWpwUjFwam44emVUSUF3LUtyNkxqTHRQVkFZV0VsQUZwaDFfb1RtbVhrRzdDa29KM25zM3hpb1pOTHZWbEphMl8tRERuNkhtdkpwNGtxYm1zLTNtX004RVkwekoyMXp5MkdoT0diSXl5ZkgtWHNpNjJzeW45b1JvTnlUdzVqTERfLUF5azc0b21zRUpLOVctZTlKazNxZzAtRUhCLWhXSGg4bENWRmN0aUM5Q0hn0gH_AUFVX3lxTFA5TlJPNGxyNHVZR2oxTGExdjRxOU9NNlpRMWNoTGt3SzU3V2JSa0EzX0lJbUdGU2M4c2NfVHZBWDF6SjhaWlhuSWVJelRaaF90SzFIS0o1SVRBeTNWdk5razFGUGN3SjM1ZEllVkU2bUpwZ3FxMS1BMWl1amhhOGs2TUM5VzU1YUNGQzV6V284WHBjbTFiVk1TQWJkd0ZLdFZFZHhabkU0bmpmZ3NJSnJQQWJFWmZkdU1RSy01TE04ZWkxdXFFcENkNnB5YkR1WjR0LUJnRm5oN1J3VDFwdUdjZ0gxNnBOT3JRU0xVT1JSelROZ0Z5UVZaODVLVmFKZw?oc=5",
+        "publisher": "Livemint",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Backstage bargaining and Starlink row shadow new US push to end Ukraine war",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUlmdy1lOTdrWFBydlhaMXM1bUlSU3gzRzVCQ0duSUg4UEZJZTFvODBzSE5oSWQ3R05kU3ZxbmpBMU11Y0E0ZHl5NHc1TFZCOUxWOWRMUHpRcTNQdzVXMThwX1dkWl83ZVhYQTI3TDlVbnR0QklPbDdWQ1dHSFhDRXNia2Nwa21MRU8zOVFIZkdScXdXamItZ1p2bjhRc3BXb3Y1c0pFaHloNWNOMzc0STlXNGNsUDVVQ3ZVdDlzVXgwUl9C?oc=5",
+        "publisher": "Bankingnews",
+        "date": "2026-10-30"
       }
     ],
     "confidence": [
       {
-        "claim": "Ukraine said Starlink was restored and 'now stable' on 24 October",
+        "claim": "Starlink was reported restricted on 23 October and restored on 24 October",
         "level": "high",
-        "note": "Reported by Al Jazeera and BBC."
+        "note": "Reported by BBC and Al Jazeera. The nature and source of the limits is not fully explained in our material."
       },
       {
-        "claim": "Trump said limits were lifted while Ukraine said they were still in place on 23 October",
-        "level": "high",
-        "note": "BBC Europe headline and summary."
-      },
-      {
-        "claim": "Slowed links affected military and drone operations for about a week",
+        "claim": "The Pentagon inspector general declined to investigate the slowdown",
         "level": "medium",
-        "note": "From a BBC summary line; the start date in the timeline is our estimate."
+        "note": "Based on headline-level reporting from Raw Story and Ars Technica; we did not read the full texts."
       },
       {
-        "claim": "Who imposed the limits and why",
+        "claim": "Fire Point already makes weapons that do not need Starlink",
         "level": "low",
-        "note": "Not stated in the listed sources; the report does not assign blame."
+        "note": "Company CEO's claim, reported by Ukrainian outlets; not independently verified."
       },
       {
-        "claim": "Rubio's denial, Putin's summit proposal and Le Pen's aid pledge",
-        "level": "medium",
-        "note": "Taken from the linked-event note in the brief material, not from the three listed articles."
+        "claim": "Ukraine paused strikes on Russian refineries under US pressure",
+        "level": "low",
+        "note": "WSJ-based report relayed by secondary outlets; another outlet says strikes resumed after a two-week pause."
       },
       {
-        "claim": "2022 and 2025 background events",
+        "claim": "Trump cleared a $2.1 bn Patriot deal",
         "level": "medium",
-        "note": "General knowledge, dates approximate, no URL cited."
+        "note": "Reported by Livemint; details such as delivery timing are not in our material."
       },
       {
         "claim": "Scenario probabilities and predictions",
         "level": "low",
-        "note": "Author judgement, not a sourced forecast."
+        "note": "Author judgement, not a sourced forecast; to be graded as events resolve."
       }
     ],
-    "method": "Drafted from the three listed articles, three matched wire headlines and a short connection note on linked events. Reporting is thin, so the cause of the limits, the extent of the operational impact and the European response are unknown or estimated; those are flagged in the text. Background from 2022 and 2025 is from general knowledge and carries lower confidence. Probabilities are the author's judgement.",
+    "method": "Drafted from the three cited event sources, the fuel items, and 24 matched wire headlines, most of them headline-level only. The nature of the Starlink limits, the role of the Pentagon and SpaceX, and the details of the refinery pause are not fully covered in the material, so they are described cautiously. Scenario probabilities and predictions are the author's estimates. Historical analogues come from general knowledge, are stated at a high level, and carry lower confidence.",
     "changeLog": [
       {
-        "date": "2026-10-24",
+        "date": "2026-11-01",
         "change": "First publication."
       }
     ]
   },
   "generated": {
     "by": "Geopolitica draft script",
-    "at": "2026-10-24T22:06:47.894Z",
+    "at": "2026-11-01T01:32:45.551Z",
     "model": "claude-sonnet-5-5",
     "sources": 3,
-    "headlines": 3,
+    "headlines": 24,
     "reviewed": false,
     "size": "deep"
   }
