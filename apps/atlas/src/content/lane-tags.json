@@ -180,9 +180,9 @@
     "headlines": []
   },
   "france-debt-stress": {
-    "at": "2026-10-31T18:11:47.435Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "9ygbbj",
+    "hash": "dryzle",
     "tags": [],
     "headlines": []
   },
@@ -229,77 +229,61 @@
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-10-31T18:11:47.435Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "p27ktz",
+    "hash": "tecbso",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-10-31T17:11:52.868Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "1viqc0q",
+    "hash": "g8yzsn",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.95,
-        "delayDays": [
-          3,
-          10
-        ],
-        "costPct": [
-          15,
-          40
-        ],
-        "why": "On 2026-10-30 the IRGC reported three tankers on fire after hitting mines on the IMO-approved Hormuz route, and Gulf exports are already running at only 60-80% of normal, so transits face delays, convoy waits and war-risk premiums.",
-        "action": "Ask your forwarder for the current war-risk surcharge and the vessel's Hormuz routing, hold a 10-day buffer on Gulf-origin cargo, and get quotes for alternatives such as Red Sea ports with a land bridge.",
-        "sources": [
-          1,
-          3,
-          2,
-          0
-        ]
-      },
-      {
-        "point": "JEBELALI",
-        "effect": "delay",
-        "likelihood": 0.7,
+        "likelihood": 0.9,
         "delayDays": [
           2,
           7
         ],
         "costPct": [
           10,
-          25
+          35
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, and the mine strikes on tankers reported 2026-10-30 add to restricted and irregular transits, so vessel calls to and from the port face schedule slippage and extra surcharges.",
-        "action": "Confirm sailing schedules and any Gulf emergency surcharges with your carrier before booking, and build 7 days of buffer stock for cargo shipped via Jebel Ali.",
+        "why": "Gulf exports through Hormuz have run at 60-80% of normal since the war began, and on 2026-10-30 the Revolutionary Guard reported three tankers on fire in the strait, with Brent at $113 on escalation fears, so transits face delays, war-risk premiums and queuing.",
+        "action": "Ask your forwarder or carrier for current war-risk surcharges and transit schedules through Hormuz, and hold at least 7 days of buffer stock on cargo that must pass the strait.",
         "sources": [
           1,
-          3,
-          2
+          0
+        ]
+      },
+      {
+        "point": "JEBELALI",
+        "effect": "surcharge",
+        "likelihood": 0.55,
+        "delayDays": [
+          2,
+          6
+        ],
+        "costPct": [
+          8,
+          25
+        ],
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, so with tanker attacks reported on 2026-10-30 and traffic through the strait well below normal, container calls and feeder connections face delays and added war-risk charges.",
+        "action": "Ask your forwarder whether Jebel Ali bookings can be rerouted to a Gulf-outside port or an overland alternative, and confirm in writing who pays war-risk and congestion surcharges before booking.",
+        "sources": [
+          1
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Hormuz Reopening Could be OPEC’s Undoing: Bousso",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU1BTkRDTWgwMEJBYkYwNzZ2c2NyZHEtaldfdlZzNjdUbS0zZEFmWW9zYzZma1pFc1FtclZTUnZSYnhRd1FwZTRIYXgtcUpEQzBwM1MxY1pyek9ZOXBSbzF1dmYzNGdRMmphWlNqc2RqLTBSTWgyV0dZWTFhOGJJaE13aw?oc=5",
-        "publisher": "EnergyNow.com",
-        "published": "2026-10-30T22:36:38.000Z"
-      },
-      {
-        "title": "IRGC Claims 3 Tankers Hit Mines on IMO-Approved Hormuz Route as Limpet Attack Pushes Brent Past $117",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkaDQ5Vkk4U0Zma1BtYUdqbWFRQmRZWWt2bk5mTFdvaTVHRFNrZHQtVXB6cjBrRWZpSFM0X1lVZlRONHg5aFJLV0NTUVgycEhURFo0RDdGRnIwdjQyVmZBMXMyOVgtRTB1YlY0Mnh3?oc=5",
-        "publisher": "https://houseofsaud.com/",
-        "published": "2026-10-30T22:01:35.000Z"
-      },
-      {
-        "title": "SCARY WEEK FOR OIL – OCTOBER OIL GAINS EXCEED 13% – Oil Climbs More Than 2% Friday as Middle East Attacks Intensify – WTI and Brent Finish Week Higher, October Gains Exceed 13%",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQmFkYjFhcm9XeWlHUmhHUlhhV25DWmJjbnlWMTFqTGNCUFdMR3dYdm9Yekx4RURTaks1VkFlT2JUWEVLSmVrYk9nd0RZSnBLQ09BdUtJX3ZmX0NaOEctajJpbjY5SXdEWFRoUmIzMTBMNENOaDhSejNDeVBUb0pFMWRkTXFNUFlodjJETVN2dVZjMmhONVJUTXc1V3pkeUtpX1VQa2hIM1dIVTlFS2kzNDUzMlViZXV3ZjU3X2lHTlhPcjBoajBLZ1VuTVNJVFJKSk0zQWRCaHpQZzZ2MjFtUjJxQ0cySWJ6aHNsUnNPZlV4Qk9BWi1vMmFGV2ZEWTdISTBLcEtHdmRSQQ?oc=5",
-        "publisher": "EnergyNow.com",
-        "published": "2026-10-30T21:01:00.000Z"
+        "title": "Brent Crude Oil Price at $113.43: OPEC+ Meets Sunday",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX3hRVld3M3R0TzB6T24wQ2o3Q2hCWG93VTd1NG5Sem1qR2FqaEptOHpfbk9NUl9pc0tuOTcwT3g4N2FsRmNFZDRGQnp2bEtOZ0x2d2JfLUtfa09kRDk4MWxVaFBtbTBGWTNPUjRiRzhqdVhrZ3l6b3dXc1kyakVsbUttNnJ4SVhXaHMxZXlPb3ZzanFQaENYZzg3RlZNUzNqa1hPSXlJVlRobzNDcGtMRUZwWU1POUFZNDhoc1AySTdPb3FQTXNvREd4Sl9FVEE1VHNUT1VhSmRBN0dPV3lfTV9EaUxfWHU1WnFB?oc=5",
+        "publisher": "FinanceFeeds",
+        "published": "2026-10-31T06:55:28.000Z"
       },
       {
         "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
@@ -467,9 +451,9 @@
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-10-31T18:11:47.435Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "o94gbj",
+    "hash": "1u46c0x",
     "tags": [],
     "headlines": []
   },
@@ -481,9 +465,9 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-10-31T14:11:36.561Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "1xmchxg",
+    "hash": "1x0hefe",
     "tags": [],
     "headlines": []
   },
@@ -495,16 +479,16 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-10-31T17:11:52.868Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "1315yf9",
+    "hash": "1j6fyj2",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-10-31T17:11:52.868Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "4rnjzh",
+    "hash": "1jq9q93",
     "tags": [],
     "headlines": []
   },
@@ -619,9 +603,9 @@
     "headlines": []
   },
   "uk-budget-defense-ukraine-2026": {
-    "at": "2026-10-30T21:10:46.671Z",
+    "at": "2026-11-01T00:12:07.008Z",
     "by": "pipeline",
-    "hash": "18py22u",
+    "hash": "1axca12",
     "tags": [],
     "headlines": []
   },
