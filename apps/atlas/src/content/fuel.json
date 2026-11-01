@@ -311,30 +311,55 @@
     ]
   },
   "france-debt-stress": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "fitch-cuts-france-outlook-to-negative",
-        "title": "Fitch cuts France outlook to negative",
-        "when": "2026-10-30",
-        "place": "Paris",
+        "id": "fitch-cuts-france-s-outlook-to-negative",
+        "title": "Fitch cuts France's outlook to negative",
+        "when": "2026-10-31",
+        "place": "Paris, France",
         "lat": 48.87,
         "lon": 2.33,
-        "what": "Fitch kept France at A+ but moved the outlook to negative, citing worsening debt dynamics, the deficit and political instability, with debt seen reaching 124% of GDP by 2028.",
+        "what": "Fitch kept France at A+ but moved the outlook to negative, citing rising debt, a widening deficit and political instability, with debt set to reach 124% of GDP by 2028.",
         "via": "rating downgrade risk",
         "aspect": "markets",
         "flow": "into",
         "sources": [
+          {
+            "title": "Fitch Cuts France’s Outlook to Negative on Weaker Growth, Widening Deficit",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1lzcnNkTW5hM3JCc0dHX1JVd1JsNU1uMlJIQXA1a2p1cFFkaEN1MUZFWU5vV2FYa2xTUDFsWVBpb21MaWgxZlZSVVI4dTVUbkI0dXd2TFY5UnBlVHJ6VGRjeVVVdGFoWTNSTlQ1ajNENDVsZ2tTM3NhTDRLbmJwbHFTQjQyWTlmWlZLM3BZelY4TzVUWDZxU3lR?oc=5",
+            "publisher": "WSJ"
+          },
+          {
+            "title": "Fitch downgraded France’s rating outlook to negative due to rising public debt",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVW5mYVlkRUhLc0tGa09zRlU1N0FCRUhUOHRscjFKemdJZkpoYUl6NGIxR3dORzVpT01WdUxrRnhLOEZMOW0zOHpieWlPS1lmc2JRWXhkQlROdzlNMVVqUHV0ZFNEcEpnWDlFdHpmVXREaWRrUFhSak92Njd2cndqM3pnc01HMnZhSEhubzJIQU9KQVdvZExqRVMwOUVXMzY1Q3Fhb2dtSEgwNkFDWFRr?oc=5",
+            "publisher": "Open4business.com.ua."
+          },
+          {
+            "title": "Fitch Downgrades France’s Sovereign Rating Outlook to Negative",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2ZnY0h6Y0dnS3FRMVdMZUtFLVI3ZExOaE9nb1UxdDlreUgxX2dzU2dQcnAzdUpWYzVFbVIwVFU1LWJOMWh1REszd1M2NHZzcjhnRXRXdTRvUGNzQW5PekI2bnJ5LTlIS216XzhyTXNpNFhDRHNrVHZzMV9nYi1VWHRxN0Q?oc=5",
+            "publisher": "Sada Elbalad English"
+          },
           {
             "title": "France's Debt Could Hit 124% of GDP as Fitch Turns Negative and Bond Yields Reach 24-Year Highs",
             "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazFRTktKUW5GVHJBRzZ1dEZpN1dXN2UtMjhHYk1FOGx1U1AwZ1UtbzZWZF96cmJYUzdZVTJmYUJjSHJYcS1WbEFCRFhGc2FxZHNMbFRpdXVGaUNJV0FfZVpSMkp0SWRoeVVYUUpwOXJHUjNmSWU4QTd0U2xUNzg2UlFxQmxDSHRnOXFvMFlKeU1LRHQtR09TNlJ0NHNxdkhkaVVXT3FwQl9Iajk5ZTN5eHR5bU5xLUJ3eEVxOUkxQQ?oc=5",
             "publisher": "Coinpaper"
           },
           {
+            "title": "Fitch Revises France’s Outlook to Negative",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5scHdNN25LYk9iMWJKbE5QVHlKMWdRYVR1SFZiN0g3ekZIWnlySl9kMHJjYmVXUGJVckhXN3pEXzRCS3BlVFZ6dlhQc2NUT1E?oc=5",
+            "publisher": "MTV Lebanon"
+          },
+          {
             "title": "Fitch maintains France's rating at A+, but warns about debt, the deficit, and political instability",
             "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYjVWNS15THJMdlhheFhsRHdaZDJIaTdQcFc1TjMta3Y1UkJiNi1oY0IwQWFTSEhqSDIwYzlsR1JnWHNNX1Y3ajF4S1FWdERNektTRTRkWXZuMW1nVVk4amJBazh6VzhXRXBVT3R2Z3FiOEx2U3ZPR21TS05vbElwal9sa1AtZFYzd0xSYXFaU1hybENvdmRWQ05LNk1nbTJzdHc?oc=5",
             "publisher": "Informat.ro"
+          },
+          {
+            "title": "Fitch maintains Frances rating but lowers outlook ᐉ News from Fakti.bg - Business",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlA2VG5OQl9oU3ZnSXhrTVFHZERmU20xUmxkU3RwMXNfTFBGNXV5Y3dsNGpFTHBnSmNpYnVlejFJbEJLNUtpaHZWdHdfN0hfZkZsRHNnRGlZcnRTRkNHMXZjUkEtNTc4MmZUOWFpd2J4WGVYTjl4NGhLNEZHTXVJcVc3Z05RbHZPcG81N3lR?oc=5",
+            "publisher": "Fakti.bg"
           },
           {
             "title": "Fitch cuts France's rating outlook to negative over deficit and debt risks",
@@ -347,31 +372,21 @@
             "publisher": "BigGo Finance"
           },
           {
-            "title": "Fitch Cuts France’s Outlook to Negative on Weaker Growth, Widening Deficit",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1lzcnNkTW5hM3JCc0dHX1JVd1JsNU1uMlJIQXA1a2p1cFFkaEN1MUZFWU5vV2FYa2xTUDFsWVBpb21MaWgxZlZSVVI4dTVUbkI0dXd2TFY5UnBlVHJ6VGRjeVVVdGFoWTNSTlQ1ajNENDVsZ2tTM3NhTDRLbmJwbHFTQjQyWTlmWlZLM3BZelY4TzVUWDZxU3lR?oc=5",
-            "publisher": "WSJ"
-          },
-          {
-            "title": "Fitch revises France's outlook to 'negative' on worsening debt dynamics",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOTFpRWgwN2dnQVRiakd0aGcycFJHaFExQVJyaFRFVUJpelJvU1lvUVR0cWExcjZva2RITGZKMFJJZVN3Zm9faWs0VFZiZDV2TWpibkphbXo0d2RwQmpTQk8tSlNocGtjQVNlRThxU3kyLV9SVmlHQ2FwWHlpVFBUTkgwbmllVUVybUZsQ3p0X21DckNMV0pUM2hJRWxyZ0hHN0hPNjRn?oc=5",
-            "publisher": "Yahoo Finance"
-          },
-          {
-            "title": "Fitch cuts France outlook to negative on ballooning debt and deficit risks",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1ZQUVgtTGNVSWtTSXlSTHlGZmdESWJwRVFMSzZVSXJDT1M0eW1zQk1UQTVXS0hWcWlIMFEzcW12RmM5MEg2VVFxWF9ldHY0X3JiYzlMTl9JblJxNzVtbk5qWXpxcGVGVDFJX2tsQkFWS19SQnFSQmVoWGFtaEVHcG9vUTloUk5jQ1FHa0JOQkNMeXQ5Smh2MEhTdzAtRmNa?oc=5",
-            "publisher": "Yahoo Finance"
+            "title": "France's credit outlook splits rating agencies: Fitch turns negative, Moody’s stays stable, bond risk sees biggest drop",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTjIzdzZvdGVMdF9VNXdUcnRud0h4V05rcXlSSWV1c21sUWc5YzdabncwUlBXS1JPYzc3eDJVRE4xR0hkQVRxSENaQ0ZzM0J5RTJjenA5TWtzR3lSLTlwLUxXNFBvYVRFZjQ1bkdySlpJc2pnQzhwcHRLZS1sNXhodjZLeWYwUU5YVFVrVVc1UXhKdml0eVVCSGJlSVM1YjBIcjROS2FKUnZUekl1OG9hbEFsQ0pIMXRFR25FcjFyLW9QZTg0Y0QyY092QUQtbGl2ZmRrTWpXdnZEcXFPMFI40gHkAUFVX3lxTE1La0FtZXNRWXctYjBOcl95cWJ3SHl4TkwwVDhjaFhiOVBjeUZ0WWNtT1dCcE1HZTU4Z2p5WF90V2FTd3lJdm5QMzliRzY4ZW01cGVPangtQjh1emJOS1B2T2dEZEhERUo5eWdrRWVWVFVaZWZjRzNOd1BuUXAxTU1tM2cwZGU2bUFpUWZ5am94NnpnUk1LeTJ4cjRjXzItQmdtaG44Z2JJbVM2dW1aLUt3U0VobTh2enp3LXFqYkQzOUR6YS1UNnNfNG9aZHg0U1cwc2kyVGRyOWVIMG41OXlIcG5LUg?oc=5",
+            "publisher": "Livemint"
           }
         ]
       },
       {
-        "id": "government-pushes-responsible-2027-budget",
-        "title": "Government pushes 'responsible' 2027 budget",
+        "id": "french-budget-stalemate-weighs-on-euro",
+        "title": "French budget stalemate weighs on euro",
         "when": "2026-10-31",
-        "place": "Paris",
+        "place": "Paris, France",
         "lat": 48.87,
         "lon": 2.33,
-        "what": "The French government is promoting a 'responsible' 2027 budget plan as it tries to answer the debt concerns raised by Fitch's negative outlook.",
-        "via": "fiscal credibility signal",
+        "what": "The government pushes a 'responsible' 2027 budget while a parliamentary stalemate over it weighs on the euro.",
+        "via": "budget uncertainty, investor fear",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -379,25 +394,30 @@
             "title": "France pushes 'responsible' 2027 budget as Fitch cuts debt outlook to 'negative'",
             "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNC0wcFotR1hQZU1BbDlTTXIzYXRkRWVhNFl5R1FJc2ViQW9sajZWZlJRd2hrSFpPdDJlY3lxb3RFYzBCRGdzTjRndl9zRkpIUTd0dTd0aFloeFN0UEx3TnEya2JXMFVOMUJ4OExCVjBjbzJSelFKZmhJaWZ3cFkyTkdVOW9WbmtXQ1Y0?oc=5",
             "publisher": "AOL.com"
-          }
-        ]
-      },
-      {
-        "id": "french-budget-stalemate-persists",
-        "title": "French budget stalemate persists",
-        "when": "2026-10-31",
-        "place": "Paris",
-        "lat": 48.87,
-        "lon": 2.33,
-        "what": "A deadlock over the French budget is adding to political uncertainty and weighing on the euro, which keeps investors wary of French debt.",
-        "via": "political uncertainty premium",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
+          },
           {
             "title": "French Budget Stalemate Crushes Euro; Sterling Gain of Over 2% in October Could Mark Worst Month in Four Years",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oVi15QVgycHZ4NUpuSU9uNWVOcWFtdUVWaDdRN0xKQUJVZTlYYVZjZ0dQRFpWUUNINjY0VmVyRmhQVEpTZDNoX25aTkh2QUliLWVjV29vQ0pmUVFDNVBUd2xGSGxGbTFaYUJJUkR6amVXYVNwWmc?oc=5",
             "publisher": "BigGo Finance"
+          }
+        ]
+      },
+      {
+        "id": "lagarde-resignation-clouds-euro-bond-outlook",
+        "title": "Lagarde resignation clouds euro bond outlook",
+        "when": "2026-11-01",
+        "place": "Frankfurt, Germany",
+        "lat": 50.11,
+        "lon": 8.68,
+        "what": "Lagarde's resignation raises questions about what comes next for euro bonds and the euro, adding to uncertainty around ECB backing for French debt.",
+        "via": "ECB leadership uncertainty",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "What’s next for Euro bonds and the euro after Lagarde’s resignation?",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTG9tb3hpQUtGRXNvbEdNS1hzUFZFX29zaWM5MXk3TkR6LTBsT1hoWUtlWnE0YkZGUlcxakNXSDVPSWRKdW5Eb09hdEtLNHY0SkN1ejVPSEQzUEZnUEtMZHZhRDNCS2t0UG55eDd2bWlCeUlYMGZxUXBaRndPcjVfaEpLaw?oc=5",
+            "publisher": "Yahoo Finance Australia"
           }
         ]
       }
@@ -1337,40 +1357,30 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "nationwide-general-strike-hits-italian-cities",
-        "title": "Nationwide general strike hits Italian cities",
+        "id": "nationwide-general-strike-by-unions-and-students",
+        "title": "Nationwide general strike by unions and students",
         "when": "2026-10-30",
         "place": "Italy",
-        "lat": 41.9,
+        "lat": 42.5,
         "lon": 12.5,
-        "what": "Students and unions staged a nationwide strike and rallies over living costs, with marches mapped city by city across Italy.",
+        "what": "A general strike with student and worker rallies spread across Italian cities over living costs, with a row over restrictions on the strike.",
         "via": "union and student turnout",
         "aspect": "jobs",
         "flow": "into",
         "sources": [
-          {
-            "title": "General strike and protests across Italy: clashes in Rome, rallies in Turin and row over strike restrictions",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkF6WFBZSmF1S3dEanVfc3ZPcGpkSWluZndxd21hQVY1czhDaGZJNDNZNEp1clhQcV9NTmc4QWMxd1VVSmNpRXdOQmFRUldBM18xbjE4dmNIQ2w3aGNfSE5wSjE5WDExTGNiNy1WaUR4VEwxdmhQUEg1cEw3Mm1Sa0RFeE56RW95RFRrYkZsTEtnT096eWE4cUh3cTdlcVpDTnpDWW14N0J1UnctdnVlQ3ZuZTdhSXBsU3k5U0dLbWtWMVdSWGtBM0pR?oc=5",
-            "publisher": "www.wltv.it"
-          },
           {
             "title": "Mass protests sweep Italy during nationwide strike",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
             "publisher": "Reuters"
           },
           {
-            "title": "Italy tightens security as students, unions launch nationwide protests",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0VLRGk5ZWFQdmpLX3lGOXNSZGhuUVliSjNZbHNJZHNoTWpUM2pQb2F6NmFwa0VnOTNpdVRZZVZCZkFISWpIcG1lWlBxbkJVcFFVTkpQd1hkUVB6ZkhCR0ludDhGX1hPVDRrcTVpWHZQc1VtWW9vVUdkdGwzTk5EWWVEVHFfRmFjLWdRUlJ1OFlsUDhKTHI1THkwSkh5ZW92YlNrWmZfTjJuZk12eHdFRNIBtgFBVV95cUxNNEQzLWNyWE1xR0Y5WE1BRjY1cW1FVjhlV050ZXpfeHQ2NDlOQldCMkFUZEZ6MU9wUklKbTFTa19KSzg1ekk1R3BjREhOUlgwVkRsd0xEUVFFdElQZ2o5OGVaSGhzbnh6NDJ1c0d1VkFMS21zRGhQQkI0M0ExTWR1VWFWYTYzQl9Ma29VYjJhbndnQ05SYmkwMEhYMXBKaV9Ydm9Ga3JxSi1JcWtjZlAxVm5BZlpoUQ?oc=5",
-            "publisher": "Al Jazeera"
-          },
-          {
-            "title": "Strike today: a city-by-city map of protests against the high cost of living. Be aware of the marches",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0pIQ0F2ZVFONkV3TDh3Y3ZpNW9VMUt3YURJSkk4eFkxd3E5U1VwcERaNVA0eFZQZmV2d3FwWGNxRy1DZTFiVm5nRTNyb2R4dVlILTlNTVI0WVRraGdfV3p3ekg5SUZSdG1uNW0tOVJ2M0FOM1pibG1GOF9LaFFvOTM4Tjl2M2FnY09IVXVPMEtTM0JqalhBZg?oc=5",
-            "publisher": "Il Sole 24 ORE"
+            "title": "General strike and protests across Italy: clashes in Rome, rallies in Turin and row over strike restrictions",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkF6WFBZSmF1S3dEanVfc3ZPcGpkSWluZndxd21hQVY1czhDaGZJNDNZNEp1clhQcV9NTmc4QWMxd1VVSmNpRXdOQmFRUldBM18xbjE4dmNIQ2w3aGNfSE5wSjE5WDExTGNiNy1WaUR4VEwxdmhQUEg1cEw3Mm1Sa0RFeE56RW95RFRrYkZsTEtnT096eWE4cUh3cTdlcVpDTnpDWW14N0J1UnctdnVlQ3ZuZTdhSXBsU3k5U0dLbWtWMVdSWGtBM0pR?oc=5",
+            "publisher": "www.wltv.it"
           }
         ]
       },
@@ -1378,11 +1388,11 @@
         "id": "port-blockades-during-the-strike",
         "title": "Port blockades during the strike",
         "when": "2026-10-30",
-        "place": "Italian ports",
+        "place": "Italy",
         "lat": 42.5,
         "lon": 12.5,
-        "what": "Widespread strikes came with port blockades, and the prime minister responded by deploying troops.",
-        "via": "disrupted shipping and tension",
+        "what": "Protesters blocked ports as part of the nationwide strike, according to reporting on the government's troop deployment.",
+        "via": "disrupted goods flows",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -1400,8 +1410,8 @@
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Around 100,000 people protested in Rome against rising military spending and prices, joining the rearmament issue to cost-of-living anger.",
-        "via": "anger over spending priorities",
+        "what": "Around 100,000 people marched in Rome against rising military spending and rising prices, linking rearmament to cost-of-living anger.",
+        "via": "anger over rearmament spending",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -1423,50 +1433,45 @@
         ]
       },
       {
-        "id": "release-of-alleged-milan-riot-organiser",
-        "title": "Release of alleged Milan riot organiser",
+        "id": "meloni-deploys-troops-as-strikes-spread",
+        "title": "Meloni deploys troops as strikes spread",
         "when": "2026-10-30",
-        "place": "Milan",
-        "lat": 45.46,
-        "lon": 9.19,
-        "what": "The release of an alleged organiser of the Milan riots was branded 'shameful' by the Italian government.",
-        "via": "political anger over leniency",
-        "aspect": "politics",
-        "flow": "into",
+        "place": "Italy",
+        "lat": 42.5,
+        "lon": 12.5,
+        "what": "Prime Minister Meloni deployed troops as strikes and port blockades spread across the country, and security was tightened in cities.",
+        "via": "heavier security response",
+        "aspect": "security",
+        "flow": "both",
         "sources": [
           {
-            "title": "Italian Government brands release of alleged Milan riot organiser ‘shameful’",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFpTRTRSbjJaQTV4NndBdXBOa1c2ZEwxQWFoeHpGZnpXaEpiVV9jWWRZWEdIUFVJU0R1YWZDNW1CcDVaN0dfZWNBX1ZJVC1ncXZ1VzJLN2Fua21EZ3lITk1LOTlJUHpGaE9wVTF2bUFnTU80STRCSEFNYUdxQl9WaFJ2WVBseVd1bjhWT3FONWJkQW11cDFJUUE0d0ZpVWtiZVZHR2JENTA1eTVWWEE?oc=5",
-            "publisher": "Brussels Signal"
+            "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5",
+            "publisher": "NBC News"
+          },
+          {
+            "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
+            "publisher": "Cirebon Times"
           }
         ]
       },
       {
-        "id": "protesters-clash-with-police-near-colosseum",
-        "title": "Protesters clash with police near Colosseum",
+        "id": "opposition-sets-primaries-before-2027-election",
+        "title": "Opposition sets primaries before 2027 election",
         "when": "2026-10-30",
-        "place": "Rome",
-        "lat": 41.89,
-        "lon": 12.49,
-        "what": "Protesters clashed with police near the Colosseum during the strike, and clashes were also reported in Turin.",
-        "via": "street violence spreading",
-        "aspect": "security",
+        "place": "Italy",
+        "lat": 42.5,
+        "lon": 12.5,
+        "what": "Italy's anti-Meloni opposition plans to hold primaries by February, ahead of the 2027 parliamentary election.",
+        "via": "opposition political pressure",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Protesters clash with police near Colosseum amid Italy-wide strike",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFhpSmpOXzYzeEtXYnZXUlNybHpjeUZoekRTVXpGb2JFWGs1NE9KdG9vdHh3bklReUhiZHFGVUlDTGpiNW94aE5QcTFsX3ZoVndkNm9DYlYzX0pmcmlHMWt5OV91d0VrN09TVWhtWWFCazk4ZWZnMmFJRVhaU29hbWE5ZGVFdHZuLUtBSk5kTDdJWlZaYlpXS3cyOUtmODJHTjhKbDMzQl95dw?oc=5",
-            "publisher": "Euronews.com"
-          },
-          {
-            "title": "General strike and protests across Italy: clashes in Rome, rallies in Turin and row over strike restrictions",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkF6WFBZSmF1S3dEanVfc3ZPcGpkSWluZndxd21hQVY1czhDaGZJNDNZNEp1clhQcV9NTmc4QWMxd1VVSmNpRXdOQmFRUldBM18xbjE4dmNIQ2w3aGNfSE5wSjE5WDExTGNiNy1WaUR4VEwxdmhQUEg1cEw3Mm1Sa0RFeE56RW95RFRrYkZsTEtnT096eWE4cUh3cTdlcVpDTnpDWW14N0J1UnctdnVlQ3ZuZTdhSXBsU3k5U0dLbWtWMVdSWGtBM0pR?oc=5",
-            "publisher": "www.wltv.it"
-          },
-          {
-            "title": "Clashes in Rome and Turin as Italy protests turn violent",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZC1rTlJ4YTZvaXJRejVlNGU5MGlkaE5kb1ZSOE9uWWxRMDcySGwxME9UTGltNDBrUDVIQUxNUWNHNHAzVXp3Zi1BcU1KRWNHMEcwSm1WNE1PZE91ZS1UR0trV2NOWDZXa0tRY21wRll2SWV1ZFcyeXJRbEp2WXpWNmNWNHpRb2lBUEUyb2ZWcGpYOHRnYkhNaUVYVQ?oc=5",
-            "publisher": "Wanted in Rome"
+            "title": "Italy’s Anti-Meloni Opposition to Hold Primaries by February",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWFnMGJ3STl6ZE1OYm05dkVDUEZMM0xycjdkLVlSQzBxci1YLUg4dXJMYVFpV1dwbFNMekhqX18yVWxzS09qM0toLWdrOE1HRmlEcktRTHVCT210eFRONWtXVjhJSHhROURXZ2dXR0tjUG0xX1hsb3otVDNtQ0dLaS10MGhMbEpGdU5LdTZmQm0xZm85d0tseDk5eDIyNmoxTnAwZVN6aUJBeVNHSXZieQ?oc=5",
+            "publisher": "Bloomberg.com"
           }
         ]
       }
@@ -1987,73 +1992,35 @@
     ]
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "nationwide-strike-hits-belgian-government-measures",
-        "title": "Nationwide strike hits Belgian government measures",
-        "when": "2026-10-30",
-        "place": "Brussels",
+        "id": "protest-wave-spreads-across-a-dozen-european-countries",
+        "title": "Protest wave spreads across a dozen European countries",
+        "when": "ongoing",
+        "place": "Europe-wide, centred on Brussels",
         "lat": 50.85,
         "lon": 4.35,
-        "what": "Demonstrators marched in Brussels during a nationwide strike against the Belgian government's measures, keeping labour anger and street pressure high.",
-        "via": "union and worker anger",
-        "aspect": "jobs",
+        "what": "Protests led largely by Gen Z have spread across about a dozen European countries, with young people saying nobody listened to them.",
+        "via": "youth protest momentum",
+        "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Demonstration in Brussels during a nationwide strike against the Belgian government's measures",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzNEZnVLNjNFRHpDYVc1Uk5yaDNmRVM3QnpxN1E1eXF4cHZQTzFMelhSWmFDSVNxNmEteFdIQm5VdXpsdDJBLWlrdGtwd2Z2X2NPbWU0RXo3OHc4TkJsaFlzQXVwVHFmM2ZybTlTT09KYThCOVNmeTY5MF9GT2M5T2ZCRVEtTmNsd29qbGppMDVBT0JOeVl0dg?oc=5",
-            "publisher": "Reuters"
-          }
-        ]
-      },
-      {
-        "id": "france-deploys-70-000-police-against-youth-protests",
-        "title": "France deploys 70,000 police against youth protests",
-        "when": "2026-10-31",
-        "place": "France",
-        "lat": 48.86,
-        "lon": 2.35,
-        "what": "Youth-led protests in France entered a third week and spread across Europe, prompting a 70,000-strong police deployment.",
-        "via": "protest contagion from France",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "France deploys 70,000 police as youth-led protests enter 3rd week, spread across Europe",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdk00ei1vRXJ5bkRIVEptd2lmVGR5XzZ5eFlPX1RIT0FYWjMzNlNOTEZLN05sV3hhMWx3cDJyR05lSjdVZ0JUTEVCS1NONFN5RUdlYVlDcGJKTkMxcGowY3F4bFE4ZExKUVVFYm4zUWNiUTV6RXJDZmJEME1xQzVVYlNPYXFic3lqMEhnQWtET2VCZmdIVF9CZEVHcmE4cjlFZU1RRVMwNjNnWXZjNU9sTkVtR1dyc0pqX1lHNVlOSmw0YlpuWjBZYk4xTTl6WW9INmpRSkQ1d28tVVRwQ1HSAd4BQVVfeXFMUHZNNHotb0VyeW5ESFRKbXdpZlRkeV82eXhZT19USE9BWFozMzZTTkxGSzdObFd4YTFsd3AyckdOZUo3VWdCVExFQktTTjRTeUVHZWFZQ3BiSk5DMXBqMGNxeGxROGRMSlFVRWJuM1FjYlE1ekVyQ2ZiRDBNcUM1VWJTT2FxYnN5ajBIZ0FrRE9lQmZnSFRfQmRFR3JhOHI5RWVNUUVTMDYzZ1l2YzVPbE5FbUdXcnNKal9ZRzVZTkpsNGJablowWWJOMU05ellvSDZqUUpENXdvLVVUcENR?oc=5",
-            "publisher": "National Herald"
+            "title": "Wave of protests sweeps across dozen European countries",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXdjSzFXN0hyLTRaV3o5bHdFX3gxNzJwaVpGMEFIUk53TnF2MEE2bjBHTkpFcENCZlM0RndIMHZkcXhtX1dyU0JTVS14a3lOV2VFd1VULUFVYURNOEdZbEt3UEMwc05IUHJMcTczOWNMSDZBMWVtTUt1UF8tdzBObzRwTTM4R1lyaTNCV0dFQmpaQ3lJczBUQnQ0MkkyQVhnVmRSUi1UbWZObG1scjFJT3Z3?oc=5",
+            "publisher": "Belga Share"
           },
           {
-            "title": "France heads into third weekend of protests as youth-led rallies sweep Europe",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN2U1cVctRkF4dld3eDh5X0d3cTVSaFBRTHRnbUpZVVUtM21xOHhDeXdpMWZVbTJlUjNWY3F6ZHBBWEczdXVNSE53amxmYlZHNW9iOWRnOEpkaVAxWHVIejIwdUw2OXpockFuZzl0V3R5cUVUYjZOUjhTQ0s5TnRWNm5oWlhXbm1uT2FMT2JYOVhuTlBnRjFtOGpkajFwc2VhbVl2bU00akFOblhXX3NNQXRrQUVKYlBab1lhWkljUndBSVpwMFczOdIByAFBVV95cUxNN2U1cVctRkF4dld3eDh5X0d3cTVSaFBRTHRnbUpZVVUtM21xOHhDeXdpMWZVbTJlUjNWY3F6ZHBBWEczdXVNSE53amxmYlZHNW9iOWRnOEpkaVAxWHVIejIwdUw2OXpockFuZzl0V3R5cUVUYjZOUjhTQ0s5TnRWNm5oWlhXbm1uT2FMT2JYOVhuTlBnRjFtOGpkajFwc2VhbVl2bU00akFOblhXX3NNQXRrQUVKYlBab1lhWkljUndBSVpwMFczOQ?oc=5",
-            "publisher": "mypanhandle.com"
-          }
-        ]
-      },
-      {
-        "id": "rising-costs-and-education-worries-drive-youth-protests",
-        "title": "Rising costs and education worries drive youth protests",
-        "when": "ongoing",
-        "place": "Europe",
-        "lat": 50,
-        "lon": 10,
-        "what": "Young people across several European countries are protesting over rising living costs and education concerns, the same grievances behind the Belgian demonstrations.",
-        "via": "shared cost-of-living grievances",
-        "aspect": "living",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "From France to Italy: Europe swept by a wave of protests over the rising cost of living",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzZYNVRteGoyR2k3am5yV2ZQU0xPVjlkbUVYU0c0MG9MMTRLMUk4cHhSdE8xV090ZnJock1iSmJpQ0E1Y2ZGdlhlUDctMkNFaU50Q05Hc01rbzlMWUhMaW9ld3doRm5HYW1kaEM3QXoxeDhPWGI4YTJTQkxpbjVnREdsc0k3d0U0dlAteW1IdVliWVJWMWQzVzNaWUh3MmRtcDBvdDgyWUlHTU5SREHSAawBQVVfeXFMTVF3a0JfakZOektYOVhDN2ltTXAtM3EzUEQwb3FYZkRJUTFJRkt4MEZSM3ducmZtdVRqYzBIV0IybUJuMTVSQ2gzTGM4LVhBQzlqOVdNcHhPZVVaaVhoX3p5T1ltWWVlTHdwVHAyc012aERFV245NkVpaTlQMWM3VVk1dGpnNE83VUozc0R5MjY5Zk5yZ3lEVG1TaHNCeDdhRGlKa0dWT242RV9icw?oc=5",
-            "publisher": "Українські Національні Новини (УНН)"
+            "title": "A Wave of Protests Sweeps Across Europe: Why People Are Taking to the Streets",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUW5hZ0ZaMzFOR0ZTWk9hdEtKVjJrX1JCdzBSd1oyb08weDg1dGg1aGk1ZDM3QnhNWjVjNUhla1poMEhSMElOS20yZ055UEx2ZkxTWVg0WGt1ZHY1aXJkYzVjTHNldHBhQU1ScGVKX0sxWlk1cjZmbTlvczc5dkE5M055czRDU0RtNHAyTS1YRk1FMllIUHdTa196aGZUZWxJblZpSmNZLW5KX1haQml5YXZ4TmZ1czg?oc=5",
+            "publisher": "Visit Ukraine"
           },
           {
-            "title": "Young Europeans protest across the continent as rising costs and education concerns fuel unrest",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMWUhxVzR4ZVZaV25fWGZ0TWd2U0QwZk8zek5RSk81dHpFYm4wTzNsUzRzSGttTG1SZ2xBTkRiN0tXVGxDdGJJZFlRS1RXTzI0MTZfdEdDTEdoODQ0X0M3aEw2WGVfRTVFQkxZMU9LMVlESndOR2c?oc=5",
-            "publisher": "Mezha.net"
+            "title": "\"Nobody heard us\": Why Gen Z are leading protests across Europe",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWlF0WW5hQU84Yk5fc3M1WWZDRFlueGMwaTRQUnBuMkxubEExdldvbDdKRXBXMjRmc3NPc0dNVlFwemZrc0NlTUd6N3ZKYlhfYkJQbDU1V2RCZmV0Q2hvRk1vSHRTQ0pBZFJhbm0xWk5TRDJZNGV5M05IdjMzdi1sTjBLc3p2Nl9ESXY0WjE2N1B6RThpNlNJR2p1R1piTS1l?oc=5",
+            "publisher": "Sight Magazine"
           }
         ]
       }
@@ -2256,43 +2223,19 @@
     ]
   },
   "usmca-annual-review-2027": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "trump-sets-new-tariff-deadline-for-canada",
-        "title": "Trump sets new tariff deadline for Canada",
+        "id": "lighthizer-says-mexico-imbalance-should-be-a-focus",
+        "title": "Lighthizer says Mexico imbalance should be a focus",
         "when": "2026-10-30",
-        "place": "Washington, United States",
+        "place": "Washington, DC",
         "lat": 38.9072,
         "lon": -77.0369,
-        "what": "Trump said he does not care about USMCA and set a new tariff deadline, while US and Canadian negotiators met to plan trade talks.",
-        "via": "tariff pressure on talks",
+        "what": "Former US trade chief Robert Lighthizer said the trade imbalance with Mexico should be a focus of the USMCA talks.",
+        "via": "deficit pressure on Mexico",
         "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
-            "publisher": "EnergyNow.com"
-          },
-          {
-            "title": "Trump Says He Does Not Care About USMCA as US, Canada Plan Trade Talks",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUW9JV3ZqZXctbEZTeGh4NUZoX24wbC1XSWJLaVpqVDRpMEsyc2VsM0xQaUFGeEZnaXFNU21ZWUN5WkNqR1VfX0k4WEMzckpfSXNoYTdCVmQyTWl5MWlZVWQ3WWxuYWdveWwwVU84eElDQ2JQZWdwdno4UUFOV2dYZWthSHZmbU5LUm5rOWFPam85SHVFY3V1bjBKOUY0eURv?oc=5",
-            "publisher": "EnergyNow"
-          }
-        ]
-      },
-      {
-        "id": "lighthizer-presses-mexico-trade-imbalance-as-focus",
-        "title": "Lighthizer presses Mexico trade imbalance as focus",
-        "when": "2026-10-30",
-        "place": "Washington, United States",
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "what": "Former trade chief Robert Lighthizer said the US trade imbalance with Mexico should be a focus of USMCA talks.",
-        "via": "deficit-driven US demands",
-        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
@@ -2303,52 +2246,33 @@
         ]
       },
       {
-        "id": "mexico-talks-advancing-canada-seen-as-harder",
-        "title": "Mexico talks advancing, Canada seen as harder",
+        "id": "us-and-canada-negotiators-meet-after-new-deadline",
+        "title": "US and Canada negotiators meet after new deadline",
         "when": "2026-10-30",
-        "place": "Mexico City, Mexico",
-        "lat": 19.4326,
-        "lon": -99.1332,
-        "what": "Lindberg said talks with Mexico are advancing while Canada remains a challenge, pointing to a possible bilateral track with Mexico.",
-        "via": "bilateral deal momentum",
-        "aspect": "politics",
+        "place": "Washington, DC",
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "what": "US and Canadian trade negotiators met after President Trump set a new tariff deadline, adding tariff pressure to the review run-up.",
+        "via": "tariff deadline pressure",
+        "aspect": "trade",
         "flow": "into",
         "sources": [
           {
-            "title": "Lindberg: Mexico talks advancing, Canada remains a challenge",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnRzbkxjbElzOWk5N1Fjdl93dFQxQm5ZWGtNYnhpT2JpN2ZwTW1qeXgzUXBTaFdWQVZ2VlBhR1dGcUkxS0haZ2xpWjU3SG5LaElWV0lZSDR1QXlEQXVUTER0N3NsSUVCUjlPZW1NdFJvRmpsQ1NmS2tHN0JMTURZVWhfdXBuZkE0eVBYb21NQ2F5S2oxeV9COQ?oc=5",
-            "publisher": "Brownfield Ag News"
+            "title": "US, Canada Trade Negotiators Meet After Trump Sets New Tariff Deadline",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFFXR09yZWZFb0g0RTUycGVURG83NHFKR2xGZm96U2lzT000cnRTMmplcnIxd2h5QXU5cEtwdUpreWg1NlZpWXg4TnBDWEs1UjgzT3VIeXNZMnljUTdkR0Z1djZtMTFaODBVOWJIZ1hsZVUxREx5TkVIcmtQLWFOTnJtbGZFVzZUWUQ0SFNCV3prNl9odjlBQ2pJQk14N1BhZ2c?oc=5",
+            "publisher": "EnergyNow.com"
           }
         ]
       },
       {
-        "id": "chinese-automakers-pull-back-mexico-investment",
-        "title": "Chinese automakers pull back Mexico investment",
-        "when": "2026-10-30",
-        "place": "Mexico",
-        "lat": 19.4326,
-        "lon": -99.1332,
-        "what": "Chinese carmakers are scaling back investment in Mexico amid USMCA uncertainty, which touches US concerns over Chinese content in the region.",
-        "via": "Chinese content and investment",
-        "aspect": "budget",
-        "flow": "both",
-        "sources": [
-          {
-            "title": "Chinese Automakers Pull Back on Mexico Investments Amid USMCA Uncertainty",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcm5ST1JxdjdES1Y3blFQTFphbU1fV0FXcENPZjZkVEN6VldFZl8ybTlaUkpfR0ZVVmZDMUMzbXNlZGV6RG1aOEVrNXc5NWNTNldiSkV6VkhUSmpyRGJOTEdfcTNLcS14NEJmZ1I4RE1XalJhVFN5Qlp4c2xzRHpSTnFnaW1yV3hhY2FPNXlVZ0NTRHlXSzFHdld5ZEswNEQ0aWZ6WA?oc=5",
-            "publisher": "Latam Mobility"
-          }
-        ]
-      },
-      {
-        "id": "us-meat-exporters-prioritise-keeping-mexico-market",
-        "title": "US meat exporters prioritise keeping Mexico market",
+        "id": "us-meat-exporters-prioritise-mexico-market",
+        "title": "US meat exporters prioritise Mexico market",
         "when": "2026-10-31",
-        "place": "United States",
-        "lat": 39.8,
-        "lon": -98.6,
-        "what": "The US Meat Export Federation said protecting the Mexican market is a priority during the USMCA review.",
-        "via": "farm export lobbying",
+        "place": "Denver, Colorado",
+        "lat": 39.7392,
+        "lon": -104.9903,
+        "what": "The US Meat Export Federation named protecting the Mexican market a priority during the USMCA review.",
+        "via": "export industry lobbying",
         "aspect": "food",
         "flow": "into",
         "sources": [
@@ -2356,6 +2280,44 @@
             "title": "USMEF: Protecting Mexico market a priority during USMCA review",
             "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1ZUb25iMXZrVkZIV3h3R2RNM0d1WEV1SzVEaUp5Vl9XdGVGYUVSRFZyNzl6Sm50aTVRYl9FNGc3YTRhQlNtNXJBUVRLcHpkT2VtcHBYd3EybDZETU1TbWNQZjdfekZ2ajl5RmQ0LUtVTk5wSF91b0ZGYllONE5SMUkwSXRWek4xSDJYZ2VrSGRLSV91U3hEYXE4blE?oc=5",
             "publisher": "Brownfield Ag News"
+          }
+        ]
+      },
+      {
+        "id": "screwworm-raises-questions-before-usmca-review",
+        "title": "Screwworm raises questions before USMCA review",
+        "when": "2026-10-30",
+        "place": "Mexico",
+        "lat": 19.4326,
+        "lon": -99.1332,
+        "what": "The spread of New World screwworm is raising questions about farm and livestock trade ahead of the USMCA review.",
+        "via": "animal health trade concerns",
+        "aspect": "food",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "New World screwworm raises questions ahead of USMCA review",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLWVtUkJRT3gzU1EyU0w4RVRGV2xzZVVJVmFlMFF0VnA1TkFJYmZkeXp5QmdXaTB1Zm9xbDN2Y0dIWnJfNHNDSmR5b3lPZnhfN19TSF84MUJRQ1ZVUVN3OUN6UmVjWEJzQTg1YW00dDBJN3lTSFIzQnVsaEREUFJKcnBKenJhc2hUZm1xWEx3bnZuV3lfY21OUg?oc=5",
+            "publisher": "Brownfield Ag News"
+          }
+        ]
+      },
+      {
+        "id": "kansas-farmers-raise-usmca-concerns-with-rep-davids",
+        "title": "Kansas farmers raise USMCA concerns with Rep. Davids",
+        "when": "2026-10-30",
+        "place": "Kansas",
+        "lat": 39.0119,
+        "lon": -98.4842,
+        "what": "Rep. Sharice Davids discussed USMCA concerns with Kansas farmers, showing farm-state pressure around the review.",
+        "via": "farm-state political pressure",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Rep. Sharice Davids Discusses USMCA Concerns With Kansas Farmers",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVllxRzNHQkFXMlcxMF9RbFkwcGltRFpHWW1wU3Z4Y05CaXkwODE0dTlFdkVrVklDdHB5MWl6V2M1dGMweWFvd1htQmxzLVVKd1picEtlVXA5YkZ5aEMxYXkxZ0V0MnpYRE5jMjY4emdkYmRIZ05kY0RVbjVGQ1VRMU1FZ05DREktMUYtVEZ3?oc=5",
+            "publisher": "RFD-TV"
           }
         ]
       }
@@ -3240,35 +3202,45 @@
     ]
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "congo-ebola-deaths-pass-5-000",
-        "title": "Congo Ebola deaths pass 5,000",
-        "when": "2026-10-31",
+        "id": "dr-congo-ebola-deaths-pass-5-000",
+        "title": "DR Congo Ebola deaths pass 5,000",
+        "when": "2026-11-01",
         "place": "DR Congo",
         "lat": -2.9,
         "lon": 23.7,
-        "what": "Ebola deaths in DR Congo have topped 5,000 in its deadliest outbreak, and fear of continent-wide spread is growing as the virus keeps spreading.",
-        "via": "growing case load and spread risk",
+        "what": "The outbreak is DR Congo's deadliest, with the toll reported at 5,340 and no approved vaccine or treatment, which fuels fear of wider spread across the continent.",
+        "via": "large outbreak, no vaccine",
         "aspect": "displacement",
         "flow": "into",
         "sources": [
           {
-            "title": "Congo’s Ebola deaths top 5,000 as fear of continent-wide spread mounts",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFZTSERKNzNjTFlycUZlajdfdVVoZFV2X2tvb0JNUmxGcnNka2RLSkVHT1lXNUsya3Z3Rzl3V05kYU9aLXpzaTE5Rlo2cWZvRUFJc0pjaUlrLTFrY2w3a3J0cHgwOEJaZVNDWnc4UFVCd0M0VTMzcmdxX2hSRjVBcDBVMEVTdVJhUWxYX1hwbmExQWZ6amwxSktCM1hQakg1VkpQVGNQVG5xcEhZdGxtRTRwNTlMQ2t2?oc=5",
-            "publisher": "The Seattle Times"
+            "title": "Ebola Deaths Top 5,000 in Congo With No Approved Vaccine or Treatment",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSllzSm44RVM2akFFaHJpX3Z5ZV9Cb3dBQkNHOVUwMmtzSS1sQzhNOFAzLU9iMjFXeTlXV2s1RWtEaW1HS2xMT1VpMlpDeWstYVFTUkZCeGtxakpFZUZ1RkpLam4tbzB5dUVKLV9SUmNyQ2FmdUxQUmJpd1Jla195SzJpeFh4cXBDZ1hpRjRxMXNoVTBMTGFDYW1Ucmd2WUIzQzdNOERDTkxfQQ?oc=5",
+            "publisher": "Seoul Economic Daily"
           },
           {
-            "title": "Congo’s Ebola death toll surpasses 5,000 as virus continues to spread",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0xLRFF3VWExRS1SY0tGeWhtT0RXX3VfQTBXcW9GMEFmU0lFSG1TeTU4UFA0OXNRcFhfVHFjWnN2STBfM2dHc2JSQ0RKckt2UVZYcmNkakRwaGl2UTBBQlJhRGZlYmhGaEhfanBqOXBfRWp0aVU4bVQwYXE3VVp1eGJCLWVXZUlfYWtDdlVHVVlwa0tCZFFJS05OX0ZmQQ?oc=5",
-            "publisher": "The Spokesman-Review"
+            "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWVGTXIwV002SXhHdFIwYl9vR1RuZXVqSV8tWkw0a2FDMURQOW9pRmdvS1ZyUmx0TFZMV0NHTjJTdWc0V3c0b2FobmZiWmVIUFVIRHpUQUt5ZEQ3czZNOWN4enpNWnZoMkN3VUVleXpadGs2dmlacFVkenRtVi05bnVHUDBQTlVxdHhlT2ZLX1FCdU5tSmVEeGVvWWNiWXZyeU1SeVhvaGFqdklhNXhSb3Q2R0h4Qk11VG9ybzh4eEIxRnfSAcMBQVVfeXFMUDllRk1yMFdNNkl4R3RSMGJfb0dUbmV1aklfLVpMNGthQzFEUDlvaUZnb0tWclJsdExWTFdDR04yU3VnNFd3NG9haG5mYlplSFBVSER6VEFLeWREN3M2TTljeHp6TVp2aDJDd1VFZXl6WnRrNnZpWnBVZHp0bVYtOW51R1AwUE5VcXR4ZU9mS19RQnVObUplRHhlb1ljYll2cnlNUnlYb2hhanZJYTV4Um90NkdIeEJNdVRvcm84eHhCMUZ3?oc=5",
+            "publisher": "The Manila Times"
           },
           {
-            "title": "Ebola Outbreak In Democratic Republic Of Congo Surpasses 5,000 Deaths: who 8 outlets blamed",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFAyQm5Uc0FrMFAwTDAwZHd4cE9rR1J1VWpQTnNYUTVrbG84cUc0YXNWcDN3SFlGbDVqdDhkSHBtZUpLZnRFTjhhQ196NUFJV1F1ZEpMWEhaWjZ6UVlXbE9BOGJlQU1VNUx2S3NQcjl1ajZCeHNFU3VNQUo0ZnZ3ZTdqS21KVlQ1dGpNNkRyWFZzUG93bGxBM3gxbFEyQ256MXZBaV9JU1o3RWxSNmFrdVlTZ2NSYk8wV3g1b1lzTkUxZThJVTA2c2xjaU5CSHlmRjZfN04yb2R1Zw?oc=5",
-            "publisher": "NewsCord"
+            "title": "DR Congo Ebola outbreak reported to pass 5,000 deaths",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHFjMUtYQVZMazFNb3dDeUVzMUVyT1RtV0hFSUV5ZDAzdVdmOTFKMlJlWGRKbERGUlVWX1l1WHc0Y2NqSzM5aUxoRDJ6SGVYdFpNQzQxZXVpaF9zbUlfZDNWemxLUVVVcW4yVGRZMXcya3hNY1ljbkt6UmR0XzMwVHhHNlJtOXFBZEE?oc=5",
+            "publisher": "London Daily News"
+          },
+          {
+            "title": "Ebola death toll in DR Congo rises to 5,340",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVXgzLUdhUWRVNW40R0FPeTJYWnM3c1Y5UklLTzk1OF9Xb1JjQXJ3UWpJQjdjSnRQWlYyNFMwMlpfZXFUamluRmJNZDA2eWU1V0U1d3J2WklMTEhNU0pIT0xmdjBtSklDTGZGcUx4dndwUE55R0dDcFE2dWRjS1luOWlST2ZfbFpub2J3?oc=5",
+            "publisher": "Gulf Today"
+          },
+          {
+            "title": "Ebola death toll in DR Congo rises to 5,340 | Gulf Times",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcDZETk5KaFBjMG44YzZIaXhVVWViY3dGVXlHNFJHSTRUUkgycmkxTFVwM2w0ZGR4cHZ2cnQ3dHRLd2RGazNaZV9tZFRabC1pbkxFNVFhdmRoX0ZvZVFaQUpPRlRicmRrbXRMUVo4djV3V1dPbDZHMW1OT19yeFVOcVhMTEJMWTNnOFRsOWwtMEgzQWlIdkh6SWppVVFTSnfSAaQBQVVfeXFMT0x5Sjk5UTl1SkNwSGtRNmNqSkQyWjNJR1JQb2NUTC11dE8tS2tSeHAza01hTnNIT0lEaDNuTk5OVjI4VFBaUHRwYWhyMHdBUHJ2V2dVUnJVejJqWXZOUDVkQmIwX1FkMXZGcGlVNHhDdHFCQW1ER280S2VZemIza2ktMlEyMlZ6QVFpYnUxQmY5dENIcFZiOFZzckxMNWtNX1hGblU?oc=5",
+            "publisher": "Gulf Times"
           },
           {
             "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -3278,26 +3250,55 @@
         ]
       },
       {
-        "id": "residents-burn-ebola-treatment-center",
-        "title": "Residents burn Ebola treatment center",
-        "when": "2026-10-31",
-        "place": "North-central DR Congo",
-        "lat": 1,
-        "lon": 22,
-        "what": "Residents set fire to an Ebola treatment center in north-central DR Congo, a blow to isolating and treating patients.",
-        "via": "weakened outbreak response",
+        "id": "ebola-treatment-centre-torched-in-dr-congo",
+        "title": "Ebola treatment centre torched in DR Congo",
+        "when": "2026-11-01",
+        "place": "DR Congo",
+        "lat": -2.9,
+        "lon": 23.7,
+        "what": "A treatment centre was set on fire during the outbreak, which cuts local capacity to isolate and treat patients.",
+        "via": "lost treatment capacity",
         "aspect": "security",
         "flow": "into",
         "sources": [
           {
-            "title": "Unknown individuals set fire to Ebola treatment center in DR Congo — Anadolu Agency",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW5YLURoQXpjc1RYR2M0Zy1KOGlmSEVxcGd2MEFDUzJBdk5PVUxKSkpLcDRRTk02b3ZaZWxHOXhTeVlFZVZHOTQ5ZHpsVE9PX2xsNVFkSGJ2bVkzRkp5UmZDOUdCUXduMWpmNmdDRElwdlFmRjRqOWt4cl80cnk5S2wtVmprMWZaZzlRamJHVlBwX1BRR29QSGNjd29TeVRrR3pN?oc=5",
-            "publisher": "UA.NEWS"
+            "title": "Ebola treatment center torched in DR Congo amid deadly outbreak",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3BxZGl6YXZCdDRRRlYzbkNTR2lQMFk5bXEtRnRjOFNWeVBxOGlHdWxtemFDc1pmeDB2b2lvamEzSldCSGN5UnRBUTFOQ2JIczJaU21HS1lxODJLUlduWXhFbmU1bFpEaVBab0k3R2tsSmdQdERfQXV0ekhvWUFrQ0sxVmZxRGU3SEZHQVVSaXF6VkRLWnc4?oc=5",
+            "publisher": "Yeni Şafak English"
+          }
+        ]
+      },
+      {
+        "id": "two-suspected-ebola-cases-tested-in-adamawa",
+        "title": "Two suspected Ebola cases tested in Adamawa",
+        "when": "2026-11-01",
+        "place": "Adamawa, north-east Nigeria",
+        "lat": 9.3,
+        "lon": 12.5,
+        "what": "Nigerian authorities investigated two new suspected cases in Adamawa, a pilot and his wife, whose samples came back negative.",
+        "via": "cross-border surveillance alerts",
+        "aspect": "displacement",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Analysis: 2 Suspected Ebola Cases Identified In North-East Nigeria #trusttvnews #Ebola #NorthEast 📸 via inssist.com",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5haXllSUczZVRWelhmdkxVRWUzaDZIZ3BRQURzNVNEa05vdTdyLWcwMTV2bjRIS0dNeWZlOUhnc1BldjM1WXlydWo1ai1wU0gtalNROTFn?oc=5",
+            "publisher": "Instagram"
           },
           {
-            "title": "Residents burn Ebola treatment center in north-central DR Congo",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjVUQkVLQ0FSaGdGODZzY1c0ZFFuN0pCSGJNbHZ2TDE5RDl6N01xTEF3YWRBUVo1QTRDZ1BiY2RieUg2ZE0xQWVwSW5nWllnMG5iRl9Gb1FYejRnY2Q5TDA2cXJQUHFtSnp2NV9qX0xDUHg5amNKVEkycDhsXzFxTU5Za2dabnlfbXcyeEtxa3VMYXlsUTN3UjdNOVkyNUp0?oc=5",
-            "publisher": "Anadolu Ajansı"
+            "title": "EXCLUSIVE: Ebola: 34-year-old pilot, wife identified as suspected cases who tested negative in North-east Nigeria",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ09neXdPaFhwUk9SYUM3TmZ5TkFTVFU4UXdJX1VZYjY0dTFrMUl3ZWkyOXJkcHpLMDZIMXVsdUlyNllpdUVWLVFiRF9PQWlkZFAzRTBBMVM1RXRNa1l3WTFBdDc3OW4zVUpaMThTODhmZENzMlJqSGVnYjVuSXNROVlQMVItMlBNZGp6NmZKMDBvRVhTYUdrRy1hLWRQY3dwM3Rxa1B2VnR6ZEVMSS1CaWZ4eU8tY0Z0ekdjR2Q4ZEhHb0VkZ19HazMwZjRGMmRLbDhXZm1oLThMNURIT0JHeVVYMmJ0ZGJqb3J5UEN5SVhJeEdpM3lTVGVEMlV1NElzanc?oc=5",
+            "publisher": "Premium Times Nigeria"
+          },
+          {
+            "title": "Samples for two suspected Ebola cases in Nigeria turn out negative",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmp4R1E4eVNWVjBrNlI2T2xJbmZpdjhVVVBEa2xXa0xCbTMtX3p5RGRSRUYzTU5MV0ROZVFnQ2FyUmRPbENKS1cxSW9uT2RjRlRmdlFOZnZqcUkzVTZpYXJyNDIwenZ2eHo0VXRTWWtTaDBIR0NOaWhYUmE0NXJTYXQ2VG1qdzYzaFdPQnVDTG5XU05UYW1ROFRBWk11eFZKNnFtVkNqaw?oc=5",
+            "publisher": "Arab News PK"
+          },
+          {
+            "title": "Ebola in Nigeria: Nigerian authorities say two 'new suspected' cases of Ebola for Adamawa under investigation",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JcG9vaFR2VWZvMzB1X0ZmNmhncmxkcmNQUGtDMDhHWTg0WHhOT3Y1Z0hzUHdEMW9PUmRkSGdQVEc4WU9aSm9TTmpNcEhCTXBqNW13TGVUZkh3Y3hJclHSAWNBVV95cUxONEUzUWdobUJZOF9qZjZJWFBLeVp2S2twRmZZb0RvSHJpdE9GSjVyN2JtOGtDUlpGbFRIRFU4OXdiSzU3TFdTNlVBcEpkUjRGdHRCRFJXbVNEb0xJV0x1cTIxTm8?oc=5",
+            "publisher": "BBC"
           }
         ]
       }
@@ -3533,109 +3534,85 @@
     ]
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "healey-puts-brakes-on-burnham-s-eu-plans",
-        "title": "Healey puts brakes on Burnham's EU plans",
-        "when": "2026-10-30",
+        "id": "reeves-backs-burnham-says-uk-belongs-in-eu",
+        "title": "Reeves backs Burnham, says UK belongs in EU",
+        "when": "2026-11-01",
         "place": "London",
         "lat": 51.5034,
         "lon": -0.1276,
-        "what": "Defence Secretary John Healey is reported to be at odds with Burnham over the European push, while the PM says the cabinet was not told to avoid EU talk.",
-        "via": "cabinet resistance",
+        "what": "Former chancellor Rachel Reeves says the UK's future is inside the EU and that Brexit left the country poorer and weaker, backing Burnham's call.",
+        "via": "senior Labour backing",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "John Healey is putting the brakes on Andy Burnham’s European ambitions",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMF9kYlVFVC13bmgwQndLS1dmWEZDanRBbENQS2x5cWUtdEM5eGhuU2JaaDlYcW1OZjdRc2N3cXE4NHpBbzlHeURlLXc4LVRSYVp3N3pxc08wcmt1QVNrS2U3V2J4Ym5BZEtYNFZWQzRjVXJjajZLdktxaXBSeUh2TjNCUk9UQ1BqNWpzNGhUT0NndFZpMzQ2ZklTNFRldVR5NnppVw?oc=5",
-            "publisher": "The Independent"
+            "title": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
+            "url": "https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit",
+            "publisher": "The Guardian World"
           },
           {
-            "title": "Labour in chaos over Brexit as John Healey and Andy Burnham at odds",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRlJFVTFpZG9UM3Vvd1lwQjVzLV96VGpFQmcyMXZhNGJuZVl3QU5aWk51c2pBQkxkQ3J4bkE4c05sWUZtal93WUZnaEVVYjhtNS00ZURMYmJuZFhmQUJqQWlVWG42N3A5UF9nYk03RWpCeC1zRzVXNkR4NDA4SWVIUQ?oc=5",
-            "publisher": "AOL.com"
+            "title": "Former chancellor Rachel Reeves says Brexit made UK ‘poorer, weaker’",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQll2MnQ1VmRsNU5JYTdYcFFLYTZVS3pxckJ0bkViYXNFeU5rd1d4c3JIWlhTRm5tNDhhbVVNaUk5dHpyQmJtTkc5dHNmS1YyU2c2MzR0bDZRRmdHM2ZRVWdZVmFDRDk5YWVLV0trWWo4MHk4bU45VHRxNXhoRmNZbWhLQUNLdmlTUnBGQnhYVXRLU1NkZzBxa0hfZjhwRkNHNVdibUdXV0t0Y1hFV0w4eVl4T3phM01wWEQtUGdSN0lNc2tyV2c?oc=5",
+            "publisher": "The Irish News"
           },
           {
-            "title": "PM: Cabinet not told to avoid EU talk | Coventry Telegraph - newspaper",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjZjS2RlSjNuWTNiTDRYdkoxSUVQSXJFeWh4MlpIdDdlcm1ZbGYwMmtvNHlvRnN0VENoNVdua1VJdjVDSlE4V1ZNWGEtZExoWEJlU0N4d1RmU2tacElFczJQNWw3MXgxSXg1VmJuRU9DNUEtbWRMYmc5WW9TQ3ZOaGNySkZUQmJpclQzejJoQkN1TDBPXzNpY0RVWWF6UQ?oc=5",
-            "publisher": "Magzter"
+            "title": "Reeves says UK's future should be inside the EU",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2U3NyRjJyVEIxSXBFazFHa0dkSkd4c2s4T2NUR25MMXRzUUp3a3loYVpDSUhvVGpCcFRKMURkeFJqV0tfR1kxMkJPTGRxcVFZN3ZMeFFITHhHQ0hMaGc?oc=5",
+            "publisher": "BBC"
           }
         ]
       },
       {
-        "id": "labour-figures-warn-of-working-class-backlash",
-        "title": "Labour figures warn of working-class backlash",
-        "when": "2026-10-30",
+        "id": "youth-free-movement-scheme-reportedly-signed-off",
+        "title": "Youth free movement scheme reportedly signed off",
+        "when": "2026-11-01",
         "place": "London",
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "what": "A Labour MP warns Burnham not to tear the country apart over Brexit, and Lord Glasman says working-class voters do not want free movement with the EU.",
-        "via": "internal party pressure",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Labour MP warns Andy Burnham ‘not to rip the whole country apart’ in Brexit war",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvWWRVTVlLdWdpRDVkU0paXzZTcEV6TVoydmxRcWxUNmFSVHhlZEdUVXY3Z2JKV2xtLTlXZHVwZG4wU3pjT1NjWTFIV3FPVVBzaUxmeXlScDAyU09aLUpqLWpFNHJ4eUxzS0NyYTV2RUJYc0gxNjItSTFxTFBlemc?oc=5",
-            "publisher": "NewsCord"
-          },
-          {
-            "title": "Lord Glasman warns Burnham that working class voters don't want free movement with the EU",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmlSSHlqN3dfd1dCT3BjZUZiOXdScDlVWFhsOUlpQmNrLUc1bUVYU3gxMjJwTV9FSVh6RU16TFB1empacVNaV0xTcVY2UXBLSFN3R0hYSlJtb1k4blVodlF3NDh2VXhFdGhaVXpzVXgzODBCb3BEOTFHYi1UTlpzSkVsZ09xZnJZc093LVdkaGo4SlpJZFNWdzhjVVZ1aEU1d3hXdzhTQS1MSU9qU0xzYnhqbzZJQ1NJOXFqbkk4aDE4Q2hKM29haQ?oc=5",
-            "publisher": "Essex Magazine"
-          }
-        ]
-      },
-      {
-        "id": "tariffs-dropped-on-over-100-food-products",
-        "title": "Tariffs dropped on over 100 food products",
-        "when": "2026-10-30",
-        "place": "United Kingdom",
         "lat": 51.5034,
         "lon": -0.1276,
-        "what": "Burnham is reported to be dropping tariffs on more than 100 food products, a trade step in his wider reset with the EU.",
-        "via": "closer UK-EU trade terms",
-        "aspect": "trade",
+        "what": "The Daily Mail reports ministers have signed off a youth free movement scheme that would admit 80,000 people a year.",
+        "via": "youth labour mobility plan",
+        "aspect": "jobs",
         "flow": "into",
         "sources": [
           {
-            "title": "British baked beans under threat as Andy Burnham drops tariffs on over 100 food products | Framing Analysis",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5b1dEV0ROQ2wwTVJrem5CSTJ5NVJGNG11ZWVWbVp4SVVfaTlPUU5HZHRJdmZwSmJyYk9FQmRVRk5XdGNCSldUTVp4N0t2QkJFTUpoNDMwS1dPWEJmNUM2T05HYkRFeU10MGFDUzhMR0dyY0tRem5STUl5NGdGZTQ?oc=5",
-            "publisher": "NewsCord"
+            "title": "Rachel Reeves joins Labour push to rejoin EU as ministers 'sign off' youth 'free movement' scheme to let in 80,000 a year",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOci1jaUVEd0FLTU1JM0xJb015dDdjdWFoUy1OQWxBNUdxcmxUTXFCUEZwTVJvVEo4S2F3dVJKOVFlS1kwR3o3OTVnMVlxa0o3OFd2TFhuZXFILVVtVGl3amxFNW1FZlBBeXhxbERydzVxVVdibDJhdXJET3RJMDBCaEtwQUxNWWZiTEJhOFJUb2V6U3RWNjZxMTJQME9CcDVfNkNfOEI2RdIBrAFBVV95cUxNemdXUkRqUXpCS29KelFncGZxSDRVUE5jc2NFelNlWHF6TFQ5NTU1dnZ4cEJyNW1FZHVmYUxKeWpUN1BtZjlzT3BpWi0zeGNEd2lERE9XTV85QXAxTlBHVXFIelU0WnJPR2I5dUNFNEp4WTM5S2ZwQ1RSNWRwR0wycTdOcC1FUy00NG92NGFMQmFLLV9PNzkyMnN2a0QzRWp4dU5MYklxMDh3N28w?oc=5",
+            "publisher": "Daily Mail"
           }
         ]
       },
       {
-        "id": "reform-s-yusuf-clashes-with-campbell-on-question-time",
-        "title": "Reform's Yusuf clashes with Campbell on Question Time",
-        "when": "2026-10-30",
+        "id": "healey-blocks-burnham-s-european-ambitions",
+        "title": "Healey blocks Burnham's European ambitions",
+        "when": "2026-11-01",
         "place": "London",
-        "lat": 51.5074,
-        "lon": -0.1278,
-        "what": "Reform UK's Zia Yusuf took on Alastair Campbell over open borders on Question Time, sharpening the opposition case against any return to free movement.",
-        "via": "opposition campaign pressure",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "Gulf Today reports that Healey is blocking Burnham's European ambitions, a sign of resistance to the push for closer EU ties.",
+        "via": "internal political resistance",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
-            "title": "Question Time: Zia Yusuf takes on Alastair Campbell over open borders",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMXB1a2xSaWY3RTJFdXlsMi1nblgxZUZsWUtXbUdFZE9wcllHZjZFbTZ0SkxnZzVzU3VBa2dmaFRDU1c3VmtVNDlzOHlKcUdqQ3JLQUpUQ2pwMFdiOURKNnVaQjRBNmF5UG8wLXhVWUptRmdhTnhBdW9WeEJJeU1faFU0b1pGRkN2WHBjTFFHVFAyczlC?oc=5",
-            "publisher": "Reform UK"
+            "title": "Healey blocks Burnham’s European ambitions",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkljUERoVzVZbjd5MjJ4cGVOUVV0eTQ5dnVzSU1mclhROHdNTHIzZ0kyM3ZESndTazlRb3VxRlUyMW54UlhNNUotQVIzajJ1cmp0VkpTZ0lkbVIzN2JrZkRaXzBrcDVRVHJaSlNNelMxNm9yVDQ0LTFxMXR5UEtPVjlNSlNmdlMyejl5ZFZ3?oc=5",
+            "publisher": "Gulf Today"
           }
         ]
       },
       {
-        "id": "gibraltar-chief-backs-burnham-s-call",
-        "title": "Gibraltar chief backs Burnham's call",
+        "id": "gibraltar-chief-praises-burnham-s-courage",
+        "title": "Gibraltar chief praises Burnham's courage",
         "when": "2026-10-31",
         "place": "Gibraltar",
         "lat": 36.1408,
         "lon": -5.3536,
-        "what": "Gibraltar's chief minister says Burnham has the courage to tell the truth on Brexit, adding outside support for the talks.",
-        "via": "outside political backing",
+        "what": "Gibraltar's chief minister says Burnham has the courage to tell the truth about Brexit, adding outside support for reopening talks.",
+        "via": "external political endorsement",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3645,21 +3622,40 @@
             "publisher": "The Mirror"
           }
         ]
+      },
+      {
+        "id": "glasman-warns-working-class-opposes-free-movement",
+        "title": "Glasman warns working class opposes free movement",
+        "when": "2026-10-30",
+        "place": "London",
+        "lat": 51.5034,
+        "lon": -0.1276,
+        "what": "Lord Glasman warns Burnham that working class voters do not want free movement with the EU.",
+        "via": "voter backlash warning",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Lord Glasman warns Burnham that working class voters don't want free movement with the EU",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORmlSSHlqN3dfd1dCT3BjZUZiOXdScDlVWFhsOUlpQmNrLUc1bUVYU3gxMjJwTV9FSVh6RU16TFB1empacVNaV0xTcVY2UXBLSFN3R0hYSlJtb1k4blVodlF3NDh2VXhFdGhaVXpzVXgzODBCb3BEOTFHYi1UTlpzSkVsZ09xZnJZc093LVdkaGo4SlpJZFNWdzhjVVZ1aEU1d3hXdzhTQS1MSU9qU0xzYnhqbzZJQ1NJOXFqbkk4aDE4Q2hKM29haQ?oc=5",
+            "publisher": "Essex Magazine"
+          }
+        ]
       }
     ]
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "us-officials-back-venezuela-s-political-opening",
-        "title": "US officials back Venezuela's political opening",
+        "id": "machado-credits-trump-and-rubio-for-her-return",
+        "title": "Machado credits Trump and Rubio for her return",
         "when": "2026-10-30",
-        "place": "Caracas",
+        "place": "Venezuela",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Machado publicly thanked Donald Trump and Marco Rubio for their actions in Venezuela, and said Washington backs a 2027 election.",
+        "what": "Machado thanked Donald Trump and Marco Rubio for their actions in Venezuela, saying Trump opened a 'floodgate to freedom', which signals strong US backing for her comeback.",
         "via": "US political backing",
         "aspect": "politics",
         "flow": "into",
@@ -3675,59 +3671,50 @@
             "publisher": "The Guardian"
           },
           {
-            "title": "Venezuela: Opposition leader Machado says US backs 2027 election",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0h2TjQzc3RxeWgwTXE2bTFYaEM4VURpcHIxNDRvYU95by1CdXJlMHQ1YjBCWE9NTFYyQmlRSnJWZVkxMnMtUWZya0M5RlRueEx2ck5oU2k4OWIxd284dkdBVDhmWWhBUjVHcW12c3pOV1RTMUxzclJFR3hLU3Rpb0xJZGFGekZSaXFOUUp4ZW5ua25Cc04yZ3FBZEU0RUxBWkZaX3lSamxyQTV0MEHSAa4BQVVfeXFMTTdIdk40M3N0cXloME1xNm0xWGhDOFVEaXByMTQ0b2FPeW8tQnVyZTB0NWIwQlhPTUxWMkJpUUpyVmVZMTJzLVFmcmtDOUZUbnhMdnJOaFNpODliMXdvOHZHQVQ4ZlloQVI1R3FtdnN6TldUUzFMc3JSRUd4S1N0aW9MSWRhRnpGUmlxTlFKeGVubmtuQnNOMmdxQWRFNEVMQVpGWl95UmpsckE1dDBB?oc=5",
-            "publisher": "Dhaka Tribune"
+            "title": "Venezuela’s Machado praises Trump, urges 2027 elections",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGtScTlOcU9yeHZQSk5MY0FOTE9GVWFXby03bDU5TWFrQW8tLWZTUjZXR3RkVEk4YWV0UG1pZURvNGZ6Mk80X2V2YWwyZWRaQmotMEJXTXBBVjRJamhSUFBSa2MwZWlPUWtHNEQ4Vno3Ul9Bb1NXSmJyWlY4YWN5T0NUTDBiMzdjWFZaY0gzaDRjODQ?oc=5",
+            "publisher": "Minute Mirror"
           }
         ]
       },
       {
-        "id": "delcy-rodri-guez-promises-elections-will-happen",
-        "title": "Delcy Rodríguez promises elections will happen",
-        "when": "2026-10-30",
-        "place": "Caracas",
-        "lat": 10.48,
-        "lon": -66.9,
-        "what": "Interim leader Delcy Rodríguez said there will be elections, answering Machado's call for a 2027 vote and setting the terms of her return.",
-        "via": "interim government election pledge",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "María Corina Machado bets on elections in Venezuela for 2027 and Delcy Rodríguez assures that \"there will be elections\"",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNENHa3pRWFRiZVhLWTByQ2pFTTF4c0lWLTAtWUZTNkN3TlNETkRlekNZT0F5bDVCWHc5R3djelA3Yy0wVjR4VmdYYm9xdGFxRENtRHc2al90QUl1SmY2bkd4Ti1TSjVnVGswZXNlUnduS3hyeDlXVFVlZXVFMUE?oc=5",
-            "publisher": "El Mundo America"
-          }
-        ]
-      },
-      {
-        "id": "us-oil-deals-anchor-trump-s-venezuela-strategy",
-        "title": "US oil deals anchor Trump's Venezuela strategy",
+        "id": "machado-calls-for-2027-presidential-elections",
+        "title": "Machado calls for 2027 presidential elections",
         "when": "2026-10-30",
         "place": "Venezuela",
-        "lat": 8,
-        "lon": -66,
-        "what": "Bloomberg reports that Trump's Venezuela strategy rests on oil deals, giving Washington an economic stake in the transition Machado now enters.",
-        "via": "US oil-driven engagement",
-        "aspect": "energy",
-        "flow": "into",
+        "lat": 10.48,
+        "lon": -66.9,
+        "what": "After landing, Machado urged elections in 2027, including in a televised address, which sets the timetable debate for the interim government's transition.",
+        "via": "election timetable pressure",
+        "aspect": "politics",
+        "flow": "both",
         "sources": [
           {
-            "title": "Trump’s Venezuela Strategy Needs More Than Oil Deals",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDh3aVV6bkVnUFpWN3dvclA1emIxOTZlbU9OcFJSVnJQWXRkSUFsVjRucXRKWDFSTzhGbWR0aFlRMmtPYXFJYVdrNENTdDE3TDJuZm85ckJzOTI2WFdkZnJjS3FvSi1OWGk0bkJYVnp4cmtkaXYzN1A5S1hUNGROX1B3RGg4OGx5M0JMaFNJXzhFQmJzM2g2TEZIUzNGZE5iZTZ4WFlUbHRlZw?oc=5",
-            "publisher": "Bloomberg.com"
+            "title": "Back after nearly 10 months: on TV, Maria Machado pushes Venezuela towards a 2027 election | watch | Videos",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ3paTDNKWnFHdWFjN2hieGU1amZFM2N0M0pJNG5xcUhuTXMzbHQ4S1NOVV9heUNSdXlGTnJDOEF6UEpfcEI5aXRpX0NQb0ZZV201SmpOdUMxTkp1OEEtUG5ZUThrd0dBbG85VDhCZ1RVdTJLRktsZXVqX2xVVUdwb1ktZ1p3S0ZrNU5uZjY3TWFlZDg1ZWZoMVhJMHAtVFhyRFhLTS1rNEctcVFENEZNZGp6RFYtZEUwbEJydTA4UUF2VmlxNDlWLTRMUmVOa3pZNm1jSlYyamE1MVNKZ3p0Sm15N2dSaW9h0gHuAUFVX3lxTFBMWWR4XzQ1NnJJVnR0R25lUWl5R01NbV9aQnEtb1hYcHBhdEpkSTFxbUw2V0stZ3RlWnZ5LTVPOEI0VE1DbkRsXzQzQ042MWdINVNnbUVQTXFhSVotTDgtWFR1aGFfTXlFNUExSzN2UTVEeV9UM2FUckU5bzBoMUFoZFM3VnJ1M3ZIWWNwcE02QjdfN0Z0UGNqdnFfeUhleFpIS1FJYXVKbnNRcHhkME1UNXBMaWxESU1RX2pwdTZxSFd4OXVzMnVaTXU2YWdBa3BQT0FxVnBuUEV6cmFlTnNLRVo2R0JUMWFaSXlXQ1E?oc=5",
+            "publisher": "Hindustan Times"
+          },
+          {
+            "title": "Maria Corina Machado calls for 2027 elections following return to Venezuela",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXpvZk1KU0VsWGF3dDJNcUxiWWI3TFVTblRDSGZNYTh2NkxKVS05ZXB2eGJrVVJRM0VtdjB4M2FRSXZPUXdSWGNSZ2VvQTdWVnJ5Z05NdzZKdzlsVzVYZGRtUERKOFlLdng1RUszQnR1SjZmLUZ5WFBkeUlPZmFoQzNKRW9OZnZzLU5tSFJmbXNOZUJlM0RVck1oUVFTcXo2NS00NEVDWkN6c1pqRldfRW1ydDBNZFg1b0ItSUJ6SmVmcVpBQ29RaHVmUQ?oc=5",
+            "publisher": "Latin America Reports"
+          },
+          {
+            "title": "Venezuela’s Machado praises Trump, urges 2027 elections",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGtScTlOcU9yeHZQSk5MY0FOTE9GVWFXby03bDU5TWFrQW8tLWZTUjZXR3RkVEk4YWV0UG1pZURvNGZ6Mk80X2V2YWwyZWRaQmotMEJXTXBBVjRJamhSUFBSa2MwZWlPUWtHNEQ4Vno3Ul9Bb1NXSmJyWlY4YWN5T0NUTDBiMzdjWFZaY0gzaDRjODQ?oc=5",
+            "publisher": "Minute Mirror"
           }
         ]
       },
       {
-        "id": "young-venezuelans-rally-for-machado-hoping-to-stay",
-        "title": "Young Venezuelans rally for Machado, hoping to stay",
+        "id": "young-venezuelans-rally-for-machado-and-stay",
+        "title": "Young Venezuelans rally for Machado and stay",
         "when": "2026-10-30",
-        "place": "Caracas",
+        "place": "Venezuela",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Young Venezuelans at a Machado rally said they do not want to leave the country and are holding on to hope for change.",
-        "via": "public support and hope",
+        "what": "Young Venezuelans at a Machado rally said they hold on to hope and do not want to leave the country.",
+        "via": "renewed hope, less emigration",
         "aspect": "displacement",
         "flow": "both",
         "sources": [
@@ -3741,47 +3728,18 @@
     ]
   },
   "algeria-niger-troop-deployment-2026": {
-    "at": "2026-11-01T00:12:07.008Z",
+    "at": "2026-11-01T12:12:45.651Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "algerian-parliament-approves-foreign-troop-deployment",
-        "title": "Algerian parliament approves foreign troop deployment",
-        "when": "2026-10-30",
-        "place": "Algiers, Algeria",
-        "lat": 36.75,
-        "lon": 3.06,
-        "what": "Algeria's parliament approved the first overseas troop deployment since 1973, giving the president the legal go-ahead to send soldiers into Niger.",
-        "via": "legal approval for deployment",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Algeria Approves First Overseas Troop Deployment in 53 Years to Protect Niger Energy Assets",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjJyVWxaOFByMzg1MUxHNzh4NjNKbURJQTlPR3RBM2xnWGhoZlY5TXJOSDhyOUlLUzJ4SGRzdi03OWI0RjhYNGlTOGxqUVdEZGpERkY4TUgwQmI4bEg4ZFJWTUg3TWhHTXREVF9IMWhUVTNwUmNtdjVGY1ByLWN2SUkzSFlXQS1IR2YwZF9lVVE4UQ?oc=5",
-            "publisher": "Qoo Media"
-          },
-          {
-            "title": "Algeria Approves Troop Deployment to Niger to Protect Energy Assets",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiY0dFTWJIZlNhS2NSU2E1Z0NKaUZnWHNGMlFYbjZTb1M0RzJ5SW5PY3dYSkRraENJQW5JazVOeXVwbTV1bXVqbEVaZzlnNm1NSXNrWTU4T3hvaFgzamVOeUM0bk5tQWRKbGc?oc=5",
-            "publisher": "Demokratis.co.id"
-          },
-          {
-            "title": "🚨🇩🇿🇳🇪 Algerian military convoy spotted in Arlit, northern Niger. This follows parliament’s approval last week for Algeria’s first overseas troop deployment since 1973. Algeria has economic interests in Niger, including a planned gas pipeline that would carry Ni",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tZExqUGVobWxxcmE0R25FTC13M1MtT3ZnTTR4eGhEZFlKWWVHMG5TVUtXa2F5SWJ5eFJNMHdFSlowcFg0MEQwM3hNdDBqUXJVdko5ak5DY1ZzeXVGWDh3NVRGd0VlQUJ6UEhmRg?oc=5",
-            "publisher": "X"
-          }
-        ]
-      },
-      {
-        "id": "gas-pipeline-plans-and-niger-energy-assets",
-        "title": "Gas pipeline plans and Niger energy assets",
+        "id": "planned-gas-pipeline-and-niger-energy-assets",
+        "title": "Planned gas pipeline and Niger energy assets",
         "when": "ongoing",
         "place": "Arlit, northern Niger",
         "lat": 18.74,
         "lon": 7.39,
-        "what": "Algeria has economic interests in Niger, including a planned gas pipeline, and the deployment was approved to protect Niger's energy assets.",
-        "via": "protecting energy investments",
+        "what": "Algeria has economic interests in Niger, including a planned gas pipeline, and its parliament approved the deployment to protect energy assets there.",
+        "via": "energy asset protection",
         "aspect": "energy",
         "flow": "into",
         "sources": [
@@ -3803,17 +3761,41 @@
         ]
       },
       {
-        "id": "jihadist-threat-to-stability-in-niger",
-        "title": "Jihadist threat to stability in Niger",
-        "when": "ongoing",
+        "id": "security-operations-for-fuel-convoys-in-niger",
+        "title": "Security operations for fuel convoys in Niger",
+        "when": "2026-11-01",
         "place": "Niger",
         "lat": 17.6,
         "lon": 8.1,
-        "what": "Reports describe jihadists and extremists threatening stability in Niger, the security problem that the Algerian troops are arriving to confront.",
-        "via": "jihadist pressure on Niger",
+        "what": "Algerian military personnel were deployed in Niger alongside security operations for fuel convoys.",
+        "via": "fuel convoy security needs",
+        "aspect": "trade",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Algeria Deploys Military Personnel to Niger Amid Fuel Convoy Security Operations",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzlRY0FSNnZaZWhGZDFKUldQSzEtcENZMC1zamxpZHBGdW1RMnUtb080cW81LXd5dkJsb2l0TzYyWXV2RzBGdkFLWWpVdzdYQllMVm5Kc1hFU2tzakVZRFNzckRKMVcwV0VLaVJvMkpCalhhVFVnbnNQX296czc3NzBmNkZYcGl4ZGlCRTFvSUhNQ0J1RlJzV2ZlTVotZEd1NndwWFFZVlJkVW84V0FZVHBtRFRkcS1TMW9ETHFtX1QxTms?oc=5",
+            "publisher": "zagazola.org"
+          }
+        ]
+      },
+      {
+        "id": "jihadist-threat-to-niger-s-stability",
+        "title": "Jihadist threat to Niger's stability",
+        "when": "ongoing",
+        "place": "Niger",
+        "lat": 16,
+        "lon": 8,
+        "what": "Jihadist groups threaten stability in Niger amid growing Sahel insecurity, which is the stated backdrop to the first Algerian troops arriving.",
+        "via": "jihadist threat",
         "aspect": "security",
         "flow": "into",
         "sources": [
+          {
+            "title": "Algeria deploys soldiers in Niger amid growing Sahel insecurity",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdm9LOGo4WThYZUUzUjdsTHdGTmw4QVpvOTZTTklocG9FT0E0X2NiTG1ubzZGRjRpZTJxYk5VUGgzeFRDa0h0WVhPTDVpWVUtU3ZtckFpcE5nWWFzVVpLYndzT1RTbmdMUldYSW1rcTdHdldqUVFOZTZNZzZ0c3Z3VmM2UVZqclUxNUl5Y2plbEJkaVhwY0HSAZYBQVVfeXFMT3ZvSzhqOFk4WGVFM1I3bEx3Rk5sOEFabzk2U05JaHBvRU9BNF9jYkxtbm82RkY0aWUycWJOVVBoM3hUQ2tIdFlYT0w1aVlVLVN2bXJBaXBOZ1lhc1VaS2J3c09UU25nTFJXWElta3E3R3ZXalFRTmU2TWc2dHN2d1ZjNlFWanJVMTVJeWNqZWxCZGlYcGNB?oc=5",
+            "publisher": "TheStar"
+          },
           {
             "title": "First Algerian troops arrive in Niger where jihadists threaten stability",
             "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRm5HVVJoWF9yUExQdGVwVExTNXBrWFU2NlBvcGlISks2OUMtVnU1TGtVSjA3bnFoUXcxcnFqeEVwTGR4WUlxbWhoVDVoR0FTMlB5Tjc0ZHB2eEtlM3E5S1YweVVfOVpXbF9RQXUzelpCQ1lhbFJucUJQSGFNdEY3dHpmODViOTIxMms5VDZYcENFZi01a2NGeHhmVUx5elZoUjU1UEdLanUxdEE0QU5HSDBOaEfSAbQBQVVfeXFMTUZuR1VSaFhfclBMUHRlcFRMUzVwa1hVNjZQb3BpSEpLNjlDLVZ1NUxrVUowN25xaFF3MXJxanhFcExkeFlJcW1oaFQ1aEdBUzJQeU43NGRwdnhLZTNxOUtWMHlVXzlaV2xfUUF1M3paQkNZYWxSbnFCUEhhTXRGN3R6Zjg1YjkyMTJrOVQ2WHBDRWYtNWtjRnh4ZlVMeXpWaFI1NVBHS2p1MXRBNEFOR0gwTmhH?oc=5",
@@ -3832,14 +3814,14 @@
         ]
       },
       {
-        "id": "tuareg-anger-and-tebboune-s-military-meeting",
-        "title": "Tuareg anger and Tebboune's military meeting",
+        "id": "tuareg-anger-as-tebboune-meets-military-chiefs",
+        "title": "Tuareg anger as Tebboune meets military chiefs",
         "when": "2026-10-30",
         "place": "Southern Algeria",
         "lat": 22.79,
-        "lon": 5.53,
-        "what": "Tuareg anger is growing in southern Algeria as President Tebboune convenes top military officials, adding domestic pressure around the border deployment.",
-        "via": "border community unrest",
+        "lon": 5.52,
+        "what": "Tuareg anger is growing in southern Algeria as President Tebboune convenes top military officials around the Niger deployment.",
+        "via": "domestic pressure on border policy",
         "aspect": "politics",
         "flow": "into",
         "sources": [
