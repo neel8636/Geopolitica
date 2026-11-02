@@ -381,24 +381,44 @@
     ]
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-11-02T12:13:56.992Z",
+    "at": "2026-11-02T18:14:28.921Z",
     "by": "pipeline",
-    "hash": "11t8tx0",
+    "hash": "73urlh",
     "tags": [
       {
         "point": "VALENCIA",
         "effect": "delay",
-        "likelihood": 0.25,
+        "likelihood": 0.3,
         "delayDays": [
           1,
-          3
+          2
         ],
         "costPct": [
           0,
           3
         ],
-        "why": "A Spain-wide general strike over housing and wages is reported for around 2026-11-11, and if dockworkers, customs staff or truck drivers join or pickets form at the port, gate and vessel handling at Valencia could slow for a day or more.",
-        "action": "Ask your forwarder to move container pick-ups and deliveries away from 10-12 November, and add 3 days of buffer stock for cargo due to clear Valencia that week.",
+        "why": "A nationwide general strike is reported for 11 November 2026, with travel coverage warning of disruption to flights and trains, so port workers and truck access at Valencia could be hit by stoppages or pickets for about a day, though no port-specific action is confirmed.",
+        "action": "Ask your forwarder to move container pick-ups and gate-ins away from 10-12 November, and add 2 days of buffer stock for cargo due through Valencia that week.",
+        "sources": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "point": "LA_JONQUERA",
+        "effect": "delay",
+        "likelihood": 0.2,
+        "delayDays": [
+          0,
+          1
+        ],
+        "costPct": [
+          0,
+          2
+        ],
+        "why": "The general strike called for 11 November 2026 could bring road pickets or haulier stoppages in Spain, which might slow trucks heading for the French border at La Jonquera, but the reports focus on air and rail and name no road blockades.",
+        "action": "Ask your haulier to schedule northbound trucks to cross before 11 November or after 12 November, and to confirm driver availability for the strike day.",
         "sources": [
           0,
           1,
@@ -408,16 +428,22 @@
     ],
     "headlines": [
       {
-        "title": "How your holiday could be affected by Spain's mass walkout",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmtWOWxtOGJkREFneVFIbkJQVTNOcTNiVHFXS2tLUVg0RWw0M0p5ZXE2bTJISGJqa21sczhEdmNLcGtmNVVjZUN5Q2UtQlhXOTV5V3Y4WmdqUHA2X0xtV1Q1MExyUVFheVpGb05TX0tWQ19rUFV5N3NGZUplT0tvaXJUbVV5ZU0wMkRQY3Z0Sm41Y19WdEVqWDRn?oc=5",
-        "publisher": "The Independent",
-        "published": "2026-11-02T11:55:00.000Z"
+        "title": "Spain Faces Nationwide General Strike on 11 November as Housing Crisis Sparks Mass Protests",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWWFYYUVjWmJFSkhJS1dPNnV0S1A0RlBJaHU3VVlhSi1vRHh1amlPZ0dBLVJxYXAyOWtBTkd1VkFqbm91X196NjVrc1R0QkdWMDNaYUp5R2szZDlvVFpWWThvV0NBd3BkU1pmWnlyT0Y4MmtWVDFxbmZUNkwwT2p0OWRCaHRYWE9QaDZyOFVKWGY2N1Q0NlptRG9KLW1xbjEyc193MkR6Z1RvbENVbEpTdUdoWlBNeVN6WUJ6YXA2cS16dkN0?oc=5",
+        "publisher": "The Leader Newspaper Online",
+        "published": "2026-11-02T15:54:19.000Z"
       },
       {
         "title": "What Spain’s general strike will mean for flights and holidays",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWl4My0tYkdXLUpyNUpZMEg5UUJlaDZCR3JmU3pIaGRGNUp2MGUyZ0FPcXd0ajRsdTBTc3ZEOVpvUE5nRFhrREVna1o5d0ZBYTN1VWdra0IwODRseEh4NVZCR3djZ0VrTXNFN3hHbi0yOWNUNE55QkxxZ0lxZ1NSb0swWUctS3I4eER3QXBxRl9YT1VWWHJTVXNBc0xsbUtvMkZTMA?oc=5",
-        "publisher": "The Independent",
-        "published": "2026-11-02T10:42:00.000Z"
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzV0b2tWdlhmWEFYRzFiOFpJczlwUVFUbGZuaTJ1Vy1ySEdraW9EbjhkbklkWHY0TlNGN21qNk5sZ0NRSlNnY2xrTmpyVi1OQUtqNHFZSFM5Yml6SEx3RkszTndfN0t4akZuT0dNUzNFZmZsTlJDdC0zMWk0amhOTl8xZ3JkNHByRWtSeHJaVjc?oc=5",
+        "publisher": "Yahoo",
+        "published": "2026-11-02T10:42:56.000Z"
+      },
+      {
+        "title": "General strike and housing struggle in Spain",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdC05dmUyanlkUGFENzVHQmlTMFIxdlZTRFR2Mkx4S2FHc3pQVHFDS2xUUWNFcGRhRkFrcnRDZVRYNWlEeldYOGQzaWJZZXFGZmZTLTJ4U1VQVUV3X1doaElJTVk5dVNfWW03dVUxYUR5NGwtYklkZ0ZWQkJBeE5CbXRFMXp0enI0b1E3Vm9n?oc=5",
+        "publisher": "Workers' Liberty",
+        "published": "2026-10-31T17:03:45.000Z"
       },
       {
         "title": "Spain General Strike Nov 11: Flights, Trains & Airport Disruption",
@@ -470,9 +496,9 @@
     "headlines": []
   },
   "venezuela-oil-reopening": {
-    "at": "2026-11-01T21:13:11.091Z",
+    "at": "2026-11-02T18:14:28.921Z",
     "by": "pipeline",
-    "hash": "h2yz6v",
+    "hash": "38m0y",
     "tags": [],
     "headlines": []
   },
@@ -491,9 +517,9 @@
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-11-02T12:13:56.992Z",
+    "at": "2026-11-02T18:14:28.921Z",
     "by": "pipeline",
-    "hash": "2p3hj5",
+    "hash": "yat34m",
     "tags": [],
     "headlines": []
   },
@@ -582,9 +608,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-11-02T12:13:56.992Z",
+    "at": "2026-11-02T18:14:28.921Z",
     "by": "pipeline",
-    "hash": "q2vbeh",
+    "hash": "12gy3um",
     "tags": [],
     "headlines": []
   },
@@ -610,9 +636,9 @@
     "headlines": []
   },
   "uk-budget-defense-ukraine-2026": {
-    "at": "2026-11-02T12:13:56.992Z",
+    "at": "2026-11-02T18:14:28.921Z",
     "by": "pipeline",
-    "hash": "bvrkwd",
+    "hash": "rvskq",
     "tags": [],
     "headlines": []
   },
