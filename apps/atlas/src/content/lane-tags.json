@@ -242,9 +242,9 @@
     "headlines": []
   },
   "sudan-darfur-kordofan-famine-alert": {
-    "at": "2026-11-01T21:13:11.091Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "ewhd11",
+    "hash": "14a9let",
     "tags": [],
     "headlines": []
   },
@@ -424,21 +424,34 @@
     ]
   },
   "italy-election-2027": {
-    "at": "2026-11-01T16:12:56.665Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "qmo6b6",
-    "tags": [],
-    "headlines": []
-  },
-  "spain-strike-and-snap-election": {
-    "at": "2026-11-01T21:13:11.091Z",
-    "by": "pipeline",
-    "hash": "1ajs5gv",
+    "hash": "vr8lcc",
     "tags": [
       {
-        "point": "VALENCIA",
+        "point": "GENOA",
         "effect": "delay",
-        "likelihood": 0.25,
+        "likelihood": 0.4,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          0,
+          5
+        ],
+        "why": "Italy held its second nationwide general strike in two weeks by 2026-11-01, with transport reported paralyzed and protests spreading, so further strike days that hit port gate, trucking and rail operations at Genoa are plausible in the next 30 days.",
+        "action": "Ask your forwarder for the union strike calendar and for gate and rail slot confirmation at Genoa, and add 3 days of buffer stock on containers due to be collected before mid-December.",
+        "sources": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "point": "MXP",
+        "effect": "delay",
+        "likelihood": 0.3,
         "delayDays": [
           1,
           2
@@ -447,8 +460,54 @@
           0,
           3
         ],
-        "why": "A Spanish general strike is reported for 2026-11-11 with transport disruption expected, and truck or terminal staffing at Valencia could be hit that day, though the headlines name only flights and trains.",
-        "action": "Ask your forwarder to move gate-in and pick-up appointments at Valencia to 9-10 November or after 12 November, and add 2 days of buffer stock for containers due that week.",
+        "why": "The general strikes of late October 2026 paralyzed Italian transport, and further strike days could disrupt handling, trucking and flight schedules at Malpensa.",
+        "action": "Ask your forwarder to move time-critical air cargo to non-strike days or to book a fallback routing via FRA or CDG with road feed.",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Italy's second general strike in two weeks paralyzes transport as protests spread nationwide",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2E3NUxoSjhHNlVXa0VWaVExc1g1WG9xMFFzUk1TS1pOYzNobEp5STd2YzdUQzVpN2QtMC1zWVhZaXF3NW1fX25uNkdhTU9fZ3dJR2lPZmQ2eGtINGFVcnh1U1lhRGFPY3hwVFAzcHRLaTQ3Y185Rld5eU1FX2FicldSaUYxOUhWaktrUWcwcw?oc=5",
+        "publisher": "Latin Times",
+        "published": "2026-11-01T20:44:09.000Z"
+      },
+      {
+        "title": "Italy protests: Students, workers, farmers take to streets in nationwide strike over rising costs, school f...",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR3NDVmxFc0ktV0tES0JCUnhldi1iMEo5Q1pEd0xHLUF0M2FjdVZFNktGTmxoMUIzYmY2TjJyZzdmclVyZllObWRaWk80U1Rwa1B2ZGp0RU42RWd4QW5rWTBuejNCdm5WYy1waDlBYl9NYlM1X040WjY0UThrNGw2Nk1faVcwandGczItSXpHZkRxMWlUNzdFZ3ZLZkhwTHBlVFd5Ti1zcnQ5bjJFVmpuMS1zblFya1Z3Vkl0MDFWRlp3MnJOeDBWcDdOVEJ1cmtoMlhGT1RXaUNSSGZaSW5fc3ZseENvVnYzN3ZJ0gHwAUFVX3lxTE12bHllU1RyanZzX05EdXB4WHBYVXFmU1N0SEtJSmlFeS16aERqc2JNZ3RrdnAyNEk5cUFWdF9Mc1VXVHozY0I2NEE5ektxX25PTmdHcW8teFFkNnRadjhmV2VXLTFSb3FHZUVvNkdoMlZiMm9QZzgwQTE0YU0wb3VxWUZUQnctMGZkR3NnSnhrRlJ3a2JCdGZjYXU5MmFsUkJnNnkzbVExVmhNZDI0aHpab1NaeU9VYnp4SHhVakg5M1gxZS1aSUdmdjlLbVMwSHpFbmVnNmI4VmVtNXdmMFprejlQTXgwSnFtc25tY29UQw?oc=5",
+        "publisher": "Firstpost",
+        "published": "2026-10-30T15:56:37.000Z"
+      },
+      {
+        "title": "Thousands Rally Against Meloni Government In Nationwide Italian Protests",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2IydF9uRmpUZF9zMkVDUDZ2dmhyMUNFbzFOaXdwZDBLM1pVdmYyRi1lTHRGLUF0Tmd5S2U2RFZaTTZ3eTF4RUxzb1lUR1BvZFRFdGx6c1I2ZThJZXQyV1BuZWFJeEFreWNPMXNRcVVnUVR2Vk9SMDdMNEh0NW9xdEF2ZTFfMmtwbU9qMTVxUjF3N1F5UkRJN0d0bWt4azg?oc=5",
+        "publisher": "tippinsights",
+        "published": "2026-10-30T14:48:44.000Z"
+      }
+    ]
+  },
+  "spain-strike-and-snap-election": {
+    "at": "2026-11-02T04:13:36.502Z",
+    "by": "pipeline",
+    "hash": "1dnjv84",
+    "tags": [
+      {
+        "point": "VALENCIA",
+        "effect": "delay",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
+          2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "A general strike is set for 2026-11-11 over housing and wages, and coverage expects broad transport disruption, so terminal gate and stevedore work at Valencia could be hit for about a day.",
+        "action": "Ask your forwarder to move container pickups and deliveries at Valencia out of 10-12 November, and hold 2 days of buffer stock for cargo due that week.",
         "sources": [
           0,
           1,
@@ -492,9 +551,9 @@
     "headlines": []
   },
   "eu-supply-chain-rules-2027": {
-    "at": "2026-11-01T17:13:06.125Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "ui73s9",
+    "hash": "16tetq9",
     "tags": [],
     "headlines": []
   },
@@ -506,9 +565,9 @@
     "headlines": []
   },
   "us-canada-trade-war": {
-    "at": "2026-11-01T22:13:07.754Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "dih8tf",
+    "hash": "vzvz6s",
     "tags": [],
     "headlines": []
   },
@@ -548,9 +607,9 @@
     "headlines": []
   },
   "south-china-sea-incidents-2026": {
-    "at": "2026-11-01T21:13:11.091Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "j58zwp",
+    "hash": "1mkqij7",
     "tags": [],
     "headlines": []
   },
@@ -632,9 +691,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-11-01T21:13:11.091Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "1sz3tcr",
+    "hash": "zeculv",
     "tags": [],
     "headlines": []
   },
@@ -674,9 +733,9 @@
     "headlines": []
   },
   "binance-hack-north-korea-2026": {
-    "at": "2026-11-01T22:13:07.754Z",
+    "at": "2026-11-02T04:13:36.502Z",
     "by": "pipeline",
-    "hash": "xtcd8q",
+    "hash": "xrhp1h",
     "tags": [],
     "headlines": []
   },
