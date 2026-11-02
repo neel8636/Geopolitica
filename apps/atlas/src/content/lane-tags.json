@@ -1,46 +1,48 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "2pr4yn",
+    "hash": "1df7l4r",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
         "likelihood": 0.9,
         "delayDays": [
-          2,
-          8
+          3,
+          10
         ],
         "costPct": [
           15,
           40
         ],
-        "why": "Attacks around Hormuz were still being reported on 2 Nov 2026 and a tanker was hit off a Saudi Gulf port, so war-risk premiums and routing delays persist despite the Qatar-mediated talks.",
-        "action": "Ask your forwarder for current war-risk surcharges on Hormuz-bound cargo, and keep 10-14 days of buffer stock for Gulf-origin inputs.",
+        "why": "Iran's mines reportedly hit two tankers in Hormuz on 2026-11-02, and Iran says it can reopen the strait within two days only if the US meets its conditions, so transit is still restricted and war-risk costs remain high.",
+        "action": "Ask your forwarder which Gulf-bound bookings are exposed, get war-risk surcharges in writing, and add 10 days of buffer stock for cargo that must pass Hormuz.",
         "sources": [
-          1,
+          0,
+          2,
           3,
-          0
+          4
         ]
       },
       {
         "point": "JEBELALI",
-        "effect": "surcharge",
+        "effect": "delay",
         "likelihood": 0.6,
         "delayDays": [
-          2,
-          6
+          3,
+          8
         ],
         "costPct": [
           10,
           25
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where shipping was still being attacked as of 2 Nov 2026, so carriers are adding war-risk and congestion charges and schedules are unreliable.",
-        "action": "Ask your carrier whether Jebel Ali can be replaced by an Oman or Red Sea port with onward trucking, and lock in the surcharge terms in writing.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, so the mine strikes on tankers and the unresolved reopening talks (reported 2026-11-02) disrupt sailings, schedules and insurance for cargo calling there.",
+        "action": "Ask your carrier whether Jebel Ali calls are being omitted or delayed. If cargo is time-critical, book an alternative routing, for example discharge at a port outside the Gulf with onward trucking, and add 7 days of buff",
         "sources": [
-          1,
-          3
+          0,
+          2,
+          4
         ]
       },
       {
@@ -48,114 +50,64 @@
         "effect": "closure",
         "likelihood": 0.8,
         "delayDays": [
-          0,
-          1
-        ],
-        "costPct": [
-          3,
-          8
-        ],
-        "why": "Strikes on Iran since 28 Feb 2026 are unresolved and talks are only at an early stage, so air cargo flights keep avoiding Iranian airspace and flying longer routings.",
-        "action": "Ask your air forwarder to confirm routings on Europe-Asia and Gulf lanes avoid Iranian airspace, and allow an extra 1 day on time-critical air freight.",
-        "sources": [
+          1,
           2
-        ]
-      },
-      {
-        "point": "BAB_EL_MANDEB",
-        "effect": "security",
-        "likelihood": 0.4,
-        "delayDays": [
-          7,
-          12
         ],
         "costPct": [
-          15,
-          30
+          5,
+          15
         ],
-        "why": "Renewed fighting in Yemen and attacks on Saudi energy infrastructure raise the risk of attacks on ships near Bab el-Mandeb in the next 30 days, which could force diversions round the Cape.",
-        "action": "Get a Cape of Good Hope routing quote from your forwarder as a fallback for Asia-Europe bookings, and add 10 days of buffer stock on those lanes.",
-        "sources": []
+        "why": "The US-Israel war on Iran has run since 2026-02-28 and Gulf states were bracing for a possible further attack on 2026-11-02, so air freight avoids Iranian airspace and flies longer routings.",
+        "action": "Ask your air forwarder to confirm routings that avoid Iranian airspace and to quote the added fuel and transit time before booking Asia-Europe or Gulf-linked uplifts.",
+        "sources": [
+          1
+        ]
       }
     ],
     "headlines": [
       {
-        "title": "Oil Drops Over 3% As Qatar-Mediated Talks Progress In Iran Negotiations",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG5pRjU4azhoc2FOQU5OcmM5eTgzY2VkQlM3WmE5SzRNMTBIRjNHSWZMU0NhTkR2T25PMjFEZXV1YnRtcXJlV25NMklGWlhZVXIxU0RHX1l0d015X0pabEZXMWwxbmF4MnpOckVhOWp6ZEMwbmhDMUNUcFV6aXQ4NzA2ZE1ZSWVCVHV1UkQ0VkhZOUFUa2xzSU12Yw?oc=5",
-        "publisher": "Forbes Middle East",
-        "published": "2026-11-02T07:04:31.000Z"
+        "title": "Iran says ready to reopen Hormuz in two days if US agrees to demands",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHdoZVp2RGdLdjZCY3JxUHROTFRUTUtJZ3ZGcWR5WWpBRXNyRnI3TGt4d2p2cHM2YVlEcURRcWNLV25sRm44MzFDclhFTEh3aTNUUlE3LWhvX3FWMlBKdzNsbGQyYjJ1RmZXQ0RIdW9kOEJETVBiRHNJMk1rT2xWMGhoNXlvTW5ydnFxUWFqOWM2NFNfN0M1SGUwZw?oc=5",
+        "publisher": "Macau Business",
+        "published": "2026-11-02T13:06:08.000Z"
       },
       {
-        "title": "Oil Declines Ahead of Midterm Elections Despite Hormuz Attacks",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemlrUnpqR1g0OFFfbnJHTUktSE94dmx1MUQxbFpseThLLWNLaFVmdUp1ZFBHMjloZDFSR1Z2aDFVRHU0bmN4aE1vMGJRR1c4UldXMW9iWDY4clhNODVZVV9OQ0VvelF0Y2pKWlo2T0o3OWVCRTlGeU9fVXNiNEZfNTF5cnU0Rk5yX1htSDd6UW9oSDBNdU93NXNmV08?oc=5",
-        "publisher": "Bloomberg",
-        "published": "2026-11-02T05:10:00.000Z"
+        "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+        "url": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+        "publisher": "NPR World",
+        "published": "2026-11-02T12:19:54.000Z"
       },
       {
-        "title": "Oil prices fall amid reports that the U.S. and Iran are both seeking diplomacy",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXd1a2c2UEtTYmUxbDlrUGdYYmxXdWJJd19lbVVpa1NCZFNIT1ZpV2xBOEFmY195WVZSLXNIdktTTldXRHVlWHBYN0ZIRmhMb21lRWY0X1U2NERwSzNLSTFaVjNFTmVXWDBrM1BrNE8yTjBjVUdFWG9ET05OdGhPMUstRzljYTjSAYwBQVVfeXFMTVhDTDhNM0RuaF9EMUI4clJLbjhRWVNITUd3Z3BUX2dPaXgzOFVEYlFQajBfbTFpdGtoVzhsUm0tYkdST2VKYjZPbWZCZTNvVnJra1oyU3RWRUNkYmE2dElpVUVGRDBxLWVXYVZlOVBoUy1QNVJ6dHdnOVVJUjdSdm85QWRxWTFDUmMwTHY?oc=5",
-        "publisher": "CNBC",
-        "published": "2026-11-02T05:04:26.000Z"
+        "title": "Strait of Hormuz escalation: Iran claims mine strikes stop 2 violating oil tankers",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Nei11eE5oMll3djR2dy15TC1MRHJMQ0xjNlVvR0pBbzR0Zm5kd0NKaFhFNTNxVmw3eHFoLXp1RmU1SmlVazFEbzRPYmd2SlpwREUyRlBNSDk1c3BkRkxpTVhtb1k1UlFzTFVWc2J2WlptSlE?oc=5",
+        "publisher": "The Avenue Mail",
+        "published": "2026-11-02T12:04:50.000Z"
       },
       {
-        "title": "Live - Tanker hit off Saudi Persian Gulf port amid Iran-US mediation efforts",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
-        "publisher": "Iran International",
-        "published": "2026-11-02T04:20:03.000Z"
+        "title": "Iran says it can reopen Hormuz in two days if US meets conditions",
+        "url": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions",
+        "publisher": "Euronews",
+        "published": "2026-11-02T11:48:15.000Z"
+      },
+      {
+        "title": "Tehran has shared with Qatari, Pakistani mediators two-day plan to reopen Hormuz — Iran FM",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVJWYnVaZU91MlRRZ2c3bjdqT1ctekFTVnVIdnRPZ2lzNlNVcVdLRFoydmRlOGVHMlk0cEUyVG5rM3B5OE80RVVGeFo5dHNhNkFYeHpTR1N1VDdUVlJ6cWZaUzFfa0tDa3pRY1pfbXNPSG4wM3dTbV9GWk5XMnliNFVvREVSYTE0LU1lRVl5UG00bk5nS0dWc252VlhWNnVRVFdXdlNoNUhLQy1kaFM3MHhZV0N0WFRHSWpMOVhzbDJodHgxSnF3?oc=5",
+        "publisher": "Arab News PK",
+        "published": "2026-11-02T11:47:24.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "85t6lo",
-    "tags": [
-      {
-        "point": "UA_AIRSPACE",
-        "effect": "closure",
-        "likelihood": 0.9,
-        "delayDays": [
-          0,
-          1
-        ],
-        "costPct": [
-          0,
-          3
-        ],
-        "why": "The six-day Oleshky ceasefire ended on 1-2 November 2026 and Russian strikes on Ukrainian power infrastructure resumed, so the war-driven closure of Ukrainian airspace to civil cargo flights will stay in place and flights must keep routing around it.",
-        "action": "Ask your air forwarder to confirm that quoted routings and transit times already avoid Ukrainian airspace, and do not plan any air cargo uplift or delivery in Ukraine.",
-        "sources": [
-          0,
-          1,
-          2
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Temporary ceasefire ends in besieged town of Oleshky — Lubinets",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3VlY09JNXZoQWRaeFRxdmFFc0Z5dkRkX2xLcE9RZHBnNXJXbFZwa1Z6RWlfSS0yZzh3NEdqM1R0bmY4enluU1NOVDBPc2hOUEltRWVaRkJqdFNqVnVOdGtGU2VIdXhvdFRsTHhFR2RiUWNmSng2emZjS3pnWlZ5Unl4WnlmengyWEtKdGZiWHBNLVBUYU5FM3plQ1lfRUY5U1dJR2VB0gGiAUFVX3lxTE1OZzl1Qk9FWVNhVmZ1OU1IeEFPYWlkUG04UnZJdzFkbzg1ZnprenItejBLMmJhazdPcHVRbFhUcDk2WXJRNW1LdWtHbzRhMnhlSGhzWHZkVWFWUm1zU2wtVzN6X3VVTkJ2UWh3NE5NX1pzX3paejlTMzhIZ29mOU5XLTNsVGl3MGVMa00talZSaFdDbFBNdi1Za0VlZjRnbEl5dw?oc=5",
-        "publisher": "The New Voice of Ukraine",
-        "published": "2026-11-02T06:30:00.000Z"
-      },
-      {
-        "title": "Six days of respite in Oleshky end as Russia and Ukraine target critical infrastructure",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjVWVF8tZzJzVVpaSkJIVi0zc1d6dGlXQm9GT2g1TWxJZjlLX0lmZExLOGE1OXRfYjhRaDVtOEdWZzlwcDJ3Q2ZOeTZIZ2owM19uNG0zT1RPanlTOVFxamFMcFh3d3RkUlZGMGFDUTNzcVc3N05OWWtSUlB0ajlEMGxaM2tyakNYSjJfeWdQVnQ4Vy0wWFZuZkpGRTNHUVBSWXkyUlU4QWpieVFCUDRBdjdEMjBrcjZ4SVFaUzBFa0ZJS1ZyZkVWWXBBSmhsalBKc3pJ0gHTAUFVX3lxTFAyNVZUXy1nMnNVWlpKQkhWLTNzV3p0aVdCb0ZPaDVNbElmOUtfSWZkTEs4YTU5dF9iOFFoNW04R1ZnOXBwMndDZk55NkhnajAzX240bTNPVE9qeVM5UXFqYUxwWHd3dGRSVkYwYUNRM3NxVzc3Tk5Za1JSUHRqOUQwbFoza3JqQ1hKMl95Z1BWdDhXLTBYVm5mSkZFM0dRUFJZeTJSVThBamJ5UUJQNEF2N0QyMGtyNnhJUVpTMEVrRklLVnJmRVZZcEFKaGxqUEpzekk?oc=5",
-        "publisher": "Firstpost",
-        "published": "2026-11-02T04:00:40.000Z"
-      },
-      {
-        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nMEJOcGw4SzlOM3p5QUJUUldzY0NrV0Zzc2NndWVidmJRLXY5YmdHYkpidEY0N2pDUDZfRHNVQnNmWG5Dd09VLVRYeS1WcFVlRExhbjhQTF9fcDF0WXc?oc=5",
-        "publisher": "BBC",
-        "published": "2026-11-01T19:48:17.000Z"
-      }
-    ]
+    "hash": "16nl5vc",
+    "tags": [],
+    "headlines": []
   },
   "france-unrest-2026": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "cw9jx8",
+    "hash": "m14vwx",
     "tags": [],
     "headlines": []
   },
@@ -174,23 +126,23 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "1mkeqmk",
+    "hash": "oablj2",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "1tjc2x5",
+    "hash": "a1er9r",
     "tags": [],
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "1pwciwz",
+    "hash": "2us4g8",
     "tags": [
       {
         "point": "YANTIAN",
@@ -204,8 +156,8 @@
           0,
           3
         ],
-        "why": "Shenzhen is imposing traffic curbs ahead of the APEC leaders' meeting on 18-19 Nov 2026, and truck restrictions on city roads could slow container pickups and deliveries at Yantian around those dates.",
-        "action": "Ask your forwarder or trucker whether Shenzhen truck restrictions apply to your Yantian pickups for 16-20 Nov, and move container gate-in and gate-out to before 15 Nov or after 20 Nov where you can.",
+        "why": "Shenzhen is finalising traffic curbs for the APEC leaders' meeting on 18-19 Nov 2026, and truck restrictions around the host city could slow container pickups and deliveries at Yantian in those days.",
+        "action": "Ask your forwarder or trucker to confirm the Shenzhen truck restriction schedule, and move container gate-in and pickup for Yantian to before 16 Nov or after 20 Nov, with 2 days of buffer.",
         "sources": [
           0
         ]
@@ -228,9 +180,9 @@
     "headlines": []
   },
   "ethiopia-eritrea-war-fears": {
-    "at": "2026-11-02T07:13:37.162Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "1umwimo",
+    "hash": "1geoj5u",
     "tags": [],
     "headlines": []
   },
@@ -363,9 +315,9 @@
     ]
   },
   "italy-election-2027": {
-    "at": "2026-11-02T04:13:36.502Z",
+    "at": "2026-11-02T13:14:10.032Z",
     "by": "pipeline",
-    "hash": "vr8lcc",
+    "hash": "awryie",
     "tags": [
       {
         "point": "GENOA",
@@ -377,33 +329,14 @@
         ],
         "costPct": [
           0,
-          5
-        ],
-        "why": "Italy held its second nationwide general strike in two weeks by 2026-11-01, with transport reported paralyzed and protests spreading, so further strike days that hit port gate, trucking and rail operations at Genoa are plausible in the next 30 days.",
-        "action": "Ask your forwarder for the union strike calendar and for gate and rail slot confirmation at Genoa, and add 3 days of buffer stock on containers due to be collected before mid-December.",
-        "sources": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "point": "MXP",
-        "effect": "delay",
-        "likelihood": 0.3,
-        "delayDays": [
-          1,
-          2
-        ],
-        "costPct": [
-          0,
           3
         ],
-        "why": "The general strikes of late October 2026 paralyzed Italian transport, and further strike days could disrupt handling, trucking and flight schedules at Malpensa.",
-        "action": "Ask your forwarder to move time-critical air cargo to non-strike days or to book a fallback routing via FRA or CDG with road feed.",
+        "why": "Italy's second general strike in two weeks paralyzed transport on 2026-11-01 and protests and riots are continuing nationwide, so further stoppages or blockades at Italian ports such as Genoa could delay gate and vessel handling in the coming weeks.",
+        "action": "Ask your forwarder to confirm strike notices for Genoa terminals and truckers, and add 3 days of buffer to inbound and outbound bookings. Move time-critical containers to the earliest available sailing.",
         "sources": [
           0,
-          1
+          1,
+          2
         ]
       }
     ],
@@ -415,16 +348,16 @@
         "published": "2026-11-01T20:44:09.000Z"
       },
       {
-        "title": "Italy protests: Students, workers, farmers take to streets in nationwide strike over rising costs, school f...",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR3NDVmxFc0ktV0tES0JCUnhldi1iMEo5Q1pEd0xHLUF0M2FjdVZFNktGTmxoMUIzYmY2TjJyZzdmclVyZllObWRaWk80U1Rwa1B2ZGp0RU42RWd4QW5rWTBuejNCdm5WYy1waDlBYl9NYlM1X040WjY0UThrNGw2Nk1faVcwandGczItSXpHZkRxMWlUNzdFZ3ZLZkhwTHBlVFd5Ti1zcnQ5bjJFVmpuMS1zblFya1Z3Vkl0MDFWRlp3MnJOeDBWcDdOVEJ1cmtoMlhGT1RXaUNSSGZaSW5fc3ZseENvVnYzN3ZJ0gHwAUFVX3lxTE12bHllU1RyanZzX05EdXB4WHBYVXFmU1N0SEtJSmlFeS16aERqc2JNZ3RrdnAyNEk5cUFWdF9Mc1VXVHozY0I2NEE5ektxX25PTmdHcW8teFFkNnRadjhmV2VXLTFSb3FHZUVvNkdoMlZiMm9QZzgwQTE0YU0wb3VxWUZUQnctMGZkR3NnSnhrRlJ3a2JCdGZjYXU5MmFsUkJnNnkzbVExVmhNZDI0aHpab1NaeU9VYnp4SHhVakg5M1gxZS1aSUdmdjlLbVMwSHpFbmVnNmI4VmVtNXdmMFprejlQTXgwSnFtc25tY29UQw?oc=5",
-        "publisher": "Firstpost",
-        "published": "2026-10-30T15:56:37.000Z"
+        "title": "Smoke, Water Cannons: Meloni Under Fire As Italy Rocked By Fresh Protests; Riot Police Battle Crowd",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFV0azh6Q3Vkd1doZi1VSXh3YXVCY2VkbjNGMFR0Q3ViOHNsOUgxSTJQQ01MVHNTTlozRWtwazFnTmNvQ1dYTVdiVTY2RnU4UWFMU0ZOX2NOS3JyUVhWRkRIRF84STFKbzQ4d2lEVm1LZTJNdWFSaTJWMnJlREh1Z2R1NmtNTERNVWxMaGZ3WEwyYUNKNW5MOTlZSnAwSkcwQ2ZKR2RZa056bHpOa2YwZWpxdmhYVFY5ekJ4LUh3c1ZIRW01VmRlUHNlSGNOOXN0MWpaZFE0Tlg4c0lKZ1g2TldKUTU2anE2dGdEbmpneUZTQWVpWWZKRWx3a1I4ODVkNFFnZWZkaG9SVTJ2dGfSAY4CQVVfeXFMT2xVdGs4ekN1ZHdXaGYtVUl4d2F1QmNlZG4zRjBUdEN1YjhzbDlIMUkyUENNTFRzU05aM0VrcGsxZ05jb0NXWE1XYlU2NkZ1OFFhTFNGTl9jTktyclFYVkZESERfOEkxSm80OHdpRFZtS2UyTXVhUmkyVjJyZURIdWdkdTZrTUxETVVsTGhmd1hMMmFDSjVuTDk5WUpwMEpHMENmSkdkWWtOemx6TmtmMGVqcXZoWFRWOXpCeC1Id3NWSEVtNVZkZVBzZUhjTjlzdDFqWmRRNE5YOHNJSmdYNk5XSlE1NmpxNnRnRG5qZ3lGU0FlaVlmSkVsd2tSODg1ZDRRZ2VmZGhvUlUydnRn?oc=5",
+        "publisher": "The Times of India",
+        "published": "2026-10-31T13:00:00.000Z"
       },
       {
-        "title": "Thousands Rally Against Meloni Government In Nationwide Italian Protests",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR2IydF9uRmpUZF9zMkVDUDZ2dmhyMUNFbzFOaXdwZDBLM1pVdmYyRi1lTHRGLUF0Tmd5S2U2RFZaTTZ3eTF4RUxzb1lUR1BvZFRFdGx6c1I2ZThJZXQyV1BuZWFJeEFreWNPMXNRcVVnUVR2Vk9SMDdMNEh0NW9xdEF2ZTFfMmtwbU9qMTVxUjF3N1F5UkRJN0d0bWt4azg?oc=5",
-        "publisher": "tippinsights",
-        "published": "2026-10-30T14:48:44.000Z"
+        "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
+        "publisher": "Cirebon Times",
+        "published": "2026-10-31T00:10:48.000Z"
       }
     ]
   },
