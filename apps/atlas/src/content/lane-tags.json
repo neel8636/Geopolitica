@@ -192,9 +192,9 @@
     "headlines": []
   },
   "france-election-2027": {
-    "at": "2026-11-02T14:14:07.746Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "yqttej",
+    "hash": "9s5ss3",
     "tags": [],
     "headlines": []
   },
@@ -260,70 +260,57 @@
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-11-02T14:14:07.746Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "efqov7",
+    "hash": "1hl6wr7",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-11-02T14:14:07.746Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "sd5y5e",
+    "hash": "jx68ai",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.9,
-        "delayDays": [
-          1,
-          5
-        ],
-        "costPct": [
-          10,
-          40
-        ],
-        "why": "Gulf exports through Hormuz are running at 60-80% of normal, and on 2026-11-02 Iran's Navy reported a tanker hit a naval mine east of the strait while Iran claimed mine strikes stopped two other tankers, so transits face ongoing delay and war-risk costs.",
-        "action": "Ask your forwarder for current war-risk surcharges and transit status on Hormuz-bound cargo, and add 5 days of buffer stock or move time-critical cargo to alternative routings.",
-        "sources": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "point": "JEBELALI",
-        "effect": "delay",
-        "likelihood": 0.6,
+        "likelihood": 0.55,
         "delayDays": [
           2,
-          6
+          7
         ],
         "costPct": [
-          5,
-          20
+          8,
+          25
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where exports are at 60-80% of normal and mine incidents were reported on 2026-11-02, so vessel calls and schedules are likely to slip or carry surcharges.",
-        "action": "Ask your carrier for confirmed vessel schedules and any emergency surcharges for Jebel Ali, and arrange overland or alternative-port contingencies via Oman for urgent cargo.",
+        "why": "As of 2 Nov 2026 the Iran war is still disrupting Gulf exports, which have run at 60-80% of normal through Hormuz. Bloomberg reports a return to pre-war export rates and US-Iran talks are underway, but the situation is unsettled, so transit delays and war-risk surcharges remain p",
+        "action": "Ask your forwarder for current war-risk surcharges and transit status for Gulf-bound and Gulf-origin cargo. Add 7 days of buffer stock and get an alternative routing quote (e.g. overland via Red Sea ports) in case talks ",
         "sources": [
           0,
-          1,
-          2
+          3,
+          2,
+          1
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Oil tanker catches fire after hitting naval mine east of Strait of Hormuz, says Iranian Navy",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMk9abTd1ajFtSUlLU2NQOXFWYTJKaC1XZnpIUmlGUFhCQ0FWWUw1UDVnY2NoeGJwbzdCbWp6YUd1dWlRcTk0blBvbHprRGx4Q3EtLUZHWjJlN3NrTWdrWXdaeDZDRlFULS1Nc2o0SWd2ckdCU2hrb3BkMEJqbFdkR3h3VElPUlEwV29UaW1za1dmMVlhU2czS084cUpJaDNWNUh0LV9jSDZuUlRrSGJ5SFAzR1lnbHppZFYyODR0NmwzcWRETGxhNy03ZGs1aWJKZWNTeEszT0FFSUE?oc=5",
-        "publisher": "Anadolu Ajansı",
-        "published": "2026-11-02T13:43:14.000Z"
+        "title": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklkbWxGTUVjUDlHZDhmLTZiNHB4bXRHTVhIZXJCcGhXUXltdG1BRWo1OWZUX3JXOVFNeUQ3RUpzVVZNNnR4RDdKZnRjSmgyNnBmOXYxOTU3dFQ5Mm82WDExVlhFeTY0OTVsdmJ0bFExQk94c1JSQWVqeU9BbEdqN29tdkRqUkI4SHJoeEdTcUxwSm5hMExRb0s0Y21ReW9sSW1PR3NaY01OVFJ6NG8xQlVzMTM?oc=5",
+        "publisher": "Bloomberg.com",
+        "published": "2026-11-02T17:25:09.000Z"
       },
       {
-        "title": "Strait of Hormuz escalation: Iran claims mine strikes stop 2 violating oil tankers",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Nei11eE5oMll3djR2dy15TC1MRHJMQ0xjNlVvR0pBbzR0Zm5kd0NKaFhFNTNxVmw3eHFoLXp1RmU1SmlVazFEbzRPYmd2SlpwREUyRlBNSDk1c3BkRkxpTVhtb1k1UlFzTFVWc2J2WlptSlE?oc=5",
-        "publisher": "The Avenue Mail",
-        "published": "2026-11-02T12:04:50.000Z"
+        "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+        "publisher": "The Guardian World",
+        "published": "2026-11-02T17:14:23.000Z"
+      },
+      {
+        "title": "Oil Prices Crash Over 3% as Iran Peace Talks Push Brent Toward $109 Despite OPEC+ Supply Freeze",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlNRQjU1NWZRZ01wZ043VjQ2ODlaRzVHX0l4XzRDdlpkZU9aLTBoNlBwN0g1bXo1Q2hoa2V6TXhhLWlzTnhDd2VNU3J6ZmlOVjNRUnpyM21uajZVemlTcmJwX28wRUgxcXRocGlWZTY3ZXpwSDd3Y1N5RXlKRkpweEJEZnNESnRic0dKNmY4RlJVRU5SSlFibzloTHFid1BFTUs2VWRNT1FYWkp4WFVNdFlhZW1USFNCVlJ5eQ?oc=5",
+        "publisher": "Coinpaper",
+        "published": "2026-11-02T12:54:16.000Z"
       },
       {
         "title": "Crude Oil Market Analysis: OPEC+ Steady Output, Iran War Disrupts Supply",
@@ -407,51 +394,11 @@
     ]
   },
   "italy-election-2027": {
-    "at": "2026-11-02T13:14:10.032Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "awryie",
-    "tags": [
-      {
-        "point": "GENOA",
-        "effect": "delay",
-        "likelihood": 0.4,
-        "delayDays": [
-          1,
-          3
-        ],
-        "costPct": [
-          0,
-          3
-        ],
-        "why": "Italy's second general strike in two weeks paralyzed transport on 2026-11-01 and protests and riots are continuing nationwide, so further stoppages or blockades at Italian ports such as Genoa could delay gate and vessel handling in the coming weeks.",
-        "action": "Ask your forwarder to confirm strike notices for Genoa terminals and truckers, and add 3 days of buffer to inbound and outbound bookings. Move time-critical containers to the earliest available sailing.",
-        "sources": [
-          0,
-          1,
-          2
-        ]
-      }
-    ],
-    "headlines": [
-      {
-        "title": "Italy's second general strike in two weeks paralyzes transport as protests spread nationwide",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2E3NUxoSjhHNlVXa0VWaVExc1g1WG9xMFFzUk1TS1pOYzNobEp5STd2YzdUQzVpN2QtMC1zWVhZaXF3NW1fX25uNkdhTU9fZ3dJR2lPZmQ2eGtINGFVcnh1U1lhRGFPY3hwVFAzcHRLaTQ3Y185Rld5eU1FX2FicldSaUYxOUhWaktrUWcwcw?oc=5",
-        "publisher": "Latin Times",
-        "published": "2026-11-01T20:44:09.000Z"
-      },
-      {
-        "title": "Smoke, Water Cannons: Meloni Under Fire As Italy Rocked By Fresh Protests; Riot Police Battle Crowd",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFV0azh6Q3Vkd1doZi1VSXh3YXVCY2VkbjNGMFR0Q3ViOHNsOUgxSTJQQ01MVHNTTlozRWtwazFnTmNvQ1dYTVdiVTY2RnU4UWFMU0ZOX2NOS3JyUVhWRkRIRF84STFKbzQ4d2lEVm1LZTJNdWFSaTJWMnJlREh1Z2R1NmtNTERNVWxMaGZ3WEwyYUNKNW5MOTlZSnAwSkcwQ2ZKR2RZa056bHpOa2YwZWpxdmhYVFY5ekJ4LUh3c1ZIRW01VmRlUHNlSGNOOXN0MWpaZFE0Tlg4c0lKZ1g2TldKUTU2anE2dGdEbmpneUZTQWVpWWZKRWx3a1I4ODVkNFFnZWZkaG9SVTJ2dGfSAY4CQVVfeXFMT2xVdGs4ekN1ZHdXaGYtVUl4d2F1QmNlZG4zRjBUdEN1YjhzbDlIMUkyUENNTFRzU05aM0VrcGsxZ05jb0NXWE1XYlU2NkZ1OFFhTFNGTl9jTktyclFYVkZESERfOEkxSm80OHdpRFZtS2UyTXVhUmkyVjJyZURIdWdkdTZrTUxETVVsTGhmd1hMMmFDSjVuTDk5WUpwMEpHMENmSkdkWWtOemx6TmtmMGVqcXZoWFRWOXpCeC1Id3NWSEVtNVZkZVBzZUhjTjlzdDFqWmRRNE5YOHNJSmdYNk5XSlE1NmpxNnRnRG5qZ3lGU0FlaVlmSkVsd2tSODg1ZDRRZ2VmZGhvUlUydnRn?oc=5",
-        "publisher": "The Times of India",
-        "published": "2026-10-31T13:00:00.000Z"
-      },
-      {
-        "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
-        "publisher": "Cirebon Times",
-        "published": "2026-10-31T00:10:48.000Z"
-      }
-    ]
+    "hash": "12ljdv5",
+    "tags": [],
+    "headlines": []
   },
   "spain-strike-and-snap-election": {
     "at": "2026-11-02T18:14:28.921Z",
@@ -562,9 +509,9 @@
     "headlines": []
   },
   "usmca-annual-review-2027": {
-    "at": "2026-11-01T14:12:43.648Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "nkrw7z",
+    "hash": "1aaf3xw",
     "tags": [],
     "headlines": []
   },
@@ -583,9 +530,9 @@
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-11-02T12:13:56.992Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "1mvoply",
+    "hash": "112hy0x",
     "tags": [],
     "headlines": []
   },
@@ -611,16 +558,16 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-11-02T14:14:07.746Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "nxtr47",
+    "hash": "174kox8",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-11-02T14:14:07.746Z",
+    "at": "2026-11-02T20:14:36.436Z",
     "by": "pipeline",
-    "hash": "17hki03",
+    "hash": "toy537",
     "tags": [],
     "headlines": []
   },
