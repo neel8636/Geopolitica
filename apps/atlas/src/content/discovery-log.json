@@ -2880,6 +2880,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-02T23:14:56.750Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "screen failed: Claude API 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to u"
+    },
+    {
       "at": "2026-11-02T22:14:57.902Z",
       "screened": 0,
       "accepted": [],
@@ -4459,143 +4468,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 4 new uncovered headlines"
-    },
-    {
-      "at": "2026-11-01T07:12:24.244Z",
-      "screened": 111,
-      "accepted": [
-        {
-          "id": "poland-constitutional-court-standoff-2026",
-          "title": "Poland's government and president clash over Constitutional Court",
-          "reason": "Police were deployed in a government-versus-president fight over control of the top court, and the EU Commission has taken a side, which bears on rule-of-law conditions for EU funds to Poland.",
-          "channel": "EU rule-of-law decisions and EU funds",
-          "reaches": [
-            "BE",
-            "DE"
-          ],
-          "headlines": 4,
-          "publishers": 4
-        }
-      ],
-      "rejected": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Oleshky evacuees return to Ukraine-held territory",
-          "reason": "This is a human-interest evacuation within Ukraine, with no clear cross-border ripple or policy decision.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Gen Z protests in Germany over education funding",
-          "reason": "These are domestic protests over education funding with no cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Albania protest clashes",
-          "reason": "These are local protest clashes with no clear effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "India opposition rally against election chief",
-          "reason": "A domestic political rally with no cross-border channel.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Bolivia El Nino emergency",
-          "reason": "A weather emergency with no stated effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Turkey nominates Sinirlioglu for UN chief",
-          "reason": "A candidate nomination that decides nothing yet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "G20 photo cancelled over Russian minister",
-          "reason": "A symbolic protest at a meeting that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Novaya Gazeta closure",
-          "reason": "Press-freedom news with no cross-border money, goods or people channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Global nature talks reach deal",
-          "reason": "The headline gives no concrete decision or financial flow, and the money question is unresolved.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Trump Epstein-letter suit dismissed",
-          "reason": "A court case with no effect abroad.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Palestine Action protest at US embassy in London",
-          "reason": "A protest and arrests with no policy or cross-border effect.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "AI and tech stock selloff",
-          "reason": "Company and market news without a state or policy angle.",
-          "headlines": 10,
-          "publishers": 3
-        }
-      ],
-      "existing": [
-        {
-          "title": "Efforts to restart US-Iran talks via Qatari mediators",
-          "reason": "This is diplomacy within the ongoing US-Israel war on Iran already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "FBI blames North Korea for Binance hack",
-          "reason": "This is the same Binance hack and North Korea attribution already on the map.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "US midterm campaigning",
-          "reason": "Both headlines are campaign coverage of the midterms already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        },
-        {
-          "title": "UK defence spending row",
-          "reason": "This is part of the UK budget and defence spending event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Euro zone Q3 growth slows as France contracts",
-          "reason": "This is macro data feeding the ECB and French stress events already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
