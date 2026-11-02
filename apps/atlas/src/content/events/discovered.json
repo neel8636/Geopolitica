@@ -956,6 +956,79 @@
         "headlines": 4,
         "publishers": 4
       }
+    },
+    {
+      "id": "minurso-mission-ends-western-sahara-2026",
+      "title": "UN peacekeeping mission MINURSO ends in Western Sahara after 35 years",
+      "type": "security",
+      "date": "2026-11-01",
+      "status": "developing",
+      "region": "Western Sahara",
+      "lat": 24.5,
+      "lon": -13,
+      "countries": [
+        "MA",
+        "DZ",
+        "ES"
+      ],
+      "summary": "The UN peacekeeping mission MINURSO in disputed Western Sahara has ended after 35 years, and the UN warns of security risks while saying it stands ready to keep supporting peace efforts. Without monitors, tension between Morocco, Algeria and the Polisario could rise, with possible knock-on effects for regional security and migration towards Spain.",
+      "severity": 3,
+      "keywords": [
+        "western sahara",
+        "minurso",
+        "polisario",
+        "morocco",
+        "algeria",
+        "peacekeeping mission",
+        "sahrawi",
+        "ceasefire",
+        "un security council",
+        "mission ends"
+      ],
+      "links": [
+        {
+          "to": "algeria-niger-troop-deployment-2026",
+          "kind": "shares_driver",
+          "why": "Both reflect a shifting security balance across the Sahel and Maghreb, where Algeria is taking a more assertive military posture just as UN monitoring recedes.",
+          "via": "Algerian regional security posture"
+        }
+      ],
+      "sources": [
+        {
+          "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+          "url": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+          "publisher": "Al Jazeera",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+          "url": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
+          "publisher": "France 24",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168717",
+          "publisher": "UN News",
+          "date": "2026-11-01"
+        }
+      ],
+      "news": {
+        "q": "\"Western Sahara\" OR MINURSO OR Polisario",
+        "edition": "GB"
+      },
+      "auto": {
+        "addedAt": "2026-11-02T01:13:27.438Z",
+        "reason": "The UN has ended MINURSO and warns of security risks, which affects Morocco, Algeria and the Polisario and could raise tension and migration towards Spain.",
+        "channel": "regional security and possible migrant flows",
+        "reaches": [
+          "MA",
+          "DZ",
+          "ES"
+        ],
+        "headlines": 3,
+        "publishers": 3
+      }
     }
   ]
 }

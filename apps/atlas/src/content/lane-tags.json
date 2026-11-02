@@ -1,27 +1,29 @@
 {
   "gulf-war-energy-shock": {
-    "at": "2026-11-01T19:13:01.090Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "5gjvmd",
+    "hash": "kkl5lv",
     "tags": [
       {
         "point": "HORMUZ",
-        "effect": "closure",
-        "likelihood": 0.9,
+        "effect": "security",
+        "likelihood": 0.95,
         "delayDays": [
           5,
-          21
+          14
         ],
         "costPct": [
           25,
           80
         ],
-        "why": "The strait is still shut to normal traffic: on 2026-11-01 US-Iran talks in Doha are aimed at reopening it, negotiators are 'braced for worst', and a Qatar LNG carrier was struck by unidentified objects in the Gulf.",
-        "action": "Ask your forwarder for written confirmation of Hormuz routing and war-risk surcharges on every booking. Move time-critical cargo to alternatives outside the strait, such as Fujairah, Khor Fakkan or Red Sea ports with ove",
+        "why": "Tankers and a Qatar LNG carrier were struck in or near the strait on 1-2 Nov 2026, and Iran is offering to reopen it only if the US meets its demands, so transit is still restricted and carries heavy war-risk premiums.",
+        "action": "Ask your forwarder for the current war-risk surcharge and confirmed sailing status for each Gulf booking, and hold 14 days of buffer stock for Gulf-origin or Gulf-bound cargo.",
         "sources": [
-          0,
           1,
-          2
+          2,
+          3,
+          4,
+          6
         ]
       },
       {
@@ -29,54 +31,106 @@
         "effect": "delay",
         "likelihood": 0.8,
         "delayDays": [
-          5,
-          15
+          4,
+          10
         ],
         "costPct": [
-          20,
-          60
+          15,
+          40
         ],
-        "why": "Jebel Ali lies inside the Gulf behind Hormuz, so cargo faces the strait closure and the attack risk shown by the 2026-11-01 strike on a Qatar LNG carrier and the fire at an industrial complex in Dammam.",
-        "action": "Ask your forwarder to quote discharge at an outside-Hormuz port (Khor Fakkan, Fujairah) with trucking to Dubai, and compare it against the war-risk surcharge on direct Jebel Ali calls. Add 10 days of buffer stock for Gul",
+        "why": "Jebel Ali lies inside the Strait of Hormuz, where vessels were struck on 1-2 Nov 2026 and transit remains disrupted, so calls and onward connections are delayed and surcharged.",
+        "action": "Ask your forwarder to quote an alternative routing, such as discharge at a port outside the Gulf with onward road or feeder service, and pre-book it for time-critical shipments.",
+        "sources": [
+          1,
+          3,
+          6
+        ]
+      },
+      {
+        "point": "IR_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.7,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          5,
+          20
+        ],
+        "why": "The US-Israel war on Iran is in its ninth month and signs of renewed fighting appeared on 1-2 Nov 2026, so carriers are likely to keep avoiding Iranian airspace and fly longer routings.",
+        "action": "Ask your air forwarder to confirm that Europe-Asia and Gulf bookings avoid Iranian airspace, and add 1-2 days of transit buffer on those lanes.",
         "sources": [
           0,
-          1,
-          2,
-          3
+          5
         ]
+      },
+      {
+        "point": "BAB_EL_MANDEB",
+        "effect": "security",
+        "likelihood": 0.35,
+        "delayDays": [
+          10,
+          14
+        ],
+        "costPct": [
+          15,
+          40
+        ],
+        "why": "Renewed fighting in Yemen and attacks on Saudi energy infrastructure raise the threat to ships passing Bab el-Mandeb in the next 30 days, which could force diversions around Africa.",
+        "action": "Ask your forwarder which Asia-Europe services currently route via the Cape of Good Hope, and plan for 10-14 extra days on any service that still uses the Red Sea.",
+        "sources": []
       }
     ],
     "headlines": [
       {
-        "title": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-        "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-        "publisher": "The Guardian World",
-        "published": "2026-11-01T17:49:28.000Z"
+        "title": "‘The mood has definitely shifted’: Signs pointing to renewed US-Iran war",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc3R4QlhYaW9HTWhrTVBRdlBpRkxQWURtX25MeVJBbFhnU2otWU52aWRrTUV2UWxvZEg0aGZvUE1vWjB4T3dWQUJGUW9pMTM2Vmk4eGFfQ0ktZV9TY3pHZnk3VkZCMl9uS2xIYUVVcDNzVWNrcUJDWDdLbjJGWFk3dG5mUEpIN0ZqQjdyOUp3QnA0YVkzbXhnWDY5ZDR5bXc4Vzl2RmRLN3FYSXdmUVNtM2Y5M0JGSkU1OVZibEVPY0JTU3pHMlVNdERmZFdfUEU0SWRZNnRLT04?oc=5",
+        "publisher": "Nine.com.au",
+        "published": "2026-11-02T01:00:03.000Z"
+      },
+      {
+        "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+        "publisher": "Al Jazeera",
+        "published": "2026-11-02T00:00:00.000Z"
+      },
+      {
+        "title": "Middle East latest: Iran offers to open strait in two days if US meets demands",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5",
+        "publisher": "The National",
+        "published": "2026-11-01T23:55:56.000Z"
+      },
+      {
+        "title": "Vessel struck in Strait of Hormuz: Maritime agency",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSy1TMldiYmhpd2xXZXNPWnAwNldnZDgzOWd1MzFHT0p6allmQkY1UE9LZUFNaVNjTDFydndrcjZfOGpyLXFKRkNwYlZQaUJrUGw0bVJQT0MtTU5CWHlmdC0wY0VQS0F3NnA0bUpXQjNmcGE0d3ZlOG1zcUhrLUNqd3ZnNTdRUjVZckpxRWk0ejliZw?oc=5",
+        "publisher": "Daily Sun",
+        "published": "2026-11-01T23:18:21.000Z"
       },
       {
         "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSU1Fc3JpWUM4REFIanVUZEJBRUZyQmxQbW82TTJ2TlB5bWp2bVNQV25pWlhGcmY5T19mWUV5M0xvekFGODFoLVkzMnR3a25wSVhIUWpHM2xkcS10OGtwVXFTZHY1ZGVqNGl1dTdMa19yWllzUmVqc2ZWOEtINDBJaDJ5d241UE1rTFFuMTFwcEVrUDdBb2tIQmdVc05ld9IBowFBVV95cUxNZEtDQS12eTRKS0NESXZxRVgyLVB4QXhRRmVsR2I4UEJxSG5yUzVjS1gtZUs3Z28yUXlTcHhiUEVvY2JVXy1KYjNveHZvS0ZHZVk2a1d5aXlBSUlNSHgwNWFCUWg3dzBPajF6UkZrVDFHTWJUdU9DYmhyRTlnTjVuV0ZRNVBVTC1XSFVPT3dBbDNfV2xFWXV6WC14LXZQbnM2eTRJ?oc=5",
         "publisher": "Al Jazeera",
-        "published": "2026-11-01T16:09:42.000Z"
+        "published": "2026-11-01T22:36:31.000Z"
       },
       {
-        "title": "Hormuz To Reopen In 48 Hours? Iran, Qatari Mediators Hold Third Day Of Talks In Doha To End War",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNDJUSGlLUC1YZ1U5MFNOX2J6NVlFZlBYLWlQclQ2MEFiX0hZZW02RDN2Zl9zUEtaNlp2T3RDZ1U4MUJXWGVQSHBkeUUtVTE3aTBpNzFlRFVuTmNWUGlGSU03dXY4ZkVZMnhSM3JRNTBKZkUzcElMRG04S29Kd3hFbzUwSFJUUG5rUkMzelNQM2FiU3AxVDd3NkMyZzlBVFdSbWxjNk1xMFJmaVNwZkJzVk1ERllXbjY1VUZ2Wi1HM1FFd0NjMjNRVjNMQlB0YUo0cEtkbXVsNm1zd2IwVVVDNk9hX1I0VE8xc3NOZlY3UQ?oc=5",
-        "publisher": "Times Now",
-        "published": "2026-11-01T15:32:18.000Z"
+        "title": "Iran Update, November 1, 2026",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHNDa0hoUWlSLWg4S19xY0R1NEs0ZXNaOU16c2owWGdqSlF3ajJaUkV0SkRrWm1iTGc0clJLcHhOdjFBOGRETDYxa2hCWmRwTmJEOEFlOVF2akJydENZT1BKQjY5Z29mTjI5U2lqRlZaTEZpU3A0V1J2STNsQUR1RXRSS3g?oc=5",
+        "publisher": "Institute for the Study of War",
+        "published": "2026-11-01T22:24:06.000Z"
       },
       {
-        "title": "Strike at industrial complex in Saudi Arabia's Dammam causes huge fire: Iranian state media",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV1hNV2JKLWhvRkFVeGs5SC12djZNN2JhMlhlSUtxR2UwZTZlRndoNC1UMUxSZGpfcjZkWDh1RkJKS0pwWEJ6bHJCTGxoTHp2cXZwTWlCNjR3Y2pIMEpxZ3l4SThoWkk2Q3VnNHBmRjkxR09KbU8yU1ZlTnM1bVNwd0NibGtzeWtBSlJnMkJHUFg1RW9GbkMyTFdmaVBBczZVcGVuY0pnMmZHZjhOTzdmY1gzaW01YmtTZWJKTTREellHUml3?oc=5",
-        "publisher": "The Express Tribune",
-        "published": "2026-11-01T15:02:54.000Z"
+        "title": "OPEC+ holds December targets steady for third month as Hormuz disruption persists",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHlpb2NXMER3VmlQdEhaZWdycFFlaGJvd3lYaWtZaGxIZDZaMWhzQ2V2ejFRM1VYTG45THZKLW9DcTh1eHZFTUN0emtMaTZnRlBMQjE0QklhY2ZuXzJ1UmtYUUhuQ0hQVmdObnZPcFdtQTZMTTllUlhicHVDelZJOXpmQXJrTE5fcXQwY1dqb3JsS2dTVElaNTZnYlpDc1k3SnVDVk9PQ0ZJRnZTSnZzMHdpbVVjRVVpd3Vv?oc=5",
+        "publisher": "investingLive",
+        "published": "2026-11-01T21:13:23.000Z"
       }
     ]
   },
   "ukraine-summit-diplomacy": {
-    "at": "2026-11-01T19:13:01.090Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "13mzbfx",
+    "hash": "1mjecbe",
     "tags": [
       {
         "point": "UA_AIRSPACE",
@@ -90,18 +144,47 @@
           2,
           6
         ],
-        "why": "As of 1 Nov 2026 the localized Oleshky ceasefire has ended and Russia is striking power infrastructure in four Ukrainian regions while Ukraine hits Russian refineries, so Ukrainian airspace stays closed to civil freight flights.",
-        "action": "Ask your air forwarder to confirm routings keep clear of Ukrainian airspace and to quote the extra fuel and time on diverted Europe-Central Asia and Europe-Middle East flights; hold 1 extra day of buffer on those lanes.",
+        "why": "Ukrainian airspace stays closed to civil traffic; the Kherson truce ended on 2026-11-01 and Russia resumed strikes that cut power in four regions, so air freight must keep routing around it.",
+        "action": "Ask your air forwarder to confirm that routings avoid Ukrainian airspace, and add 1 day of buffer on Europe–Central Asia and Europe–Middle East air lanes.",
         "sources": [
           0,
           1,
+          2
+        ]
+      },
+      {
+        "point": "RU_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.7,
+        "delayDays": [
+          0,
+          1
+        ],
+        "costPct": [
           2,
-          3,
-          4
+          8
+        ],
+        "why": "With the Kherson truce over as of 2026-11-01 and Ukraine resuming attacks on Russian oil refineries, the war is escalating and Russian airspace stays restricted for many Western-linked carriers, forcing longer Europe–Asia routings.",
+        "action": "Ask your forwarder which carriers on your Asia–Europe air lanes avoid Russian airspace, and compare quotes that include the longer routing and fuel surcharge before booking time-critical cargo.",
+        "sources": [
+          2,
+          3
         ]
       }
     ],
     "headlines": [
+      {
+        "title": "Longest truce of Ukraine war ends in Kherson",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lY3ByemdtVFhjZmRhQ1drSEY3djlaUjRWdV9lTU9YTVdVbFIxT1MxRU9yMHE3aUNyMl9jUkFCckVqS3Rad3g4NzhfTllqLWtMUEtuTUJqSU1kamdPeWFGZEFrY3F3d1VuVjB3UEl1VEk5c3dmNFhHbmlYRXAybTQ?oc=5",
+        "publisher": "Yahoo News Singapore",
+        "published": "2026-11-01T22:50:56.000Z"
+      },
+      {
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+        "publisher": "BBC World",
+        "published": "2026-11-01T21:55:01.000Z"
+      },
       {
         "title": "Russia Kills Power in 4 Ukrainian Regions; Kyiv Burns a Lukoil Refinery — Trump's Ceasefire Collapses",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXVzeUFMZWpCb2RqV0tLVGJ4NzZMUTlSRDdyaGVhLVBkNGdjXzdCQjNmN2NLWlM4cU95UWhLUnQtT3VqRnZua29lSGQtekxJU2FudWg4dGt2NmFOa1poNl9CQjBJY3dwX2VNWXlRY213NzAzWWw2bUpSVlRET20zMVZkMEdPR1ZvVGFF?oc=5",
@@ -113,31 +196,13 @@
         "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
         "publisher": "The Guardian World",
         "published": "2026-11-01T17:20:18.000Z"
-      },
-      {
-        "title": "Civilians in Ukraine's Kherson prepare for the return of war as localized ceasefire ends",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUNmMzWldxcW1PVE5naVc5eVoxdERxa3dKQkxMOC1TSGRnQW1sTGRnSG9kV0c0ZDZpZUZDazZVY0YteWtUNl9nckdfREZiNGlQWi1YcldLTGNiSGFNcHBqNHBlNERxZw?oc=5",
-        "publisher": "RiverBender.com",
-        "published": "2026-11-01T15:36:38.000Z"
-      },
-      {
-        "title": "Zelensky: ‘Raids on four regions, hundreds of thousands without electricity’. Pope calls for new peace initiatives following the Oleshky ceasefire",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3lpdkFydWxabkdwQnoxd013NUFDSGVBV09YV2Rsb042bEVUaUdIYkQ4SWFBSjNhRWR3cjVBWjhrd0N3c2h5enRmRGxWaWNWUjlEaV9BS3NnMWF3Zm1pQXp3b3U1MzAzb05udHJZSVh2VTBNYlNjRGJxVTFLWGo1OVdhcmJZZFpmcnJIeUNDSHQ4QkNwZ1paZFk1SjctNVVWUUZmbDBRUmdUTXUzV0FUcGNzOFNjM080OFFYaVVqcHRMUDBuRGIyVllaV1l1cTA?oc=5",
-        "publisher": "Il Sole 24 ORE",
-        "published": "2026-11-01T14:10:49.000Z"
-      },
-      {
-        "title": "Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnFHM2dZUTJhZmduUmVZVXlxWmQ3dzFlWjZDaWJ0Rm9kZlY5Q2dkRmsxR0E0aC1tSTBOcjlXZkRfRWE3VkJ6dDVPa3g4RF80Z1V6UzRWR0ZaQXVIcVNTemI0MVptbWYxbVZiUzRkQUwyWk1Tc2l6U0ZqOWxxMTJOM0hjSzVQTTBjd3NVSllkVmdpUFlCQlJqaUxkTGItdEVJb0Vrd0RVekpxM2ZQYnRhTXVkblhpMkk?oc=5",
-        "publisher": "NBC News",
-        "published": "2026-11-01T12:07:43.000Z"
       }
     ]
   },
   "france-unrest-2026": {
-    "at": "2026-11-01T19:13:01.090Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "1r2sy12",
+    "hash": "1s71121",
     "tags": [],
     "headlines": []
   },
@@ -156,23 +221,23 @@
     "headlines": []
   },
   "us-midterms-2026": {
-    "at": "2026-11-01T19:13:01.090Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "wbn8r5",
+    "hash": "7yox0w",
     "tags": [],
     "headlines": []
   },
   "brazil-runoff-2026": {
-    "at": "2026-11-01T19:13:01.090Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "1ybbn6",
+    "hash": "pabrlo",
     "tags": [],
     "headlines": []
   },
   "apec-shenzhen-2026": {
-    "at": "2026-11-01T19:13:01.090Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "s2n7f",
+    "hash": "1p9ksdy",
     "tags": [],
     "headlines": []
   },
@@ -191,11 +256,44 @@
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-11-01T18:13:00.599Z",
+    "at": "2026-11-02T01:13:27.438Z",
     "by": "pipeline",
-    "hash": "zon6gw",
-    "tags": [],
-    "headlines": []
+    "hash": "1ev4cwl",
+    "tags": [
+      {
+        "point": "LEVANT_AIRSPACE",
+        "effect": "closure",
+        "likelihood": 0.2,
+        "delayDays": [
+          1,
+          3
+        ],
+        "costPct": [
+          5,
+          15
+        ],
+        "why": "Israel's coalition talks start 4 Nov amid a deadlocked result, and on 1 Nov i24NEWS reported growing fears of renewed Iran strikes after a Netanyahu-Trump call; fresh strikes would likely close Israeli airspace and divert air freight.",
+        "action": "Ask your air forwarder for a contingency routing that avoids Israeli, Lebanese and Jordanian airspace, and hold 3 days of buffer stock for time-critical Israel-bound cargo.",
+        "sources": [
+          0,
+          1
+        ]
+      }
+    ],
+    "headlines": [
+      {
+        "title": "Netanyahu, Trump hold private phone call as fears of renewed Iran strikes grow, i24NEWS learns",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZkZGMl9xMkJ6M18zTUNlbGM2ZzJyN3ZwYUZjLTN0MVpvREhyaGVES0ctbVZhb1pSQ0tidHk3WVYyaTR5WERZdldsbkZQMGxTYVBhVlFOZUJpOHQzQ0tvdERvaUwwWU9yMHlESlVtb2VkemkwbTNidjhOck5Yb1ROd28zV20tSUhlQmZaZ1h4cl94M0NrUFpnbjFSNUwwNDRGOElPdWpJbms1S0Z4Ym5LQUptUWJmZTk1SFdldDJKX3cxdGIxNTRuMmRieUhhQ3BhZGg4Yng4SmwtR1JUUGc?oc=5",
+        "publisher": "i24NEWS",
+        "published": "2026-11-01T23:13:28.000Z"
+      },
+      {
+        "title": "The Arab World Is Watching: Could Netanyahu Expand the Iran War Before Forming a Government?",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb2ctSXgzRXJwT3ZOVTNDcVo1bG82S2lBZ3ppQk8wOG82cEN3cVByNUhVSTJvdGV2OEJkbXR5a1pfWDY3ODVnbUxTOEo3MTExbWpVYUpyUjZPVG8tbEROSUNtRFRueWYzSEk0ZUNFTWRVNkFiU21xNkNPWXBxdHJRWW1ObV9SRlM4ZXluLVV0MVlNQnM1OVQxSGtUZ3FxcTB1c1NvQUVtSEsyUzM3T2pMNDZVbERNdEpTcUdCNHRfOFJWYnc?oc=5",
+        "publisher": "Middle East Forum",
+        "published": "2026-11-01T20:32:31.000Z"
+      }
+    ]
   },
   "opec-plus-november-output-hold": {
     "at": "2026-11-01T18:13:00.599Z",
@@ -586,6 +684,13 @@
     "at": "2026-11-01T21:13:11.091Z",
     "by": "pipeline",
     "hash": "1uso5wd",
+    "tags": [],
+    "headlines": []
+  },
+  "minurso-mission-ends-western-sahara-2026": {
+    "at": "2026-11-02T01:13:27.438Z",
+    "by": "pipeline",
+    "hash": "1sgima5",
     "tags": [],
     "headlines": []
   }
