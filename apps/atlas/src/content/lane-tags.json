@@ -429,24 +429,24 @@
     ]
   },
   "spain-strike-and-snap-election": {
-    "at": "2026-11-02T04:13:36.502Z",
+    "at": "2026-11-02T12:13:56.992Z",
     "by": "pipeline",
-    "hash": "1dnjv84",
+    "hash": "11t8tx0",
     "tags": [
       {
         "point": "VALENCIA",
         "effect": "delay",
-        "likelihood": 0.3,
+        "likelihood": 0.25,
         "delayDays": [
           1,
-          2
+          3
         ],
         "costPct": [
           0,
           3
         ],
-        "why": "A general strike is set for 2026-11-11 over housing and wages, and coverage expects broad transport disruption, so terminal gate and stevedore work at Valencia could be hit for about a day.",
-        "action": "Ask your forwarder to move container pickups and deliveries at Valencia out of 10-12 November, and hold 2 days of buffer stock for cargo due that week.",
+        "why": "A Spain-wide general strike over housing and wages is reported for around 2026-11-11, and if dockworkers, customs staff or truck drivers join or pickets form at the port, gate and vessel handling at Valencia could slow for a day or more.",
+        "action": "Ask your forwarder to move container pick-ups and deliveries away from 10-12 November, and add 3 days of buffer stock for cargo due to clear Valencia that week.",
         "sources": [
           0,
           1,
@@ -456,22 +456,22 @@
     ],
     "headlines": [
       {
+        "title": "How your holiday could be affected by Spain's mass walkout",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmtWOWxtOGJkREFneVFIbkJQVTNOcTNiVHFXS2tLUVg0RWw0M0p5ZXE2bTJISGJqa21sczhEdmNLcGtmNVVjZUN5Q2UtQlhXOTV5V3Y4WmdqUHA2X0xtV1Q1MExyUVFheVpGb05TX0tWQ19rUFV5N3NGZUplT0tvaXJUbVV5ZU0wMkRQY3Z0Sm41Y19WdEVqWDRn?oc=5",
+        "publisher": "The Independent",
+        "published": "2026-11-02T11:55:00.000Z"
+      },
+      {
+        "title": "What Spain’s general strike will mean for flights and holidays",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbWl4My0tYkdXLUpyNUpZMEg5UUJlaDZCR3JmU3pIaGRGNUp2MGUyZ0FPcXd0ajRsdTBTc3ZEOVpvUE5nRFhrREVna1o5d0ZBYTN1VWdra0IwODRseEh4NVZCR3djZ0VrTXNFN3hHbi0yOWNUNE55QkxxZ0lxZ1NSb0swWUctS3I4eER3QXBxRl9YT1VWWHJTVXNBc0xsbUtvMkZTMA?oc=5",
+        "publisher": "The Independent",
+        "published": "2026-11-02T10:42:00.000Z"
+      },
+      {
         "title": "Spain General Strike Nov 11: Flights, Trains & Airport Disruption",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQWoyTDZDMlF4U1NZbHdpR0FkdWY5c2ZPM2RTdmo1RUdZUHNYM1NFWVc5VU1sMU1kbVNDSEhnaXdRN1JjTklUTHpsZzVORXM5RlpZd0hOSW5Ubi1YNW9td2dIczJpYkJuMnZ6VjhDdHRJb2FaMmN0SFgwd3pha25iZWdGUTRORm8xcnloeE1odEx6Qk43TnNJSnNmaVFEQmxheHFOQUhBZGM3WlRJc09aVXJRajVYVks1dEY3OF9WVmRTcWU0ek9CSzZTUGF1d0dpRS1DWm5rSkc3dFFoQmxXd0tR?oc=5",
         "publisher": "Travel Tourister",
         "published": "2026-10-31T12:27:44.000Z"
-      },
-      {
-        "title": "Spain November general strike will cause flight cancellations and transport delays",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMDBUZDhsT0RwTzdKeVNtY3YyQTR1bVp5ckIxRFNzaEFVcXN5NzFqZWo0RGh4Z0xLZE84N2JIZTZlTmo0OExFbzNlajRRcGM1cFJkVm9rUXRxYjFwbHpFN1pHSVpKNjk1bVNRcVJLdi0zZG1halhHVFdqUlNQd0FDNjcxa2hrQzcyXzBkMFIzajU4SG9URXl5bTEyNG1hYzc5T0pLNlZ6Q042eWJob1hkLW5NV2MxcjVzMGVXako4bDJuS2k0VmdJWGhIZUVuWHRQU2JrU2NNTVd4ZWFlUWRuU0NPM0Y4NEVJ0gHoAUFVX3lxTFBTRUp5dE1EdlBUZHQ4Rmg2XzZUWE1XTDFrSXloMkhheVd4eFBrTUY2Q1ktVnZEbU5HejBVX3lObFVMSlBrU1FCeTlkN0FFbkQ5bXItTG8wallSYVNnaEp1Ym9GUDZBdEpRNk1XQWRUX2FCaEI3ZE40Z2lTYzZTN1c4czM3SjYyY01CZEtVdGprY0k5WEd5RXNYaFoyc3FDTEhvWE5pcUtCblhfSHNFd1dVaVF5SVpkQzJnbFBsWWZfbmNiblpYTFVkaVlxeXBKZGFOOGhqOTFjRDNCVlBJNHhTeGMwUHlWR1E?oc=5",
-        "publisher": "Majorca Daily Bulletin",
-        "published": "2026-10-31T11:40:39.000Z"
-      },
-      {
-        "title": "General strike of November 11: who is calling it, how long it lasts, and what the reasons are",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2l4a2h6V256X05qbkw1S0xwZldJQ0RCOVBwRFI0RFNqSXBRbDdVRFdGMm9EVXFzaW5DbGF2WmtaakRHM2VOZ1VKbXN3VGJFYTVXZ0ZHYXFFcnBRX2NWWTNqNFBiUkJlemxaMnlNRGJ5Q1l1emFVOU1XLVJ2bkRKLTVwZVlNTmZ4UWRPak5YYzNyTnROdzl3VUdpWkNMTThhSG5ESEctWFI1Rms5RlpYamFsOEprNzl3NnNKcklxcmNuSHB1UG9rd2dGSXlqZHPSAdQBQVVfeXFMTXQzUjBsX1B2aU9IUE51UFdUcmJfLThILUgzdUxOSnlqbnVITkZUMUNGZlpKT2ZwVDNneTRpQWZReUN3VFZCSXpMWHFJZEhsdmxDWDFUTlZhQ2xWSjQ2Y1NaYmxha3Q2V3VkcG91VGNJMlB3QVFMelBaYUtKLV9jRmNKVXk5X0pWaHRYd0VWU1h6ZzhLT3F3c0Z0eVdqbzQ5cXllTVlOQXBDLXRvWkhhc2ZzU2tTdnlfMnUxU3RXUUtka09NdG9FZGMzRGY0TUpZZGxiWFE?oc=5",
-        "publisher": "Demócrata",
-        "published": "2026-10-31T09:11:02.000Z"
       }
     ]
   },
@@ -532,16 +532,16 @@
     "headlines": []
   },
   "india-us-trade-deal-2026": {
-    "at": "2026-11-02T02:13:26.097Z",
+    "at": "2026-11-02T12:13:56.992Z",
     "by": "pipeline",
-    "hash": "1asex87",
+    "hash": "1mvoply",
     "tags": [],
     "headlines": []
   },
   "north-korea-missile-tests-2026": {
-    "at": "2026-11-02T06:13:37.777Z",
+    "at": "2026-11-02T12:13:56.992Z",
     "by": "pipeline",
-    "hash": "1htwk26",
+    "hash": "2p3hj5",
     "tags": [],
     "headlines": []
   },
@@ -630,9 +630,9 @@
     "headlines": []
   },
   "china-q3-growth": {
-    "at": "2026-11-02T04:13:36.502Z",
+    "at": "2026-11-02T12:13:56.992Z",
     "by": "pipeline",
-    "hash": "zeculv",
+    "hash": "q2vbeh",
     "tags": [],
     "headlines": []
   },
@@ -698,9 +698,9 @@
     "headlines": []
   },
   "uk-budget-defense-ukraine-2026": {
-    "at": "2026-11-02T02:45:36.570Z",
+    "at": "2026-11-02T12:13:56.992Z",
     "by": "pipeline",
-    "hash": "z6xcmn",
+    "hash": "bvrkwd",
     "tags": [],
     "headlines": []
   },
