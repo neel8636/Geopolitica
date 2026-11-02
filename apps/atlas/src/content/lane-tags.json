@@ -119,9 +119,9 @@
     "headlines": []
   },
   "france-election-2027": {
-    "at": "2026-11-02T06:13:37.777Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "1a1ozxe",
+    "hash": "yqttej",
     "tags": [],
     "headlines": []
   },
@@ -187,83 +187,76 @@
     "headlines": []
   },
   "israel-election-2026": {
-    "at": "2026-11-02T08:13:47.592Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "1qaa7q5",
+    "hash": "efqov7",
     "tags": [],
     "headlines": []
   },
   "opec-plus-november-output-hold": {
-    "at": "2026-11-02T08:13:47.592Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "2zztm6",
+    "hash": "sd5y5e",
     "tags": [
       {
         "point": "HORMUZ",
         "effect": "security",
-        "likelihood": 0.92,
+        "likelihood": 0.9,
         "delayDays": [
-          3,
-          10
+          1,
+          5
         ],
         "costPct": [
-          15,
+          10,
           40
         ],
-        "why": "Gulf exports through Hormuz are running at 60-80% of normal, Bloomberg reported attacks continuing on 2026-11-02, and Upstream cites rising Gulf shipping threats, so ships face delays, war-risk premiums and diversions even with US-Iran talks under way.",
-        "action": "Ask your forwarder for the current war-risk surcharge and a sailing-by-sailing transit status for Hormuz cargo, and add at least 10 days of buffer stock for Gulf-origin or Gulf-bound shipments.",
+        "why": "Gulf exports through Hormuz are running at 60-80% of normal, and on 2026-11-02 Iran's Navy reported a tanker hit a naval mine east of the strait while Iran claimed mine strikes stopped two other tankers, so transits face ongoing delay and war-risk costs.",
+        "action": "Ask your forwarder for current war-risk surcharges and transit status on Hormuz-bound cargo, and add 5 days of buffer stock or move time-critical cargo to alternative routings.",
         "sources": [
           0,
           1,
-          3,
           2
         ]
       },
       {
         "point": "JEBELALI",
         "effect": "delay",
-        "likelihood": 0.7,
+        "likelihood": 0.6,
         "delayDays": [
-          3,
-          7
+          2,
+          6
         ],
         "costPct": [
-          10,
-          30
+          5,
+          20
         ],
-        "why": "Jebel Ali sits inside the Gulf behind Hormuz, where exports are at 60-80% of normal and attacks continued as of 2026-11-02, so freight calling there faces delays, war-risk surcharges and possible rerouting.",
-        "action": "Ask your forwarder to quote an alternative routing for Gulf cargo, such as discharge at an Oman or east-coast UAE port with trucking, and compare it with the Jebel Ali rate and transit time before booking.",
+        "why": "Jebel Ali lies inside the Gulf behind Hormuz, where exports are at 60-80% of normal and mine incidents were reported on 2026-11-02, so vessel calls and schedules are likely to slip or carry surcharges.",
+        "action": "Ask your carrier for confirmed vessel schedules and any emergency surcharges for Jebel Ali, and arrange overland or alternative-port contingencies via Oman for urgent cargo.",
         "sources": [
           0,
           1,
-          3
+          2
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Oil retreats as diplomacy raises hopes for Hormuz reopening",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSkFhT2h0dERCdVAwODdGSGpWUlBrX2JaV2gxMUFIZkxVMTFRWndPdlpQS3pLLWZ4MDAzQlZGNEJuWGxLOEJ5c2FlNk5uTmxsQ2NFWW9LYnViR09zV00yNzFxdnNPTkVQX0F6aE1DbFZYY3phNVpNS2hiSUo4UFBESzdFaHdkZWxOdnJMM3huREZpVGc5Tk9Wc2RsMDc0VVpaUUtz?oc=5",
-        "publisher": "Arabian Gulf Business Insight | AGBI",
-        "published": "2026-11-02T07:11:30.000Z"
+        "title": "Oil tanker catches fire after hitting naval mine east of Strait of Hormuz, says Iranian Navy",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMk9abTd1ajFtSUlLU2NQOXFWYTJKaC1XZnpIUmlGUFhCQ0FWWUw1UDVnY2NoeGJwbzdCbWp6YUd1dWlRcTk0blBvbHprRGx4Q3EtLUZHWjJlN3NrTWdrWXdaeDZDRlFULS1Nc2o0SWd2ckdCU2hrb3BkMEJqbFdkR3h3VElPUlEwV29UaW1za1dmMVlhU2czS084cUpJaDNWNUh0LV9jSDZuUlRrSGJ5SFAzR1lnbHppZFYyODR0NmwzcWRETGxhNy03ZGs1aWJKZWNTeEszT0FFSUE?oc=5",
+        "publisher": "Anadolu Ajansı",
+        "published": "2026-11-02T13:43:14.000Z"
       },
       {
-        "title": "Oil Declines Ahead of Midterm Elections Despite Hormuz Attacks",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemlrUnpqR1g0OFFfbnJHTUktSE94dmx1MUQxbFpseThLLWNLaFVmdUp1ZFBHMjloZDFSR1Z2aDFVRHU0bmN4aE1vMGJRR1c4UldXMW9iWDY4clhNODVZVV9OQ0VvelF0Y2pKWlo2T0o3OWVCRTlGeU9fVXNiNEZfNTF5cnU0Rk5yX1htSDd6UW9oSDBNdU93NXNmV08?oc=5",
-        "publisher": "Bloomberg",
-        "published": "2026-11-02T05:10:00.000Z"
+        "title": "Strait of Hormuz escalation: Iran claims mine strikes stop 2 violating oil tankers",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Nei11eE5oMll3djR2dy15TC1MRHJMQ0xjNlVvR0pBbzR0Zm5kd0NKaFhFNTNxVmw3eHFoLXp1RmU1SmlVazFEbzRPYmd2SlpwREUyRlBNSDk1c3BkRkxpTVhtb1k1UlFzTFVWc2J2WlptSlE?oc=5",
+        "publisher": "The Avenue Mail",
+        "published": "2026-11-02T12:04:50.000Z"
       },
       {
-        "title": "Crude oil futures fall as diplomatic efforts to end Iran-US war continue",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLUQ5RWRmMHJjUEJnRkxPTi12VGZGcDJnZXlpSG1hSTFlVDgwUmktVkVBZXowU05KS2t0MmVPMG1KUEpPVHlFVmR4Q3AwU0FTSzIycXI2TWNEeGpLdlFTcjczT0xPQkFyRzQtS3FQSlA4T0dqMU0zRzhvYXBySmRVOTNyZEZqM1FyeS16SzVtUjAxMzFXdms3MzNfT19JYk9YaENxUC1zNzJ4ZDNoanJxSTFFdGZfY2s5ZlVCTHRQQVUwZ19JWktsWUZYSUY5S1JjamNxY3ZUVzVqblpLMUh3QTZqQdIB6gFBVV95cUxQUF9wU2d0SmRDbzd0bk9sOHRwZW4xeElFaDlDSF9TMmI1cFN0WmlQZkl5SVRsa2h0MHRCcE1OVnNIVThFU1kwaTU0VVdXQnQ1cG4wdjNnMXB3TVZSMVBiLXVRQlctbHlFaVVhUG9UZmlXckR3VjVvRU9GQ3BvYTlReXhIQlNLVGxNdDdjb3gyX2RWbURyTzExUWZSOHQtNWRPcDVDSXUzdjNNd0pNV0ZsREx2U0J5YmQzSkNfUGtaa2NrQ0tOQlk0YTd2VjdpQlBfUXZ0Sy1jYkt6SXB0R0gzMDFxZ1lPTlV3WUE?oc=5",
-        "publisher": "BusinessLine",
-        "published": "2026-11-02T04:30:26.000Z"
-      },
-      {
-        "title": "Opec+ holds December oil output steady amid rising Gulf shipping threats",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZklfYm4wb0VBS2tuS1Q3M05mRXJXT19zRExabC10b3kzQTd3eVVYOWlVaUZZNmdXUlVUaUhuUDQwMUlNMkwxZmlUai1PT1cxY3ptTmppQUNNT1YwQzN4YUtsalJrZmF3VlZlakIyQjQxd1M1X1l3WV9tRnFnTEtKekNrYmY3ZmFTSWNHWk0waXdIUkZkd1ZIZUpPRlQtNWRPSTZtZkJwZVN0Z3cwSnAyY0JyX1J2Qlh1bTdndjJRTFU?oc=5",
-        "publisher": "Upstream Online",
-        "published": "2026-11-02T03:54:00.000Z"
+        "title": "Crude Oil Market Analysis: OPEC+ Steady Output, Iran War Disrupts Supply",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGVFaXd0d0l0VUhkS1pTWl9CaFZmaGhEN20ydU9RcXg0T3A5eUh0dG9YbXhNaTBlNGNUUE9oRWNsS2xnN0FUTV8yV3pPdkR1ak5LWG95amFqSFljVGhrRkdxM3FQVDA1TjUzWTBid0pCMjJPUEt4ZjF6UlJXazRtcm81VkxNV2t3QTEwbHpoOA?oc=5",
+        "publisher": "CMB News",
+        "published": "2026-11-02T07:55:59.000Z"
       }
     ]
   },
@@ -458,9 +451,9 @@
     "headlines": []
   },
   "boj-october-decision-2026": {
-    "at": "2026-11-02T08:13:47.592Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "wuucd",
+    "hash": "i9jgmo",
     "tags": [],
     "headlines": []
   },
@@ -493,16 +486,16 @@
     "headlines": []
   },
   "serbia-student-election-2026": {
-    "at": "2026-11-02T08:13:47.592Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "18y66nj",
+    "hash": "nxtr47",
     "tags": [],
     "headlines": []
   },
   "ebola-drc-nigeria-kenya-2026": {
-    "at": "2026-11-02T08:13:47.592Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "nross7",
+    "hash": "17hki03",
     "tags": [],
     "headlines": []
   },
@@ -638,9 +631,9 @@
     "headlines": []
   },
   "fed-holds-rates-inflation-2026": {
-    "at": "2026-11-02T06:13:37.777Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "ybso2a",
+    "hash": "t7m9jx",
     "tags": [],
     "headlines": []
   },
@@ -652,9 +645,9 @@
     "headlines": []
   },
   "poland-constitutional-court-standoff-2026": {
-    "at": "2026-11-01T21:13:11.091Z",
+    "at": "2026-11-02T14:14:07.746Z",
     "by": "pipeline",
-    "hash": "1uso5wd",
+    "hash": "1xjjyh2",
     "tags": [],
     "headlines": []
   },
