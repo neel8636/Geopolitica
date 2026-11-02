@@ -2009,31 +2009,21 @@
     ]
   },
   "portugal-housing-protests": {
-    "at": "2026-11-02T09:13:47.797Z",
+    "at": "2026-11-02T21:14:51.427Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "thousands-rally-against-proposed-rental-law",
-        "title": "Thousands rally against proposed rental law",
+        "id": "police-clear-new-lisbon-housing-protest-camp",
+        "title": "Police clear new Lisbon housing protest camp",
         "when": "2026-11-01",
         "place": "Lisbon",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "Thousands of people rallied in Portugal against a proposed rental law, keeping housing costs at the centre of the protest movement.",
-        "via": "anger over rental rules",
+        "what": "Police cleared a new housing protest camp in Lisbon after thousands rallied, with violence reported as officers moved in.",
+        "via": "protester anger at police",
         "aspect": "politics",
-        "flow": "into",
+        "flow": "both",
         "sources": [
-          {
-            "title": "Thousands Protest Proposed Rental Law in Portugal",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3FSNk9vOHJTbzFJdXp2V3hKcTVUb3JRRm5KenFPTDZvTTNyNDJRVzRfZmE4LXBsQW1tUzZ3RnI3NGxUeVlUUWtGVE9ob0tUMmVIZnBOYWRLS2IyZ19oLVllUWZJR1lkMEk1N0NrLTNkV2U2U2EzdTBfMjRLcGpIekh0NGtvd28?oc=5",
-            "publisher": "BGNES"
-          },
-          {
-            "title": "Police Clear Lisbon Housing Protest Camp as Rental Bill Fight Escalates",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZBSGV6OUZOS2paWkYwSzA0X3k1enpSZ3NDVWxTcjBEeGRSMU9qb1hiZFhuRWxiaElVWUp6YUxqTFAwSVdmZFU4T0dDSWlfSG5iendCcE1VU0lRUnl4ZmVBY0dHR3RMeTRqWGVoeTd3QkZMOFQxdWVIcTlUbVpScF9DTDU0Q0tmd0R3a1cwcVg4aDN2WFVacVJvU2lXTlJSV0hham5fTlpTU2tNeXc?oc=5",
-            "publisher": "Around Prague"
-          },
           {
             "title": "Police clear new Lisbon housing protest camp after thousands rally",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cd21tRUpWLWhRcFA1WUNyVVVhTjV0ZmRqTmExdEdTa0ZHV1RDTGFTeThlSW41RTZ0UG9VOFpyNm5lY01CSnBDd2x5TTZxcGFwbGxOMVNCWkIyM3FSOV83ZHNLVHVDbGFZ?oc=5",
@@ -2043,21 +2033,41 @@
             "title": "Police clear Lisbon protest camp after thousands rally over housing",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjJIa1kzRzRpcG1GNFBSdXlPY0xmV1huR3QzSXRxQ1pVQ0IyV2l5Q0xxdFIycS1RQ1RKX0VhMjBBVFFPNW9zRzRsWG1IVVZPLVFoOEZrbmlnTXpXeTdwa2dzdktVa3J5djdQcnZUQTQwTjQ2R0hyaXFEdFROTnk5dUFjalpTUGN2bjYzY202SHRXNk5WakFnMVR1eTZCU0dCOTV5Rg?oc=5",
             "publisher": "Daily Times"
+          },
+          {
+            "title": "Violence in Lisbon as police move in to clear housing protest camp",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclVEV3dUMXdDMjNSOFhrY1BNbXJHM3hhUFZqZlA2ZXVFOFBYQmdWcDVNMTVBazZYM0V1OFI2d0Zrdy1CTUFBMnZsOUdwR1A1bUpzZXdUZjFveWw4S2dsUEUtR01qUS1PbzZBQU9nME9nZmtGdmRiVDFTai1sbEpKRlJUMzg4RE9mbEtSUnJ3c2VnNXNJLVFaVE9BSDBFR2FFLVhfcF9GYWZTaHM?oc=5",
+            "publisher": "The Independent"
           }
         ]
       },
       {
-        "id": "police-clear-housing-protest-camps-after-clashes",
-        "title": "Police clear housing protest camps after clashes",
+        "id": "camp-raids-in-lisbon-and-porto-lead-to-arrests",
+        "title": "Camp raids in Lisbon and Porto lead to arrests",
         "when": "2026-11-01",
         "place": "Lisbon and Porto",
         "lat": 38.72,
         "lon": -9.14,
-        "what": "Police cleared housing protest camps in Lisbon and Porto after clashes in which at least 13 people were arrested and dozens injured.",
-        "via": "protester anger at police action",
+        "what": "Police evacuated housing protest camps in Lisbon and Porto, arresting 13 people, with dozens reported injured in clashes.",
+        "via": "street confrontation, wider mobilisation",
         "aspect": "security",
         "flow": "both",
         "sources": [
+          {
+            "title": "Police raids on housing protest camps in Lisbon and Porto leave more than 30 demonstrators injured",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFh4RjNGMTJDdnF6MXhtWlRNR082d1RrVVYyX1BpbXUyLXBtbmMxSG94V0ZkcWU3UU9EZjNRSjI1ZlJRT2VhZDdoNE15NV9ib1lqeHRtRTZEQjVWQXRlTGhnM2o0cTl1emtGTVlkZXVYZllubjhqd1FTZUNJTmZCYkh6cw?oc=5",
+            "publisher": "Latin Times"
+          },
+          {
+            "title": "Police Storm Housing Protest Camps In Lisbon And Porto, Arresting 13: what 4 outlets left out",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ3I0RXROMEVRMXF2X3J6RzRRUVZoZVZTQVVOZWRVRmxCUG13TE44eUJBdGlheG1JUDJSR2FGeTNNVHhpS0RMSTQyU2g2VjJtZm5ycWJqaE5va0FrNjhVSzlFRUNpVlV6SWE4eXRKTHlURGJyZlh5dnV6ZjFpQzZYZnRJeHBheldQQnVKV3BrYmIwTlpHTUhuQmZ5UXZBZnpBeG8yQnZ6Y1h3aUEwZk9lSXZ2UzRydExIeWpXV243bUdMNVMxSmgwM0VrZnAzejQySkgxb212eHI?oc=5",
+            "publisher": "NewsCord"
+          },
+          {
+            "title": "Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXNsWlQ1THZ3UUp4S2ZjSGd3T0xZRkRTVC1PU2ZrTUc0SVpHOUFUQkdqb0RJUnpZQjhMWnRKdWNYRWhrZk5oVjNtbzI1M1ppRVdpcU9FLTdTMGRGeUdLSEZ0SW9lZDNNTVZJdHlNeUFfbll1UFprR3hwV01qM1QybzkxS21TSmo2TnJfNGdlUWN1dzdCSjVN0gGXAUFVX3lxTE5fMWZHOFlKZXhMcDhFSHJneUNoWlZWVjVtVW5Ed2dkeWp6NjdpYi1HMV9EaFMxOGJVemk4QmFyZUg5bzNDdDVjdkhSNkNJZjZYRVlfVE4yd3dXc2NIY2U5WUpDeDI4U2RmWl93UXZ4Wk96dGVJUVN3eWNwemQ3MFFXYjhiRENPZVZlVmxOdjNfRXc4Z2RhVzA?oc=5",
+            "publisher": "DW.com"
+          },
           {
             "title": "Portuguese police clash with housing protesters, with at least 13 arrested and dozens injured",
             "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbFAxRHdJSXNHckZhTEFfTGVjckxuLUZmR2pHRnRaNTZ2ZzY2cFBsbXllaVZJdU1vdFh2WER6SU5YbS1pMks5YXlTSWlBOVI2QUVQLXNGYVhGdjByNS1XQU5sVEZ5aFgxUDJ5NFNWVHhwNG9EWC00QUNkSExKNnNEOTVtdjZXZFJvcDlVLWplMGRJQjVuQmJWVlk0a09JRHJNMmR2aE0xZHBqTm1iQTdIc2hwZVljY0Jua3JXdE5Ya0UzUTZqTTNmQVpFSGstUTN0YWpEZXJUOU4zZUQyNExTSWJIdXo2UGx0SWNYMGxn?oc=5",
@@ -2069,9 +2079,9 @@
             "publisher": "Gulf Times"
           },
           {
-            "title": "Police Clear Housing Protest Camps in Lisbon and Porto After Clashes",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1JCck1pSEN4M2MyaDNuQ1l0WTZ5b3FDZkt2ZE9Nd19BLWM3SXNSMTZxN3l5Njh4SHJ3Y1dNVEFsV0xhUzluekM4RUZiZVkxeUp3OWNpQWZqUFpxQ3MzeFJRUDlCaWpjd1p6cEoxMVktWEs4MURUUjZqOERmdnROOUR4MENkUnM1ekR0TmhnUkFNSHJnSkdOMlRfQQ?oc=5",
-            "publisher": "SSBCrack"
+            "title": "Portuguese police clash with housing protesters, arrest 13",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGFjbHdaQTY2QnljTmtPVTc2cTh1TGY4cW54VlYxdld6UlZLbTZ6T3FuRmRQWjBQNTNjdEVyT2s3MktfLVd1blI0T1F6NUFuZDRKeDZEMVZGZVp5d24wcTVsc0Q5a3BsWktfd3h1MlNSMTdJd3Z1cDVaSUR3SkNJcnNha1U?oc=5",
+            "publisher": "Punch Newspapers"
           },
           {
             "title": "Portuguese police evacuated protest camps in Lisbon and Porto following demonstrations against rising housing costs",
@@ -2079,34 +2089,52 @@
             "publisher": "Informat.ro"
           },
           {
-            "title": "Clashes broke out in Portugal as police stormed housing protest camps in Lisbon and Porto",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXNsWlQ1THZ3UUp4S2ZjSGd3T0xZRkRTVC1PU2ZrTUc0SVpHOUFUQkdqb0RJUnpZQjhMWnRKdWNYRWhrZk5oVjNtbzI1M1ppRVdpcU9FLTdTMGRGeUdLSEZ0SW9lZDNNTVZJdHlNeUFfbll1UFprR3hwV01qM1QybzkxS21TSmo2TnJfNGdlUWN1dzdCSjVN0gGXAUFVX3lxTE5fMWZHOFlKZXhMcDhFSHJneUNoWlZWVjVtVW5Ed2dkeWp6NjdpYi1HMV9EaFMxOGJVemk4QmFyZUg5bzNDdDVjdkhSNkNJZjZYRVlfVE4yd3dXc2NIY2U5WUpDeDI4U2RmWl93UXZ4Wk96dGVJUVN3eWNwemQ3MFFXYjhiRENPZVZlVmxOdjNfRXc4Z2RhVzA?oc=5",
-            "publisher": "DW.com"
-          },
-          {
-            "title": "LIVE : Police dismantle housing protest camps in Portugal after clashes in Lisbon",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVWY2TXFzU2xuSkJDZzRCTzlsMWl0ZjNkSGdqRXdpRWhKeUZTXzhic1l3N1FQcG05WkxXR0djeWl6LWlBX0lTRmFRa2lUV2FUU1JmNWVzUFF5eFZMYWF4NHFQenZsQ2x0X2NSSWlta1hxcEN4eVpld2NoZ1FOeFgwdE9YU2k5dTFYbFozNlVmdEFMbmRXWUJmbER4dlBkR0dkQ3c?oc=5",
-            "publisher": "Latest news from Azerbaijan"
-          },
-          {
             "title": "Portuguese police arrest 13, dozens injured in housing protest",
             "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3o4MVljLVBXdTdKWW84dm1NQVpkTk9lWGxBTUJYTmJzNnU3OU94ZzB0c3FiYkJ2cGRJeXZXNzE2WDJZdzFfRkZDVWJIWm5rTTlDUHpxSFRLRGtWVEw5blBwZWVpamdnb1dQRjdnOTJ0VHNDM1ZvNHh0b3ZDbHNLUXRPUWZnUzh5ckpzam9xMElzdnEwUkxZQQ?oc=5",
             "publisher": "Head Topics"
+          }
+        ]
+      },
+      {
+        "id": "rental-bill-dispute-escalates-in-lisbon",
+        "title": "Rental bill dispute escalates in Lisbon",
+        "when": "2026-11-01",
+        "place": "Lisbon",
+        "lat": 38.72,
+        "lon": -9.14,
+        "what": "A fight over a rental bill escalated as police cleared the Lisbon housing protest camp.",
+        "via": "rent policy dispute",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Police Clear Lisbon Housing Protest Camp as Rental Bill Fight Escalates",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzZBSGV6OUZOS2paWkYwSzA0X3k1enpSZ3NDVWxTcjBEeGRSMU9qb1hiZFhuRWxiaElVWUp6YUxqTFAwSVdmZFU4T0dDSWlfSG5iendCcE1VU0lRUnl4ZmVBY0dHR3RMeTRqWGVoeTd3QkZMOFQxdWVIcTlUbVpScF9DTDU0Q0tmd0R3a1cwcVg4aDN2WFVacVJvU2lXTlJSV0hham5fTlpTU2tNeXc?oc=5",
+            "publisher": "Around Prague"
+          }
+        ]
+      },
+      {
+        "id": "protests-against-rising-housing-costs",
+        "title": "Protests against rising housing costs",
+        "when": "ongoing",
+        "place": "Portugal",
+        "lat": 38.72,
+        "lon": -9.14,
+        "what": "Demonstrations against rising housing costs continue in Lisbon and Porto, with protesters camping in public spaces.",
+        "via": "household housing cost pressure",
+        "aspect": "living",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Portuguese police evacuated protest camps in Lisbon and Porto following demonstrations against rising housing costs",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUVk4X1k5ZWplb2t5QUxxdnlWM0dTOXMwUkJqQjhjSTJyZ05kVTNzeHZHRGxTSjNKZHBhcTZwTmpLNUl4WUtia0YxdVZiYVBZVGVrNXRxLTFLTUpZY2xNTHBSVHBqdWJLb1RSUW9VcW1Qa2Z0TmRBX2Fib09xZWtBMjlHNm1XaUR0WG4zNkRZZjRrVjBiRW9EaQ?oc=5",
+            "publisher": "Informat.ro"
           },
           {
-            "title": "Violence in Lisbon as police move in to clear housing protest camp",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNclVEV3dUMXdDMjNSOFhrY1BNbXJHM3hhUFZqZlA2ZXVFOFBYQmdWcDVNMTVBazZYM0V1OFI2d0Zrdy1CTUFBMnZsOUdwR1A1bUpzZXdUZjFveWw4S2dsUEUtR01qUS1PbzZBQU9nME9nZmtGdmRiVDFTai1sbEpKRlJUMzg4RE9mbEtSUnJ3c2VnNXNJLVFaVE9BSDBFR2FFLVhfcF9GYWZTaHM?oc=5",
-            "publisher": "The Independent"
-          },
-          {
-            "title": "Portuguese police clash with housing protesters, arrest 13",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnFBbHhrdU1jSnhubEU2Mi04WTNHREc1elhRSVNoRUVLdDZfQ2xsV2NhdVBEVVRMa1FUc3NOLXBJXzhTaUpWY05SOTVicGNKb1A1QWtlWE1rdDJGQ3dseWxlSVVzZkhZT2RSQXBzd1ZxWmVaWlFWZ085a0pyUjE2YUtxNTBTSFR1bjNPdUltdUhKUzgxM0RrYTNXRERJREp5?oc=5",
-            "publisher": "The Straits Times"
-          },
-          {
-            "title": "Police disperse protest camps in Portugal as they oppose rising housing costs",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZHZ3SHNBNDdWd1J0WWttdTFBb1Z2SFJ1cXlrRlZkN0FhdEJSdkpDVWloYmlrQWRTUlFjbGZFNnoxYlduYllpZ1JxMHI5MGRaTEc3T2xqRFBCMExEVlRpQ0VtNjNYZkllMkZFclRsOURQZEtGQy1XbWRRTVRDc3RXeGo4eGRubXRpdGEyT1NTalROTENUblZsa0NuRDF5dXlGYUF5d1pZNnQxY3NjejNaRDJPSTlIdTgxcVFoUlNYRGt4V1dSMEU4VEtiZlBsUQ?oc=5",
-            "publisher": "Gazeta Sot"
+            "title": "Portugal’s Housing Revolt: Tents by Day, Police by Night — and a Trust Warning Lisbon Cannot Ignore",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWNkaEhZUnVEdTdCV0d6VmM1Rmt3aUdERHFHV0ltY2dSYnZhaUpaX3FNb2ZCMFJ6cjNqc0E4bVRvRmNMWHRackNqTVNhc05DUVVJTHJFZmFoMDQyemhUZ1AyeG14MHZqd09GQmlVbGFKRkZBdUFDT2x0MjktYlhkQ1N1aE0ybkh6MkF0V212Y09fcm0w0gGTAUFVX3lxTE95S1BDaElNQTNmVXhuTUQ2UXlJcGRYYVVBNUVJWHZHRzhJNjByR1FDTkdhdXBEZjNGdHVvY3A5Vi1iRGdVd1RaaTJuRWRZSm9mQnJkWkdkZHZydk1hU3JqLWIyZGg3QjNVNndDSnlXZjdtQWJmZHRnc3kxRFpEdXJ3ekdHWVNEYk00RVNUbkZYNTFncw?oc=5",
+            "publisher": "Modern Ghana"
           }
         ]
       }
