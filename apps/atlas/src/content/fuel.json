@@ -1826,24 +1826,43 @@
     ]
   },
   "belgium-cost-of-living-clashes": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-02T02:13:26.097Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "protest-wave-spreads-across-a-dozen-european-countries",
-        "title": "Protest wave spreads across a dozen European countries",
+        "id": "french-youth-protests-enter-third-week",
+        "title": "French youth protests enter third week",
         "when": "ongoing",
-        "place": "Europe-wide, centred on Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "Protests led largely by Gen Z have spread across about a dozen European countries, with young people saying nobody listened to them.",
-        "via": "youth protest momentum",
+        "place": "France",
+        "lat": 48.86,
+        "lon": 2.35,
+        "what": "Youth-led protests in France entered their third week, with 70,000 police deployed, and the unrest has spread to other European countries.",
+        "via": "protest contagion from France",
         "aspect": "politics",
         "flow": "into",
         "sources": [
           {
+            "title": "France deploys 70,000 police as youth-led protests enter 3rd week, spread across Europe",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdk00ei1vRXJ5bkRIVEptd2lmVGR5XzZ5eFlPX1RIT0FYWjMzNlNOTEZLN05sV3hhMWx3cDJyR05lSjdVZ0JUTEVCS1NONFN5RUdlYVlDcGJKTkMxcGowY3F4bFE4ZExKUVVFYm4zUWNiUTV6RXJDZmJEME1xQzVVYlNPYXFic3lqMEhnQWtET2VCZmdIVF9CZEVHcmE4cjlFZU1RRVMwNjNnWXZjNU9sTkVtR1dyc0pqX1lHNVlOSmw0YlpuWjBZYk4xTTl6WW9INmpRSkQ1d28tVVRwQ1HSAd4BQVVfeXFMUHZNNHotb0VyeW5ESFRKbXdpZlRkeV82eXhZT19USE9BWFozMzZTTkxGSzdObFd4YTFsd3AyckdOZUo3VWdCVExFQktTTjRTeUVHZWFZQ3BiSk5DMXBqMGNxeGxROGRMSlFVRWJuM1FjYlE1ekVyQ2ZiRDBNcUM1VWJTT2FxYnN5ajBIZ0FrRE9lQmZnSFRfQmRFR3JhOHI5RWVNUUVTMDYzZ1l2YzVPbE5FbUdXcnNKal9ZRzVZTkpsNGJablowWWJOMU05ellvSDZqUUpENXdvLVVUcENR?oc=5",
+            "publisher": "National Herald"
+          }
+        ]
+      },
+      {
+        "id": "gen-z-protest-wave-across-a-dozen-countries",
+        "title": "Gen Z protest wave across a dozen countries",
+        "when": "ongoing",
+        "place": "Europe",
+        "lat": 50,
+        "lon": 10,
+        "what": "Protests led by young people have spread across about a dozen European countries, driven by a feeling that nobody heard them.",
+        "via": "youth anger and copycat protests",
+        "aspect": "security",
+        "flow": "into",
+        "sources": [
+          {
             "title": "Wave of protests sweeps across dozen European countries",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXdjSzFXN0hyLTRaV3o5bHdFX3gxNzJwaVpGMEFIUk53TnF2MEE2bjBHTkpFcENCZlM0RndIMHZkcXhtX1dyU0JTVS14a3lOV2VFd1VULUFVYURNOEdZbEt3UEMwc05IUHJMcTczOWNMSDZBMWVtTUt1UF8tdzBObzRwTTM4R1lyaTNCV0dFQmpaQ3lJczBUQnQ0MkkyQVhnVmRSUi1UbWZObG1scjFJT3Z3?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmNGci1ZU2hCUDYwMFI0N1Z6bGF1clBiRlNLb1NwbHJqUXJERjB6dmVsRlc4bFVOZWFhZVNhQUljMV9nNzNZbnF0Y1FBOTRsR3VOblFUS3ZKZkEtNUprbjNuWXp2LUd1c3RpNEF4MmJkMzBiY3dUOEZvZlBhLXNmX2RWb3ZkSEs0UTloM09ScDFodlV3THh4azJqdGltRFdYV0F0aWtWN2lNOTk5Qi05aUZHa3RBOHh6eFRiTlN3?oc=5",
             "publisher": "Belga Share"
           },
           {
@@ -2701,80 +2720,37 @@
     "items": []
   },
   "italy-election-2027": {
-    "at": "2026-11-01T13:12:43.819Z",
+    "at": "2026-11-02T02:13:26.097Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "opposition-to-hold-primaries-by-february",
-        "title": "Opposition to hold primaries by February",
-        "when": "2026-10-30",
-        "place": "Rome",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "Italy's anti-Meloni opposition plans to hold primaries by February to pick a joint candidate, shaping the field before the 2027 vote.",
-        "via": "united opposition candidate",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Italy’s Anti-Meloni Opposition to Hold Primaries by February",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWFnMGJ3STl6ZE1OYm05dkVDUEZMM0xycjdkLVlSQzBxci1YLUg4dXJMYVFpV1dwbFNMekhqX18yVWxzS09qM0toLWdrOE1HRmlEcktRTHVCT210eFRONWtXVjhJSHhROURXZ2dXR0tjUG0xX1hsb3otVDNtQ0dLaS10MGhMbEpGdU5LdTZmQm0xZm85d0tseDk5eDIyNmoxTnAwZVN6aUJBeVNHSXZieQ?oc=5",
-            "publisher": "Bloomberg.com"
-          },
-          {
-            "title": "Italian opposition unites against Meloni ᐉ News from Fakti.bg - World",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUVOVnV1a0IydThfakJ2SUp0WjBMaDMyNGFBd1gxTmY5QU1Fa1k4dUxEWkxKc0hEVGx4ZDVSWWp6cmZSQjdNWFFhWmJ2WW9LN0dac3FTdGZHY0taYkZBekdoaHBWakx1Tm9KODltMWw4VkZMMUFxRjlDeDJNXzI1SHA1Y3lJcHVXZ0tJ?oc=5",
-            "publisher": "Fakti.bg"
-          }
-        ]
-      },
-      {
-        "id": "meloni-government-s-26-billion-euro-budget",
-        "title": "Meloni government's 26 billion euro budget",
-        "when": "2026-10-30",
-        "place": "Rome",
-        "lat": 41.9,
-        "lon": 12.5,
-        "what": "The government presented a 26 billion euro budget with tax cuts and family benefits, a pitch to voters ahead of the election.",
-        "via": "tax cuts for voters",
-        "aspect": "budget",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Meloni Government’s €26 Billion Budget: Tax Cuts and Family Benefits",
-            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3paWng5YzNNTGJ2VmQxb1dUNnZYbHREcWdaYVJhREJfZjRwV0wza0VHWElSSlZzQ3l5a1JZX2hPcE52a29VdkVGcUdDWUxEZTZlN3F1WDhlUHZrMUJSTEJEZTdwbS1VRG9YLUIzZENJUTJlYUE1OFBIbkNGd1o5SGFpTzhIZlFIenBwStIBkgFBVV95cUxNMVB1TVlSSUF2VEZib2NKLTdmYXdRT0FrTFNmaWgwaVF1Q0NHX2FLaklHaFpqbmcxUEFmdHRrLWN5aVB4N29DdVVnTnFjaGNic20xUVNtWmFGR09idnJNVXNYTUJuWXlBMlItUFREMTg2eTBHVFBQcndnRmNuUXFOTjhUQUxoZDdXb0ZkbVBxcVBKdw?oc=5",
-            "publisher": "Italia Report USA"
-          }
-        ]
-      },
-      {
-        "id": "nationwide-protests-as-troops-are-deployed",
-        "title": "Nationwide protests as troops are deployed",
-        "when": "2026-10-31",
-        "place": "Italy",
-        "lat": 42.5,
-        "lon": 12.6,
-        "what": "Protests spread across Italy as Meloni deploys troops, adding public unrest to the pre-election climate.",
-        "via": "street anger at government",
-        "aspect": "security",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
-            "publisher": "Cirebon Times"
-          }
-        ]
-      },
-      {
-        "id": "meloni-becomes-longest-serving-postwar-premier",
-        "title": "Meloni becomes longest-serving postwar premier",
+        "id": "meloni-proposes-exit-tax-on-wealthy",
+        "title": "Meloni proposes exit tax on wealthy",
         "when": "2026-11-01",
         "place": "Rome",
         "lat": 41.9,
         "lon": 12.5,
-        "what": "Meloni's government became the longest-serving in postwar Italy, giving her a record of stability to run on.",
-        "via": "incumbent stability record",
+        "what": "Meloni's government is targeting Italy's wealthy with an exit tax, a fiscal move that shapes the economic argument heading into the 2027 vote.",
+        "via": "tax policy as campaign issue",
+        "aspect": "budget",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Giorgia Meloni targets Italy’s wealthy with ‘exit tax’",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlVvRnBfcFFWSmNkNzhRNUNFZEhqVXdTQ1hDWXVCYXQ0RnNfN0U0UFhSZDJTc0hhYTJWY2Npcm5ZQUFiZFd5YkJyVEpsRW1HTGl0X1RqZzFDd3NIZTYyUTBzZThYWUo1QU1SUVlmcEpUd21NV3JKWmFyUHI5NXN1STZuLXFHUllsLWRNbVlTMm1YYmtjUWJn?oc=5",
+            "publisher": "The Telegraph"
+          }
+        ]
+      },
+      {
+        "id": "meloni-government-becomes-longest-serving-postwar",
+        "title": "Meloni government becomes longest-serving postwar",
+        "when": "2026-11-01",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Meloni's government has become the longest-serving in postwar Italy, giving her a record of stability to run on.",
+        "via": "incumbent stability",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -2784,22 +2760,79 @@
             "publisher": "DW.com"
           }
         ]
+      },
+      {
+        "id": "street-protests-against-meloni-meet-police-response",
+        "title": "Street protests against Meloni meet police response",
+        "when": "2026-10-31",
+        "place": "Italy",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Protesters demonstrated against Meloni and, according to teleSUR, were met with a police crackdown, raising political tension before the election.",
+        "via": "anti-government protest energy",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Italian Police Lash Out at Millions Protesting Against Meloni",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjB4LXFULUlVNUtaRXdOTnZjRENfQkNSRVVPZE85ZGpOVDJsOFZDcWcwTUE3bVR1S3lkVTA0SlNsNXlsaXQtZ25Bd1BCNmZUVmxSVk1ja2FaV0hFYWV5Tk1nbF9LSXpKNDY2QzRNSGJrVVZacTVSbnJzb21haVdWNXh5NnhHdEVJTU04TkRiYkcwTlRYYWZJLQ?oc=5",
+            "publisher": "teleSUR English"
+          }
+        ]
+      },
+      {
+        "id": "italian-opposition-parties-unite-against-meloni",
+        "title": "Italian opposition parties unite against Meloni",
+        "when": "2026-10-31",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Italy's opposition is reported to be uniting against Meloni, which could create a more coordinated challenge to her coalition.",
+        "via": "opposition coordination",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Italian opposition unites against Meloni ᐉ News from Fakti.bg - World",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUVOVnV1a0IydThfakJ2SUp0WjBMaDMyNGFBd1gxTmY5QU1Fa1k4dUxEWkxKc0hEVGx4ZDVSWWp6cmZSQjdNWFFhWmJ2WW9LN0dac3FTdGZHY0taYkZBekdoaHBWakx1Tm9KODltMWw4VkZMMUFxRjlDeDJNXzI1SHA1Y3lJcHVXZ0tJ?oc=5",
+            "publisher": "Fakti.bg"
+          }
+        ]
+      },
+      {
+        "id": "azione-sets-red-lines-on-forza-italia",
+        "title": "Azione sets red lines on Forza Italia",
+        "when": "2026-10-31",
+        "place": "Rome",
+        "lat": 41.9,
+        "lon": 12.5,
+        "what": "Azione has set out its red lines regarding Forza Italia, shaping which centrist and centre-right alliances are possible before the vote.",
+        "via": "coalition bargaining positions",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Azione’s red lines regarding Forza Italia",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdzVoYUlQYXJZaXAxd1pFc2ZaQzRRNkR0bkE4MS1ld2VSM0FRaVBybWZwYkk5eGdYdkM0N0QxVTVsUnZhVksxMjFNZW52eWl2WDktZ08zdG5IdFpqeXY0YWdrSzhWVm1OWmRKaUxaTjI1SGZ5LThTN3hWNWVtNFlSNWQ1THMxT1R6X2pNN21zWENQUEtVVXIzUXlpdk50cktwakE?oc=5",
+            "publisher": "Il Foglio"
+          }
+        ]
       }
     ]
   },
   "eu-budget-2028-2034": {
-    "at": "2026-11-01T13:12:43.819Z",
+    "at": "2026-11-02T02:13:26.097Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "pressure-to-raise-defence-spending-in-budget",
-        "title": "Pressure to raise defence spending in budget",
+        "id": "defence-spending-pressure-on-the-next-budget",
+        "title": "Defence spending pressure on the next budget",
         "when": "2026-10-31",
         "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "The EU is under pressure to increase defence spending in the 2028-2034 budget, which pushes up the total that leaders must agree.",
-        "via": "competing spending demands",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "The EU faces pressure to raise defence spending in the 2028-2034 budget, adding a competing claim on common funds.",
+        "via": "competing defence funding demands",
         "aspect": "security",
         "flow": "into",
         "sources": [
@@ -2815,9 +2848,9 @@
         "title": "Parliament rapporteurs agree Horizon Europe successor",
         "when": "2026-10-30",
         "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe, setting a Parliament position on one spending strand of the 2028-2034 budget.",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "European Parliament rapporteurs reached agreement on the successor to Horizon Europe, setting a Parliament position on research funding within the 2028-2034 budget.",
         "via": "Parliament position on research",
         "aspect": "budget",
         "flow": "into",
@@ -2830,14 +2863,33 @@
         ]
       },
       {
-        "id": "fees-on-cheap-shein-and-temu-parcels",
-        "title": "Fees on cheap Shein and Temu parcels",
+        "id": "protest-over-proposed-30-percent-agoraeu-cut",
+        "title": "Protest over proposed 30 percent AgoraEU cut",
         "when": "2026-10-30",
         "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "A document seen by Reuters shows EU fees on cheap parcels from Shein and Temu could raise 6 billion euros, a possible source of budget revenue.",
-        "via": "possible new EU revenue",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "A protest in Brussels targeted a proposed 30 per cent cut to AgoraEU funding in the 2028-2034 budget.",
+        "via": "culture sector pushback on cuts",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "MFF 2028–2034: A 30 per cent cut to AgoraEU? The protest in Brussels",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZjAwUFMtVkxwaDV5OVhLNmlSWE0zcnoxdkZyeTZZeElmLUdSSzZWMGpyZFpQNEJNRm50bXMtSVZLTk5rODVRd3dZOHRsR2JmZ3BjcTNnYmpSRTMxTHNudl9xNWI2ZlZ2aW1nMEcwMEIxeElfS0Y0ZTJySkFBdXFCZEl6blNXOHFxNVhNR2N3eDNoZkNGQmxIRUdGckxRc1hQWFQ1NDl3X0dtYWtnbHpz?oc=5",
+            "publisher": "FASI.eu"
+          }
+        ]
+      },
+      {
+        "id": "levies-on-shein-and-temu-parcels-eyed",
+        "title": "Levies on Shein and Temu parcels eyed",
+        "when": "2026-10-30",
+        "place": "Brussels",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "A document shows EU fees on cheap parcels from Shein and Temu could raise 6 billion euros for the EU budget.",
+        "via": "new own-resource revenue",
         "aspect": "trade",
         "flow": "into",
         "sources": [
@@ -2845,18 +2897,23 @@
             "title": "EXCLUSIVE: EU fees that hit cheap Shein, Temu parcels could raise €6 billion, document shows",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2Q1NnkxWE1pQUYzVHYxTW4yNURDb3paTTRGdG1xRXJxc0lGNUlkZ2czNFFiOVIzT3M4dUMySW5UbzY3V3VJbTBISnZQT3V5a1NJYlBLWDZ1aXhneFkwaE5jWmxFSE12MlRxMGZETy1qZGRJSXBHQXJsbm93TnBxNUNPTTkwVE95MTQ1S0oxUGoySkFFdHJNMjB5ZThWZnEzc2VreUlEY2FQaEtTc19jdmdEZ3ZDNkFSSTVOZDQwY3ZEZEs3N0NwUDBYVmhIT25V?oc=5",
             "publisher": "Reuters"
+          },
+          {
+            "title": "EXCLUSIVE-EU levies that hit Shein, Temu could add €6 billion to EU budget, document shows",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYk41SkR2UW5USlYtaWJhUllXdEt0NzlMMENXVkpjSU1sQTFuS0xOWTBBbHZLVUVldmpBU1ZYbHFPSGt4cnRnRHIwRno0eTl1SzUzaUlTVWlHeXkzM1FiM0JSM1JIX2xDZ1dkeXRvSXgyaUs5OGFvQjUtcExnbDVKUHp4aUVqRTN5U29kejllQUxudS1GbjY3dFNLR1l0UUxnOGplWk5fYWxFSVUzN1kxb1lnY1J6NmlRcjRrZjQyaG1qTjRjazZUX0djdzlteGtaX0tzLXRXNXV0eUdEcEI00gHkAUFVX3lxTE8wU3ZOTk1nVXIwV0x0Tl8yc3dTSGgzMkNQa0pSb0U2SktENEd1WmtpejFHUGMxMTluaGwwbGhYeGdvN3V0aThSTEM2bUpfYVJFa0xPYWRrY2ZFdU9KbVl3cWRPZHA1U2wtRWlLeFBzWUFJMFNmR0w4Umk4dlNzYk9YVFNSYTBpemh4d0xpUHNvRHV0QklIYlJQWXIyT0lvVGdxdm8zalRKQV8tcGRNTngzVVhWQUozT3V5TDVrSlViSlNXWEJRWVFfVzJHeXNKSFRpMl96ZS1aTUN1UW4yRnpBTmxvMw?oc=5",
+            "publisher": "Devdiscourse"
           }
         ]
       },
       {
-        "id": "51-5-billion-euro-proposed-for-ten-t",
-        "title": "51.5 billion euro proposed for TEN-T",
+        "id": "eu-proposes-51-5-billion-euro-for-ten-t",
+        "title": "EU proposes 51.5 billion euro for TEN-T",
         "when": "2026-10-30",
         "place": "Brussels",
-        "lat": 50.85,
-        "lon": 4.35,
-        "what": "The EU proposed 51.5 billion euros for the TEN-T transport network, adding a large investment line to the budget talks.",
-        "via": "transport investment demand",
+        "lat": 50.84,
+        "lon": 4.38,
+        "what": "The EU proposed 51.5 billion euros for the TEN-T transport network, a major infrastructure line in the next budget.",
+        "via": "infrastructure spending demands",
         "aspect": "budget",
         "flow": "into",
         "sources": [
@@ -2864,30 +2921,6 @@
             "title": "EU proposes 51.5 billion euro for TEN-T",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjdOUDBTNjNzQ0RPbGpWZWF4Vng4alVncmdnX1c5U1J1czRsdWl4QmEyU2ZUSmtFaU1jTGE0M043QV9kSW8xdTlybUp3WTMtcHlQZXU5U2ZxSURtS2xFV0g2UEtnMzBCNW9DRTUyRW05akV6Wk0xc3huUHEyNmZrYWpVVEQ3Qk9pM1Y3RlZWWDNOMUZnbTFZRXFVVlhsSHFmMHJkYmNOY2ZENjB6S0E?oc=5",
             "publisher": "Trans.INFO"
-          }
-        ]
-      },
-      {
-        "id": "bulgaria-discusses-eu-budget-revenue-with-serafin",
-        "title": "Bulgaria discusses EU budget revenue with Serafin",
-        "when": "2026-10-29",
-        "place": "Sofia",
-        "lat": 42.7,
-        "lon": 23.32,
-        "what": "Bulgarian leaders held talks in Sofia with Serafin on EU budget revenue for 2028-2034, showing a national government position before the negotiations.",
-        "via": "national government position",
-        "aspect": "politics",
-        "flow": "into",
-        "sources": [
-          {
-            "title": "Prime minister Radev held talks with Serafin on EU budget",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkZ6bGlsS1dHcEJOancxZEJJdFRtdm11SXBhbWprZjM1UVlUM3FGWTNiRlBsTXJhbUwwYmVURERtWUw3VWZFaml6NlJCYkRrdWl3NXI2c2E1WlJCM2lubWgxT0hkNzRUMkg1OW5odnEzTG9oTzdvVVJ1LUgyemdNcEpCaUM5cjJKbldVdXlCS2VST3gwbmV3azdWUFNjVjhZYWZVSVJSa0nSAagBQVVfeXFMUFpGemxpbEtXR3BCTmp3MWRCSXRUbXZtdUlwYW1qa2YzNVFZVDNxRlkzYkZQbE1yYW1MMGJlVEREbVlMN1VmRWppejZSQmJEa3VpdzVyNnNhNVpSQjNpbm1oMU9IZDc0VDJINTluaHZxM0xvaE83b1VSdS1IMnpnTXBKQmlDOXIySm5XVXV5QktlUk94MG5ld2s3VlBTY1Y4WWFmVUlSUmtJ?oc=5",
-            "publisher": "BurgasMedia"
-          },
-          {
-            "title": "Donev and Serafin discuss EU budget revenue for 2028-2034 in Sofia (updated)",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVC1NOURfVWNtWlZnUm5wdi1SZExiaHU2ZlpqVnNkZ2cyNzZmc2hfX1R2Z0daM1dwR3RMSEF5dnBCNHRObTMzTVA5RUpLRzVrazEyZTVXZUZmeV9vUkNLSFhVVlFNQWxFNWNMUU9nZ0xGeUk4aFNBaVRXOTRma2FNNHRmM2VYZ2tIY004bE5UdGx2b21Td3h5UDc3dW5LYThJV2FZQUkwRXBWUTNmUnU1cGNpSVh5MzJ20gG4AUFVX3lxTE9ULU05RF9VY21aVmdSbnB2LVJkTGJodTZmWmpWc2RnZzI3NmZzaF9fVHZnR1ozV3BHdExIQXl2cEI0dE5tMzNNUDlFSktHNWtrMTJlNVdlRmZ5X29SQ0tIWFVWUU1BbEU1Y0xRT2dnTEZ5SThoU0FpVFc5NGZrYU00dGYzZVhna0hjTThsTlR0bHZvbVN3eHlQNzd1bkthOElXYVlBSTBFcFZRM2ZSdTVwY2lJWHkzMnY?oc=5",
-            "publisher": "BurgasMedia"
           }
         ]
       }
@@ -3273,18 +3306,18 @@
     ]
   },
   "rubio-cia-cuba-appeal-2026": {
-    "at": "2026-11-01T13:12:43.819Z",
+    "at": "2026-11-02T02:13:26.097Z",
     "by": "pipeline",
     "items": [
       {
         "id": "trump-tasks-rubio-with-ending-cuban-regime",
         "title": "Trump tasks Rubio with ending Cuban regime",
         "when": "2026-10-31",
-        "place": "Washington, D.C.",
+        "place": "Washington, DC",
         "lat": 38.9,
         "lon": -77.04,
-        "what": "Voz reports that President Trump has given Secretary of State Rubio the job of ending the Cuban regime, which sets the policy backdrop for his appeal to Cubans.",
-        "via": "presidential backing for regime change",
+        "what": "Trump reportedly gave Secretary of State Rubio the job of ending the Cuban regime, making regime change an explicit assignment behind his public appeal to Cubans.",
+        "via": "presidential mandate for regime change",
         "aspect": "politics",
         "flow": "into",
         "sources": [
@@ -3292,6 +3325,25 @@
             "title": "Trump Tasks Rubio With Ending the Cuban Regime - VOZ",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnd3cldHTjBYN2J5RmpRNnhka0hJTjdaWUY4dmFDU1lDQ1dYNDNmM3F5d3BuelJURUhVLWtFX0NXb1paUkgtNVlWNGhGM2JURkdVUFdWVG94eElVRV9iQTdoTFVmYVc1SlB3Vi1uRmlIR0NES1JuTHpRbGtQeWplelBDd1YwYWk2Smk0MGs3RDJlanJtck82cGhzaXJ1dkctSm1oWHR0ajJGejRjMEs0dlNVZk11Ynd4THQ3RXJqVTMzQmk5SjlEb1dheWJTVkE?oc=5",
             "publisher": "voz.us"
+          }
+        ]
+      },
+      {
+        "id": "trump-predicts-cuban-power-change-within-2-5-years",
+        "title": "Trump predicts Cuban power change within 2.5 years",
+        "when": "2026-11-01",
+        "place": "Washington, DC",
+        "lat": 38.9,
+        "lon": -77.04,
+        "what": "President Trump said he expects a change of power in Cuba within two and a half years, setting a public expectation that Rubio's appeal serves.",
+        "via": "presidential timeline and expectations",
+        "aspect": "politics",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "President Trump predicts change of power in Cuba within 2.5 years — The Rio Times",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnI1N0gwZGhReE1EXzlmRHloZjEtcEtTZTJiUDN6UkVIcGZCVXFaa25ZZlNuY1lSaVV3Nm9hQVdMcXpnN0hXTVdRS09WWTk2MUlHZkhkbHR1T1Fxc2ZqVlUzd0hLUFJyUllnOWFsbUg5RzFJNldrWVJsanBnTDhZeXNwOGk0WDBtLTZ2aVFfRUl3S1VpVnVCVEZnSWhkZFQ5?oc=5",
+            "publisher": "UA.NEWS"
           }
         ]
       }
@@ -3488,17 +3540,17 @@
     ]
   },
   "machado-returns-venezuela-2026": {
-    "at": "2026-11-01T12:12:45.651Z",
+    "at": "2026-11-02T02:13:26.097Z",
     "by": "pipeline",
     "items": [
       {
-        "id": "machado-credits-trump-and-rubio-for-her-return",
-        "title": "Machado credits Trump and Rubio for her return",
+        "id": "us-pressure-and-actions-on-caracas",
+        "title": "US pressure and actions on Caracas",
         "when": "2026-10-30",
-        "place": "Venezuela",
+        "place": "Caracas",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Machado thanked Donald Trump and Marco Rubio for their actions in Venezuela, saying Trump opened a 'floodgate to freedom', which signals strong US backing for her comeback.",
+        "what": "Machado thanked Donald Trump and Marco Rubio for their actions in Venezuela, and said Trump opened a 'floodgate to freedom' that cleared the way for her return.",
         "via": "US political backing",
         "aspect": "politics",
         "flow": "into",
@@ -3512,54 +3564,63 @@
             "title": "María Corina Machado thanks Donald Trump and Marco Rubio for their actions in Venezuela - video",
             "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUzZwQ0ZzaC1xVzkyTlZvV0hpUGk0bkhMRWR6eTIyamx3WENUTXVSaHZOOWdPN0Q4OUN1bWVGOGxITm82OWVRVnlfWk5HdnByTHk5NDVNVjRIakhBUWZvelAxOXJQNUlYbHhReDJqVTNqLXFnVEFMNEJMNjBpYlVVZlNNejZ0WkJ0VWZsdVNQTmxiUFJER1N4ckd1VThUVFlDeWtsSV9yTkVNaWQyc2N0SndPYmVDQ3R2RHRFZGVIWkl5TlEtQVlvcVR4cXkxWTJiUEN6UFphTU1Ib3FMQkE?oc=5",
             "publisher": "The Guardian"
-          },
-          {
-            "title": "Venezuela’s Machado praises Trump, urges 2027 elections",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGtScTlOcU9yeHZQSk5MY0FOTE9GVWFXby03bDU5TWFrQW8tLWZTUjZXR3RkVEk4YWV0UG1pZURvNGZ6Mk80X2V2YWwyZWRaQmotMEJXTXBBVjRJamhSUFBSa2MwZWlPUWtHNEQ4Vno3Ul9Bb1NXSmJyWlY4YWN5T0NUTDBiMzdjWFZaY0gzaDRjODQ?oc=5",
-            "publisher": "Minute Mirror"
           }
         ]
       },
       {
-        "id": "machado-calls-for-2027-presidential-elections",
-        "title": "Machado calls for 2027 presidential elections",
+        "id": "delcy-rodri-guez-promises-elections-will-be-held",
+        "title": "Delcy Rodríguez promises elections will be held",
         "when": "2026-10-30",
-        "place": "Venezuela",
+        "place": "Caracas",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "After landing, Machado urged elections in 2027, including in a televised address, which sets the timetable debate for the interim government's transition.",
-        "via": "election timetable pressure",
+        "what": "Interim leader Delcy Rodríguez assured that 'there will be elections', a public commitment that sits alongside Machado's return and her call for a 2027 vote.",
+        "via": "interim government election pledge",
         "aspect": "politics",
-        "flow": "both",
+        "flow": "into",
         "sources": [
           {
-            "title": "Back after nearly 10 months: on TV, Maria Machado pushes Venezuela towards a 2027 election | watch | Videos",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ3paTDNKWnFHdWFjN2hieGU1amZFM2N0M0pJNG5xcUhuTXMzbHQ4S1NOVV9heUNSdXlGTnJDOEF6UEpfcEI5aXRpX0NQb0ZZV201SmpOdUMxTkp1OEEtUG5ZUThrd0dBbG85VDhCZ1RVdTJLRktsZXVqX2xVVUdwb1ktZ1p3S0ZrNU5uZjY3TWFlZDg1ZWZoMVhJMHAtVFhyRFhLTS1rNEctcVFENEZNZGp6RFYtZEUwbEJydTA4UUF2VmlxNDlWLTRMUmVOa3pZNm1jSlYyamE1MVNKZ3p0Sm15N2dSaW9h0gHuAUFVX3lxTFBMWWR4XzQ1NnJJVnR0R25lUWl5R01NbV9aQnEtb1hYcHBhdEpkSTFxbUw2V0stZ3RlWnZ5LTVPOEI0VE1DbkRsXzQzQ042MWdINVNnbUVQTXFhSVotTDgtWFR1aGFfTXlFNUExSzN2UTVEeV9UM2FUckU5bzBoMUFoZFM3VnJ1M3ZIWWNwcE02QjdfN0Z0UGNqdnFfeUhleFpIS1FJYXVKbnNRcHhkME1UNXBMaWxESU1RX2pwdTZxSFd4OXVzMnVaTXU2YWdBa3BQT0FxVnBuUEV6cmFlTnNLRVo2R0JUMWFaSXlXQ1E?oc=5",
-            "publisher": "Hindustan Times"
-          },
-          {
-            "title": "Maria Corina Machado calls for 2027 elections following return to Venezuela",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXpvZk1KU0VsWGF3dDJNcUxiWWI3TFVTblRDSGZNYTh2NkxKVS05ZXB2eGJrVVJRM0VtdjB4M2FRSXZPUXdSWGNSZ2VvQTdWVnJ5Z05NdzZKdzlsVzVYZGRtUERKOFlLdng1RUszQnR1SjZmLUZ5WFBkeUlPZmFoQzNKRW9OZnZzLU5tSFJmbXNOZUJlM0RVck1oUVFTcXo2NS00NEVDWkN6c1pqRldfRW1ydDBNZFg1b0ItSUJ6SmVmcVpBQ29RaHVmUQ?oc=5",
-            "publisher": "Latin America Reports"
-          },
-          {
-            "title": "Venezuela’s Machado praises Trump, urges 2027 elections",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGtScTlOcU9yeHZQSk5MY0FOTE9GVWFXby03bDU5TWFrQW8tLWZTUjZXR3RkVEk4YWV0UG1pZURvNGZ6Mk80X2V2YWwyZWRaQmotMEJXTXBBVjRJamhSUFBSa2MwZWlPUWtHNEQ4Vno3Ul9Bb1NXSmJyWlY4YWN5T0NUTDBiMzdjWFZaY0gzaDRjODQ?oc=5",
-            "publisher": "Minute Mirror"
+            "title": "María Corina Machado bets on elections in Venezuela for 2027 and Delcy Rodríguez assures that \"there will be elections\"",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BNENHa3pRWFRiZVhLWTByQ2pFTTF4c0lWLTAtWUZTNkN3TlNETkRlekNZT0F5bDVCWHc5R3djelA3Yy0wVjR4VmdYYm9xdGFxRENtRHc2al90QUl1SmY2bkd4Ti1TSjVnVGswZXNlUnduS3hyeDlXVFVlZXVFMUE?oc=5",
+            "publisher": "El Mundo America"
           }
         ]
       },
       {
-        "id": "young-venezuelans-rally-for-machado-and-stay",
-        "title": "Young Venezuelans rally for Machado and stay",
+        "id": "us-oil-deals-shape-washington-s-venezuela-approach",
+        "title": "US oil deals shape Washington's Venezuela approach",
         "when": "2026-10-30",
         "place": "Venezuela",
         "lat": 10.48,
         "lon": -66.9,
-        "what": "Young Venezuelans at a Machado rally said they hold on to hope and do not want to leave the country.",
-        "via": "renewed hope, less emigration",
+        "what": "US oil deals with Caracas are at the center of Trump's Venezuela strategy, with critics asking whether Washington is looting the country and urging a focus on elections.",
+        "via": "US oil interests",
+        "aspect": "energy",
+        "flow": "into",
+        "sources": [
+          {
+            "title": "Trump’s Venezuela Strategy Needs More Than Oil Deals",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdDh3aVV6bkVnUFpWN3dvclA1emIxOTZlbU9OcFJSVnJQWXRkSUFsVjRucXRKWDFSTzhGbWR0aFlRMmtPYXFJYVdrNENTdDE3TDJuZm85ckJzOTI2WFdkZnJjS3FvSi1OWGk0bkJYVnp4cmtkaXYzN1A5S1hUNGROX1B3RGg4OGx5M0JMaFNJXzhFQmJzM2g2TEZIUzNGZE5iZTZ4WFlUbHRlZw?oc=5",
+            "publisher": "Bloomberg.com"
+          },
+          {
+            "title": "Is the US looting Venezuela?",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHgxVXpTYzVoN1N0aFRlRXNtMFVhSFE4eWFiQ3ZGd29EckF6Y2prY0dTX2xWMnlWc243Y204TGZ0NGI3S29ibkU5YUJmeWc4RTFSUmFlakM4T1EwSzA2U3RkOHhVbDd4ZVVBa2IybWVGR0ttSlNpV29feEZfQWh0am1sXzV3N2s2YjhrYkkwUDNDOTVGbGdZd3JUaFNuZWM?oc=5",
+            "publisher": "DW.com"
+          }
+        ]
+      },
+      {
+        "id": "young-venezuelans-rally-behind-machado",
+        "title": "Young Venezuelans rally behind Machado",
+        "when": "2026-10-30",
+        "place": "Caracas",
+        "lat": 10.48,
+        "lon": -66.9,
+        "what": "Young Venezuelans at a Machado rally said they want to stay in the country and hold on to hope, showing a base of support for her return.",
+        "via": "youth support and hope",
         "aspect": "displacement",
-        "flow": "both",
+        "flow": "into",
         "sources": [
           {
             "title": "“I Don’t Want to Leave”: Young Venezuelans at María Corina Machado rally hold on to hope",

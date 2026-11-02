@@ -2908,6 +2908,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-02T02:13:26.097Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 5 new uncovered headlines"
+    },
+    {
       "at": "2026-11-02T01:13:27.438Z",
       "screened": 103,
       "accepted": [
@@ -4494,135 +4503,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-31T11:11:25.466Z",
-      "screened": 140,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "Rival US and Russian Western Sahara resolutions fail at UN",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "US and Japan agree to set up joint missile production facility in Japan",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Standoff over control of Poland's top court",
-          "reason": "A domestic institutional dispute with no clear cross-border channel yet.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UN political mission in Somalia closes",
-          "reason": "The headline is a forward-looking explainer with no specific decision or clear effect outside Somalia.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Lebanon charges 13 over Hezbollah explosives",
-          "reason": "A domestic criminal case with no stated effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "G20 family photo cancelled over Russian minister",
-          "reason": "A symbolic protocol dispute that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Oleshky evacuation and Kherson lull",
-          "reason": "A local humanitarian evacuation under a limited ceasefire, with no cross-border channel.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Novaya Gazeta closes under Kremlin pressure",
-          "reason": "A domestic media crackdown with no clear cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UN nature summit deal",
-          "reason": "The agreement leaves financing unresolved and has no concrete state action or flows yet.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Tech stock selloff",
-          "reason": "Company and market news with no state or policy angle.",
-          "headlines": 9,
-          "publishers": 3
-        },
-        {
-          "title": "Spain high-speed rail disaster",
-          "reason": "An accident with no effect abroad.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "EU chief outlines Canada partnership in Montreal",
-          "reason": "A statement of vision, with no decision or date.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Post Office suspends sending goods to EU",
-          "reason": "A company operational decision with no clear policy trigger in the headline.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Egypt military aid decision and press crackdown",
-          "reason": "The headline carries a senator's commentary and gives no clear decision.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Euro zone Q3 growth slows to 0.4% as France contracts",
-          "reason": "Part of the existing ECB and French stress story.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "North Korea suspected in record Binance hack",
-          "reason": "Same hack and attribution already on the map.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "Streeting defends UK defence spending",
-          "reason": "Part of the UK defence spending debate already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Trump campaign trail exchange",
-          "reason": "Midterm campaign coverage already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
