@@ -2852,6 +2852,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-02T09:13:47.797Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-11-02T08:13:47.592Z",
       "screened": 0,
       "accepted": [],
@@ -4438,143 +4447,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 7 new uncovered headlines"
-    },
-    {
-      "at": "2026-10-31T17:11:52.868Z",
-      "screened": 129,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Evacuees from Russian-occupied Oleshky reach Ukraine via Belarus",
-          "reason": "A small humanitarian evacuation and human-interest reunions, with no decision that changes state behaviour or flows at scale.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "Syria considering joining Mecca defence pact",
-          "reason": "Only a minister saying Syria is considering joining; no decision or date.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Turkey nominates Sinirlioglu for UN Secretary-General",
-          "reason": "A nomination in a long selection process; no concrete cross-border effect yet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "New Yemen fighting displaces 290,000",
-          "reason": "Internal displacement with no stated cross-border channel in the headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Standoff at Poland's constitutional court",
-          "reason": "A domestic institutional dispute; the headlines name no EU funds or other cross-border channel.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "UN closes political mission in Somalia",
-          "reason": "A scheduled mission wind-down with no clear effect on other countries.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "UN nature summit reaches agreements",
-          "reason": "Environmental deal with unresolved funding and no concrete state action or flows.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Ethiopian PM puts ministers through military training",
-          "reason": "Symbolic act that decides nothing and names no cross-border effect.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Starmer says UK must get closer to Europe",
-          "reason": "A statement of intent with no decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "G20 family photo cancelled over Russian minister",
-          "reason": "Symbolic protest at a meeting that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Novaya Gazeta shut under pressure",
-          "reason": "Domestic media crackdown with no cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Post Office suspends sending goods to the EU",
-          "reason": "A single company's service suspension with no stated state decision.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Tech and AI stock selloff",
-          "reason": "Company and market news with no state or policy angle.",
-          "headlines": 7,
-          "publishers": 3
-        }
-      ],
-      "existing": [
-        {
-          "title": "Qatari mediators in Tehran seek to restart US-Iran talks",
-          "reason": "Diplomacy over the US-Israel war on Iran is part of the Gulf energy shock event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Italy-wide protests over living costs and military spending",
-          "reason": "Continuation of the Italian cost-of-living unrest already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "North Korean hackers suspected in Binance hack",
-          "reason": "Analysis of the hack already covered by the map event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "UK defence spending row",
-          "reason": "Part of the UK budget and defence spending event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Euro zone Q3 growth slows to 0.4% as France contracts",
-          "reason": "Eurozone growth data feeds the ECB and French stress event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "Trump berates reporter on campaign trail",
-          "reason": "Midterm campaign coverage.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
