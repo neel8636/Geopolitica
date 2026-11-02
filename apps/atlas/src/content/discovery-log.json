@@ -2824,6 +2824,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-02T16:14:28.979Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "last screen 120 min ago"
+    },
+    {
       "at": "2026-11-02T15:14:11.694Z",
       "screened": 0,
       "accepted": [],
@@ -4431,118 +4440,6 @@
       "existing": [],
       "retired": [],
       "skipped": "only 3 new uncovered headlines"
-    },
-    {
-      "at": "2026-11-01T00:12:07.008Z",
-      "screened": 119,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Trump's defamation suit against Murdoch and WSJ dismissed",
-          "reason": "A domestic court case with no cross-border effect.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Oleshky evacuees reunited with families after truce crossing",
-          "reason": "The headlines report a small local evacuation and human-interest reunions, with no clear decision or wider ripple.",
-          "headlines": 5,
-          "publishers": 4
-        },
-        {
-          "title": "Clashes between protesters and police in Albania",
-          "reason": "The headline gives no sign of a nationwide movement contesting state power or of any effect abroad.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Stand-off over control of Poland's top court",
-          "reason": "The headlines describe a domestic institutional dispute with no stated EU or cross-border channel.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Turkey nominates Sinirlioglu for UN Secretary-General",
-          "reason": "A candidate nomination is routine and decides nothing yet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "G20 family photo cancelled over Russian minister",
-          "reason": "This is a symbolic protest with no decision and no money, goods or people moving.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Post Office suspends sending goods to the EU",
-          "reason": "The headline gives only a company service suspension, with no stated state or policy cause.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Global nature talks reach deal, money unresolved",
-          "reason": "The deal is vague and the key financing question is unresolved, so no clear cross-border channel is reported.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Arrests at Palestine Action ban protest outside US embassy in London",
-          "reason": "A local protest and policing story with no cross-border effect.",
-          "headlines": 3,
-          "publishers": 2
-        },
-        {
-          "title": "UN brief: 300,000 displaced in Lebanon",
-          "reason": "A one-line item in a news roundup with no development or cross-border channel specified.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Qatari mediators in Tehran to restart US-Iran talks",
-          "reason": "This is a diplomatic development within the US-Israel war on Iran already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Binance hack and North Korean suspects",
-          "reason": "These headlines cover the Binance hack and the North Korea attribution, which is already mapped.",
-          "headlines": 3,
-          "publishers": 3,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "Euro zone Q3 growth slows to 0.4% as France contracts",
-          "reason": "The slowdown and the French contraction feed the ECB dilemma and French stress events already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "Streeting defends UK defence spending plans",
-          "reason": "This is part of the UK defence-spending debate already covered by the map's UK budget event.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Trump on the midterm campaign trail",
-          "reason": "This is campaign coverage of the US midterms already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }

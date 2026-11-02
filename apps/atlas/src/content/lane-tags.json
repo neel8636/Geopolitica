@@ -261,49 +261,75 @@
     ]
   },
   "italy-cost-of-living-riots": {
-    "at": "2026-11-01T19:48:34.261Z",
+    "at": "2026-11-02T16:14:28.979Z",
     "by": "pipeline",
-    "hash": "1uyjcqy",
+    "hash": "67movw",
     "tags": [
       {
         "point": "GENOA",
         "effect": "delay",
-        "likelihood": 0.55,
+        "likelihood": 0.4,
         "delayDays": [
           1,
-          4
+          3
         ],
         "costPct": [
-          2,
-          6
-        ],
-        "why": "NBC reported on 2026-10-30 that Italy is facing widespread strikes and port blockades as protests spread, and Genoa is Italy's main container gateway and a frequent site of dockworker blockades, so gate and berth delays are likely over the next weeks.",
-        "action": "Ask your forwarder for current gate and truck-pickup status at Genoa, add 4 days of buffer stock for Genoa-bound cargo, and get a quote for rerouting via another Mediterranean or North European port in case the blockades",
-        "sources": [
-          1,
           0,
+          5
+        ],
+        "why": "Italy's second general strike in two weeks (reported 1 Nov 2026) paralysed transport as protests spread nationwide, so further strike days could hit Genoa's gates and dockwork.",
+        "action": "Ask your forwarder to confirm strike-day gate and terminal schedules at Genoa, pull container pickups and deliveries forward away from announced strike dates, and hold about 3 days of buffer stock for Genoa-routed cargo.",
+        "sources": [
+          0,
+          2,
+          1
+        ]
+      },
+      {
+        "point": "MXP",
+        "effect": "delay",
+        "likelihood": 0.3,
+        "delayDays": [
+          1,
           2
+        ],
+        "costPct": [
+          0,
+          3
+        ],
+        "why": "The nationwide general strikes of late Oct and 1 Nov 2026 paralysed Italian transport, and a further strike day could disrupt cargo handling and flights at Milan Malpensa, near the centre of the unrest.",
+        "action": "Check the Italian strike calendar with your airline or handler and book urgent Milan air freight on days without a strike, or truck it from another hub such as Frankfurt.",
+        "sources": [
+          0,
+          2,
+          3
         ]
       }
     ],
     "headlines": [
       {
-        "title": "Italy Faces Nationwide Protests as Meloni Deploys Troops",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYlZnMlRqS3drSHNEYjhKNG1mbE1tYXczcmRIM3JTd1VuZzJ1TWhmZ1lmRjdaeHVVVXZqSkdvblpDQ1REQ01vN0FQWHZMQzgtOHZfMFExYzZKbU5oOEVPekUyLU5saFFMbDBpdExTMFZkVFdsaWE1ZVY3cw?oc=5",
-        "publisher": "Cirebon Times",
-        "published": "2026-10-31T00:10:48.000Z"
+        "title": "Italy's second general strike in two weeks paralyzes transport as protests spread nationwide",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2E3NUxoSjhHNlVXa0VWaVExc1g1WG9xMFFzUk1TS1pOYzNobEp5STd2YzdUQzVpN2QtMC1zWVhZaXF3NW1fX25uNkdhTU9fZ3dJR2lPZmQ2eGtINGFVcnh1U1lhRGFPY3hwVFAzcHRLaTQ3Y185Rld5eU1FX2FicldSaUYxOUhWaktrUWcwcw?oc=5",
+        "publisher": "Latin Times",
+        "published": "2026-11-01T20:44:09.000Z"
       },
       {
-        "title": "Italy’s PM deploys troops as nation faces widespread strikes and port blockades",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktMNk1PczNlWkRoaXpNVG9BMHlCNlhGbml2VXZCRVppQWxMeUhyUWJWbFp3TGpoUS1wYl9qZnhfRFVWZF93QVZWZG1KRFlXTEpCQ0NEWjlJSlZPTXZLRGlvRVFaRWN0ZkVrejZ1eTE4OVhfUW03RWc5YU9ZZTdDWFVSZnNTaVRSVnVCMEhHMURUTVliVHFSbU96RHQxVzE0SExjeGlDdWQyWlRIQXFLRnJ5RktTdw?oc=5",
-        "publisher": "NBC News",
-        "published": "2026-10-30T23:49:04.000Z"
+        "title": "General Strike in Italy: Protests Continue",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnlreGc0SkN4bGRLN2xHYkczcjhRejBTbTFwRS1PNlR3RGNheElXZkZlSFVSaTN3SS1HR0VTUDI4UUg3MzF6TEVYbHoyazBKVUtUQ0VONGFKVTBoYmN5a3pJZHMxZ1h1NXc3SVlmaHdTY0cxVnE2R25kcHVrNUkxWm1CRy00cm5pYVFEMUJMdEd0NVBi?oc=5",
+        "publisher": "italien.news",
+        "published": "2026-11-01T15:59:28.000Z"
       },
       {
-        "title": "General strike and protests across Italy: clashes in Rome, rallies in Turin and row over strike restrictions",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkF6WFBZSmF1S3dEanVfc3ZPcGpkSWluZndxd21hQVY1czhDaGZJNDNZNEp1clhQcV9NTmc4QWMxd1VVSmNpRXdOQmFRUldBM18xbjE4dmNIQ2w3aGNfSE5wSjE5WDExTGNiNy1WaUR4VEwxdmhQUEg1cEw3Mm1Sa0RFeE56RW95RFRrYkZsTEtnT096eWE4cUh3cTdlcVpDTnpDWW14N0J1UnctdnVlQ3ZuZTdhSXBsU3k5U0dLbWtWMVdSWGtBM0pR?oc=5",
-        "publisher": "www.wltv.it",
-        "published": "2026-10-30T18:57:53.000Z"
+        "title": "Mass protests sweep Italy during nationwide strike",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWF5NXN3Z25WdEU0R0kwT0NBT180OHc4TklWcWxrSUVLTlRtZHpQWmplV1NnRkJfS28wbEVLdEwzMlA0UnNvOXBIWlpZN0xCcm9WLUNBZzZ2Um5UTkdQLXMtUUxocEIwZWZ1NGU1YW9qdnFWdFc0Zy1yTEUxWlhkdUxhbm1Tdi11enhoQ25Qenk3ZTdMekNv?oc=5",
+        "publisher": "Reuters",
+        "published": "2026-11-01T06:21:37.000Z"
+      },
+      {
+        "title": "Mass demonstrations across Italy bring disparate protest movements together",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNGtGdEZ6Q0ZES2ltd19GaGVNQmZKeV9RSU9aSm9QN3k2YzhtbUVOd0kxdXNhTmpwdmxWTEFDS0pZbGtuZ3lKR1RwWTdTNkVPLUNySTYwdTN3UTZ3UHFvUWVyRGE2UVZkZ3Z1QVJjc08xNUFkSHBFakw4YzdzenFPcGgxVV95RmlwNlhpakNINnd2RXlyUlhmQm9FVnE2aDc5aUk0dFhuakl5Y1U1b3J0YVlLMlpYSjFfQ0IzaHlXQWdORkEyNnNNUWM5T3lwbVVneGRuUEhCN3Rvam9uZ0hXODNCaw?oc=5",
+        "publisher": "Le Monde.fr",
+        "published": "2026-10-31T18:01:00.000Z"
       }
     ]
   },
@@ -479,9 +505,9 @@
     "headlines": []
   },
   "russia-record-budget-deficit-2026": {
-    "at": "2026-11-02T10:00:42.892Z",
+    "at": "2026-11-02T16:14:28.979Z",
     "by": "pipeline",
-    "hash": "qk7pl4",
+    "hash": "jutynt",
     "tags": [],
     "headlines": []
   },
@@ -521,9 +547,9 @@
     "headlines": []
   },
   "burnham-eu-free-movement-talks-2026": {
-    "at": "2026-11-02T10:00:42.892Z",
+    "at": "2026-11-02T16:14:28.979Z",
     "by": "pipeline",
-    "hash": "1b3cg04",
+    "hash": "11cz6qe",
     "tags": [],
     "headlines": []
   },
@@ -549,9 +575,9 @@
     "headlines": []
   },
   "portugal-housing-protests": {
-    "at": "2026-11-02T05:13:38.406Z",
+    "at": "2026-11-02T16:14:28.979Z",
     "by": "pipeline",
-    "hash": "obtwe",
+    "hash": "12jnn8r",
     "tags": [],
     "headlines": []
   },
