@@ -25,10 +25,6 @@
       "at": "2026-10-29T08:08:23.634Z",
       "verdict": "reject"
     },
-    "b4fc0a2c1d41": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "reject"
-    },
     "9813c6292ea1": {
       "at": "2026-10-29T14:08:45.165Z",
       "verdict": "reject"
@@ -65,10 +61,6 @@
       "at": "2026-10-30T03:09:28.814Z",
       "verdict": "reject"
     },
-    "237eff850322": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "existing"
-    },
     "811af2b79d22": {
       "at": "2026-10-30T00:09:22.325Z",
       "verdict": "reject"
@@ -93,21 +85,9 @@
       "at": "2026-10-29T14:08:45.165Z",
       "verdict": "existing"
     },
-    "cf4de280e000": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "existing"
-    },
-    "915297187dae": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "existing"
-    },
     "22c43f17fa5f": {
       "at": "2026-10-30T03:09:28.814Z",
       "verdict": "existing"
-    },
-    "43784e8e0b10": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "reject"
     },
     "942be38cca5e": {
       "at": "2026-10-29T08:08:23.634Z",
@@ -137,10 +117,6 @@
       "at": "2026-10-30T12:10:07.622Z",
       "verdict": "reject"
     },
-    "121e07341d57": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "existing"
-    },
     "f4d01aeebf8c": {
       "at": "2026-10-29T18:09:06.342Z",
       "verdict": "existing"
@@ -169,10 +145,6 @@
       "at": "2026-10-29T08:08:23.634Z",
       "verdict": "reject"
     },
-    "285941a7ebd9": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "existing"
-    },
     "43ef63e297d5": {
       "at": "2026-10-29T21:09:16.591Z",
       "verdict": "reject"
@@ -180,50 +152,6 @@
     "061ca5a0d8fb": {
       "at": "2026-10-30T03:09:28.814Z",
       "verdict": "reject"
-    },
-    "e68859a8b1cf": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "reject"
-    },
-    "4ec0322738de": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "reject"
-    },
-    "3f4c9a3f0a76": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "ea1da449fb4d": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "dbdc60b5eb7e": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "b04a1c4b9072": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "02d940cec20e": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "38118f432114": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "bd793da6f024": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "da76438ded9d": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
-    },
-    "b52bc99421d1": {
-      "at": "2026-10-29T05:08:08.599Z",
-      "verdict": "no story"
     },
     "87c536b43d0f": {
       "at": "2026-10-29T11:08:29.745Z",
@@ -2952,6 +2880,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-02T05:13:38.406Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "only 5 new uncovered headlines"
+    },
+    {
       "at": "2026-11-02T04:13:36.502Z",
       "screened": 102,
       "accepted": [],
@@ -4587,80 +4524,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-10-31T14:11:36.561Z",
-      "screened": 139,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 2 headlines.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "New Yemen fighting displaces 290,000",
-          "reason": "The headlines report humanitarian impact inside Yemen and name no cross-border channel or state decision elsewhere.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Poland constitutional court standoff",
-          "reason": "This is a domestic institutional dispute, and the headlines name no effect on another country.",
-          "headlines": 3,
-          "publishers": 3
-        },
-        {
-          "title": "UN closes Somalia political mission",
-          "reason": "The mission's closure is an administrative wind-down with no clear flow of money, goods or people, and no clear decision by another state.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Rival US and Russian Western Sahara resolutions fail at UN",
-          "reason": "Both resolutions failed, so the status quo holds and no cross-border channel is named.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Starmer says UK must get closer to Europe",
-          "reason": "This is a commentary-style statement that decides nothing.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Oleshky residents reach Belarus en route to Ukraine",
-          "reason": "Only hundreds of people are involved, so the scale is too small.",
-          "headlines": 1,
-          "publishers": 1
-        }
-      ],
-      "existing": [
-        {
-          "title": "Qatari mediators in Tehran to restart US-Iran talks",
-          "reason": "Mediation to restart US-Iran negotiations is a diplomatic step in the war on Iran and the Gulf energy shock already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "Italian protests over living costs and military spending",
-          "reason": "This is a continuation of the Italian cost-of-living unrest already covered.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "italy-cost-of-living-riots"
-        },
-        {
-          "title": "North Korean hackers suspected in Binance hack",
-          "reason": "This is analysis of the Binance hack event already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "binance-hack-north-korea-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
