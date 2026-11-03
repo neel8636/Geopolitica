@@ -2748,6 +2748,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-03T02:28:52.354Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "screen failed: Claude API 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to u"
+    },
+    {
       "at": "2026-11-03T02:14:57.067Z",
       "screened": 0,
       "accepted": [],
@@ -4252,15 +4261,6 @@
       ],
       "retired": [],
       "skipped": ""
-    },
-    {
-      "at": "2026-11-01T12:12:45.651Z",
-      "screened": 0,
-      "accepted": [],
-      "rejected": [],
-      "existing": [],
-      "retired": [],
-      "skipped": "last screen 120 min ago"
     }
   ]
 }
