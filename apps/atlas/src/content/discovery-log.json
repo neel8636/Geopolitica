@@ -2748,6 +2748,15 @@
   },
   "runs": [
     {
+      "at": "2026-11-03T01:15:02.996Z",
+      "screened": 0,
+      "accepted": [],
+      "rejected": [],
+      "existing": [],
+      "retired": [],
+      "skipped": "screen failed: Claude API 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to u"
+    },
+    {
       "at": "2026-11-03T00:15:01.879Z",
       "screened": 0,
       "accepted": [],
@@ -4252,90 +4261,6 @@
       "existing": [],
       "retired": [],
       "skipped": "last screen 60 min ago"
-    },
-    {
-      "at": "2026-11-01T10:12:28.701Z",
-      "screened": 106,
-      "accepted": [],
-      "rejected": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "reason": "Passed the test but not the evidence check: only 1 headline, only 1 outlet.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "UK open to slavery apology, rules out reparations",
-          "reason": "No dated decision and no clear cross-border money or policy effect; it is a statement on a historical apology.",
-          "headlines": 2,
-          "publishers": 2
-        },
-        {
-          "title": "Bangladesh forms garment wage board amid protests",
-          "reason": "The headline gives no sign of a national movement or of disruption to exports abroad; it reads as a routine wage-board step.",
-          "headlines": 1,
-          "publishers": 1
-        },
-        {
-          "title": "Sport, culture, opinion, local, market and other non-qualifying items",
-          "reason": "These are sport, culture, human-interest, opinion, local, company or market items, or routine news with no clear state-driven cross-border ripple.",
-          "headlines": 93,
-          "publishers": 11
-        }
-      ],
-      "existing": [
-        {
-          "title": "Trump 'in no hurry' on Iran as Tehran sees positive US letter",
-          "reason": "Signals on restarting US-Iran talks are part of the ongoing Iran war and Gulf energy shock event.",
-          "headlines": 2,
-          "publishers": 1,
-          "event": "gulf-war-energy-shock"
-        },
-        {
-          "title": "FBI blames North Korea for $6bn Binance theft",
-          "reason": "This is the same Binance hack already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "Ethiopian PM puts ministers through military training",
-          "reason": "It adds to the Ethiopia-Eritrea war fears already tracked.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ethiopia-eritrea-war-fears"
-        },
-        {
-          "title": "Euro zone Q3 growth slows to 0.4% as France contracts",
-          "reason": "Eurozone growth data feeds the ECB dilemma and French stress already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "ecb-inflation-and-rates"
-        },
-        {
-          "title": "Streeting defends UK defence spending plans",
-          "reason": "This is part of the UK defence spending event already mapped.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "uk-budget-defense-ukraine-2026"
-        },
-        {
-          "title": "Crypto reels from record hack",
-          "reason": "Market reaction to the Binance hack, which is already on the map.",
-          "headlines": 1,
-          "publishers": 1,
-          "event": "binance-hack-north-korea-2026"
-        },
-        {
-          "title": "US midterm campaign and election-official threats ruling",
-          "reason": "Both stories are part of the US midterm campaign event.",
-          "headlines": 2,
-          "publishers": 2,
-          "event": "us-midterms-2026"
-        }
-      ],
-      "retired": [],
-      "skipped": ""
     }
   ]
 }
