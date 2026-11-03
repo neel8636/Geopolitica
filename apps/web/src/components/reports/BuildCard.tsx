@@ -6,6 +6,7 @@ import { useAuth } from "@/components/auth/AuthProvider";
 import SignInGate from "@/components/auth/SignInGate";
 import FamIcon from "@/components/mapfirst/FamIcon";
 import GenerateReport from "@/components/reports/GenerateReport";
+import { AI_PAUSED } from "@/content/paused";
 
 /*
   The first thing on an event page: build your report. It says what the report will be built
@@ -43,7 +44,7 @@ export default function BuildCard({
       ))}
     </p>
   ) : null;
-  const body = signedIn ? (
+  const body = signedIn || AI_PAUSED ? (
     <GenerateReport eventId={eventId} existing={existing} api={api} aspects={aspects} compact />
   ) : (
     <>
@@ -95,7 +96,7 @@ export default function BuildCard({
         </p>
       ) : null}
       <div className="mt-3">
-        {signedIn ? (
+        {signedIn || AI_PAUSED ? (
           <GenerateReport eventId={eventId} existing={existing} api={api} aspects={aspects} compact />
         ) : (
           <>

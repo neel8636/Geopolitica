@@ -19,7 +19,9 @@ interface Props {
 */
 const STRENGTH = ["Hit first and hardest", "Hit next", "Felt later, and weaker", "Felt least"];
 
-export default function RippleMap({ centre, rings, compact = false }: Props) {
+export default function RippleMap({ centre, rings: given, compact = false }: Props) {
+  // a drafted report can carry a malformed ring; draw only the well-formed ones
+  const rings = given.filter((g) => Array.isArray(g.effects) && g.effects.length);
   const id = useId().replace(/:/g, "");
   const size = 600;
   const cx = size / 2;

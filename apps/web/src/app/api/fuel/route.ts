@@ -1,4 +1,5 @@
 import { NextRequest } from "next/server";
+import { AI_PAUSED, PAUSED_NOTE } from "@/content/paused";
 import { getEvent } from "@/content/events";
 import { NEWS, newsUrl, parseNews } from "@/content/news";
 import { FUEL_SYSTEM, finishFuel, fuelPrompt, type FuelHeadline, type FuelSet } from "@/content/fueling";
@@ -37,6 +38,7 @@ export async function GET(req: NextRequest) {
 export async function POST(req: NextRequest) {
   const h = cors(req);
   const key = process.env.ANTHROPIC_API_KEY;
+  if (AI_PAUSED) return Response.json({ ok: false, paused: true, error: PAUSED_NOTE }, { status: 503, headers: h });
   if (!key) return Response.json({ ok: false, error: "Not switched on for this server." }, { status: 503, headers: h });
   const owner = Boolean(process.env.REPORT_PASSCODE) && req.headers.get("x-passcode") === process.env.REPORT_PASSCODE;
   const reader = owner ? null : await verifyReader(req.headers.get("authorization"));

@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { NextRequest } from "next/server";
+import { AI_PAUSED, PAUSED_NOTE } from "@/content/paused";
 import { getEvent } from "@/content/events";
 import { getDossier, resetDossierCache } from "@/content/dossiers";
 import { DEFAULT_MODEL, REPORT_SIZES, extractJson, finishDraft, isReportSize, materialFor, systemPrompt, userPrompt, type ReportSize, type WireHeadline } from "@/content/drafting";
@@ -104,6 +105,7 @@ async function commitToRepo(id: string, json: string): Promise<boolean> {
 export async function POST(req: NextRequest) {
   const cors = corsHeaders(req);
   const key = process.env.ANTHROPIC_API_KEY;
+  if (AI_PAUSED) return Response.json({ ok: false, paused: true, error: PAUSED_NOTE }, { status: 503, headers: cors });
   if (!key) {
     return Response.json({ ok: false, error: "Report generation is not configured on this server (ANTHROPIC_API_KEY)." }, { status: 503, headers: cors });
   }

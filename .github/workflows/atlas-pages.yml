@@ -8,11 +8,14 @@ on:
   push:
     branches: [main]
     paths: ["apps/atlas/**", ".github/workflows/atlas-pages.yml"]
-  schedule:
+  # PAUSED (Nov 2026, Claude API credits ran out): no timed runs; pushes still publish.
+  # To resume: uncomment the schedule, set PAUSED to "false" below and in heartbeat.yml,
+  # and set AI_PAUSED to false in apps/atlas/src/content/paused.ts.
+  # schedule:
     # Every 20 minutes. GitHub runs scheduled workflows on a best-effort basis and drops many
     # of them on busy hours (hourly ran only 4 times in 15 hours), so three chances an hour
     # keep the site within the hour in practice. Runs never overlap (see concurrency).
-    - cron: "7,27,47 * * * *"
+    # - cron: "7,27,47 * * * *"
   workflow_dispatch:
     inputs:
       stale_days:
@@ -52,7 +55,9 @@ jobs:
       #    ANTHROPIC_FEDERATION_RULE_ID, ANTHROPIC_SERVICE_ACCOUNT_ID (+ ANTHROPIC_WORKSPACE_ID),
       #    set up in the Claude Console (Organization settings → Workload identity → Connect workload →
       #    GitHub Actions, subject repo:neel8636/Geopolitica:ref:refs/heads/main). No key is stored.
-      HAS_AUTH: ${{ secrets.ANTHROPIC_API_KEY != '' || vars.ANTHROPIC_FEDERATION_RULE_ID != '' }}
+      # PAUSED: no step calls Claude (headlines are still pulled and the site published). To resume,
+      # restore: HAS_AUTH: ${{ secrets.ANTHROPIC_API_KEY != '' || vars.ANTHROPIC_FEDERATION_RULE_ID != '' }}
+      HAS_AUTH: "false"
       HAS_HOOK: ${{ secrets.RENDER_DEPLOY_HOOK != '' }}
     defaults:
       run:

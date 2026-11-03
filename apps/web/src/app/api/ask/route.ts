@@ -1,4 +1,5 @@
 import { NextRequest } from "next/server";
+import { AI_PAUSED, PAUSED_NOTE } from "@/content/paused";
 import { getEvent, neighbours, LINK_WORDS } from "@/content/events";
 import { getDriver } from "@/content/drivers";
 import { getDossier } from "@/content/dossiers";
@@ -49,6 +50,7 @@ Answer the reader's question about the event in the material below.
 export async function POST(req: NextRequest) {
   const h = cors(req);
   const key = process.env.ANTHROPIC_API_KEY;
+  if (AI_PAUSED) return Response.json({ ok: false, paused: true, error: PAUSED_NOTE }, { status: 503, headers: h });
   if (!key) return Response.json({ ok: false, error: "Questions are not switched on for this server." }, { status: 503, headers: h });
 
   const owner = Boolean(process.env.REPORT_PASSCODE) && req.headers.get("x-passcode") === process.env.REPORT_PASSCODE;

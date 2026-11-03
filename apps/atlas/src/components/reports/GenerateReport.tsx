@@ -7,6 +7,7 @@ import { useAuth } from "@/components/auth/AuthProvider";
 import { REPORT_SIZES, type ReportSize } from "@/content/reportSizes";
 import { ASPECTS, type Aspect, type Family } from "@/content/fueling";
 import FamIcon from "@/components/mapfirst/FamIcon";
+import { AI_PAUSED, PAUSED_NOTE } from "@/content/paused";
 
 /*
   Generate (or regenerate) the layered report for an event from the page itself.
@@ -127,6 +128,12 @@ export default function GenerateReport({
     }
   }
 
+  if (AI_PAUSED)
+    return (
+      <p className="rounded-lg border border-line bg-paper-2 px-4 py-3 text-[15px] text-ink-2">
+        <b className="font-semibold text-ink">Paused for now.</b> {PAUSED_NOTE}
+      </p>
+    );
   if (phase === "checking") return null;
 
   if (phase === "unavailable") {
